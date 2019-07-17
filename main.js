@@ -210,7 +210,7 @@ dispatch.on("load.histograma", function() {
 
 
 dispatch.on("load.tablavuelos", function() {
-    let headers = ["Tipo","Aerolinea","Vuelo","ST","ET","AT","Demora (sobre +-15min)","Ruta","Remark"]
+    let headers = ["Tipo","Aerolinea","Vuelo","ST","ET","AT","Demora (sobre +-15min)","Ruta","Terminal","Remark"]
     let tabla = d3.select(".tablavuelos")
         .append("table")
         
@@ -240,7 +240,7 @@ dispatch.on("load.tablavuelos", function() {
             .append("tr")
             .merge(update)
             .selectAll("td")
-            .data(d => [d.tipo, d.aerolinea, d.vuelo, timeFormat(d.st),timeFormat(d.et),timeFormat(d.at),d.delta, d.ruta,d.remark])
+            .data(d => [d.tipo, d.aerolinea, d.vuelo, timeFormat(d.st),timeFormat(d.et),timeFormat(d.at),d.delta, d.ruta,d.term, d.remark])
         
         td.enter()
             .append("td")
