@@ -4,21 +4,6 @@ let test;
 
 let test1;
 
-// let xhr = new XMLHttpRequest();
-//                 let xhr2 = new XMLHttpRequest();
-    
-//                 xhr.open("get","https://api.github.com/repos/seastian/cco/contents/data.json");
-    
-//                 xhr.setRequestHeader("Authorization", "Basic " + btoa("seastian" + ":" + "sebau123"))
-    
-//                 xhr.onload = function() {
-//                     let sha = JSON.parse(xhr.responseText).sha;
-//                     send(sha);
-                    
-//                 };
-    
-//                 xhr.send();
-
 d3.json("https://api.github.com/repos/seastian/cco/contents/data.json").then(function(data){
     data = JSON.parse(atob(data.content));
     let timeParser = d3.timeParse("%d/%m/%Y %H:%M");
@@ -117,10 +102,8 @@ dispatch.on("load.histograma", function() {
         height = 300 - margin.top - margin.bottom;
 
     let svg = d3.select(".histograma")
-        .style("width", width + margin.left + margin.right + "px")
         .append("svg")
-            .attr("width",width + margin.left + margin.right)
-            .attr("height",height + margin.top + margin.bottom)
+            .attr("viewBox", `0 0 ${width + margin.left + margin.right} ${height + margin.top + margin.bottom}`)
         .append("g")
             .attr("transform",`translate(${margin.left},${margin.top})`)
 
@@ -309,10 +292,8 @@ dispatch.on("load.delays", function(){
     height = 300 - margin.top - margin.bottom;
 
     let svg = d3.select(".delays")
-        .style("width", width + margin.left + margin.right + 200+"px")
         .append("svg")
-            .attr("width","100%")
-            .attr("height",height + margin.top + margin.bottom)
+            .attr("viewBox", `0 0 ${width + margin.left + margin.right} ${height + margin.top + margin.bottom}`)
         .append("g")
             .attr("transform",`translate(${margin.left},${margin.top})`);
 

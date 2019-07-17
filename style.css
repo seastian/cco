@@ -8,6 +8,10 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+}
 
 .grafico-aerolineas {
     display: flex;
@@ -34,6 +38,9 @@ body {
     background-color: #EFECEA;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     border-radius: 5px; /* 5px rounded corners */
+    width: 90%;
+    max-width: 900px;
+    min-width: 300px;
 }
 
 /* On mouse-over, add a deeper shadow */
