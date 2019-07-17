@@ -4,7 +4,23 @@ let test;
 
 let test1;
 
-d3.json("data.json").then(function(data){
+// let xhr = new XMLHttpRequest();
+//                 let xhr2 = new XMLHttpRequest();
+    
+//                 xhr.open("get","https://api.github.com/repos/seastian/cco/contents/data.json");
+    
+//                 xhr.setRequestHeader("Authorization", "Basic " + btoa("seastian" + ":" + "sebau123"))
+    
+//                 xhr.onload = function() {
+//                     let sha = JSON.parse(xhr.responseText).sha;
+//                     send(sha);
+                    
+//                 };
+    
+//                 xhr.send();
+
+d3.json("https://api.github.com/repos/seastian/cco/contents/data.json").then(function(data){
+    data = JSON.parse(atob(data.content));
     let timeParser = d3.timeParse("%d/%m/%Y %H:%M");
     data.lastUpdate = timeParser(data.lastUpdate);
     data.vuelos.forEach((d) => {
@@ -293,9 +309,9 @@ dispatch.on("load.delays", function(){
     height = 300 - margin.top - margin.bottom;
 
     let svg = d3.select(".delays")
-        .style("width", width + margin.left + margin.right + "px")
+        .style("width", width + margin.left + margin.right + 200+"px")
         .append("svg")
-            .attr("width",width + margin.left + margin.right)
+            .attr("width","100%")
             .attr("height",height + margin.top + margin.bottom)
         .append("g")
             .attr("transform",`translate(${margin.left},${margin.top})`);
@@ -310,7 +326,30 @@ dispatch.on("load.delays", function(){
     let timeInterval = 15;
 
     dispatch.on("update.delays", function(data){
-        let nest = d3.nest().key(d => Math.floor(d.delta/timeInterval) * timeInterval).entries(data.vuelos.filter(d => d.delta));
+
+        ;(function () {
+            let dimension = "tableFilter";
+            let timeout;
+            let text;
+            d3.select(myInput).on("keyup", function() {
+                text = this.value;
+                clearTimeout(timeout);
+                timeout = setTimeout(() => {
+                    if(text.length) {
+                        data.filters[dimension] = function(flight) {
+                            return JSON.stringify(flight).toUpperCase().indexOf(text.toUpperCase()) !== -1 ? true : false; 
+                        }
+                    } else {
+                        delete data.filters[dimension];
+                    }
+                    dispatch.call("filter",null,test)
+                },300)
+                
+            })
+        })();
+
+
+        let nest = d3.nest().key(d => Math.floor(d.delta/timeInterval) * timeInterval).entries(data.vuelos);
         let extents = d3.extent(nest, d => Number(d.key));
         extents[0] -= timeInterval; // agrando el dominio
         extents[1] += timeInterval;
@@ -362,5 +401,7 @@ dispatch.on("load.delays", function(){
     });
 
 })
+
+
 
 dispatch.call("load");
