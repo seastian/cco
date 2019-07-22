@@ -9,48 +9,36 @@ body {
 }
 
 .grid {
-    display: flex;
-    flex-wrap: wrap;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-auto-rows: minmax(300px,auto);
+    align-items: center;
+    margin: 0 auto;
+    gap: 1vw;
+    padding: 1vw 1vw;
 }
 
-.grafico-aerolineas {
-    display: flex;
-    flex-wrap: wrap;
+.histograma {
+    grid-column: span 2;
 }
 
-.grafico-aerolineas div {
-    padding: 1em;
-    background-color: steelblue;
-    margin: 2px;
-    cursor: pointer;
+.delays {
+    grid-column: span 2;
 }
 
 .not-selected {
-    opacity: 0.5;
-}
-
-.grafico-aerolineas div:hover {
-    background-color: blue;
+    opacity: 0.3;
 }
 
 .card {
-    margin: 10px auto;
     background-color: #EFECEA;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-    border-radius: 5px; /* 5px rounded corners */
-    width: 90%;
-    max-width: 900px;
-    min-width: 300px;
+    border-radius: 5px;
 }
 
-/* On mouse-over, add a deeper shadow */
 .card:hover {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
   }
-
-.reset-btn {
-    cursor: pointer;
-}
 
 /* Add some padding inside the card container */
 .container {
@@ -58,18 +46,9 @@ body {
     text-align: center;
     background-color: #616161;
     border-radius: 5px 5px 0 0; /* 5px rounded corners */
-  }
+}
 
-.tablavuelos table {
-    margin: 0 auto;
-    min-width: 80%;
-    border-radius: 5px 5px 0 0;
-    border-collapse: collapse;
-}
-.tablavuelos td {
-    text-align: center;
-    width: 100px;
-}
+
 
 .tablavuelos tr:nth-child(even) {
     background-color: grey;
@@ -90,17 +69,6 @@ header {
     background-color: grey;
 }
 
-.fas.fa-plane-departure {
-    font-size: 1.5em;
-    color: yellow;
-}
-
-.fas.fa-plane-arrival {
-    font-size: 1.5em;
-    color: blue;
-}
-
-
 #myInput {
     background-image: url('/css/searchicon.png'); /* Add a search icon to input */
     background-position: 10px 12px; /* Position the search icon */
@@ -112,7 +80,48 @@ header {
     margin-bottom: 12px; /* Add some space below the input */
   }
 
-  .fas.fa-search {
-      position: relative;
-      left: 40px;
-  }
+
+/* Style Tabla vuelos */
+.tablavuelos table {
+    margin: 0 auto;
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.arribo {
+    fill: #770076;
+    color: #770076;
+}
+
+.partida {
+    fill: yellow;
+    color: yellow;
+}
+
+.card {
+    text-align: center;
+}
+
+.posiciones {
+    grid-row: span 2;
+    grid-column: span 2;
+}
+
+.posiciones path:hover {
+    fill-opacity: 1;
+    fill: blue;
+    stroke-width: 3px;
+}
+
+.aerolinea {
+    grid-column: span 2;
+}
+
+.ruta circle:hover, .aerolinea rect:hover {
+    fill:blue;
+}
+
+.ruta circle, .aerolinea rect {
+    cursor: pointer;
+}

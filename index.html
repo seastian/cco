@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>CCO - Dashboard</title>
-    <!-- <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"> -->
     <link rel="stylesheet" href="style.css">
     <link href="fa/css/fontawesome.css" rel="stylesheet">
     <link href="fa/css/solid.css" rel="stylesheet">
@@ -16,16 +15,14 @@
     <header><nav><img src="CCOCROP.png" alt=""><span class="lastupdate"></span></nav></header>
     
     <div class="grid">
-        <div class="header"></div>
-        <div class="aerolineas">
-            <h2>Aerolineas</h2><span class="reset-btn">reset</span>
-            <div class="grafico-aerolineas"></div>
-        </div>
+        <div class="card tipo">Arribos/Partidas</div>
+        <div class="card ruta">Rutas</div>
+        <div class="card aerolinea">Aerolineas</div>
         <div class="histograma card">
                 <div class="container">
-                        <h4>Vuelos por hora <i class="fas fa-plane-departure"></i>
+                        <h4>Vuelos por hora <i class="fas fa-plane-departure arribo"></i>
                             <span> </span>
-                            <i class="fas fa-plane-arrival"></i>
+                            <i class="fas fa-plane-arrival partida"></i>
                         </h4>
                 </div>
         </div>
@@ -36,11 +33,11 @@
             </div>
             
         </div>
-        <div class="tablavuelos">
-            <i class="fas fa-search"></i>
-            <input type="text" id="myInput" placeholder="Search for names..">
-        </div>
-
+        <div class="card posiciones">Posiciones</div>
+    </div>
+    <div class="tablavuelos">
+        <i class="fas fa-search"></i>
+        <input type="text" id="myInput" placeholder="Search for names..">
     </div>
 </body>
 </html>
