@@ -3,27 +3,37 @@
 }
 
 body {
-    background-color: rgba(0,0,0,0.1);
+    background-color: rgba(0,0,0,0.3);
     margin: 0;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Verdana, Tahoma, sans-serif;
 }
 
 .grid {
     display: grid;
-    grid-template-columns: repeat(4,1fr);
-    grid-auto-rows: minmax(300px,auto);
-    align-items: center;
-    margin: 0 auto;
+    grid-template-columns: 3fr 3fr 1.7fr;
+    grid-template-areas: "histograma delays sidebar"
+                        "tabla tabla sidebar";
     gap: 1vw;
     padding: 1vw 1vw;
 }
 
 .histograma {
-    grid-column: span 2;
+    grid-area: histograma;
 }
 
 .delays {
-    grid-column: span 2;
+    grid-area: delays;
+}
+
+.tablavuelos {
+    grid-area: tabla;
+}
+
+.sidebar {
+    grid-area: sidebar;
+    display: grid;
+    gap: 1vw;
+    align-content: start;
 }
 
 .not-selected {
@@ -31,13 +41,15 @@ body {
 }
 
 .card {
-    background-color: #EFECEA;
+    background-color: rgba(235, 227, 227, 0.8);
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     border-radius: 5px;
+    border: solid white 1px;
 }
 
 .card:hover {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    border: solid white 1px;
   }
 
 /* Add some padding inside the card container */
@@ -65,12 +77,14 @@ body {
     font-size: 1.1rem;
 }
 
-header {
+header nav{
     background-color: grey;
+    align-content: center;
+    justify-content: center;
+    height: 3em;
 }
 
 #myInput {
-    background-image: url('/css/searchicon.png'); /* Add a search icon to input */
     background-position: 10px 12px; /* Position the search icon */
     background-repeat: no-repeat; /* Do not repeat the icon image */
     width: 50%; /* Full-width */
@@ -103,25 +117,49 @@ header {
     text-align: center;
 }
 
-.posiciones {
-    grid-row: span 2;
-    grid-column: span 2;
-}
-
 .posiciones path:hover {
     fill-opacity: 1;
     fill: blue;
-    stroke-width: 3px;
+    stroke: blue;
 }
 
-.aerolinea {
-    grid-column: span 2;
-}
-
-.ruta circle:hover, .aerolinea rect:hover {
+.ruta circle:hover, .aerolinea rect:hover, .terminal circle:hover {
     fill:blue;
 }
 
-.ruta circle, .aerolinea rect {
+.ruta circle, .aerolinea rect, .terminal circle {
     cursor: pointer;
+}
+
+header img {
+    height: 90%
+}
+
+.ruta text {
+    pointer-events: none;
+}
+
+.tooltip {
+    position: absolute;
+    pointer-events: none;
+    background-color: rgba(0,0,0,0.9);
+    color: white;
+    display: none;
+    padding: 0.5em;
+    width: max-content;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, .3);
+    z-index: 2;
+}
+
+nav span {
+    vertical-align: middle;
+    margin-left: 10px;
+}
+
+.zoom {
+    transform: scale(2);
+    z-index: 1;
+    transform-origin: top right;
+    background-color: rgb(255,255,255);
 }
