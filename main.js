@@ -7,8 +7,10 @@ let test2;
     let data = {};
     data.filters = {};
     function load() {
-        d3.json("https://api.github.com/repos/seastian/cco/contents/data.json").then(function(rawData) {
-        rawData = JSON.parse(atob(rawData.content));
+        let url = "data.json";
+        //let url = "https://api.github.com/repos/seastian/cco/contents/data.json";
+        d3.json(url).then(function(rawData) {
+        //rawData = JSON.parse(atob(rawData.content));
         data.vuelos = rawData.vuelos;
         let timeParser = d3.timeParse("%d/%m/%Y %H:%M");
         data.lastUpdate = timeParser(rawData.lastUpdate);
@@ -72,7 +74,15 @@ dispatch.on("update.lastupdate", function(data) {
         height = 300 - margin.top - margin.bottom;
 
     let dimension = "tipo";
-
+    d3.select(".tipo")
+        .append("button")
+        .attr("type","button")
+        .text("max")
+        .on("click", function() {
+            let parent = d3.select(this.parentElement);
+            let flag = parent.classed("zoom");
+            parent.classed("zoom",!flag);
+        })
     let svg = d3.select(".tipo")
         .append("svg")
         .attr("viewBox",`0 0 ${width + margin.left + margin.right} ${height + margin.top + margin.bottom}`)
@@ -119,57 +129,21 @@ dispatch.on("update.lastupdate", function(data) {
     });
 })();
 
-// // Grafico seleccionar Aerolinea
-// ;(function () {
-//     let dimension = "aerolineas";
-//     let container = d3.select(".grafico-aerolineas");
-
-//     dispatch.on("update.aerolineas", function(data) {
-//         d3.select(".aerolineas .reset-btn")
-//         .on("click", function() {
-//             delete data.filters[dimension]
-//             dispatch.call("filter")
-//         })
-//         dispatch.on("filter.aerolineas", function() {
-//             let filteredData = data.dimFilter(dimension);
-//             let nest = d3.nest().key(d => d.aerolinea).sortKeys(d3.ascending).entries(filteredData);
-    
-//             let divs = container.selectAll("div")
-//                 .data(nest, d => d.key)
-    
-//             divs.enter()
-//                 .append("div")
-//                 .merge(divs)
-//                 .classed("not-selected", d => {
-//                     if(dimension in data.filters) {
-//                         return !data.filters[dimension]({aerolinea: d.key});
-//                     } else {
-//                         return false;
-//                     }
-//                 })
-//                 .text(d => d.key)
-//                 .on("click", function(d) {
-//                     data.filters[dimension] = (vuelo) => vuelo.aerolinea === d.key
-//                     dispatch.call("filter")
-//                 })
-    
-//             divs.exit()
-//                 .transition()
-//                 .duration(2000)
-//                 .style("opacity",0)
-//                 .remove();
-//         })
-// });
-// })();
-
 // Grafico Aerolineas
 ;(function() {
-    let margin = {top: 10, bottom: 10, right: 10, left: 10},
+    let margin = {top: 5, bottom: 5, right: 5, left: 5},
     width = 300 - margin.left - margin.right,
     height = 150 - margin.top - margin.bottom;
 
     let dimension = "aerolinea";
-
+    d3.select(".aerolinea")
+        .append("i")
+        .attr("class","fas fa-window-maximize")
+        .on("click", function() {
+            let parent = d3.select(this.parentElement);
+            let flag = parent.classed("zoom");
+            parent.classed("zoom",!flag);
+        })
     let svg = d3.select(".aerolinea").append("svg")
         .attr("viewBox",`0 0 ${width + margin.left + margin.right} ${height + margin.top + margin.bottom}`)
         .append("g")
@@ -182,11 +156,14 @@ dispatch.on("update.lastupdate", function(data) {
             .padding(1)
             .round(true)
 
+    let tooltip = d3.select("body").append("div")
+            .classed("tooltip",true)
+
     dispatch.on("update.aerolinea", function(data) {
         dispatch.on("filter.aerolinea", function() {
             let filteredData = data.dimFilter(dimension);
             let root = treemapLayout(d3.hierarchy({children: d3.nest().key(d => d.aerolinea).rollup(d => d.length).entries(filteredData)})
-                .sum(d => 1)
+                .sum(d => d.value)
                 .sort((a, b) => d3.ascending(a.data.key,b.data.key)));
 
 
@@ -197,6 +174,20 @@ dispatch.on("update.lastupdate", function(data) {
                 .append("g");
 
             g.append("rect")
+                .on("mouseover", function(d) {
+                    let text = d.data.key + ": " + d.data.value
+                    tooltip.text(text)
+                        .style("display","block")
+                        .style("left",d3.event.pageX + "px")
+                        .style("top",d3.event.pageY + "px")
+                })
+                .on("mouseleave", function(d) {
+                    tooltip.style("display", null)
+                })
+                .on("mousemove", function(){
+                    tooltip.style("left",d3.event.pageX + 10 + "px")
+                        .style("top",d3.event.pageY + 30 + "px")
+                })
                 .merge(u.select("rect"))
                 .on("click", function(d) {
                     data.filters[dimension] = (vuelo) => vuelo.aerolinea === d.data.key;
@@ -214,7 +205,7 @@ dispatch.on("update.lastupdate", function(data) {
                 .attr("y", d => d.y0)
                 .text(d => d.data.key)
                 .attr("dy","0.9em")
-                .attr("font-size", "0.4em")
+                .attr("font-size", "0.6em")
 
             u.exit().remove();
 
@@ -244,12 +235,22 @@ dispatch.on("update.lastupdate", function(data) {
         .attr("viewBox",`0 0 ${width + margin.left + margin.right} ${height + margin.top + margin.bottom}`)
         .append("g")
         .attr("transform",`translate(${margin.left},${margin.top})`);
-
+   
     let pack = d3.pack()
         .size([width, height])
         .padding(3);
 
+    d3.select(".ruta")
+        .style("position","relative")
+    let tooltip = d3.select(".ruta").append("div")
+        .classed("tooltip",true)
+
     dispatch.on("update.ruta", function(data) {
+        d3.select(".ruta svg").on("click", function() {
+            console.log("clicked svg")
+            delete data.filters[dimension];
+            dispatch.call("filter")
+        });
         dispatch.on("filter.ruta", function() {
             let filteredData = data.dimFilter(dimension);
             let nest = d3.nest().key(d => d.ruta).rollup(d => d.length).entries(filteredData);
@@ -262,14 +263,34 @@ dispatch.on("update.lastupdate", function(data) {
                 .append("g")
                 .classed("data", true)
                 .attr("transform", d => `translate(${d.x},${d.y})`);
+         
 
             gdata.append("circle")
                 .attr("r", d => d.r)
                 .attr("fill","steelblue")
                 .on("click", function(d) {
                     data.filters[dimension] = (vuelo) => vuelo.ruta === d.data.key;
+                    d3.event.stopPropagation();
+                    console.log("clicked circle")
                     dispatch.call("filter");
                 })
+                .on("mouseover", function(d) {
+                    let text = d.data.key + ": " + d.data.value
+                    tooltip.text(text)
+                        .style("display","block")
+                        .style("left",d3.clientPoint(d3.select(".ruta").node(),d3.event)[0] + "px")
+                        .style("top",d3.clientPoint(d3.select(".ruta").node(),d3.event)[1] + "px")
+                })
+                .on("mouseleave", function(d) {
+                    tooltip.style("display", null)
+
+
+                })
+                .on("mousemove", function(){
+                    tooltip.style("left",d3.clientPoint(d3.select(".ruta").node(),d3.event)[0]+ 15 +"px")
+                        .style("top",d3.clientPoint(d3.select(".ruta").node(),d3.event)[1] - 10 + "px")
+                })
+                
                 
                 
 
@@ -302,13 +323,83 @@ dispatch.on("update.lastupdate", function(data) {
     });
 })();
 
+//Grafico Terminal
+;(function(){
+    let margin = {top: 2, bottom: 2, right: 2, left: 2},
+        width = 100 - margin.left - margin.right,
+        height = 100 - margin.top - margin.bottom;
+
+    let dimension = "terminal";
+
+    let svg = d3.select(".terminal").append("svg")
+        .attr("viewBox",`0 0 ${width + margin.left + margin.right} ${height + margin.top + margin.bottom}`)
+        .append("g")
+        .attr("transform",`translate(${margin.left},${margin.top})`);
+
+    let pack = d3.pack()
+        .size([width, height])
+        .padding(3);
+
+    dispatch.on("update.terminal", function(data) {
+        dispatch.on("filter.terminal", function() {
+            let filteredData = data.dimFilter(dimension);
+            let nest = d3.nest().key(d => d.term).rollup(d => d.length).entries(filteredData);
+            let root = pack(d3.hierarchy({values: nest}, d => d.values).sum(d => d.value));
+
+            let update = svg.selectAll(".data")
+                .data(root.leaves(), d => d.data.key);
+
+            let gdata = update.enter()
+                .append("g")
+                .classed("data", true)
+                .attr("transform", d => `translate(${d.x},${d.y})`);
+
+            gdata.append("circle")
+                .attr("r", d => d.r)
+                .attr("fill","steelblue")
+                .on("click", function(d) {
+                    data.filters[dimension] = (vuelo) => vuelo.term === d.data.key;
+                    dispatch.call("filter");
+                })
+                
+                
+
+            
+            gdata.append("text")
+                .text(d => d.data.key)
+                .attr("text-anchor","middle")
+                .attr("font-size","0.2em")
+                .attr("dy","0.32em");
+
+            update
+                .transition()
+                .attr("transform", d => `translate(${d.x},${d.y})`);
+            
+            update.select("circle")
+                .transition()
+                .attr("r", d => d.r)
+                .attr("fill","steelblue");
+
+            update.exit().remove();
+
+            svg.selectAll("g.data").classed("not-selected", function(d) {
+                if(dimension in data.filters) {
+                    return !data.filters[dimension]({term: d.data.key})
+                } else {
+                    return false;
+                }
+            })
+        });
+    });
+})();
+
 // Grafico vuelos por hora
 ;(function() {
     let dimension = "st";
 
     let margin = {top: 20, bottom: 70, right: 20, left: 32},
         width = 700 - margin.left - margin.right,
-        height = 300 - margin.top - margin.bottom;
+        height = 500 - margin.top - margin.bottom;
 
     let svg = d3.select(".histograma")
         .append("svg")
@@ -416,15 +507,21 @@ dispatch.on("update.lastupdate", function(data) {
 ;(function() {
     let columnas = [
         {key: "tipo", name: "Tipo"},
-        {key: "aerolinea", name: "Aerolinea"},
+        {key: "aerolinea", name: "Aero"},
         {key: "vuelo", name: "Vuelo"},
-        {key: "st", name: "ST"},
-        {key: "et", name: "ET"},
-        {key: "at", name: "AT"},
-        {key: "delta", name: "Demora"},
         {key: "ruta", name: "Ruta"},
-        {key: "term", name: "Terminal"},
+        {key: "interDom", name:"Inter/Dom"},
+        {key: "st", name: "ST", parse: d3.timeFormat("%d/%m %H:%M")},
+        {key: "et", name: "ET", parse: d3.timeFormat("%H:%M")},
+        {key: "at", name: "AT", parse: d3.timeFormat("%H:%M")},
+        {key: "delta", name: "Demora"},
         {key: "remark", name: "Remark"},
+        {key: "posicion", name: "Posicion"},
+        {key: "cinta", name: "Cinta"},
+        {key: "chkFrom", name: "chkFrom", parse: (d) => d.replace(/^0+/, '')},
+        {key: "chkTo", name: "chkTo", parse: (d) => d.replace(/^0+/, '')},
+        {key: "pax", name:"Pax"},
+        {key: "term", name: "Term."},
     ];
     let flag = true;
 
@@ -439,9 +536,8 @@ dispatch.on("update.lastupdate", function(data) {
         .append("th")
         .text(d => d.name)
         .append("i")
-        .attr("class", "fas fa-arrows-alt-v")
+        .attr("class", "fas fa-sort")
         .style("padding-left","0.5em")
-        .style("font-size","0.7em")
         .on("click",function(d) {
             let sortMethod = flag ? d3.ascending : d3.descending;
             flag = !flag;
@@ -450,10 +546,7 @@ dispatch.on("update.lastupdate", function(data) {
 
     let tbody = tabla.append("tbody")
         .attr("class","body-vuelos");
-    let timeFormat = d => {
-        if (d === null) return "";
-        return d3.timeFormat("%d/%m %H:%M %p")(d)
-    }
+
     dispatch.on("update.tablavuelos", function(data){
         ;(function () {
             let dimension = "tableFilter";
@@ -477,20 +570,20 @@ dispatch.on("update.lastupdate", function(data) {
         })();
         dispatch.on("filter.tablavuelos", function() {
             let filteredData = data.dimFilter();   
-            let update = tbody.selectAll("tr")
+            tbody.selectAll("tr")
                 .data(filteredData)
-    
-            let td =    update.enter()
-                .append("tr")
-                .merge(update)
+                .join("tr")
                 .selectAll("td")
-                .data(d => [d.tipo, d.aerolinea, d.vuelo, timeFormat(d.st),timeFormat(d.et),timeFormat(d.at),d.delta, d.ruta,d.term, d.remark])
-            
-            td.enter()
-                .append("td")
-                .merge(td)
-                .text(d => d)
-            update.exit().remove()
+                .data(columnas)
+                .join("td")
+                .text(function(d) {
+                    let rowData = d3.select(this.parentElement).datum();
+                    if(d.key in rowData && rowData[d.key]) { // Comparador Lazy
+                        return "parse" in d ? d.parse(rowData[d.key]) : rowData[d.key];
+                    } else {
+                        return "";
+                    }
+                 })
         });
     })
 })();
@@ -572,7 +665,14 @@ dispatch.on("update.lastupdate", function(data) {
     let margin = {top: 10, bottom: 10, right: 10, left: 10},
         width = 300 - margin.left - margin.right,
         height = 300 - margin.top - margin.bottom;
-
+    d3.select(".posiciones")
+        .append("i")
+        .attr("class","fas fa-window-maximize")
+        .on("click", function() {
+            let parent = d3.select(this.parentElement);
+            let flag = parent.classed("zoom");
+            parent.classed("zoom",!flag);
+        })
     let svg = d3.select(".posiciones")
         .append("svg")
             .attr("viewBox", `0 0 ${width + margin.left + margin.right} ${height + margin.top + margin.bottom}`)
@@ -595,7 +695,7 @@ dispatch.on("update.lastupdate", function(data) {
         .outerRadius(innerRadius + 5)
 
 
-    let color = d3.scaleOrdinal(d3.schemeCategory10);
+    let color = d3.scaleOrdinal(d3.schemePaired);
 
     let chordsG = svg.append("g")
         .attr("fill-opacity", 0.67);
@@ -605,7 +705,7 @@ dispatch.on("update.lastupdate", function(data) {
     dispatch.on("update.posiciones", function(data) {
         dispatch.on("filter.posiciones", function() {
             let filteredData = data.dimFilter(dimension);
-            let labels = Array.from(new Set(filteredData.map(d => d.aerolinea))).sort(d3.ascending).concat(Array.from(new Set(filteredData.map(d => d.posicion))).sort(d3.ascending));
+            let labels = Array.from(new Set(filteredData.map(d => d.aerolinea))).sort(d3.ascending).concat(Array.from(new Set(filteredData.map(d => d.posicion))).sort(d3.ascending)); 
             let matrix = d3.range(labels.length).map(d => d3.range(labels.length).map(d => 0));
             filteredData.forEach(d => {
                 let i = labels.indexOf(d.posicion);
@@ -613,6 +713,7 @@ dispatch.on("update.lastupdate", function(data) {
                 matrix[i][j] += 1;
                 matrix[j][i] += 1;
             });
+            labels[labels.indexOf("")] = "N/A";
             let chords = chordLayout(matrix);
 
             const group = chordsT.selectAll("g.groups")
@@ -663,7 +764,10 @@ dispatch.on("update.lastupdate", function(data) {
                 .join("path")
                 .attr("stroke", d => d3.rgb(color(d.source.index)).darker())
                 .attr("fill", d => color(d.source.index))
-                .attr("d", ribbon);
+                .attr("d", ribbon)
+                .on("mouseenter", function() {
+                    d3.select(this).raise();
+                })
         });
     });
 })();

@@ -12,12 +12,8 @@
     <script src="main.js" defer></script>
 </head>
 <body>
-    <header><nav><img src="CCOCROP.png" alt=""><span class="lastupdate"></span></nav></header>
-    
+    <header><nav><img src="CCO.png" alt=""><span class="lastupdate"></span></nav></header>
     <div class="grid">
-        <div class="card tipo">Arribos/Partidas</div>
-        <div class="card ruta">Rutas</div>
-        <div class="card aerolinea">Aerolineas</div>
         <div class="histograma card">
                 <div class="container">
                         <h4>Vuelos por hora <i class="fas fa-plane-departure arribo"></i>
@@ -31,13 +27,20 @@
                 <h4>Demoras</h4>
                 <h7>Las demoras se calculan a partir de 15 minutos</h7>
             </div>
-            
         </div>
-        <div class="card posiciones">Posiciones</div>
+        <div class="tablavuelos">
+            <i class="fas fa-search"></i>
+            <input type="text" id="myInput" placeholder="Search for names..">
+        </div> 
+        <div class="sidebar">
+            <div class="card tipo">Arribos/Partidas</div>
+            <div class="card ruta">Rutas <i class="fas fa-trash-alt"></i></div>
+            <div class="card aerolinea">Aerolineas</div>
+            <div class="card posiciones">Posiciones</div>
+
+            <div class="card terminal">Terminal</div>
+        </div>  
     </div>
-    <div class="tablavuelos">
-        <i class="fas fa-search"></i>
-        <input type="text" id="myInput" placeholder="Search for names..">
-    </div>
+
 </body>
 </html>
