@@ -499,12 +499,17 @@ dispatch.on("update.lastupdate", function(data) {
 
 // Grafico Delays
 ;(function() {
-    let dimension = "delta"
-    let margin = {top: 25, bottom: 25, right: 20, left: 40},
-        width = 700 - margin.left - margin.right,
-        height = 300 - margin.top - margin.bottom;
+    let dimension = "delta";
 
-    let svg = d3.select(".delays")
+    let container = d3.select(".delays");
+
+    let clientWidth = container.node().getBoundingClientRect().width;
+
+    let margin = {top: 25, bottom: 25, right: 20, left: 40},
+        width = clientWidth - margin.left - margin.right,
+        height = clientWidth / 1.2 - margin.top - margin.bottom;
+
+    let svg = container
         .append("svg")
             .attr("viewBox", `0 0 ${width + margin.left + margin.right} ${height + margin.top + margin.bottom}`)
         .append("g")
@@ -675,11 +680,22 @@ dispatch.on("update.lastupdate", function(data) {
     });
 })();
 
+// Totales
+;(function() {
+    let container = d3.select(".totals");
+    container.call(titleBar,"Totales");
+    dispatch.on("update.totals", function(data) {
+        dispatch.on("filter.totals", function() {
+
+        });
+    });
+})();
+
 function titleBar(selection, title) {
     let titleDiv = selection.selectAll(".title-bar")
         .data([null])
         .enter()
-        .append("div")
+        .insert("div",":first-child")
         .classed("title-bar",true);
     
     titleDiv.append("span")

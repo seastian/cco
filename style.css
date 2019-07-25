@@ -134,7 +134,7 @@ header {
 }
 
 .zoom {
-    transform: scale(2.5);
+    transform: scale(2);
     z-index: 1;
     transform-origin: top right;
 }
@@ -155,4 +155,14 @@ header img {
 
 .clickable {
     cursor: pointer;
+}
+
+.subGrid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-items: center;
+}
+
+.subGrid i {
+    height: 3em;
 }
