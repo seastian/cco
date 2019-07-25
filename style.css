@@ -1,20 +1,64 @@
-* {
-    box-sizing: border-box;
+body {
+    background-color: rgb(50, 54, 57);
+    margin: 0;
+    color: white;
 }
 
-body {
-    background-color: rgba(0,0,0,0.3);
-    margin: 0;
-    font-family: Verdana, Tahoma, sans-serif;
-}
 
 .grid {
     display: grid;
-    grid-template-columns: 3fr 3fr 1.7fr;
-    grid-template-areas: "histograma delays sidebar"
-                        "tabla tabla sidebar";
+    grid-template-columns: 100%;
+    grid-template-areas: "header"
+                        "histograma"
+                        "delays"
+                        "sidebar"
+                        "tabla";
     gap: 1vw;
     padding: 1vw 1vw;
+    align-content: start;
+}
+
+@media only screen and (min-width: 1024px) {
+    .grid {
+        grid-template-columns: 3fr 2fr 1.7fr;
+        grid-template-areas: "histograma delays header"
+                            "histograma delays sidebar"
+                            "tabla tabla sidebar";
+    }
+}
+
+@media only screen and (max-width: 1023px) {
+    table, thead, tbody, th, td, tr {
+        display: block;
+    }
+    thead tr {
+        position: absolute;
+        top: -9999px;
+        left: -9999px;
+    }
+      td {
+        border: none;
+        position: relative;
+        padding-left: 200px;
+        margin-left:  50px;
+      }
+      td:before {
+        position: absolute;
+        top: 12px;
+        left: 6px;
+        width: 200px;
+        padding-right: 40px;
+        white-space: nowrap;
+        margin-left: -50px;
+      }
+      td:nth-of-type(1):before { content: "Tipo"; }
+      td:nth-of-type(2):before { content: "Aero"; }
+      td:nth-of-type(3):before { content: "Vuelo"; }
+      td:nth-of-type(4):before { content: "Ruta";}
+}
+
+header {
+    grid-area: header;
 }
 
 .histograma {
@@ -23,6 +67,7 @@ body {
 
 .delays {
     grid-area: delays;
+    align-self: end;
 }
 
 .tablavuelos {
@@ -41,54 +86,28 @@ body {
 }
 
 .card {
-    background-color: rgba(235, 227, 227, 0.8);
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-    border-radius: 5px;
-    border: solid white 1px;
+    border: solid black 1px;
 }
 
 .card:hover {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
     border: solid white 1px;
-  }
-
-/* Add some padding inside the card container */
-.container {
-    padding: 2px 16px;
-    text-align: center;
-    background-color: #616161;
-    border-radius: 5px 5px 0 0; /* 5px rounded corners */
 }
 
-
-
-.tablavuelos tr:nth-child(even) {
-    background-color: grey;
-}
 
 .tablavuelos thead {
     background-color: black;
-    color: white;
-
 }
 
-
-.tick text {
-    font-size: 1.1rem;
-}
-
-header nav{
-    background-color: grey;
-    align-content: center;
-    justify-content: center;
-    height: 3em;
+.tablavuelos tr {
+    border-bottom: solid black 1px;
 }
 
 #myInput {
     background-position: 10px 12px; /* Position the search icon */
     background-repeat: no-repeat; /* Do not repeat the icon image */
     width: 50%; /* Full-width */
-    font-size: 16px; /* Increase font-size */
     padding: 12px 20px 12px 40px; /* Add some padding */
     border: 1px solid #ddd; /* Add a grey border */
     margin-bottom: 12px; /* Add some space below the input */
@@ -97,8 +116,6 @@ header nav{
 
 /* Style Tabla vuelos */
 .tablavuelos table {
-    margin: 0 auto;
-    width: 100%;
     border-collapse: collapse;
     text-align: center;
 }
@@ -113,10 +130,6 @@ header nav{
     color: yellow;
 }
 
-.card {
-    text-align: center;
-}
-
 .posiciones path:hover {
     fill-opacity: 1;
     fill: blue;
@@ -129,10 +142,6 @@ header nav{
 
 .ruta circle, .aerolinea rect, .terminal circle {
     cursor: pointer;
-}
-
-header img {
-    height: 90%
 }
 
 .ruta text {
@@ -152,14 +161,16 @@ header img {
     z-index: 2;
 }
 
-nav span {
-    vertical-align: middle;
-    margin-left: 10px;
-}
-
 .zoom {
     transform: scale(2);
     z-index: 1;
     transform-origin: top right;
-    background-color: rgb(255,255,255);
+}
+
+header img {
+    height: 3em;
+}
+
+table {
+    width: 100%;
 }

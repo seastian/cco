@@ -10,34 +10,27 @@
     <link href="fa/css/solid.css" rel="stylesheet">
     <script src="d3.js" defer></script>
     <script src="main.js" defer></script>
+    <script lang="javascript" src="xlsx.full.min.js" defer></script>
 </head>
-<body>
-    <header><nav><img src="CCO.png" alt=""><span class="lastupdate"></span></nav></header>
+<body> 
+             
     <div class="grid">
+            
+        <header class="card"><i class="fas fa-search"></i>
+            <button>Exportar</button> 
+                <input type="text" id="myInput" placeholder="Search for names.."><nav><img src="CCO.png" alt=""><span class="lastupdate"></span></nav></header>
         <div class="histograma card">
-                <div class="container">
-                        <h4>Vuelos por hora <i class="fas fa-plane-departure arribo"></i>
-                            <span> </span>
+                        Vuelos por hora <i class="fas fa-plane-departure arribo"></i>
                             <i class="fas fa-plane-arrival partida"></i>
-                        </h4>
-                </div>
         </div>
         <div class="card delays">
-            <div class="container">
-                <h4>Demoras</h4>
-                <h7>Las demoras se calculan a partir de 15 minutos</h7>
-            </div>
+                Demoras - Las demoras se calculan a partir de 15 minutos
         </div>
-        <div class="tablavuelos">
-            <i class="fas fa-search"></i>
-            <input type="text" id="myInput" placeholder="Search for names..">
-        </div> 
+        <div class="tablavuelos card"></div> 
         <div class="sidebar">
-            <div class="card tipo">Arribos/Partidas</div>
             <div class="card ruta">Rutas <i class="fas fa-trash-alt"></i></div>
             <div class="card aerolinea">Aerolineas</div>
             <div class="card posiciones">Posiciones</div>
-
             <div class="card terminal">Terminal</div>
         </div>  
     </div>

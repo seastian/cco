@@ -67,68 +67,6 @@ dispatch.on("update.lastupdate", function(data) {
     });
 });
 
-// Grafico Tipo 
-;(function() {
-    let margin = {top: 20, bottom: 20, right: 20, left: 20},
-        width = 300 - margin.left - margin.right,
-        height = 300 - margin.top - margin.bottom;
-
-    let dimension = "tipo";
-    d3.select(".tipo")
-        .append("button")
-        .attr("type","button")
-        .text("max")
-        .on("click", function() {
-            let parent = d3.select(this.parentElement);
-            let flag = parent.classed("zoom");
-            parent.classed("zoom",!flag);
-        })
-    let svg = d3.select(".tipo")
-        .append("svg")
-        .attr("viewBox",`0 0 ${width + margin.left + margin.right} ${height + margin.top + margin.bottom}`)
-        .append("g")
-        .attr("transform",`translate(${margin.left + width/2},${margin.top + height/2})`)
-    let pie = d3.pie()
-        .value(d => d.values.length)
-        .padAngle(0.02)
-        .sort((a,b) => d3.descending(a.key,b.key));
-    let arc = d3.arc()
-        .innerRadius(width/3)
-        .outerRadius(width/2)
-        .cornerRadius(5);
-
-    dispatch.on("update.tipo", function(data) {
-        dispatch.on("filter.tipo", function() {
-            let filteredData = data.dimFilter(dimension);
-            let nest = pie(d3.nest().key(d => d.tipo).entries(filteredData));
-            
-            let paths = svg.selectAll("path")
-                .data(nest,d => d.data.key);
-
-            paths.enter()
-                .append("path")
-                .on("click", function(d) {
-                    data.filters[dimension] = (vuelo) => vuelo.tipo === d.data.key;
-                    dispatch.call("filter");
-                })
-                .merge(paths)
-                .attr("class",d => d.data.key)
-                .classed("not-selected", function(d) {
-                    if(dimension in data.filters) {
-                        return !data.filters[dimension]({tipo: d.data.key})
-                    } else {
-                        return false;
-                    }
-                })
-                .attr("shape-rendering","geometricPrecision")
-                .attr("d",arc)
-
-            paths.exit()
-                .remove();
-        });
-    });
-})();
-
 // Grafico Aerolineas
 ;(function() {
     let margin = {top: 5, bottom: 5, right: 5, left: 5},
@@ -138,7 +76,7 @@ dispatch.on("update.lastupdate", function(data) {
     let dimension = "aerolinea";
     d3.select(".aerolinea")
         .append("i")
-        .attr("class","fas fa-window-maximize")
+        .attr("class","fas fa-expand")
         .on("click", function() {
             let parent = d3.select(this.parentElement);
             let flag = parent.classed("zoom");
@@ -418,8 +356,8 @@ dispatch.on("update.lastupdate", function(data) {
         .classed("xAxis",true);
 
     let yScale = d3.scaleLinear()
-        .domain([0, 22])
-        .range([height, 0]);
+        .range([height, 0])
+        .domain([0, 14]);
     
     svg.append("g")
         .call(d3.axisLeft(yScale))
@@ -476,6 +414,7 @@ dispatch.on("update.lastupdate", function(data) {
     }
     dispatch.on("update.histograma", function(data) {
         xScale.domain(d3.extent(data.vuelos.map(d => d.st))).nice();
+
         xAxis.call(d3.axisBottom(xScale).ticks(24))
             .selectAll("text")
                 .attr("transform","rotate(90)")
@@ -510,7 +449,7 @@ dispatch.on("update.lastupdate", function(data) {
         {key: "aerolinea", name: "Aero"},
         {key: "vuelo", name: "Vuelo"},
         {key: "ruta", name: "Ruta"},
-        {key: "interDom", name:"Inter/Dom"},
+        {key: "interDom", name:"I/D"},
         {key: "st", name: "ST", parse: d3.timeFormat("%d/%m %H:%M")},
         {key: "et", name: "ET", parse: d3.timeFormat("%H:%M")},
         {key: "at", name: "AT", parse: d3.timeFormat("%H:%M")},
@@ -771,3 +710,9 @@ dispatch.on("update.lastupdate", function(data) {
         });
     });
 })();
+
+d3.select("button")
+    .on("click", function() {
+        let workbook = XLSX.utils.table_to_book(document.querySelector(".tablavuelos table"));
+        XLSX.writeFile(workbook, 'cco.xlsx');
+    })
