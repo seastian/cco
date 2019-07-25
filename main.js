@@ -274,7 +274,7 @@ dispatch.on("update.lastupdate", function(data) {
         height = 100 - margin.top - margin.bottom;
 
     let dimension = "terminal";
-
+    d3.select(".terminal").call(titleBar,"Terminales")
     let svg = d3.select(".terminal").append("svg")
         .attr("viewBox",`0 0 ${width + margin.left + margin.right} ${height + margin.top + margin.bottom}`)
         .append("g")
