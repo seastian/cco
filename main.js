@@ -60,7 +60,7 @@ let test2;
 
 // Last Update
 dispatch.on("update.lastupdate", function(data) {
-    d3.select(".lastupdate").text(data.lastUpdate);
+    d3.select(".lastupdate").text(d3.timeFormat("%d/%m %H:%M")(data.lastUpdate));
     d3.select("nav img").on("click", () => {
         data.filters = {};
         dispatch.call("filter");
