@@ -1,4 +1,4 @@
-let dispatch = d3.dispatch("render","update","filter");
+let dispatch = d3.dispatch("update","filter");
 let test;
 let test2;
 
@@ -74,20 +74,12 @@ dispatch.on("update.lastupdate", function(data) {
 // Grafico Aerolineas
 ;(function() {
     let margin = {top: 5, bottom: 5, right: 5, left: 5},
-    width = 300 - margin.left - margin.right,
-    height = 150 - margin.top - margin.bottom;
+    width = 200 - margin.left - margin.right,
+    height = 400 - margin.top - margin.bottom;
 
     let dimension = "aerolinea";
 
     d3.select(".aerolinea").call(titleBar,"Aerolineas")
-    // d3.select(".aerolinea")
-    //     .append("i")
-    //     .attr("class","fas fa-expand")
-    //     .on("click", function() {
-    //         let parent = d3.select(this.parentElement);
-    //         let flag = parent.classed("zoom");
-    //         parent.classed("zoom",!flag);
-    //     })
     let svg = d3.select(".aerolinea").append("svg")
         .attr("viewBox",`0 0 ${width + margin.left + margin.right} ${height + margin.top + margin.bottom}`)
         .append("g")
@@ -338,20 +330,22 @@ dispatch.on("update.lastupdate", function(data) {
 })();
 
 // Grafico vuelos por hora
-dispatch.on("render.histograma", function() {
+;(function() {
     let dimension = "st";
 
-    let clientWidth = d3.select(".histograma").node().getBoundingClientRect().width;
+    let container = d3.select(".histograma");
 
-    let margin = {top: 20, bottom: 70, right: 20, left: 32},
+    let clientWidth = container.node().getBoundingClientRect().width;
+    let clientHeight = container.node().getBoundingClientRect().height;
+
+    let margin = {top: 20, bottom: 20, right: 32, left: 32},
         width = clientWidth - margin.left - margin.right,
         height = clientWidth * 3 / 4 - margin.top - margin.bottom;
 
-    let svg = d3.select(".histograma")
-        .append("svg")
+    let svg = container.append("svg")
             .attr("viewBox", `0 0 ${width + margin.left + margin.right} ${height + margin.top + margin.bottom}`)
-        .append("g")
-            .attr("transform",`translate(${margin.left},${margin.top})`)
+            .append("g")
+            .attr("transform",`translate(${margin.left},${margin.top})`);
 
     let xScale = d3.scaleTime()
             .range([0, width])
@@ -370,66 +364,11 @@ dispatch.on("render.histograma", function() {
     svg.append("g")
         .call(d3.axisLeft(yScale))
     
-    function drawHistograma(data) {
-        let filteredData = data.dimFilter(dimension)
-        nest = d3.nest()
-            .key(d => d3.timeHour(d.st).getTime())
-            .key(d => d.tipo)
-            .entries(filteredData);
-        
-        let g = svg.selectAll("g.horas")
-            .data(nest,d => d.key)
-
-        g.exit().selectAll("rect")
-            .transition()
-            .duration(2000)
-            .attr("y",height)
-            .attr("height",0)
-
-        let rects = g.enter()
-            .append("g")
-            .classed("horas",true)
-            .attr("transform",(d) => `translate(${xScale(Number(d.key))},0)`)
-            .merge(g)
-            .attr("opacity", d => {
-                if (data.filters[dimension]) {
-                    return data.filters[dimension]({st: d.key}) ? "1" : "0.5";
-                } else {
-                    return "1";
-                }
-            })
-            .selectAll("rect")
-            .data(d => d.values, d => d.key )
-        
-        rects.exit()
-            .transition()
-            .duration(2000)
-            .attr("y",height)
-            .attr("height",0)
-
-        rects.enter()
-                .append("rect")
-                .attr("x",d => d.key === "arribo" ? 2 : 11)
-                .attr("width",9)
-                .attr("class",d => d.key)
-                .attr("y",height)
-                .attr("height",0)   
-                .merge(rects)
-                .transition()
-                .duration(2000)
-                .attr("y",(d) => yScale(d.values.length))
-                .attr("height", (d) => height - yScale(d.values.length))
-    }
     dispatch.on("update.histograma", function(data) {
         xScale.domain(d3.extent(data.vuelos.map(d => d.st))).nice();
 
-        xAxis.call(d3.axisBottom(xScale).ticks(24))
-            .selectAll("text")
-                .attr("transform","rotate(90)")
-                .attr("y",0)
-                .attr("x",9)
-                .attr("dy","0.25em")
-                .attr("text-anchor","start")
+        xAxis.call(d3.axisBottom(xScale).tickFormat(d3.timeFormat("%H")))
+        .attr("font-family",null)
 
         brush.call(d3.brushX().extent([[0,0],[width, height]]).on("end", function(d,i) {
                 if(!d3.event.selection) {
@@ -440,14 +379,38 @@ dispatch.on("render.histograma", function() {
                         return  xScale.invert(brushed[0]) < data["st"] && data["st"] < xScale.invert(brushed[1])
                     }
                 }
-
-                dispatch.call("filter", this, data)
-        
+                dispatch.call("filter")
                 }))
-        dispatch.on("filter.histograma", () => drawHistograma(data));   
+        dispatch.on("filter.histograma",function() {
+            let filteredData = data.dimFilter(dimension);
+            let nest = d3.nest()
+                .key(d => d3.timeHour(d.st).getTime())
+                .key(d => d.tipo)
+                .entries(filteredData);
+            let gHoras = svg.selectAll("g.horas")
+                .data(nest, d => d.key)
+                .join("g")
+                .classed("horas",true)
+                .attr("transform", d => `translate(${xScale(Number(d.key))},0)`)
+                .classed("not-selected", function(d) {
+                    if(dimension in data.filters) {
+                        return !data.filters[dimension]({st: d.key})
+                    } else {
+                        return false;
+                    }
+                })
+                .selectAll("rect")
+                .data(d => d.values, d => d.key)
+                .join("rect")
+                .attr("x",d => d.key === "arribo" ? 2 : 11)
+                .attr("width",9)
+                .attr("class",d => d.key)
+                .attr("y",(d) => yScale(d.values.length))
+                .attr("height", (d) => height - yScale(d.values.length))
+        });   
     })
  
-});
+})();
 
 // Genero Tabla de Vuelos, se puede filtar
 ;(function() {
@@ -711,8 +674,6 @@ dispatch.on("render.histograma", function() {
         });
     });
 })();
-
-dispatch.call("render");
 
 function titleBar(selection, title) {
     let titleDiv = selection.selectAll(".title-bar")

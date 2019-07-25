@@ -93,13 +93,13 @@ header {
 }
 
 .arribo {
-    fill: #770076;
-    color: #770076;
+    fill: #859900;
+    color: #859900;
 }
 
 .partida {
-    fill: yellow;
-    color: yellow;
+    fill: #dc322f;
+    color: #dc322f;
 }
 
 .posiciones path:hover {
