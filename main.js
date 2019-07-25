@@ -1,4 +1,4 @@
-let dispatch = d3.dispatch("update","filter");
+let dispatch = d3.dispatch("render","update","filter");
 let test;
 let test2;
 
@@ -64,6 +64,11 @@ dispatch.on("update.lastupdate", function(data) {
         data.filters = {};
         dispatch.call("filter");
     });
+    d3.select("button")
+    .on("click", function() {
+        let workbook = XLSX.utils.table_to_book(document.querySelector(".tablavuelos table"));
+        XLSX.writeFile(workbook, 'cco.xlsx');
+    })
 });
 
 // Grafico Aerolineas
@@ -73,14 +78,16 @@ dispatch.on("update.lastupdate", function(data) {
     height = 150 - margin.top - margin.bottom;
 
     let dimension = "aerolinea";
-    d3.select(".aerolinea")
-        .append("i")
-        .attr("class","fas fa-expand")
-        .on("click", function() {
-            let parent = d3.select(this.parentElement);
-            let flag = parent.classed("zoom");
-            parent.classed("zoom",!flag);
-        })
+
+    d3.select(".aerolinea").call(titleBar,"Aerolineas")
+    // d3.select(".aerolinea")
+    //     .append("i")
+    //     .attr("class","fas fa-expand")
+    //     .on("click", function() {
+    //         let parent = d3.select(this.parentElement);
+    //         let flag = parent.classed("zoom");
+    //         parent.classed("zoom",!flag);
+    //     })
     let svg = d3.select(".aerolinea").append("svg")
         .attr("viewBox",`0 0 ${width + margin.left + margin.right} ${height + margin.top + margin.bottom}`)
         .append("g")
@@ -167,7 +174,7 @@ dispatch.on("update.lastupdate", function(data) {
         height = 300 - margin.top - margin.bottom;
 
     let dimension = "ruta";
-
+    d3.select(".ruta").call(titleBar,"Rutas")
     let svg = d3.select(".ruta").append("svg")
         .attr("viewBox",`0 0 ${width + margin.left + margin.right} ${height + margin.top + margin.bottom}`)
         .append("g")
@@ -331,12 +338,14 @@ dispatch.on("update.lastupdate", function(data) {
 })();
 
 // Grafico vuelos por hora
-;(function() {
+dispatch.on("render.histograma", function() {
     let dimension = "st";
 
+    let clientWidth = d3.select(".histograma").node().getBoundingClientRect().width;
+
     let margin = {top: 20, bottom: 70, right: 20, left: 32},
-        width = 700 - margin.left - margin.right,
-        height = 500 - margin.top - margin.bottom;
+        width = clientWidth - margin.left - margin.right,
+        height = clientWidth * 3 / 4 - margin.top - margin.bottom;
 
     let svg = d3.select(".histograma")
         .append("svg")
@@ -421,7 +430,6 @@ dispatch.on("update.lastupdate", function(data) {
                 .attr("x",9)
                 .attr("dy","0.25em")
                 .attr("text-anchor","start")
-                .attr("font-size","0.8rem")
 
         brush.call(d3.brushX().extent([[0,0],[width, height]]).on("end", function(d,i) {
                 if(!d3.event.selection) {
@@ -438,13 +446,13 @@ dispatch.on("update.lastupdate", function(data) {
                 }))
         dispatch.on("filter.histograma", () => drawHistograma(data));   
     })
-        
-})(); 
+ 
+});
 
 // Genero Tabla de Vuelos, se puede filtar
 ;(function() {
     let columnas = [
-        {key: "tipo", name: "Tipo"},
+        {key: "tipo", name: "T", parse: tipo => tipo === "arribo" ? "A" : tipo === "partida" ? "P" : tipo},
         {key: "aerolinea", name: "Aero"},
         {key: "vuelo", name: "Vuelo"},
         {key: "ruta", name: "Ruta"},
@@ -452,14 +460,14 @@ dispatch.on("update.lastupdate", function(data) {
         {key: "st", name: "ST", parse: d3.timeFormat("%d/%m %H:%M")},
         {key: "et", name: "ET", parse: d3.timeFormat("%H:%M")},
         {key: "at", name: "AT", parse: d3.timeFormat("%H:%M")},
-        {key: "delta", name: "Demora"},
-        {key: "remark", name: "Remark"},
+        {key: "delta", name: "Dem"},
+        {key: "remark", name: "Rem"},
         {key: "posicion", name: "Posicion"},
         {key: "cinta", name: "Cinta"},
-        {key: "chkFrom", name: "chkFrom", parse: (d) => d.replace(/^0+/, '')},
-        {key: "chkTo", name: "chkTo", parse: (d) => d.replace(/^0+/, '')},
+        {key: "chkFrom", name: "chkF", parse: d => d.replace(/^0+/, '')},
+        {key: "chkTo", name: "chkT", parse: d => d.replace(/^0+/, '')},
         {key: "pax", name:"Pax"},
-        {key: "term", name: "Term."},
+        {key: "term", name: "Ter"},
     ];
     let flag = true;
 
@@ -603,14 +611,8 @@ dispatch.on("update.lastupdate", function(data) {
     let margin = {top: 10, bottom: 10, right: 10, left: 10},
         width = 300 - margin.left - margin.right,
         height = 300 - margin.top - margin.bottom;
-    d3.select(".posiciones")
-        .append("i")
-        .attr("class","fas fa-window-maximize")
-        .on("click", function() {
-            let parent = d3.select(this.parentElement);
-            let flag = parent.classed("zoom");
-            parent.classed("zoom",!flag);
-        })
+
+    d3.select(".posiciones").call(titleBar,"Posiciones")
     let svg = d3.select(".posiciones")
         .append("svg")
             .attr("viewBox", `0 0 ${width + margin.left + margin.right} ${height + margin.top + margin.bottom}`)
@@ -710,8 +712,29 @@ dispatch.on("update.lastupdate", function(data) {
     });
 })();
 
-d3.select("button")
-    .on("click", function() {
-        let workbook = XLSX.utils.table_to_book(document.querySelector(".tablavuelos table"));
-        XLSX.writeFile(workbook, 'cco.xlsx');
-    })
+dispatch.call("render");
+
+function titleBar(selection, title) {
+    let titleDiv = selection.selectAll(".title-bar")
+        .data([null])
+        .enter()
+        .append("div")
+        .classed("title-bar",true);
+    
+    titleDiv.append("span")
+        .text(title);
+
+    let icons = titleDiv.append("span");
+
+    icons.append("i")
+        .classed("fas fa-trash-alt", true)
+        .classed("clickable",true);
+
+    icons.append("i")
+        .classed("fas fa-expand", true)
+        .classed("clickable",true)
+        .on("click", function() {
+            let flag = selection.classed("zoom");
+            selection.classed("zoom",!flag);
+        });
+}
