@@ -110,6 +110,7 @@ dispatch.on("update.lastupdate", function(data) {
                 .append("g");
 
             g.append("rect")
+                .classed("clickable", true)
                 .on("mouseover", function(d) {
                     let text = d.data.key + ": " + d.data.value
                     tooltip.text(text)
@@ -136,6 +137,7 @@ dispatch.on("update.lastupdate", function(data) {
                 .attr("fill","steelblue");
 
             g.append("text")
+                .classed("ignore-events",true)
                 .merge(u.select("text"))
                 .attr("x", d => d.x0)
                 .attr("y", d => d.y0)
@@ -178,15 +180,10 @@ dispatch.on("update.lastupdate", function(data) {
 
     d3.select(".ruta")
         .style("position","relative")
-    let tooltip = d3.select(".ruta").append("div")
+    let tooltip = d3.select("body").append("div")
         .classed("tooltip",true)
 
     dispatch.on("update.ruta", function(data) {
-        d3.select(".ruta svg").on("click", function() {
-            console.log("clicked svg")
-            delete data.filters[dimension];
-            dispatch.call("filter")
-        });
         dispatch.on("filter.ruta", function() {
             let filteredData = data.dimFilter(dimension);
             let nest = d3.nest().key(d => d.ruta).rollup(d => d.length).entries(filteredData);
@@ -202,6 +199,7 @@ dispatch.on("update.lastupdate", function(data) {
          
 
             gdata.append("circle")
+                .classed("clickable",true)
                 .attr("r", d => d.r)
                 .attr("fill","steelblue")
                 .on("click", function(d) {
@@ -227,11 +225,8 @@ dispatch.on("update.lastupdate", function(data) {
                         .style("top",d3.clientPoint(d3.select(".ruta").node(),d3.event)[1] - 10 + "px")
                 })
                 
-                
-                
-
-            
             gdata.append("text")
+                .classed("ignore-events",true)
                 .text(d => d.data.key)
                 .attr("text-anchor","middle")
                 .attr("font-size","0.5em")
@@ -291,17 +286,16 @@ dispatch.on("update.lastupdate", function(data) {
                 .attr("transform", d => `translate(${d.x},${d.y})`);
 
             gdata.append("circle")
+                .classed("clickable",true)
                 .attr("r", d => d.r)
                 .attr("fill","steelblue")
                 .on("click", function(d) {
                     data.filters[dimension] = (vuelo) => vuelo.term === d.data.key;
                     dispatch.call("filter");
                 })
-                
-                
-
             
             gdata.append("text")
+                .classed("ignore-events",true)
                 .text(d => d.data.key)
                 .attr("text-anchor","middle")
                 .attr("font-size","0.2em")
@@ -338,7 +332,7 @@ dispatch.on("update.lastupdate", function(data) {
     let clientWidth = container.node().getBoundingClientRect().width;
     let clientHeight = container.node().getBoundingClientRect().height;
 
-    let margin = {top: 20, bottom: 20, right: 32, left: 32},
+    let margin = {top: 20, bottom: 20, right: 25, left: 32},
         width = clientWidth - margin.left - margin.right,
         height = clientWidth * 3 / 4 - margin.top - margin.bottom;
 
@@ -577,8 +571,8 @@ dispatch.on("update.lastupdate", function(data) {
 ;(function() {
     let dimension = "posiciones"
     let margin = {top: 10, bottom: 10, right: 10, left: 10},
-        width = 300 - margin.left - margin.right,
-        height = 300 - margin.top - margin.bottom;
+        width = 250 - margin.left - margin.right,
+        height = 250 - margin.top - margin.bottom;
 
     d3.select(".posiciones").call(titleBar,"Posiciones")
     let svg = d3.select(".posiciones")

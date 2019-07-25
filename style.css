@@ -112,14 +112,6 @@ header {
     fill:blue;
 }
 
-.ruta circle, .aerolinea rect, .terminal circle {
-    cursor: pointer;
-}
-
-.ruta text {
-    pointer-events: none;
-}
-
 .tooltip {
     position: absolute;
     pointer-events: none;
@@ -165,4 +157,8 @@ header img {
 
 .subGrid i {
     height: 3em;
+}
+
+.ignore-events {
+    pointer-events: none;
 }
