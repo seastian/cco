@@ -7,10 +7,9 @@ let test2;
     let data = {};
     data.filters = {};
     function load() {
-        let url = "data.json";
-        //let url = "https://api.github.com/repos/seastian/cco/contents/data.json";
+        let url = "https://api.github.com/repos/seastian/cco/contents/data.json";
         d3.json(url).then(function(rawData) {
-        //rawData = JSON.parse(atob(rawData.content));
+        rawData = JSON.parse(atob(rawData.content));
         data.vuelos = rawData.vuelos;
         let timeParser = d3.timeParse("%d/%m/%Y %H:%M");
         data.lastUpdate = timeParser(rawData.lastUpdate);
