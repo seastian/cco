@@ -362,7 +362,7 @@ dispatch.on("update.lastupdate", function(data) {
 
         xAxis.call(d3.axisBottom(xScale).tickFormat(d3.timeFormat("%H")))
 
-        brush.call(d3.brushX().extent([[0,0],[width, height]]).on("end", function(d,i) {
+        brush.call(d3.brushX().extent([[0,height + 1],[width, height + margin.bottom]]).on("end", function(d,i) {
                 if(!d3.event.selection) {
                     delete data.filters[dimension];
                 } else {
