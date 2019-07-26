@@ -685,6 +685,40 @@ dispatch.on("update.lastupdate", function(data) {
     });
 })();
 
+;(function() {
+    let dimension = "mostradores";
+    let container = d3.select(".mostradores");
+    container.call(titleBar,"Mostradores");
+    let canvas = container.append("div")
+        .classed("flex",true);
+
+    dispatch.on("update.mostradores",function(data) {
+        dispatch.on("filter.mostradores",function() {
+            let filteredData = data.dimFilter(dimension);
+            let mostradores = {};
+            filteredData.forEach(function(vuelo) {
+                if("chkFrom" in vuelo && vuelo.chkFrom && "chkTo" in vuelo && vuelo.chkTo) {
+                    d3.range(Number(vuelo.chkFrom),Number(vuelo.chkTo)+1).forEach(function(mostrador) {
+                        if(mostrador in mostradores) {
+                            mostradores[mostrador].vuelos.push(vuelo);
+                        } else {
+                            mostradores[mostrador] = {};
+                            mostradores[mostrador].mostrador = mostrador;
+                            mostradores[mostrador].vuelos = [];
+                            mostradores[mostrador].vuelos.push(vuelo);
+                        }
+                    });
+                }
+            });
+            mostradores = d3.values(mostradores);
+            canvas.selectAll("div")
+                .data(mostradores)
+                .join("div")
+                .text(d => d.mostrador);
+        });
+    });
+})();
+
 function titleBar(selection, title) {
     let titleDiv = selection.selectAll(".title-bar")
         .data([null])

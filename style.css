@@ -151,7 +151,11 @@ header img {
 
 .subGrid {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 3em 3em;
+    grid-auto-rows: 3em;
+    justify-content: space-around;
+    align-content: space-around;
+    align-items: center;
     justify-items: center;
 }
 
@@ -161,4 +165,32 @@ header img {
 
 .ignore-events {
     pointer-events: none;
+}
+
+.totalArribos {
+    padding: 1.5em;
+    background-color: red;
+    mask-image: url("img/plane-departure-solid.svg");
+    mask-repeat: no-repeat;
+    mask-position: center;
+    mask-size: 80%;
+}
+
+.mostradores .flex {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    padding: 10px;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+}
+
+.mostradores .flex div {
+    background-color: steelblue;
+    width: 3rem;
+    height: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
