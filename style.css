@@ -18,29 +18,6 @@ body {
     gap: 5px;
 }
 
-@media (max-width: 375px) {
-    .grid {
-        grid-template-columns: 1fr;
-        grid-template-areas: "header"
-                            "sidebar"
-                            "main"
-    }
-}
-
-header {
-    grid-area: header;
-    display: grid;
-    grid-template-columns: 1fr 2fr;
-    grid-template-rows: repeat(3, 1em);
-    grid-template-areas: "cco ."
-                         "cco ."
-                         "cco ."
-}
-
-.header img {
-    grid-area: cco;
-}
-
 .main {
     grid-area: main;
     display: grid;
@@ -50,6 +27,39 @@ header {
                         "tabla tabla";
     align-content: start;
     gap: 5px;
+}
+
+@media (max-width: 375px) {
+    .grid {
+        grid-template-columns: 1fr;
+        grid-template-areas: "header"
+                            "sidebar"
+                            "main"
+    }
+
+    .title-bar i:last-of-type {
+        display: none;
+    }
+
+    .main {
+        grid-template-columns: 1fr;
+        grid-template-areas: "totals"
+                            "histograma"
+                            "delays"
+                            "tabla"
+    }
+
+    table, thead, tbody, th, td, tr { 
+		display: block; 
+    }
+    
+    thead tr {
+        display: none;
+    }
+
+    tr { border: 1px solid #ccc; }
+
+    
 }
 
 .sidebar {
@@ -127,10 +137,6 @@ header {
     stroke: blue;
 }
 
-.ruta circle:hover, .aerolinea rect:hover, .terminal circle:hover {
-    fill:blue;
-}
-
 .tooltip {
     position: absolute;
     pointer-events: none;
@@ -138,10 +144,11 @@ header {
     color: white;
     display: none;
     padding: 0.5em;
-    width: max-content;
+    /* width: max-content; */
     border-radius: 5px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, .3);
     z-index: 2;
+    text-anchor: middle;
 }
 
 .zoom {
@@ -198,7 +205,6 @@ header img {
 .mostradores .flex {
     display: flex;
     flex-wrap: wrap;
-    gap: 5px;
     padding: 10px;
     justify-content: center;
     justify-items: center;
@@ -212,4 +218,10 @@ header img {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin: 5px;
+}
+
+.histograma text {
+    font-size: 1rem;
+    font-family: 'Open Sans', sans-serif;
 }

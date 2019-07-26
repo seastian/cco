@@ -1,6 +1,4 @@
 let dispatch = d3.dispatch("update","filter");
-let test;
-let test2;
 
 // Actualizar cada 4 min
 ;(function() {
@@ -38,7 +36,7 @@ let test2;
                 }
             })();
         });
-        data.vuelos = data.vuelos.filter(d => d.aerolinea !== "PRV" && Math.abs(d.st - data.lastUpdate) < 12*60*60*1000);
+        data.vuelos = data.vuelos.filter(d => d.aerolinea !== "PRV" && d.aerolinea !== "FAA" && Math.abs(d.st - data.lastUpdate) < 12*60*60*1000);
         data.dimFilter = function(dimension) {
             return this.vuelos.filter(vuelo => {
                 for(let j in this.filters) {
@@ -53,8 +51,7 @@ let test2;
     });
     }
     load();  
-    test = data;
-    setTimeout(load,4*60*1000);
+    setInterval(load,4*60*1000);
 })();
 
 // Last Update
@@ -178,8 +175,6 @@ dispatch.on("update.lastupdate", function(data) {
         .size([width, height])
         .padding(3);
 
-    d3.select(".ruta")
-        .style("position","relative")
     let tooltip = d3.select("body").append("div")
         .classed("tooltip",true)
 
@@ -330,39 +325,41 @@ dispatch.on("update.lastupdate", function(data) {
     let container = d3.select(".histograma");
 
     let clientWidth = container.node().getBoundingClientRect().width;
-    let clientHeight = container.node().getBoundingClientRect().height;
-
-    let margin = {top: 20, bottom: 20, right: 25, left: 32},
+    
+    let margin = {top: 20, bottom: 25, right: 25, left: 32},
         width = clientWidth - margin.left - margin.right,
-        height = clientWidth * 3 / 4 - margin.top - margin.bottom;
+        height = clientWidth / 2 - margin.top - margin.bottom;
 
     let svg = container.append("svg")
-            .attr("viewBox", `0 0 ${width + margin.left + margin.right} ${height + margin.top + margin.bottom}`)
-            .append("g")
-            .attr("transform",`translate(${margin.left},${margin.top})`);
+        .attr("viewBox", `0 0 ${width + margin.left + margin.right} ${height + margin.top + margin.bottom}`)
+        .append("g")
+        .attr("transform",`translate(${margin.left},${margin.top})`);
 
     let xScale = d3.scaleTime()
-            .range([0, width])
-            
-    let brush = svg.append("g")
-        .attr("class","brush")
-   
+        .range([0, width]);
     let xAxis = svg.append("g")
         .attr("transform",`translate(0,${height})`)
         .classed("xAxis",true);
-
     let yScale = d3.scaleLinear()
         .range([height, 0])
         .domain([0, 14]);
-    
-    svg.append("g")
-        .call(d3.axisLeft(yScale))
+    let yAxis = svg.append("g")
+        .classed("yAxis",true);
+            
+    let brush = svg.append("g")
+        .attr("class","brush");
     
     dispatch.on("update.histograma", function(data) {
         xScale.domain(d3.extent(data.vuelos.map(d => d.st))).nice();
+        let yMax = d3.max(d3.nest()
+            .key(d => d3.timeHour(d.st).getTime() + d.tipo)
+            .rollup(d => d.length)
+            .entries(data.vuelos),d => d.value);
+        yScale.domain([0, yMax]);
+
+        yAxis.call(d3.axisLeft(yScale));
 
         xAxis.call(d3.axisBottom(xScale).tickFormat(d3.timeFormat("%H")))
-        .attr("font-family",null)
 
         brush.call(d3.brushX().extent([[0,0],[width, height]]).on("end", function(d,i) {
                 if(!d3.event.selection) {
@@ -765,6 +762,13 @@ function titleBar(selection, title) {
         .classed("clickable",true);
 
     icons.append("i")
+        .classed("fas fa-chevron-down", true)
+        .classed("clickable",true)
+        .on("click",function() {
+            console.log(this)
+        })
+
+    icons.append("i")
         .classed("fas fa-expand", true)
         .classed("clickable",true)
         .on("click", function() {
@@ -784,7 +788,7 @@ function genTooltip(selection,tooltip,format) {
         tooltip.style("display", null)
     })
     .on("mousemove", function(){
-        tooltip.style("left",d3.event.pageX + 10 + "px")
+        tooltip.style("left",d3.event.pageX + "px")
             .style("top",d3.event.pageY + 30 + "px")
     }) 
 }
