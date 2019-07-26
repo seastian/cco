@@ -166,7 +166,7 @@ dispatch.on("update.lastupdate", function(data) {
 
     let dimension = "ruta";
     d3.select(".ruta").call(titleBar,"Rutas")
-    let svg = d3.select(".ruta").append("svg")
+    let svg = d3.select(".ruta").select(".content").append("svg")
         .attr("viewBox",`0 0 ${width + margin.left + margin.right} ${height + margin.top + margin.bottom}`)
         .append("g")
         .attr("transform",`translate(${margin.left},${margin.top})`);
@@ -688,8 +688,9 @@ dispatch.on("update.lastupdate", function(data) {
     let dimension = "mostradores";
     let container = d3.select(".mostradores");
     container.call(titleBar,"Mostradores");
-    let canvas = container.append("div")
-        .classed("flex",true);
+    let canvas = container.select(".content")
+        .append("div")
+        .classed("flexcontainer",true);
 
     let tooltip = d3.select("body")
         .append("div")
@@ -766,7 +767,9 @@ function titleBar(selection, title) {
         .classed("fas fa-chevron-down", true)
         .classed("clickable",true)
         .on("click",function() {
-            console.log(this)
+            let content = selection.select(".content");
+            let status = content.classed("hide")
+            content.classed("hide",!status);            
         })
 
     icons.append("i")

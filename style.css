@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
 
+* {
+    box-sizing: border-box;
+}
+
 body {
     background-color: rgb(50, 54, 57);
     margin: 0;
@@ -193,7 +197,7 @@ header img {
     pointer-events: none;
 }
 
-.mostradores .flex {
+.mostradores .flexcontainer {
     display: flex;
     flex-wrap: wrap;
     padding: 10px;
@@ -202,7 +206,7 @@ header img {
     align-items: center;
 }
 
-.mostradores .flex div {
+.mostradores .flexcontainer div {
     background-color: steelblue;
     width: 3rem;
     height: 3rem;
@@ -215,4 +219,8 @@ header img {
 .histograma text {
     font-size: 1rem;
     font-family: 'Open Sans', sans-serif;
+}
+
+.hide {
+    display: none;
 }
