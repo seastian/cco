@@ -36,7 +36,7 @@ let dispatch = d3.dispatch("update","filter");
                 }
             })();
         });
-        data.vuelos = data.vuelos.filter(d => d.aerolinea !== "PRV" && d.aerolinea !== "FAA" && Math.abs(d.st - data.lastUpdate) < 12*60*60*1000);
+        data.vuelos = data.vuelos.filter(d => d.aerolinea !== "PRV" && d.aerolinea !== "FAA" && Math.abs(d.st - d3.timeHour(data.lastUpdate)) < 12*60*60*1000);
         data.dimFilter = function(dimension) {
             return this.vuelos.filter(vuelo => {
                 for(let j in this.filters) {
@@ -328,7 +328,7 @@ dispatch.on("update.lastupdate", function(data) {
     
     let margin = {top: 20, bottom: 25, right: 25, left: 32},
         width = clientWidth - margin.left - margin.right,
-        height = clientWidth / 2 - margin.top - margin.bottom;
+        height = clientWidth / 1.5 - margin.top - margin.bottom;
 
     let svg = container.append("svg")
         .attr("viewBox", `0 0 ${width + margin.left + margin.right} ${height + margin.top + margin.bottom}`)
@@ -349,8 +349,9 @@ dispatch.on("update.lastupdate", function(data) {
     let brush = svg.append("g")
         .attr("class","brush");
     
+    let barWidth = (width/24 -8)/2;
     dispatch.on("update.histograma", function(data) {
-        xScale.domain(d3.extent(data.vuelos.map(d => d.st))).nice();
+        xScale.domain([d3.timeHour.offset(d3.timeHour(data.lastUpdate),-12),d3.timeHour.offset(d3.timeHour(data.lastUpdate),12)]);
         let yMax = d3.max(d3.nest()
             .key(d => d3.timeHour(d.st).getTime() + d.tipo)
             .rollup(d => d.length)
@@ -393,8 +394,8 @@ dispatch.on("update.lastupdate", function(data) {
                 .selectAll("rect")
                 .data(d => d.values, d => d.key)
                 .join("rect")
-                .attr("x",d => d.key === "arribo" ? 2 : 11)
-                .attr("width",9)
+                .attr("x",d => d.key === "arribo" ? 1 : barWidth + 3)
+                .attr("width",barWidth)
                 .attr("class",d => d.key)
                 .attr("y",(d) => yScale(d.values.length))
                 .attr("height", (d) => height - yScale(d.values.length))
