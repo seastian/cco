@@ -18,6 +18,15 @@ body {
     gap: 5px;
 }
 
+@media (max-width: 375px) {
+    .grid {
+        grid-template-columns: 1fr;
+        grid-template-areas: "header"
+                            "sidebar"
+                            "main"
+    }
+}
+
 header {
     grid-area: header;
 }
