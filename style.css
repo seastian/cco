@@ -29,6 +29,16 @@ body {
 
 header {
     grid-area: header;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-template-rows: repeat(3, 1em);
+    grid-template-areas: "cco ."
+                         "cco ."
+                         "cco ."
+}
+
+.header img {
+    grid-area: cco;
 }
 
 .main {

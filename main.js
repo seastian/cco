@@ -685,12 +685,17 @@ dispatch.on("update.lastupdate", function(data) {
     });
 })();
 
+// Mostradores
 ;(function() {
     let dimension = "mostradores";
     let container = d3.select(".mostradores");
     container.call(titleBar,"Mostradores");
     let canvas = container.append("div")
         .classed("flex",true);
+
+    let tooltip = d3.select("body")
+        .append("div")
+        .classed("tooltip",true);
 
     dispatch.on("update.mostradores",function(data) {
         dispatch.on("filter.mostradores",function() {
@@ -710,11 +715,35 @@ dispatch.on("update.lastupdate", function(data) {
                     });
                 }
             });
-            mostradores = d3.values(mostradores);
+            mostradores = d3.values(mostradores).sort((a,b) => d3.ascending(a.mostrador,b.mostrador));
+
             canvas.selectAll("div")
-                .data(mostradores)
+                .data(mostradores, mostradores.mostrador)
                 .join("div")
-                .text(d => d.mostrador);
+                .text(d => d.mostrador)
+                .classed("clickable",true)
+                .classed("not-selected", function(d) {
+                    if(dimension in data.filters) {
+                        return !data.filters[dimension]({chkFrom: d.mostrador, chkTo: d.mostrador})
+                    } else {
+                        return false;
+                    }
+                })
+                .on("click", function(d) {
+                    data.filters[dimension] = vuelo => {
+                        if("chkFrom" in vuelo && vuelo.chkFrom && "chkTo" in vuelo && vuelo.chkTo) {
+                            return d3.range(Number(vuelo.chkFrom),Number(vuelo.chkTo)+1).indexOf(d.mostrador) !== -1 ? true : false;
+                        }
+                        else {
+                            return false;
+                        }
+                    };
+                    dispatch.call("filter");
+                })
+                .call(genTooltip,tooltip,function(d,i) {
+                    return "Aerolineas: \n" + Array.from(new Set(d.vuelos.map(d => d.aerolinea))).join(", ");
+                })
+                
         });
     });
 })();
@@ -742,4 +771,20 @@ function titleBar(selection, title) {
             let flag = selection.classed("zoom");
             selection.classed("zoom",!flag);
         });
+}
+
+function genTooltip(selection,tooltip,format) {   
+    selection.on("mouseover", function(d,i) {
+        tooltip.text(format(d,i))
+            .style("display","block")
+            .style("left",d3.event.pageX + "px")
+            .style("top",d3.event.pageY + "px")
+    })
+    .on("mouseleave", function() {
+        tooltip.style("display", null)
+    })
+    .on("mousemove", function(){
+        tooltip.style("left",d3.event.pageX + 10 + "px")
+            .style("top",d3.event.pageY + 30 + "px")
+    }) 
 }
