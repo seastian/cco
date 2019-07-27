@@ -845,4 +845,6 @@ function genTooltip(selection, tooltip, format) {
         })
 }
 
-document.querySelector("body").getBoundingClientRect().width <= 375 ? d3.selectAll(".content").classed("hide",true) : false;
+if(document.querySelector("body").getBoundingClientRect().width <= 667) {
+    d3.selectAll(".content").classed("hide",true);
+};

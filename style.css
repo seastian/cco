@@ -42,7 +42,7 @@ body {
     align-content: start;
 }
 
-@media (max-width: 375px) {
+@media (max-width: 667px) {
 
     .grid, .main, .main-flex-left {
         display: block;
