@@ -181,7 +181,21 @@ body {
 }
 
 header img {
-    height: 3em;
+    height: 4em;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    padding: 5px 3px;
+    text-align: center;
+}
+
+header input {
+    padding: 10px;
+    width: 80%;
+    margin: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 }
 
 .title-bar {
@@ -254,5 +268,10 @@ header img {
 }
 
 .totals .content {
+    padding: 5px;
+}
+
+.fa-file-excel {
+    cursor: pointer;
     padding: 5px;
 }

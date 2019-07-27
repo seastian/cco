@@ -66,9 +66,11 @@ dispatch.on("update.lastupdate", function (data) {
         data.filters = {};
         d3.selectAll(".brush rect:not(.overlay)")
             .style("display", "none");
+
+        document.querySelector("#myInput").value = null;
         dispatch.call("filter");
     });
-    d3.select("button")
+    d3.select(".fa-file-excel")
         .on("click", function () {
             let workbook = XLSX.utils.table_to_book(document.querySelector(".tablavuelos table"));
             XLSX.writeFile(workbook, 'cco.xlsx');
@@ -805,7 +807,7 @@ function titleBar(selection,title,dimension) {
         .classed("right-icons",true);
 
     icons.append("i")
-        .classed("fas fa-trash-alt", true)
+        .classed("fas fa-eraser", true)
         .classed("clickable", true)
         .on("click", function() {
             dispatch.call("clearFilter",null,dimension)
