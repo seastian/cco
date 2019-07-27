@@ -54,16 +54,51 @@ body {
     }
 
     table, thead, tbody, th, td, tr { 
-		display: block; 
+        display: block;
+	}
+	
+	thead tr { 
+		display: none;
+	}
+	
+	
+	td { 
+		/* Behave  like a "row" */
+		border: none;
+		position: relative;
+        padding-left: 50%; 
     }
-    
-    thead tr {
-        display: none;
-    }
+	
+	td:before { 
+		/* Now like a table header */
+		position: absolute;
+		/* Top/left values mimic padding */
+		top: 0;
+		left: 6px;
+		width: 45%; 
+		padding-right: 10px; 
+		white-space: nowrap;
+	}
 
-    tr { border: 1px solid #ccc; }
-
-
+    	/*
+	Label the data
+	*/
+	td:nth-of-type(1):before { content: "Tipo"; }
+	td:nth-of-type(2):before { content: "Aerolínea"; }
+	td:nth-of-type(3):before { content: "Vuelo"; }
+	td:nth-of-type(4):before { content: "Ruta"; }
+	td:nth-of-type(5):before { content: "Inter/Dom"; }
+	td:nth-of-type(6):before { content: "ST"; }
+	td:nth-of-type(7):before { content: "ET"; }
+	td:nth-of-type(8):before { content: "AT"; }
+	td:nth-of-type(9):before { content: "Demora"; }
+    td:nth-of-type(10):before { content: "Remark"; }
+    td:nth-of-type(11):before { content: "Posición"; }
+	td:nth-of-type(12):before { content: "Cinta"; }
+	td:nth-of-type(13):before { content: "chkF"; }
+	td:nth-of-type(14):before { content: "chkT"; }
+	td:nth-of-type(15):before { content: "Pax"; }
+    td:nth-of-type(16):before { content: "Term"; }
 }
 
 .sidebar {

@@ -445,7 +445,7 @@ dispatch.on("update.lastupdate", function (data) {
         { key: "at", name: "AT", parse: d3.timeFormat("%H:%M") },
         { key: "delta", name: "Dem" },
         { key: "remark", name: "Rem" },
-        { key: "posicion", name: "Posicion" },
+        { key: "posicion", name: "Posición" },
         { key: "cinta", name: "Cinta" },
         { key: "chkFrom", name: "chkF", parse: d => d.replace(/^0+/, '') },
         { key: "chkTo", name: "chkT", parse: d => d.replace(/^0+/, '') },
@@ -510,7 +510,7 @@ dispatch.on("update.lastupdate", function (data) {
                     if (d.key in rowData && rowData[d.key]) { // Comparador Lazy
                         return "parse" in d ? d.parse(rowData[d.key]) : rowData[d.key];
                     } else {
-                        return "";
+                        return '\xa0';
                     }
                 })
         });
