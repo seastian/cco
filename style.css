@@ -212,3 +212,7 @@ header img {
 .hide {
     display: none;
 }
+
+.histograma .fa-expand {
+    display: none;
+}

@@ -349,7 +349,11 @@ dispatch.on("update.lastupdate", function (data) {
         width = clientWidth - margin.left - margin.right,
         height = clientWidth / 1.2 - margin.top - margin.bottom;
 
-    let svg = container.append("svg")
+    container.call(titleBar,"Vuelos por hora",dimension);
+
+    let svg = container.append("div")
+        .classed("content",true)
+        .append("svg")
         .attr("viewBox", `0 0 ${width + margin.left + margin.right} ${height + margin.top + margin.bottom}`)
         .append("g")
         .attr("transform", `translate(${margin.left},${margin.top})`);
@@ -520,7 +524,11 @@ dispatch.on("update.lastupdate", function (data) {
         width = clientWidth - margin.left - margin.right,
         height = clientWidth / 1.2 - margin.top - margin.bottom;
 
+    container.call(titleBar,"Demoras",dimension);
+
     let svg = container
+        .append("div")
+        .classed("content",true)
         .append("svg")
             .attr("viewBox", `0 0 ${width + margin.left + margin.right} ${height + margin.top + margin.bottom}`)
         .append("g")
