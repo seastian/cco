@@ -12,6 +12,7 @@ let dispatch = d3.dispatch("update", "filter","clearFilter");
             let timeParser = d3.timeParse("%d/%m/%Y %H:%M");
             data.lastUpdate = timeParser(rawData.lastUpdate);
             data.vuelos.forEach((d) => {
+                d.fullName = d.aerolinea + d.vuelo;
                 let delayTrigger = 15; // 15 min
                 d.et = timeParser(d.et);
                 d.st = timeParser(d.st);
