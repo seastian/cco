@@ -57,8 +57,10 @@ let dispatch = d3.dispatch("update","filter");
 // Last Update
 dispatch.on("update.lastupdate", function(data) {
     d3.select(".lastupdate").text(d3.timeFormat("%d/%m %H:%M")(data.lastUpdate));
-    d3.select("nav img").on("click", () => {
+    d3.select("header img").on("click", () => {
         data.filters = {};
+        d3.selectAll(".brush rect:not(.overlay)")
+            .style("display","none");
         dispatch.call("filter");
     });
     d3.select("button")
@@ -328,7 +330,7 @@ dispatch.on("update.lastupdate", function(data) {
     
     let margin = {top: 20, bottom: 25, right: 25, left: 32},
         width = clientWidth - margin.left - margin.right,
-        height = clientWidth / 1.5 - margin.top - margin.bottom;
+        height = clientWidth / 1.2 - margin.top - margin.bottom;
 
     let svg = container.append("svg")
         .attr("viewBox", `0 0 ${width + margin.left + margin.right} ${height + margin.top + margin.bottom}`)
@@ -362,7 +364,7 @@ dispatch.on("update.lastupdate", function(data) {
 
         xAxis.call(d3.axisBottom(xScale).tickFormat(d3.timeFormat("%H")))
 
-        brush.call(d3.brushX().extent([[0,height + 1],[width, height + margin.bottom]]).on("end", function(d,i) {
+        brush.call(d3.brushX().extent([[0,height + 1],[width, height + margin.bottom -1]]).on("end", function(d,i) {
                 if(!d3.event.selection) {
                     delete data.filters[dimension];
                 } else {
@@ -512,6 +514,9 @@ dispatch.on("update.lastupdate", function(data) {
 
     let yScale = d3.scaleLinear()
         .range([height, 0])
+
+    let brush = svg.append("g")
+        .attr("class","brush");
     
     let timeInterval = 15;
 
@@ -525,23 +530,17 @@ dispatch.on("update.lastupdate", function(data) {
             .domain(extents);
         xAxis.call(d3.axisBottom(xScale));
 
-        let brush = svg.append("g")
-        .attr("class","brush")
-        setTimeout(() => {
-            brush.call(d3.brushX().extent([[0,0],[width, height]]).on("end", function(d,i) {
-                if(!d3.event.selection) {
-                    delete data.filters[dimension];
-                } else {
-                    let brushed = d3.event.selection.slice()
-                    data.filters[dimension] = function(data) {
-                        return  xScale.invert(brushed[0]) < data[dimension] && data[dimension] < xScale.invert(brushed[1])
-                    }
+        brush.call(d3.brushX().extent([[0,height + 1],[width, height + margin.bottom -1]]).on("end", function(d,i) {
+            if(!d3.event.selection) {
+                delete data.filters[dimension];
+            } else {
+                let brushed = d3.event.selection.slice()
+                data.filters[dimension] = function(data) {
+                    return  xScale.invert(brushed[0]) < data[dimension] && data[dimension] < xScale.invert(brushed[1])
                 }
-    
-                dispatch.call("filter")
-        
-            }))
-        },0)
+            }
+            dispatch.call("filter")
+        }))
 
         dispatch.on("filter.delays", function() {
             let filteredData = data.dimFilter(dimension);
