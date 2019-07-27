@@ -11,9 +11,7 @@ body {
 .grid {
     display: grid;
     grid-template-columns: 4fr 1fr;
-    grid-template-rows: 7em;
-    grid-template-areas: "main header"
-                        "main sidebar";
+    grid-template-areas: "main sidebar";
     align-content: start;
     gap: 5px;
 }
@@ -22,31 +20,37 @@ body {
     grid-area: main;
     display: grid;
     grid-template-columns: 3fr 2fr;
-    grid-template-areas: "histograma totals"
-                        "histograma delays"
-                        "tabla tabla";
+    grid-template-areas: "main-flex-left main-flex-rigth"
+                         "tabla      tabla";
     align-content: start;
+    justify-content: stretch;
     gap: 5px;
 }
 
+.main-flex-left {
+    grid-area: main-flex-left;
+    display: grid;
+    gap: 5px;
+    align-content: start;
+    width: 100%;   
+}
+
+.main-flex-right {
+    grid-area: main-flex-rigth;
+    display: grid;
+    gap: 5px;
+    align-content: start;
+}
+
 @media (max-width: 375px) {
-    .grid {
-        grid-template-columns: 1fr;
-        grid-template-areas: "header"
-                            "sidebar"
-                            "main"
+
+    .grid, .main, .main-flex-left {
+        display: block;
+        margin: 5px 0;
     }
 
     .title-bar i:last-of-type {
         display: none;
-    }
-
-    .main {
-        grid-template-columns: 1fr;
-        grid-template-areas: "totals"
-                            "histograma"
-                            "delays"
-                            "tabla"
     }
 
     table, thead, tbody, th, td, tr { 
@@ -67,14 +71,6 @@ body {
     display: grid;
     align-content: start;
     gap: 5px;
-}
-
-.histograma {
-    grid-area: histograma;
-}
-
-.delays {
-    grid-area: delays;
 }
 
 .tablavuelos {
@@ -220,4 +216,8 @@ header img {
 .totals .flex i {
     font-size: 2em;
     margin-bottom: 5px;
+}
+
+.totals .content {
+    padding: 5px;
 }

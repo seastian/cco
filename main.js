@@ -183,7 +183,7 @@ dispatch.on("update.lastupdate", function (data) {
         height = clientWidth - margin.top - margin.bottom;
 
     container.call(titleBar, "Rutas",dimension);
-    
+
     let svg = container.append("div")
         .classed("content",true)    
         .append("svg")
@@ -709,9 +709,16 @@ dispatch.on("update.lastupdate", function (data) {
 ; (function () {
     let container = d3.select(".totals");
     container.call(titleBar, "Totales");
+    let totArribos = container.select(".totArribos");
+    let totPartidas = container.select(".totPartidas");
+    let totAerolineas = container.select(".totAerolineas");
+
     dispatch.on("update.totals", function (data) {
         dispatch.on("filter.totals", function () {
-
+            let filteredData = data.dimFilter();
+            totPartidas.text(filteredData.filter(d => d.tipo === "partida").length);
+            totArribos.text(filteredData.filter(d => d.tipo === "arribo").length);
+            totAerolineas.text((new Set(filteredData.map(d => d.aerolinea)).size));
         });
     });
 })();

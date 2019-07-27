@@ -17,39 +17,43 @@
 <body>
 
     <div class="grid">
-        <header class="card">
-            <div><img src="CCO.png" alt="">
-                <div class="lastupdate"></div>
-            </div>
-            <button>Exportar</button>
-            <input type="text" id="myInput" placeholder="Buscar..">
-        </header>
+        <div class="sidebar">
+                <header class="card">
+                        <div><img src="CCO.png" alt="">
+                            <div class="lastupdate"></div>
+                        </div>
+                        <button>Exportar</button>
+                        <input type="text" id="myInput" placeholder="Buscar..">
+                </header>
+                <div class="card ruta"></div>
+                <div class="card aerolinea"></div>
+                <div class="card posiciones"></div>
+                <div class="card terminal"></div>
+                <div class="mostradores card">
+                </div>
+        </div>
 
         <div class="main">
-            <div class="totals card">
-                <div class="content">
-                    <div class="flex">
-                        <div class="totalArribos"><i class="fas fa-plane-arrival arribo"></i><span>103</span><span>Arribos</span></div>
-                        <div class="totalPartidas"><i class="fas fa-plane-departure partida"></i><span>90</span><span>Partidas</span></div>
-                        <div class="totalAerolineas"><i class="fas fa-desktop"></i><span>90</span><span>Aerolineas</span></div>
+            <div class="main-flex-right">
+                <div class="totals card">
+                    <div class="content">
+                        <div class="flex">
+                            <div><i class="fas fa-plane-arrival arribo"></i><span class="totArribos"></span><span>Arribos</span>
+                            </div>
+                            <div><i class="fas fa-plane-departure partida"></i><span
+                                    class="totPartidas"></span><span>Partidas</span></div>
+                            <div><i class="fas fa-desktop"></i><span class="totAerolineas"></span><span>Aerolíneas</span></div>
+                        </div>
                     </div>
                 </div>
-
+                <div class="card delays"></div>
             </div>
-            <div class="histograma card">
-            </div>
-            <div class="card delays">
+            <div class="main-flex-left">
+                    <div class="histograma card"></div>
             </div>
             <div class="tablavuelos card"></div>
         </div>
-        <div class="sidebar">
-            <div class="card ruta"></div>
-            <div class="card aerolinea"></div>
-            <div class="card posiciones"></div>
-            <div class="card terminal"></div>
-            <div class="mostradores card">
-            </div>
-        </div>
+
     </div>
 
 </body>
