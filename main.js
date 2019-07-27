@@ -229,8 +229,8 @@ dispatch.on("update.lastupdate", function (data) {
                     let text = d.data.key + ": " + d.data.value
                     tooltip.text(text)
                         .style("display", "block")
-                        .style("left", d3.clientPoint(d3.select(".ruta").node(), d3.event)[0] + "px")
-                        .style("top", d3.clientPoint(d3.select(".ruta").node(), d3.event)[1] + "px")
+                        .style("left", d3.event.pageX + 30 + "px")
+                        .style("top", d3.event.pageY + 30 + "px")
                 })
                 .on("mouseleave", function (d) {
                     tooltip.style("display", null)
@@ -238,8 +238,8 @@ dispatch.on("update.lastupdate", function (data) {
 
                 })
                 .on("mousemove", function () {
-                    tooltip.style("left", d3.clientPoint(d3.select(".ruta").node(), d3.event)[0] + 15 + "px")
-                        .style("top", d3.clientPoint(d3.select(".ruta").node(), d3.event)[1] - 10 + "px")
+                    tooltip.style("top", d3.event.pageX + 30 + "px")
+                        .style("top", d3.event.pageY + 30 + "px")
                 })
 
             gdata.append("text")
