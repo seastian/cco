@@ -182,8 +182,11 @@ dispatch.on("update.lastupdate", function (data) {
         width = clientWidth - margin.left - margin.right,
         height = clientWidth - margin.top - margin.bottom;
 
-    container.call(titleBar, "Rutas",dimension)
-    let svg = container.select(".content").append("svg")
+    container.call(titleBar, "Rutas",dimension);
+    
+    let svg = container.append("div")
+        .classed("content",true)    
+        .append("svg")
         .attr("viewBox", `0 0 ${width + margin.left + margin.right} ${height + margin.top + margin.bottom}`)
         .append("g")
         .attr("transform", `translate(${margin.left},${margin.top})`);
@@ -718,7 +721,10 @@ dispatch.on("update.lastupdate", function (data) {
     let dimension = "mostradores";
     let container = d3.select(".mostradores");
     container.call(titleBar, "Mostradores",dimension);
-    let canvas = container.select(".content")
+
+    let canvas = container
+        .append("div")
+        .classed("content",true)
         .append("div")
         .classed("flexcontainer", true);
 

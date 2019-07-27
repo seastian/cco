@@ -167,20 +167,6 @@ header img {
     cursor: pointer;
 }
 
-.subGrid {
-    display: grid;
-    grid-template-columns: 3em 3em;
-    grid-auto-rows: 3em;
-    justify-content: space-around;
-    align-content: space-around;
-    align-items: center;
-    justify-items: center;
-}
-
-.subGrid i {
-    height: 3em;
-}
-
 .ignore-events {
     pointer-events: none;
 }
@@ -215,4 +201,23 @@ header img {
 
 .histograma .fa-expand {
     display: none;
+}
+
+.totals .flex {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.totals .flex div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.totals .flex i {
+    font-size: 2em;
+    margin-bottom: 5px;
 }
