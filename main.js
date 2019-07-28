@@ -233,7 +233,6 @@ dispatch.on("update.lastupdate", function (data) {
                 .on("click", function (d) {
                     data.filters[dimension] = (vuelo) => vuelo.ruta === d.data.key;
                     d3.event.stopPropagation();
-                    console.log("clicked circle")
                     dispatch.call("filter");
                 })
                 .on("mouseover", function (d) {
@@ -765,17 +764,26 @@ dispatch.on("update.lastupdate", function (data) {
 // Totales
 ; (function () {
     let container = d3.select(".totals");
-    container.call(titleBar, "Totales");
+    let dimension = "totals"
+    container.call(titleBar, "Totales", dimension);
     let totArribos = container.select(".totArribos");
     let totPartidas = container.select(".totPartidas");
     let totAerolineas = container.select(".totAerolineas");
-
     dispatch.on("update.totals", function (data) {
         dispatch.on("filter.totals", function () {
             let filteredData = data.dimFilter();
             totPartidas.text(filteredData.filter(d => d.tipo === "partida").length);
             totArribos.text(filteredData.filter(d => d.tipo === "arribo").length);
             totAerolineas.text((new Set(filteredData.map(d => d.aerolinea)).size));
+
+            d3.select(".totA").on("click", function () {
+                data.filters[dimension] = (vuelo) => vuelo.tipo === "arribo";
+                dispatch.call("filter");
+            });
+            d3.select(".totP").on("click", function () {
+                data.filters[dimension] = (vuelo) => vuelo.tipo === "partida";
+                dispatch.call("filter");
+            });
         });
     });
 })();
@@ -786,10 +794,24 @@ dispatch.on("update.lastupdate", function (data) {
     let container = d3.select(".mostradores");
     container.call(titleBar, "Mostradores",dimension);
 
-    let canvas = container
+    let content = container
         .append("div")
-        .classed("content",true)
-        .append("div")
+        .classed("content",true);
+
+    let radios = content.append("form");
+
+    let checkbox = radios.append("input").attr("type","checkbox")
+        .attr("name","formato")
+        .attr("value","agrupados")
+        .on("change", function() {
+            dispatch.call("filter");
+        })
+        // .property("checked",true);
+
+    radios.append("label")
+        .text("Agrupados")
+
+    let canvas = content.append("div")
         .classed("flexcontainer", true);
 
     let tooltip = d3.select("body")
@@ -815,12 +837,49 @@ dispatch.on("update.lastupdate", function (data) {
                 }
             });
             mostradores = d3.values(mostradores).sort((a, b) => d3.ascending(a.mostrador, b.mostrador));
+            mostradores.forEach(mostrador => {
+                mostrador.enUso = mostrador.vuelos.map(vuelo => vuelo.st).filter(st => {
+                    return +d3.timeHour.offset(st,-3) < Date.now() && Date.now() < +st;
+                }).length;
+            });
+
+            // Try to merge Mostradores
+            if(checkbox.property("checked")) {
+                let mergedMostradores = [];
+                mergedMostradores.push(Object.assign({},mostradores[0]));
+                for(let j=1; j < mostradores.length; j++) {
+                    let lastMerged = Array.from(new Set(mergedMostradores[mergedMostradores.length-1].vuelos.map(vuelo => vuelo.aerolinea))).sort().join();
+                    let current = Array.from(new Set(mostradores[j].vuelos.map(vuelo => vuelo.aerolinea))).sort().join()
+                    if (lastMerged === current) {
+                        // Merge, pop and push
+                        let last = mergedMostradores.pop();
+                        last.mostrador += ", " + mostradores[j].mostrador;
+                        last.vuelos = last.vuelos.concat(mostradores[j].vuelos);
+                        last.enUso += mostradores[j].enUso;
+                        mergedMostradores.push(last);
+                    } else {
+                        mergedMostradores.push(Object.assign({},mostradores[j]));
+                    }
+                }
+                mergedMostradores.forEach(mostrador => {
+                    if(typeof mostrador.mostrador === "string") {
+                        mostrador.mostrador = d3.extent(mostrador.mostrador.split(", ")).join("...");
+                    }
+                });
+                mostradores = mergedMostradores;
+            }
 
             canvas.selectAll("div")
                 .data(mostradores, mostradores.mostrador)
                 .join("div")
                 .text(d => d.mostrador)
-                .classed("clickable", true)
+                .classed("clickable", function() {
+                    if(checkbox.property("checked")) {
+                        return false;
+                    } else {
+                        return true;
+                    }
+                })
                 .classed("not-selected", function (d) {
                     if (dimension in data.filters) {
                         return !data.filters[dimension]({ chkFrom: d.mostrador, chkTo: d.mostrador })
@@ -828,15 +887,37 @@ dispatch.on("update.lastupdate", function (data) {
                         return false;
                     }
                 })
+                .classed("mostrador-activo",function(mostrador) {
+                    return mostrador.enUso;
+                })
                 .on("click", function (d) {
-                    data.filters[dimension] = vuelo => {
-                        if ("chkFrom" in vuelo && vuelo.chkFrom && "chkTo" in vuelo && vuelo.chkTo) {
-                            return d3.range(Number(vuelo.chkFrom), Number(vuelo.chkTo) + 1).indexOf(d.mostrador) !== -1 ? true : false;
-                        }
-                        else {
-                            return false;
-                        }
-                    };
+                    if(checkbox.property("checked")) {
+                        // data.filters[dimension] = vuelo => {
+                        //     if ("chkFrom" in vuelo && vuelo.chkFrom && "chkTo" in vuelo && vuelo.chkTo) {
+                        //         let rangoVuelo = d3.range(Number(vuelo.chkFrom), Number(vuelo.chkTo) + 1);
+                        //         let rangoMostradores = d3.range(Number(d.mostrador.split("...")[0]), Number(d.mostrador.split("...")[1]) + 1);
+                        //         for(j = 0; rangoVuelo.length; j++) {
+                        //             if(rangoMostradores.indexOf(rangoVuelo[j]) === -1) {
+                        //                 return false;
+                        //             }
+                        //         }
+                        //         return true;
+                        //     }
+                        //     else {
+                        //         return false;
+                        //     }
+                        // };
+                    } else {
+                        data.filters[dimension] = vuelo => {
+                            if ("chkFrom" in vuelo && vuelo.chkFrom && "chkTo" in vuelo && vuelo.chkTo) {
+                                return d3.range(Number(vuelo.chkFrom), Number(vuelo.chkTo) + 1).indexOf(d.mostrador) !== -1 ? true : false;
+                            }
+                            else {
+                                return false;
+                            }
+                        };
+                    }
+
                     dispatch.call("filter");
                 })
                 .call(genTooltip, tooltip, function (d, i) {

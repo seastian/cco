@@ -227,11 +227,12 @@ header input {
 
 .mostradores .flexcontainer div {
     background-color: steelblue;
-    width: 3rem;
-    height: 3rem;
+    /* width: 3rem; */
+    /* height: 3rem; */
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 10px;
     margin: 5px;
 }
 
@@ -279,3 +280,16 @@ svg text {
     cursor: pointer;
     padding: 5px;
 }
+
+.mostrador-activo {
+    position: relative;
+}
+
+.mostrador-activo::before {
+    content: "\f108";  /* this is your text. You can also use UTF-8 character codes as I do here */
+    font-family: "Font Awesome 5 Free";
+    left:3px;
+    position:absolute;
+    top:1px;
+    font-size: 0.7em;
+ }
