@@ -196,6 +196,7 @@ header input {
     width: 80%;
     margin: 5px;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border-radius: 3px;
 }
 
 .title-bar {
@@ -221,7 +222,6 @@ header input {
     flex-wrap: wrap;
     padding: 10px;
     justify-content: center;
-    justify-items: center;
     align-items: center;
 }
 
@@ -235,8 +235,12 @@ header input {
     margin: 5px;
 }
 
-.histograma text, .delays text {
+.histograma .axis text, .delays text {
     font-size: 1rem;
+    font-family: 'Open Sans', sans-serif;
+}
+
+svg text {
     font-family: 'Open Sans', sans-serif;
 }
 

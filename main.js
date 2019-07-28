@@ -1,5 +1,6 @@
 let dispatch = d3.dispatch("update", "filter","clearFilter");
 
+let duration = 1000;
 // Actualizar cada 4 min
 ; (function () {
     let data = {};
@@ -53,6 +54,13 @@ let dispatch = d3.dispatch("update", "filter","clearFilter");
     }
     dispatch.on("clearFilter",function(dimension) {
         delete data.filters[dimension];
+        if(dimension === "st") {
+            d3.select(".histograma .brush rect:not(.overlay)")
+                .style("display", "none");
+        } else if(dimension === "delta") {
+            d3.select(".delays .brush rect:not(.overlay)")
+                .style("display", "none");
+        }
         dispatch.call("filter")
     })
     load();
@@ -66,7 +74,6 @@ dispatch.on("update.lastupdate", function (data) {
         data.filters = {};
         d3.selectAll(".brush rect:not(.overlay)")
             .style("display", "none");
-
         document.querySelector("#myInput").value = null;
         dispatch.call("filter");
     });
@@ -203,9 +210,13 @@ dispatch.on("update.lastupdate", function (data) {
     dispatch.on("update.ruta", function (data) {
         dispatch.on("filter.ruta", function () {
             let filteredData = data.dimFilter(dimension);
-            let nest = d3.nest().key(d => d.ruta).rollup(d => d.length).entries(filteredData);
-            let root = pack(d3.hierarchy({ values: nest }, d => d.values).sum(d => d.value));
-
+            let nest = d3.nest().key(d => d.ruta).rollup(d => {
+                return {
+                arribos: d.filter(d => d.tipo === "arribo").length,
+                partidas: d.filter(d => d.tipo === "partida").length,
+                total: d.length}
+            }).entries(filteredData);
+            let root = pack(d3.hierarchy({ values: nest, value: {total: null} }, d => d.values).sum(d => d.value.total));
             let update = svg.selectAll(".data")
                 .data(root.leaves(), d => d.data.key);
 
@@ -226,7 +237,8 @@ dispatch.on("update.lastupdate", function (data) {
                     dispatch.call("filter");
                 })
                 .on("mouseover", function (d) {
-                    let text = d.data.key + ": " + d.data.value
+                    let text = d.data.key + ": " + d.data.value.total + ", Arribos: " + d.data.value.arribos
+                        + ", Partidas: " + d.data.value.partidas;
                     tooltip.text(text)
                         .style("display", "block")
                         .style("left", d3.event.pageX + 30 + "px")
@@ -238,7 +250,7 @@ dispatch.on("update.lastupdate", function (data) {
 
                 })
                 .on("mousemove", function () {
-                    tooltip.style("top", d3.event.pageX + 30 + "px")
+                    tooltip.style("left", d3.event.pageX + 30 + "px")
                         .style("top", d3.event.pageY + 30 + "px")
                 })
 
@@ -345,11 +357,8 @@ dispatch.on("update.lastupdate", function (data) {
 // Grafico vuelos por hora
 ; (function () {
     let dimension = "st";
-
     let container = d3.select(".histograma");
-
     let clientWidth = container.node().getBoundingClientRect().width;
-
     let margin = { top: 20, bottom: 25, right: 25, left: 32 },
         width = clientWidth - margin.left - margin.right,
         height = clientWidth / 1.2 - margin.top - margin.bottom;
@@ -363,16 +372,23 @@ dispatch.on("update.lastupdate", function (data) {
         .append("g")
         .attr("transform", `translate(${margin.left},${margin.top})`);
 
+    svg.append("text")
+        .text("Cantidad de vuelos")
+        .attr("transform","rotate(-90) translate(-3,18)")
+        .attr("text-anchor","end")
+        .attr("fill","white")
+        .attr("font-size","0.7em");
+
     let xScale = d3.scaleTime()
         .range([0, width]);
     let xAxis = svg.append("g")
         .attr("transform", `translate(0,${height})`)
-        .classed("xAxis", true);
+        .classed("axis", true);
     let yScale = d3.scaleLinear()
         .range([height, 0])
         .domain([0, 14]);
     let yAxis = svg.append("g")
-        .classed("yAxis", true);
+        .classed("axis", true);
 
     let brush = svg.append("g")
         .attr("class", "brush");
@@ -411,7 +427,14 @@ dispatch.on("update.lastupdate", function (data) {
                 .entries(filteredData);
             let gHoras = svg.selectAll("g.horas")
                 .data(nest, d => d.key)
-                .join("g")
+                .join(
+                    enter => enter.append("g"),
+                    null,
+                    exit => exit.selectAll("rect").transition()
+                        .duration(duration)
+                        .attr("y", height)
+                        .attr("height", 0)
+                )
                 .classed("horas", true)
                 .attr("transform", d => `translate(${xScale(Number(d.key))},0)`)
                 .classed("not-selected", function (d) {
@@ -423,10 +446,21 @@ dispatch.on("update.lastupdate", function (data) {
                 })
                 .selectAll("rect")
                 .data(d => d.values, d => d.key)
-                .join("rect")
-                .attr("x", d => d.key === "arribo" ? 1 : barWidth + 3)
-                .attr("width", barWidth)
-                .attr("class", d => d.key)
+                .join(enter => {
+                    return enter.append("rect")
+                        .attr("x", d => d.key === "arribo" ? 1 : barWidth + 3)
+                        .attr("width", barWidth)
+                        .attr("class", d => d.key)
+                        .attr("y", height)
+                        .attr("height", 0)
+                },null,
+                exit => exit.transition()
+                    .duration(duration)
+                    .attr("y", height)
+                    .attr("height", 0)
+                )
+                .transition()
+                .duration(duration)
                 .attr("y", (d) => yScale(d.values.length))
                 .attr("height", (d) => height - yScale(d.values.length))
         });
@@ -483,7 +517,7 @@ dispatch.on("update.lastupdate", function (data) {
             let dimension = "tableFilter";
             let timeout;
             let text;
-            d3.select(myInput).on("keyup", function () {
+            d3.select("#myInput").on("keyup", function () {
                 text = this.value;
                 clearTimeout(timeout);
                 timeout = setTimeout(() => {
@@ -496,7 +530,9 @@ dispatch.on("update.lastupdate", function (data) {
                     }
                     dispatch.call("filter");
                 }, 300)
-
+                if(d3.event.key === "Enter") {
+                    this.blur();
+                }
             })
         })();
         dispatch.on("filter.tablavuelos", function () {
@@ -579,7 +615,9 @@ dispatch.on("update.lastupdate", function (data) {
             let yMax = d3.max(nest, d => d.values.length);
             yScale.domain([0, yMax]);
             let step = yScale.domain()[1] > 10 ? 2 : 1;
-            yAxis.call(d3.axisLeft(yScale).tickValues(d3.range(0, yScale.domain()[1] + 1,step)).tickFormat(d3.format("d")));
+            yAxis.transition()
+                .duration(duration)
+                .call(d3.axisLeft(yScale).tickValues(d3.range(0, yScale.domain()[1] + 1,step)).tickFormat(d3.format("d")));
 
             let gs = svg.selectAll(".data")
                 .data(nest, d => d.key)
