@@ -518,20 +518,21 @@ dispatch.on("update.lastupdate", function (data) {
             let timeout;
             let text;
             d3.select("#myInput").on("keyup", function () {
-                text = this.value;
-                clearTimeout(timeout);
-                timeout = setTimeout(() => {
-                    if (text.length) {
-                        data.filters[dimension] = function (flight) {
-                            return JSON.stringify(flight).toUpperCase().indexOf(text.toUpperCase()) !== -1 ? true : false;
-                        }
-                    } else {
-                        delete data.filters[dimension];
-                    }
-                    dispatch.call("filter");
-                }, 300)
                 if(d3.event.key === "Enter") {
                     this.blur();
+                } else {
+                    text = this.value;
+                    clearTimeout(timeout);
+                    timeout = setTimeout(() => {
+                        if (text.length) {
+                            data.filters[dimension] = function (flight) {
+                                return JSON.stringify(flight).toUpperCase().indexOf(text.toUpperCase()) !== -1 ? true : false;
+                            }
+                        } else {
+                            delete data.filters[dimension];
+                        }
+                        dispatch.call("filter");
+                    }, 300)
                 }
             })
         })();
