@@ -431,9 +431,9 @@ dispatch.on("update.lastupdate", function (data) {
                     enter => enter.append("g"),
                     null,
                     exit => exit.selectAll("rect").transition()
-                        .duration(duration)
-                        .attr("y", height)
-                        .attr("height", 0)
+                    .duration(duration)
+                    .attr("y", height)
+                    .attr("height", 0)
                 )
                 .classed("horas", true)
                 .attr("transform", d => `translate(${xScale(Number(d.key))},0)`)
@@ -455,9 +455,9 @@ dispatch.on("update.lastupdate", function (data) {
                         .attr("height", 0)
                 },null,
                 exit => exit.transition()
-                    .duration(duration)
-                    .attr("y", height)
-                    .attr("height", 0)
+                .duration(duration)
+                .attr("y", height)
+                .attr("height", 0)
                 )
                 .transition()
                 .duration(duration)
@@ -532,7 +532,7 @@ dispatch.on("update.lastupdate", function (data) {
                             delete data.filters[dimension];
                         }
                         dispatch.call("filter");
-                    }, 300)
+                    }, 350)
                 }
             })
         })();
@@ -712,7 +712,8 @@ dispatch.on("update.lastupdate", function (data) {
                 `)
                 .attr("text-anchor", d => d.angle > Math.PI ? "end" : null)
                 .text(d => labels[d.index])
-                .attr("font-size", "0.3em");
+                .attr("font-size", "0.3em")
+                .attr("fill","white");
 
             group.select("path")
                 .attr("fill", d => color(d.index))
@@ -741,6 +742,21 @@ dispatch.on("update.lastupdate", function (data) {
                 .attr("d", ribbon)
                 .on("mouseenter", function () {
                     d3.select(this).raise();
+                })
+                .on("click", function(d) {
+                    let pos = labels[d3.max([d.source.index,d.target.index])];
+                    pos = pos === "N/A" ? "" : pos;
+                    data.filters[dimension] = vuelo => vuelo.posicion === pos;
+                    dispatch.call("filter");
+                })
+                .classed("not-selected", function (d) {
+                    if (dimension in data.filters) {
+                        let pos = labels[d3.max([d.source.index,d.target.index])];
+                        pos = pos === "N/A" ? "" : pos;
+                        return !data.filters[dimension]({ posicion: pos })
+                    } else {
+                        return false;
+                    }
                 })
         });
     });
