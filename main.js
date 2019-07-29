@@ -1,7 +1,5 @@
 let dispatch = d3.dispatch("update", "filter","clearFilter");
 
-let test;
-
 let duration = 1000;
 // Actualizar cada 4 min
 ; (function () {
@@ -67,7 +65,6 @@ let duration = 1000;
     })
     load();
     setInterval(load, 4 * 60 * 1000);
-    test = data;
 })();
 
 // Last Update
@@ -273,8 +270,7 @@ dispatch.on("update.lastupdate", function (data) {
 
             update.select("circle")
                 .transition()
-                .attr("r", d => d.r)
-                .attr("fill", "steelblue");
+                .attr("r", d => d.r);
 
             update.exit().remove();
 
@@ -418,7 +414,7 @@ dispatch.on("update.lastupdate", function (data) {
 
         yAxis.call(d3.axisLeft(yScale));
 
-        xAxis.call(d3.axisBottom(xScale).tickFormat(d3.timeFormat("%H")).ticks(24))
+        xAxis.call(d3.axisBottom(xScale).tickFormat(d3.timeFormat("%H")))
 
         brush.call(d3.brushX().extent([[0, height + 1], [width, height + margin.bottom - 1]]).on("end", function (d, i) {
             if (!d3.event.selection) {
