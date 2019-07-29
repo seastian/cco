@@ -163,7 +163,8 @@ dispatch.on("update.lastupdate", function (data) {
                 .attr("y", d => d.y0)
                 .text(d => d.data.key)
                 .attr("dy", "0.9em")
-                .attr("fill","white");
+                .attr("fill","white")
+                .attr("font-size",14);
 
             u.exit().remove();
 
@@ -260,7 +261,7 @@ dispatch.on("update.lastupdate", function (data) {
                 .classed("ignore-events", true)
                 .text(d => d.data.key)
                 .attr("text-anchor", "middle")
-                .attr("font-size", "0.7em")
+                .attr("font-size", "0.6em")
                 .attr("dy", "0.32em")
                 .attr("fill","white");
 
