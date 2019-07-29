@@ -55,11 +55,11 @@ let duration = 1000;
     dispatch.on("clearFilter",function(dimension) {
         delete data.filters[dimension];
         if(dimension === "st") {
-            d3.select(".histograma .brush rect:not(.overlay)")
-                .style("display", "none");
+            d3.select(".histograma .brush").call(d3.brushX().move,null);
         } else if(dimension === "delta") {
-            d3.select(".delays .brush rect:not(.overlay)")
-                .style("display", "none");
+            d3.select(".delays .brush").call(d3.brushX().move,null);
+            // d3.select(".delays .brush rect:not(.overlay)")
+            //     .style("display", "none");
         }
         dispatch.call("filter")
     })
@@ -72,8 +72,8 @@ dispatch.on("update.lastupdate", function (data) {
     d3.select(".lastupdate").text(d3.timeFormat("%d/%m %H:%M")(data.lastUpdate));
     d3.select("header img").on("click", () => {
         data.filters = {};
-        d3.selectAll(".brush rect:not(.overlay)")
-            .style("display", "none");
+        d3.select(".delays .brush").call(d3.brushX().move,null);
+        d3.select(".histograma .brush").call(d3.brushX().move,null);
         document.querySelector("#myInput").value = null;
         dispatch.call("filter");
     });
