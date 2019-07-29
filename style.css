@@ -145,13 +145,13 @@ body {
 }
 
 .arribo {
-    fill: #7559f2;
-    color: #7559f2;
+    fill: #e09431;
+    color: #e09431;
 }
 
 .partida {
-    fill: #f9284d;
-    color:#f9284d;
+    fill: #2aa7d8;
+    color:#2aa7d8;
 }
 
 .posiciones path:hover {
@@ -293,3 +293,46 @@ svg text {
     top:1px;
     font-size: 0.7em;
  }
+
+/* [data-aero='AU'] { fill: steelblue }
+[data-aero='LA'] { fill: steelblue }
+[data-aero='JJ'] { fill: steelblue }
+[data-aero='UA'] { fill: steelblue }
+[data-aero='AR'] { fill: steelblue }
+[data-aero='G3'] { fill: steelblue }
+[data-aero='QT'] { fill: steelblue }
+[data-aero='4M'] { fill: steelblue }
+[data-aero='AD'] { fill: steelblue }
+[data-aero='AC'] { fill: steelblue }
+[data-aero='KL'] { fill: steelblue }
+[data-aero='PZ'] { fill: steelblue }
+[data-aero='OB'] { fill: steelblue }
+[data-aero='H2'] { fill: steelblue }
+[data-aero='LP'] { fill: steelblue }
+[data-aero='IB'] { fill: steelblue }
+[data-aero='ET'] { fill: steelblue }
+[data-aero='EK'] { fill: steelblue }
+[data-aero='AV'] { fill: steelblue }
+[data-aero='CU'] { fill: steelblue }
+[data-aero='CM'] { fill: steelblue }
+[data-aero='AOG'] { fill: steelblue }
+[data-aero='AF'] { fill: steelblue }
+[data-aero='ES'] { fill: steelblue }
+[data-aero='5X'] { fill: steelblue }
+[data-aero='AA'] { fill: steelblue }
+[data-aero='M3'] { fill: steelblue }
+[data-aero='XL'] { fill: steelblue }
+[data-aero='LH'] { fill: steelblue }
+[data-aero='ZP'] { fill: steelblue }
+[data-aero='UX'] { fill: steelblue }
+[data-aero='AZ'] { fill: steelblue }
+[data-aero='AMS'] { fill: steelblue }
+[data-aero='DI'] { fill: steelblue }
+[data-aero='WK'] { fill: steelblue }
+[data-aero='BA'] { fill: steelblue }
+[data-aero='DL'] { fill: steelblue }
+[data-aero='IB_'] { fill: steelblue }
+[data-aero='TK'] { fill: steelblue }
+[data-aero='QR'] { fill: steelblue }
+[data-aero='AM'] { fill: steelblue }
+[data-aero='NZ'] { fill: steelblue } */

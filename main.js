@@ -1,5 +1,7 @@
 let dispatch = d3.dispatch("update", "filter","clearFilter");
 
+let test;
+
 let duration = 1000;
 // Actualizar cada 4 min
 ; (function () {
@@ -65,6 +67,7 @@ let duration = 1000;
     })
     load();
     setInterval(load, 4 * 60 * 1000);
+    test = data;
 })();
 
 // Last Update
@@ -105,7 +108,6 @@ dispatch.on("update.lastupdate", function (data) {
         .append("g")
         .attr("transform", `translate(${margin.left},${margin.top})`);
 
-    let color = d3.scaleOrdinal(d3.schemeCategory10);
     let treemapLayout = d3.treemap()
         .size([width, height])
         .tile(d3.treemapBinary)
@@ -113,7 +115,7 @@ dispatch.on("update.lastupdate", function (data) {
         .round(true)
 
     let tooltip = d3.select("body").append("div")
-        .classed("tooltip", true)
+        .classed("tooltip", true);
 
     dispatch.on("update.aerolinea", function (data) {
         dispatch.on("filter.aerolinea", function () {
@@ -154,7 +156,8 @@ dispatch.on("update.lastupdate", function (data) {
                 .attr("y", d => d.y0)
                 .attr("width", d => d.x1 - d.x0)
                 .attr("height", d => d.y1 - d.y0)
-                .attr("fill", "steelblue");
+                .attr("fill", "#39acd7")
+                .attr("data-aero",d => d.data.key);
 
             g.append("text")
                 .classed("ignore-events", true)
@@ -163,6 +166,7 @@ dispatch.on("update.lastupdate", function (data) {
                 .attr("y", d => d.y0)
                 .text(d => d.data.key)
                 .attr("dy", "0.9em")
+                .attr("fill","white");
 
             u.exit().remove();
 
@@ -207,6 +211,8 @@ dispatch.on("update.lastupdate", function (data) {
     let tooltip = d3.select("body").append("div")
         .classed("tooltip", true)
 
+    let color = d3.scaleOrdinal(d3.schemeCategory10);    
+
     dispatch.on("update.ruta", function (data) {
         dispatch.on("filter.ruta", function () {
             let filteredData = data.dimFilter(dimension);
@@ -229,7 +235,7 @@ dispatch.on("update.lastupdate", function (data) {
             gdata.append("circle")
                 .classed("clickable", true)
                 .attr("r", d => d.r)
-                .attr("fill", "steelblue")
+                .attr("fill", d => color(Math.random()))
                 .on("click", function (d) {
                     data.filters[dimension] = (vuelo) => vuelo.ruta === d.data.key;
                     d3.event.stopPropagation();
@@ -257,8 +263,9 @@ dispatch.on("update.lastupdate", function (data) {
                 .classed("ignore-events", true)
                 .text(d => d.data.key)
                 .attr("text-anchor", "middle")
-                .attr("font-size", "0.5em")
-                .attr("dy", "0.32em");
+                .attr("font-size", "0.7em")
+                .attr("dy", "0.32em")
+                .attr("fill","white");
 
             update
                 .transition()
@@ -370,13 +377,21 @@ dispatch.on("update.lastupdate", function (data) {
         .attr("viewBox", `0 0 ${width + margin.left + margin.right} ${height + margin.top + margin.bottom}`)
         .append("g")
         .attr("transform", `translate(${margin.left},${margin.top})`);
-
+    
+    let newSvg = svg.append("g");
     svg.append("text")
         .text("Cantidad de vuelos")
         .attr("transform","rotate(-90) translate(-3,18)")
         .attr("text-anchor","end")
         .attr("fill","white")
         .attr("font-size","0.7em");
+
+    svg.append("text")
+        .text("Horas")
+        .attr("transform",`translate(${width},${height - 5})`)
+        .attr("text-anchor","end")
+        .attr("fill","white")
+        .style("font-size","0.7em");
 
     let xScale = d3.scaleTime()
         .range([0, width]);
@@ -403,7 +418,7 @@ dispatch.on("update.lastupdate", function (data) {
 
         yAxis.call(d3.axisLeft(yScale));
 
-        xAxis.call(d3.axisBottom(xScale).tickFormat(d3.timeFormat("%H")))
+        xAxis.call(d3.axisBottom(xScale).tickFormat(d3.timeFormat("%H")).ticks(24))
 
         brush.call(d3.brushX().extent([[0, height + 1], [width, height + margin.bottom - 1]]).on("end", function (d, i) {
             if (!d3.event.selection) {
@@ -418,6 +433,7 @@ dispatch.on("update.lastupdate", function (data) {
             }
             dispatch.call("filter")
         }));
+        svg = newSvg;
         dispatch.on("filter.histograma", function () {
             let filteredData = data.dimFilter(dimension);
             let nest = d3.nest()
@@ -575,6 +591,22 @@ dispatch.on("update.lastupdate", function (data) {
         .append("g")
             .attr("transform", `translate(${margin.left},${margin.top})`);
 
+    let newSvg = svg.append("g");
+
+    svg.append("text")
+        .text("Cantidad de vuelos")
+        .attr("transform","rotate(-90) translate(-3,18)")
+        .attr("text-anchor","end")
+        .attr("fill","white")
+        .style("font-size","0.7em");
+
+    svg.append("text")
+        .text("Minutos")
+        .attr("transform",`translate(${width},${height - 5})`)
+        .attr("text-anchor","end")
+        .attr("fill","white")
+        .style("font-size","0.7em");
+
     let xAxis = svg.append("g").attr("transform", `translate(0,${height})`);
     let yAxis = svg.append("g");
 
@@ -586,6 +618,7 @@ dispatch.on("update.lastupdate", function (data) {
 
     let timeInterval = 15;
 
+    svg = newSvg;
     dispatch.on("update.delays", function (data) {
         let nest = d3.nest().key(d => Math.floor(d.delta / timeInterval) * timeInterval).entries(data.vuelos);
         let extents = d3.extent(nest, d => Number(d.key));
@@ -627,11 +660,13 @@ dispatch.on("update.lastupdate", function (data) {
 
             gs.selectAll("line").data(d => [d])
                 .join("line")
-                .attr("stroke","black")
+                .attr("stroke","#69b866")
+                .attr("stroke-width","3")
                 .attr("y2", d => height - yScale(d.values.length));
             gs.selectAll("circle").data(d => [d])
                 .join("circle")
-                .attr("r", 3);
+                .attr("r", 4)
+                .attr("fill","#69b866");
         })
     });
 })();
