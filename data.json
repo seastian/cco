@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/07/2019 20:55",
+  "lastUpdate": "30/07/2019 21:00",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -274,7 +274,7 @@
       "st": "30/07/2019 22:15",
       "matricula": "LVCIF",
       "posicion": "",
-      "et": "",
+      "et": "30/7/2019 22:10",
       "at": "",
       "term": "A",
       "sector": "",
@@ -282,9 +282,9 @@
       "lF": "",
       "ruta": "POA",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "73"
     },
     {
       "tipo": "arribo",
@@ -1124,22 +1124,22 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8013",
-      "st": "30/07/2019 08:55",
-      "matricula": "PRMHF",
-      "posicion": "06",
-      "et": "30/7/2019 08:50",
-      "at": "30/7/2019 08:55",
+      "aerolinea": "PZ",
+      "vuelo": "1311",
+      "st": "31/07/2019 08:55",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "3",
-      "lF": "001",
+      "cinta": "",
+      "lF": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "ATE",
+      "remark": "",
       "sanidad": "NO",
-      "pax": "110"
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -1295,25 +1295,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "UA",
-      "vuelo": "819",
-      "st": "30/07/2019 10:20",
-      "matricula": "N78005",
-      "posicion": "13",
-      "et": "30/7/2019 10:05",
-      "at": "30/7/2019 10:16",
-      "term": "A",
-      "sector": "",
-      "cinta": "4",
-      "lF": "004",
-      "ruta": "IAH",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "239"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "JJ",
       "vuelo": "8008",
       "st": "30/07/2019 10:00",
@@ -1330,6 +1311,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "202"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "UA",
+      "vuelo": "819",
+      "st": "30/07/2019 10:20",
+      "matricula": "N78005",
+      "posicion": "13",
+      "et": "30/7/2019 10:05",
+      "at": "30/7/2019 10:16",
+      "term": "A",
+      "sector": "",
+      "cinta": "4",
+      "lF": "004",
+      "ruta": "IAH",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "239"
     },
     {
       "tipo": "arribo",
@@ -3551,7 +3551,7 @@
       "puerta": "03",
       "ruta": "SCL",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3646,7 +3646,7 @@
       "puerta": "02",
       "ruta": "MAD",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
