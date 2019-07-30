@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/07/2019 14:17",
+  "lastUpdate": "30/07/2019 14:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -140,7 +140,7 @@
       "vuelo": "1285",
       "st": "30/07/2019 16:15",
       "matricula": "LVCAP",
-      "posicion": "",
+      "posicion": "15B",
       "et": "30/7/2019 15:56",
       "at": "",
       "term": "A",
@@ -3551,7 +3551,7 @@
       "puerta": "04",
       "ruta": "GRU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3589,7 +3589,7 @@
       "puerta": "01",
       "ruta": "GRU",
       "via": "",
-      "remark": "PRE",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
