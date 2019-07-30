@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/07/2019 17:23",
+  "lastUpdate": "30/07/2019 17:29",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3657,7 +3657,7 @@
       "matricula": "PRVBH",
       "posicion": "06",
       "et": "",
-      "at": "",
+      "at": "30/7/2019 17:23",
       "term": "A",
       "sector": "AP",
       "chkFrom": "068",
@@ -3665,7 +3665,7 @@
       "puerta": "05",
       "ruta": "GIG",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3741,7 +3741,7 @@
       "puerta": "17",
       "ruta": "POA",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
