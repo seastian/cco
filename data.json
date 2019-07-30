@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/07/2019 18:26",
+  "lastUpdate": "30/07/2019 18:31",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3665,7 +3665,7 @@
       "puerta": "21",
       "ruta": "GRU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3741,7 +3741,7 @@
       "puerta": "03",
       "ruta": "SCL",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3902,14 +3902,14 @@
       "vuelo": "900",
       "st": "30/07/2019 20:50",
       "matricula": "N797AN",
-      "posicion": "56",
+      "posicion": "10",
       "et": "",
       "at": "",
       "term": "A",
       "sector": "AP",
       "chkFrom": "001",
       "chkTo": "020",
-      "puerta": "",
+      "puerta": "10",
       "ruta": "MIA",
       "via": "",
       "remark": "HOR",
