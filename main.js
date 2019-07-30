@@ -483,7 +483,7 @@ dispatch.on("update.lastupdate", function (data) {
 // Genero Tabla de Vuelos, se puede filtar
 ; (function () {
     let columnas = [
-        { key: "tipo", name: "T", parse: tipo => tipo === "arribo" ? "A" : tipo === "partida" ? "P" : tipo },
+        { key: "tipo", name: "Tipo", parse: tipo => tipo === "arribo" ? "A" : tipo === "partida" ? "P" : tipo },
         { key: "aerolinea", name: "Aero" },
         { key: "vuelo", name: "Vuelo" },
         { key: "ruta", name: "Ruta" },
@@ -505,14 +505,31 @@ dispatch.on("update.lastupdate", function (data) {
     let tabla = d3.select(".tablavuelos")
         .append("table");
 
-    tabla.append("thead")
+    let rh = tabla.append("thead")
         .append("tr")
         .selectAll("th")
         .data(columnas)
         .enter()
         .append("th")
-        .text(d => d.name)
+        .text(d => d.name);
+
+    rh.filter(d => d.key === "delta")
+        .classed("demTooltip",true)
         .append("i")
+        .attr("class", "fas fa-info")
+        .style("padding-left","0.3em")
+        .style("font-size","0.7em")
+        .style("vertical-align","top")
+        .style("color","yellow")
+        .append("div")
+        .classed("tooltipDemDiv", true)
+        .text("Un vuelo se considera demorado cuando su horario difiere en por lo menos 15 minutos del horario programado. La demora se muestra como los minutos excedentes sobre 15 minutos.")
+        .style("font-size","1rem")
+        .style("padding","0.5rem")
+        .style("min-width","200px")
+        .style("font-family","Open Sans");
+
+    rh.append("i")
         .attr("class", "fas fa-sort")
         .style("padding-left", "0.5em")
         .on("click", function (d) {
@@ -562,6 +579,22 @@ dispatch.on("update.lastupdate", function (data) {
                         return "parse" in d ? d.parse(rowData[d.key]) : rowData[d.key];
                     } else {
                         return '\xa0';
+                    }
+                })
+                .style("color",function(d) {
+                    if(d.key === "tipo") {
+                        let rowData = d3.select(this.parentElement).datum();
+                        let colors = {
+                            arribo: "#e09431",
+                            partida: "#2aa7d8"
+                        };
+                        if(rowData.tipo in colors) {
+                            return colors[rowData.tipo];
+                        } else {
+                            return null;
+                        }
+                    } else {
+                        return null;
                     }
                 })
         });

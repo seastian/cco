@@ -342,3 +342,28 @@ svg text {
 [data-aero='QR'] { fill: steelblue }
 [data-aero='AM'] { fill: steelblue }
 [data-aero='NZ'] { fill: steelblue } */
+
+.fas.fa-info {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black;
+  }
+  
+  .fas.fa-info .tooltipDemDiv {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 150%;
+    left: 50%;
+    margin-left: -60px;
+  }
+  
+  .fas.fa-info:hover .tooltipDemDiv {
+    visibility: visible;
+  }
