@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/07/2019 11:34",
+  "lastUpdate": "31/07/2019 11:39",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2284,18 +2284,18 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1300",
-      "st": "30/07/2019 23:30",
-      "matricula": "LVFNI",
-      "posicion": "13",
+      "vuelo": "1132",
+      "st": "30/07/2019 23:55",
+      "matricula": "LVFPU",
+      "posicion": "15",
       "et": "",
-      "at": "30/7/2019 23:36",
+      "at": "31/7/2019 00:13",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "17",
-      "ruta": "JFK",
+      "puerta": "20",
+      "ruta": "MAD",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -2317,25 +2317,6 @@
       "ruta": "MAO",
       "via": "",
       "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1132",
-      "st": "30/07/2019 23:55",
-      "matricula": "LVFPU",
-      "posicion": "15",
-      "et": "",
-      "at": "31/7/2019 00:13",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "20",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3342,7 +3323,7 @@
       "puerta": "03",
       "ruta": "GRU",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3361,7 +3342,7 @@
       "puerta": "05",
       "ruta": "FLN",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3380,7 +3361,7 @@
       "puerta": "21",
       "ruta": "GRU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3418,7 +3399,7 @@
       "puerta": "25",
       "ruta": "COR",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
