@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/07/2019 01:52",
+  "lastUpdate": "31/07/2019 01:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -36,25 +36,6 @@
       "ruta": "DOH",
       "via": "GRU",
       "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "FQ",
-      "vuelo": "8071",
-      "st": "31/07/2019 03:30",
-      "matricula": "LVHQU",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "CNF",
-      "via": "",
-      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
@@ -160,7 +141,7 @@
       "st": "31/07/2019 05:00",
       "matricula": "LVGUC",
       "posicion": "",
-      "et": "",
+      "et": "31/7/2019 05:07",
       "at": "",
       "term": "A",
       "sector": "",
@@ -168,9 +149,9 @@
       "lF": "",
       "ruta": "LIM",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "139"
     },
     {
       "tipo": "arribo",
@@ -209,6 +190,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "FQ",
+      "vuelo": "8071",
+      "st": "31/07/2019 03:30",
+      "matricula": "LVHQU",
+      "posicion": "",
+      "et": "31/7/2019 05:30",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "CNF",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": "49"
     },
     {
       "tipo": "arribo",
@@ -369,7 +369,7 @@
       "st": "31/07/2019 07:10",
       "matricula": "LVBZO",
       "posicion": "",
-      "et": "",
+      "et": "31/7/2019 07:04",
       "at": "",
       "term": "A",
       "sector": "",
@@ -377,9 +377,9 @@
       "lF": "",
       "ruta": "BOG",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "120"
     },
     {
       "tipo": "arribo",
@@ -3452,7 +3452,7 @@
       "term": "A",
       "sector": "AP",
       "chkFrom": "027",
-      "chkTo": "031",
+      "chkTo": "033",
       "puerta": "09",
       "ruta": "GIG",
       "via": "",
