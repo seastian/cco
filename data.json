@@ -1,12 +1,12 @@
 {
-  "lastUpdate": "31/07/2019 10:40",
+  "lastUpdate": "31/07/2019 10:46",
   "vuelos": [
     {
       "tipo": "arribo",
       "aerolinea": "LA",
       "vuelo": "467",
       "st": "31/07/2019 11:09",
-      "matricula": "CCBAG",
+      "matricula": "CCBHB",
       "posicion": "08",
       "et": "31/7/2019 10:45",
       "at": "",
@@ -136,6 +136,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "G3",
+      "vuelo": "7688",
+      "st": "31/07/2019 13:30",
+      "matricula": "PRGUJ",
+      "posicion": "",
+      "et": "31/7/2019 13:23",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "BSB",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "155"
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1241",
       "st": "31/07/2019 13:25",
@@ -152,25 +171,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "137"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7688",
-      "st": "31/07/2019 13:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "BSB",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -3456,7 +3456,7 @@
       "puerta": "19",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3578,7 +3578,7 @@
       "aerolinea": "LA",
       "vuelo": "466",
       "st": "31/07/2019 12:06",
-      "matricula": "CCBAG",
+      "matricula": "CCBHB",
       "posicion": "08",
       "et": "",
       "at": "",
@@ -3844,7 +3844,7 @@
       "aerolinea": "G3",
       "vuelo": "7453",
       "st": "31/07/2019 15:10",
-      "matricula": "",
+      "matricula": "PRGUJ",
       "posicion": "",
       "et": "",
       "at": "",
