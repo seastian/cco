@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/07/2019 18:23",
+  "lastUpdate": "31/07/2019 18:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1086,25 +1086,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "LH",
-      "vuelo": "510",
-      "st": "31/07/2019 06:40",
-      "matricula": "DABYM",
-      "posicion": "09",
-      "et": "31/7/2019 06:22",
-      "at": "31/7/2019 06:22",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "008",
-      "ruta": "FRA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "4M",
       "vuelo": "7821",
       "st": "31/07/2019 07:05",
@@ -1409,25 +1390,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "H2",
-      "vuelo": "501",
-      "st": "31/07/2019 09:20",
-      "matricula": "CCAMP",
-      "posicion": "08",
-      "et": "31/7/2019 09:05",
-      "at": "31/7/2019 09:02",
-      "term": "A",
-      "sector": "",
-      "cinta": "3",
-      "lF": "003",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "131"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1269",
       "st": "31/07/2019 09:20",
@@ -1444,6 +1406,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "106"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "H2",
+      "vuelo": "501",
+      "st": "31/07/2019 09:20",
+      "matricula": "CCAMP",
+      "posicion": "08",
+      "et": "31/7/2019 09:05",
+      "at": "31/7/2019 09:02",
+      "term": "A",
+      "sector": "",
+      "cinta": "3",
+      "lF": "003",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "131"
     },
     {
       "tipo": "arribo",
@@ -3608,7 +3589,7 @@
       "puerta": "07",
       "ruta": "SCL",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3646,7 +3627,7 @@
       "puerta": "02",
       "ruta": "GRU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
