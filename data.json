@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/07/2019 01:36",
+  "lastUpdate": "31/07/2019 01:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1050,20 +1050,20 @@
       "tipo": "arribo",
       "aerolinea": "PZ",
       "vuelo": "1304",
-      "st": "30/07/2019 13:35",
-      "matricula": "PRMBQ",
-      "posicion": "05",
+      "st": "31/07/2019 13:35",
+      "matricula": "PRMBF",
+      "posicion": "",
       "et": "",
-      "at": "30/7/2019 13:35",
+      "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "5",
-      "lF": "004",
+      "cinta": "",
+      "lF": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "ATE",
+      "remark": "",
       "sanidad": "NO",
-      "pax": "129"
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -3342,7 +3342,7 @@
       "puerta": "05",
       "ruta": "ASU",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4395,7 +4395,7 @@
       "aerolinea": "AR",
       "vuelo": "1412",
       "st": "31/07/2019 12:10",
-      "matricula": "",
+      "matricula": "LVCAD",
       "posicion": "",
       "et": "",
       "at": "",
@@ -4433,7 +4433,7 @@
       "aerolinea": "AR",
       "vuelo": "1698",
       "st": "31/07/2019 12:25",
-      "matricula": "",
+      "matricula": "LVFXQ",
       "posicion": "",
       "et": "",
       "at": "",
@@ -4528,7 +4528,7 @@
       "aerolinea": "AR",
       "vuelo": "1664",
       "st": "31/07/2019 13:05",
-      "matricula": "",
+      "matricula": "LVFQB",
       "posicion": "",
       "et": "",
       "at": "",
