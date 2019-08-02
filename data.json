@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/08/2019 21:08",
+  "lastUpdate": "01/08/2019 21:13",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3570,7 +3570,7 @@
       "puerta": "20",
       "ruta": "ATL",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3665,7 +3665,7 @@
       "puerta": "19",
       "ruta": "ADD",
       "via": "GRU",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3684,7 +3684,7 @@
       "puerta": "24",
       "ruta": "COR",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3703,7 +3703,7 @@
       "puerta": "02",
       "ruta": "MAD",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3741,7 +3741,7 @@
       "puerta": "05",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3807,7 +3807,7 @@
       "vuelo": "992",
       "st": "01/08/2019 22:20",
       "matricula": "N825AA",
-      "posicion": "56",
+      "posicion": "10",
       "et": "",
       "at": "",
       "term": "A",
@@ -3879,25 +3879,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AA",
-      "vuelo": "908",
-      "st": "01/08/2019 22:40",
-      "matricula": "N770AN",
-      "posicion": "09",
-      "et": "1/8/2019 23:00",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "001",
-      "chkTo": "020",
-      "puerta": "09",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1302",
       "st": "01/08/2019 23:00",
@@ -3913,6 +3894,25 @@
       "ruta": "MIA",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AA",
+      "vuelo": "908",
+      "st": "01/08/2019 22:40",
+      "matricula": "N770AN",
+      "posicion": "09",
+      "et": "1/8/2019 23:00",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "001",
+      "chkTo": "020",
+      "puerta": "09",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "DEM",
       "sanidad": "NO"
     },
     {
