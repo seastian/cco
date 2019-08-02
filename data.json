@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/08/2019 18:22",
+  "lastUpdate": "02/08/2019 18:29",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -972,44 +972,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "LH",
-      "vuelo": "510",
-      "st": "02/08/2019 06:40",
-      "matricula": "DABYR",
-      "posicion": "09",
-      "et": "2/8/2019 06:15",
-      "at": "2/8/2019 06:25",
-      "term": "A",
-      "sector": "",
-      "cinta": "6",
-      "lF": "007",
-      "ruta": "FRA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AA",
-      "vuelo": "907",
-      "st": "02/08/2019 06:00",
-      "matricula": "N790AN",
-      "posicion": "04",
-      "et": "2/8/2019 06:20",
-      "at": "2/8/2019 06:20",
-      "term": "A",
-      "sector": "",
-      "cinta": "1",
-      "lF": "005",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "272"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AZ",
       "vuelo": "680",
       "st": "02/08/2019 06:45",
@@ -1485,25 +1447,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "MP",
-      "vuelo": "7342",
-      "st": "02/08/2019 10:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "AMS",
-      "via": "VCP",
-      "remark": "CAN",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "JJ",
       "vuelo": "8008",
       "st": "02/08/2019 10:00",
@@ -1520,6 +1463,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "211"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "MP",
+      "vuelo": "7342",
+      "st": "02/08/2019 10:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "AMS",
+      "via": "VCP",
+      "remark": "CAN",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -3665,7 +3627,7 @@
       "puerta": "16",
       "ruta": "CWB",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
