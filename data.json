@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/08/2019 11:41",
+  "lastUpdate": "03/08/2019 11:46",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2341,25 +2341,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1368",
-      "st": "02/08/2019 23:15",
-      "matricula": "LVFRQ",
-      "posicion": "22A",
-      "et": "",
-      "at": "2/8/2019 23:40",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "13",
-      "ruta": "VVI",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "1300",
       "st": "02/08/2019 23:30",
       "matricula": "LVFVH",
@@ -2435,25 +2416,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "NZ",
-      "vuelo": "31",
-      "st": "03/08/2019 00:30",
-      "matricula": "ZKOKB",
-      "posicion": "03",
-      "et": "",
-      "at": "3/8/2019 00:43",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "054",
-      "chkTo": "060",
-      "puerta": "02",
-      "ruta": "AKL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AV",
       "vuelo": "218",
       "st": "03/08/2019 00:30",
@@ -2467,6 +2429,25 @@
       "chkTo": "016",
       "puerta": "15",
       "ruta": "BOG",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "NZ",
+      "vuelo": "31",
+      "st": "03/08/2019 00:30",
+      "matricula": "ZKOKB",
+      "posicion": "03",
+      "et": "",
+      "at": "3/8/2019 00:43",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "054",
+      "chkTo": "060",
+      "puerta": "02",
+      "ruta": "AKL",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -2797,25 +2778,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1260",
-      "st": "03/08/2019 06:00",
-      "matricula": "LVCAP",
-      "posicion": "17A",
-      "et": "",
-      "at": "3/8/2019 06:16",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "19",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "1282",
       "st": "03/08/2019 06:00",
       "matricula": "LVCBT",
@@ -2828,6 +2790,25 @@
       "chkTo": "240",
       "puerta": "17",
       "ruta": "SCL",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1260",
+      "st": "03/08/2019 06:00",
+      "matricula": "LVCAP",
+      "posicion": "17A",
+      "et": "",
+      "at": "3/8/2019 06:16",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "19",
+      "ruta": "ASU",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -2854,25 +2835,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1428",
-      "st": "03/08/2019 06:40",
-      "matricula": "LVGUC",
-      "posicion": "18A",
-      "et": "",
-      "at": "3/8/2019 06:49",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "24",
-      "ruta": "SLA",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "1240",
       "st": "03/08/2019 06:40",
       "matricula": "LVGGQ",
@@ -2885,6 +2847,25 @@
       "chkTo": "240",
       "puerta": "21",
       "ruta": "GRU",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1428",
+      "st": "03/08/2019 06:40",
+      "matricula": "LVGUC",
+      "posicion": "18A",
+      "et": "",
+      "at": "3/8/2019 06:49",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "24",
+      "ruta": "SLA",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -3323,7 +3304,7 @@
       "puerta": "17",
       "ruta": "GRU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3361,7 +3342,7 @@
       "puerta": "24",
       "ruta": "BRC",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3380,7 +3361,7 @@
       "puerta": "01",
       "ruta": "JPA",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3437,7 +3418,7 @@
       "puerta": "25",
       "ruta": "MDZ",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3475,7 +3456,7 @@
       "puerta": "08",
       "ruta": "MAD",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
