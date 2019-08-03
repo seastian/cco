@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/08/2019 02:39",
+  "lastUpdate": "03/08/2019 02:46",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -250,25 +250,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7471",
-      "st": "03/08/2019 06:40",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "REC",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "LP",
       "vuelo": "2439",
       "st": "03/08/2019 06:45",
@@ -285,6 +266,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "G3",
+      "vuelo": "7471",
+      "st": "03/08/2019 06:40",
+      "matricula": "PRGUI",
+      "posicion": "",
+      "et": "3/8/2019 06:49",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "REC",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "175"
     },
     {
       "tipo": "arribo",
@@ -1140,25 +1140,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1229",
-      "st": "02/08/2019 15:05",
-      "matricula": "LVGGQ",
-      "posicion": "15B",
-      "et": "2/8/2019 14:38",
-      "at": "2/8/2019 14:37",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "010",
-      "ruta": "SSA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "166"
     },
     {
       "tipo": "arribo",
@@ -2337,25 +2318,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "168"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "G3",
-      "vuelo": "7453",
-      "st": "02/08/2019 14:10",
-      "matricula": "PRGUT",
-      "posicion": "08",
-      "et": "",
-      "at": "2/8/2019 14:42",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "068",
-      "chkTo": "074",
-      "puerta": "07",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
@@ -3646,7 +3608,7 @@
       "puerta": "16",
       "ruta": "PUJ",
       "via": "RES",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4110,7 +4072,7 @@
       "aerolinea": "G3",
       "vuelo": "7649",
       "st": "03/08/2019 08:10",
-      "matricula": "",
+      "matricula": "PRGUI",
       "posicion": "",
       "et": "",
       "at": "",
