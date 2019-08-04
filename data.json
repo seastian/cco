@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/08/2019 02:11",
+  "lastUpdate": "04/08/2019 02:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3603,8 +3603,8 @@
       "at": "",
       "term": "A",
       "sector": "AP",
-      "chkFrom": "001",
-      "chkTo": "020",
+      "chkFrom": "007",
+      "chkTo": "012",
       "puerta": "",
       "ruta": "MIA",
       "via": "",
@@ -3627,7 +3627,7 @@
       "puerta": "02",
       "ruta": "REC",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3646,7 +3646,7 @@
       "puerta": "21",
       "ruta": "SSA",
       "via": "BPS",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4168,14 +4168,14 @@
       "vuelo": "1304",
       "st": "04/08/2019 08:30",
       "matricula": "LVFNL",
-      "posicion": "23",
+      "posicion": "14",
       "et": "",
       "at": "",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "209",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "19",
       "ruta": "MIA",
       "via": "",
       "remark": "HOR",
@@ -4728,6 +4728,25 @@
       "chkTo": "012",
       "puerta": "",
       "ruta": "LHR",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "G3",
+      "vuelo": "7453",
+      "st": "04/08/2019 14:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "068",
+      "chkTo": "074",
+      "puerta": "",
+      "ruta": "GRU",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
