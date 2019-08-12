@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "12/08/2019 13:08",
+  "lastUpdate": "12/08/2019 13:13",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7688",
-      "st": "12/08/2019 13:30",
-      "matricula": "PRGUX",
-      "posicion": "09",
-      "et": "12/8/2019 13:07",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "4",
-      "lF": "004",
-      "ruta": "BSB",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "157"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AR",
@@ -1117,6 +1098,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "GRU",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "G3",
+      "vuelo": "7648",
+      "st": "13/08/2019 01:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "GIG",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -2356,6 +2356,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "95"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "G3",
+      "vuelo": "7688",
+      "st": "12/08/2019 13:30",
+      "matricula": "PRGUX",
+      "posicion": "09",
+      "et": "12/8/2019 13:07",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "4",
+      "lF": "004",
+      "ruta": "BSB",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "157"
     },
     {
       "tipo": "partida",
@@ -3627,7 +3646,7 @@
       "puerta": "03",
       "ruta": "LHR",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
