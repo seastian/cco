@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/08/2019 13:18",
+  "lastUpdate": "12/08/2019 13:24",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1979,25 +1979,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AA",
-      "vuelo": "953",
-      "st": "12/08/2019 09:44",
-      "matricula": "N755AN",
-      "posicion": "08",
-      "et": "",
-      "at": "12/8/2019 09:51",
-      "term": "A",
-      "sector": "",
-      "cinta": "5",
-      "lF": "006",
-      "ruta": "JFK",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "272"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1231",
       "st": "12/08/2019 09:45",
@@ -2014,6 +1995,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "141"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AA",
+      "vuelo": "953",
+      "st": "12/08/2019 09:44",
+      "matricula": "N755AN",
+      "posicion": "08",
+      "et": "",
+      "at": "12/8/2019 09:51",
+      "term": "A",
+      "sector": "",
+      "cinta": "5",
+      "lF": "006",
+      "ruta": "JFK",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "272"
     },
     {
       "tipo": "arribo",
@@ -2375,6 +2375,25 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "151"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "KL",
+      "vuelo": "702",
+      "st": "12/08/2019 13:30",
+      "matricula": "PHBHM",
+      "posicion": "11",
+      "et": "12/8/2019 13:21",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "5",
+      "lF": "005",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "partida",
@@ -3646,7 +3665,7 @@
       "puerta": "03",
       "ruta": "LHR",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4747,6 +4766,25 @@
       "chkTo": "015",
       "puerta": "",
       "ruta": "BOG",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "CM",
+      "vuelo": "453",
+      "st": "13/08/2019 01:19",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "021",
+      "chkTo": "026",
+      "puerta": "",
+      "ruta": "PTY",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
