@@ -494,6 +494,7 @@ dispatch.on("update.lastupdate", function (data) {
         { key: "delta", name: "Dem" },
         { key: "remark", name: "Rem" },
         { key: "posicion", name: "Posición" },
+        { key: "puerta", name: "Puerta" },
         { key: "cinta", name: "Cinta" },
         { key: "chkFrom", name: "chkF", parse: d => d.replace(/^0+/, '') },
         { key: "chkTo", name: "chkT", parse: d => d.replace(/^0+/, '') },

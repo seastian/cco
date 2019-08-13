@@ -94,11 +94,12 @@ body {
 	td:nth-of-type(9):before { content: "Demora"; }
     td:nth-of-type(10):before { content: "Remark"; }
     td:nth-of-type(11):before { content: "Posición"; }
-	td:nth-of-type(12):before { content: "Cinta"; }
-	td:nth-of-type(13):before { content: "chkF"; }
-	td:nth-of-type(14):before { content: "chkT"; }
-	td:nth-of-type(15):before { content: "Pax"; }
-    td:nth-of-type(16):before { content: "Term"; }
+    td:nth-of-type(12):before { content: "Puerta"; }
+	td:nth-of-type(13):before { content: "Cinta"; }
+	td:nth-of-type(14):before { content: "chkF"; }
+	td:nth-of-type(15):before { content: "chkT"; }
+	td:nth-of-type(16):before { content: "Pax"; }
+    td:nth-of-type(17):before { content: "Term"; }
 }
 
 .sidebar {
