@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/08/2019 02:06",
+  "lastUpdate": "13/08/2019 02:12",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2318,25 +2318,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7452",
-      "st": "13/08/2019 00:25",
-      "matricula": "PRVBG",
-      "posicion": "02",
-      "et": "13/8/2019 00:35",
-      "at": "13/8/2019 00:26",
-      "term": "A",
-      "sector": "",
-      "cinta": "5",
-      "lF": "006",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "148"
     },
     {
       "tipo": "arribo",
