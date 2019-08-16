@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/08/2019 13:37",
+  "lastUpdate": "16/08/2019 13:43",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3220,7 +3220,7 @@
       "matricula": "PRYRL",
       "posicion": "04",
       "et": "",
-      "at": "",
+      "at": "16/8/2019 13:43",
       "term": "A",
       "sector": "AP",
       "chkFrom": "075",
@@ -3228,7 +3228,7 @@
       "puerta": "03",
       "ruta": "VCP",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3285,7 +3285,7 @@
       "puerta": "24",
       "ruta": "BRC",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3304,7 +3304,7 @@
       "puerta": "04",
       "ruta": "LHR",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
