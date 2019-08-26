@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/08/2019 13:51",
+  "lastUpdate": "26/08/2019 13:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -69,8 +69,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "7",
+      "lF": "007",
       "ruta": "SCL",
       "via": "",
       "remark": "EST",
@@ -649,6 +649,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "AM",
+      "vuelo": "030",
+      "st": "26/08/2019 21:20",
+      "matricula": "N783AM",
+      "posicion": "",
+      "et": "26/8/2019 21:17",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MEX",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1465",
       "st": "26/08/2019 21:20",
@@ -680,25 +699,6 @@
       "cinta": "",
       "lF": "",
       "ruta": "SLA",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AM",
-      "vuelo": "030",
-      "st": "26/08/2019 21:20",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MEX",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -3466,7 +3466,7 @@
       "st": "26/08/2019 14:10",
       "matricula": "PRGUH",
       "posicion": "11B",
-      "et": "26/8/2019 14:10",
+      "et": "26/8/2019 14:30",
       "at": "",
       "term": "A",
       "sector": "AP",
@@ -3475,7 +3475,7 @@
       "puerta": "15",
       "ruta": "GRU",
       "via": "",
-      "remark": "PRE",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3494,7 +3494,7 @@
       "puerta": "07",
       "ruta": "GRU",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
