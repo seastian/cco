@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/08/2019 12:46",
+  "lastUpdate": "26/08/2019 12:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2232,14 +2232,14 @@
       "matricula": "LVFQY",
       "posicion": "18A",
       "et": "26/8/2019 12:45",
-      "at": "",
+      "at": "26/8/2019 12:50",
       "term": "A",
       "sector": "",
       "cinta": "7",
       "lF": "009",
       "ruta": "SCL",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "84"
     },
@@ -3353,7 +3353,7 @@
       "matricula": "ECMIG",
       "posicion": "03",
       "et": "",
-      "at": "",
+      "at": "26/8/2019 12:48",
       "term": "A",
       "sector": "AP",
       "chkFrom": "054",
@@ -3361,7 +3361,7 @@
       "puerta": "02",
       "ruta": "MAD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3456,7 +3456,7 @@
       "puerta": "03",
       "ruta": "VCP",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
