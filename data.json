@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/08/2019 11:28",
+  "lastUpdate": "27/08/2019 11:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1086,25 +1086,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8014",
-      "st": "26/08/2019 23:40",
-      "matricula": "PTMXH",
-      "posicion": "08",
-      "et": "26/8/2019 23:35",
-      "at": "26/8/2019 23:29",
-      "term": "A",
-      "sector": "",
-      "cinta": "3",
-      "lF": "003",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "CM",
       "vuelo": "279",
       "st": "27/08/2019 00:04",
@@ -1257,25 +1238,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AD",
-      "vuelo": "8770",
-      "st": "27/08/2019 02:50",
-      "matricula": "PRYRW",
-      "posicion": "02",
-      "et": "27/8/2019 02:35",
-      "at": "27/8/2019 02:34",
-      "term": "A",
-      "sector": "",
-      "cinta": "2",
-      "lF": "006",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "QR",
       "vuelo": "8157",
       "st": "27/08/2019 02:55",
@@ -1289,6 +1251,25 @@
       "lF": "",
       "ruta": "DOH",
       "via": "GRU",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AD",
+      "vuelo": "8770",
+      "st": "27/08/2019 02:50",
+      "matricula": "PRYRW",
+      "posicion": "02",
+      "et": "27/8/2019 02:35",
+      "at": "27/8/2019 02:34",
+      "term": "A",
+      "sector": "",
+      "cinta": "2",
+      "lF": "006",
+      "ruta": "VCP",
+      "via": "",
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
@@ -2103,7 +2084,7 @@
       "term": "A",
       "sector": "",
       "cinta": "6",
-      "lF": "008",
+      "lF": "009",
       "ruta": "IAH",
       "via": "",
       "remark": "ATE",
@@ -2122,7 +2103,7 @@
       "term": "A",
       "sector": "",
       "cinta": "8",
-      "lF": "009",
+      "lF": "007",
       "ruta": "SCL",
       "via": "",
       "remark": "ATE",
@@ -2166,25 +2147,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1302",
-      "st": "26/08/2019 23:00",
-      "matricula": "LVFNL",
-      "posicion": "16",
-      "et": "",
-      "at": "26/8/2019 23:31",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "206",
-      "chkTo": "240",
-      "puerta": "22",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
@@ -3030,7 +2992,7 @@
       "matricula": "GCKWP",
       "posicion": "03",
       "et": "",
-      "at": "",
+      "at": "27/8/2019 11:31",
       "term": "A",
       "sector": "AP",
       "chkFrom": "001",
@@ -3038,7 +3000,7 @@
       "puerta": "02",
       "ruta": "LGW",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3049,7 +3011,7 @@
       "matricula": "PTXPD",
       "posicion": "06",
       "et": "",
-      "at": "",
+      "at": "27/8/2019 11:28",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3057,7 +3019,7 @@
       "puerta": "05",
       "ruta": "GRU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3068,7 +3030,7 @@
       "matricula": "LVCBF",
       "posicion": "17B",
       "et": "",
-      "at": "",
+      "at": "27/8/2019 11:23",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3076,7 +3038,7 @@
       "puerta": "19",
       "ruta": "SCL",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3095,7 +3057,7 @@
       "puerta": "23",
       "ruta": "PTY",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3133,7 +3095,7 @@
       "puerta": "09",
       "ruta": "BCN",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3228,7 +3190,7 @@
       "puerta": "16",
       "ruta": "MAD",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3266,7 +3228,7 @@
       "puerta": "24",
       "ruta": "BRC",
       "via": "",
-      "remark": "PRE",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
