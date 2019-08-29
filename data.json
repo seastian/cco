@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/08/2019 15:20",
+  "lastUpdate": "29/08/2019 15:25",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -145,8 +145,8 @@
       "at": "",
       "term": "C",
       "sector": "CAC",
-      "cinta": "",
-      "lF": "",
+      "cinta": "11",
+      "lF": "018",
       "ruta": "BRC",
       "via": "",
       "remark": "DEM",
@@ -171,6 +171,25 @@
       "remark": "HOR",
       "sanidad": "NO",
       "pax": "7"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "JJ",
+      "vuelo": "8003",
+      "st": "29/08/2019 17:40",
+      "matricula": "PRMHQ",
+      "posicion": "",
+      "et": "29/8/2019 17:20",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "171"
     },
     {
       "tipo": "arribo",
@@ -202,32 +221,13 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "8",
+      "lF": "008",
       "ruta": "MAD",
       "via": "",
       "remark": "EST",
       "sanidad": "NO",
       "pax": "199"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8003",
-      "st": "29/08/2019 17:40",
-      "matricula": "PRMHQ",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -291,7 +291,7 @@
       "aerolinea": "LP",
       "vuelo": "2429",
       "st": "29/08/2019 19:00",
-      "matricula": "CCBAA",
+      "matricula": "CCBCE",
       "posicion": "",
       "et": "",
       "at": "",
@@ -3494,7 +3494,7 @@
       "puerta": "16",
       "ruta": "GIG",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3551,7 +3551,7 @@
       "puerta": "05",
       "ruta": "GRU",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3882,7 +3882,7 @@
       "aerolinea": "LP",
       "vuelo": "2468",
       "st": "29/08/2019 19:55",
-      "matricula": "CCBAA",
+      "matricula": "CCBCE",
       "posicion": "",
       "et": "",
       "at": "",
