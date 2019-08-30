@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/08/2019 15:10",
+  "lastUpdate": "30/08/2019 15:15",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -255,7 +255,7 @@
       "st": "30/08/2019 19:00",
       "matricula": "CCBAA",
       "posicion": "",
-      "et": "",
+      "et": "30/8/2019 18:45",
       "at": "",
       "term": "A",
       "sector": "",
@@ -263,9 +263,9 @@
       "lF": "",
       "ruta": "LIM",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "142"
     },
     {
       "tipo": "arribo",
@@ -3917,25 +3917,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "4M",
-      "vuelo": "7820",
-      "st": "30/08/2019 21:25",
-      "matricula": "LVZYV",
-      "posicion": "36",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "UA",
       "vuelo": "818",
       "st": "30/08/2019 21:25",
@@ -3949,6 +3930,25 @@
       "chkTo": "061",
       "puerta": "",
       "ruta": "IAH",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "4M",
+      "vuelo": "7820",
+      "st": "30/08/2019 21:25",
+      "matricula": "LVZYV",
+      "posicion": "36",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "MIA",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -4406,6 +4406,25 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1324",
+      "st": "31/08/2019 03:15",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "PUJ",
+      "via": "RES",
       "remark": "HOR",
       "sanidad": "NO"
     }
