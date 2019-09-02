@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/09/2019 14:23",
+  "lastUpdate": "02/09/2019 14:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3817,7 +3817,7 @@
       "puerta": "10",
       "ruta": "YYZ",
       "via": "SCL",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
