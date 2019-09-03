@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/09/2019 15:51",
+  "lastUpdate": "03/09/2019 15:56",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1333,25 +1333,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "DI",
-      "vuelo": "7505",
-      "st": "03/09/2019 08:10",
-      "matricula": "GCKWD",
-      "posicion": "09",
-      "et": "3/9/2019 08:01",
-      "at": "3/9/2019 08:01",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "LGW",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "306"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AF",
       "vuelo": "228",
       "st": "03/09/2019 08:15",
@@ -1561,25 +1542,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "UA",
-      "vuelo": "979",
-      "st": "03/09/2019 09:50",
-      "matricula": "N642UA",
-      "posicion": "04",
-      "et": "",
-      "at": "3/9/2019 12:35",
-      "term": "A",
-      "sector": "",
-      "cinta": "5",
-      "lF": "001",
-      "ruta": "EWR",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "175"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1249",
       "st": "03/09/2019 09:55",
@@ -1596,6 +1558,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "97"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "UA",
+      "vuelo": "979",
+      "st": "03/09/2019 09:50",
+      "matricula": "N642UA",
+      "posicion": "04",
+      "et": "",
+      "at": "3/9/2019 12:35",
+      "term": "A",
+      "sector": "",
+      "cinta": "5",
+      "lF": "001",
+      "ruta": "EWR",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "175"
     },
     {
       "tipo": "arribo",
@@ -2118,14 +2099,14 @@
       "matricula": "LVCXT",
       "posicion": "14A",
       "et": "3/9/2019 15:45",
-      "at": "",
+      "at": "3/9/2019 15:52",
       "term": "C",
       "sector": "CAC",
       "cinta": "11",
       "lF": "018",
       "ruta": "IGR",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "105"
     },
@@ -3304,7 +3285,7 @@
       "puerta": "01",
       "ruta": "SCL",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3342,7 +3323,7 @@
       "puerta": "05",
       "ruta": "VVI",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3380,7 +3361,7 @@
       "puerta": "04",
       "ruta": "GRU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4330,6 +4311,25 @@
       "puerta": "",
       "ruta": "PUJ",
       "via": "RES",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "JJ",
+      "vuelo": "8010",
+      "st": "04/09/2019 03:55",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "LIM",
+      "via": "",
       "remark": "HOR",
       "sanidad": "NO"
     }
