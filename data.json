@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/09/2019 12:46",
+  "lastUpdate": "03/09/2019 12:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1124,25 +1124,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7452",
-      "st": "03/09/2019 00:25",
-      "matricula": "PRGUK",
-      "posicion": "04",
-      "et": "3/9/2019 00:47",
-      "at": "3/9/2019 00:48",
-      "term": "A",
-      "sector": "",
-      "cinta": "4",
-      "lF": "004",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "153"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "CM",
       "vuelo": "363",
       "st": "03/09/2019 01:10",
@@ -1770,25 +1751,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7680",
-      "st": "03/09/2019 09:15",
-      "matricula": "PRGEH",
-      "posicion": "02",
-      "et": "3/9/2019 08:45",
-      "at": "3/9/2019 08:58",
-      "term": "A",
-      "sector": "",
-      "cinta": "5",
-      "lF": "004",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "118"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "PZ",
       "vuelo": "1311",
       "st": "03/09/2019 08:55",
@@ -1805,6 +1767,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "158"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "G3",
+      "vuelo": "7680",
+      "st": "03/09/2019 09:15",
+      "matricula": "PRGEH",
+      "posicion": "02",
+      "et": "3/9/2019 08:45",
+      "at": "3/9/2019 08:58",
+      "term": "A",
+      "sector": "",
+      "cinta": "5",
+      "lF": "004",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "118"
     },
     {
       "tipo": "arribo",
@@ -3201,7 +3182,7 @@
       "matricula": "LVCBF",
       "posicion": "50B",
       "et": "",
-      "at": "",
+      "at": "3/9/2019 12:48",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3209,7 +3190,7 @@
       "puerta": "25",
       "ruta": "MDZ",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3239,7 +3220,7 @@
       "matricula": "LVFXQ",
       "posicion": "18A",
       "et": "",
-      "at": "",
+      "at": "3/9/2019 12:51",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3247,7 +3228,7 @@
       "puerta": "24",
       "ruta": "BRC",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
