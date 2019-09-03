@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/09/2019 15:24",
+  "lastUpdate": "03/09/2019 15:29",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -197,7 +197,7 @@
       "vuelo": "1293",
       "st": "03/09/2019 17:45",
       "matricula": "LVGUC",
-      "posicion": "",
+      "posicion": "17A",
       "et": "3/9/2019 17:35",
       "at": "",
       "term": "A",
@@ -595,7 +595,7 @@
       "aerolinea": "AR",
       "vuelo": "1287",
       "st": "03/09/2019 21:25",
-      "matricula": "LVGVB",
+      "matricula": "LVFUC",
       "posicion": "",
       "et": "",
       "at": "",
@@ -3252,25 +3252,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "H2",
-      "vuelo": "508",
-      "st": "03/09/2019 15:20",
-      "matricula": "CCAJG",
-      "posicion": "02",
-      "et": "3/9/2019 15:30",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "001",
-      "chkTo": "004",
-      "puerta": "01",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PRE",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1244",
       "st": "03/09/2019 15:20",
@@ -3285,7 +3266,26 @@
       "puerta": "21",
       "ruta": "GRU",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "H2",
+      "vuelo": "508",
+      "st": "03/09/2019 15:20",
+      "matricula": "CCAJG",
+      "posicion": "02",
+      "et": "3/9/2019 15:50",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "001",
+      "chkTo": "004",
+      "puerta": "01",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3342,7 +3342,7 @@
       "puerta": "23",
       "ruta": "GIG",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3396,10 +3396,10 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "16",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3408,7 +3408,7 @@
       "vuelo": "7675",
       "st": "03/09/2019 16:30",
       "matricula": "PRGUJ",
-      "posicion": "50A",
+      "posicion": "05",
       "et": "",
       "at": "",
       "term": "A",
@@ -3693,7 +3693,7 @@
       "vuelo": "1364",
       "st": "03/09/2019 19:00",
       "matricula": "LVGUC",
-      "posicion": "",
+      "posicion": "17A",
       "et": "",
       "at": "",
       "term": "C",
