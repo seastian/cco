@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/09/2019 16:34",
+  "lastUpdate": "03/09/2019 16:39",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3342,7 +3342,7 @@
       "puerta": "03",
       "ruta": "YYZ",
       "via": "SCL",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3361,7 +3361,7 @@
       "puerta": "13",
       "ruta": "BOG",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3456,7 +3456,7 @@
       "puerta": "07",
       "ruta": "GIG",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
