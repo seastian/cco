@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/09/2019 12:41",
+  "lastUpdate": "03/09/2019 12:46",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -79,25 +79,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1281",
-      "st": "03/09/2019 13:30",
-      "matricula": "LVGVA",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "PRV",
       "vuelo": "WWS",
       "st": "03/09/2019 13:30",
@@ -152,6 +133,25 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1281",
+      "st": "03/09/2019 13:30",
+      "matricula": "LVGVA",
+      "posicion": "",
+      "et": "3/9/2019 13:44",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "131"
     },
     {
       "tipo": "arribo",
@@ -3258,7 +3258,7 @@
       "matricula": "ECMMX",
       "posicion": "10",
       "et": "",
-      "at": "",
+      "at": "3/9/2019 12:44",
       "term": "A",
       "sector": "AP",
       "chkFrom": "054",
@@ -3266,7 +3266,7 @@
       "puerta": "10",
       "ruta": "MAD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3361,7 +3361,7 @@
       "puerta": "02",
       "ruta": "MAD",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
