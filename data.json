@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/09/2019 15:29",
+  "lastUpdate": "05/09/2019 15:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -60,6 +60,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "AU",
+      "vuelo": "2393",
+      "st": "05/09/2019 16:30",
+      "matricula": "LVCEV",
+      "posicion": "25A",
+      "et": "5/9/2019 16:10",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "53"
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1423",
       "st": "05/09/2019 16:30",
@@ -76,25 +95,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "114"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AU",
-      "vuelo": "2393",
-      "st": "05/09/2019 16:30",
-      "matricula": "LVCEV",
-      "posicion": "25A",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -179,7 +179,7 @@
       "st": "05/09/2019 17:45",
       "matricula": "LVGFQ",
       "posicion": "",
-      "et": "",
+      "et": "5/9/2019 18:05",
       "at": "",
       "term": "A",
       "sector": "",
@@ -187,9 +187,9 @@
       "lF": "",
       "ruta": "GIG",
       "via": "",
-      "remark": "",
+      "remark": "DEM",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "146"
     },
     {
       "tipo": "arribo",
@@ -966,6 +966,25 @@
       "lF": "",
       "ruta": "VCP",
       "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "QR",
+      "vuelo": "8157",
+      "st": "06/09/2019 03:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "DOH",
+      "via": "GRU",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
@@ -3399,7 +3418,7 @@
       "puerta": "05",
       "ruta": "SCL",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3437,7 +3456,7 @@
       "puerta": "16",
       "ruta": "GIG",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
