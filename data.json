@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/09/2019 12:38",
+  "lastUpdate": "06/09/2019 12:44",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3201,7 +3201,7 @@
       "matricula": "ECMOM",
       "posicion": "05",
       "et": "",
-      "at": "",
+      "at": "6/9/2019 12:44",
       "term": "A",
       "sector": "AP",
       "chkFrom": "054",
@@ -3209,7 +3209,7 @@
       "puerta": "04",
       "ruta": "MAD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3304,7 +3304,7 @@
       "puerta": "01",
       "ruta": "VCP",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3323,7 +3323,7 @@
       "puerta": "10",
       "ruta": "MAD",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
