@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/09/2019 13:43",
+  "lastUpdate": "06/09/2019 13:48",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3697,10 +3697,10 @@
       "et": "",
       "at": "",
       "term": "A",
-      "sector": "AP",
+      "sector": "",
       "chkFrom": "041",
       "chkTo": "053",
-      "puerta": "07",
+      "puerta": "27",
       "ruta": "BRC",
       "via": "",
       "remark": "HOR",
