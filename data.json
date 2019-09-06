@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/09/2019 04:50",
+  "lastUpdate": "06/09/2019 04:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -189,7 +189,7 @@
       "via": "",
       "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "215"
     },
     {
       "tipo": "arribo",
@@ -2739,25 +2739,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "4M",
-      "vuelo": "7820",
-      "st": "05/09/2019 21:25",
-      "matricula": "LVZYV",
-      "posicion": "08",
-      "et": "",
-      "at": "5/9/2019 22:03",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "07",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "UA",
       "vuelo": "818",
       "st": "05/09/2019 21:25",
@@ -2771,6 +2752,25 @@
       "chkTo": "061",
       "puerta": "14",
       "ruta": "IAH",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "4M",
+      "vuelo": "7820",
+      "st": "05/09/2019 21:25",
+      "matricula": "LVZYV",
+      "posicion": "08",
+      "et": "",
+      "at": "5/9/2019 22:03",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "07",
+      "ruta": "MIA",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -3328,25 +3328,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1952",
-      "st": "06/09/2019 04:30",
-      "matricula": "LVCXT",
-      "posicion": "17A",
-      "et": "",
-      "at": "6/9/2019 04:32",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "19",
-      "ruta": "BPS",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AD",
       "vuelo": "8771",
       "st": "06/09/2019 04:30",
@@ -3366,13 +3347,32 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1952",
+      "st": "06/09/2019 04:30",
+      "matricula": "LVCXT",
+      "posicion": "17A",
+      "et": "",
+      "at": "6/9/2019 04:32",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "19",
+      "ruta": "BPS",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "CM",
       "vuelo": "364",
       "st": "06/09/2019 04:42",
       "matricula": "HP1824",
       "posicion": "08",
       "et": "",
-      "at": "",
+      "at": "6/9/2019 04:53",
       "term": "A",
       "sector": "AP",
       "chkFrom": "021",
@@ -3380,7 +3380,7 @@
       "puerta": "07",
       "ruta": "PTY",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3391,7 +3391,7 @@
       "matricula": "PRGUX",
       "posicion": "09",
       "et": "",
-      "at": "",
+      "at": "6/9/2019 04:56",
       "term": "A",
       "sector": "AP",
       "chkFrom": "068",
@@ -3399,7 +3399,7 @@
       "puerta": "09",
       "ruta": "BSB",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
