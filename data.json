@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/09/2019 20:18",
+  "lastUpdate": "06/09/2019 20:23",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -311,7 +311,7 @@
       "vuelo": "1245",
       "st": "06/09/2019 21:55",
       "matricula": "LVGFQ",
-      "posicion": "",
+      "posicion": "22A",
       "et": "6/9/2019 21:55",
       "at": "",
       "term": "A",
@@ -4506,25 +4506,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1280",
-      "st": "07/09/2019 08:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "G3",
       "vuelo": "7649",
       "st": "07/09/2019 08:10",
@@ -4545,6 +4526,25 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
+      "vuelo": "1280",
+      "st": "07/09/2019 08:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
       "vuelo": "1472",
       "st": "07/09/2019 08:15",
       "matricula": "",
@@ -4558,6 +4558,25 @@
       "puerta": "",
       "ruta": "TUC",
       "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AU",
+      "vuelo": "2600",
+      "st": "07/09/2019 08:25",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "USH",
+      "via": "MDQ",
       "remark": "HOR",
       "sanidad": "NO"
     }
