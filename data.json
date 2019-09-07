@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/09/2019 22:27",
+  "lastUpdate": "06/09/2019 22:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1849,7 +1849,7 @@
       "aerolinea": "AU",
       "vuelo": "2709",
       "st": "06/09/2019 20:00",
-      "matricula": "LVCHS",
+      "matricula": "LVCDZ",
       "posicion": "24A",
       "et": "6/9/2019 19:58",
       "at": "6/9/2019 20:07",
