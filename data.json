@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/09/2019 17:32",
+  "lastUpdate": "07/09/2019 17:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3798,7 +3798,7 @@
       "puerta": "17",
       "ruta": "GRU",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -4012,25 +4012,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "G3",
-      "vuelo": "7490",
-      "st": "07/09/2019 21:25",
-      "matricula": "PRGUR",
-      "posicion": "50A",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "068",
-      "chkTo": "074",
-      "puerta": "",
-      "ruta": "SSA",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "UA",
       "vuelo": "818",
       "st": "07/09/2019 21:25",
@@ -4044,6 +4025,25 @@
       "chkTo": "062",
       "puerta": "",
       "ruta": "IAH",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "G3",
+      "vuelo": "7490",
+      "st": "07/09/2019 21:25",
+      "matricula": "PRGUR",
+      "posicion": "50A",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "068",
+      "chkTo": "074",
+      "puerta": "",
+      "ruta": "SSA",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
