@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/09/2019 15:44",
+  "lastUpdate": "07/09/2019 15:49",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1124,25 +1124,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AV",
-      "vuelo": "965",
-      "st": "07/09/2019 04:25",
-      "matricula": "N342AV",
-      "posicion": "09",
-      "et": "7/9/2019 03:56",
-      "at": "7/9/2019 03:50",
-      "term": "A",
-      "sector": "",
-      "cinta": "5",
-      "lF": "005",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "213"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "M3",
       "vuelo": "9832",
       "st": "07/09/2019 04:00",
@@ -1808,25 +1789,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "UA",
-      "vuelo": "819",
-      "st": "07/09/2019 10:20",
-      "matricula": "N76021",
-      "posicion": "05",
-      "et": "7/9/2019 09:45",
-      "at": "7/9/2019 09:38",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "008",
-      "ruta": "IAH",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "240"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1231",
       "st": "07/09/2019 09:45",
@@ -1843,6 +1805,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "115"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "UA",
+      "vuelo": "819",
+      "st": "07/09/2019 10:20",
+      "matricula": "N76021",
+      "posicion": "05",
+      "et": "7/9/2019 09:45",
+      "at": "7/9/2019 09:38",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "008",
+      "ruta": "IAH",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "240"
     },
     {
       "tipo": "arribo",
@@ -1903,25 +1884,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AA",
-      "vuelo": "953",
-      "st": "07/09/2019 09:44",
-      "matricula": "N766AN",
-      "posicion": "04",
-      "et": "7/9/2019 10:15",
-      "at": "7/9/2019 10:15",
-      "term": "A",
-      "sector": "",
-      "cinta": "5",
-      "lF": "006",
-      "ruta": "JFK",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "176"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "JJ",
       "vuelo": "8008",
       "st": "07/09/2019 10:00",
@@ -1938,6 +1900,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AA",
+      "vuelo": "953",
+      "st": "07/09/2019 09:44",
+      "matricula": "N766AN",
+      "posicion": "04",
+      "et": "7/9/2019 10:15",
+      "at": "7/9/2019 10:15",
+      "term": "A",
+      "sector": "",
+      "cinta": "5",
+      "lF": "006",
+      "ruta": "JFK",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "176"
     },
     {
       "tipo": "arribo",
@@ -2188,25 +2169,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7688",
-      "st": "07/09/2019 13:30",
-      "matricula": "PRGUG",
-      "posicion": "08",
-      "et": "7/9/2019 13:40",
-      "at": "7/9/2019 13:45",
-      "term": "A",
-      "sector": "",
-      "cinta": "2",
-      "lF": "002",
-      "ruta": "BSB",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "145"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "OB",
       "vuelo": "708",
       "st": "07/09/2019 13:40",
@@ -2223,6 +2185,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "201"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "G3",
+      "vuelo": "7688",
+      "st": "07/09/2019 13:30",
+      "matricula": "PRGUG",
+      "posicion": "08",
+      "et": "7/9/2019 13:40",
+      "at": "7/9/2019 13:45",
+      "term": "A",
+      "sector": "",
+      "cinta": "2",
+      "lF": "002",
+      "ruta": "BSB",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "145"
     },
     {
       "tipo": "arribo",
@@ -3703,7 +3684,7 @@
       "puerta": "01",
       "ruta": "GRU",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3722,7 +3703,7 @@
       "puerta": "21",
       "ruta": "SCL",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
