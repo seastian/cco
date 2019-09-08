@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/09/2019 02:16",
+  "lastUpdate": "08/09/2019 02:21",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3660,7 +3660,7 @@
       "at": "",
       "term": "A",
       "sector": "AP",
-      "chkFrom": "021",
+      "chkFrom": "020",
       "chkTo": "026",
       "puerta": "09",
       "ruta": "PTY",
