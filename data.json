@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/09/2019 12:16",
+  "lastUpdate": "09/09/2019 12:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -136,25 +136,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8011",
-      "st": "09/09/2019 14:23",
-      "matricula": "PRMAZ",
-      "posicion": "",
-      "et": "9/9/2019 14:10",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "157"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "OB",
       "vuelo": "708",
       "st": "09/09/2019 14:05",
@@ -190,6 +171,25 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "112"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "JJ",
+      "vuelo": "8011",
+      "st": "09/09/2019 14:23",
+      "matricula": "PRMAZ",
+      "posicion": "",
+      "et": "9/9/2019 14:45",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "LIM",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": "157"
     },
     {
       "tipo": "arribo",
@@ -3448,7 +3448,7 @@
       "matricula": "HBJMF",
       "posicion": "09",
       "et": "",
-      "at": "",
+      "at": "9/9/2019 12:20",
       "term": "A",
       "sector": "AP",
       "chkFrom": "035",
@@ -3456,7 +3456,7 @@
       "puerta": "09",
       "ruta": "ZRH",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3538,25 +3538,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AU",
-      "vuelo": "2960",
-      "st": "09/09/2019 11:20",
-      "matricula": "LVCPJ",
-      "posicion": "22B",
-      "et": "9/9/2019 12:00",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "21",
-      "ruta": "CWB",
-      "via": "",
-      "remark": "BOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AU",
       "vuelo": "2412",
       "st": "09/09/2019 12:10",
       "matricula": "",
@@ -3632,6 +3613,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "AU",
+      "vuelo": "2960",
+      "st": "09/09/2019 11:20",
+      "matricula": "LVCPJ",
+      "posicion": "22B",
+      "et": "9/9/2019 12:40",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "21",
+      "ruta": "CWB",
+      "via": "",
+      "remark": "BOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1412",
       "st": "09/09/2019 12:10",
@@ -3684,7 +3684,7 @@
       "puerta": "10",
       "ruta": "MAD",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3741,7 +3741,7 @@
       "puerta": "13",
       "ruta": "MVD",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
