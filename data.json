@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/09/2019 22:04",
+  "lastUpdate": "08/09/2019 22:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -592,25 +592,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "M3",
-      "vuelo": "9831",
-      "st": "09/09/2019 06:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AA",
       "vuelo": "907",
       "st": "09/09/2019 06:00",
@@ -627,6 +608,25 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "253"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "M3",
+      "vuelo": "9831",
+      "st": "09/09/2019 06:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "VCP",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -3589,7 +3589,7 @@
       "puerta": "",
       "ruta": "FDO",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3817,7 +3817,7 @@
       "puerta": "03",
       "ruta": "DXB",
       "via": "GIG",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3836,7 +3836,7 @@
       "puerta": "07",
       "ruta": "ASU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3855,7 +3855,7 @@
       "puerta": "10",
       "ruta": "MIA",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
