@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/09/2019 04:06",
+  "lastUpdate": "09/09/2019 04:11",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3486,7 +3486,7 @@
       "matricula": "PRMAZ",
       "posicion": "10",
       "et": "",
-      "at": "",
+      "at": "9/9/2019 04:10",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3494,7 +3494,7 @@
       "puerta": "10",
       "ruta": "LIM",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3514,25 +3514,6 @@
       "ruta": "RGA",
       "via": "",
       "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "4M",
-      "vuelo": "7900",
-      "st": "09/09/2019 04:20",
-      "matricula": "LVBGI",
-      "posicion": "11B",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "15",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "HOR",
       "sanidad": "NO"
     },
     {
@@ -3570,7 +3551,7 @@
       "puerta": "04",
       "ruta": "PTY",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3647,6 +3628,25 @@
       "ruta": "BPS",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "4M",
+      "vuelo": "7900",
+      "st": "09/09/2019 04:20",
+      "matricula": "LVBGI",
+      "posicion": "11B",
+      "et": "9/9/2019 05:20",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "15",
+      "ruta": "LIM",
+      "via": "",
+      "remark": "DEM",
       "sanidad": "NO"
     },
     {
