@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/09/2019 13:50",
+  "lastUpdate": "09/09/2019 13:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3657,7 +3657,7 @@
       "matricula": "LVGKO",
       "posicion": "16",
       "et": "9/9/2019 13:30",
-      "at": "",
+      "at": "9/9/2019 13:52",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3665,7 +3665,7 @@
       "puerta": "22",
       "ruta": "MAD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3889,7 +3889,7 @@
       "term": "C",
       "sector": "CPI",
       "chkFrom": "201",
-      "chkTo": "218",
+      "chkTo": "220",
       "puerta": "17",
       "ruta": "AMS",
       "via": "",
