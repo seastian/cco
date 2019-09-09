@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/09/2019 14:23",
+  "lastUpdate": "09/09/2019 14:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3556,44 +3556,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AZ",
-      "vuelo": "681",
-      "st": "09/09/2019 12:40",
-      "matricula": "EIDBK",
-      "posicion": "13",
-      "et": "",
-      "at": "9/9/2019 13:02",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "201",
-      "chkTo": "210",
-      "puerta": "17",
-      "ruta": "FCO",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1698",
-      "st": "09/09/2019 12:50",
-      "matricula": "LVFWS",
-      "posicion": "22A",
-      "et": "",
-      "at": "9/9/2019 13:11",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "24",
-      "ruta": "BRC",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AU",
       "vuelo": "2392",
       "st": "09/09/2019 12:55",
@@ -3651,25 +3613,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AF",
-      "vuelo": "229",
-      "st": "09/09/2019 13:30",
-      "matricula": "FGSPZ",
-      "posicion": "14",
-      "et": "",
-      "at": "9/9/2019 13:44",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "211",
-      "chkTo": "220",
-      "puerta": "18",
-      "ruta": "CDG",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1134",
       "st": "09/09/2019 12:10",
@@ -3708,6 +3651,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "AF",
+      "vuelo": "229",
+      "st": "09/09/2019 13:30",
+      "matricula": "FGSPZ",
+      "posicion": "14",
+      "et": "",
+      "at": "9/9/2019 13:44",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "211",
+      "chkTo": "220",
+      "puerta": "18",
+      "ruta": "CDG",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1412",
       "st": "09/09/2019 12:10",
@@ -3733,7 +3695,7 @@
       "matricula": "PRGTH",
       "posicion": "06",
       "et": "",
-      "at": "",
+      "at": "9/9/2019 14:26",
       "term": "A",
       "sector": "AP",
       "chkFrom": "068",
@@ -3741,7 +3703,7 @@
       "puerta": "05",
       "ruta": "GRU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3798,7 +3760,7 @@
       "puerta": "24",
       "ruta": "FTE",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3817,7 +3779,7 @@
       "puerta": "03",
       "ruta": "YYZ",
       "via": "SCL",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
