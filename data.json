@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/09/2019 02:10",
+  "lastUpdate": "09/09/2019 02:15",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3551,7 +3551,7 @@
       "puerta": "18",
       "ruta": "JFK",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
