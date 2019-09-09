@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/09/2019 14:17",
+  "lastUpdate": "09/09/2019 14:23",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1181,25 +1181,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8010",
-      "st": "09/09/2019 02:35",
-      "matricula": "PRMAZ",
-      "posicion": "10",
-      "et": "9/9/2019 02:20",
-      "at": "9/9/2019 02:20",
-      "term": "A",
-      "sector": "",
-      "cinta": "3",
-      "lF": "002",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "ES",
       "vuelo": "8569",
       "st": "09/09/2019 03:20",
@@ -1675,25 +1656,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "WK",
-      "vuelo": "090",
-      "st": "09/09/2019 08:00",
-      "matricula": "HBJMF",
-      "posicion": "09",
-      "et": "9/9/2019 07:34",
-      "at": "9/9/2019 07:33",
-      "term": "A",
-      "sector": "",
-      "cinta": "3",
-      "lF": "003",
-      "ruta": "ZRH",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "288"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AA",
       "vuelo": "997",
       "st": "09/09/2019 07:53",
@@ -1710,6 +1672,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "183"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "WK",
+      "vuelo": "090",
+      "st": "09/09/2019 08:00",
+      "matricula": "HBJMF",
+      "posicion": "09",
+      "et": "9/9/2019 07:34",
+      "at": "9/9/2019 07:33",
+      "term": "A",
+      "sector": "",
+      "cinta": "3",
+      "lF": "003",
+      "ruta": "ZRH",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "288"
     },
     {
       "tipo": "arribo",
@@ -3733,7 +3714,7 @@
       "matricula": "LVCBF",
       "posicion": "18B",
       "et": "9/9/2019 13:45",
-      "at": "",
+      "at": "9/9/2019 14:19",
       "term": "C",
       "sector": "CPC",
       "chkFrom": "",
@@ -3741,7 +3722,7 @@
       "puerta": "26",
       "ruta": "MDZ",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3770,7 +3751,7 @@
       "st": "09/09/2019 11:00",
       "matricula": "LVGCK",
       "posicion": "42",
-      "et": "9/9/2019 15:00",
+      "et": "9/9/2019 12:00",
       "at": "",
       "term": "FBO",
       "sector": "",
@@ -3798,7 +3779,7 @@
       "puerta": "01",
       "ruta": "GRU",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3817,7 +3798,7 @@
       "puerta": "24",
       "ruta": "FTE",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
