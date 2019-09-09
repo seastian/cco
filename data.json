@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/09/2019 20:31",
+  "lastUpdate": "09/09/2019 20:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1121,44 +1121,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "15"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "DL",
-      "vuelo": "101",
-      "st": "09/09/2019 09:20",
-      "matricula": "N819NW",
-      "posicion": "16",
-      "et": "9/9/2019 08:37",
-      "at": "9/9/2019 08:37",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "007",
-      "ruta": "ATL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "202"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "PZ",
-      "vuelo": "1311",
-      "st": "09/09/2019 08:55",
-      "matricula": "PRMHU",
-      "posicion": "02",
-      "et": "9/9/2019 08:40",
-      "at": "9/9/2019 08:33",
-      "term": "A",
-      "sector": "",
-      "cinta": "4",
-      "lF": "002",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "85"
     },
     {
       "tipo": "arribo",
@@ -3695,7 +3657,7 @@
       "matricula": "CCBAL",
       "posicion": "06",
       "et": "9/9/2019 20:10",
-      "at": "",
+      "at": "9/9/2019 20:30",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3703,7 +3665,7 @@
       "puerta": "05",
       "ruta": "LIM",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3714,7 +3676,7 @@
       "matricula": "N819NW",
       "posicion": "14",
       "et": "",
-      "at": "",
+      "at": "9/9/2019 20:27",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "207",
@@ -3722,7 +3684,7 @@
       "puerta": "18",
       "ruta": "ATL",
       "via": "",
-      "remark": "ULT",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3807,7 +3769,7 @@
       "vuelo": "818",
       "st": "09/09/2019 21:25",
       "matricula": "N78009",
-      "posicion": "54",
+      "posicion": "05",
       "et": "",
       "at": "",
       "term": "A",
@@ -3855,7 +3817,7 @@
       "puerta": "14",
       "ruta": "ADD",
       "via": "GRU",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3936,25 +3898,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "G3",
-      "vuelo": "7685",
-      "st": "09/09/2019 22:00",
-      "matricula": "PRGUK",
-      "posicion": "02",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "068",
-      "chkTo": "073",
-      "puerta": "01",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AU",
       "vuelo": "2092",
       "st": "09/09/2019 22:00",
@@ -3968,6 +3911,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "AEP",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "G3",
+      "vuelo": "7685",
+      "st": "09/09/2019 22:00",
+      "matricula": "PRGUK",
+      "posicion": "02",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "068",
+      "chkTo": "073",
+      "puerta": "01",
+      "ruta": "GRU",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
