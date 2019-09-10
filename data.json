@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/09/2019 07:23",
+  "lastUpdate": "10/09/2019 07:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -178,7 +178,7 @@
       "vuelo": "1311",
       "st": "10/09/2019 08:55",
       "matricula": "PRMBS",
-      "posicion": "",
+      "posicion": "02",
       "et": "10/9/2019 08:40",
       "at": "",
       "term": "A",
@@ -190,6 +190,25 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "143"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "DL",
+      "vuelo": "101",
+      "st": "10/09/2019 09:20",
+      "matricula": "N808NW",
+      "posicion": "14",
+      "et": "10/9/2019 08:55",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "ATL",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "236"
     },
     {
       "tipo": "arribo",
@@ -342,25 +361,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "DL",
-      "vuelo": "101",
-      "st": "10/09/2019 09:20",
-      "matricula": "N808NW",
-      "posicion": "",
-      "et": "10/9/2019 09:55",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "ATL",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": "236"
     },
     {
       "tipo": "arribo",
@@ -3608,7 +3608,7 @@
       "puerta": "19",
       "ruta": "MIA",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
