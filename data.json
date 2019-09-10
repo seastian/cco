@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/09/2019 21:46",
+  "lastUpdate": "09/09/2019 21:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -46,7 +46,7 @@
       "st": "09/09/2019 22:24",
       "matricula": "CCBAM",
       "posicion": "",
-      "et": "",
+      "et": "9/9/2019 22:20",
       "at": "",
       "term": "A",
       "sector": "",
@@ -54,9 +54,9 @@
       "lF": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "150"
     },
     {
       "tipo": "arribo",
@@ -988,6 +988,44 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "UA",
+      "vuelo": "979",
+      "st": "10/09/2019 09:50",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "EWR",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "IB_",
+      "vuelo": "2601",
+      "st": "10/09/2019 10:00",
+      "matricula": "ECNEN",
+      "posicion": "",
+      "et": "10/9/2019 09:51",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "BCN",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "279"
     },
     {
       "tipo": "arribo",
@@ -2403,14 +2441,14 @@
       "matricula": "LVFUB",
       "posicion": "14A",
       "et": "9/9/2019 21:41",
-      "at": "",
+      "at": "9/9/2019 21:48",
       "term": "A",
       "sector": "",
       "cinta": "8",
       "lF": "008",
       "ruta": "GRU",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -3752,7 +3790,7 @@
       "matricula": "N78009",
       "posicion": "05",
       "et": "",
-      "at": "",
+      "at": "9/9/2019 21:51",
       "term": "A",
       "sector": "AP",
       "chkFrom": "054",
@@ -3760,7 +3798,7 @@
       "puerta": "04",
       "ruta": "IAH",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
