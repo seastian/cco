@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/09/2019 01:01",
+  "lastUpdate": "10/09/2019 01:06",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -497,25 +497,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AA",
-      "vuelo": "991",
-      "st": "10/09/2019 07:37",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "LAX",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "ZP",
       "vuelo": "820",
       "st": "10/09/2019 08:00",
@@ -627,6 +608,25 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "231"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AA",
+      "vuelo": "991",
+      "st": "10/09/2019 07:37",
+      "matricula": "",
+      "posicion": "",
+      "et": "10/9/2019 08:26",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "LAX",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": "157"
     },
     {
       "tipo": "arribo",
@@ -1064,25 +1064,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1241",
-      "st": "09/09/2019 13:25",
-      "matricula": "LVFUB",
-      "posicion": "15B",
-      "et": "9/9/2019 13:04",
-      "at": "9/9/2019 13:06",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "008",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "147"
     },
     {
       "tipo": "arribo",
