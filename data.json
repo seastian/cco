@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/09/2019 02:00",
+  "lastUpdate": "10/09/2019 02:06",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -293,7 +293,7 @@
       "st": "10/09/2019 07:05",
       "matricula": "LVIQW",
       "posicion": "",
-      "et": "10/9/2019 06:35",
+      "et": "10/9/2019 06:20",
       "at": "",
       "term": "A",
       "sector": "",
@@ -303,7 +303,7 @@
       "via": "",
       "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "197"
     },
     {
       "tipo": "arribo",
@@ -1197,25 +1197,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "137"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8011",
-      "st": "09/09/2019 14:23",
-      "matricula": "PRMAZ",
-      "posicion": "07",
-      "et": "9/9/2019 14:45",
-      "at": "9/9/2019 14:04",
-      "term": "A",
-      "sector": "",
-      "cinta": "1",
-      "lF": "001",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "157"
     },
     {
       "tipo": "arribo",
