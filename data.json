@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/09/2019 14:20",
+  "lastUpdate": "11/09/2019 14:25",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -292,7 +292,7 @@
       "vuelo": "1423",
       "st": "11/09/2019 16:30",
       "matricula": "LVBZO",
-      "posicion": "16B",
+      "posicion": "15B",
       "et": "",
       "at": "",
       "term": "C",
@@ -2213,14 +2213,14 @@
       "matricula": "PRMAG",
       "posicion": "03",
       "et": "11/9/2019 14:20",
-      "at": "",
+      "at": "11/9/2019 14:24",
       "term": "A",
       "sector": "",
       "cinta": "3",
       "lF": "003",
       "ruta": "LIM",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "157"
     },
@@ -3399,7 +3399,7 @@
       "puerta": "05",
       "ruta": "GRU",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
