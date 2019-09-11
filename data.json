@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/09/2019 00:30",
+  "lastUpdate": "11/09/2019 00:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3429,7 +3429,7 @@
       "matricula": "N753AV",
       "posicion": "04",
       "et": "",
-      "at": "",
+      "at": "11/9/2019 00:35",
       "term": "A",
       "sector": "AP",
       "chkFrom": "013",
@@ -3437,7 +3437,7 @@
       "puerta": "03",
       "ruta": "BOG",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3456,7 +3456,7 @@
       "puerta": "16",
       "ruta": "ASU",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3475,7 +3475,7 @@
       "puerta": "10",
       "ruta": "PTY",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4107,25 +4107,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "G3",
-      "vuelo": "7681",
-      "st": "11/09/2019 09:55",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "068",
-      "chkTo": "074",
-      "puerta": "",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "H2",
       "vuelo": "502",
       "st": "11/09/2019 09:55",
@@ -4139,6 +4120,25 @@
       "chkTo": "067",
       "puerta": "",
       "ruta": "SCL",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "G3",
+      "vuelo": "7681",
+      "st": "11/09/2019 09:55",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "068",
+      "chkTo": "074",
+      "puerta": "",
+      "ruta": "GRU",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -4317,25 +4317,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1252",
-      "st": "11/09/2019 11:55",
-      "matricula": "LVGKU",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "1886",
       "st": "11/09/2019 11:55",
       "matricula": "LVGUB",
@@ -4348,6 +4329,25 @@
       "chkTo": "240",
       "puerta": "24",
       "ruta": "USH",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1252",
+      "st": "11/09/2019 11:55",
+      "matricula": "LVGKU",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "GRU",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -4373,25 +4373,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AU",
-      "vuelo": "2524",
-      "st": "11/09/2019 12:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "COR",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AOG",
       "vuelo": "426",
       "st": "11/09/2019 12:00",
@@ -4407,6 +4388,25 @@
       "ruta": "MVD",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AU",
+      "vuelo": "2524",
+      "st": "11/09/2019 12:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "COR",
+      "via": "",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
