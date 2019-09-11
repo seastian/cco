@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/09/2019 13:47",
+  "lastUpdate": "11/09/2019 13:53",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -132,7 +132,7 @@
       "via": "",
       "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "82"
     },
     {
       "tipo": "arribo",
@@ -2175,14 +2175,14 @@
       "matricula": "LVGGK",
       "posicion": "16B",
       "et": "",
-      "at": "",
+      "at": "11/9/2019 13:52",
       "term": "A",
       "sector": "",
       "cinta": "6",
       "lF": "010",
       "ruta": "SCL",
       "via": "",
-      "remark": "CON",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "155"
     },
@@ -3597,7 +3597,7 @@
       "aerolinea": "G3",
       "vuelo": "7675",
       "st": "11/09/2019 16:30",
-      "matricula": "",
+      "matricula": "PRGUP",
       "posicion": "",
       "et": "",
       "at": "",
