@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/09/2019 22:06",
+  "lastUpdate": "10/09/2019 22:11",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -965,6 +965,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "MDZ",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "467",
+      "st": "11/09/2019 10:09",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -3486,7 +3505,7 @@
       "matricula": "PRVBQ",
       "posicion": "05",
       "et": "",
-      "at": "",
+      "at": "10/9/2019 22:08",
       "term": "A",
       "sector": "AP",
       "chkFrom": "068",
@@ -3494,7 +3513,7 @@
       "puerta": "04",
       "ruta": "GRU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3608,7 +3627,7 @@
       "puerta": "05",
       "ruta": "IST",
       "via": "GRU",
-      "remark": "EST",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3646,7 +3665,7 @@
       "puerta": "14",
       "ruta": "DOH",
       "via": "GRU",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
