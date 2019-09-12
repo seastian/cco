@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/09/2019 01:50",
+  "lastUpdate": "12/09/2019 01:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1216,25 +1216,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1281",
-      "st": "11/09/2019 13:30",
-      "matricula": "LVGGK",
-      "posicion": "16B",
-      "et": "",
-      "at": "11/9/2019 13:52",
-      "term": "A",
-      "sector": "",
-      "cinta": "6",
-      "lF": "010",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "155"
     },
     {
       "tipo": "arribo",
@@ -3770,7 +3751,7 @@
       "st": "12/09/2019 02:45",
       "matricula": "PRGIU",
       "posicion": "04",
-      "et": "",
+      "et": "12/9/2019 02:45",
       "at": "",
       "term": "A",
       "sector": "AP",
@@ -3779,7 +3760,7 @@
       "puerta": "03",
       "ruta": "GIG",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
