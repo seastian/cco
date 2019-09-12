@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/09/2019 14:13",
+  "lastUpdate": "12/09/2019 14:18",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -107,8 +107,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "5",
+      "lF": "001",
       "ruta": "LIM",
       "via": "",
       "remark": "EST",
@@ -3589,7 +3589,7 @@
       "puerta": "05",
       "ruta": "GRU",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
