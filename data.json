@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/09/2019 15:28",
+  "lastUpdate": "12/09/2019 15:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1004,6 +1004,25 @@
       "lF": "",
       "ruta": "VCP",
       "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "QR",
+      "vuelo": "8157",
+      "st": "13/09/2019 03:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "DOH",
+      "via": "GRU",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
@@ -2251,14 +2270,14 @@
       "matricula": "CCAMP",
       "posicion": "08",
       "et": "12/9/2019 15:18",
-      "at": "",
+      "at": "12/9/2019 15:31",
       "term": "A",
       "sector": "",
       "cinta": "6",
       "lF": "007",
       "ruta": "SCL",
       "via": "",
-      "remark": "DEM",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "153"
     },
@@ -3589,7 +3608,7 @@
       "puerta": "07",
       "ruta": "SCL",
       "via": "",
-      "remark": "DEM",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3608,7 +3627,7 @@
       "puerta": "16",
       "ruta": "GIG",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3665,7 +3684,7 @@
       "puerta": "18",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
