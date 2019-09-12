@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/09/2019 02:01",
+  "lastUpdate": "12/09/2019 02:06",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3760,7 +3760,7 @@
       "puerta": "03",
       "ruta": "GIG",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
