@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/09/2019 17:05",
+  "lastUpdate": "12/09/2019 17:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3684,7 +3684,7 @@
       "puerta": "23",
       "ruta": "ASU",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4167,7 +4167,7 @@
       "aerolinea": "IB",
       "vuelo": "6844",
       "st": "12/09/2019 21:40",
-      "matricula": "",
+      "matricula": "ECNBE",
       "posicion": "",
       "et": "",
       "at": "",
