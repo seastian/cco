@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/09/2019 18:31",
+  "lastUpdate": "12/09/2019 18:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1086,25 +1086,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "IB",
-      "vuelo": "6841",
-      "st": "12/09/2019 07:35",
-      "matricula": "ECNDR",
-      "posicion": "03",
-      "et": "12/9/2019 06:44",
-      "at": "12/9/2019 06:36",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "008",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "347"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AA",
       "vuelo": "907",
       "st": "12/09/2019 06:00",
@@ -1238,25 +1219,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "DI",
-      "vuelo": "7505",
-      "st": "12/09/2019 08:10",
-      "matricula": "GCKWE",
-      "posicion": "05",
-      "et": "12/9/2019 07:30",
-      "at": "12/9/2019 07:34",
-      "term": "A",
-      "sector": "",
-      "cinta": "4",
-      "lF": "002",
-      "ruta": "LGW",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "4M",
       "vuelo": "7821",
       "st": "12/09/2019 07:05",
@@ -1273,6 +1235,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "149"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "DI",
+      "vuelo": "7505",
+      "st": "12/09/2019 08:10",
+      "matricula": "GCKWE",
+      "posicion": "05",
+      "et": "12/9/2019 07:30",
+      "at": "12/9/2019 07:34",
+      "term": "A",
+      "sector": "",
+      "cinta": "4",
+      "lF": "002",
+      "ruta": "LGW",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -3703,7 +3684,7 @@
       "puerta": "04",
       "ruta": "SCL",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3722,7 +3703,7 @@
       "puerta": "07",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3736,7 +3717,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "215",
       "chkTo": "240",
       "puerta": "13",
       "ruta": "GIG",
@@ -3928,7 +3909,7 @@
       "sector": "AP",
       "chkFrom": "041",
       "chkTo": "053",
-      "puerta": "",
+      "puerta": "07",
       "ruta": "MIA",
       "via": "",
       "remark": "HOR",
@@ -3983,7 +3964,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "215",
       "chkTo": "240",
       "puerta": "24",
       "ruta": "COR",
