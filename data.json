@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/09/2019 13:40",
+  "lastUpdate": "12/09/2019 13:46",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3475,7 +3475,7 @@
       "puerta": "24",
       "ruta": "BRC",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3524,7 +3524,7 @@
       "matricula": "FGSPN",
       "posicion": "15",
       "et": "",
-      "at": "",
+      "at": "12/9/2019 13:46",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "211",
@@ -3532,7 +3532,7 @@
       "puerta": "20",
       "ruta": "CDG",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3589,7 +3589,7 @@
       "puerta": "05",
       "ruta": "GRU",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
