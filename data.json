@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/09/2019 02:49",
+  "lastUpdate": "13/09/2019 02:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1155,6 +1155,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "SCL",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "G3",
+      "vuelo": "7682",
+      "st": "13/09/2019 14:55",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "GRU",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -3437,7 +3456,7 @@
       "puerta": "16",
       "ruta": "PUJ",
       "via": "RES",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
