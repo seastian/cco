@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/09/2019 00:12",
+  "lastUpdate": "13/09/2019 00:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1808,25 +1808,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "TK",
-      "vuelo": "015",
-      "st": "12/09/2019 21:30",
-      "matricula": "TCLJG",
-      "posicion": "14",
-      "et": "12/9/2019 20:49",
-      "at": "12/9/2019 20:59",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "008",
-      "ruta": "IST",
-      "via": "GRU",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "215"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AU",
       "vuelo": "2463",
       "st": "12/09/2019 20:45",
@@ -1843,6 +1824,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "83"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "TK",
+      "vuelo": "015",
+      "st": "12/09/2019 21:30",
+      "matricula": "TCLJG",
+      "posicion": "14",
+      "et": "12/9/2019 20:49",
+      "at": "12/9/2019 20:59",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "008",
+      "ruta": "IST",
+      "via": "GRU",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "215"
     },
     {
       "tipo": "arribo",
@@ -1922,25 +1922,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "501",
-      "st": "12/09/2019 21:20",
-      "matricula": "CXCLS",
-      "posicion": "59",
-      "et": "",
-      "at": "12/9/2019 21:31",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "QR",
       "vuelo": "773",
       "st": "12/09/2019 21:35",
@@ -1957,6 +1938,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "258"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AOG",
+      "vuelo": "501",
+      "st": "12/09/2019 21:20",
+      "matricula": "CXCLS",
+      "posicion": "59",
+      "et": "",
+      "at": "12/9/2019 21:31",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -2280,6 +2280,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "145"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "G3",
+      "vuelo": "7452",
+      "st": "13/09/2019 00:25",
+      "matricula": "PRGTB",
+      "posicion": "10",
+      "et": "13/9/2019 00:21",
+      "at": "13/9/2019 00:18",
+      "term": "A",
+      "sector": "",
+      "cinta": "3",
+      "lF": "003",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "143"
     },
     {
       "tipo": "partida",
