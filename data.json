@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/09/2019 17:08",
+  "lastUpdate": "13/09/2019 17:13",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1064,25 +1064,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "205"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "5X",
-      "vuelo": "412",
-      "st": "13/09/2019 05:23",
-      "matricula": "N338UP",
-      "posicion": "56",
-      "et": "",
-      "at": "13/9/2019 05:12",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "SCL",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -3486,7 +3467,7 @@
       "matricula": "LVBZA",
       "posicion": "17B",
       "et": "",
-      "at": "",
+      "at": "13/9/2019 17:09",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3494,7 +3475,7 @@
       "puerta": "13",
       "ruta": "BOG",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3524,7 +3505,7 @@
       "matricula": "LVGUS",
       "posicion": "02",
       "et": "",
-      "at": "",
+      "at": "13/9/2019 17:11",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3532,7 +3513,7 @@
       "puerta": "27",
       "ruta": "BRC",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -4525,25 +4506,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AD",
-      "vuelo": "8771",
-      "st": "14/09/2019 04:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "076",
-      "chkTo": "078",
-      "puerta": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1952",
       "st": "14/09/2019 04:30",
@@ -4557,6 +4519,25 @@
       "chkTo": "220",
       "puerta": "",
       "ruta": "BPS",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AD",
+      "vuelo": "8771",
+      "st": "14/09/2019 04:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "076",
+      "chkTo": "078",
+      "puerta": "",
+      "ruta": "VCP",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -4595,6 +4576,25 @@
       "chkTo": "074",
       "puerta": "",
       "ruta": "BSB",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "9833",
+      "st": "14/09/2019 05:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MAO",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
