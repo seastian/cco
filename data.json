@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/09/2019 05:25",
+  "lastUpdate": "13/09/2019 05:30",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3399,7 +3399,7 @@
       "puerta": "",
       "ruta": "DOH",
       "via": "UIO",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3437,7 +3437,7 @@
       "puerta": "19",
       "ruta": "POA",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3475,7 +3475,7 @@
       "puerta": "17",
       "ruta": "ASU",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
