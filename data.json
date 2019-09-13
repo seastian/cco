@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/09/2019 02:27",
+  "lastUpdate": "13/09/2019 02:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2270,14 +2270,14 @@
       "matricula": "PRMAG",
       "posicion": "05",
       "et": "13/9/2019 02:20",
-      "at": "",
+      "at": "13/9/2019 02:28",
       "term": "A",
       "sector": "",
       "cinta": "2",
       "lF": "001",
       "ruta": "GRU",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -3494,7 +3494,7 @@
       "puerta": "16",
       "ruta": "PUJ",
       "via": "RES",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
