@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/09/2019 23:27",
+  "lastUpdate": "13/09/2019 23:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3670,25 +3670,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AM",
-      "vuelo": "029",
-      "st": "13/09/2019 23:20",
-      "matricula": "N961AM",
-      "posicion": "05",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "034",
-      "chkTo": "040",
-      "puerta": "04",
-      "ruta": "MEX",
-      "via": "",
-      "remark": "CER",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "PZ",
       "vuelo": "1310",
       "st": "13/09/2019 22:35",
@@ -3704,6 +3685,25 @@
       "ruta": "ASU",
       "via": "",
       "remark": "CER",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AM",
+      "vuelo": "029",
+      "st": "13/09/2019 23:20",
+      "matricula": "N961AM",
+      "posicion": "05",
+      "et": "",
+      "at": "13/9/2019 23:29",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "034",
+      "chkTo": "040",
+      "puerta": "04",
+      "ruta": "MEX",
+      "via": "",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3984,7 +3984,7 @@
       "term": "A",
       "sector": "AP",
       "chkFrom": "076",
-      "chkTo": "078",
+      "chkTo": "081",
       "puerta": "",
       "ruta": "VCP",
       "via": "",
