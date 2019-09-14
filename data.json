@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/09/2019 15:21",
+  "lastUpdate": "14/09/2019 15:26",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -757,25 +757,6 @@
       "lF": "",
       "ruta": "DOH",
       "via": "GRU",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7476",
-      "st": "14/09/2019 21:45",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MAO",
-      "via": "",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
@@ -1941,25 +1922,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1261",
-      "st": "14/09/2019 10:25",
-      "matricula": "LVCBF",
-      "posicion": "22A",
-      "et": "14/9/2019 10:15",
-      "at": "14/9/2019 10:21",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "007",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "114"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "UA",
       "vuelo": "819",
       "st": "14/09/2019 10:20",
@@ -1976,6 +1938,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "259"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1261",
+      "st": "14/09/2019 10:25",
+      "matricula": "LVCBF",
+      "posicion": "22A",
+      "et": "14/9/2019 10:15",
+      "at": "14/9/2019 10:21",
+      "term": "A",
+      "sector": "",
+      "cinta": "7",
+      "lF": "007",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "114"
     },
     {
       "tipo": "arribo",
@@ -2299,6 +2280,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "149"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1525",
+      "st": "14/09/2019 15:25",
+      "matricula": "LVBZO",
+      "posicion": "16B",
+      "et": "14/9/2019 15:27",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "12",
+      "lF": "017",
+      "ruta": "COR",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "113"
     },
     {
       "tipo": "partida",
@@ -3566,7 +3566,7 @@
       "term": "A",
       "sector": "AP",
       "chkFrom": "068",
-      "chkTo": "074",
+      "chkTo": "075",
       "puerta": "05",
       "ruta": "GIG",
       "via": "",
@@ -3589,7 +3589,7 @@
       "puerta": "02",
       "ruta": "VVI",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
