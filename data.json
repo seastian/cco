@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/09/2019 14:02",
+  "lastUpdate": "14/09/2019 14:07",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -50,8 +50,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "3",
+      "lF": "003",
       "ruta": "GRU",
       "via": "",
       "remark": "EST",
@@ -69,8 +69,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "4",
+      "lF": "002",
       "ruta": "GIG",
       "via": "",
       "remark": "EST",
@@ -3296,7 +3296,7 @@
       "matricula": "LVGQF",
       "posicion": "40",
       "et": "",
-      "at": "",
+      "at": "14/9/2019 14:03",
       "term": "FBO",
       "sector": "",
       "chkFrom": "",
@@ -3304,7 +3304,7 @@
       "puerta": "",
       "ruta": "FDO",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3475,7 +3475,7 @@
       "puerta": "03",
       "ruta": "GRU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
