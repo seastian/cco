@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/09/2019 18:32",
+  "lastUpdate": "14/09/2019 18:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1048,25 +1048,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "LH",
-      "vuelo": "510",
-      "st": "14/09/2019 06:40",
-      "matricula": "DABYR",
-      "posicion": "09",
-      "et": "14/9/2019 06:30",
-      "at": "14/9/2019 06:33",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "008",
-      "ruta": "FRA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1361",
       "st": "14/09/2019 07:10",
@@ -1808,6 +1789,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1953",
+      "st": "14/09/2019 13:30",
+      "matricula": "LVGVA",
+      "posicion": "17A",
+      "et": "14/9/2019 13:19",
+      "at": "14/9/2019 13:23",
+      "term": "A",
+      "sector": "",
+      "cinta": "5",
+      "lF": "010",
+      "ruta": "BPS",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "166"
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "G3",
       "vuelo": "7688",
       "st": "14/09/2019 13:30",
@@ -2112,25 +2112,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "445",
-      "st": "14/09/2019 17:20",
-      "matricula": "CCBGG",
-      "posicion": "03",
-      "et": "14/9/2019 17:00",
-      "at": "14/9/2019 17:05",
-      "term": "A",
-      "sector": "",
-      "cinta": "4",
-      "lF": "002",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "UC",
       "vuelo": "1106",
       "st": "14/09/2019 17:00",
@@ -2145,6 +2126,25 @@
       "ruta": "MIA",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "445",
+      "st": "14/09/2019 17:20",
+      "matricula": "CCBGG",
+      "posicion": "03",
+      "et": "14/9/2019 17:00",
+      "at": "14/9/2019 17:05",
+      "term": "A",
+      "sector": "",
+      "cinta": "4",
+      "lF": "002",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -2242,6 +2242,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "138"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LH",
+      "vuelo": "8264",
+      "st": "14/09/2019 19:15",
+      "matricula": "DALFG",
+      "posicion": "53",
+      "et": "",
+      "at": "14/9/2019 18:38",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "FRA",
+      "via": "MVD",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "partida",
@@ -3513,7 +3532,7 @@
       "puerta": "17",
       "ruta": "GRU",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3608,7 +3627,7 @@
       "puerta": "07",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
