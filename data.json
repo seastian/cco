@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/09/2019 15:01",
+  "lastUpdate": "14/09/2019 15:06",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1143,25 +1143,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AD",
-      "vuelo": "8770",
-      "st": "14/09/2019 02:50",
-      "matricula": "PRYRH",
-      "posicion": "06",
-      "et": "",
-      "at": "14/9/2019 03:04",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "007",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "157"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1133",
       "st": "14/09/2019 04:20",
@@ -1409,25 +1390,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "LH",
-      "vuelo": "510",
-      "st": "14/09/2019 06:40",
-      "matricula": "DABYR",
-      "posicion": "09",
-      "et": "14/9/2019 06:30",
-      "at": "14/9/2019 06:33",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "008",
-      "ruta": "FRA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "4M",
       "vuelo": "7821",
       "st": "14/09/2019 07:05",
@@ -1444,6 +1406,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "210"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LH",
+      "vuelo": "510",
+      "st": "14/09/2019 06:40",
+      "matricula": "DABYR",
+      "posicion": "09",
+      "et": "14/9/2019 06:30",
+      "at": "14/9/2019 06:33",
+      "term": "A",
+      "sector": "",
+      "cinta": "8",
+      "lF": "008",
+      "ruta": "FRA",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -1466,25 +1447,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "UX",
-      "vuelo": "041",
-      "st": "14/09/2019 07:35",
-      "matricula": "ECMTI",
-      "posicion": "10",
-      "et": "14/9/2019 07:00",
-      "at": "14/9/2019 07:04",
-      "term": "A",
-      "sector": "",
-      "cinta": "6",
-      "lF": "010",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "298"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "CM",
       "vuelo": "454",
       "st": "14/09/2019 07:02",
@@ -1501,6 +1463,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "153"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "UX",
+      "vuelo": "041",
+      "st": "14/09/2019 07:35",
+      "matricula": "ECMTI",
+      "posicion": "10",
+      "et": "14/9/2019 07:00",
+      "at": "14/9/2019 07:04",
+      "term": "A",
+      "sector": "",
+      "cinta": "6",
+      "lF": "010",
+      "ruta": "MAD",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "298"
     },
     {
       "tipo": "arribo",
@@ -1979,25 +1960,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "UA",
-      "vuelo": "819",
-      "st": "14/09/2019 10:20",
-      "matricula": "N76010",
-      "posicion": "06",
-      "et": "14/9/2019 10:15",
-      "at": "14/9/2019 10:01",
-      "term": "A",
-      "sector": "",
-      "cinta": "5",
-      "lF": "002",
-      "ruta": "IAH",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "259"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1261",
       "st": "14/09/2019 10:25",
@@ -2014,6 +1976,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "114"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "UA",
+      "vuelo": "819",
+      "st": "14/09/2019 10:20",
+      "matricula": "N76010",
+      "posicion": "06",
+      "et": "14/9/2019 10:15",
+      "at": "14/9/2019 10:01",
+      "term": "A",
+      "sector": "",
+      "cinta": "5",
+      "lF": "002",
+      "ruta": "IAH",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "259"
     },
     {
       "tipo": "arribo",
@@ -3532,7 +3513,7 @@
       "puerta": "01",
       "ruta": "SCL",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3551,7 +3532,7 @@
       "puerta": "21",
       "ruta": "GRU",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3570,7 +3551,7 @@
       "puerta": "14",
       "ruta": "AMS",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
