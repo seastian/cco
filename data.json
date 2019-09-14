@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/09/2019 03:01",
+  "lastUpdate": "14/09/2019 03:06",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2231,7 +2231,7 @@
       "st": "14/09/2019 02:50",
       "matricula": "PRYRH",
       "posicion": "06",
-      "et": "14/9/2019 02:50",
+      "et": "",
       "at": "",
       "term": "A",
       "sector": "",
@@ -2239,7 +2239,7 @@
       "lF": "007",
       "ruta": "VCP",
       "via": "",
-      "remark": "EST",
+      "remark": "CON",
       "sanidad": "NO",
       "pax": "157"
     },
