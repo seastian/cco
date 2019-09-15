@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/09/2019 18:22",
+  "lastUpdate": "15/09/2019 18:27",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -136,6 +136,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "459",
+      "st": "15/09/2019 19:56",
+      "matricula": "CCBEI",
+      "posicion": "",
+      "et": "15/9/2019 19:40",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1135",
       "st": "15/09/2019 20:30",
@@ -152,25 +171,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "261"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "459",
-      "st": "15/09/2019 19:56",
-      "matricula": "CCBEI",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -4102,7 +4102,7 @@
       "puerta": "02",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4642,7 +4642,7 @@
       "aerolinea": "AM",
       "vuelo": "029",
       "st": "15/09/2019 23:20",
-      "matricula": "",
+      "matricula": "XAADC",
       "posicion": "",
       "et": "",
       "at": "",
