@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/09/2019 17:20",
+  "lastUpdate": "15/09/2019 17:25",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -4026,7 +4026,7 @@
       "puerta": "18",
       "ruta": "AMS",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4083,7 +4083,7 @@
       "puerta": "19",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -4231,7 +4231,7 @@
       "term": "A",
       "sector": "AP",
       "chkFrom": "054",
-      "chkTo": "061",
+      "chkTo": "062",
       "puerta": "",
       "ruta": "EWR",
       "via": "",
