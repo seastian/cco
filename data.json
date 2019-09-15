@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/09/2019 22:51",
+  "lastUpdate": "14/09/2019 22:56",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1100,25 +1100,6 @@
       "ruta": "SCL",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7650",
-      "st": "14/09/2019 11:00",
-      "matricula": "PRVBF",
-      "posicion": "11B",
-      "et": "14/9/2019 10:55",
-      "at": "14/9/2019 10:54",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "009",
-      "ruta": "GIG",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -3695,7 +3676,7 @@
       "matricula": "PRMBR",
       "posicion": "05",
       "et": "",
-      "at": "",
+      "at": "14/9/2019 22:53",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3703,7 +3684,7 @@
       "puerta": "04",
       "ruta": "ASU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3836,7 +3817,7 @@
       "puerta": "03",
       "ruta": "MEX",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
