@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/09/2019 06:22",
+  "lastUpdate": "15/09/2019 06:29",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2289,14 +2289,14 @@
       "matricula": "LVZYV",
       "posicion": "06",
       "et": "15/9/2019 06:20",
-      "at": "",
+      "at": "15/9/2019 06:20",
       "term": "A",
       "sector": "",
       "cinta": "5",
       "lF": "001",
       "ruta": "MIA",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "215"
     },
@@ -3494,7 +3494,7 @@
       "puerta": "10",
       "ruta": "BOG",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3551,7 +3551,7 @@
       "puerta": "12",
       "ruta": "SCL",
       "via": "",
-      "remark": "DEM",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
