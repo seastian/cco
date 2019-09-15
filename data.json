@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/09/2019 00:02",
+  "lastUpdate": "15/09/2019 00:07",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1102,25 +1102,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "4"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AD",
-      "vuelo": "8766",
-      "st": "14/09/2019 12:30",
-      "matricula": "PRYRU",
-      "posicion": "02",
-      "et": "14/9/2019 12:09",
-      "at": "14/9/2019 12:06",
-      "term": "A",
-      "sector": "",
-      "cinta": "6",
-      "lF": "010",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "152"
     },
     {
       "tipo": "arribo",
@@ -2356,25 +2337,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "149"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LA",
-      "vuelo": "456",
-      "st": "14/09/2019 11:38",
-      "matricula": "CCCOL",
-      "posicion": "50B",
-      "et": "",
-      "at": "14/9/2019 12:07",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "12",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
@@ -3771,7 +3733,7 @@
       "matricula": "PRGTT",
       "posicion": "03",
       "et": "14/9/2019 23:55",
-      "at": "",
+      "at": "15/9/2019 00:05",
       "term": "A",
       "sector": "AP",
       "chkFrom": "068",
@@ -3779,7 +3741,7 @@
       "puerta": "02",
       "ruta": "FOR",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
