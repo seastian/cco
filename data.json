@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/09/2019 05:22",
+  "lastUpdate": "15/09/2019 05:27",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2308,14 +2308,14 @@
       "matricula": "N968AV",
       "posicion": "10",
       "et": "15/9/2019 05:15",
-      "at": "",
+      "at": "15/9/2019 05:17",
       "term": "A",
       "sector": "",
       "cinta": "5",
       "lF": "001",
       "ruta": "BOG",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "259"
     },
@@ -3437,7 +3437,7 @@
       "puerta": "09",
       "ruta": "GRU",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
