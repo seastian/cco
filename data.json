@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/09/2019 17:50",
+  "lastUpdate": "16/09/2019 17:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3969,7 +3969,7 @@
       "puerta": "05",
       "ruta": "GRU",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -4259,25 +4259,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AU",
-      "vuelo": "2762",
-      "st": "16/09/2019 21:30",
-      "matricula": "LVCKZ",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "24",
-      "ruta": "ROS",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AA",
       "vuelo": "954",
       "st": "16/09/2019 21:30",
@@ -4311,6 +4292,25 @@
       "puerta": "",
       "ruta": "ADD",
       "via": "GRU",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AU",
+      "vuelo": "2762",
+      "st": "16/09/2019 21:30",
+      "matricula": "LVCKZ",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "24",
+      "ruta": "ROS",
+      "via": "",
       "remark": "HOR",
       "sanidad": "NO"
     },
@@ -4937,6 +4937,25 @@
       "chkTo": "053",
       "puerta": "",
       "ruta": "GRU",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AV",
+      "vuelo": "964",
+      "st": "17/09/2019 05:55",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "059",
+      "chkTo": "067",
+      "puerta": "",
+      "ruta": "LIM",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
