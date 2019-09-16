@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/09/2019 23:19",
+  "lastUpdate": "15/09/2019 23:24",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -215,7 +215,7 @@
       "aerolinea": "AR",
       "vuelo": "1301",
       "st": "16/09/2019 04:30",
-      "matricula": "",
+      "matricula": "LVFVI",
       "posicion": "",
       "et": "16/9/2019 03:39",
       "at": "",
@@ -234,7 +234,7 @@
       "aerolinea": "AR",
       "vuelo": "1133",
       "st": "16/09/2019 04:20",
-      "matricula": "",
+      "matricula": "LVFPU",
       "posicion": "",
       "et": "16/9/2019 03:42",
       "at": "",
@@ -253,7 +253,7 @@
       "aerolinea": "AR",
       "vuelo": "1305",
       "st": "16/09/2019 04:40",
-      "matricula": "",
+      "matricula": "LVFNK",
       "posicion": "",
       "et": "16/9/2019 04:00",
       "at": "",
@@ -291,7 +291,7 @@
       "aerolinea": "AR",
       "vuelo": "1141",
       "st": "16/09/2019 04:40",
-      "matricula": "",
+      "matricula": "LVGHQ",
       "posicion": "",
       "et": "16/9/2019 04:12",
       "at": "",
@@ -329,7 +329,7 @@
       "aerolinea": "AR",
       "vuelo": "1365",
       "st": "16/09/2019 05:00",
-      "matricula": "",
+      "matricula": "LVGUB",
       "posicion": "",
       "et": "",
       "at": "",
@@ -405,7 +405,7 @@
       "aerolinea": "AR",
       "vuelo": "1369",
       "st": "16/09/2019 06:05",
-      "matricula": "",
+      "matricula": "LVFYK",
       "posicion": "",
       "et": "",
       "at": "",
@@ -3999,7 +3999,7 @@
       "matricula": "LVFNL",
       "posicion": "14",
       "et": "",
-      "at": "",
+      "at": "15/9/2019 23:23",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "215",
@@ -4007,7 +4007,7 @@
       "puerta": "18",
       "ruta": "MIA",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -4178,7 +4178,7 @@
       "puerta": "02",
       "ruta": "BOG",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
