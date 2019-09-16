@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/09/2019 00:11",
+  "lastUpdate": "16/09/2019 00:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -141,7 +141,7 @@
       "st": "16/09/2019 02:35",
       "matricula": "",
       "posicion": "",
-      "et": "",
+      "et": "16/9/2019 02:35",
       "at": "",
       "term": "A",
       "sector": "",
@@ -149,7 +149,7 @@
       "lF": "",
       "ruta": "GRU",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -3980,7 +3980,7 @@
       "matricula": "LVFPV",
       "posicion": "15",
       "et": "",
-      "at": "",
+      "at": "16/9/2019 00:14",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3988,7 +3988,7 @@
       "puerta": "20",
       "ruta": "MAD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
