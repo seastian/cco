@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/09/2019 06:23",
+  "lastUpdate": "17/09/2019 06:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1200,25 +1200,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1371",
-      "st": "16/09/2019 19:10",
-      "matricula": "LVGKP",
-      "posicion": "12",
-      "et": "16/9/2019 18:31",
-      "at": "16/9/2019 18:29",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "CUN",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "218"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "PRV",
       "vuelo": "BES",
       "st": "16/09/2019 18:40",
@@ -1694,25 +1675,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AV",
-      "vuelo": "217",
-      "st": "16/09/2019 22:20",
-      "matricula": "N766AV",
-      "posicion": "08",
-      "et": "16/9/2019 22:00",
-      "at": "16/9/2019 22:00",
-      "term": "A",
-      "sector": "",
-      "cinta": "5",
-      "lF": "002",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "137"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "LA",
       "vuelo": "469",
       "st": "16/09/2019 22:24",
@@ -1729,6 +1691,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AV",
+      "vuelo": "217",
+      "st": "16/09/2019 22:20",
+      "matricula": "N766AV",
+      "posicion": "08",
+      "et": "16/9/2019 22:00",
+      "at": "16/9/2019 22:00",
+      "term": "A",
+      "sector": "",
+      "cinta": "5",
+      "lF": "002",
+      "ruta": "BOG",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "137"
     },
     {
       "tipo": "arribo",
@@ -3551,7 +3532,7 @@
       "puerta": "21",
       "ruta": "GRU",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3608,7 +3589,7 @@
       "puerta": "01",
       "ruta": "SCL",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
