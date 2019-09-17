@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/09/2019 08:34",
+  "lastUpdate": "17/09/2019 08:39",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1102,25 +1102,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AU",
-      "vuelo": "2463",
-      "st": "16/09/2019 20:45",
-      "matricula": "LVCHS",
-      "posicion": "22A",
-      "et": "16/9/2019 20:33",
-      "at": "16/9/2019 20:37",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "11",
-      "lF": "017",
-      "ruta": "MDZ",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "85"
     },
     {
       "tipo": "arribo",
@@ -3380,7 +3361,7 @@
       "puerta": "20",
       "ruta": "MIA",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3399,7 +3380,7 @@
       "puerta": "12",
       "ruta": "ASU",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
