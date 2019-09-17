@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/09/2019 00:59",
+  "lastUpdate": "17/09/2019 01:04",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -380,25 +380,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AZ",
-      "vuelo": "680",
-      "st": "17/09/2019 06:45",
-      "matricula": "EIDBK",
-      "posicion": "",
-      "et": "17/9/2019 06:57",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "FCO",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "257"
     },
     {
       "tipo": "arribo",
@@ -1105,25 +1086,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1281",
-      "st": "16/09/2019 13:30",
-      "matricula": "LVGFQ",
-      "posicion": "14A",
-      "et": "16/9/2019 13:13",
-      "at": "16/9/2019 13:02",
-      "term": "A",
-      "sector": "",
-      "cinta": "6",
-      "lF": "010",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "143"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "G3",
       "vuelo": "7688",
       "st": "16/09/2019 13:30",
@@ -1448,25 +1410,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "AR",
-      "vuelo": "1361",
-      "st": "16/09/2019 16:30",
-      "matricula": "LVCBF",
-      "posicion": "14A",
-      "et": "16/9/2019 16:35",
-      "at": "16/9/2019 16:30",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "008",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "100"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
       "vuelo": "1871",
       "st": "16/09/2019 16:45",
       "matricula": "LVFQC",
@@ -1482,6 +1425,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "127"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1361",
+      "st": "16/09/2019 16:30",
+      "matricula": "LVCBF",
+      "posicion": "14A",
+      "et": "16/9/2019 16:35",
+      "at": "16/9/2019 16:30",
+      "term": "A",
+      "sector": "",
+      "cinta": "8",
+      "lF": "008",
+      "ruta": "BOG",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "100"
     },
     {
       "tipo": "arribo",
@@ -1599,25 +1561,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "LP",
-      "vuelo": "2429",
-      "st": "16/09/2019 19:00",
-      "matricula": "CCBAK",
-      "posicion": "02",
-      "et": "16/9/2019 18:40",
-      "at": "16/9/2019 18:40",
-      "term": "A",
-      "sector": "",
-      "cinta": "1",
-      "lF": "001",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "157"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "PRV",
       "vuelo": "BES",
       "st": "16/09/2019 18:40",
@@ -1634,6 +1577,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "2"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LP",
+      "vuelo": "2429",
+      "st": "16/09/2019 19:00",
+      "matricula": "CCBAK",
+      "posicion": "02",
+      "et": "16/9/2019 18:40",
+      "at": "16/9/2019 18:40",
+      "term": "A",
+      "sector": "",
+      "cinta": "1",
+      "lF": "001",
+      "ruta": "LIM",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "157"
     },
     {
       "tipo": "arribo",
@@ -2356,6 +2318,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "147"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "G3",
+      "vuelo": "7648",
+      "st": "17/09/2019 01:10",
+      "matricula": "PRGUR",
+      "posicion": "10",
+      "et": "17/9/2019 01:05",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "2",
+      "lF": "001",
+      "ruta": "GIG",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "139"
     },
     {
       "tipo": "partida",
@@ -3676,7 +3657,7 @@
       "matricula": "LVFPU",
       "posicion": "12",
       "et": "17/9/2019 01:25",
-      "at": "",
+      "at": "17/9/2019 01:05",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3684,7 +3665,7 @@
       "puerta": "16",
       "ruta": "MAD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3703,7 +3684,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "EST",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
