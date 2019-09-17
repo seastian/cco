@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/09/2019 02:47",
+  "lastUpdate": "17/09/2019 02:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2359,25 +2359,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "4M",
-      "vuelo": "7868",
-      "st": "16/09/2019 14:35",
-      "matricula": "LVBFO",
-      "posicion": "06",
-      "et": "",
-      "at": "16/9/2019 14:51",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "05",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AC",
       "vuelo": "093",
       "st": "16/09/2019 15:00",
@@ -2568,25 +2549,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "QT",
-      "vuelo": "4078",
-      "st": "16/09/2019 16:30",
-      "matricula": "N332QT",
-      "posicion": "54",
-      "et": "",
-      "at": "16/9/2019 16:35",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "G3",
       "vuelo": "7675",
       "st": "16/09/2019 16:30",
@@ -2600,6 +2562,25 @@
       "chkTo": "074",
       "puerta": "07",
       "ruta": "GRU",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "QT",
+      "vuelo": "4078",
+      "st": "16/09/2019 16:30",
+      "matricula": "N332QT",
+      "posicion": "54",
+      "et": "",
+      "at": "16/9/2019 16:35",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "BOG",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -3608,7 +3589,7 @@
       "puerta": "18",
       "ruta": "PUJ",
       "via": "RES",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
