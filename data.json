@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/09/2019 12:12",
+  "lastUpdate": "17/09/2019 12:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3277,7 +3277,7 @@
       "matricula": "ECMYA",
       "posicion": "14",
       "et": "",
-      "at": "",
+      "at": "17/9/2019 12:16",
       "term": "A",
       "sector": "AP",
       "chkFrom": "027",
@@ -3285,7 +3285,7 @@
       "puerta": "18",
       "ruta": "BCN",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
