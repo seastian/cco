@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "17/09/2019 13:36",
+  "lastUpdate": "17/09/2019 13:41",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AD",
-      "vuelo": "8766",
-      "st": "17/09/2019 12:30",
-      "matricula": "PRYRZ",
-      "posicion": "05",
-      "et": "17/9/2019 13:45",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "3",
-      "lF": "003",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": "149"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AR",
@@ -1884,25 +1865,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "MP",
-      "vuelo": "6912",
-      "st": "17/09/2019 10:00",
-      "matricula": "PHCKA",
-      "posicion": "55",
-      "et": "17/9/2019 09:30",
-      "at": "17/9/2019 09:42",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "AMS",
-      "via": "VCP",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1269",
       "st": "17/09/2019 09:55",
@@ -1919,6 +1881,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "72"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "MP",
+      "vuelo": "6912",
+      "st": "17/09/2019 10:00",
+      "matricula": "PHCKA",
+      "posicion": "55",
+      "et": "17/9/2019 09:30",
+      "at": "17/9/2019 09:42",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "AMS",
+      "via": "VCP",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -2280,6 +2261,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AD",
+      "vuelo": "8766",
+      "st": "17/09/2019 12:30",
+      "matricula": "PRYRZ",
+      "posicion": "05",
+      "et": "17/9/2019 13:45",
+      "at": "17/9/2019 13:41",
+      "term": "A",
+      "sector": "",
+      "cinta": "3",
+      "lF": "003",
+      "ruta": "VCP",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "149"
     },
     {
       "tipo": "partida",
@@ -3475,7 +3475,7 @@
       "puerta": "07",
       "ruta": "LHR",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3494,7 +3494,7 @@
       "puerta": "03",
       "ruta": "GRU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
