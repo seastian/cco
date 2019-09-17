@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/09/2019 12:32",
+  "lastUpdate": "17/09/2019 12:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1766,7 +1766,7 @@
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -2455,25 +2455,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AOG",
-      "vuelo": "424",
-      "st": "17/09/2019 04:00",
-      "matricula": "CXCLS",
-      "posicion": "59",
-      "et": "",
-      "at": "17/9/2019 03:56",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
       "vuelo": "500",
       "st": "17/09/2019 04:00",
       "matricula": "CXLSS",
@@ -2486,6 +2467,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "ASU",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "424",
+      "st": "17/09/2019 04:00",
+      "matricula": "CXCLS",
+      "posicion": "59",
+      "et": "",
+      "at": "17/9/2019 03:56",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -3353,7 +3353,7 @@
       "matricula": "LVGIF",
       "posicion": "12",
       "et": "",
-      "at": "",
+      "at": "17/9/2019 12:35",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3361,7 +3361,7 @@
       "puerta": "16",
       "ruta": "MAD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3456,7 +3456,7 @@
       "puerta": "24",
       "ruta": "BRC",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
