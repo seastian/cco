@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/09/2019 14:00",
+  "lastUpdate": "17/09/2019 14:05",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3448,7 +3448,7 @@
       "matricula": "GYMMB",
       "posicion": "08",
       "et": "",
-      "at": "",
+      "at": "17/9/2019 14:02",
       "term": "A",
       "sector": "AP",
       "chkFrom": "007",
@@ -3456,7 +3456,7 @@
       "puerta": "07",
       "ruta": "LHR",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3494,7 +3494,7 @@
       "puerta": "03",
       "ruta": "GRU",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
