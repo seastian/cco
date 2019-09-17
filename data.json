@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/09/2019 02:16",
+  "lastUpdate": "17/09/2019 02:21",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -50,8 +50,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "4",
+      "lF": "004",
       "ruta": "VCP",
       "via": "",
       "remark": "EST",
@@ -137,6 +137,25 @@
     {
       "tipo": "arribo",
       "aerolinea": "AR",
+      "vuelo": "1365",
+      "st": "17/09/2019 05:00",
+      "matricula": "LVFVO",
+      "posicion": "",
+      "et": "17/9/2019 04:53",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "LIM",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "137"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
       "vuelo": "1301",
       "st": "17/09/2019 04:30",
       "matricula": "LVFNJ",
@@ -152,25 +171,6 @@
       "remark": "DEM",
       "sanidad": "NO",
       "pax": "238"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1365",
-      "st": "17/09/2019 05:00",
-      "matricula": "LVFVO",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -369,7 +369,7 @@
       "st": "17/09/2019 07:10",
       "matricula": "LVBZA",
       "posicion": "",
-      "et": "",
+      "et": "17/9/2019 07:07",
       "at": "",
       "term": "A",
       "sector": "",
@@ -377,9 +377,9 @@
       "lF": "",
       "ruta": "BOG",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "110"
     },
     {
       "tipo": "arribo",
@@ -2356,6 +2356,25 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "FLY",
+      "vuelo": "7119",
+      "st": "13/09/2019 01:50",
+      "matricula": "LVBGH",
+      "posicion": "58",
+      "et": "",
+      "at": "13/9/2019 02:14",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
     },
     {
       "tipo": "partida",
