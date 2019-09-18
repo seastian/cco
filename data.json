@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/09/2019 02:44",
+  "lastUpdate": "18/09/2019 02:50",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -250,6 +250,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "LP",
+      "vuelo": "2439",
+      "st": "18/09/2019 06:45",
+      "matricula": "CCBAK",
+      "posicion": "",
+      "et": "18/9/2019 06:15",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "LIM",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "LH",
       "vuelo": "510",
       "st": "18/09/2019 06:40",
@@ -285,25 +304,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "200"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LP",
-      "vuelo": "2439",
-      "st": "18/09/2019 06:45",
-      "matricula": "CCBAK",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -3646,7 +3646,7 @@
       "puerta": "21",
       "ruta": "PUJ",
       "via": "RES",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
