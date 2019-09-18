@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/09/2019 03:18",
+  "lastUpdate": "18/09/2019 03:24",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -4823,6 +4823,25 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "GIG",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "OB",
+      "vuelo": "709",
+      "st": "18/09/2019 15:25",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "013",
+      "chkTo": "018",
+      "puerta": "",
+      "ruta": "VVI",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
