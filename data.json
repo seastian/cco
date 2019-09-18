@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/09/2019 23:28",
+  "lastUpdate": "17/09/2019 23:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2321,25 +2321,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "DI",
-      "vuelo": "7506",
-      "st": "17/09/2019 11:00",
-      "matricula": "GCKWB",
-      "posicion": "10",
-      "et": "",
-      "at": "17/9/2019 11:34",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "001",
-      "chkTo": "006",
-      "puerta": "10",
-      "ruta": "LGW",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1284",
       "st": "17/09/2019 11:20",
@@ -3100,25 +3081,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "UA",
-      "vuelo": "2820",
-      "st": "17/09/2019 18:30",
-      "matricula": "N658UA",
-      "posicion": "03",
-      "et": "",
-      "at": "17/9/2019 18:47",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "054",
-      "chkTo": "061",
-      "puerta": "02",
-      "ruta": "EWR",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "PRV",
       "vuelo": "OFT",
       "st": "17/09/2019 18:30",
@@ -3600,7 +3562,7 @@
       "matricula": "LVFVI",
       "posicion": "13",
       "et": "",
-      "at": "",
+      "at": "17/9/2019 23:34",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3608,7 +3570,7 @@
       "puerta": "17",
       "ruta": "FCO",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3632,25 +3594,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "TK",
-      "vuelo": "016",
-      "st": "17/09/2019 22:55",
-      "matricula": "TCLJD",
-      "posicion": "03",
-      "et": "",
-      "at": "17/9/2019 23:17",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "060",
-      "chkTo": "067",
-      "puerta": "02",
-      "ruta": "IST",
-      "via": "GRU",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "ES",
       "vuelo": "8568",
       "st": "17/09/2019 22:55",
@@ -3665,6 +3608,25 @@
       "puerta": "07",
       "ruta": "CCS",
       "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "TK",
+      "vuelo": "016",
+      "st": "17/09/2019 22:55",
+      "matricula": "TCLJD",
+      "posicion": "03",
+      "et": "",
+      "at": "17/9/2019 23:17",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "060",
+      "chkTo": "067",
+      "puerta": "02",
+      "ruta": "IST",
+      "via": "GRU",
       "remark": "PAR",
       "sanidad": "NO"
     },
@@ -3695,7 +3657,7 @@
       "matricula": "A7BBG",
       "posicion": "15",
       "et": "",
-      "at": "",
+      "at": "17/9/2019 23:29",
       "term": "A",
       "sector": "AP",
       "chkFrom": "073",
@@ -3703,7 +3665,7 @@
       "puerta": "20",
       "ruta": "DOH",
       "via": "GRU",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3779,7 +3741,7 @@
       "puerta": "16",
       "ruta": "MAD",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3836,7 +3798,7 @@
       "puerta": "06",
       "ruta": "BOG",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
