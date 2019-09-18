@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/09/2019 17:08",
+  "lastUpdate": "18/09/2019 17:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -991,25 +991,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "5X",
-      "vuelo": "414",
-      "st": "18/09/2019 05:28",
-      "matricula": "N344UP",
-      "posicion": "55",
-      "et": "18/9/2019 05:11",
-      "at": "18/9/2019 05:11",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "SCL",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1365",
       "st": "18/09/2019 05:00",
@@ -1542,25 +1523,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "UA",
-      "vuelo": "979",
-      "st": "18/09/2019 09:50",
-      "matricula": "N672UA",
-      "posicion": "10",
-      "et": "18/9/2019 10:05",
-      "at": "18/9/2019 10:07",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "010",
-      "ruta": "EWR",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "196"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AU",
       "vuelo": "2541",
       "st": "18/09/2019 10:05",
@@ -1577,6 +1539,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "82"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "UA",
+      "vuelo": "979",
+      "st": "18/09/2019 09:50",
+      "matricula": "N672UA",
+      "posicion": "10",
+      "et": "18/9/2019 10:05",
+      "at": "18/9/2019 10:07",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "010",
+      "ruta": "EWR",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "196"
     },
     {
       "tipo": "arribo",
@@ -3594,6 +3575,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "G3",
+      "vuelo": "7653",
+      "st": "18/09/2019 17:15",
+      "matricula": "PRGGT",
+      "posicion": "02",
+      "et": "18/9/2019 18:15",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "068",
+      "chkTo": "074",
+      "puerta": "01",
+      "ruta": "GIG",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "AU",
       "vuelo": "2232",
       "st": "18/09/2019 17:40",
@@ -3608,7 +3608,7 @@
       "puerta": "16",
       "ruta": "POA",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3628,25 +3628,6 @@
       "ruta": "CWB",
       "via": "",
       "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "G3",
-      "vuelo": "7653",
-      "st": "18/09/2019 17:15",
-      "matricula": "PRGGT",
-      "posicion": "02",
-      "et": "18/9/2019 18:15",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "068",
-      "chkTo": "074",
-      "puerta": "01",
-      "ruta": "GIG",
-      "via": "",
-      "remark": "DEM",
       "sanidad": "NO"
     },
     {
