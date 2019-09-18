@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/09/2019 10:32",
+  "lastUpdate": "18/09/2019 10:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3361,7 +3361,7 @@
       "puerta": "19",
       "ruta": "GIG",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3385,6 +3385,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "DI",
+      "vuelo": "7506",
+      "st": "18/09/2019 11:00",
+      "matricula": "GCKWE",
+      "posicion": "05",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "001",
+      "chkTo": "006",
+      "puerta": "04",
+      "ruta": "LGW",
+      "via": "",
+      "remark": "ULT",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "PRV",
       "vuelo": "WIO",
       "st": "18/09/2019 11:00",
@@ -3400,25 +3419,6 @@
       "ruta": "BHI",
       "via": "",
       "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "DI",
-      "vuelo": "7506",
-      "st": "18/09/2019 11:00",
-      "matricula": "GCKWE",
-      "posicion": "05",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "001",
-      "chkTo": "006",
-      "puerta": "04",
-      "ruta": "LGW",
-      "via": "",
-      "remark": "BOR",
       "sanidad": "NO"
     },
     {
