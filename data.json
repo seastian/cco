@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/09/2019 12:16",
+  "lastUpdate": "19/09/2019 12:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -139,7 +139,7 @@
       "aerolinea": "AR",
       "vuelo": "1921",
       "st": "19/09/2019 14:00",
-      "matricula": "LVGKP",
+      "matricula": "LVGKT",
       "posicion": "",
       "et": "",
       "at": "",
@@ -215,9 +215,9 @@
       "aerolinea": "G3",
       "vuelo": "7682",
       "st": "19/09/2019 14:55",
-      "matricula": "",
+      "matricula": "PRGTF",
       "posicion": "",
-      "et": "",
+      "et": "19/9/2019 14:50",
       "at": "",
       "term": "A",
       "sector": "",
@@ -225,7 +225,7 @@
       "lF": "",
       "ruta": "GRU",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -3524,7 +3524,7 @@
       "matricula": "LVGKU",
       "posicion": "52A",
       "et": "",
-      "at": "",
+      "at": "19/9/2019 12:20",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3532,7 +3532,7 @@
       "puerta": "24",
       "ruta": "FTE",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3570,7 +3570,7 @@
       "puerta": "22",
       "ruta": "MAD",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3589,7 +3589,7 @@
       "puerta": "21",
       "ruta": "GRU",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3608,7 +3608,7 @@
       "puerta": "27",
       "ruta": "BRC",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3627,7 +3627,7 @@
       "puerta": "14",
       "ruta": "MAD",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3665,7 +3665,7 @@
       "puerta": "24",
       "ruta": "BRC",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3996,7 +3996,7 @@
       "aerolinea": "G3",
       "vuelo": "7675",
       "st": "19/09/2019 16:30",
-      "matricula": "",
+      "matricula": "PRGTF",
       "posicion": "",
       "et": "",
       "at": "",
@@ -4851,7 +4851,7 @@
       "aerolinea": "AR",
       "vuelo": "1300",
       "st": "19/09/2019 23:30",
-      "matricula": "LVGKP",
+      "matricula": "LVGKT",
       "posicion": "",
       "et": "",
       "at": "",
