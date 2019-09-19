@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/09/2019 01:31",
+  "lastUpdate": "19/09/2019 01:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1178,25 +1178,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7688",
-      "st": "18/09/2019 13:30",
-      "matricula": "PRGGE",
-      "posicion": "06",
-      "et": "18/9/2019 13:37",
-      "at": "18/9/2019 13:34",
-      "term": "A",
-      "sector": "",
-      "cinta": "4",
-      "lF": "004",
-      "ruta": "BSB",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "131"
     },
     {
       "tipo": "arribo",
@@ -3208,25 +3189,6 @@
       "chkTo": "240",
       "puerta": "25",
       "ruta": "COR",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "IB",
-      "vuelo": "6844",
-      "st": "18/09/2019 21:40",
-      "matricula": "ECNCX",
-      "posicion": "03",
-      "et": "",
-      "at": "18/9/2019 22:07",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "021",
-      "chkTo": "026",
-      "puerta": "02",
-      "ruta": "MAD",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
