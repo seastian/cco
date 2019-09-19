@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/09/2019 01:03",
+  "lastUpdate": "19/09/2019 01:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1181,25 +1181,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1281",
-      "st": "18/09/2019 13:30",
-      "matricula": "LVFQB",
-      "posicion": "16B",
-      "et": "18/9/2019 13:10",
-      "at": "18/9/2019 13:09",
-      "term": "A",
-      "sector": "",
-      "cinta": "6",
-      "lF": "010",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "84"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "4M",
       "vuelo": "7505",
       "st": "18/09/2019 13:12",
@@ -1371,25 +1352,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7682",
-      "st": "18/09/2019 14:55",
-      "matricula": "PRGTG",
-      "posicion": "04",
-      "et": "18/9/2019 14:54",
-      "at": "18/9/2019 15:07",
-      "term": "A",
-      "sector": "",
-      "cinta": "2",
-      "lF": "002",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "147"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1226",
       "st": "18/09/2019 15:15",
@@ -1406,6 +1368,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "133"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "G3",
+      "vuelo": "7682",
+      "st": "18/09/2019 14:55",
+      "matricula": "PRGTG",
+      "posicion": "04",
+      "et": "18/9/2019 14:54",
+      "at": "18/9/2019 15:07",
+      "term": "A",
+      "sector": "",
+      "cinta": "2",
+      "lF": "002",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "147"
     },
     {
       "tipo": "arribo",
@@ -3665,7 +3646,7 @@
       "puerta": "09",
       "ruta": "PTY",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
