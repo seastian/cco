@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/09/2019 14:16",
+  "lastUpdate": "20/09/2019 14:21",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -4415,14 +4415,14 @@
       "vuelo": "1302",
       "st": "20/09/2019 23:00",
       "matricula": "LVFNK",
-      "posicion": "",
+      "posicion": "12",
       "et": "",
       "at": "",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "209",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "16",
       "ruta": "MIA",
       "via": "",
       "remark": "HOR",
