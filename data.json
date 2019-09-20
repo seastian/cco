@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/09/2019 20:36",
+  "lastUpdate": "20/09/2019 20:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -345,6 +345,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "BES",
+      "st": "20/09/2019 23:00",
+      "matricula": "LVBES",
+      "posicion": "H21",
+      "et": "",
+      "at": "",
+      "term": "FBO",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "ESC",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO",
+      "pax": "0"
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1325",
       "st": "20/09/2019 23:05",
@@ -650,25 +669,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "AR",
-      "vuelo": "1305",
-      "st": "21/09/2019 04:40",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
       "vuelo": "1141",
       "st": "21/09/2019 04:40",
       "matricula": "",
@@ -680,6 +680,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "FCO",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1305",
+      "st": "21/09/2019 04:40",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -2308,14 +2327,14 @@
       "matricula": "ZPCRR",
       "posicion": "50A",
       "et": "20/9/2019 20:34",
-      "at": "",
+      "at": "20/9/2019 20:39",
       "term": "A",
       "sector": "",
       "cinta": "5",
       "lF": "006",
       "ruta": "ASU",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "45"
     },
@@ -3543,7 +3562,7 @@
       "matricula": "CCBJA",
       "posicion": "08",
       "et": "",
-      "at": "",
+      "at": "20/9/2019 20:34",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3551,7 +3570,7 @@
       "puerta": "07",
       "ruta": "LIM",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3646,7 +3665,7 @@
       "puerta": "14",
       "ruta": "IAH",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3666,6 +3685,25 @@
       "ruta": "MIA",
       "via": "",
       "remark": "BOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "PRV",
+      "vuelo": "BES",
+      "st": "20/09/2019 21:30",
+      "matricula": "LVBES",
+      "posicion": "H25",
+      "et": "",
+      "at": "",
+      "term": "FBO",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "ESC",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     },
     {
@@ -3741,7 +3779,7 @@
       "puerta": "02",
       "ruta": "MAD",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
