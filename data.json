@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/09/2019 21:04",
+  "lastUpdate": "19/09/2019 21:09",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -183,8 +183,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "7",
+      "lF": "007",
       "ruta": "ASU",
       "via": "",
       "remark": "DEM",
@@ -3627,7 +3627,7 @@
       "puerta": "03",
       "ruta": "MIA",
       "via": "",
-      "remark": "PRE",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3646,7 +3646,7 @@
       "puerta": "26",
       "ruta": "ROS",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3722,7 +3722,7 @@
       "puerta": "12",
       "ruta": "ASU",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
