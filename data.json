@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/09/2019 01:33",
+  "lastUpdate": "20/09/2019 01:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2364,7 +2364,7 @@
       "st": "20/09/2019 01:10",
       "matricula": "PRGGK",
       "posicion": "05",
-      "et": "20/9/2019 01:18",
+      "et": "",
       "at": "",
       "term": "A",
       "sector": "",
@@ -2372,7 +2372,7 @@
       "lF": "001",
       "ruta": "GIG",
       "via": "",
-      "remark": "EST",
+      "remark": "CON",
       "sanidad": "NO",
       "pax": "151"
     },
@@ -3600,7 +3600,7 @@
       "matricula": "HP1730",
       "posicion": "07",
       "et": "",
-      "at": "",
+      "at": "20/9/2019 01:30",
       "term": "A",
       "sector": "AP",
       "chkFrom": "021",
@@ -3608,7 +3608,7 @@
       "puerta": "06",
       "ruta": "PTY",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
