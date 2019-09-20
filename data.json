@@ -1,12 +1,12 @@
 {
-  "lastUpdate": "20/09/2019 15:02",
+  "lastUpdate": "20/09/2019 15:07",
   "vuelos": [
     {
       "tipo": "arribo",
       "aerolinea": "G3",
       "vuelo": "7682",
       "st": "20/09/2019 14:55",
-      "matricula": "PRGTT",
+      "matricula": "PRGGT",
       "posicion": "07",
       "et": "20/9/2019 15:13",
       "at": "",
@@ -728,7 +728,7 @@
       "aerolinea": "PZ",
       "vuelo": "1310",
       "st": "20/09/2019 21:30",
-      "matricula": "PRMBX",
+      "matricula": "PRMBR",
       "posicion": "",
       "et": "",
       "at": "",
@@ -2229,7 +2229,7 @@
       "aerolinea": "JJ",
       "vuelo": "8011",
       "st": "20/09/2019 14:23",
-      "matricula": "PRMAG",
+      "matricula": "PRMAZ",
       "posicion": "06",
       "et": "20/9/2019 14:40",
       "at": "20/9/2019 14:22",
@@ -3551,7 +3551,7 @@
       "puerta": "21",
       "ruta": "GIG",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3570,7 +3570,7 @@
       "puerta": "01",
       "ruta": "SCL",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3673,7 +3673,7 @@
       "aerolinea": "JJ",
       "vuelo": "8011",
       "st": "20/09/2019 16:15",
-      "matricula": "PRMAG",
+      "matricula": "PRMAZ",
       "posicion": "06",
       "et": "",
       "at": "",
