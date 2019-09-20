@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/09/2019 17:22",
+  "lastUpdate": "20/09/2019 17:27",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -103,7 +103,7 @@
       "st": "20/09/2019 18:58",
       "matricula": "CCCOL",
       "posicion": "",
-      "et": "",
+      "et": "20/9/2019 18:56",
       "at": "",
       "term": "A",
       "sector": "",
@@ -111,9 +111,9 @@
       "lF": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "143"
     },
     {
       "tipo": "arribo",
@@ -2226,6 +2226,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "JJ",
+      "vuelo": "8003",
+      "st": "20/09/2019 17:40",
+      "matricula": "PRMBO",
+      "posicion": "06",
+      "et": "20/9/2019 17:28",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "3",
+      "lF": "003",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "175"
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "PRV",
       "vuelo": "BMS",
       "st": "20/09/2019 19:30",
@@ -3570,7 +3589,7 @@
       "puerta": "23",
       "ruta": "BOG",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3589,7 +3608,7 @@
       "puerta": "01",
       "ruta": "GIG",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3646,7 +3665,7 @@
       "puerta": "18",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
