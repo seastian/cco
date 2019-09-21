@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/09/2019 05:31",
+  "lastUpdate": "21/09/2019 05:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1352,6 +1352,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "G3",
+      "vuelo": "7668",
+      "st": "21/09/2019 17:35",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "GIG",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "JJ",
       "vuelo": "8003",
       "st": "20/09/2019 17:40",
@@ -2384,14 +2403,14 @@
       "matricula": "N741AV",
       "posicion": "06",
       "et": "21/9/2019 05:16",
-      "at": "",
+      "at": "21/9/2019 05:28",
       "term": "A",
       "sector": "",
       "cinta": "4",
       "lF": "004",
       "ruta": "BOG",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "122"
     },
@@ -3551,7 +3570,7 @@
       "puerta": "10",
       "ruta": "LIM",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3589,7 +3608,7 @@
       "puerta": "17",
       "ruta": "POA",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
