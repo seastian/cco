@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/09/2019 17:22",
+  "lastUpdate": "21/09/2019 17:27",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3798,7 +3798,7 @@
       "puerta": "01",
       "ruta": "GIG",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3817,7 +3817,7 @@
       "puerta": "17",
       "ruta": "POA",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
