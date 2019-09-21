@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/09/2019 02:35",
+  "lastUpdate": "21/09/2019 02:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -164,8 +164,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "4",
+      "lF": "004",
       "ruta": "BOG",
       "via": "",
       "remark": "EST",
@@ -183,8 +183,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "9",
+      "lF": "010",
       "ruta": "AMS",
       "via": "",
       "remark": "EST",
