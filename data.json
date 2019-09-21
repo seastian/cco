@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/09/2019 00:32",
+  "lastUpdate": "21/09/2019 00:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3684,7 +3684,7 @@
       "puerta": "09",
       "ruta": "BOG",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3722,7 +3722,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "EST",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
