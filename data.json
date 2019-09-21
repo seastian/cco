@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/09/2019 14:19",
+  "lastUpdate": "21/09/2019 14:25",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -27,7 +27,7 @@
       "st": "21/09/2019 14:55",
       "matricula": "PRGTL",
       "posicion": "06",
-      "et": "21/9/2019 14:56",
+      "et": "21/9/2019 14:48",
       "at": "",
       "term": "A",
       "sector": "",
@@ -421,6 +421,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "LP",
+      "vuelo": "2429",
+      "st": "21/09/2019 19:00",
+      "matricula": "CCBAJ",
+      "posicion": "",
+      "et": "21/9/2019 18:15",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "LIM",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "162"
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1371",
       "st": "21/09/2019 19:10",
@@ -437,25 +456,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "260"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LP",
-      "vuelo": "2429",
-      "st": "21/09/2019 19:00",
-      "matricula": "CCBAJ",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -3562,7 +3562,7 @@
       "matricula": "PRVBK",
       "posicion": "06",
       "et": "",
-      "at": "",
+      "at": "21/9/2019 14:24",
       "term": "A",
       "sector": "AP",
       "chkFrom": "068",
@@ -3570,7 +3570,7 @@
       "puerta": "05",
       "ruta": "GRU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
