@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/09/2019 23:10",
+  "lastUpdate": "20/09/2019 23:15",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2346,14 +2346,14 @@
       "matricula": "LVBZO",
       "posicion": "51A",
       "et": "20/9/2019 23:03",
-      "at": "",
+      "at": "20/9/2019 23:13",
       "term": "A",
       "sector": "",
       "cinta": "9",
       "lF": "009",
       "ruta": "SCL",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "20"
     },
@@ -2391,25 +2391,6 @@
       "chkTo": "063",
       "puerta": "19",
       "ruta": "BOG",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "DI",
-      "vuelo": "7506",
-      "st": "20/09/2019 11:00",
-      "matricula": "GCKOF",
-      "posicion": "03",
-      "et": "",
-      "at": "20/9/2019 11:15",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "001",
-      "chkTo": "006",
-      "puerta": "02",
-      "ruta": "LGW",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -3950,7 +3931,7 @@
       "puerta": "05",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
