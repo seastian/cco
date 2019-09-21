@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/09/2019 15:01",
+  "lastUpdate": "21/09/2019 15:07",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -141,7 +141,7 @@
       "st": "21/09/2019 16:15",
       "matricula": "LVBZO",
       "posicion": "",
-      "et": "",
+      "et": "21/9/2019 16:15",
       "at": "",
       "term": "C",
       "sector": "CAC",
@@ -149,9 +149,9 @@
       "lF": "",
       "ruta": "MDZ",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "118"
     },
     {
       "tipo": "arribo",
@@ -3684,7 +3684,7 @@
       "puerta": "04",
       "ruta": "SCL",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
