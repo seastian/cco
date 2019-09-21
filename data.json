@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/09/2019 06:17",
+  "lastUpdate": "21/09/2019 06:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1349,25 +1349,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1253",
-      "st": "20/09/2019 18:15",
-      "matricula": "LVFQC",
-      "posicion": "17A",
-      "et": "20/9/2019 18:25",
-      "at": "20/9/2019 18:18",
-      "term": "A",
-      "sector": "",
-      "cinta": "6",
-      "lF": "007",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "158"
     },
     {
       "tipo": "arribo",
@@ -3524,7 +3505,7 @@
       "matricula": "LVGVB",
       "posicion": "52A",
       "et": "",
-      "at": "",
+      "at": "21/9/2019 06:19",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3532,7 +3513,7 @@
       "puerta": "13",
       "ruta": "ASU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
