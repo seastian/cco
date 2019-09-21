@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/09/2019 00:53",
+  "lastUpdate": "21/09/2019 00:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3632,25 +3632,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "G3",
-      "vuelo": "7470",
-      "st": "21/09/2019 01:05",
-      "matricula": "PRGTL",
-      "posicion": "02",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "068",
-      "chkTo": "074",
-      "puerta": "01",
-      "ruta": "REC",
-      "via": "",
-      "remark": "BOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "M3",
       "vuelo": "8496",
       "st": "21/09/2019 02:10",
@@ -3666,6 +3647,25 @@
       "ruta": "SCL",
       "via": "",
       "remark": "CER",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "G3",
+      "vuelo": "7470",
+      "st": "21/09/2019 01:05",
+      "matricula": "PRGTL",
+      "posicion": "02",
+      "et": "21/9/2019 01:10",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "068",
+      "chkTo": "074",
+      "puerta": "01",
+      "ruta": "REC",
+      "via": "",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4251,7 +4251,7 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "25",
       "ruta": "TUC",
       "via": "",
       "remark": "HOR",
@@ -4270,7 +4270,7 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "26",
       "ruta": "USH",
       "via": "MDQ",
       "remark": "HOR",
