@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/09/2019 15:38",
+  "lastUpdate": "21/09/2019 15:44",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -19,6 +19,25 @@
       "remark": "DEM",
       "sanidad": "NO",
       "pax": "51"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AU",
+      "vuelo": "2393",
+      "st": "21/09/2019 16:10",
+      "matricula": "LVCMA",
+      "posicion": "",
+      "et": "21/9/2019 15:57",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "82"
     },
     {
       "tipo": "arribo",
@@ -98,22 +117,22 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AU",
-      "vuelo": "2393",
-      "st": "21/09/2019 16:10",
-      "matricula": "LVCMA",
-      "posicion": "",
-      "et": "",
+      "aerolinea": "AR",
+      "vuelo": "1413",
+      "st": "21/09/2019 16:15",
+      "matricula": "LVBZO",
+      "posicion": "18B",
+      "et": "21/9/2019 16:15",
       "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MVD",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "12",
+      "lF": "018",
+      "ruta": "MDZ",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "118"
     },
     {
       "tipo": "arribo",
@@ -133,25 +152,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1413",
-      "st": "21/09/2019 16:15",
-      "matricula": "LVBZO",
-      "posicion": "18B",
-      "et": "21/9/2019 16:15",
-      "at": "",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "12",
-      "lF": "018",
-      "ruta": "MDZ",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "118"
     },
     {
       "tipo": "arribo",
@@ -3665,7 +3665,7 @@
       "puerta": "04",
       "ruta": "SCL",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3741,7 +3741,7 @@
       "puerta": "23",
       "ruta": "SCL",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
