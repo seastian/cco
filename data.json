@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/09/2019 03:38",
+  "lastUpdate": "21/09/2019 03:43",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3532,7 +3532,7 @@
       "puerta": "15",
       "ruta": "LIM",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3757,7 +3757,7 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "19",
       "ruta": "SCL",
       "via": "",
       "remark": "HOR",
