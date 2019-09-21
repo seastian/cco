@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/09/2019 00:43",
+  "lastUpdate": "21/09/2019 00:48",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3627,7 +3627,7 @@
       "puerta": "02",
       "ruta": "AKL",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3638,7 +3638,7 @@
       "matricula": "N753AV",
       "posicion": "09",
       "et": "21/9/2019 00:30",
-      "at": "",
+      "at": "21/9/2019 00:45",
       "term": "A",
       "sector": "AP",
       "chkFrom": "013",
@@ -3646,7 +3646,7 @@
       "puerta": "09",
       "ruta": "BOG",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3665,7 +3665,7 @@
       "puerta": "01",
       "ruta": "REC",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
