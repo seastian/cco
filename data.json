@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/09/2019 04:05",
+  "lastUpdate": "21/09/2019 04:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1238,22 +1238,22 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1285",
-      "st": "20/09/2019 16:20",
-      "matricula": "LVFQB",
-      "posicion": "12",
-      "et": "20/9/2019 16:10",
-      "at": "20/9/2019 16:10",
+      "aerolinea": "AU",
+      "vuelo": "2393",
+      "st": "21/09/2019 16:10",
+      "matricula": "LVCMA",
+      "posicion": "",
+      "et": "",
+      "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "8",
-      "lF": "009",
-      "ruta": "SCL",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MVD",
       "via": "",
-      "remark": "ATE",
+      "remark": "",
       "sanidad": "NO",
-      "pax": "89"
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -2327,14 +2327,14 @@
       "matricula": "LVGKP",
       "posicion": "15",
       "et": "21/9/2019 03:59",
-      "at": "",
+      "at": "21/9/2019 04:07",
       "term": "A",
       "sector": "",
       "cinta": "8",
       "lF": "008",
       "ruta": "JFK",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "270"
     },
@@ -3513,7 +3513,7 @@
       "puerta": "17",
       "ruta": "BPS",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3532,7 +3532,7 @@
       "puerta": "07",
       "ruta": "PTY",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4728,6 +4728,25 @@
       "chkTo": "074",
       "puerta": "",
       "ruta": "GIG",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "OB",
+      "vuelo": "709",
+      "st": "21/09/2019 16:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "013",
+      "chkTo": "018",
+      "puerta": "",
+      "ruta": "VVI",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
