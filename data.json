@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/09/2019 05:20",
+  "lastUpdate": "21/09/2019 05:25",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3448,7 +3448,7 @@
       "matricula": "HP1838",
       "posicion": "08",
       "et": "",
-      "at": "",
+      "at": "21/9/2019 04:57",
       "term": "A",
       "sector": "AP",
       "chkFrom": "021",
@@ -3456,7 +3456,7 @@
       "puerta": "07",
       "ruta": "PTY",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3551,7 +3551,7 @@
       "puerta": "04",
       "ruta": "GRU",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3589,7 +3589,7 @@
       "puerta": "13",
       "ruta": "ASU",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3814,7 +3814,7 @@
       "sector": "AP",
       "chkFrom": "041",
       "chkTo": "053",
-      "puerta": "01",
+      "puerta": "12",
       "ruta": "LIM",
       "via": "",
       "remark": "HOR",
