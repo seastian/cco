@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/09/2019 04:48",
+  "lastUpdate": "21/09/2019 04:53",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1311,25 +1311,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "NZ",
-      "vuelo": "30",
-      "st": "20/09/2019 15:40",
-      "matricula": "ZKOKF",
-      "posicion": "04",
-      "et": "20/9/2019 16:50",
-      "at": "20/9/2019 16:51",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "008",
-      "ruta": "AKL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "305"
     },
     {
       "tipo": "arribo",
@@ -3570,7 +3551,7 @@
       "puerta": "04",
       "ruta": "GRU",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4804,6 +4785,25 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "BOG",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LH",
+      "vuelo": "511",
+      "st": "21/09/2019 16:50",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "032",
+      "chkTo": "040",
+      "puerta": "",
+      "ruta": "FRA",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
