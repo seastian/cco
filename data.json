@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/09/2019 23:42",
+  "lastUpdate": "21/09/2019 23:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -405,7 +405,7 @@
       "aerolinea": "4M",
       "vuelo": "7821",
       "st": "22/09/2019 07:05",
-      "matricula": "",
+      "matricula": "LVIQW",
       "posicion": "",
       "et": "22/9/2019 06:40",
       "at": "",
@@ -2312,7 +2312,7 @@
       "term": "A",
       "sector": "",
       "cinta": "8",
-      "lF": "",
+      "lF": "008",
       "ruta": "GRU",
       "via": "",
       "remark": "ATE",
@@ -4131,7 +4131,7 @@
       "st": "22/09/2019 05:40",
       "matricula": "",
       "posicion": "",
-      "et": "",
+      "et": "22/9/2019 05:45",
       "at": "",
       "term": "A",
       "sector": "AP",
@@ -4140,7 +4140,7 @@
       "puerta": "",
       "ruta": "GRU",
       "via": "",
-      "remark": "HOR",
+      "remark": "EST",
       "sanidad": "NO"
     },
     {
