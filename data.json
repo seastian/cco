@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/09/2019 06:15",
+  "lastUpdate": "22/09/2019 06:20",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1314,20 +1314,20 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "LH",
-      "vuelo": "8264",
-      "st": "21/09/2019 19:15",
-      "matricula": "DALFC",
-      "posicion": "55",
-      "et": "21/9/2019 18:20",
-      "at": "21/9/2019 18:19",
-      "term": "TCA",
+      "aerolinea": "AZ",
+      "vuelo": "8680",
+      "st": "22/09/2019 17:35",
+      "matricula": "EIDDH",
+      "posicion": "",
+      "et": "22/9/2019 18:18",
+      "at": "",
+      "term": "A",
       "sector": "",
       "cinta": "",
       "lF": "",
-      "ruta": "FRA",
-      "via": "MVD",
-      "remark": "ATE",
+      "ruta": "FCO",
+      "via": "",
+      "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
     },
@@ -3570,7 +3570,7 @@
       "puerta": "13",
       "ruta": "GRU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
