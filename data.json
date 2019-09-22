@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/09/2019 17:19",
+  "lastUpdate": "22/09/2019 17:24",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -38,6 +38,25 @@
       "remark": "DEM",
       "sanidad": "NO",
       "pax": "170"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "443",
+      "st": "22/09/2019 18:46",
+      "matricula": "CCBEC",
+      "posicion": "",
+      "et": "22/9/2019 18:15",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -114,25 +133,6 @@
       "remark": "DEM",
       "sanidad": "NO",
       "pax": "154"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "443",
-      "st": "22/09/2019 18:46",
-      "matricula": "CCBEC",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -3885,7 +3885,7 @@
       "matricula": "LVCHQ",
       "posicion": "22B",
       "et": "",
-      "at": "",
+      "at": "22/9/2019 17:22",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3893,7 +3893,7 @@
       "puerta": "17",
       "ruta": "ASU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3903,7 +3903,7 @@
       "st": "22/09/2019 17:15",
       "matricula": "PRGTP",
       "posicion": "05",
-      "et": "22/9/2019 17:35",
+      "et": "22/9/2019 17:40",
       "at": "",
       "term": "A",
       "sector": "AP",
@@ -3912,7 +3912,7 @@
       "puerta": "04",
       "ruta": "GIG",
       "via": "",
-      "remark": "DEM",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4078,7 +4078,7 @@
       "at": "",
       "term": "A",
       "sector": "AP",
-      "chkFrom": "041",
+      "chkFrom": "038",
       "chkTo": "053",
       "puerta": "02",
       "ruta": "SCL",
