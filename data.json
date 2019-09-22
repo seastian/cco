@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/09/2019 13:49",
+  "lastUpdate": "22/09/2019 13:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3638,7 +3638,7 @@
       "matricula": "PRYRT",
       "posicion": "02",
       "et": "",
-      "at": "",
+      "at": "22/9/2019 13:50",
       "term": "A",
       "sector": "AP",
       "chkFrom": "075",
@@ -3646,7 +3646,7 @@
       "puerta": "01",
       "ruta": "VCP",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
