@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/09/2019 03:09",
+  "lastUpdate": "22/09/2019 03:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -159,7 +159,7 @@
       "vuelo": "7460",
       "st": "22/09/2019 05:50",
       "matricula": "PRGTE",
-      "posicion": "04",
+      "posicion": "11B",
       "et": "22/9/2019 05:47",
       "at": "",
       "term": "A",
@@ -216,7 +216,7 @@
       "vuelo": "907",
       "st": "22/09/2019 06:00",
       "matricula": "",
-      "posicion": "",
+      "posicion": "04",
       "et": "22/9/2019 06:22",
       "at": "",
       "term": "A",
@@ -254,7 +254,7 @@
       "vuelo": "7821",
       "st": "22/09/2019 07:05",
       "matricula": "LVIQW",
-      "posicion": "",
+      "posicion": "08",
       "et": "22/9/2019 06:40",
       "at": "",
       "term": "A",
@@ -2416,25 +2416,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AC",
-      "vuelo": "093",
-      "st": "21/09/2019 15:00",
-      "matricula": "CFGEO",
-      "posicion": "04",
-      "et": "",
-      "at": "21/9/2019 15:14",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "061",
-      "chkTo": "067",
-      "puerta": "03",
-      "ruta": "YYZ",
-      "via": "SCL",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "H2",
       "vuelo": "508",
       "st": "21/09/2019 15:20",
@@ -3638,7 +3619,7 @@
       "matricula": "LVGGK",
       "posicion": "22A",
       "et": "",
-      "at": "",
+      "at": "22/9/2019 03:12",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3646,7 +3627,7 @@
       "puerta": "13",
       "ruta": "SSA",
       "via": "BPS",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3657,7 +3638,7 @@
       "matricula": "PRVBF",
       "posicion": "05",
       "et": "22/9/2019 02:45",
-      "at": "",
+      "at": "22/9/2019 02:55",
       "term": "A",
       "sector": "AP",
       "chkFrom": "068",
@@ -3665,7 +3646,7 @@
       "puerta": "04",
       "ruta": "GIG",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
