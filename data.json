@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/09/2019 06:20",
+  "lastUpdate": "22/09/2019 06:25",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1330,25 +1330,6 @@
       "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1293",
-      "st": "21/09/2019 17:45",
-      "matricula": "LVFQC",
-      "posicion": "22A",
-      "et": "21/9/2019 18:23",
-      "at": "21/9/2019 18:23",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "009",
-      "ruta": "GIG",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "161"
     },
     {
       "tipo": "arribo",
@@ -3551,7 +3532,7 @@
       "puerta": "24",
       "ruta": "SLA",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3570,7 +3551,7 @@
       "puerta": "13",
       "ruta": "GRU",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3646,7 +3627,7 @@
       "puerta": "25",
       "ruta": "MDZ",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3665,7 +3646,7 @@
       "puerta": "10",
       "ruta": "BOG",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
