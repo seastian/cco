@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/09/2019 09:17",
+  "lastUpdate": "22/09/2019 09:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1352,6 +1352,44 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "AM",
+      "vuelo": "030",
+      "st": "22/09/2019 21:20",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MEX",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1429",
+      "st": "22/09/2019 21:20",
+      "matricula": "LVCXT",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SLA",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "QR",
       "vuelo": "773",
       "st": "21/09/2019 21:35",
@@ -2346,14 +2384,14 @@
       "matricula": "PRGGG",
       "posicion": "09",
       "et": "22/9/2019 09:15",
-      "at": "",
+      "at": "22/9/2019 09:21",
       "term": "A",
       "sector": "",
       "cinta": "2",
       "lF": "003",
       "ruta": "GRU",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "145"
     },
@@ -3627,7 +3665,7 @@
       "puerta": "01",
       "ruta": "GIG",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3665,7 +3703,7 @@
       "puerta": "15",
       "ruta": "SCL",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
