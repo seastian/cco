@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/09/2019 05:30",
+  "lastUpdate": "22/09/2019 05:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -785,7 +785,7 @@
       "aerolinea": "4M",
       "vuelo": "7763",
       "st": "22/09/2019 12:13",
-      "matricula": "LVGUS",
+      "matricula": "LVGLP",
       "posicion": "",
       "et": "",
       "at": "",
@@ -3551,7 +3551,7 @@
       "puerta": "19",
       "ruta": "ASU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3570,7 +3570,7 @@
       "puerta": "13",
       "ruta": "POA",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4509,7 +4509,7 @@
       "aerolinea": "4M",
       "vuelo": "7868",
       "st": "22/09/2019 14:35",
-      "matricula": "LVGUS",
+      "matricula": "LVGLP",
       "posicion": "",
       "et": "",
       "at": "",
