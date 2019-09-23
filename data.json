@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/09/2019 07:07",
+  "lastUpdate": "23/09/2019 07:12",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1011,25 +1011,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "AR",
-      "vuelo": "1873",
-      "st": "23/09/2019 16:15",
-      "matricula": "LVGKS",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "BRC",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
       "vuelo": "1413",
       "st": "23/09/2019 16:15",
       "matricula": "LVCBT",
@@ -1060,6 +1041,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "MDZ",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1873",
+      "st": "23/09/2019 16:15",
+      "matricula": "LVGKS",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "BRC",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -1231,6 +1231,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "LIM",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1371",
+      "st": "23/09/2019 19:10",
+      "matricula": "LVGKP",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "CUN",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -3676,7 +3695,7 @@
       "matricula": "LVCIH",
       "posicion": "23B",
       "et": "",
-      "at": "",
+      "at": "23/9/2019 07:11",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3684,7 +3703,7 @@
       "puerta": "25",
       "ruta": "MDZ",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3760,7 +3779,7 @@
       "puerta": "27",
       "ruta": "ROS",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3779,7 +3798,7 @@
       "puerta": "26",
       "ruta": "COR",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3855,7 +3874,7 @@
       "puerta": "14",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3893,7 +3912,7 @@
       "puerta": "13",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
