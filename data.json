@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "23/09/2019 05:22",
+  "lastUpdate": "23/09/2019 05:27",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1365",
-      "st": "23/09/2019 05:00",
-      "matricula": "LVFVM",
-      "posicion": "25B",
-      "et": "23/9/2019 05:27",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "010",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": "146"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AA",
@@ -2565,6 +2546,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "267"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1365",
+      "st": "23/09/2019 05:00",
+      "matricula": "LVFVM",
+      "posicion": "25B",
+      "et": "23/9/2019 05:27",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "7",
+      "lF": "010",
+      "ruta": "LIM",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": "146"
     },
     {
       "tipo": "partida",
