@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/09/2019 13:32",
+  "lastUpdate": "23/09/2019 13:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -26,7 +26,7 @@
       "vuelo": "7688",
       "st": "23/09/2019 13:30",
       "matricula": "PRGTT",
-      "posicion": "06",
+      "posicion": "04",
       "et": "23/9/2019 13:41",
       "at": "",
       "term": "A",
@@ -3627,7 +3627,7 @@
       "puerta": "07",
       "ruta": "VCP",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3657,7 +3657,7 @@
       "matricula": "ECMYX",
       "posicion": "03",
       "et": "",
-      "at": "",
+      "at": "23/9/2019 13:28",
       "term": "A",
       "sector": "AP",
       "chkFrom": "021",
@@ -3665,7 +3665,7 @@
       "puerta": "02",
       "ruta": "MAD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3712,14 +3712,14 @@
       "vuelo": "7453",
       "st": "23/09/2019 14:10",
       "matricula": "PRGTT",
-      "posicion": "06",
+      "posicion": "04",
       "et": "23/9/2019 14:30",
       "at": "",
       "term": "A",
       "sector": "AP",
       "chkFrom": "068",
       "chkTo": "074",
-      "puerta": "05",
+      "puerta": "03",
       "ruta": "GRU",
       "via": "",
       "remark": "DEM",
@@ -3741,7 +3741,7 @@
       "puerta": "01",
       "ruta": "GRU",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
