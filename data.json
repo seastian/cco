@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/09/2019 17:32",
+  "lastUpdate": "23/09/2019 17:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2441,14 +2441,14 @@
       "matricula": "PRMBS",
       "posicion": "06",
       "et": "23/9/2019 17:30",
-      "at": "",
+      "at": "23/9/2019 17:36",
       "term": "A",
       "sector": "",
       "cinta": "1",
       "lF": "001",
       "ruta": "GRU",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "172"
     },
@@ -2467,25 +2467,6 @@
       "chkTo": "007",
       "puerta": "02",
       "ruta": "CCS",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1952",
-      "st": "23/09/2019 05:05",
-      "matricula": "LVGGQ",
-      "posicion": "18B",
-      "et": "",
-      "at": "23/9/2019 05:34",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "13",
-      "ruta": "BPS",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
