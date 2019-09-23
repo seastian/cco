@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/09/2019 06:46",
+  "lastUpdate": "23/09/2019 06:51",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1295,25 +1295,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1371",
-      "st": "22/09/2019 19:10",
-      "matricula": "LVGKP",
-      "posicion": "16",
-      "et": "22/9/2019 18:54",
-      "at": "22/9/2019 18:50",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "CUN",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "259"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "PRV",
       "vuelo": "BMS",
       "st": "22/09/2019 19:00",
@@ -1409,25 +1390,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "GTI",
-      "vuelo": "033",
-      "st": "22/09/2019 23:05",
-      "matricula": "N859GT",
-      "posicion": "55",
-      "et": "22/9/2019 20:00",
-      "at": "22/9/2019 19:28",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AU",
       "vuelo": "2709",
       "st": "22/09/2019 20:00",
@@ -1444,6 +1406,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "80"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "GTI",
+      "vuelo": "033",
+      "st": "22/09/2019 23:05",
+      "matricula": "N859GT",
+      "posicion": "55",
+      "et": "22/9/2019 20:00",
+      "at": "22/9/2019 19:28",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -3676,7 +3657,7 @@
       "matricula": "LVFQC",
       "posicion": "17B",
       "et": "",
-      "at": "",
+      "at": "23/9/2019 06:52",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3684,7 +3665,7 @@
       "puerta": "24",
       "ruta": "SLA",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3741,7 +3722,7 @@
       "puerta": "25",
       "ruta": "MDZ",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3817,7 +3798,7 @@
       "puerta": "26",
       "ruta": "COR",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
