@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/09/2019 13:48",
+  "lastUpdate": "23/09/2019 13:53",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -376,25 +376,6 @@
       "cinta": "",
       "lF": "",
       "ruta": "GRU",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1293",
-      "st": "23/09/2019 17:45",
-      "matricula": "LVGVB",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "GIG",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -2415,6 +2396,25 @@
       "pax": ""
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "JJ",
+      "vuelo": "8011",
+      "st": "23/09/2019 14:23",
+      "matricula": "PRMAZ",
+      "posicion": "08",
+      "et": "23/9/2019 14:10",
+      "at": "23/9/2019 13:53",
+      "term": "A",
+      "sector": "",
+      "cinta": "4",
+      "lF": "004",
+      "ruta": "LIM",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "165"
+    },
+    {
       "tipo": "partida",
       "aerolinea": "AOG",
       "vuelo": "102",
@@ -3619,7 +3619,7 @@
       "matricula": "IDISU",
       "posicion": "13",
       "et": "23/9/2019 13:25",
-      "at": "",
+      "at": "23/9/2019 13:40",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "201",
@@ -3627,7 +3627,7 @@
       "puerta": "17",
       "ruta": "FCO",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3703,7 +3703,7 @@
       "puerta": "03",
       "ruta": "GRU",
       "via": "",
-      "remark": "DEM",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
