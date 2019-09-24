@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/09/2019 11:29",
+  "lastUpdate": "24/09/2019 11:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3467,7 +3467,7 @@
       "matricula": "HP1838",
       "posicion": "06",
       "et": "",
-      "at": "",
+      "at": "24/9/2019 11:33",
       "term": "A",
       "sector": "AP",
       "chkFrom": "013",
@@ -3475,7 +3475,7 @@
       "puerta": "05",
       "ruta": "PTY",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3551,7 +3551,7 @@
       "puerta": "09",
       "ruta": "BCN",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3570,7 +3570,7 @@
       "puerta": "27",
       "ruta": "MDZ",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3589,7 +3589,7 @@
       "puerta": "25",
       "ruta": "FTE",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3608,7 +3608,7 @@
       "puerta": "26",
       "ruta": "COR",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3627,7 +3627,7 @@
       "puerta": "14",
       "ruta": "SCL",
       "via": "",
-      "remark": "DEM",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3681,7 +3681,7 @@
       "sector": "CPI",
       "chkFrom": "201",
       "chkTo": "210",
-      "puerta": "19",
+      "puerta": "18",
       "ruta": "FCO",
       "via": "",
       "remark": "HOR",
