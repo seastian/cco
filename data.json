@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/09/2019 00:16",
+  "lastUpdate": "24/09/2019 00:21",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2569,44 +2569,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1524",
-      "st": "23/09/2019 12:00",
-      "matricula": "LVCAD",
-      "posicion": "25B",
-      "et": "",
-      "at": "23/9/2019 12:18",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "27",
-      "ruta": "COR",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1412",
-      "st": "23/09/2019 12:00",
-      "matricula": "LVCBT",
-      "posicion": "17B",
-      "et": "",
-      "at": "23/9/2019 12:21",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "24",
-      "ruta": "MDZ",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "1134",
       "st": "23/09/2019 12:10",
       "matricula": "LVGIF",
@@ -3961,7 +3923,7 @@
       "matricula": "N751AV",
       "posicion": "07",
       "et": "",
-      "at": "",
+      "at": "24/9/2019 00:19",
       "term": "A",
       "sector": "AP",
       "chkFrom": "013",
@@ -3969,7 +3931,7 @@
       "puerta": "06",
       "ruta": "BOG",
       "via": "",
-      "remark": "ULT",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -4269,7 +4231,7 @@
       "term": "A",
       "sector": "AP",
       "chkFrom": "076",
-      "chkTo": "078",
+      "chkTo": "081",
       "puerta": "",
       "ruta": "VCP",
       "via": "",
