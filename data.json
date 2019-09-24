@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/09/2019 14:25",
+  "lastUpdate": "24/09/2019 14:30",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2270,14 +2270,14 @@
       "matricula": "CCAJF",
       "posicion": "02",
       "et": "24/9/2019 14:23",
-      "at": "",
+      "at": "24/9/2019 14:28",
       "term": "A",
       "sector": "",
       "cinta": "1",
       "lF": "003",
       "ruta": "SCL",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "122"
     },
@@ -3532,7 +3532,7 @@
       "puerta": "02",
       "ruta": "YYZ",
       "via": "SCL",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
