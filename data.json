@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/09/2019 13:03",
+  "lastUpdate": "24/09/2019 13:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -140,13 +140,13 @@
       "vuelo": "507",
       "st": "24/09/2019 14:45",
       "matricula": "CCAJF",
-      "posicion": "",
+      "posicion": "02",
       "et": "24/9/2019 14:23",
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "1",
+      "lF": "003",
       "ruta": "SCL",
       "via": "",
       "remark": "EST",
@@ -3467,7 +3467,7 @@
       "matricula": "LVFQY",
       "posicion": "53A",
       "et": "",
-      "at": "",
+      "at": "24/9/2019 13:05",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3475,7 +3475,7 @@
       "puerta": "27",
       "ruta": "BRC",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3589,7 +3589,7 @@
       "puerta": "03",
       "ruta": "LHR",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4633,25 +4633,6 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "MAD",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "JJ",
-      "vuelo": "H24",
-      "st": "24/09/2019 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "",
-      "ruta": "QTR",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
