@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/09/2019 12:53",
+  "lastUpdate": "24/09/2019 12:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3448,7 +3448,7 @@
       "matricula": "ECNBX",
       "posicion": "03",
       "et": "",
-      "at": "",
+      "at": "24/9/2019 12:54",
       "term": "A",
       "sector": "AP",
       "chkFrom": "054",
@@ -3456,7 +3456,7 @@
       "puerta": "02",
       "ruta": "MAD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3532,7 +3532,7 @@
       "puerta": "12",
       "ruta": "MVD",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3551,7 +3551,7 @@
       "puerta": "01",
       "ruta": "VCP",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3589,7 +3589,7 @@
       "puerta": "17",
       "ruta": "CDG",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
