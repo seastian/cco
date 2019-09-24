@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/09/2019 00:00",
+  "lastUpdate": "24/09/2019 00:05",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2441,14 +2441,14 @@
       "matricula": "HP1831",
       "posicion": "02",
       "et": "23/9/2019 23:55",
-      "at": "",
+      "at": "24/9/2019 00:03",
       "term": "A",
       "sector": "",
       "cinta": "6",
       "lF": "010",
       "ruta": "PTY",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "154"
     },
