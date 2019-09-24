@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/09/2019 05:09",
+  "lastUpdate": "24/09/2019 05:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3638,7 +3638,7 @@
       "matricula": "LVFVM",
       "posicion": "18A",
       "et": "",
-      "at": "",
+      "at": "24/9/2019 05:08",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3646,7 +3646,7 @@
       "puerta": "13",
       "ruta": "SSA",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3703,7 +3703,7 @@
       "puerta": "09",
       "ruta": "LIM",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3779,7 +3779,7 @@
       "puerta": "17",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -4829,25 +4829,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AD",
-      "vuelo": "8761",
-      "st": "24/09/2019 16:45",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "079",
-      "chkTo": "081",
-      "puerta": "",
-      "ruta": "CNF",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1360",
       "st": "24/09/2019 16:45",
@@ -4861,6 +4842,25 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "BOG",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AD",
+      "vuelo": "8761",
+      "st": "24/09/2019 16:45",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "079",
+      "chkTo": "081",
+      "puerta": "",
+      "ruta": "CNF",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -4918,6 +4918,25 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "ASU",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "G3",
+      "vuelo": "7653",
+      "st": "24/09/2019 17:15",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "068",
+      "chkTo": "074",
+      "puerta": "",
+      "ruta": "GIG",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
