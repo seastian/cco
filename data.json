@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/09/2019 00:52",
+  "lastUpdate": "24/09/2019 00:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2473,25 +2473,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "UX",
-      "vuelo": "042",
-      "st": "23/09/2019 12:30",
-      "matricula": "ECMTI",
-      "posicion": "11",
-      "et": "",
-      "at": "23/9/2019 12:55",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "054",
-      "chkTo": "060",
-      "puerta": "14",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1698",
       "st": "23/09/2019 12:50",
@@ -2701,25 +2682,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1250",
-      "st": "23/09/2019 15:20",
-      "matricula": "LVGGQ",
-      "posicion": "16B",
-      "et": "",
-      "at": "23/9/2019 15:45",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "23",
-      "ruta": "GIG",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "H2",
       "vuelo": "508",
       "st": "23/09/2019 15:20",
@@ -2733,6 +2695,25 @@
       "chkTo": "004",
       "puerta": "06",
       "ruta": "SCL",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1250",
+      "st": "23/09/2019 15:20",
+      "matricula": "LVGGQ",
+      "posicion": "16B",
+      "et": "",
+      "at": "23/9/2019 15:45",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "23",
+      "ruta": "GIG",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -3817,7 +3798,7 @@
       "puerta": "01",
       "ruta": "PTY",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
