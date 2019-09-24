@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/09/2019 05:19",
+  "lastUpdate": "24/09/2019 05:25",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2425,7 +2425,7 @@
       "at": "24/9/2019 04:59",
       "term": "A",
       "sector": "",
-      "cinta": "",
+      "cinta": "6",
       "lF": "010",
       "ruta": "LIM",
       "via": "",
@@ -3570,7 +3570,7 @@
       "puerta": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "DEM",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3760,7 +3760,7 @@
       "puerta": "19",
       "ruta": "ASU",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3996,7 +3996,7 @@
       "aerolinea": "ZP",
       "vuelo": "821",
       "st": "24/09/2019 07:50",
-      "matricula": "",
+      "matricula": "ZPCRN",
       "posicion": "",
       "et": "",
       "at": "",
