@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/09/2019 17:16",
+  "lastUpdate": "24/09/2019 17:21",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -950,25 +950,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AV",
-      "vuelo": "087",
-      "st": "24/09/2019 05:30",
-      "matricula": "N765AV",
-      "posicion": "02",
-      "et": "24/9/2019 05:21",
-      "at": "24/9/2019 05:19",
-      "term": "A",
-      "sector": "",
-      "cinta": "2",
-      "lF": "003",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "143"
     },
     {
       "tipo": "arribo",
@@ -3543,7 +3524,7 @@
       "matricula": "PRGUI",
       "posicion": "08",
       "et": "",
-      "at": "",
+      "at": "24/9/2019 17:20",
       "term": "A",
       "sector": "AP",
       "chkFrom": "068",
@@ -3551,7 +3532,7 @@
       "puerta": "07",
       "ruta": "GIG",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
