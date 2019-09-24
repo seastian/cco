@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/09/2019 14:36",
+  "lastUpdate": "24/09/2019 14:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -45,7 +45,7 @@
       "vuelo": "7901",
       "st": "24/09/2019 15:56",
       "matricula": "LVBFY",
-      "posicion": "",
+      "posicion": "02",
       "et": "24/9/2019 15:45",
       "at": "",
       "term": "A",
@@ -3589,7 +3589,7 @@
       "puerta": "16",
       "ruta": "GIG",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3627,7 +3627,7 @@
       "puerta": "14",
       "ruta": "AMS",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
