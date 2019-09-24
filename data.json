@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/09/2019 12:32",
+  "lastUpdate": "24/09/2019 12:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -139,7 +139,7 @@
       "aerolinea": "JJ",
       "vuelo": "8011",
       "st": "24/09/2019 14:23",
-      "matricula": "PRTYG",
+      "matricula": "PRMAZ",
       "posicion": "06",
       "et": "24/9/2019 14:20",
       "at": "",
@@ -1159,25 +1159,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7452",
-      "st": "24/09/2019 00:25",
-      "matricula": "PRGUI",
-      "posicion": "06",
-      "et": "24/9/2019 00:33",
-      "at": "24/9/2019 00:34",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "008",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "97"
     },
     {
       "tipo": "arribo",
@@ -3475,7 +3456,7 @@
       "puerta": "02",
       "ruta": "MAD",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3532,7 +3513,7 @@
       "puerta": "27",
       "ruta": "BRC",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3589,7 +3570,7 @@
       "puerta": "10",
       "ruta": "MAD",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3806,7 +3787,7 @@
       "aerolinea": "JJ",
       "vuelo": "8011",
       "st": "24/09/2019 16:15",
-      "matricula": "PRTYG",
+      "matricula": "PRMAZ",
       "posicion": "06",
       "et": "",
       "at": "",
@@ -4376,7 +4357,7 @@
       "aerolinea": "IB",
       "vuelo": "6844",
       "st": "24/09/2019 21:40",
-      "matricula": "",
+      "matricula": "ECMXV",
       "posicion": "",
       "et": "",
       "at": "",
