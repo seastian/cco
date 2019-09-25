@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/09/2019 15:29",
+  "lastUpdate": "25/09/2019 15:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1182,25 +1182,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "AR",
-      "vuelo": "1133",
-      "st": "25/09/2019 04:20",
-      "matricula": "LVFPV",
-      "posicion": "13",
-      "et": "25/9/2019 03:23",
-      "at": "25/9/2019 03:34",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "274"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
       "vuelo": "1141",
       "st": "25/09/2019 04:40",
       "matricula": "LVGHQ",
@@ -1409,25 +1390,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "4M",
-      "vuelo": "7821",
-      "st": "25/09/2019 07:05",
-      "matricula": "CCCXC",
-      "posicion": "06",
-      "et": "25/9/2019 06:40",
-      "at": "25/9/2019 06:48",
-      "term": "A",
-      "sector": "",
-      "cinta": "1",
-      "lF": "001",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "218"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "LP",
       "vuelo": "2439",
       "st": "25/09/2019 06:45",
@@ -1444,6 +1406,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "4M",
+      "vuelo": "7821",
+      "st": "25/09/2019 07:05",
+      "matricula": "CCCXC",
+      "posicion": "06",
+      "et": "25/9/2019 06:40",
+      "at": "25/9/2019 06:48",
+      "term": "A",
+      "sector": "",
+      "cinta": "1",
+      "lF": "001",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "218"
     },
     {
       "tipo": "arribo",
@@ -3467,7 +3448,7 @@
       "matricula": "CCAMP",
       "posicion": "08",
       "et": "",
-      "at": "",
+      "at": "25/9/2019 15:30",
       "term": "A",
       "sector": "AP",
       "chkFrom": "001",
@@ -3475,7 +3456,7 @@
       "puerta": "07",
       "ruta": "SCL",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3486,7 +3467,7 @@
       "matricula": "LVFVM",
       "posicion": "15B",
       "et": "",
-      "at": "",
+      "at": "25/9/2019 15:35",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3494,7 +3475,7 @@
       "puerta": "21",
       "ruta": "GIG",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3513,7 +3494,7 @@
       "puerta": "20",
       "ruta": "GRU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3608,7 +3589,7 @@
       "puerta": "02",
       "ruta": "GRU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
