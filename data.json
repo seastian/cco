@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/09/2019 22:09",
+  "lastUpdate": "24/09/2019 22:15",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1010,25 +1010,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AU",
-      "vuelo": "2541",
-      "st": "24/09/2019 10:05",
-      "matricula": "LVCEV",
-      "posicion": "23A",
-      "et": "",
-      "at": "24/9/2019 10:12",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "11",
-      "lF": "017",
-      "ruta": "MDZ",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "UA",
       "vuelo": "819",
       "st": "24/09/2019 10:20",
@@ -1276,25 +1257,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "OB",
-      "vuelo": "708",
-      "st": "24/09/2019 13:40",
-      "matricula": "CP2881",
-      "posicion": "05",
-      "et": "24/9/2019 13:46",
-      "at": "24/9/2019 13:38",
-      "term": "A",
-      "sector": "",
-      "cinta": "5",
-      "lF": "001",
-      "ruta": "VVI",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "211"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1241",
       "st": "24/09/2019 13:25",
@@ -1311,6 +1273,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "139"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "OB",
+      "vuelo": "708",
+      "st": "24/09/2019 13:40",
+      "matricula": "CP2881",
+      "posicion": "05",
+      "et": "24/9/2019 13:46",
+      "at": "24/9/2019 13:38",
+      "term": "A",
+      "sector": "",
+      "cinta": "5",
+      "lF": "001",
+      "ruta": "VVI",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "211"
     },
     {
       "tipo": "arribo",
@@ -2175,14 +2156,14 @@
       "matricula": "LVGGQ",
       "posicion": "51A",
       "et": "24/9/2019 22:04",
-      "at": "",
+      "at": "24/9/2019 22:11",
       "term": "A",
       "sector": "",
       "cinta": "9",
       "lF": "007",
       "ruta": "GIG",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "156"
     },
@@ -3551,7 +3532,7 @@
       "puerta": "16",
       "ruta": "FCO",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3570,7 +3551,7 @@
       "puerta": "05",
       "ruta": "IST",
       "via": "GRU",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
