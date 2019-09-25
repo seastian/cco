@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/09/2019 03:45",
+  "lastUpdate": "25/09/2019 03:50",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3475,7 +3475,7 @@
       "puerta": "05",
       "ruta": "BSB",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
