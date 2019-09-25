@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/09/2019 14:22",
+  "lastUpdate": "25/09/2019 14:27",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1214,25 +1214,6 @@
       "ruta": "CNF",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8010",
-      "st": "25/09/2019 02:35",
-      "matricula": "PRMAK",
-      "posicion": "03",
-      "et": "25/9/2019 02:25",
-      "at": "25/9/2019 02:28",
-      "term": "A",
-      "sector": "",
-      "cinta": "3",
-      "lF": "001",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
