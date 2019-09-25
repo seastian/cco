@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/09/2019 02:35",
+  "lastUpdate": "25/09/2019 02:42",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -82,9 +82,9 @@
       "aerolinea": "AV",
       "vuelo": "965",
       "st": "25/09/2019 04:25",
-      "matricula": "",
+      "matricula": "N279AV",
       "posicion": "",
-      "et": "",
+      "et": "25/9/2019 04:15",
       "at": "",
       "term": "A",
       "sector": "",
@@ -92,9 +92,9 @@
       "lF": "",
       "ruta": "LIM",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "232"
     },
     {
       "tipo": "arribo",
@@ -174,6 +174,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "AV",
+      "vuelo": "087",
+      "st": "25/09/2019 05:30",
+      "matricula": "N973AV",
+      "posicion": "",
+      "et": "25/9/2019 05:24",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "BOG",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "222"
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "5X",
       "vuelo": "414",
       "st": "25/09/2019 05:28",
@@ -187,25 +206,6 @@
       "lF": "",
       "ruta": "MIA",
       "via": "SCL",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AV",
-      "vuelo": "087",
-      "st": "25/09/2019 05:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "BOG",
-      "via": "",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
@@ -3323,7 +3323,7 @@
       "puerta": "04",
       "ruta": "GIG",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
