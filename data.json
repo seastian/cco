@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/09/2019 18:31",
+  "lastUpdate": "26/09/2019 18:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -443,7 +443,7 @@
       "aerolinea": "QR",
       "vuelo": "773",
       "st": "26/09/2019 21:35",
-      "matricula": "",
+      "matricula": "A7BBD",
       "posicion": "",
       "et": "",
       "at": "",
@@ -3893,7 +3893,7 @@
       "puerta": "07",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
