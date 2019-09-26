@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/09/2019 00:09",
+  "lastUpdate": "26/09/2019 00:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1083,25 +1083,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AD",
-      "vuelo": "8766",
-      "st": "25/09/2019 12:30",
-      "matricula": "PRYRD",
-      "posicion": "02",
-      "et": "25/9/2019 12:06",
-      "at": "25/9/2019 12:14",
-      "term": "A",
-      "sector": "",
-      "cinta": "2",
-      "lF": "002",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "159"
     },
     {
       "tipo": "arribo",
@@ -2331,7 +2312,7 @@
       "term": "A",
       "sector": "",
       "cinta": "1",
-      "lF": "005",
+      "lF": "001",
       "ruta": "DFW",
       "via": "",
       "remark": "ATE",
@@ -2790,25 +2771,6 @@
       "chkTo": "220",
       "puerta": "22",
       "ruta": "CDG",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "G3",
-      "vuelo": "7691",
-      "st": "25/09/2019 11:40",
-      "matricula": "PRGUR",
-      "posicion": "52B",
-      "et": "25/9/2019 14:30",
-      "at": "25/9/2019 12:11",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "068",
-      "chkTo": "074",
-      "puerta": "17",
-      "ruta": "FLN",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -3931,7 +3893,7 @@
       "puerta": "03",
       "ruta": "ASU",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
