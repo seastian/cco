@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/09/2019 03:43",
+  "lastUpdate": "26/09/2019 03:48",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3741,7 +3741,7 @@
       "puerta": "15",
       "ruta": "LIM",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
