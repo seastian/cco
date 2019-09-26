@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "26/09/2019 12:49",
+  "lastUpdate": "26/09/2019 12:54",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AC",
-      "vuelo": "092",
-      "st": "26/09/2019 13:00",
-      "matricula": "CFRTU",
-      "posicion": "05",
-      "et": "26/9/2019 12:50",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "YYZ",
-      "via": "SCL",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "186"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AR",
@@ -1523,25 +1504,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "5X",
-      "vuelo": "410",
-      "st": "26/09/2019 05:23",
-      "matricula": "N338UP",
-      "posicion": "55",
-      "et": "26/9/2019 05:00",
-      "at": "26/9/2019 05:00",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "SCL",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "PZ",
       "vuelo": "1304",
       "st": "26/09/2019 05:05",
@@ -1558,6 +1520,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "143"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "5X",
+      "vuelo": "410",
+      "st": "26/09/2019 05:23",
+      "matricula": "N338UP",
+      "posicion": "55",
+      "et": "26/9/2019 05:00",
+      "at": "26/9/2019 05:00",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "SCL",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -2403,14 +2384,14 @@
       "matricula": "PRYRY",
       "posicion": "02",
       "et": "26/9/2019 12:45",
-      "at": "",
+      "at": "26/9/2019 12:54",
       "term": "A",
       "sector": "",
       "cinta": "1",
       "lF": "001",
       "ruta": "VCP",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "172"
     },
@@ -3638,7 +3619,7 @@
       "matricula": "ECNBX",
       "posicion": "15",
       "et": "",
-      "at": "",
+      "at": "26/9/2019 12:53",
       "term": "A",
       "sector": "AP",
       "chkFrom": "054",
@@ -3646,7 +3627,7 @@
       "puerta": "20",
       "ruta": "MAD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3760,7 +3741,7 @@
       "puerta": "13",
       "ruta": "MVD",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3855,7 +3836,7 @@
       "puerta": "10",
       "ruta": "CDG",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
