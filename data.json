@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/09/2019 15:30",
+  "lastUpdate": "26/09/2019 15:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3790,7 +3790,7 @@
       "matricula": "LVGUC",
       "posicion": "16B",
       "et": "",
-      "at": "",
+      "at": "26/9/2019 15:33",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3798,7 +3798,7 @@
       "puerta": "23",
       "ruta": "GRU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3836,7 +3836,7 @@
       "puerta": "02",
       "ruta": "VVI",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3855,7 +3855,7 @@
       "puerta": "01",
       "ruta": "GRU",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3893,7 +3893,7 @@
       "puerta": "07",
       "ruta": "GRU",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
