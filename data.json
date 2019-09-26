@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/09/2019 17:43",
+  "lastUpdate": "26/09/2019 17:48",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1029,25 +1029,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AV",
-      "vuelo": "087",
-      "st": "26/09/2019 05:30",
-      "matricula": "N741AV",
-      "posicion": "06",
-      "et": "26/9/2019 05:50",
-      "at": "26/9/2019 05:48",
-      "term": "A",
-      "sector": "",
-      "cinta": "5",
-      "lF": "003",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "115"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AU",
       "vuelo": "2369",
       "st": "26/09/2019 06:05",
@@ -1181,25 +1162,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AA",
-      "vuelo": "991",
-      "st": "26/09/2019 07:37",
-      "matricula": "N824AN",
-      "posicion": "10",
-      "et": "26/9/2019 07:05",
-      "at": "26/9/2019 07:09",
-      "term": "A",
-      "sector": "",
-      "cinta": "4",
-      "lF": "005",
-      "ruta": "LAX",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "282"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "4M",
       "vuelo": "7821",
       "st": "26/09/2019 07:05",
@@ -1216,6 +1178,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "221"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AA",
+      "vuelo": "991",
+      "st": "26/09/2019 07:37",
+      "matricula": "N824AN",
+      "posicion": "10",
+      "et": "26/9/2019 07:05",
+      "at": "26/9/2019 07:09",
+      "term": "A",
+      "sector": "",
+      "cinta": "4",
+      "lF": "005",
+      "ruta": "LAX",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "282"
     },
     {
       "tipo": "arribo",
@@ -3771,7 +3752,7 @@
       "matricula": "LVBRY",
       "posicion": "06",
       "et": "26/9/2019 17:10",
-      "at": "",
+      "at": "26/9/2019 17:25",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3779,7 +3760,7 @@
       "puerta": "24",
       "ruta": "IGR",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3790,7 +3771,7 @@
       "matricula": "PRGGV",
       "posicion": "10",
       "et": "",
-      "at": "",
+      "at": "26/9/2019 17:32",
       "term": "A",
       "sector": "AP",
       "chkFrom": "068",
@@ -3798,7 +3779,7 @@
       "puerta": "10",
       "ruta": "GIG",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3836,7 +3817,7 @@
       "puerta": "19",
       "ruta": "SCL",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3893,7 +3874,7 @@
       "puerta": "03",
       "ruta": "GRU",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -4187,7 +4168,7 @@
       "vuelo": "954",
       "st": "26/09/2019 21:30",
       "matricula": "N776AN",
-      "posicion": "61",
+      "posicion": "56",
       "et": "",
       "at": "",
       "term": "A",
@@ -4240,25 +4221,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "ZP",
-      "vuelo": "819",
-      "st": "26/09/2019 21:45",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "083",
-      "chkTo": "084",
-      "puerta": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "ET",
       "vuelo": "507",
       "st": "26/09/2019 21:45",
@@ -4273,6 +4235,25 @@
       "puerta": "",
       "ruta": "ADD",
       "via": "GRU",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "ZP",
+      "vuelo": "819",
+      "st": "26/09/2019 21:45",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "083",
+      "chkTo": "084",
+      "puerta": "",
+      "ruta": "ASU",
+      "via": "",
       "remark": "HOR",
       "sanidad": "NO"
     },
