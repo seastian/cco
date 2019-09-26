@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/09/2019 02:13",
+  "lastUpdate": "26/09/2019 02:19",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2527,6 +2527,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "161"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "JJ",
+      "vuelo": "8010",
+      "st": "26/09/2019 02:35",
+      "matricula": "PRTYG",
+      "posicion": "04",
+      "et": "26/9/2019 02:20",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "1",
+      "lF": "002",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "partida",
