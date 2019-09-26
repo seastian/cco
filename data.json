@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/09/2019 13:47",
+  "lastUpdate": "26/09/2019 13:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1219,25 +1219,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AD",
-      "vuelo": "8762",
-      "st": "26/09/2019 02:00",
-      "matricula": "PRYRL",
-      "posicion": "03",
-      "et": "26/9/2019 01:50",
-      "at": "26/9/2019 01:52",
-      "term": "A",
-      "sector": "",
-      "cinta": "4",
-      "lF": "003",
-      "ruta": "CNF",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "161"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "JJ",
       "vuelo": "8010",
       "st": "26/09/2019 02:35",
@@ -1334,25 +1315,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "AV",
-      "vuelo": "965",
-      "st": "26/09/2019 04:25",
-      "matricula": "N342AV",
-      "posicion": "05",
-      "et": "26/9/2019 04:30",
-      "at": "26/9/2019 04:25",
-      "term": "A",
-      "sector": "",
-      "cinta": "5",
-      "lF": "003",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "176"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AV",
       "vuelo": "905",
       "st": "26/09/2019 04:30",
       "matricula": "N688TA",
@@ -1368,6 +1330,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AV",
+      "vuelo": "965",
+      "st": "26/09/2019 04:25",
+      "matricula": "N342AV",
+      "posicion": "05",
+      "et": "26/9/2019 04:30",
+      "at": "26/9/2019 04:25",
+      "term": "A",
+      "sector": "",
+      "cinta": "5",
+      "lF": "003",
+      "ruta": "LIM",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "176"
     },
     {
       "tipo": "arribo",
@@ -2055,25 +2036,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AA",
-      "vuelo": "953",
-      "st": "26/09/2019 09:44",
-      "matricula": "N776AN",
-      "posicion": "10",
-      "et": "26/9/2019 10:00",
-      "at": "26/9/2019 10:02",
-      "term": "A",
-      "sector": "",
-      "cinta": "1",
-      "lF": "005",
-      "ruta": "JFK",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "264"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "4M",
       "vuelo": "7813",
       "st": "26/09/2019 10:15",
@@ -2090,6 +2052,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "135"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AA",
+      "vuelo": "953",
+      "st": "26/09/2019 09:44",
+      "matricula": "N776AN",
+      "posicion": "10",
+      "et": "26/9/2019 10:00",
+      "at": "26/9/2019 10:02",
+      "term": "A",
+      "sector": "",
+      "cinta": "1",
+      "lF": "005",
+      "ruta": "JFK",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "264"
     },
     {
       "tipo": "arribo",
@@ -3714,7 +3695,7 @@
       "matricula": "FGSPO",
       "posicion": "10",
       "et": "",
-      "at": "",
+      "at": "26/9/2019 13:52",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "211",
@@ -3722,7 +3703,7 @@
       "puerta": "10",
       "ruta": "CDG",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3741,7 +3722,7 @@
       "puerta": "01",
       "ruta": "VCP",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3817,7 +3798,7 @@
       "puerta": "04",
       "ruta": "YYZ",
       "via": "SCL",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
