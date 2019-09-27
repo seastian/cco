@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/09/2019 02:14",
+  "lastUpdate": "27/09/2019 02:19",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2411,6 +2411,25 @@
       "ruta": "BOG",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "JJ",
+      "vuelo": "8010",
+      "st": "27/09/2019 02:35",
+      "matricula": "PRMAP",
+      "posicion": "02",
+      "et": "27/9/2019 02:20",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "2",
+      "lF": "002",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
