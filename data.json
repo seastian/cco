@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/09/2019 15:02",
+  "lastUpdate": "27/09/2019 15:07",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3532,7 +3532,7 @@
       "puerta": "16",
       "ruta": "GIG",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
