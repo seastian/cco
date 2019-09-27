@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/09/2019 13:53",
+  "lastUpdate": "27/09/2019 13:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3494,7 +3494,7 @@
       "puerta": "01",
       "ruta": "VCP",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4766,6 +4766,25 @@
       "chkTo": "026",
       "puerta": "",
       "ruta": "PTY",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "GG",
+      "vuelo": "550",
+      "st": "28/09/2019 02:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
