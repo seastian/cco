@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/09/2019 11:29",
+  "lastUpdate": "27/09/2019 11:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1219,25 +1219,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8014",
-      "st": "26/09/2019 23:40",
-      "matricula": "PRTYG",
-      "posicion": "08",
-      "et": "26/9/2019 23:29",
-      "at": "26/9/2019 23:30",
-      "term": "A",
-      "sector": "",
-      "cinta": "2",
-      "lF": "002",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AMS",
       "vuelo": "8119",
       "st": "26/09/2019 23:40",
@@ -2055,25 +2036,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "467",
-      "st": "27/09/2019 10:09",
-      "matricula": "CCBEH",
-      "posicion": "04",
-      "et": "27/9/2019 09:50",
-      "at": "27/9/2019 09:49",
-      "term": "A",
-      "sector": "",
-      "cinta": "5",
-      "lF": "003",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "179"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AA",
       "vuelo": "953",
       "st": "27/09/2019 09:44",
@@ -2090,6 +2052,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "272"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "467",
+      "st": "27/09/2019 10:09",
+      "matricula": "CCBEH",
+      "posicion": "04",
+      "et": "27/9/2019 09:50",
+      "at": "27/9/2019 09:49",
+      "term": "A",
+      "sector": "",
+      "cinta": "5",
+      "lF": "003",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "179"
     },
     {
       "tipo": "arribo",
@@ -2283,25 +2264,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7650",
-      "st": "27/09/2019 11:00",
-      "matricula": "PRGGE",
-      "posicion": "52A",
-      "et": "27/9/2019 11:00",
-      "at": "27/9/2019 11:09",
-      "term": "A",
-      "sector": "",
-      "cinta": "2",
-      "lF": "005",
-      "ruta": "GIG",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "121"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "LA",
       "vuelo": "455",
       "st": "27/09/2019 10:48",
@@ -2318,6 +2280,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "242"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "G3",
+      "vuelo": "7650",
+      "st": "27/09/2019 11:00",
+      "matricula": "PRGGE",
+      "posicion": "52A",
+      "et": "27/9/2019 11:00",
+      "at": "27/9/2019 11:09",
+      "term": "A",
+      "sector": "",
+      "cinta": "2",
+      "lF": "005",
+      "ruta": "GIG",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "121"
     },
     {
       "tipo": "arribo",
@@ -2353,25 +2334,6 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "AEP",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AM",
-      "vuelo": "029",
-      "st": "26/09/2019 23:20",
-      "matricula": "XAADH",
-      "posicion": "15",
-      "et": "",
-      "at": "26/9/2019 23:34",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "034",
-      "chkTo": "040",
-      "puerta": "20",
-      "ruta": "MEX",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -2588,25 +2550,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AOG",
-      "vuelo": "500",
-      "st": "27/09/2019 04:00",
-      "matricula": "CXCLS",
-      "posicion": "59",
-      "et": "",
-      "at": "27/9/2019 04:04",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
       "vuelo": "424",
       "st": "27/09/2019 04:00",
       "matricula": "CXLSS",
@@ -2619,6 +2562,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MVD",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "500",
+      "st": "27/09/2019 04:00",
+      "matricula": "CXCLS",
+      "posicion": "59",
+      "et": "",
+      "at": "27/9/2019 04:04",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "ASU",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -2644,25 +2606,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1952",
-      "st": "27/09/2019 04:30",
-      "matricula": "LVFVO",
-      "posicion": "56B",
-      "et": "",
-      "at": "27/9/2019 04:55",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "13",
-      "ruta": "BPS",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AD",
       "vuelo": "8771",
       "st": "27/09/2019 04:30",
@@ -2678,6 +2621,25 @@
       "ruta": "VCP",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1952",
+      "st": "27/09/2019 04:30",
+      "matricula": "LVFVO",
+      "posicion": "56B",
+      "et": "",
+      "at": "27/9/2019 04:55",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "13",
+      "ruta": "BPS",
+      "via": "",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3304,7 +3266,7 @@
       "puerta": "01",
       "ruta": "PTY",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3342,7 +3304,7 @@
       "puerta": "07",
       "ruta": "GRU",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3361,7 +3323,7 @@
       "puerta": "14",
       "ruta": "BCN",
       "via": "",
-      "remark": "HOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3380,7 +3342,7 @@
       "puerta": "19",
       "ruta": "GRU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3399,7 +3361,7 @@
       "puerta": "24",
       "ruta": "COR",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3418,7 +3380,7 @@
       "puerta": "26",
       "ruta": "MDZ",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3494,7 +3456,7 @@
       "puerta": "16",
       "ruta": "MAD",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
