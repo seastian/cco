@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/09/2019 17:21",
+  "lastUpdate": "27/09/2019 17:26",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -177,7 +177,7 @@
       "aerolinea": "LA",
       "vuelo": "459",
       "st": "27/09/2019 19:56",
-      "matricula": "CCBEC",
+      "matricula": "CCBEQ",
       "posicion": "",
       "et": "",
       "at": "",
@@ -614,7 +614,7 @@
       "aerolinea": "LA",
       "vuelo": "469",
       "st": "27/09/2019 22:24",
-      "matricula": "CCBEN",
+      "matricula": "CCBEJ",
       "posicion": "",
       "et": "",
       "at": "",
@@ -728,7 +728,7 @@
       "aerolinea": "JJ",
       "vuelo": "8014",
       "st": "27/09/2019 23:40",
-      "matricula": "PTXPL",
+      "matricula": "PTMXB",
       "posicion": "",
       "et": "",
       "at": "",
@@ -3939,7 +3939,7 @@
       "aerolinea": "LA",
       "vuelo": "458",
       "st": "27/09/2019 21:01",
-      "matricula": "CCBEC",
+      "matricula": "CCBEQ",
       "posicion": "",
       "et": "",
       "at": "",
