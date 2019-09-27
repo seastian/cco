@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/09/2019 15:48",
+  "lastUpdate": "27/09/2019 15:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3646,7 +3646,7 @@
       "puerta": "07",
       "ruta": "GRU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3684,7 +3684,7 @@
       "puerta": "21",
       "ruta": "BOG",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3703,7 +3703,7 @@
       "puerta": "08",
       "ruta": "FRA",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3936,19 +3936,19 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "LA",
-      "vuelo": "446",
+      "aerolinea": "AR",
+      "vuelo": "1364",
       "st": "27/09/2019 19:00",
-      "matricula": "CCBJA",
+      "matricula": "LVGVA",
       "posicion": "",
       "et": "",
       "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
       "puerta": "",
-      "ruta": "SCL",
+      "ruta": "LIM",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -3974,19 +3974,19 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1364",
+      "aerolinea": "LA",
+      "vuelo": "446",
       "st": "27/09/2019 19:00",
-      "matricula": "LVGVA",
+      "matricula": "CCBJA",
       "posicion": "",
       "et": "",
       "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
       "puerta": "",
-      "ruta": "LIM",
+      "ruta": "SCL",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -4729,6 +4729,25 @@
       "puerta": "",
       "ruta": "PUJ",
       "via": "RES",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "JJ",
+      "vuelo": "8010",
+      "st": "28/09/2019 03:55",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "LIM",
+      "via": "",
       "remark": "HOR",
       "sanidad": "NO"
     }
