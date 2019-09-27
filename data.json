@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/09/2019 12:17",
+  "lastUpdate": "27/09/2019 12:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1276,25 +1276,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "UUT",
-      "st": "26/09/2019 23:20",
-      "matricula": "PRUUT",
-      "posicion": "41",
-      "et": "27/9/2019 00:20",
-      "at": "27/9/2019 00:22",
-      "term": "FBO",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "CWB",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "3"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "G3",
       "vuelo": "7452",
       "st": "27/09/2019 00:25",
@@ -2112,25 +2093,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "UA",
-      "vuelo": "979",
-      "st": "27/09/2019 09:50",
-      "matricula": "N674UA",
-      "posicion": "09",
-      "et": "27/9/2019 10:05",
-      "at": "27/9/2019 10:06",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "EWR",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "200"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AU",
       "vuelo": "2541",
       "st": "27/09/2019 10:05",
@@ -2147,6 +2109,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "87"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "UA",
+      "vuelo": "979",
+      "st": "27/09/2019 09:50",
+      "matricula": "N674UA",
+      "posicion": "09",
+      "et": "27/9/2019 10:05",
+      "at": "27/9/2019 10:06",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "009",
+      "ruta": "EWR",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "200"
     },
     {
       "tipo": "arribo",
@@ -2264,25 +2245,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "455",
-      "st": "27/09/2019 10:48",
-      "matricula": "CCBGL",
-      "posicion": "16",
-      "et": "27/9/2019 11:00",
-      "at": "27/9/2019 10:51",
-      "term": "A",
-      "sector": "",
-      "cinta": "5",
-      "lF": "004",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "242"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "G3",
       "vuelo": "7650",
       "st": "27/09/2019 11:00",
@@ -2299,6 +2261,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "121"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "455",
+      "st": "27/09/2019 10:48",
+      "matricula": "CCBGL",
+      "posicion": "16",
+      "et": "27/9/2019 11:00",
+      "at": "27/9/2019 10:51",
+      "term": "A",
+      "sector": "",
+      "cinta": "5",
+      "lF": "004",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "242"
     },
     {
       "tipo": "arribo",
@@ -3353,7 +3334,7 @@
       "matricula": "LVCBF",
       "posicion": "18A",
       "et": "",
-      "at": "",
+      "at": "27/9/2019 12:21",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3361,7 +3342,7 @@
       "puerta": "26",
       "ruta": "MDZ",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3399,7 +3380,7 @@
       "puerta": "16",
       "ruta": "MAD",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3437,7 +3418,7 @@
       "puerta": "02",
       "ruta": "MAD",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3456,7 +3437,7 @@
       "puerta": "20",
       "ruta": "FCO",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3475,7 +3456,7 @@
       "puerta": "27",
       "ruta": "BRC",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4316,25 +4297,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "4M",
-      "vuelo": "7820",
-      "st": "27/09/2019 21:25",
-      "matricula": "CCCXC",
-      "posicion": "61",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "UA",
       "vuelo": "818",
       "st": "27/09/2019 21:25",
@@ -4348,6 +4310,25 @@
       "chkTo": "061",
       "puerta": "10",
       "ruta": "IAH",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "4M",
+      "vuelo": "7820",
+      "st": "27/09/2019 21:25",
+      "matricula": "CCCXC",
+      "posicion": "61",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "MIA",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -4458,8 +4439,8 @@
       "at": "",
       "term": "A",
       "sector": "AP",
-      "chkFrom": "068",
-      "chkTo": "074",
+      "chkFrom": "083",
+      "chkTo": "088",
       "puerta": "",
       "ruta": "GRU",
       "via": "",
