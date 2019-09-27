@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/09/2019 05:19",
+  "lastUpdate": "27/09/2019 05:24",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -330,7 +330,7 @@
       "vuelo": "CHW",
       "st": "27/09/2019 08:30",
       "matricula": "LVCHW",
-      "posicion": "",
+      "posicion": "40",
       "et": "",
       "at": "",
       "term": "FBO",
@@ -2375,25 +2375,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "216"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "4M",
-      "vuelo": "7504",
-      "st": "26/09/2019 17:00",
-      "matricula": "LVBRY",
-      "posicion": "06",
-      "et": "26/9/2019 17:10",
-      "at": "26/9/2019 17:25",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "24",
-      "ruta": "IGR",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
