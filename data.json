@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/09/2019 22:12",
+  "lastUpdate": "26/09/2019 22:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -402,25 +402,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AA",
-      "vuelo": "907",
-      "st": "27/09/2019 06:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "KL",
       "vuelo": "701",
       "st": "27/09/2019 05:50",
@@ -456,6 +437,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AA",
+      "vuelo": "907",
+      "st": "27/09/2019 06:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "27/9/2019 06:17",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": "272"
     },
     {
       "tipo": "arribo",
@@ -1064,25 +1064,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "200"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8008",
-      "st": "26/09/2019 10:00",
-      "matricula": "PRMAP",
-      "posicion": "06",
-      "et": "26/9/2019 10:15",
-      "at": "26/9/2019 10:14",
-      "term": "A",
-      "sector": "",
-      "cinta": "4",
-      "lF": "010",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "168"
     },
     {
       "tipo": "arribo",
@@ -1865,25 +1846,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "LP",
-      "vuelo": "2429",
-      "st": "26/09/2019 19:00",
-      "matricula": "CCBFV",
-      "posicion": "06",
-      "et": "",
-      "at": "26/9/2019 18:48",
-      "term": "A",
-      "sector": "",
-      "cinta": "4",
-      "lF": "001",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "141"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "M3",
       "vuelo": "9830",
       "st": "26/09/2019 19:00",
@@ -1900,6 +1862,25 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LP",
+      "vuelo": "2429",
+      "st": "26/09/2019 19:00",
+      "matricula": "CCBFV",
+      "posicion": "06",
+      "et": "",
+      "at": "26/9/2019 18:48",
+      "term": "A",
+      "sector": "",
+      "cinta": "4",
+      "lF": "001",
+      "ruta": "LIM",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "141"
     },
     {
       "tipo": "arribo",
@@ -3855,7 +3836,7 @@
       "puerta": "07",
       "ruta": "ASU",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3893,7 +3874,7 @@
       "puerta": "16",
       "ruta": "FCO",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
