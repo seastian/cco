@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/09/2019 03:48",
+  "lastUpdate": "27/09/2019 03:53",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1254,25 +1254,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1873",
-      "st": "26/09/2019 16:15",
-      "matricula": "LVFWS",
-      "posicion": "14A",
-      "et": "26/9/2019 15:52",
-      "at": "26/9/2019 15:53",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "12",
-      "lF": "018",
-      "ruta": "BRC",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "163"
     },
     {
       "tipo": "arribo",
@@ -3608,7 +3589,7 @@
       "puerta": "06",
       "ruta": "PTY",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
