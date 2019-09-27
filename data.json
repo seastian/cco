@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/09/2019 05:04",
+  "lastUpdate": "27/09/2019 05:09",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1314,25 +1314,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "445",
-      "st": "26/09/2019 17:20",
-      "matricula": "CCBEE",
-      "posicion": "05",
-      "et": "26/9/2019 17:05",
-      "at": "26/9/2019 17:07",
-      "term": "A",
-      "sector": "",
-      "cinta": "1",
-      "lF": "001",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "214"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "JJ",
       "vuelo": "8003",
       "st": "26/09/2019 17:40",
@@ -1447,25 +1428,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "LP",
-      "vuelo": "2429",
-      "st": "26/09/2019 19:00",
-      "matricula": "CCBFV",
-      "posicion": "06",
-      "et": "",
-      "at": "26/9/2019 18:48",
-      "term": "A",
-      "sector": "",
-      "cinta": "4",
-      "lF": "001",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "141"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "M3",
       "vuelo": "9830",
       "st": "26/09/2019 19:00",
@@ -1482,6 +1444,25 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LP",
+      "vuelo": "2429",
+      "st": "26/09/2019 19:00",
+      "matricula": "CCBFV",
+      "posicion": "06",
+      "et": "",
+      "at": "26/9/2019 18:48",
+      "term": "A",
+      "sector": "",
+      "cinta": "4",
+      "lF": "001",
+      "ruta": "LIM",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "141"
     },
     {
       "tipo": "arribo",
@@ -3467,7 +3448,7 @@
       "matricula": "N334QT",
       "posicion": "55",
       "et": "27/9/2019 04:45",
-      "at": "",
+      "at": "27/9/2019 05:05",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -3475,7 +3456,7 @@
       "puerta": "",
       "ruta": "BOG",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3608,7 +3589,7 @@
       "puerta": "14",
       "ruta": "LIM",
       "via": "",
-      "remark": "DEM",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
