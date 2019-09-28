@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/09/2019 10:48",
+  "lastUpdate": "28/09/2019 10:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -84,7 +84,7 @@
       "st": "28/09/2019 13:25",
       "matricula": "LVGVC",
       "posicion": "",
-      "et": "",
+      "et": "28/9/2019 13:15",
       "at": "",
       "term": "A",
       "sector": "",
@@ -92,9 +92,9 @@
       "lF": "",
       "ruta": "GRU",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "150"
     },
     {
       "tipo": "arribo",
@@ -3608,7 +3608,7 @@
       "puerta": "07",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
