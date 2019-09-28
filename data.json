@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/09/2019 09:08",
+  "lastUpdate": "28/09/2019 09:13",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1276,25 +1276,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "TK",
-      "vuelo": "015",
-      "st": "27/09/2019 21:30",
-      "matricula": "TCJJH",
-      "posicion": "05",
-      "et": "27/9/2019 21:11",
-      "at": "27/9/2019 21:14",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "009",
-      "ruta": "IST",
-      "via": "GRU",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "219"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AM",
       "vuelo": "030",
       "st": "27/09/2019 21:20",
@@ -2365,14 +2346,14 @@
       "matricula": "N757AN",
       "posicion": "05",
       "et": "",
-      "at": "",
+      "at": "28/9/2019 09:10",
       "term": "A",
       "sector": "",
       "cinta": "1",
       "lF": "005",
       "ruta": "MIA",
       "via": "",
-      "remark": "CON",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "272"
     },
@@ -3646,7 +3627,7 @@
       "puerta": "05",
       "ruta": "SCL",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3703,7 +3684,7 @@
       "puerta": "07",
       "ruta": "GRU",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
