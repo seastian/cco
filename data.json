@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/09/2019 13:00",
+  "lastUpdate": "28/09/2019 13:05",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1273,25 +1273,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7648",
-      "st": "28/09/2019 01:10",
-      "matricula": "PRVBK",
-      "posicion": "05",
-      "et": "28/9/2019 01:05",
-      "at": "28/9/2019 01:02",
-      "term": "A",
-      "sector": "",
-      "cinta": "5",
-      "lF": "005",
-      "ruta": "GIG",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "127"
     },
     {
       "tipo": "arribo",
@@ -3429,7 +3410,7 @@
       "matricula": "LVFWS",
       "posicion": "17B",
       "et": "",
-      "at": "",
+      "at": "28/9/2019 13:04",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3437,7 +3418,7 @@
       "puerta": "24",
       "ruta": "BRC",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
