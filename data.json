@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/09/2019 02:23",
+  "lastUpdate": "28/09/2019 02:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -69,7 +69,7 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
+      "cinta": "8",
       "lF": "",
       "ruta": "MAD",
       "via": "",
