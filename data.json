@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/09/2019 11:47",
+  "lastUpdate": "28/09/2019 11:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1295,25 +1295,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "CM",
-      "vuelo": "279",
-      "st": "28/09/2019 00:04",
-      "matricula": "HP1838",
-      "posicion": "02",
-      "et": "27/9/2019 23:47",
-      "at": "27/9/2019 23:49",
-      "term": "A",
-      "sector": "",
-      "cinta": "3",
-      "lF": "006",
-      "ruta": "PTY",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "156"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "G3",
       "vuelo": "7452",
       "st": "28/09/2019 00:25",
@@ -2416,25 +2397,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "NZ",
-      "vuelo": "31",
-      "st": "27/09/2019 23:30",
-      "matricula": "ZKOKF",
-      "posicion": "03",
-      "et": "",
-      "at": "27/9/2019 23:52",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "068",
-      "chkTo": "073",
-      "puerta": "02",
-      "ruta": "AKL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "H2",
       "vuelo": "506",
       "st": "27/09/2019 23:50",
@@ -3391,7 +3353,7 @@
       "matricula": "CCCOL",
       "posicion": "08",
       "et": "",
-      "at": "",
+      "at": "28/9/2019 11:53",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3399,7 +3361,7 @@
       "puerta": "07",
       "ruta": "SCL",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3437,7 +3399,7 @@
       "puerta": "26",
       "ruta": "MDZ",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3494,7 +3456,7 @@
       "puerta": "02",
       "ruta": "JPA",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3608,7 +3570,7 @@
       "puerta": "24",
       "ruta": "BRC",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
