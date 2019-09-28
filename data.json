@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/09/2019 05:23",
+  "lastUpdate": "28/09/2019 05:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -312,7 +312,7 @@
       "st": "28/09/2019 07:53",
       "matricula": "N803AL",
       "posicion": "",
-      "et": "28/9/2019 07:50",
+      "et": "28/9/2019 07:42",
       "at": "",
       "term": "A",
       "sector": "",
@@ -3627,7 +3627,7 @@
       "puerta": "19",
       "ruta": "ASU",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
