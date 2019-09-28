@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/09/2019 06:45",
+  "lastUpdate": "28/09/2019 06:51",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -253,9 +253,9 @@
       "aerolinea": "G3",
       "vuelo": "7680",
       "st": "28/09/2019 09:10",
-      "matricula": "",
+      "matricula": "PRVBG",
       "posicion": "",
-      "et": "",
+      "et": "28/9/2019 09:04",
       "at": "",
       "term": "A",
       "sector": "",
@@ -263,9 +263,9 @@
       "lF": "",
       "ruta": "GRU",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "141"
     },
     {
       "tipo": "arribo",
@@ -2346,14 +2346,14 @@
       "matricula": "LVIQW",
       "posicion": "08",
       "et": "28/9/2019 06:43",
-      "at": "",
+      "at": "28/9/2019 06:49",
       "term": "A",
       "sector": "",
       "cinta": "3",
       "lF": "002",
       "ruta": "MIA",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "225"
     },
@@ -3570,7 +3570,7 @@
       "puerta": "01",
       "ruta": "BOG",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3589,7 +3589,7 @@
       "puerta": "03",
       "ruta": "SCL",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3627,7 +3627,7 @@
       "puerta": "27",
       "ruta": "COR",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3646,7 +3646,7 @@
       "puerta": "25",
       "ruta": "ROS",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3882,7 +3882,7 @@
       "aerolinea": "G3",
       "vuelo": "7681",
       "st": "28/09/2019 10:00",
-      "matricula": "",
+      "matricula": "PRVBG",
       "posicion": "",
       "et": "",
       "at": "",
