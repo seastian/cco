@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/09/2019 15:02",
+  "lastUpdate": "28/09/2019 15:07",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3467,7 +3467,7 @@
       "matricula": "CFRTU",
       "posicion": "03",
       "et": "",
-      "at": "",
+      "at": "28/9/2019 15:06",
       "term": "A",
       "sector": "AP",
       "chkFrom": "061",
@@ -3475,7 +3475,7 @@
       "puerta": "02",
       "ruta": "YYZ",
       "via": "SCL",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3494,7 +3494,7 @@
       "puerta": "16",
       "ruta": "GIG",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3532,7 +3532,7 @@
       "puerta": "21",
       "ruta": "GRU",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3551,7 +3551,7 @@
       "puerta": "18",
       "ruta": "AMS",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
