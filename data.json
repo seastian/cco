@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/09/2019 23:30",
+  "lastUpdate": "27/09/2019 23:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -44,9 +44,9 @@
       "aerolinea": "G3",
       "vuelo": "7452",
       "st": "28/09/2019 00:25",
-      "matricula": "",
+      "matricula": "PRGUJ",
       "posicion": "",
-      "et": "",
+      "et": "28/9/2019 00:40",
       "at": "",
       "term": "A",
       "sector": "",
@@ -54,9 +54,9 @@
       "lF": "",
       "ruta": "GRU",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "130"
     },
     {
       "tipo": "arribo",
@@ -82,9 +82,9 @@
       "aerolinea": "G3",
       "vuelo": "7648",
       "st": "28/09/2019 01:10",
-      "matricula": "",
+      "matricula": "PRVBK",
       "posicion": "",
-      "et": "",
+      "et": "28/9/2019 01:05",
       "at": "",
       "term": "A",
       "sector": "",
@@ -92,9 +92,9 @@
       "lF": "",
       "ruta": "GIG",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "127"
     },
     {
       "tipo": "arribo",
@@ -500,7 +500,7 @@
       "aerolinea": "4M",
       "vuelo": "7821",
       "st": "28/09/2019 07:05",
-      "matricula": "",
+      "matricula": "LVIQW",
       "posicion": "",
       "et": "",
       "at": "",
@@ -3988,7 +3988,7 @@
       "puerta": "20",
       "ruta": "MAD",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4034,7 +4034,7 @@
       "aerolinea": "G3",
       "vuelo": "7470",
       "st": "28/09/2019 01:05",
-      "matricula": "",
+      "matricula": "PRGUJ",
       "posicion": "",
       "et": "",
       "at": "",
@@ -4262,7 +4262,7 @@
       "aerolinea": "G3",
       "vuelo": "7689",
       "st": "28/09/2019 04:45",
-      "matricula": "",
+      "matricula": "PRVBK",
       "posicion": "",
       "et": "",
       "at": "",
