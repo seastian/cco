@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/09/2019 00:16",
+  "lastUpdate": "28/09/2019 00:21",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2359,25 +2359,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1412",
-      "st": "27/09/2019 12:00",
-      "matricula": "LVCBF",
-      "posicion": "18A",
-      "et": "",
-      "at": "27/9/2019 12:21",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "26",
-      "ruta": "MDZ",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "G3",
       "vuelo": "7691",
       "st": "27/09/2019 11:40",
@@ -3817,7 +3798,7 @@
       "puerta": "07",
       "ruta": "BOG",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4737,7 +4718,7 @@
       "aerolinea": "AR",
       "vuelo": "1628",
       "st": "28/09/2019 11:55",
-      "matricula": "LVGKT",
+      "matricula": "LVFWS",
       "posicion": "",
       "et": "",
       "at": "",
@@ -4794,7 +4775,7 @@
       "aerolinea": "AR",
       "vuelo": "1820",
       "st": "28/09/2019 12:00",
-      "matricula": "LVCXT",
+      "matricula": "",
       "posicion": "",
       "et": "",
       "at": "",
