@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/09/2019 06:14",
+  "lastUpdate": "28/09/2019 06:20",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -88,7 +88,7 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "6",
+      "cinta": "2",
       "lF": "",
       "ruta": "REC",
       "via": "",
@@ -3627,7 +3627,7 @@
       "puerta": "03",
       "ruta": "SCL",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
