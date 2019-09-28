@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/09/2019 13:38",
+  "lastUpdate": "28/09/2019 13:43",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -8,7 +8,7 @@
       "st": "28/09/2019 14:00",
       "matricula": "LVBZO",
       "posicion": "",
-      "et": "",
+      "et": "28/9/2019 14:00",
       "at": "",
       "term": "C",
       "sector": "CAC",
@@ -16,9 +16,9 @@
       "lF": "",
       "ruta": "AEP",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -32,7 +32,7 @@
       "term": "A",
       "sector": "",
       "cinta": "1",
-      "lF": "",
+      "lF": "001",
       "ruta": "LIM",
       "via": "",
       "remark": "DEM",
@@ -2308,14 +2308,14 @@
       "matricula": "LVGUB",
       "posicion": "16B",
       "et": "28/9/2019 13:35",
-      "at": "",
+      "at": "28/9/2019 13:39",
       "term": "A",
       "sector": "",
       "cinta": "8",
       "lF": "009",
       "ruta": "GIG",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "129"
     },
@@ -3410,7 +3410,7 @@
       "matricula": "PRYRV",
       "posicion": "02",
       "et": "",
-      "at": "",
+      "at": "28/9/2019 13:42",
       "term": "A",
       "sector": "AP",
       "chkFrom": "075",
@@ -3418,7 +3418,7 @@
       "puerta": "01",
       "ruta": "VCP",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
