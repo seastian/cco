@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/09/2019 04:52",
+  "lastUpdate": "28/09/2019 04:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1276,25 +1276,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7690",
-      "st": "27/09/2019 16:35",
-      "matricula": "PRGGE",
-      "posicion": "02",
-      "et": "27/9/2019 16:55",
-      "at": "27/9/2019 16:55",
-      "term": "A",
-      "sector": "",
-      "cinta": "1",
-      "lF": "001",
-      "ruta": "FLN",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "104"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "UC",
       "vuelo": "1105",
       "st": "27/09/2019 17:00",
@@ -1751,25 +1732,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1429",
-      "st": "27/09/2019 21:20",
-      "matricula": "LVFVM",
-      "posicion": "18B",
-      "et": "27/9/2019 21:25",
-      "at": "27/9/2019 21:26",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "11",
-      "lF": "017",
-      "ruta": "SLA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "161"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "QR",
       "vuelo": "773",
       "st": "27/09/2019 21:35",
@@ -1786,6 +1748,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "241"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1429",
+      "st": "27/09/2019 21:20",
+      "matricula": "LVFVM",
+      "posicion": "18B",
+      "et": "27/9/2019 21:25",
+      "at": "27/9/2019 21:26",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "11",
+      "lF": "017",
+      "ruta": "SLA",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "161"
     },
     {
       "tipo": "arribo",
@@ -1922,25 +1903,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "469",
-      "st": "27/09/2019 22:24",
-      "matricula": "CCBEJ",
-      "posicion": "53A",
-      "et": "27/9/2019 22:10",
-      "at": "27/9/2019 22:11",
-      "term": "A",
-      "sector": "",
-      "cinta": "3",
-      "lF": "003",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "PRV",
       "vuelo": "458DA",
       "st": "27/09/2019 20:00",
@@ -1957,6 +1919,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "5"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "469",
+      "st": "27/09/2019 22:24",
+      "matricula": "CCBEJ",
+      "posicion": "53A",
+      "et": "27/9/2019 22:10",
+      "at": "27/9/2019 22:11",
+      "term": "A",
+      "sector": "",
+      "cinta": "3",
+      "lF": "003",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -3570,7 +3551,7 @@
       "puerta": "07",
       "ruta": "LIM",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3627,7 +3608,7 @@
       "puerta": "05",
       "ruta": "GRU",
       "via": "",
-      "remark": "EST",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
