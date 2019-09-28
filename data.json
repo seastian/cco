@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/09/2019 05:59",
+  "lastUpdate": "28/09/2019 06:04",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -178,7 +178,7 @@
       "vuelo": "6841",
       "st": "28/09/2019 07:35",
       "matricula": "ECNDR",
-      "posicion": "03",
+      "posicion": "10",
       "et": "28/9/2019 07:12",
       "at": "",
       "term": "A",
@@ -216,7 +216,7 @@
       "vuelo": "991",
       "st": "28/09/2019 07:37",
       "matricula": "N832AA",
-      "posicion": "",
+      "posicion": "05",
       "et": "28/9/2019 07:23",
       "at": "",
       "term": "A",
@@ -235,7 +235,7 @@
       "vuelo": "7505",
       "st": "28/09/2019 08:10",
       "matricula": "GCKWS",
-      "posicion": "",
+      "posicion": "10",
       "et": "28/9/2019 07:27",
       "at": "",
       "term": "A",
@@ -254,7 +254,7 @@
       "vuelo": "997",
       "st": "28/09/2019 07:53",
       "matricula": "N803AL",
-      "posicion": "",
+      "posicion": "03",
       "et": "28/9/2019 07:42",
       "at": "",
       "term": "A",
@@ -273,7 +273,7 @@
       "vuelo": "228",
       "st": "28/09/2019 08:15",
       "matricula": "FGSPP",
-      "posicion": "",
+      "posicion": "15",
       "et": "28/9/2019 07:53",
       "at": "",
       "term": "A",
@@ -3646,7 +3646,7 @@
       "puerta": "21",
       "ruta": "GRU",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3684,7 +3684,7 @@
       "puerta": "03",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
