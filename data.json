@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/09/2019 01:49",
+  "lastUpdate": "29/09/2019 01:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1159,25 +1159,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1028",
-      "st": "28/09/2019 14:00",
-      "matricula": "LVBZO",
-      "posicion": "18B",
-      "et": "28/9/2019 14:00",
-      "at": "28/9/2019 13:54",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "AEP",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
