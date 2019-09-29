@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/09/2019 03:45",
+  "lastUpdate": "29/09/2019 03:50",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1254,44 +1254,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "4M",
-      "vuelo": "7901",
-      "st": "28/09/2019 15:56",
-      "matricula": "LVFUX",
-      "posicion": "04",
-      "et": "28/9/2019 15:45",
-      "at": "28/9/2019 15:50",
-      "term": "A",
-      "sector": "",
-      "cinta": "4",
-      "lF": "004",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "168"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1285",
-      "st": "28/09/2019 16:20",
-      "matricula": "LVFRQ",
-      "posicion": "12",
-      "et": "28/9/2019 15:53",
-      "at": "28/9/2019 15:50",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "007",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "90"
     },
     {
       "tipo": "arribo",
