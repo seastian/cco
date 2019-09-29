@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/09/2019 02:15",
+  "lastUpdate": "29/09/2019 02:20",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2384,14 +2384,14 @@
       "matricula": "PRYRE",
       "posicion": "03",
       "et": "29/9/2019 02:05",
-      "at": "",
+      "at": "29/9/2019 02:21",
       "term": "A",
       "sector": "",
       "cinta": "6",
       "lF": "010",
       "ruta": "CNF",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "170"
     },
@@ -3793,7 +3793,7 @@
       "at": "",
       "term": "A",
       "sector": "AP",
-      "chkFrom": "079",
+      "chkFrom": "076",
       "chkTo": "081",
       "puerta": "02",
       "ruta": "CNF",
