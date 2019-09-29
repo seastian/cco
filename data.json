@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/09/2019 23:39",
+  "lastUpdate": "28/09/2019 23:44",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2327,14 +2327,14 @@
       "matricula": "PTMXF",
       "posicion": "06",
       "et": "28/9/2019 23:28",
-      "at": "",
+      "at": "28/9/2019 23:41",
       "term": "A",
       "sector": "",
       "cinta": "1",
       "lF": "005",
       "ruta": "GRU",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -3752,7 +3752,7 @@
       "matricula": "LVFNJ",
       "posicion": "16",
       "et": "",
-      "at": "",
+      "at": "28/9/2019 23:44",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "207",
@@ -3760,7 +3760,7 @@
       "puerta": "22",
       "ruta": "JFK",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3798,7 +3798,7 @@
       "puerta": "01",
       "ruta": "FOR",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
