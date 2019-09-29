@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/09/2019 00:02",
+  "lastUpdate": "29/09/2019 00:07",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3752,7 +3752,7 @@
       "matricula": "PRGTG",
       "posicion": "50B",
       "et": "28/9/2019 23:55",
-      "at": "",
+      "at": "29/9/2019 00:08",
       "term": "A",
       "sector": "AP",
       "chkFrom": "068",
@@ -3760,7 +3760,7 @@
       "puerta": "12",
       "ruta": "NAT",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3790,7 +3790,7 @@
       "matricula": "PRGUZ",
       "posicion": "02",
       "et": "",
-      "at": "",
+      "at": "29/9/2019 00:04",
       "term": "A",
       "sector": "AP",
       "chkFrom": "068",
@@ -3798,7 +3798,7 @@
       "puerta": "01",
       "ruta": "FOR",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
