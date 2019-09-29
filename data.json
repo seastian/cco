@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/09/2019 22:12",
+  "lastUpdate": "28/09/2019 22:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1024,25 +1024,6 @@
       "ruta": "MDZ",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1041",
-      "st": "28/09/2019 10:15",
-      "matricula": "LVCAP",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "AEP",
-      "via": "",
-      "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
     },
@@ -3543,7 +3524,7 @@
       "matricula": "ECMXV",
       "posicion": "03",
       "et": "",
-      "at": "",
+      "at": "28/9/2019 22:16",
       "term": "A",
       "sector": "AP",
       "chkFrom": "021",
@@ -3551,7 +3532,7 @@
       "puerta": "02",
       "ruta": "MAD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3741,7 +3722,7 @@
       "puerta": "20",
       "ruta": "MIA",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
