@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/09/2019 22:05",
+  "lastUpdate": "28/09/2019 22:12",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -158,9 +158,9 @@
       "aerolinea": "CM",
       "vuelo": "363",
       "st": "29/09/2019 01:10",
-      "matricula": "",
+      "matricula": "HP1835",
       "posicion": "",
-      "et": "",
+      "et": "29/9/2019 01:05",
       "at": "",
       "term": "A",
       "sector": "",
@@ -168,9 +168,9 @@
       "lF": "",
       "ruta": "PTY",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "155"
     },
     {
       "tipo": "arribo",
@@ -1026,44 +1026,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "UA",
-      "vuelo": "819",
-      "st": "28/09/2019 10:20",
-      "matricula": "N77019",
-      "posicion": "05",
-      "et": "28/9/2019 10:00",
-      "at": "28/9/2019 10:12",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "009",
-      "ruta": "IAH",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "257"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "4M",
-      "vuelo": "7813",
-      "st": "28/09/2019 10:30",
-      "matricula": "LVBRY",
-      "posicion": "53A",
-      "et": "28/9/2019 10:08",
-      "at": "28/9/2019 10:08",
-      "term": "A",
-      "sector": "",
-      "cinta": "2",
-      "lF": "001",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "146"
     },
     {
       "tipo": "arribo",
@@ -2289,14 +2251,14 @@
       "matricula": "LVGUC",
       "posicion": "53A",
       "et": "28/9/2019 21:57",
-      "at": "",
+      "at": "28/9/2019 22:06",
       "term": "A",
       "sector": "",
       "cinta": "7",
       "lF": "008",
       "ruta": "GRU",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "130"
     },
@@ -3505,7 +3467,7 @@
       "matricula": "N77019",
       "posicion": "11",
       "et": "",
-      "at": "",
+      "at": "28/9/2019 22:09",
       "term": "A",
       "sector": "AP",
       "chkFrom": "054",
@@ -3513,7 +3475,7 @@
       "puerta": "14",
       "ruta": "IAH",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3600,7 +3562,7 @@
       "matricula": "ETARE",
       "posicion": "08",
       "et": "",
-      "at": "",
+      "at": "28/9/2019 22:12",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "201",
@@ -3608,7 +3570,7 @@
       "puerta": "06",
       "ruta": "ADD",
       "via": "GRU",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3684,7 +3646,7 @@
       "puerta": "10",
       "ruta": "LAX",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3722,7 +3684,7 @@
       "puerta": "08",
       "ruta": "MIA",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3779,7 +3741,7 @@
       "puerta": "20",
       "ruta": "MIA",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3798,7 +3760,7 @@
       "puerta": "05",
       "ruta": "DOH",
       "via": "GRU",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -4148,7 +4110,7 @@
       "aerolinea": "CM",
       "vuelo": "364",
       "st": "29/09/2019 04:42",
-      "matricula": "",
+      "matricula": "HP1835",
       "posicion": "",
       "et": "",
       "at": "",
