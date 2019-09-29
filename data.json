@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/09/2019 01:18",
+  "lastUpdate": "29/09/2019 01:23",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1043,44 +1043,6 @@
       "ruta": "USH",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1241",
-      "st": "28/09/2019 13:25",
-      "matricula": "LVGVC",
-      "posicion": "12",
-      "et": "28/9/2019 13:15",
-      "at": "28/9/2019 13:22",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "010",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "150"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "KL",
-      "vuelo": "702",
-      "st": "28/09/2019 13:30",
-      "matricula": "PHBHI",
-      "posicion": "14",
-      "et": "28/9/2019 13:19",
-      "at": "28/9/2019 13:20",
-      "term": "A",
-      "sector": "",
-      "cinta": "2",
-      "lF": "002",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -3619,7 +3581,7 @@
       "matricula": "PRGUI",
       "posicion": "03",
       "et": "29/9/2019 01:10",
-      "at": "",
+      "at": "29/9/2019 01:21",
       "term": "A",
       "sector": "AP",
       "chkFrom": "068",
@@ -3627,7 +3589,7 @@
       "puerta": "02",
       "ruta": "MAO",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3684,7 +3646,7 @@
       "puerta": "10",
       "ruta": "REC",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
