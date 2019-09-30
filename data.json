@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/09/2019 09:03",
+  "lastUpdate": "30/09/2019 09:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1051,9 +1051,9 @@
       "aerolinea": "IB",
       "vuelo": "6845",
       "st": "30/09/2019 19:50",
-      "matricula": "",
+      "matricula": "ECMXV",
       "posicion": "",
-      "et": "",
+      "et": "30/9/2019 19:57",
       "at": "",
       "term": "A",
       "sector": "",
@@ -1061,9 +1061,9 @@
       "lF": "",
       "ruta": "MAD",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "347"
     },
     {
       "tipo": "arribo",
@@ -1257,22 +1257,22 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AM",
-      "vuelo": "030",
-      "st": "29/09/2019 21:20",
-      "matricula": "XAADL",
-      "posicion": "05",
-      "et": "29/9/2019 21:10",
-      "at": "29/9/2019 21:06",
+      "aerolinea": "AR",
+      "vuelo": "1287",
+      "st": "30/09/2019 21:05",
+      "matricula": "LVFQZ",
+      "posicion": "",
+      "et": "",
+      "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "9",
-      "lF": "010",
-      "ruta": "MEX",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
       "via": "",
-      "remark": "ATE",
+      "remark": "",
       "sanidad": "NO",
-      "pax": "262"
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -3817,7 +3817,7 @@
       "puerta": "26",
       "ruta": "CRD",
       "via": "MDQ",
-      "remark": "PRE",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
