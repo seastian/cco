@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/09/2019 05:07",
+  "lastUpdate": "30/09/2019 05:12",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1349,6 +1349,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "4M",
+      "vuelo": "7511",
+      "st": "30/09/2019 17:12",
+      "matricula": "LVGLP",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "12",
+      "lF": "018",
+      "ruta": "IGR",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": "155"
     },
     {
       "tipo": "arribo",
@@ -4126,6 +4145,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "ZP",
+      "vuelo": "821",
+      "st": "30/09/2019 09:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "30/9/2019 07:50",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "074",
+      "chkTo": "075",
+      "puerta": "",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "AU",
       "vuelo": "2724",
       "st": "30/09/2019 08:00",
@@ -4197,25 +4235,6 @@
       "puerta": "",
       "ruta": "CRD",
       "via": "MDQ",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "ZP",
-      "vuelo": "821",
-      "st": "30/09/2019 09:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "074",
-      "chkTo": "075",
-      "puerta": "",
-      "ruta": "ASU",
-      "via": "",
       "remark": "HOR",
       "sanidad": "NO"
     },
