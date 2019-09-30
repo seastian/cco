@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/09/2019 15:50",
+  "lastUpdate": "30/09/2019 15:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -4805,6 +4805,25 @@
       "puerta": "",
       "ruta": "PUJ",
       "via": "RES",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "JJ",
+      "vuelo": "8010",
+      "st": "01/10/2019 03:55",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "LIM",
+      "via": "",
       "remark": "HOR",
       "sanidad": "NO"
     }
