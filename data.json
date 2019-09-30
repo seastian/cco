@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/09/2019 17:48",
+  "lastUpdate": "30/09/2019 17:53",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -967,25 +967,6 @@
       "ruta": "BOG",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "KL",
-      "vuelo": "701",
-      "st": "30/09/2019 05:50",
-      "matricula": "PHBHA",
-      "posicion": "11",
-      "et": "30/9/2019 05:55",
-      "at": "30/9/2019 05:53",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "007",
-      "ruta": "AMS",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
