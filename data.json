@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/09/2019 07:02",
+  "lastUpdate": "30/09/2019 07:07",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3798,7 +3798,7 @@
       "puerta": "10",
       "ruta": "BOG",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3836,7 +3836,7 @@
       "puerta": "26",
       "ruta": "COR",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3912,7 +3912,7 @@
       "puerta": "01",
       "ruta": "LIM",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3931,7 +3931,7 @@
       "puerta": "14",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3950,7 +3950,7 @@
       "puerta": "12",
       "ruta": "ASU",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
