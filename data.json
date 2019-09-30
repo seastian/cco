@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/09/2019 08:32",
+  "lastUpdate": "30/09/2019 08:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1235,44 +1235,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "ZP",
-      "vuelo": "818",
-      "st": "29/09/2019 20:40",
-      "matricula": "ZPCRN",
-      "posicion": "50A",
-      "et": "29/9/2019 20:26",
-      "at": "29/9/2019 20:34",
-      "term": "A",
-      "sector": "",
-      "cinta": "5",
-      "lF": "004",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "16"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AU",
-      "vuelo": "2463",
-      "st": "29/09/2019 20:45",
-      "matricula": "LVCHS",
-      "posicion": "24A",
-      "et": "29/9/2019 20:41",
-      "at": "29/9/2019 20:37",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "12",
-      "lF": "018",
-      "ruta": "MDZ",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "91"
     },
     {
       "tipo": "arribo",
@@ -3828,7 +3790,7 @@
       "matricula": "LVCDZ",
       "posicion": "24B",
       "et": "30/9/2019 08:30",
-      "at": "",
+      "at": "30/9/2019 08:37",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3836,7 +3798,7 @@
       "puerta": "24",
       "ruta": "IGR",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
