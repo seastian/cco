@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/09/2019 06:52",
+  "lastUpdate": "30/09/2019 06:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1238,25 +1238,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1371",
-      "st": "29/09/2019 19:10",
-      "matricula": "LVGKO",
-      "posicion": "15",
-      "et": "29/9/2019 18:48",
-      "at": "29/9/2019 18:54",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "008",
-      "ruta": "CUN",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "219"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "LA",
       "vuelo": "443",
       "st": "29/09/2019 18:46",
@@ -1653,25 +1634,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "242"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1263",
-      "st": "29/09/2019 21:25",
-      "matricula": "LVCXS",
-      "posicion": "51A",
-      "et": "29/9/2019 21:37",
-      "at": "29/9/2019 21:40",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "008",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "117"
     },
     {
       "tipo": "arribo",
@@ -2536,14 +2498,14 @@
       "matricula": "HP1831",
       "posicion": "50A",
       "et": "30/9/2019 06:41",
-      "at": "",
+      "at": "30/9/2019 06:56",
       "term": "A",
       "sector": "",
       "cinta": "5",
       "lF": "001",
       "ruta": "PTY",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "152"
     },
@@ -3676,7 +3638,7 @@
       "matricula": "LVCAD",
       "posicion": "25B",
       "et": "",
-      "at": "30/9/2019 06:31",
+      "at": "30/9/2019 06:40",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3931,7 +3893,7 @@
       "puerta": "01",
       "ruta": "LIM",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3969,7 +3931,7 @@
       "puerta": "12",
       "ruta": "ASU",
       "via": "",
-      "remark": "EST",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -4338,7 +4300,7 @@
       "aerolinea": "AR",
       "vuelo": "1412",
       "st": "30/09/2019 12:00",
-      "matricula": "LVCBF",
+      "matricula": "LVCAD",
       "posicion": "",
       "et": "",
       "at": "",
@@ -4357,7 +4319,7 @@
       "aerolinea": "AR",
       "vuelo": "1524",
       "st": "30/09/2019 12:00",
-      "matricula": "LVCAD",
+      "matricula": "LVCBF",
       "posicion": "",
       "et": "",
       "at": "",
