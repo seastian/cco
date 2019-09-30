@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/09/2019 02:29",
+  "lastUpdate": "30/09/2019 02:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3836,7 +3836,7 @@
       "puerta": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -5057,25 +5057,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "BA",
-      "vuelo": "244",
-      "st": "30/09/2019 13:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "007",
-      "chkTo": "012",
-      "puerta": "",
-      "ruta": "LHR",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AF",
       "vuelo": "229",
       "st": "30/09/2019 13:30",
@@ -5095,6 +5076,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "BA",
+      "vuelo": "244",
+      "st": "30/09/2019 13:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "007",
+      "chkTo": "012",
+      "puerta": "",
+      "ruta": "LHR",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "G3",
       "vuelo": "7453",
       "st": "30/09/2019 14:10",
@@ -5106,6 +5106,25 @@
       "sector": "AP",
       "chkFrom": "068",
       "chkTo": "074",
+      "puerta": "",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "4M",
+      "vuelo": "7868",
+      "st": "30/09/2019 14:35",
+      "matricula": "LVBFO",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
       "puerta": "",
       "ruta": "GRU",
       "via": "",
