@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/09/2019 02:08",
+  "lastUpdate": "30/09/2019 02:13",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3931,7 +3931,7 @@
       "puerta": "01",
       "ruta": "GIG",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -5127,6 +5127,25 @@
       "chkTo": "012",
       "puerta": "",
       "ruta": "LHR",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "G3",
+      "vuelo": "7453",
+      "st": "30/09/2019 14:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "068",
+      "chkTo": "074",
+      "puerta": "",
+      "ruta": "GRU",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
