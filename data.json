@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/09/2019 03:06",
+  "lastUpdate": "30/09/2019 03:11",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -4059,7 +4059,7 @@
       "at": "",
       "term": "A",
       "sector": "AP",
-      "chkFrom": "059",
+      "chkFrom": "057",
       "chkTo": "067",
       "puerta": "04",
       "ruta": "LIM",
