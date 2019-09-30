@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/09/2019 15:34",
+  "lastUpdate": "30/09/2019 15:40",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -206,7 +206,7 @@
       "lF": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "",
+      "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
     },
@@ -3733,7 +3733,7 @@
       "matricula": "CP2881",
       "posicion": "05",
       "et": "",
-      "at": "",
+      "at": "30/9/2019 15:37",
       "term": "A",
       "sector": "AP",
       "chkFrom": "013",
@@ -3741,7 +3741,7 @@
       "puerta": "04",
       "ruta": "VVI",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3836,7 +3836,7 @@
       "puerta": "05",
       "ruta": "GRU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
