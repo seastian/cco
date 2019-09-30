@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/09/2019 15:40",
+  "lastUpdate": "30/09/2019 15:45",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3771,7 +3771,7 @@
       "matricula": "PHBHA",
       "posicion": "15",
       "et": "",
-      "at": "",
+      "at": "30/9/2019 15:45",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "201",
@@ -3779,7 +3779,7 @@
       "puerta": "20",
       "ruta": "AMS",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
