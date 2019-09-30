@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/09/2019 02:55",
+  "lastUpdate": "30/09/2019 03:01",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -288,6 +288,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "LP",
+      "vuelo": "2439",
+      "st": "30/09/2019 06:45",
+      "matricula": "CCBFP",
+      "posicion": "",
+      "et": "30/9/2019 06:20",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "LIM",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "LH",
       "vuelo": "510",
       "st": "30/09/2019 06:40",
@@ -342,25 +361,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "152"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LP",
-      "vuelo": "2439",
-      "st": "30/09/2019 06:45",
-      "matricula": "CCBFP",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -3847,7 +3847,7 @@
       "matricula": "PRVBH",
       "posicion": "02",
       "et": "",
-      "at": "",
+      "at": "30/9/2019 02:59",
       "term": "A",
       "sector": "AP",
       "chkFrom": "068",
@@ -3855,7 +3855,7 @@
       "puerta": "01",
       "ruta": "GIG",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -5129,6 +5129,25 @@
       "ruta": "CCS",
       "via": "",
       "remark": "DEM",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AC",
+      "vuelo": "093",
+      "st": "30/09/2019 15:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "061",
+      "chkTo": "067",
+      "puerta": "",
+      "ruta": "YYZ",
+      "via": "SCL",
+      "remark": "HOR",
       "sanidad": "NO"
     }
   ]
