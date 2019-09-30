@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/09/2019 23:21",
+  "lastUpdate": "29/09/2019 23:26",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -4178,7 +4178,7 @@
       "puerta": "02",
       "ruta": "AKL",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
