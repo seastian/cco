@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/10/2019 05:32",
+  "lastUpdate": "01/10/2019 05:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -152,6 +152,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "ZP",
+      "vuelo": "820",
+      "st": "01/10/2019 08:00",
+      "matricula": "ZPCRJ",
+      "posicion": "",
+      "et": "1/10/2019 06:35",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "23"
     },
     {
       "tipo": "arribo",
@@ -342,25 +361,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "233"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "ZP",
-      "vuelo": "820",
-      "st": "01/10/2019 08:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -3730,7 +3730,7 @@
       "aerolinea": "ZP",
       "vuelo": "821",
       "st": "01/10/2019 09:00",
-      "matricula": "",
+      "matricula": "ZPCRJ",
       "posicion": "",
       "et": "1/10/2019 07:50",
       "at": "",
