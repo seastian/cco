@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/10/2019 01:32",
+  "lastUpdate": "01/10/2019 01:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1105,25 +1105,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "OB",
-      "vuelo": "708",
-      "st": "30/09/2019 14:05",
-      "matricula": "CP2881",
-      "posicion": "05",
-      "et": "30/9/2019 13:40",
-      "at": "30/9/2019 13:36",
-      "term": "A",
-      "sector": "",
-      "cinta": "1",
-      "lF": "006",
-      "ruta": "VVI",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "194"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1953",
       "st": "30/09/2019 13:55",
@@ -2036,25 +2017,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1101",
-      "st": "01/10/2019 02:15",
-      "matricula": "N538LA",
-      "posicion": "54",
-      "et": "30/9/2019 22:30",
-      "at": "30/9/2019 22:11",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1251",
       "st": "30/09/2019 22:30",
@@ -2069,6 +2031,25 @@
       "ruta": "GIG",
       "via": "",
       "remark": "CAN",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "UC",
+      "vuelo": "1101",
+      "st": "01/10/2019 02:15",
+      "matricula": "N538LA",
+      "posicion": "54",
+      "et": "30/9/2019 22:30",
+      "at": "30/9/2019 22:11",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -3551,7 +3532,7 @@
       "puerta": "21",
       "ruta": "GRU",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
