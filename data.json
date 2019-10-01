@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/10/2019 05:47",
+  "lastUpdate": "01/10/2019 05:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2258,7 +2258,7 @@
       "lF": "",
       "ruta": "LIM",
       "via": "",
-      "remark": "CON",
+      "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
     },
