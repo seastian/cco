@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/10/2019 04:30",
+  "lastUpdate": "01/10/2019 04:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3328,6 +3328,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "AD",
+      "vuelo": "8771",
+      "st": "01/10/2019 04:30",
+      "matricula": "PRYRK",
+      "posicion": "07",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "076",
+      "chkTo": "081",
+      "puerta": "06",
+      "ruta": "VCP",
+      "via": "",
+      "remark": "CER",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "AOG",
       "vuelo": "500",
       "st": "01/10/2019 04:30",
@@ -3343,25 +3362,6 @@
       "ruta": "ASU",
       "via": "",
       "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AD",
-      "vuelo": "8771",
-      "st": "01/10/2019 04:30",
-      "matricula": "PRYRK",
-      "posicion": "07",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "076",
-      "chkTo": "081",
-      "puerta": "06",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3399,7 +3399,7 @@
       "puerta": "02",
       "ruta": "PTY",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3418,7 +3418,7 @@
       "puerta": "03",
       "ruta": "BSB",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3456,7 +3456,7 @@
       "puerta": "17",
       "ruta": "SSA",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
