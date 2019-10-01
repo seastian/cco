@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/10/2019 00:18",
+  "lastUpdate": "01/10/2019 00:23",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -84,7 +84,7 @@
       "st": "01/10/2019 02:35",
       "matricula": "PRTYG",
       "posicion": "",
-      "et": "",
+      "et": "1/10/2019 02:15",
       "at": "",
       "term": "A",
       "sector": "",
@@ -92,7 +92,7 @@
       "lF": "",
       "ruta": "GRU",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -1045,25 +1045,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AD",
-      "vuelo": "8766",
-      "st": "30/09/2019 12:30",
-      "matricula": "PRYRK",
-      "posicion": "05",
-      "et": "30/9/2019 12:20",
-      "at": "30/9/2019 12:22",
-      "term": "A",
-      "sector": "",
-      "cinta": "2",
-      "lF": "001",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "159"
     },
     {
       "tipo": "arribo",
@@ -3562,7 +3543,7 @@
       "matricula": "LVCKZ",
       "posicion": "53A",
       "et": "30/9/2019 23:53",
-      "at": "",
+      "at": "1/10/2019 00:21",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3570,7 +3551,7 @@
       "puerta": "24",
       "ruta": "COR",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
