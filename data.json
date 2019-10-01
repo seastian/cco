@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "01/10/2019 13:01",
+  "lastUpdate": "01/10/2019 13:07",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "KL",
-      "vuelo": "702",
-      "st": "01/10/2019 13:30",
-      "matricula": "PHBHH",
-      "posicion": "15",
-      "et": "1/10/2019 13:06",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "010",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AR",
@@ -1124,25 +1105,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AV",
-      "vuelo": "965",
-      "st": "01/10/2019 04:25",
-      "matricula": "N342AV",
-      "posicion": "05",
-      "et": "1/10/2019 03:54",
-      "at": "1/10/2019 03:58",
-      "term": "A",
-      "sector": "",
-      "cinta": "4",
-      "lF": "004",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "244"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1305",
       "st": "01/10/2019 04:40",
@@ -1159,6 +1121,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "251"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AV",
+      "vuelo": "965",
+      "st": "01/10/2019 04:25",
+      "matricula": "N342AV",
+      "posicion": "05",
+      "et": "1/10/2019 03:54",
+      "at": "1/10/2019 03:58",
+      "term": "A",
+      "sector": "",
+      "cinta": "4",
+      "lF": "004",
+      "ruta": "LIM",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "244"
     },
     {
       "tipo": "arribo",
@@ -1200,25 +1181,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AA",
-      "vuelo": "907",
-      "st": "01/10/2019 06:00",
-      "matricula": "N792AN",
-      "posicion": "10",
-      "et": "1/10/2019 05:30",
-      "at": "1/10/2019 05:30",
-      "term": "A",
-      "sector": "",
-      "cinta": "1",
-      "lF": "005",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "272"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AV",
       "vuelo": "087",
       "st": "01/10/2019 05:30",
@@ -1235,6 +1197,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "121"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AA",
+      "vuelo": "907",
+      "st": "01/10/2019 06:00",
+      "matricula": "N792AN",
+      "posicion": "10",
+      "et": "1/10/2019 05:30",
+      "at": "1/10/2019 05:30",
+      "term": "A",
+      "sector": "",
+      "cinta": "1",
+      "lF": "005",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "272"
     },
     {
       "tipo": "arribo",
@@ -2109,6 +2090,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "117"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "KL",
+      "vuelo": "702",
+      "st": "01/10/2019 13:30",
+      "matricula": "PHBHH",
+      "posicion": "15",
+      "et": "1/10/2019 13:06",
+      "at": "1/10/2019 13:06",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "010",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "partida",
@@ -3342,7 +3342,7 @@
       "puerta": "27",
       "ruta": "BRC",
       "via": "",
-      "remark": "DEM",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3361,7 +3361,7 @@
       "puerta": "24",
       "ruta": "MDZ",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
