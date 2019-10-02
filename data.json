@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/10/2019 00:30",
+  "lastUpdate": "02/10/2019 00:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1026,25 +1026,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AC",
-      "vuelo": "092",
-      "st": "01/10/2019 13:00",
-      "matricula": "CFVLZ",
-      "posicion": "04",
-      "et": "1/10/2019 12:40",
-      "at": "1/10/2019 12:32",
-      "term": "A",
-      "sector": "",
-      "cinta": "5",
-      "lF": "004",
-      "ruta": "YYZ",
-      "via": "SCL",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "136"
     },
     {
       "tipo": "arribo",
