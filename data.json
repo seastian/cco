@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/10/2019 20:38",
+  "lastUpdate": "02/10/2019 20:43",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -178,7 +178,7 @@
       "vuelo": "1245",
       "st": "02/10/2019 22:00",
       "matricula": "LVCAP",
-      "posicion": "",
+      "posicion": "18B",
       "et": "2/10/2019 21:40",
       "at": "",
       "term": "A",
@@ -3684,7 +3684,7 @@
       "puerta": "05",
       "ruta": "SCL",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3703,7 +3703,7 @@
       "puerta": "07",
       "ruta": "MIA",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3731,14 +3731,14 @@
       "vuelo": "954",
       "st": "02/10/2019 21:30",
       "matricula": "N788AN",
-      "posicion": "54",
+      "posicion": "09",
       "et": "",
       "at": "",
       "term": "A",
       "sector": "AP",
       "chkFrom": "001",
       "chkTo": "020",
-      "puerta": "08",
+      "puerta": "09",
       "ruta": "JFK",
       "via": "",
       "remark": "HOR",
@@ -4012,25 +4012,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "NZ",
-      "vuelo": "31",
-      "st": "02/10/2019 23:30",
-      "matricula": "ZKOKH",
-      "posicion": "24",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "068",
-      "chkTo": "073",
-      "puerta": "",
-      "ruta": "AKL",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1300",
       "st": "02/10/2019 23:30",
@@ -4044,6 +4025,25 @@
       "chkTo": "240",
       "puerta": "22",
       "ruta": "JFK",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "NZ",
+      "vuelo": "31",
+      "st": "02/10/2019 23:30",
+      "matricula": "ZKOKH",
+      "posicion": "24",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "068",
+      "chkTo": "073",
+      "puerta": "",
+      "ruta": "AKL",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
