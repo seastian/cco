@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/10/2019 06:17",
+  "lastUpdate": "02/10/2019 06:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -127,7 +127,7 @@
       "term": "A",
       "sector": "",
       "cinta": "9",
-      "lF": "",
+      "lF": "007",
       "ruta": "CDG",
       "via": "",
       "remark": "EST",
@@ -145,8 +145,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "2",
+      "lF": "001",
       "ruta": "MAD",
       "via": "",
       "remark": "EST",
@@ -164,8 +164,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "1",
+      "lF": "006",
       "ruta": "DFW",
       "via": "",
       "remark": "EST",
@@ -3418,7 +3418,7 @@
       "puerta": "01",
       "ruta": "CCS",
       "via": "",
-      "remark": "CON",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3456,7 +3456,7 @@
       "puerta": "24",
       "ruta": "SLA",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
