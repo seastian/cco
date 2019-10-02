@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/10/2019 10:13",
+  "lastUpdate": "02/10/2019 10:18",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3434,7 +3434,7 @@
       "sector": "AP",
       "chkFrom": "013",
       "chkTo": "018",
-      "puerta": "",
+      "puerta": "07",
       "ruta": "PTY",
       "via": "",
       "remark": "HOR",
