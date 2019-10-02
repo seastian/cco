@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/10/2019 17:06",
+  "lastUpdate": "02/10/2019 17:11",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2311,7 +2311,7 @@
       "at": "2/10/2019 16:51",
       "term": "C",
       "sector": "CAC",
-      "cinta": "12",
+      "cinta": "11",
       "lF": "018",
       "ruta": "MDZ",
       "via": "",
@@ -3741,7 +3741,7 @@
       "puerta": "13",
       "ruta": "POA",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
