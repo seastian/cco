@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/10/2019 07:20",
+  "lastUpdate": "02/10/2019 07:27",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -65,7 +65,7 @@
       "st": "02/10/2019 08:20",
       "matricula": "GYMMA",
       "posicion": "06",
-      "et": "2/10/2019 07:51",
+      "et": "2/10/2019 07:45",
       "at": "",
       "term": "A",
       "sector": "",
@@ -88,8 +88,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "8",
+      "lF": "010",
       "ruta": "MAD",
       "via": "",
       "remark": "DEM",
@@ -2245,25 +2245,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "LA",
-      "vuelo": "532",
-      "st": "01/10/2019 19:00",
-      "matricula": "CCBGH",
-      "posicion": "04",
-      "et": "",
-      "at": "1/10/2019 19:23",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "03",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1364",
       "st": "01/10/2019 19:00",
@@ -3456,7 +3437,7 @@
       "puerta": "14",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3494,7 +3475,7 @@
       "puerta": "12",
       "ruta": "ASU",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
