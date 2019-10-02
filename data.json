@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/10/2019 22:29",
+  "lastUpdate": "01/10/2019 22:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3589,7 +3589,7 @@
       "puerta": "",
       "ruta": "AEP",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -3665,7 +3665,7 @@
       "puerta": "04",
       "ruta": "IST",
       "via": "GRU",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3722,7 +3722,7 @@
       "puerta": "03",
       "ruta": "MEX",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3996,8 +3996,8 @@
       "aerolinea": "4M",
       "vuelo": "7900",
       "st": "02/10/2019 04:20",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "LVHQI",
+      "posicion": "50B",
       "et": "",
       "at": "",
       "term": "A",
@@ -4222,25 +4222,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1428",
-      "st": "02/10/2019 06:40",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "SLA",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "1240",
       "st": "02/10/2019 06:40",
       "matricula": "",
@@ -4253,6 +4234,25 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "GRU",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1428",
+      "st": "02/10/2019 06:40",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "SLA",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -4297,6 +4297,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "AV",
+      "vuelo": "088",
+      "st": "02/10/2019 07:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "059",
+      "chkTo": "067",
+      "puerta": "",
+      "ruta": "BOG",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "AU",
       "vuelo": "2462",
       "st": "02/10/2019 07:00",
@@ -4329,25 +4348,6 @@
       "chkTo": "053",
       "puerta": "05",
       "ruta": "SCL",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AV",
-      "vuelo": "088",
-      "st": "02/10/2019 07:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "059",
-      "chkTo": "067",
-      "puerta": "",
-      "ruta": "BOG",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
