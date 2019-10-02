@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/10/2019 12:11",
+  "lastUpdate": "02/10/2019 12:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1257,25 +1257,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "M3",
-      "vuelo": "8492",
-      "st": "01/10/2019 23:45",
-      "matricula": "CCCZZ",
-      "posicion": "55",
-      "et": "",
-      "at": "2/10/2019 00:16",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "CM",
       "vuelo": "363",
       "st": "02/10/2019 01:10",
@@ -2150,6 +2131,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "UA",
+      "vuelo": "819",
+      "st": "02/10/2019 10:20",
+      "matricula": "N78017",
+      "posicion": "10",
+      "et": "2/10/2019 10:05",
+      "at": "2/10/2019 09:57",
+      "term": "A",
+      "sector": "",
+      "cinta": "5",
+      "lF": "004",
+      "ruta": "IAH",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "261"
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "AU",
       "vuelo": "2541",
       "st": "02/10/2019 10:05",
@@ -2185,25 +2185,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "147"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "UA",
-      "vuelo": "819",
-      "st": "02/10/2019 10:20",
-      "matricula": "N78017",
-      "posicion": "10",
-      "et": "2/10/2019 10:05",
-      "at": "2/10/2019 09:57",
-      "term": "A",
-      "sector": "",
-      "cinta": "5",
-      "lF": "004",
-      "ruta": "IAH",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "261"
     },
     {
       "tipo": "arribo",
@@ -2283,6 +2264,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "586RW",
+      "st": "02/10/2019 11:35",
+      "matricula": "N586RW",
+      "posicion": "43",
+      "et": "",
+      "at": "",
+      "term": "FBO",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO",
+      "pax": "8"
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1787",
       "st": "02/10/2019 11:55",
@@ -2299,25 +2299,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "136"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "586RW",
-      "st": "02/10/2019 11:35",
-      "matricula": "N586RW",
-      "posicion": "43",
-      "et": "2/10/2019 12:00",
-      "at": "",
-      "term": "FBO",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": "8"
     },
     {
       "tipo": "arribo",
@@ -2353,25 +2334,6 @@
       "chkTo": "240",
       "puerta": "22",
       "ruta": "MAD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AV",
-      "vuelo": "218",
-      "st": "02/10/2019 00:10",
-      "matricula": "N766AV",
-      "posicion": "03",
-      "et": "",
-      "at": "2/10/2019 00:13",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "013",
-      "chkTo": "016",
-      "puerta": "02",
-      "ruta": "BOG",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -3334,7 +3296,7 @@
       "matricula": "LVFYK",
       "posicion": "25B",
       "et": "",
-      "at": "",
+      "at": "2/10/2019 12:15",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3342,7 +3304,7 @@
       "puerta": "24",
       "ruta": "COR",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3399,7 +3361,7 @@
       "puerta": "26",
       "ruta": "MDZ",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3494,7 +3456,7 @@
       "puerta": "20",
       "ruta": "FCO",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3532,7 +3494,7 @@
       "puerta": "24",
       "ruta": "USH",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
