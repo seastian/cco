@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/10/2019 15:34",
+  "lastUpdate": "03/10/2019 15:39",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3684,7 +3684,7 @@
       "puerta": "24",
       "ruta": "USH",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3703,7 +3703,7 @@
       "puerta": "01",
       "ruta": "GRU",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
