@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/10/2019 12:14",
+  "lastUpdate": "03/10/2019 12:19",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -141,7 +141,7 @@
       "st": "03/10/2019 13:30",
       "matricula": "LVFRQ",
       "posicion": "",
-      "et": "",
+      "et": "3/10/2019 13:35",
       "at": "",
       "term": "A",
       "sector": "",
@@ -149,9 +149,9 @@
       "lF": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "67"
     },
     {
       "tipo": "arribo",
@@ -3532,7 +3532,7 @@
       "puerta": "04",
       "ruta": "MAD",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3570,7 +3570,7 @@
       "puerta": "18",
       "ruta": "FCO",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
