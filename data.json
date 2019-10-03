@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/10/2019 01:39",
+  "lastUpdate": "03/10/2019 01:45",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1159,25 +1159,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "OB",
-      "vuelo": "708",
-      "st": "02/10/2019 14:05",
-      "matricula": "CP3017",
-      "posicion": "04",
-      "et": "2/10/2019 14:00",
-      "at": "2/10/2019 13:43",
-      "term": "A",
-      "sector": "",
-      "cinta": "1",
-      "lF": "006",
-      "ruta": "VVI",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "199"
     },
     {
       "tipo": "arribo",
@@ -3657,7 +3638,7 @@
       "matricula": "CXCAR",
       "posicion": "53A",
       "et": "3/10/2019 00:45",
-      "at": "",
+      "at": "3/10/2019 01:46",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -3665,7 +3646,7 @@
       "puerta": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "EST",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
