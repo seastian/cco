@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/10/2019 01:08",
+  "lastUpdate": "03/10/2019 01:13",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -4735,9 +4735,9 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1412",
+      "vuelo": "1524",
       "st": "03/10/2019 12:00",
-      "matricula": "LVCBF",
+      "matricula": "LVCAP",
       "posicion": "",
       "et": "",
       "at": "",
@@ -4746,7 +4746,7 @@
       "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
-      "ruta": "MDZ",
+      "ruta": "COR",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -4773,9 +4773,9 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1524",
+      "vuelo": "1412",
       "st": "03/10/2019 12:00",
-      "matricula": "LVCAP",
+      "matricula": "LVCBF",
       "posicion": "",
       "et": "",
       "at": "",
@@ -4784,7 +4784,7 @@
       "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
-      "ruta": "COR",
+      "ruta": "MDZ",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -4918,6 +4918,25 @@
       "chkTo": "053",
       "puerta": "",
       "ruta": "GRU",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AD",
+      "vuelo": "8767",
+      "st": "03/10/2019 13:15",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "076",
+      "chkTo": "078",
+      "puerta": "",
+      "ruta": "VCP",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
