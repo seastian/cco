@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/10/2019 12:09",
+  "lastUpdate": "03/10/2019 12:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3410,7 +3410,7 @@
       "matricula": "ECMOY",
       "posicion": "16",
       "et": "",
-      "at": "",
+      "at": "3/10/2019 12:08",
       "term": "A",
       "sector": "AP",
       "chkFrom": "027",
@@ -3418,7 +3418,7 @@
       "puerta": "22",
       "ruta": "BCN",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3475,7 +3475,7 @@
       "puerta": "25",
       "ruta": "MDZ",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3486,7 +3486,7 @@
       "matricula": "LVGUS",
       "posicion": "51A",
       "et": "",
-      "at": "",
+      "at": "3/10/2019 12:11",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3494,7 +3494,7 @@
       "puerta": "27",
       "ruta": "BRC",
       "via": "",
-      "remark": "ULT",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3589,7 +3589,7 @@
       "puerta": "25",
       "ruta": "BRC",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4282,14 +4282,14 @@
       "vuelo": "978",
       "st": "03/10/2019 19:50",
       "matricula": "N655UA",
-      "posicion": "04",
+      "posicion": "63",
       "et": "",
       "at": "",
       "term": "A",
       "sector": "AP",
       "chkFrom": "054",
       "chkTo": "061",
-      "puerta": "03",
+      "puerta": "",
       "ruta": "EWR",
       "via": "",
       "remark": "HOR",
