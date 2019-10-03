@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/10/2019 13:39",
+  "lastUpdate": "03/10/2019 13:44",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3619,7 +3619,7 @@
       "matricula": "GYMMU",
       "posicion": "06",
       "et": "",
-      "at": "",
+      "at": "3/10/2019 13:42",
       "term": "A",
       "sector": "AP",
       "chkFrom": "006",
@@ -3627,7 +3627,7 @@
       "puerta": "05",
       "ruta": "LHR",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3703,7 +3703,7 @@
       "puerta": "03",
       "ruta": "YYZ",
       "via": "SCL",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
