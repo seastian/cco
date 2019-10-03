@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/10/2019 08:41",
+  "lastUpdate": "03/10/2019 08:46",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -212,25 +212,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8008",
-      "st": "03/10/2019 10:00",
-      "matricula": "PTMXM",
-      "posicion": "",
-      "et": "3/10/2019 10:00",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "218"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1231",
       "st": "03/10/2019 10:00",
@@ -247,6 +228,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "JJ",
+      "vuelo": "8008",
+      "st": "03/10/2019 10:00",
+      "matricula": "PTMXM",
+      "posicion": "",
+      "et": "3/10/2019 10:00",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "218"
     },
     {
       "tipo": "arribo",
@@ -1136,6 +1136,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "ASU",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AU",
+      "vuelo": "2463",
+      "st": "03/10/2019 20:45",
+      "matricula": "LVCET",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MDZ",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -3581,7 +3600,7 @@
       "matricula": "LVFNK",
       "posicion": "15",
       "et": "",
-      "at": "",
+      "at": "3/10/2019 08:45",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "209",
@@ -3589,7 +3608,7 @@
       "puerta": "20",
       "ruta": "MIA",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3684,7 +3703,7 @@
       "puerta": "09",
       "ruta": "GRU",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
