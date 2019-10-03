@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/10/2019 08:51",
+  "lastUpdate": "03/10/2019 08:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -236,7 +236,7 @@
       "st": "03/10/2019 10:00",
       "matricula": "LVCAP",
       "posicion": "",
-      "et": "",
+      "et": "3/10/2019 09:56",
       "at": "",
       "term": "A",
       "sector": "",
@@ -244,7 +244,7 @@
       "lF": "",
       "ruta": "POA",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -1181,25 +1181,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AM",
-      "vuelo": "030",
-      "st": "02/10/2019 21:10",
-      "matricula": "N438AM",
-      "posicion": "04",
-      "et": "2/10/2019 21:04",
-      "at": "2/10/2019 20:56",
-      "term": "A",
-      "sector": "",
-      "cinta": "5",
-      "lF": "005",
-      "ruta": "MEX",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "242"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1287",
       "st": "02/10/2019 21:05",
@@ -1296,25 +1277,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "AR",
-      "vuelo": "1263",
-      "st": "02/10/2019 21:25",
-      "matricula": "LVGFQ",
-      "posicion": "52B",
-      "et": "2/10/2019 21:40",
-      "at": "2/10/2019 21:46",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "008",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "106"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
       "vuelo": "1245",
       "st": "02/10/2019 22:00",
       "matricula": "LVCAP",
@@ -1330,6 +1292,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "121"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1263",
+      "st": "02/10/2019 21:25",
+      "matricula": "LVGFQ",
+      "posicion": "52B",
+      "et": "2/10/2019 21:40",
+      "at": "2/10/2019 21:46",
+      "term": "A",
+      "sector": "",
+      "cinta": "7",
+      "lF": "008",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "106"
     },
     {
       "tipo": "arribo",
@@ -3600,7 +3581,7 @@
       "matricula": "LVCHR",
       "posicion": "23A",
       "et": "",
-      "at": "",
+      "at": "3/10/2019 08:57",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3608,7 +3589,7 @@
       "puerta": "24",
       "ruta": "USH",
       "via": "MDQ",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
