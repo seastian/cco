@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/10/2019 15:02",
+  "lastUpdate": "03/10/2019 15:07",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -27,7 +27,7 @@
       "st": "03/10/2019 15:25",
       "matricula": "LVCBF",
       "posicion": "",
-      "et": "",
+      "et": "3/10/2019 15:27",
       "at": "",
       "term": "C",
       "sector": "CAC",
@@ -35,9 +35,9 @@
       "lF": "",
       "ruta": "COR",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "122"
     },
     {
       "tipo": "arribo",
@@ -84,7 +84,7 @@
       "st": "03/10/2019 16:15",
       "matricula": "LVFUB",
       "posicion": "",
-      "et": "",
+      "et": "3/10/2019 16:11",
       "at": "",
       "term": "C",
       "sector": "CAC",
@@ -92,9 +92,9 @@
       "lF": "",
       "ruta": "BRC",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "159"
     },
     {
       "tipo": "arribo",
@@ -217,7 +217,7 @@
       "st": "03/10/2019 17:40",
       "matricula": "PRMBY",
       "posicion": "",
-      "et": "",
+      "et": "3/10/2019 17:25",
       "at": "",
       "term": "A",
       "sector": "",
@@ -225,9 +225,9 @@
       "lF": "",
       "ruta": "GRU",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "172"
     },
     {
       "tipo": "arribo",
@@ -3562,7 +3562,7 @@
       "matricula": "CFGDZ",
       "posicion": "04",
       "et": "",
-      "at": "",
+      "at": "3/10/2019 15:05",
       "term": "A",
       "sector": "AP",
       "chkFrom": "061",
@@ -3570,7 +3570,7 @@
       "puerta": "03",
       "ruta": "YYZ",
       "via": "SCL",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
