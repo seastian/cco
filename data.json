@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/10/2019 00:42",
+  "lastUpdate": "03/10/2019 00:48",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3714,7 +3714,7 @@
       "matricula": "PRMHP",
       "posicion": "02",
       "et": "",
-      "at": "",
+      "at": "3/10/2019 00:47",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3722,7 +3722,7 @@
       "puerta": "01",
       "ruta": "ASU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3760,7 +3760,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "EST",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3779,7 +3779,7 @@
       "puerta": "09",
       "ruta": "PTY",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
