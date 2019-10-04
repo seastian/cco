@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/10/2019 14:00",
+  "lastUpdate": "04/10/2019 14:05",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -198,7 +198,7 @@
       "st": "04/10/2019 15:53",
       "matricula": "LVBOI",
       "posicion": "",
-      "et": "",
+      "et": "4/10/2019 15:45",
       "at": "",
       "term": "A",
       "sector": "",
@@ -206,7 +206,7 @@
       "lF": "",
       "ruta": "LIM",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -2353,7 +2353,7 @@
       "lF": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "",
+      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
@@ -3646,7 +3646,7 @@
       "puerta": "16",
       "ruta": "GIG",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
