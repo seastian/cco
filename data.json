@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/10/2019 17:39",
+  "lastUpdate": "04/10/2019 17:44",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -117,6 +117,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "443",
+      "st": "04/10/2019 19:12",
+      "matricula": "CCBEA",
+      "posicion": "",
+      "et": "4/10/2019 19:00",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "219"
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "IB",
       "vuelo": "6845",
       "st": "04/10/2019 19:50",
@@ -133,25 +152,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "348"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "443",
-      "st": "04/10/2019 19:12",
-      "matricula": "CCBEA",
-      "posicion": "",
-      "et": "4/10/2019 19:10",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -3627,7 +3627,7 @@
       "puerta": "19",
       "ruta": "ASU",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4691,6 +4691,25 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "VCP",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "JJ",
+      "vuelo": "8015",
+      "st": "05/10/2019 05:45",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "GRU",
+      "via": "",
       "remark": "HOR",
       "sanidad": "NO"
     }
