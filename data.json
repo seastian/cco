@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/10/2019 14:15",
+  "lastUpdate": "04/10/2019 14:20",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2346,14 +2346,14 @@
       "matricula": "CP2881",
       "posicion": "06",
       "et": "4/10/2019 14:10",
-      "at": "",
+      "at": "4/10/2019 14:05",
       "term": "A",
       "sector": "",
       "cinta": "4",
       "lF": "004",
       "ruta": "VVI",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "218"
     },
@@ -3581,7 +3581,7 @@
       "matricula": "GYMMT",
       "posicion": "09",
       "et": "",
-      "at": "",
+      "at": "4/10/2019 13:57",
       "term": "A",
       "sector": "AP",
       "chkFrom": "006",
@@ -3589,7 +3589,7 @@
       "puerta": "08",
       "ruta": "LHR",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
