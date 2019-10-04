@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/10/2019 14:42",
+  "lastUpdate": "04/10/2019 14:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3665,7 +3665,7 @@
       "puerta": "16",
       "ruta": "GIG",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3784,25 +3784,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "G3",
-      "vuelo": "7675",
-      "st": "04/10/2019 16:30",
-      "matricula": "PRVBW",
-      "posicion": "02",
-      "et": "4/10/2019 16:10",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "068",
-      "chkTo": "074",
-      "puerta": "01",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "UC",
       "vuelo": "1105",
       "st": "04/10/2019 16:10",
@@ -3856,6 +3837,25 @@
       "ruta": "USH",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "G3",
+      "vuelo": "7675",
+      "st": "04/10/2019 16:30",
+      "matricula": "PRVBW",
+      "posicion": "02",
+      "et": "4/10/2019 16:30",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "068",
+      "chkTo": "074",
+      "puerta": "01",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "EST",
       "sanidad": "NO"
     },
     {
