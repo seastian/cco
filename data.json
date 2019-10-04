@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/10/2019 20:36",
+  "lastUpdate": "04/10/2019 20:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -88,8 +88,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "1",
+      "lF": "001",
       "ruta": "MEX",
       "via": "",
       "remark": "EST",
@@ -107,8 +107,8 @@
       "at": "",
       "term": "C",
       "sector": "CAC",
-      "cinta": "",
-      "lF": "",
+      "cinta": "11",
+      "lF": "018",
       "ruta": "SLA",
       "via": "",
       "remark": "EST",
@@ -3589,7 +3589,7 @@
       "puerta": "10",
       "ruta": "MIA",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3627,7 +3627,7 @@
       "puerta": "09",
       "ruta": "JFK",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4004,7 +4004,7 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "13",
       "ruta": "VVI",
       "via": "",
       "remark": "HOR",
