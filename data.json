@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/10/2019 20:41",
+  "lastUpdate": "04/10/2019 20:46",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -139,7 +139,7 @@
       "aerolinea": "QR",
       "vuelo": "773",
       "st": "04/10/2019 21:35",
-      "matricula": "",
+      "matricula": "A7BBB",
       "posicion": "",
       "et": "4/10/2019 21:20",
       "at": "",
@@ -3608,7 +3608,7 @@
       "puerta": "07",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3624,7 +3624,7 @@
       "sector": "AP",
       "chkFrom": "001",
       "chkTo": "020",
-      "puerta": "09",
+      "puerta": "08",
       "ruta": "JFK",
       "via": "",
       "remark": "BOR",
@@ -3703,7 +3703,7 @@
       "puerta": "",
       "ruta": "COR",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -4042,7 +4042,7 @@
       "sector": "CPI",
       "chkFrom": "207",
       "chkTo": "240",
-      "puerta": "19",
+      "puerta": "18",
       "ruta": "JFK",
       "via": "",
       "remark": "HOR",
