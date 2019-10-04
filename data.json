@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/10/2019 07:19",
+  "lastUpdate": "04/10/2019 07:24",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -141,7 +141,7 @@
       "st": "04/10/2019 08:55",
       "matricula": "PRMBF",
       "posicion": "",
-      "et": "",
+      "et": "4/10/2019 08:40",
       "at": "",
       "term": "A",
       "sector": "",
@@ -149,9 +149,9 @@
       "lF": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "163"
     },
     {
       "tipo": "arribo",
@@ -1159,25 +1159,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "IB",
-      "vuelo": "6845",
-      "st": "03/10/2019 19:50",
-      "matricula": "ECMYX",
-      "posicion": "03",
-      "et": "3/10/2019 19:25",
-      "at": "3/10/2019 19:22",
-      "term": "A",
-      "sector": "",
-      "cinta": "1",
-      "lF": "006",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "343"
     },
     {
       "tipo": "arribo",
@@ -3543,7 +3524,7 @@
       "matricula": "LVGVC",
       "posicion": "18B",
       "et": "",
-      "at": "",
+      "at": "4/10/2019 07:21",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3551,7 +3532,7 @@
       "puerta": "26",
       "ruta": "COR",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3689,25 +3670,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "KL",
-      "vuelo": "701",
-      "st": "04/10/2019 07:45",
-      "matricula": "PHBHI",
-      "posicion": "11",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "201",
-      "chkTo": "208",
-      "puerta": "14",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "LP",
       "vuelo": "2428",
       "st": "04/10/2019 07:50",
@@ -3799,6 +3761,25 @@
       "ruta": "TUC",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "KL",
+      "vuelo": "701",
+      "st": "04/10/2019 07:45",
+      "matricula": "PHBHI",
+      "posicion": "11",
+      "et": "4/10/2019 08:30",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "201",
+      "chkTo": "208",
+      "puerta": "14",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "DEM",
       "sanidad": "NO"
     },
     {
