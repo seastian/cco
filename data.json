@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/10/2019 14:10",
+  "lastUpdate": "04/10/2019 14:15",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3608,7 +3608,7 @@
       "puerta": "07",
       "ruta": "GRU",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
