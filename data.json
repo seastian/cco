@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/10/2019 15:34",
+  "lastUpdate": "04/10/2019 15:39",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2289,14 +2289,14 @@
       "matricula": "LVFUB",
       "posicion": "16B",
       "et": "4/10/2019 15:29",
-      "at": "",
+      "at": "4/10/2019 15:35",
       "term": "A",
       "sector": "",
       "cinta": "9",
       "lF": "010",
       "ruta": "SSA",
       "via": "",
-      "remark": "DEM",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "133"
     },
@@ -3632,6 +3632,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "KL",
+      "vuelo": "702",
+      "st": "04/10/2019 15:40",
+      "matricula": "PHBHI",
+      "posicion": "15",
+      "et": "4/10/2019 17:15",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "201",
+      "chkTo": "220",
+      "puerta": "20",
+      "ruta": "AMS",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "M3",
       "vuelo": "8460",
       "st": "04/10/2019 16:00",
@@ -3837,25 +3856,6 @@
       "ruta": "ASU",
       "via": "",
       "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "KL",
-      "vuelo": "702",
-      "st": "04/10/2019 15:40",
-      "matricula": "PHBHI",
-      "posicion": "15",
-      "et": "4/10/2019 17:15",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "201",
-      "chkTo": "220",
-      "puerta": "20",
-      "ruta": "AMS",
-      "via": "",
-      "remark": "DEM",
       "sanidad": "NO"
     },
     {
