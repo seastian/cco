@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/10/2019 17:44",
+  "lastUpdate": "04/10/2019 17:51",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3608,7 +3608,7 @@
       "puerta": "01",
       "ruta": "GIG",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3684,7 +3684,7 @@
       "puerta": "21",
       "ruta": "CWB",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3722,7 +3722,7 @@
       "puerta": "05",
       "ruta": "GRU",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -4319,8 +4319,8 @@
       "aerolinea": "AR",
       "vuelo": "1368",
       "st": "04/10/2019 23:15",
-      "matricula": "LVFUB",
-      "posicion": "16B",
+      "matricula": "LVFQC",
+      "posicion": "17A",
       "et": "",
       "at": "",
       "term": "C",
