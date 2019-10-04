@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/10/2019 15:03",
+  "lastUpdate": "04/10/2019 15:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2379,25 +2379,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1928",
-      "st": "04/10/2019 02:45",
-      "matricula": "LVFYK",
-      "posicion": "18A",
-      "et": "",
-      "at": "4/10/2019 03:04",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "18",
-      "ruta": "CWB",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "1324",
       "st": "04/10/2019 03:15",
       "matricula": "LVGUB",
@@ -3138,6 +3119,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "PRV",
+      "vuelo": "GQN",
+      "st": "04/10/2019 11:00",
+      "matricula": "LVGQN",
+      "posicion": "41",
+      "et": "",
+      "at": "4/10/2019 10:30",
+      "term": "FBO",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "ROS",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "JJ",
       "vuelo": "8009",
       "st": "04/10/2019 11:10",
@@ -3665,7 +3665,7 @@
       "puerta": "07",
       "ruta": "SCL",
       "via": "",
-      "remark": "PRE",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3703,7 +3703,7 @@
       "puerta": "18",
       "ruta": "GRU",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
