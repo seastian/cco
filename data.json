@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/10/2019 06:16",
+  "lastUpdate": "04/10/2019 06:21",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3638,7 +3638,7 @@
       "matricula": "PRMBH",
       "posicion": "10",
       "et": "",
-      "at": "",
+      "at": "4/10/2019 06:20",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3646,7 +3646,7 @@
       "puerta": "10",
       "ruta": "GRU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3798,7 +3798,7 @@
       "puerta": "03",
       "ruta": "BOG",
       "via": "",
-      "remark": "PRE",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
