@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/10/2019 13:03",
+  "lastUpdate": "04/10/2019 13:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3513,7 +3513,7 @@
       "puerta": "24",
       "ruta": "USH",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3589,7 +3589,7 @@
       "puerta": "02",
       "ruta": "MAD",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3627,7 +3627,7 @@
       "puerta": "08",
       "ruta": "LHR",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4677,25 +4677,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1300",
-      "st": "04/10/2019 23:30",
-      "matricula": "LVGKO",
-      "posicion": "M13",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "209",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "JFK",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "NZ",
       "vuelo": "31",
       "st": "04/10/2019 23:30",
@@ -4709,6 +4690,25 @@
       "chkTo": "073",
       "puerta": "",
       "ruta": "AKL",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1300",
+      "st": "04/10/2019 23:30",
+      "matricula": "LVGKO",
+      "posicion": "M13",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "209",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "JFK",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -4787,6 +4787,25 @@
       "ruta": "ASU",
       "via": "",
       "remark": "",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "G3",
+      "vuelo": "7470",
+      "st": "05/10/2019 01:05",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "083",
+      "chkTo": "088",
+      "puerta": "",
+      "ruta": "REC",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     }
   ]
