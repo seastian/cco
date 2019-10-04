@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/10/2019 13:39",
+  "lastUpdate": "04/10/2019 13:44",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3543,7 +3543,7 @@
       "matricula": "LVGGK",
       "posicion": "18A",
       "et": "4/10/2019 13:20",
-      "at": "",
+      "at": "4/10/2019 13:42",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3551,7 +3551,7 @@
       "puerta": "24",
       "ruta": "USH",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
