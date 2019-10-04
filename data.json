@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/10/2019 00:47",
+  "lastUpdate": "04/10/2019 00:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -559,7 +559,7 @@
       "st": "04/10/2019 07:05",
       "matricula": "CCCXJ",
       "posicion": "",
-      "et": "4/10/2019 08:01",
+      "et": "4/10/2019 07:50",
       "at": "",
       "term": "A",
       "sector": "",
@@ -3760,7 +3760,7 @@
       "puerta": "03",
       "ruta": "PTY",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
