@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/10/2019 05:39",
+  "lastUpdate": "04/10/2019 05:45",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1240,20 +1240,20 @@
       "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1293",
-      "st": "03/10/2019 17:45",
-      "matricula": "LVGUC",
-      "posicion": "17B",
-      "et": "3/10/2019 17:44",
-      "at": "3/10/2019 17:42",
+      "st": "04/10/2019 17:45",
+      "matricula": "LVFQC",
+      "posicion": "",
+      "et": "",
+      "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "8",
-      "lF": "008",
+      "cinta": "",
+      "lF": "",
       "ruta": "GIG",
       "via": "",
-      "remark": "ATE",
+      "remark": "",
       "sanidad": "NO",
-      "pax": "142"
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -3703,7 +3703,7 @@
       "puerta": "10",
       "ruta": "GRU",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
