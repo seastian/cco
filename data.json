@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/10/2019 00:46",
+  "lastUpdate": "05/10/2019 00:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3771,7 +3771,7 @@
       "matricula": "LVHFQ",
       "posicion": "52B",
       "et": "",
-      "at": "",
+      "at": "5/10/2019 00:51",
       "term": "A",
       "sector": "AP",
       "chkFrom": "018",
@@ -3779,7 +3779,7 @@
       "puerta": "12",
       "ruta": "ASU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
