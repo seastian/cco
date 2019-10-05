@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/10/2019 14:42",
+  "lastUpdate": "05/10/2019 14:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2150,6 +2150,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "55GV",
+      "st": "05/10/2019 11:30",
+      "matricula": "N55GV",
+      "posicion": "43",
+      "et": "",
+      "at": "",
+      "term": "FBO",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "ROS",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO",
+      "pax": "0"
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "AU",
       "vuelo": "2045",
       "st": "05/10/2019 12:00",
@@ -2360,25 +2379,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "PRV",
-      "vuelo": "CVO",
-      "st": "05/10/2019 14:00",
-      "matricula": "LQCVO",
-      "posicion": "40",
-      "et": "",
-      "at": "5/10/2019 14:37",
-      "term": "FBO",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "UAQ",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "PRV",
       "vuelo": "899FS",
       "st": "05/10/2019 14:00",
       "matricula": "N899FS",
@@ -2394,6 +2394,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "6"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "CVO",
+      "st": "05/10/2019 14:00",
+      "matricula": "LQCVO",
+      "posicion": "40",
+      "et": "",
+      "at": "5/10/2019 14:37",
+      "term": "FBO",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "UAQ",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -2413,25 +2432,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "166"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "55GV",
-      "st": "05/10/2019 11:30",
-      "matricula": "N55GV",
-      "posicion": "43",
-      "et": "5/10/2019 14:30",
-      "at": "",
-      "term": "FBO",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "ROS",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -4862,6 +4862,25 @@
       "puerta": "",
       "ruta": "SSA",
       "via": "BPS",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "G3",
+      "vuelo": "7649",
+      "st": "06/10/2019 02:45",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "068",
+      "chkTo": "074",
+      "puerta": "",
+      "ruta": "GIG",
+      "via": "",
       "remark": "HOR",
       "sanidad": "NO"
     }
