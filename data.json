@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/10/2019 12:09",
+  "lastUpdate": "05/10/2019 12:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -272,9 +272,9 @@
       "aerolinea": "G3",
       "vuelo": "7682",
       "st": "05/10/2019 14:55",
-      "matricula": "",
+      "matricula": "PRGTB",
       "posicion": "",
-      "et": "",
+      "et": "5/10/2019 14:55",
       "at": "",
       "term": "A",
       "sector": "",
@@ -282,9 +282,9 @@
       "lF": "",
       "ruta": "GRU",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "135"
     },
     {
       "tipo": "arribo",
@@ -388,7 +388,7 @@
       "st": "05/10/2019 15:53",
       "matricula": "LVBFO",
       "posicion": "",
-      "et": "",
+      "et": "5/10/2019 15:50",
       "at": "",
       "term": "A",
       "sector": "",
@@ -396,9 +396,9 @@
       "lF": "",
       "ruta": "LIM",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "173"
     },
     {
       "tipo": "arribo",
@@ -3399,7 +3399,7 @@
       "puerta": "09",
       "ruta": "BCN",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3448,7 +3448,7 @@
       "matricula": "LVFUB",
       "posicion": "52B",
       "et": "",
-      "at": "",
+      "at": "5/10/2019 12:14",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3456,7 +3456,7 @@
       "puerta": "26",
       "ruta": "FTE",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3486,7 +3486,7 @@
       "matricula": "PRGUM",
       "posicion": "07",
       "et": "",
-      "at": "",
+      "at": "5/10/2019 12:10",
       "term": "A",
       "sector": "AP",
       "chkFrom": "068",
@@ -3494,7 +3494,7 @@
       "puerta": "06",
       "ruta": "JPA",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3570,7 +3570,7 @@
       "puerta": "17",
       "ruta": "FCO",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3627,7 +3627,7 @@
       "puerta": "10",
       "ruta": "GRU",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3958,7 +3958,7 @@
       "aerolinea": "G3",
       "vuelo": "7675",
       "st": "05/10/2019 16:30",
-      "matricula": "",
+      "matricula": "PRGTB",
       "posicion": "",
       "et": "",
       "at": "",
