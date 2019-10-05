@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/10/2019 07:31",
+  "lastUpdate": "05/10/2019 07:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -79,6 +79,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "465",
+      "st": "05/10/2019 08:58",
+      "matricula": "CCBEI",
+      "posicion": "",
+      "et": "5/10/2019 08:50",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "203"
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "PZ",
       "vuelo": "1311",
       "st": "05/10/2019 08:55",
@@ -95,25 +114,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "168"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "465",
-      "st": "05/10/2019 08:58",
-      "matricula": "CCBEI",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -2460,14 +2460,14 @@
       "matricula": "GYMMR",
       "posicion": "08",
       "et": "5/10/2019 07:30",
-      "at": "",
+      "at": "5/10/2019 07:36",
       "term": "A",
       "sector": "",
       "cinta": "5",
       "lF": "001",
       "ruta": "LHR",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "280"
     },
@@ -3676,7 +3676,7 @@
       "matricula": "LVGBK",
       "posicion": "23B",
       "et": "",
-      "at": "",
+      "at": "5/10/2019 07:33",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3684,7 +3684,7 @@
       "puerta": "24",
       "ruta": "ROS",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3798,7 +3798,7 @@
       "puerta": "01",
       "ruta": "GIG",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4339,7 +4339,7 @@
       "vuelo": "7868",
       "st": "05/10/2019 13:10",
       "matricula": "LVIQW",
-      "posicion": "06",
+      "posicion": "18",
       "et": "",
       "at": "",
       "term": "A",
