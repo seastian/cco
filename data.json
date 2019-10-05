@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/10/2019 06:28",
+  "lastUpdate": "05/10/2019 06:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -19,25 +19,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7471",
-      "st": "05/10/2019 06:40",
-      "matricula": "PRGUZ",
-      "posicion": "02",
-      "et": "5/10/2019 06:41",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "5",
-      "lF": "001",
-      "ruta": "REC",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "120"
     },
     {
       "tipo": "arribo",
@@ -1447,25 +1428,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AU",
-      "vuelo": "2709",
-      "st": "04/10/2019 20:00",
-      "matricula": "LVCKZ",
-      "posicion": "23A",
-      "et": "4/10/2019 19:59",
-      "at": "4/10/2019 20:00",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "11",
-      "lF": "017",
-      "ruta": "ROS",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "89"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1135",
       "st": "04/10/2019 20:30",
@@ -1482,6 +1444,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "261"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AU",
+      "vuelo": "2709",
+      "st": "04/10/2019 20:00",
+      "matricula": "LVCKZ",
+      "posicion": "23A",
+      "et": "4/10/2019 19:59",
+      "at": "4/10/2019 20:00",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "11",
+      "lF": "017",
+      "ruta": "ROS",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "89"
     },
     {
       "tipo": "arribo",
@@ -2489,6 +2470,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "G3",
+      "vuelo": "7471",
+      "st": "05/10/2019 06:40",
+      "matricula": "PRGUZ",
+      "posicion": "02",
+      "et": "5/10/2019 06:41",
+      "at": "5/10/2019 06:31",
+      "term": "A",
+      "sector": "",
+      "cinta": "5",
+      "lF": "001",
+      "ruta": "REC",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "120"
     },
     {
       "tipo": "partida",
@@ -3760,7 +3760,7 @@
       "puerta": "25",
       "ruta": "COR",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3817,7 +3817,7 @@
       "puerta": "24",
       "ruta": "ROS",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
