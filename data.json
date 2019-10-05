@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/10/2019 02:32",
+  "lastUpdate": "05/10/2019 02:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1181,25 +1181,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "H2",
-      "vuelo": "507",
-      "st": "04/10/2019 14:45",
-      "matricula": "CCAMP",
-      "posicion": "08",
-      "et": "4/10/2019 14:35",
-      "at": "4/10/2019 14:35",
-      "term": "A",
-      "sector": "",
-      "cinta": "2",
-      "lF": "001",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "145"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1028",
       "st": "04/10/2019 14:55",
@@ -1277,25 +1258,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "AR",
-      "vuelo": "1229",
-      "st": "04/10/2019 15:05",
-      "matricula": "LVFUB",
-      "posicion": "16B",
-      "et": "4/10/2019 15:29",
-      "at": "4/10/2019 15:35",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "010",
-      "ruta": "SSA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "133"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
       "vuelo": "1529",
       "st": "04/10/2019 15:25",
       "matricula": "LVBYY",
@@ -1311,6 +1273,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "117"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1229",
+      "st": "04/10/2019 15:05",
+      "matricula": "LVFUB",
+      "posicion": "16B",
+      "et": "4/10/2019 15:29",
+      "at": "4/10/2019 15:35",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "010",
+      "ruta": "SSA",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "133"
     },
     {
       "tipo": "arribo",
@@ -2459,7 +2440,7 @@
       "st": "05/10/2019 02:35",
       "matricula": "PRMAP",
       "posicion": "07",
-      "et": "5/10/2019 02:20",
+      "et": "",
       "at": "",
       "term": "A",
       "sector": "",
@@ -2467,7 +2448,7 @@
       "lF": "002",
       "ruta": "GRU",
       "via": "",
-      "remark": "EST",
+      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
