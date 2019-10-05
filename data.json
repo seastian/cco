@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/10/2019 14:00",
+  "lastUpdate": "05/10/2019 14:05",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -121,7 +121,7 @@
       "vuelo": "1529",
       "st": "05/10/2019 15:25",
       "matricula": "LVCAD",
-      "posicion": "",
+      "posicion": "16B",
       "et": "",
       "at": "",
       "term": "C",
@@ -2403,14 +2403,14 @@
       "matricula": "N899FS",
       "posicion": "36B",
       "et": "",
-      "at": "",
+      "at": "5/10/2019 14:05",
       "term": "FBO",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "GIG",
       "via": "",
-      "remark": "HOR",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "6"
     },
@@ -3646,7 +3646,7 @@
       "puerta": "04",
       "ruta": "YYZ",
       "via": "SCL",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
