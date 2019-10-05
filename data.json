@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/10/2019 19:38",
+  "lastUpdate": "05/10/2019 19:43",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -284,7 +284,7 @@
       "via": "",
       "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "173"
     },
     {
       "tipo": "arribo",
@@ -1178,25 +1178,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "328"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "UX",
-      "vuelo": "041",
-      "st": "05/10/2019 07:35",
-      "matricula": "ECNCY",
-      "posicion": "05",
-      "et": "5/10/2019 07:32",
-      "at": "5/10/2019 07:40",
-      "term": "A",
-      "sector": "",
-      "cinta": "4",
-      "lF": "004",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "307"
     },
     {
       "tipo": "arribo",
@@ -3874,7 +3855,7 @@
       "puerta": "20",
       "ruta": "ATL",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
