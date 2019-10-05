@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/10/2019 14:31",
+  "lastUpdate": "05/10/2019 14:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -103,7 +103,7 @@
       "st": "05/10/2019 15:53",
       "matricula": "LVBFO",
       "posicion": "03",
-      "et": "5/10/2019 15:50",
+      "et": "5/10/2019 15:45",
       "at": "",
       "term": "A",
       "sector": "",
@@ -1193,6 +1193,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "VCP",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "JJ",
+      "vuelo": "8010",
+      "st": "06/10/2019 02:35",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "GRU",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -2365,14 +2384,14 @@
       "matricula": "LQCVO",
       "posicion": "40",
       "et": "",
-      "at": "",
+      "at": "5/10/2019 14:37",
       "term": "FBO",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "UAQ",
       "via": "",
-      "remark": "HOR",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
     },
@@ -3627,7 +3646,7 @@
       "puerta": "18",
       "ruta": "GIG",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
