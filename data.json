@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/10/2019 15:39",
+  "lastUpdate": "05/10/2019 15:44",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3657,7 +3657,7 @@
       "matricula": "PHBHP",
       "posicion": "11",
       "et": "",
-      "at": "",
+      "at": "5/10/2019 15:40",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "201",
@@ -3665,7 +3665,7 @@
       "puerta": "14",
       "ruta": "AMS",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3741,7 +3741,7 @@
       "puerta": "10",
       "ruta": "VVI",
       "via": "",
-      "remark": "HOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3760,7 +3760,7 @@
       "puerta": "24",
       "ruta": "USH",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3779,7 +3779,7 @@
       "puerta": "07",
       "ruta": "GRU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
