@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/10/2019 02:06",
+  "lastUpdate": "05/10/2019 02:11",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -4918,6 +4918,25 @@
       "chkTo": "012",
       "puerta": "",
       "ruta": "LHR",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "G3",
+      "vuelo": "7453",
+      "st": "05/10/2019 14:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "068",
+      "chkTo": "074",
+      "puerta": "",
+      "ruta": "GRU",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
