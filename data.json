@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/10/2019 17:22",
+  "lastUpdate": "05/10/2019 17:27",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2384,14 +2384,14 @@
       "matricula": "LVGVB",
       "posicion": "17B",
       "et": "5/10/2019 17:20",
-      "at": "",
+      "at": "5/10/2019 17:24",
       "term": "A",
       "sector": "",
       "cinta": "9",
       "lF": "010",
       "ruta": "GIG",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "109"
     },
@@ -3752,7 +3752,7 @@
       "matricula": "LVBFO",
       "posicion": "03",
       "et": "",
-      "at": "",
+      "at": "5/10/2019 17:25",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3760,7 +3760,7 @@
       "puerta": "27",
       "ruta": "IGR",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
