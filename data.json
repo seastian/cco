@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/10/2019 01:50",
+  "lastUpdate": "05/10/2019 01:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3760,7 +3760,7 @@
       "puerta": "02",
       "ruta": "REC",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3771,7 +3771,7 @@
       "matricula": "CXMAS",
       "posicion": "60",
       "et": "",
-      "at": "",
+      "at": "5/10/2019 01:30",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -3779,7 +3779,7 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
