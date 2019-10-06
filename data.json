@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/10/2019 18:17",
+  "lastUpdate": "06/10/2019 18:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -50,8 +50,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "2",
+      "lF": "002",
       "ruta": "SCL",
       "via": "",
       "remark": "EST",
@@ -70,7 +70,7 @@
       "term": "A",
       "sector": "",
       "cinta": "1",
-      "lF": "",
+      "lF": "001",
       "ruta": "MAD",
       "via": "",
       "remark": "EST",
@@ -2398,25 +2398,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1472",
-      "st": "06/10/2019 06:10",
-      "matricula": "LVCAP",
-      "posicion": "18A",
-      "et": "",
-      "at": "6/10/2019 06:19",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "24",
-      "ruta": "TUC",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "1428",
       "st": "06/10/2019 06:40",
       "matricula": "LVFQC",
@@ -3836,7 +3817,7 @@
       "puerta": "17",
       "ruta": "GRU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4250,7 +4231,7 @@
       "term": "A",
       "sector": "AP",
       "chkFrom": "027",
-      "chkTo": "034",
+      "chkTo": "035",
       "puerta": "04",
       "ruta": "DXB",
       "via": "GIG",
