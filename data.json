@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/10/2019 02:09",
+  "lastUpdate": "06/10/2019 02:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2302,25 +2302,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AU",
-      "vuelo": "2392",
-      "st": "05/10/2019 13:00",
-      "matricula": "LVFPS",
-      "posicion": "25A",
-      "et": "5/10/2019 13:50",
-      "at": "5/10/2019 14:13",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "13",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "G3",
       "vuelo": "7453",
       "st": "05/10/2019 14:10",
@@ -2473,25 +2454,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "OB",
-      "vuelo": "709",
-      "st": "05/10/2019 16:10",
-      "matricula": "CP2881",
-      "posicion": "10",
-      "et": "",
-      "at": "5/10/2019 16:18",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "013",
-      "chkTo": "018",
-      "puerta": "10",
-      "ruta": "VVI",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "UC",
       "vuelo": "1106",
       "st": "05/10/2019 16:10",
@@ -2507,6 +2469,25 @@
       "ruta": "LIM",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "OB",
+      "vuelo": "709",
+      "st": "05/10/2019 16:10",
+      "matricula": "CP2881",
+      "posicion": "10",
+      "et": "",
+      "at": "5/10/2019 16:18",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "013",
+      "chkTo": "018",
+      "puerta": "10",
+      "ruta": "VVI",
+      "via": "",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
