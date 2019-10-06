@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/10/2019 17:15",
+  "lastUpdate": "06/10/2019 17:20",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -4547,8 +4547,8 @@
       "aerolinea": "NZ",
       "vuelo": "31",
       "st": "06/10/2019 23:30",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "ZKOKB",
+      "posicion": "52",
       "et": "",
       "at": "",
       "term": "A",
