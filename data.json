@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/10/2019 16:30",
+  "lastUpdate": "06/10/2019 16:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1083,25 +1083,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1141",
-      "st": "06/10/2019 04:40",
-      "matricula": "LVGHQ",
-      "posicion": "12",
-      "et": "6/10/2019 04:40",
-      "at": "6/10/2019 04:34",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "008",
-      "ruta": "FCO",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "214"
     },
     {
       "tipo": "arribo",
@@ -3714,7 +3695,7 @@
       "matricula": "LVGUB",
       "posicion": "16B",
       "et": "6/10/2019 16:30",
-      "at": "",
+      "at": "6/10/2019 16:36",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3722,7 +3703,7 @@
       "puerta": "23",
       "ruta": "SCL",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
