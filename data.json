@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/10/2019 14:14",
+  "lastUpdate": "06/10/2019 14:19",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -27,7 +27,7 @@
       "st": "06/10/2019 14:55",
       "matricula": "PRVBG",
       "posicion": "06",
-      "et": "6/10/2019 14:50",
+      "et": "6/10/2019 14:40",
       "at": "",
       "term": "A",
       "sector": "",
@@ -3600,7 +3600,7 @@
       "matricula": "PRGUM",
       "posicion": "06",
       "et": "6/10/2019 14:20",
-      "at": "",
+      "at": "6/10/2019 14:19",
       "term": "A",
       "sector": "AP",
       "chkFrom": "068",
@@ -3608,7 +3608,7 @@
       "puerta": "05",
       "ruta": "GRU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
