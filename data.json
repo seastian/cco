@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/10/2019 18:32",
+  "lastUpdate": "06/10/2019 18:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1216,25 +1216,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "154"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AZ",
-      "vuelo": "680",
-      "st": "06/10/2019 06:45",
-      "matricula": "EIISE",
-      "posicion": "13",
-      "et": "6/10/2019 06:46",
-      "at": "6/10/2019 06:34",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "009",
-      "ruta": "FCO",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "293"
     },
     {
       "tipo": "arribo",
@@ -3779,7 +3760,7 @@
       "puerta": "16",
       "ruta": "SCL",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3798,7 +3779,7 @@
       "puerta": "05",
       "ruta": "GRU",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3855,7 +3836,7 @@
       "puerta": "04",
       "ruta": "SCL",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3947,7 +3928,7 @@
       "sector": "CPI",
       "chkFrom": "207",
       "chkTo": "214",
-      "puerta": "",
+      "puerta": "20",
       "ruta": "ATL",
       "via": "",
       "remark": "HOR",
