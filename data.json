@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/10/2019 15:11",
+  "lastUpdate": "06/10/2019 15:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3684,7 +3684,7 @@
       "puerta": "16",
       "ruta": "GRU",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4786,6 +4786,25 @@
       "puerta": "",
       "ruta": "GIG",
       "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1324",
+      "st": "07/10/2019 03:15",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "PUJ",
+      "via": "RES",
       "remark": "HOR",
       "sanidad": "NO"
     }
