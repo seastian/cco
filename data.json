@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/10/2019 14:09",
+  "lastUpdate": "06/10/2019 14:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -117,6 +117,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1873",
+      "st": "06/10/2019 16:15",
+      "matricula": "LVFVM",
+      "posicion": "",
+      "et": "6/10/2019 15:50",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "BRC",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "130"
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "4M",
       "vuelo": "7901",
       "st": "06/10/2019 15:53",
@@ -186,25 +205,6 @@
       "cinta": "",
       "lF": "",
       "ruta": "MDZ",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1873",
-      "st": "06/10/2019 16:15",
-      "matricula": "LVFVM",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "BRC",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -3646,7 +3646,7 @@
       "puerta": "21",
       "ruta": "GIG",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
