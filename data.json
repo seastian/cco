@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/10/2019 14:35",
+  "lastUpdate": "06/10/2019 14:40",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3619,7 +3619,7 @@
       "matricula": "LVCIH",
       "posicion": "22A",
       "et": "6/10/2019 14:30",
-      "at": "",
+      "at": "6/10/2019 14:40",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3627,7 +3627,7 @@
       "puerta": "13",
       "ruta": "MVD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3665,7 +3665,7 @@
       "puerta": "04",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3703,7 +3703,7 @@
       "puerta": "16",
       "ruta": "GRU",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
