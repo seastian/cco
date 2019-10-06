@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/10/2019 15:32",
+  "lastUpdate": "06/10/2019 15:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -197,7 +197,7 @@
       "vuelo": "1293",
       "st": "06/10/2019 17:45",
       "matricula": "LVGVC",
-      "posicion": "",
+      "posicion": "17B",
       "et": "6/10/2019 17:30",
       "at": "",
       "term": "A",
@@ -3619,7 +3619,7 @@
       "matricula": "CCAHE",
       "posicion": "05",
       "et": "",
-      "at": "",
+      "at": "6/10/2019 15:35",
       "term": "A",
       "sector": "AP",
       "chkFrom": "001",
@@ -3627,7 +3627,7 @@
       "puerta": "04",
       "ruta": "SCL",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3741,7 +3741,7 @@
       "puerta": "02",
       "ruta": "GRU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4491,14 +4491,14 @@
       "vuelo": "1302",
       "st": "06/10/2019 23:00",
       "matricula": "LVFNL",
-      "posicion": "14",
+      "posicion": "13",
       "et": "",
       "at": "",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "209",
       "chkTo": "240",
-      "puerta": "19",
+      "puerta": "17",
       "ruta": "MIA",
       "via": "",
       "remark": "HOR",
