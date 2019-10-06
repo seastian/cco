@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/10/2019 22:25",
+  "lastUpdate": "05/10/2019 22:30",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2198,7 +2198,7 @@
       "term": "A",
       "sector": "",
       "cinta": "6",
-      "lF": "008",
+      "lF": "009",
       "ruta": "BOG",
       "via": "",
       "remark": "ATE",
@@ -3733,7 +3733,7 @@
       "matricula": "N823AN",
       "posicion": "10",
       "et": "",
-      "at": "",
+      "at": "5/10/2019 22:29",
       "term": "A",
       "sector": "AP",
       "chkFrom": "001",
@@ -3741,7 +3741,7 @@
       "puerta": "10",
       "ruta": "LAX",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3779,7 +3779,7 @@
       "puerta": "18",
       "ruta": "FCO",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3836,7 +3836,7 @@
       "puerta": "16",
       "ruta": "MIA",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3893,7 +3893,7 @@
       "puerta": "12",
       "ruta": "VVI",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -4335,25 +4335,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1428",
-      "st": "06/10/2019 06:40",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "SLA",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "JJ",
       "vuelo": "8097",
       "st": "06/10/2019 06:40",
@@ -4374,8 +4355,8 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1500",
-      "st": "06/10/2019 06:50",
+      "vuelo": "1428",
+      "st": "06/10/2019 06:40",
       "matricula": "",
       "posicion": "",
       "et": "",
@@ -4385,7 +4366,7 @@
       "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
-      "ruta": "COR",
+      "ruta": "SLA",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -4411,6 +4392,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1500",
+      "st": "06/10/2019 06:50",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "COR",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "G3",
       "vuelo": "7693",
       "st": "06/10/2019 06:55",
@@ -4430,25 +4430,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AV",
-      "vuelo": "088",
-      "st": "06/10/2019 07:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "059",
-      "chkTo": "067",
-      "puerta": "",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AU",
       "vuelo": "2462",
       "st": "06/10/2019 07:00",
@@ -4462,6 +4443,25 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "MDZ",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AV",
+      "vuelo": "088",
+      "st": "06/10/2019 07:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "059",
+      "chkTo": "067",
+      "puerta": "",
+      "ruta": "BOG",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
