@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/10/2019 11:23",
+  "lastUpdate": "06/10/2019 11:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1235,6 +1235,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1291",
+      "st": "06/10/2019 23:25",
+      "matricula": "LVBYY",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "8",
+      "lF": "007",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": "42"
     },
     {
       "tipo": "arribo",
@@ -3277,7 +3296,7 @@
       "matricula": "PTXPG",
       "posicion": "08",
       "et": "",
-      "at": "",
+      "at": "6/10/2019 11:27",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3285,7 +3304,7 @@
       "puerta": "07",
       "ruta": "GRU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3323,7 +3342,7 @@
       "puerta": "01",
       "ruta": "PTY",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3342,7 +3361,7 @@
       "puerta": "12",
       "ruta": "SCL",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3437,7 +3456,7 @@
       "puerta": "24",
       "ruta": "FTE",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
