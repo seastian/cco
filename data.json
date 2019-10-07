@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/10/2019 02:59",
+  "lastUpdate": "07/10/2019 03:04",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1238,25 +1238,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1107",
-      "st": "06/10/2019 15:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "NZ",
       "vuelo": "30",
       "st": "06/10/2019 15:40",
@@ -1273,25 +1254,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "267"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "DLR",
-      "st": "06/10/2019 15:10",
-      "matricula": "DADLR",
-      "posicion": "37",
-      "et": "",
-      "at": "6/10/2019 15:02",
-      "term": "FBO",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "RGA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -1543,25 +1505,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "AR",
-      "vuelo": "1303",
-      "st": "06/10/2019 19:30",
-      "matricula": "LVFNL",
-      "posicion": "13",
-      "et": "6/10/2019 18:30",
-      "at": "6/10/2019 18:33",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "010",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "164"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
       "vuelo": "1253",
       "st": "06/10/2019 18:00",
       "matricula": "LVCXS",
@@ -1580,22 +1523,22 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "IB",
-      "vuelo": "6845",
-      "st": "06/10/2019 19:50",
-      "matricula": "ECNDR",
-      "posicion": "03",
-      "et": "6/10/2019 19:00",
-      "at": "6/10/2019 18:57",
+      "aerolinea": "AR",
+      "vuelo": "1303",
+      "st": "06/10/2019 19:30",
+      "matricula": "LVFNL",
+      "posicion": "13",
+      "et": "6/10/2019 18:30",
+      "at": "6/10/2019 18:33",
       "term": "A",
       "sector": "",
-      "cinta": "1",
-      "lF": "001",
-      "ruta": "MAD",
+      "cinta": "9",
+      "lF": "010",
+      "ruta": "MIA",
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": "320"
+      "pax": "164"
     },
     {
       "tipo": "arribo",
@@ -1615,6 +1558,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "IB",
+      "vuelo": "6845",
+      "st": "06/10/2019 19:50",
+      "matricula": "ECNDR",
+      "posicion": "03",
+      "et": "6/10/2019 19:00",
+      "at": "6/10/2019 18:57",
+      "term": "A",
+      "sector": "",
+      "cinta": "1",
+      "lF": "001",
+      "ruta": "MAD",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "320"
     },
     {
       "tipo": "arribo",
@@ -3665,7 +3627,7 @@
       "puerta": "23",
       "ruta": "PUJ",
       "via": "RES",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
