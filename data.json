@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/10/2019 02:17",
+  "lastUpdate": "08/10/2019 02:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -139,9 +139,9 @@
       "aerolinea": "AV",
       "vuelo": "965",
       "st": "08/10/2019 04:25",
-      "matricula": "",
+      "matricula": "N968AV",
       "posicion": "",
-      "et": "",
+      "et": "8/10/2019 04:16",
       "at": "",
       "term": "A",
       "sector": "",
@@ -149,9 +149,9 @@
       "lF": "",
       "ruta": "LIM",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "240"
     },
     {
       "tipo": "arribo",
@@ -177,9 +177,9 @@
       "aerolinea": "AV",
       "vuelo": "087",
       "st": "08/10/2019 05:30",
-      "matricula": "",
+      "matricula": "N691AV",
       "posicion": "",
-      "et": "",
+      "et": "8/10/2019 05:45",
       "at": "",
       "term": "A",
       "sector": "",
@@ -187,9 +187,9 @@
       "lF": "",
       "ruta": "BOG",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "111"
     },
     {
       "tipo": "arribo",
@@ -3882,7 +3882,7 @@
       "aerolinea": "AV",
       "vuelo": "964",
       "st": "08/10/2019 05:55",
-      "matricula": "",
+      "matricula": "N968AV",
       "posicion": "",
       "et": "",
       "at": "",
@@ -4072,7 +4072,7 @@
       "aerolinea": "AV",
       "vuelo": "088",
       "st": "08/10/2019 07:00",
-      "matricula": "",
+      "matricula": "N691AV",
       "posicion": "",
       "et": "",
       "at": "",
