@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/10/2019 17:42",
+  "lastUpdate": "09/10/2019 17:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1086,25 +1086,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "5X",
-      "vuelo": "414",
-      "st": "09/10/2019 05:28",
-      "matricula": "N330UP",
-      "posicion": "55",
-      "et": "9/10/2019 05:40",
-      "at": "9/10/2019 05:45",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "SCL",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "ZP",
       "vuelo": "820",
       "st": "09/10/2019 05:50",
@@ -1524,25 +1505,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "AR",
-      "vuelo": "1249",
-      "st": "09/10/2019 09:55",
-      "matricula": "LVFQY",
-      "posicion": "17B",
-      "et": "9/10/2019 09:42",
-      "at": "9/10/2019 09:52",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "009",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "137"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
       "vuelo": "1231",
       "st": "09/10/2019 10:00",
       "matricula": "LVBZO",
@@ -1558,6 +1520,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "70"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1249",
+      "st": "09/10/2019 09:55",
+      "matricula": "LVFQY",
+      "posicion": "17B",
+      "et": "9/10/2019 09:42",
+      "at": "9/10/2019 09:52",
+      "term": "A",
+      "sector": "",
+      "cinta": "7",
+      "lF": "009",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "137"
     },
     {
       "tipo": "arribo",
@@ -1732,25 +1713,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "455",
-      "st": "09/10/2019 10:48",
-      "matricula": "CCBAE",
-      "posicion": "04",
-      "et": "9/10/2019 10:50",
-      "at": "9/10/2019 10:49",
-      "term": "A",
-      "sector": "",
-      "cinta": "4",
-      "lF": "004",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "151"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "G3",
       "vuelo": "7650",
       "st": "09/10/2019 11:00",
@@ -1767,6 +1729,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "129"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "455",
+      "st": "09/10/2019 10:48",
+      "matricula": "CCBAE",
+      "posicion": "04",
+      "et": "9/10/2019 10:50",
+      "at": "9/10/2019 10:49",
+      "term": "A",
+      "sector": "",
+      "cinta": "4",
+      "lF": "004",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "151"
     },
     {
       "tipo": "arribo",
@@ -2055,25 +2036,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AU",
-      "vuelo": "2393",
-      "st": "09/10/2019 16:10",
-      "matricula": "LVGIK",
-      "posicion": "25A",
-      "et": "9/10/2019 15:50",
-      "at": "9/10/2019 15:50",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "007",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "41"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "4M",
       "vuelo": "7901",
       "st": "09/10/2019 15:53",
@@ -2090,6 +2052,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "171"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AU",
+      "vuelo": "2393",
+      "st": "09/10/2019 16:10",
+      "matricula": "LVGIK",
+      "posicion": "25A",
+      "et": "9/10/2019 15:50",
+      "at": "9/10/2019 15:50",
+      "term": "A",
+      "sector": "",
+      "cinta": "8",
+      "lF": "007",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "41"
     },
     {
       "tipo": "arribo",
@@ -2311,7 +2292,7 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
+      "cinta": "7",
       "lF": "",
       "ruta": "GIG",
       "via": "",
@@ -3600,7 +3581,7 @@
       "matricula": "LVFUX",
       "posicion": "04",
       "et": "9/10/2019 17:10",
-      "at": "",
+      "at": "9/10/2019 17:43",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3608,7 +3589,7 @@
       "puerta": "27",
       "ruta": "BRC",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3665,7 +3646,7 @@
       "puerta": "19",
       "ruta": "POA",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3779,7 +3760,7 @@
       "puerta": "03",
       "ruta": "GRU",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
