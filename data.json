@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/10/2019 12:45",
+  "lastUpdate": "09/10/2019 12:50",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2359,25 +2359,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "PZ",
-      "vuelo": "1305",
-      "st": "09/10/2019 00:25",
-      "matricula": "PRMBH",
-      "posicion": "06",
-      "et": "",
-      "at": "9/10/2019 00:50",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "05",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "M3",
       "vuelo": "8492",
       "st": "09/10/2019 02:10",
@@ -2815,25 +2796,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1500",
-      "st": "09/10/2019 06:50",
-      "matricula": "LVGUB",
-      "posicion": "18B",
-      "et": "",
-      "at": "9/10/2019 06:54",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "26",
-      "ruta": "COR",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "ZP",
       "vuelo": "821",
       "st": "09/10/2019 06:50",
@@ -2847,6 +2809,25 @@
       "chkTo": "075",
       "puerta": "12",
       "ruta": "ASU",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1500",
+      "st": "09/10/2019 06:50",
+      "matricula": "LVGUB",
+      "posicion": "18B",
+      "et": "",
+      "at": "9/10/2019 06:54",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "26",
+      "ruta": "COR",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -3608,7 +3589,7 @@
       "puerta": "01",
       "ruta": "VCP",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3627,7 +3608,7 @@
       "puerta": "02",
       "ruta": "MAD",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3646,7 +3627,7 @@
       "puerta": "05",
       "ruta": "LHR",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3665,7 +3646,7 @@
       "puerta": "18",
       "ruta": "CDG",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
