@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/10/2019 02:31",
+  "lastUpdate": "09/10/2019 02:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1124,25 +1124,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "H2",
-      "vuelo": "507",
-      "st": "08/10/2019 14:45",
-      "matricula": "CCAFZ",
-      "posicion": "02",
-      "et": "8/10/2019 14:33",
-      "at": "8/10/2019 14:34",
-      "term": "A",
-      "sector": "",
-      "cinta": "1",
-      "lF": "001",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "131"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1028",
       "st": "08/10/2019 14:55",
@@ -1523,25 +1504,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "9469",
-      "st": "08/10/2019 19:56",
-      "matricula": "PTXPL",
-      "posicion": "50A",
-      "et": "8/10/2019 19:50",
-      "at": "8/10/2019 19:49",
-      "term": "A",
-      "sector": "",
-      "cinta": "2",
-      "lF": "002",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "160"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "LA",
       "vuelo": "459",
       "st": "08/10/2019 20:12",
@@ -1558,6 +1520,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "JJ",
+      "vuelo": "9469",
+      "st": "08/10/2019 19:56",
+      "matricula": "PTXPL",
+      "posicion": "50A",
+      "et": "8/10/2019 19:50",
+      "at": "8/10/2019 19:49",
+      "term": "A",
+      "sector": "",
+      "cinta": "2",
+      "lF": "002",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "160"
     },
     {
       "tipo": "arribo",
