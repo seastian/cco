@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/10/2019 11:12",
+  "lastUpdate": "09/10/2019 11:18",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -64,7 +64,7 @@
       "vuelo": "702",
       "st": "09/10/2019 13:30",
       "matricula": "PHBHL",
-      "posicion": "",
+      "posicion": "11",
       "et": "",
       "at": "",
       "term": "A",
@@ -102,7 +102,7 @@
       "vuelo": "7688",
       "st": "09/10/2019 13:30",
       "matricula": "PRGTV",
-      "posicion": "",
+      "posicion": "04",
       "et": "9/10/2019 13:46",
       "at": "",
       "term": "A",
@@ -3342,7 +3342,7 @@
       "puerta": "01",
       "ruta": "PTY",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3399,7 +3399,7 @@
       "puerta": "10",
       "ruta": "FLN",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3513,7 +3513,7 @@
       "puerta": "22",
       "ruta": "MAD",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3532,7 +3532,7 @@
       "puerta": "27",
       "ruta": "IGR",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3719,7 +3719,7 @@
       "sector": "CPI",
       "chkFrom": "211",
       "chkTo": "220",
-      "puerta": "19",
+      "puerta": "18",
       "ruta": "CDG",
       "via": "",
       "remark": "HOR",
@@ -3731,14 +3731,14 @@
       "vuelo": "7453",
       "st": "09/10/2019 14:10",
       "matricula": "PRGTV",
-      "posicion": "",
+      "posicion": "04",
       "et": "",
       "at": "",
       "term": "A",
       "sector": "AP",
       "chkFrom": "068",
       "chkTo": "074",
-      "puerta": "",
+      "puerta": "03",
       "ruta": "GRU",
       "via": "",
       "remark": "HOR",
@@ -3845,14 +3845,14 @@
       "vuelo": "702",
       "st": "09/10/2019 15:40",
       "matricula": "PHBHL",
-      "posicion": "",
+      "posicion": "11",
       "et": "",
       "at": "",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "201",
       "chkTo": "218",
-      "puerta": "",
+      "puerta": "14",
       "ruta": "AMS",
       "via": "",
       "remark": "HOR",
