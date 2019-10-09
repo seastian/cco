@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/10/2019 10:34",
+  "lastUpdate": "09/10/2019 10:40",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2283,44 +2283,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AU",
-      "vuelo": "2762",
-      "st": "08/10/2019 21:30",
-      "matricula": "LVCMA",
-      "posicion": "24B",
-      "et": "",
-      "at": "8/10/2019 22:38",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "24",
-      "ruta": "ROS",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "G3",
-      "vuelo": "7685",
-      "st": "08/10/2019 22:00",
-      "matricula": "PRGUH",
-      "posicion": "02",
-      "et": "",
-      "at": "8/10/2019 22:36",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "068",
-      "chkTo": "074",
-      "puerta": "01",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AA",
       "vuelo": "908",
       "st": "08/10/2019 22:40",
@@ -3380,7 +3342,7 @@
       "puerta": "19",
       "ruta": "GIG",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3456,7 +3418,7 @@
       "puerta": "13",
       "ruta": "SCL",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3475,7 +3437,7 @@
       "puerta": "01",
       "ruta": "PTY",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3851,7 +3813,7 @@
       "term": "C",
       "sector": "CPI",
       "chkFrom": "211",
-      "chkTo": "218",
+      "chkTo": "220",
       "puerta": "19",
       "ruta": "CDG",
       "via": "",
