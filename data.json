@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/10/2019 12:40",
+  "lastUpdate": "09/10/2019 12:45",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -177,9 +177,9 @@
       "aerolinea": "G3",
       "vuelo": "7682",
       "st": "09/10/2019 14:55",
-      "matricula": "",
+      "matricula": "PRGTT",
       "posicion": "",
-      "et": "",
+      "et": "9/10/2019 15:10",
       "at": "",
       "term": "A",
       "sector": "",
@@ -187,7 +187,7 @@
       "lF": "",
       "ruta": "GRU",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -289,25 +289,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "AR",
-      "vuelo": "1413",
-      "st": "09/10/2019 16:15",
-      "matricula": "LVCBF",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MDZ",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
       "vuelo": "1873",
       "st": "09/10/2019 16:15",
       "matricula": "LVFYK",
@@ -319,6 +300,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "BRC",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1413",
+      "st": "09/10/2019 16:15",
+      "matricula": "LVCBF",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MDZ",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -3353,7 +3353,7 @@
       "matricula": "LVBZO",
       "posicion": "22A",
       "et": "",
-      "at": "",
+      "at": "9/10/2019 12:12",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3361,7 +3361,7 @@
       "puerta": "24",
       "ruta": "COR",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3524,7 +3524,7 @@
       "matricula": "EIISD",
       "posicion": "15",
       "et": "",
-      "at": "",
+      "at": "9/10/2019 12:42",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "201",
@@ -3532,7 +3532,7 @@
       "puerta": "20",
       "ruta": "FCO",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3570,7 +3570,7 @@
       "puerta": "13",
       "ruta": "MVD",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3589,7 +3589,7 @@
       "puerta": "17",
       "ruta": "GRU",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3665,7 +3665,7 @@
       "puerta": "18",
       "ruta": "CDG",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3844,7 +3844,7 @@
       "aerolinea": "G3",
       "vuelo": "7675",
       "st": "09/10/2019 16:30",
-      "matricula": "",
+      "matricula": "PRGTT",
       "posicion": "",
       "et": "",
       "at": "",
