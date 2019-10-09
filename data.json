@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/10/2019 12:30",
+  "lastUpdate": "09/10/2019 12:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3467,7 +3467,7 @@
       "matricula": "LVFVH",
       "posicion": "16",
       "et": "",
-      "at": "",
+      "at": "9/10/2019 12:31",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3475,7 +3475,7 @@
       "puerta": "22",
       "ruta": "MAD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3570,7 +3570,7 @@
       "puerta": "25",
       "ruta": "USH",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
