@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/10/2019 13:01",
+  "lastUpdate": "09/10/2019 13:06",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2358,6 +2358,25 @@
       "pax": "146"
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1281",
+      "st": "09/10/2019 13:30",
+      "matricula": "LVFQB",
+      "posicion": "12",
+      "et": "9/10/2019 13:07",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "7",
+      "lF": "009",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "145"
+    },
+    {
       "tipo": "partida",
       "aerolinea": "M3",
       "vuelo": "8492",
@@ -3524,7 +3543,7 @@
       "matricula": "LVFVM",
       "posicion": "17B",
       "et": "",
-      "at": "",
+      "at": "9/10/2019 13:06",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3532,7 +3551,7 @@
       "puerta": "25",
       "ruta": "USH",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3627,7 +3646,7 @@
       "puerta": "05",
       "ruta": "LHR",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3646,7 +3665,7 @@
       "puerta": "18",
       "ruta": "CDG",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
