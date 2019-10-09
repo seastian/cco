@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/10/2019 05:33",
+  "lastUpdate": "09/10/2019 05:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1176,25 +1176,6 @@
       "ruta": "SCL",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8003",
-      "st": "08/10/2019 17:40",
-      "matricula": "PTMXP",
-      "posicion": "03",
-      "et": "8/10/2019 17:42",
-      "at": "8/10/2019 17:34",
-      "term": "A",
-      "sector": "",
-      "cinta": "3",
-      "lF": "003",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -3437,7 +3418,7 @@
       "puerta": "24",
       "ruta": "FTE",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
