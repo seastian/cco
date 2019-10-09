@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/10/2019 18:30",
+  "lastUpdate": "09/10/2019 18:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1119,25 +1119,6 @@
       "ruta": "VVI",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "4M",
-      "vuelo": "7821",
-      "st": "09/10/2019 07:05",
-      "matricula": "LVIQW",
-      "posicion": "08",
-      "et": "9/10/2019 06:30",
-      "at": "9/10/2019 06:32",
-      "term": "A",
-      "sector": "",
-      "cinta": "2",
-      "lF": "001",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -3524,7 +3505,7 @@
       "matricula": "CCBAF",
       "posicion": "08",
       "et": "",
-      "at": "",
+      "at": "9/10/2019 18:36",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3532,7 +3513,7 @@
       "puerta": "07",
       "ruta": "SCL",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3627,7 +3608,7 @@
       "puerta": "03",
       "ruta": "GRU",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3646,7 +3627,7 @@
       "puerta": "23",
       "ruta": "GRU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3750,14 +3731,14 @@
       "vuelo": "996",
       "st": "09/10/2019 19:55",
       "matricula": "N816AA",
-      "posicion": "34",
+      "posicion": "09",
       "et": "",
       "at": "",
       "term": "A",
       "sector": "AP",
       "chkFrom": "001",
       "chkTo": "020",
-      "puerta": "",
+      "puerta": "08",
       "ruta": "DFW",
       "via": "",
       "remark": "HOR",
