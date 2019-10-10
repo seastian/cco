@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/10/2019 12:10",
+  "lastUpdate": "10/10/2019 12:15",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3619,7 +3619,7 @@
       "matricula": "ECMYA",
       "posicion": "03",
       "et": "",
-      "at": "",
+      "at": "10/10/2019 12:11",
       "term": "A",
       "sector": "AP",
       "chkFrom": "027",
@@ -3627,7 +3627,7 @@
       "puerta": "02",
       "ruta": "BCN",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3646,7 +3646,7 @@
       "puerta": "24",
       "ruta": "MDZ",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3741,7 +3741,7 @@
       "puerta": "22",
       "ruta": "SCL",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3779,7 +3779,7 @@
       "puerta": "26",
       "ruta": "COR",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3798,7 +3798,7 @@
       "puerta": "24",
       "ruta": "BRC",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
