@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/10/2019 13:34",
+  "lastUpdate": "10/10/2019 13:39",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3733,7 +3733,7 @@
       "matricula": "FGSPO",
       "posicion": "11",
       "et": "",
-      "at": "",
+      "at": "10/10/2019 13:37",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "211",
@@ -3741,7 +3741,7 @@
       "puerta": "14",
       "ruta": "CDG",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
