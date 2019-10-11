@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/10/2019 00:31",
+  "lastUpdate": "11/10/2019 00:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2479,14 +2479,14 @@
       "matricula": "CCCZZ",
       "posicion": "55",
       "et": "11/10/2019 00:20",
-      "at": "",
+      "at": "11/10/2019 00:33",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "VCP",
       "via": "",
-      "remark": "DEM",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
