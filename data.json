@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/10/2019 23:41",
+  "lastUpdate": "10/10/2019 23:46",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2460,14 +2460,14 @@
       "matricula": "HP1822",
       "posicion": "07",
       "et": "10/10/2019 23:40",
-      "at": "",
+      "at": "10/10/2019 23:42",
       "term": "A",
       "sector": "",
       "cinta": "4",
       "lF": "004",
       "ruta": "PTY",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "142"
     },
@@ -3809,7 +3809,7 @@
       "matricula": "TCJJJ",
       "posicion": "05",
       "et": "",
-      "at": "",
+      "at": "10/10/2019 23:35",
       "term": "A",
       "sector": "AP",
       "chkFrom": "076",
@@ -3817,7 +3817,7 @@
       "puerta": "04",
       "ruta": "IST",
       "via": "GRU",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
