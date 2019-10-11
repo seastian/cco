@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/10/2019 00:12",
+  "lastUpdate": "11/10/2019 00:19",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2491,6 +2491,25 @@
       "pax": "142"
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "M3",
+      "vuelo": "8494",
+      "st": "10/10/2019 23:45",
+      "matricula": "CCCZZ",
+      "posicion": "55",
+      "et": "11/10/2019 00:20",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "VCP",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
       "tipo": "partida",
       "aerolinea": "WK",
       "vuelo": "091",
@@ -2524,25 +2543,6 @@
       "chkTo": "240",
       "puerta": "24",
       "ruta": "MDZ",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "4M",
-      "vuelo": "7768",
-      "st": "10/10/2019 12:05",
-      "matricula": "LVBOI",
-      "posicion": "50A",
-      "et": "",
-      "at": "10/10/2019 12:18",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "27",
-      "ruta": "BRC",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -2625,25 +2625,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "UX",
-      "vuelo": "042",
-      "st": "10/10/2019 12:30",
-      "matricula": "ECNBM",
-      "posicion": "10",
-      "et": "",
-      "at": "10/10/2019 12:55",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "054",
-      "chkTo": "060",
-      "puerta": "10",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1524",
       "st": "10/10/2019 12:00",
@@ -2657,6 +2638,25 @@
       "chkTo": "240",
       "puerta": "26",
       "ruta": "COR",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UX",
+      "vuelo": "042",
+      "st": "10/10/2019 12:30",
+      "matricula": "ECNBM",
+      "posicion": "10",
+      "et": "",
+      "at": "10/10/2019 12:55",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "054",
+      "chkTo": "060",
+      "puerta": "10",
+      "ruta": "MAD",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -3923,7 +3923,7 @@
       "matricula": "N723AV",
       "posicion": "06",
       "et": "",
-      "at": "",
+      "at": "11/10/2019 00:16",
       "term": "A",
       "sector": "AP",
       "chkFrom": "013",
@@ -3931,7 +3931,7 @@
       "puerta": "05",
       "ruta": "BOG",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3950,7 +3950,7 @@
       "puerta": "20",
       "ruta": "MAD",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
