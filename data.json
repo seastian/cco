@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/10/2019 02:12",
+  "lastUpdate": "11/10/2019 02:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2422,14 +2422,14 @@
       "matricula": "N898WS",
       "posicion": "H24",
       "et": "",
-      "at": "",
+      "at": "11/10/2019 02:15",
       "term": "FBO",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "BOG",
       "via": "",
-      "remark": "HOR",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "6"
     },
