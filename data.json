@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/10/2019 04:22",
+  "lastUpdate": "11/10/2019 04:27",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2530,25 +2530,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "JJ",
-      "vuelo": "8011",
-      "st": "10/10/2019 16:15",
-      "matricula": "PRMAK",
-      "posicion": "02",
-      "et": "",
-      "at": "10/10/2019 16:28",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "01",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "G3",
       "vuelo": "7675",
       "st": "10/10/2019 16:30",
@@ -3524,7 +3505,7 @@
       "matricula": "LVGVC",
       "posicion": "12",
       "et": "",
-      "at": "",
+      "at": "11/10/2019 04:24",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3532,7 +3513,7 @@
       "puerta": "16",
       "ruta": "PUJ",
       "via": "RES",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3551,7 +3532,7 @@
       "puerta": "03",
       "ruta": "LIM",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
