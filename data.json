@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/10/2019 00:02",
+  "lastUpdate": "11/10/2019 00:07",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -4026,7 +4026,7 @@
       "puerta": "06",
       "ruta": "PTY",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
