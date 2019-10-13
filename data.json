@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/10/2019 18:32",
+  "lastUpdate": "13/10/2019 18:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -4113,7 +4113,7 @@
       "matricula": "LVFWS",
       "posicion": "16B",
       "et": "",
-      "at": "",
+      "at": "13/10/2019 18:38",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -4121,7 +4121,7 @@
       "puerta": "23",
       "ruta": "CWB",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -4159,7 +4159,7 @@
       "puerta": "01",
       "ruta": "GIG",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4217,25 +4217,6 @@
       "ruta": "LIM",
       "via": "",
       "remark": "BOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1256",
-      "st": "13/10/2019 19:20",
-      "matricula": "LVFSK",
-      "posicion": "18B",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "17",
-      "ruta": "GIG",
-      "via": "",
-      "remark": "HOR",
       "sanidad": "NO"
     },
     {
@@ -4335,6 +4316,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1256",
+      "st": "13/10/2019 19:20",
+      "matricula": "LVFSK",
+      "posicion": "18B",
+      "et": "13/10/2019 20:10",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "17",
+      "ruta": "GIG",
+      "via": "",
+      "remark": "PRE",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "DL",
       "vuelo": "110",
       "st": "13/10/2019 20:15",
@@ -4411,25 +4411,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "LH",
-      "vuelo": "511D",
-      "st": "13/10/2019 21:00",
-      "matricula": "DABYS",
-      "posicion": "54",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "032",
-      "chkTo": "040",
-      "puerta": "",
-      "ruta": "FRA",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "PRV",
       "vuelo": "BES",
       "st": "13/10/2019 21:00",
@@ -4443,6 +4424,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "ESC",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LH",
+      "vuelo": "511D",
+      "st": "13/10/2019 21:00",
+      "matricula": "DABYS",
+      "posicion": "54",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "032",
+      "chkTo": "040",
+      "puerta": "",
+      "ruta": "FRA",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
