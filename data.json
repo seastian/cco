@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/10/2019 17:17",
+  "lastUpdate": "13/10/2019 17:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -4197,7 +4197,7 @@
       "puerta": "18",
       "ruta": "ASU",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4235,7 +4235,7 @@
       "puerta": "21",
       "ruta": "POA",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4289,7 +4289,7 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "22",
       "ruta": "GRU",
       "via": "",
       "remark": "HOR",
@@ -4642,7 +4642,7 @@
       "aerolinea": "AU",
       "vuelo": "2518",
       "st": "13/10/2019 21:35",
-      "matricula": "",
+      "matricula": "LVCET",
       "posicion": "",
       "et": "",
       "at": "",
