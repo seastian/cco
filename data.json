@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/10/2019 06:51",
+  "lastUpdate": "14/10/2019 06:56",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -250,6 +250,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "G3",
+      "vuelo": "7680",
+      "st": "14/10/2019 09:15",
+      "matricula": "PRGGJ",
+      "posicion": "",
+      "et": "14/10/2019 09:10",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "H2",
       "vuelo": "501",
       "st": "14/10/2019 09:15",
@@ -262,25 +281,6 @@
       "cinta": "",
       "lF": "",
       "ruta": "SCL",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7680",
-      "st": "14/10/2019 09:15",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "GRU",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -3980,7 +3980,7 @@
       "matricula": "PRMHW",
       "posicion": "09",
       "et": "",
-      "at": "",
+      "at": "14/10/2019 06:57",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3988,7 +3988,7 @@
       "puerta": "09",
       "ruta": "GRU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -4031,25 +4031,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1500",
-      "st": "14/10/2019 06:50",
-      "matricula": "LVCXS",
-      "posicion": "18A",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "26",
-      "ruta": "COR",
-      "via": "",
-      "remark": "CER",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "ZP",
       "vuelo": "821",
       "st": "14/10/2019 06:50",
@@ -4065,6 +4046,25 @@
       "ruta": "ASU",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1500",
+      "st": "14/10/2019 06:50",
+      "matricula": "LVCXS",
+      "posicion": "18A",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "26",
+      "ruta": "COR",
+      "via": "",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4159,7 +4159,7 @@
       "puerta": "27",
       "ruta": "ROS",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
