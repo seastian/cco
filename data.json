@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/10/2019 14:17",
+  "lastUpdate": "14/10/2019 14:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -155,6 +155,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1873",
+      "st": "14/10/2019 16:15",
+      "matricula": "LVFXQ",
+      "posicion": "",
+      "et": "14/10/2019 16:00",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "BRC",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "167"
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "AU",
       "vuelo": "2393",
       "st": "14/10/2019 16:10",
@@ -186,25 +205,6 @@
       "cinta": "",
       "lF": "",
       "ruta": "MDZ",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1873",
-      "st": "14/10/2019 16:15",
-      "matricula": "LVFXQ",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "BRC",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -3893,7 +3893,7 @@
       "puerta": "24",
       "ruta": "BRC",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
