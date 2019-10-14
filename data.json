@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/10/2019 00:10",
+  "lastUpdate": "14/10/2019 00:15",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1254,25 +1254,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AD",
-      "vuelo": "8766",
-      "st": "13/10/2019 12:30",
-      "matricula": "PRYRA",
-      "posicion": "05",
-      "et": "13/10/2019 12:20",
-      "at": "13/10/2019 12:14",
-      "term": "A",
-      "sector": "",
-      "cinta": "1",
-      "lF": "006",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "163"
     },
     {
       "tipo": "arribo",
@@ -4360,7 +4341,7 @@
       "matricula": "LVFNL",
       "posicion": "15",
       "et": "13/10/2019 23:59",
-      "at": "",
+      "at": "14/10/2019 00:12",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "207",
@@ -4368,7 +4349,7 @@
       "puerta": "20",
       "ruta": "JFK",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
