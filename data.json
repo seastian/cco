@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/10/2019 05:17",
+  "lastUpdate": "14/10/2019 05:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1406,6 +1406,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": "3"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "445",
+      "st": "14/10/2019 17:20",
+      "matricula": "CCBGH",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -3936,25 +3955,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "103",
-      "st": "14/10/2019 07:30",
-      "matricula": "CXCAR",
-      "posicion": "56B",
-      "et": "14/10/2019 05:30",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AD",
       "vuelo": "8763",
       "st": "14/10/2019 05:30",
@@ -3974,6 +3974,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "103",
+      "st": "14/10/2019 07:30",
+      "matricula": "CXCAR",
+      "posicion": "56B",
+      "et": "14/10/2019 05:30",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "AV",
       "vuelo": "964",
       "st": "14/10/2019 05:55",
@@ -3988,7 +4007,7 @@
       "puerta": "10",
       "ruta": "LIM",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
