@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/10/2019 04:19",
+  "lastUpdate": "14/10/2019 04:24",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1383,6 +1383,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "BRC",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1285",
+      "st": "14/10/2019 16:20",
+      "matricula": "LVFWS",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -3860,25 +3879,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "JJ",
-      "vuelo": "8121",
-      "st": "14/10/2019 02:30",
-      "matricula": "PRMBX",
-      "posicion": "02",
-      "et": "",
-      "at": "14/10/2019 02:43",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "01",
-      "ruta": "REC",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AOG",
       "vuelo": "102",
       "st": "14/10/2019 02:30",
@@ -3894,6 +3894,25 @@
       "ruta": "ASU",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "JJ",
+      "vuelo": "8121",
+      "st": "14/10/2019 02:30",
+      "matricula": "PRMBX",
+      "posicion": "02",
+      "et": "",
+      "at": "14/10/2019 02:43",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "01",
+      "ruta": "REC",
+      "via": "",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3942,7 +3961,7 @@
       "matricula": "PRMAP",
       "posicion": "06",
       "et": "",
-      "at": "",
+      "at": "14/10/2019 04:19",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3950,7 +3969,7 @@
       "puerta": "05",
       "ruta": "LIM",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
