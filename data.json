@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/10/2019 04:03",
+  "lastUpdate": "14/10/2019 04:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3779,25 +3779,6 @@
       "puerta": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "CU",
-      "vuelo": "361",
-      "st": "14/10/2019 00:30",
-      "matricula": "ECMFB",
-      "posicion": "11",
-      "et": "",
-      "at": "14/10/2019 01:04",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "016",
-      "chkTo": "021",
-      "puerta": "14",
-      "ruta": "HAV",
-      "via": "CCC",
       "remark": "PAR",
       "sanidad": "NO"
     },
