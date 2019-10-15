@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/10/2019 07:27",
+  "lastUpdate": "15/10/2019 07:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -64,7 +64,7 @@
       "vuelo": "1311",
       "st": "15/10/2019 07:55",
       "matricula": "PRMBS",
-      "posicion": "",
+      "posicion": "02",
       "et": "15/10/2019 07:55",
       "at": "",
       "term": "A",
@@ -120,9 +120,9 @@
       "aerolinea": "G3",
       "vuelo": "7680",
       "st": "15/10/2019 09:15",
-      "matricula": "",
+      "matricula": "PRGTC",
       "posicion": "",
-      "et": "",
+      "et": "15/10/2019 09:15",
       "at": "",
       "term": "A",
       "sector": "",
@@ -130,7 +130,7 @@
       "lF": "",
       "ruta": "GRU",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -293,7 +293,7 @@
       "st": "15/10/2019 10:00",
       "matricula": "PTXPQ",
       "posicion": "",
-      "et": "",
+      "et": "15/10/2019 10:00",
       "at": "",
       "term": "A",
       "sector": "",
@@ -301,9 +301,9 @@
       "lF": "",
       "ruta": "GRU",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "195"
     },
     {
       "tipo": "arribo",
@@ -1022,6 +1022,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "SCL",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1303",
+      "st": "15/10/2019 19:30",
+      "matricula": "LVFNJ",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -2365,14 +2384,14 @@
       "matricula": "ECNCY",
       "posicion": "04",
       "et": "15/10/2019 07:26",
-      "at": "",
+      "at": "15/10/2019 07:29",
       "term": "A",
       "sector": "",
       "cinta": "5",
       "lF": "002",
       "ruta": "MAD",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "307"
     },
@@ -3448,7 +3467,7 @@
       "matricula": "PRGTE",
       "posicion": "11B",
       "et": "15/10/2019 06:40",
-      "at": "",
+      "at": "15/10/2019 07:31",
       "term": "A",
       "sector": "AP",
       "chkFrom": "068",
@@ -3456,7 +3475,7 @@
       "puerta": "15",
       "ruta": "BSB",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3665,7 +3684,7 @@
       "puerta": "20",
       "ruta": "SCL",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3741,7 +3760,7 @@
       "puerta": "22",
       "ruta": "MIA",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3844,7 +3863,7 @@
       "aerolinea": "G3",
       "vuelo": "7681",
       "st": "15/10/2019 09:55",
-      "matricula": "",
+      "matricula": "PRGTC",
       "posicion": "",
       "et": "",
       "at": "",
