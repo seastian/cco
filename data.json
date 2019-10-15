@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/10/2019 02:55",
+  "lastUpdate": "15/10/2019 03:00",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -145,8 +145,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "5",
+      "lF": "005",
       "ruta": "BOG",
       "via": "",
       "remark": "EST",
@@ -3619,7 +3619,7 @@
       "matricula": "PRGUP",
       "posicion": "10",
       "et": "15/10/2019 02:45",
-      "at": "",
+      "at": "15/10/2019 02:56",
       "term": "A",
       "sector": "AP",
       "chkFrom": "068",
@@ -3627,7 +3627,7 @@
       "puerta": "10",
       "ruta": "GIG",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3665,7 +3665,7 @@
       "puerta": "16",
       "ruta": "PUJ",
       "via": "RES",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4881,6 +4881,25 @@
       "puerta": "",
       "ruta": "GIG",
       "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AC",
+      "vuelo": "093",
+      "st": "15/10/2019 15:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "061",
+      "chkTo": "067",
+      "puerta": "",
+      "ruta": "YYZ",
+      "via": "SCL",
       "remark": "HOR",
       "sanidad": "NO"
     }
