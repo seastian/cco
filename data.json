@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/10/2019 18:41",
+  "lastUpdate": "15/10/2019 18:46",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1010,25 +1010,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "LH",
-      "vuelo": "510",
-      "st": "15/10/2019 06:40",
-      "matricula": "DABYN",
-      "posicion": "09",
-      "et": "",
-      "at": "15/10/2019 06:44",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "008",
-      "ruta": "FRA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1361",
       "st": "15/10/2019 07:10",
@@ -1162,25 +1143,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "BA",
-      "vuelo": "245",
-      "st": "15/10/2019 08:20",
-      "matricula": "GYMMB",
-      "posicion": "08",
-      "et": "15/10/2019 08:10",
-      "at": "15/10/2019 08:10",
-      "term": "A",
-      "sector": "",
-      "cinta": "6",
-      "lF": "008",
-      "ruta": "LHR",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "DI",
       "vuelo": "7505",
       "st": "15/10/2019 08:10",
@@ -1193,6 +1155,25 @@
       "cinta": "2",
       "lF": "002",
       "ruta": "LGW",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "BA",
+      "vuelo": "245",
+      "st": "15/10/2019 08:20",
+      "matricula": "GYMMB",
+      "posicion": "08",
+      "et": "15/10/2019 08:10",
+      "at": "15/10/2019 08:10",
+      "term": "A",
+      "sector": "",
+      "cinta": "6",
+      "lF": "008",
+      "ruta": "LHR",
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
@@ -3494,7 +3475,7 @@
       "puerta": "17",
       "ruta": "LIM",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
