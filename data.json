@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/10/2019 14:49",
+  "lastUpdate": "15/10/2019 14:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2175,14 +2175,14 @@
       "matricula": "LVFVN",
       "posicion": "15B",
       "et": "15/10/2019 14:48",
-      "at": "",
+      "at": "15/10/2019 14:50",
       "term": "A",
       "sector": "",
       "cinta": "7",
       "lF": "009",
       "ruta": "SSA",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "145"
     },
@@ -3328,25 +3328,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "4M",
-      "vuelo": "7868",
-      "st": "15/10/2019 13:10",
-      "matricula": "LVIQW",
-      "posicion": "03",
-      "et": "",
-      "at": "15/10/2019 13:15",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "02",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "IB",
       "vuelo": "6856",
       "st": "15/10/2019 13:25",
@@ -3366,25 +3347,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AF",
-      "vuelo": "229",
-      "st": "15/10/2019 13:30",
-      "matricula": "FGSPN",
-      "posicion": "15",
-      "et": "",
-      "at": "15/10/2019 13:58",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "211",
-      "chkTo": "220",
-      "puerta": "20",
-      "ruta": "CDG",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AD",
       "vuelo": "8767",
       "st": "15/10/2019 13:15",
@@ -3398,6 +3360,25 @@
       "chkTo": "081",
       "puerta": "06",
       "ruta": "VCP",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AF",
+      "vuelo": "229",
+      "st": "15/10/2019 13:30",
+      "matricula": "FGSPN",
+      "posicion": "15",
+      "et": "",
+      "at": "15/10/2019 13:58",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "211",
+      "chkTo": "220",
+      "puerta": "20",
+      "ruta": "CDG",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -3475,7 +3456,7 @@
       "puerta": "10",
       "ruta": "YYZ",
       "via": "SCL",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3532,7 +3513,7 @@
       "puerta": "14",
       "ruta": "AMS",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
