@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/10/2019 01:30",
+  "lastUpdate": "15/10/2019 01:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3714,7 +3714,7 @@
       "matricula": "HP1727",
       "posicion": "06",
       "et": "",
-      "at": "",
+      "at": "15/10/2019 01:30",
       "term": "A",
       "sector": "AP",
       "chkFrom": "021",
@@ -3722,7 +3722,7 @@
       "puerta": "05",
       "ruta": "PTY",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3760,7 +3760,7 @@
       "puerta": "08",
       "ruta": "JFK",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
