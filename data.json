@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/10/2019 15:49",
+  "lastUpdate": "15/10/2019 15:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -107,8 +107,8 @@
       "at": "",
       "term": "C",
       "sector": "CAC",
-      "cinta": "",
-      "lF": "",
+      "cinta": "11",
+      "lF": "017",
       "ruta": "USH",
       "via": "FTE",
       "remark": "EST",
@@ -4463,6 +4463,25 @@
       "puerta": "",
       "ruta": "PUJ",
       "via": "RES",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "JJ",
+      "vuelo": "8010",
+      "st": "16/10/2019 03:55",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "LIM",
+      "via": "",
       "remark": "HOR",
       "sanidad": "NO"
     }
