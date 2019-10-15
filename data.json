@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/10/2019 03:05",
+  "lastUpdate": "15/10/2019 03:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -103,7 +103,7 @@
       "st": "15/10/2019 05:00",
       "matricula": "LVGKU",
       "posicion": "",
-      "et": "",
+      "et": "15/10/2019 04:49",
       "at": "",
       "term": "A",
       "sector": "",
@@ -111,9 +111,9 @@
       "lF": "",
       "ruta": "LIM",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "130"
     },
     {
       "tipo": "arribo",
