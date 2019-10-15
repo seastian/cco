@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/10/2019 17:33",
+  "lastUpdate": "15/10/2019 17:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2128,25 +2128,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "159"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AD",
-      "vuelo": "8760",
-      "st": "15/10/2019 16:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "CNF",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
