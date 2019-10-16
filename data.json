@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/10/2019 10:22",
+  "lastUpdate": "16/10/2019 10:27",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -136,6 +136,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1281",
+      "st": "16/10/2019 13:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "CAN",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "KL",
       "vuelo": "702",
       "st": "16/10/2019 13:30",
@@ -169,25 +188,6 @@
       "ruta": "BSB",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1281",
-      "st": "16/10/2019 13:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
     },
@@ -2061,14 +2061,14 @@
       "matricula": "PTXPE",
       "posicion": "06",
       "et": "",
-      "at": "",
+      "at": "16/10/2019 10:26",
       "term": "A",
       "sector": "",
       "cinta": "4",
       "lF": "004",
       "ruta": "GRU",
       "via": "",
-      "remark": "CON",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "214"
     },
@@ -3162,7 +3162,7 @@
       "st": "16/10/2019 09:55",
       "matricula": "PRGUP",
       "posicion": "07",
-      "et": "16/10/2019 11:00",
+      "et": "16/10/2019 11:15",
       "at": "",
       "term": "A",
       "sector": "AP",
@@ -3304,7 +3304,7 @@
       "puerta": "17",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
