@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/10/2019 01:49",
+  "lastUpdate": "16/10/2019 01:56",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -217,7 +217,7 @@
       "st": "16/10/2019 05:00",
       "matricula": "LVFSK",
       "posicion": "",
-      "et": "",
+      "et": "16/10/2019 05:00",
       "at": "",
       "term": "A",
       "sector": "",
@@ -225,9 +225,9 @@
       "lF": "",
       "ruta": "LIM",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "115"
     },
     {
       "tipo": "arribo",
@@ -2188,25 +2188,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "BA",
-      "vuelo": "244",
-      "st": "15/10/2019 13:50",
-      "matricula": "GYMMB",
-      "posicion": "09",
-      "et": "",
-      "at": "15/10/2019 13:52",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "007",
-      "chkTo": "012",
-      "puerta": "08",
-      "ruta": "LHR",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "G3",
       "vuelo": "7453",
       "st": "15/10/2019 14:10",
@@ -3005,25 +2986,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "G3",
-      "vuelo": "7685",
-      "st": "15/10/2019 21:55",
-      "matricula": "PRGUP",
-      "posicion": "06",
-      "et": "15/10/2019 22:40",
-      "at": "15/10/2019 23:28",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "068",
-      "chkTo": "074",
-      "puerta": "05",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AA",
       "vuelo": "908",
       "st": "15/10/2019 22:40",
@@ -3037,6 +2999,25 @@
       "chkTo": "020",
       "puerta": "08",
       "ruta": "MIA",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "G3",
+      "vuelo": "7685",
+      "st": "15/10/2019 21:55",
+      "matricula": "PRGUP",
+      "posicion": "06",
+      "et": "15/10/2019 22:40",
+      "at": "15/10/2019 23:28",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "068",
+      "chkTo": "074",
+      "puerta": "05",
+      "ruta": "GRU",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -3323,7 +3304,7 @@
       "puerta": "10",
       "ruta": "GIG",
       "via": "",
-      "remark": "PRE",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
