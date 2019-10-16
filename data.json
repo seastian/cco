@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/10/2019 06:59",
+  "lastUpdate": "16/10/2019 07:04",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2194,14 +2194,14 @@
       "matricula": "ZPCRJ",
       "posicion": "50B",
       "et": "16/10/2019 06:59",
-      "at": "",
+      "at": "16/10/2019 07:05",
       "term": "A",
       "sector": "",
       "cinta": "6",
       "lF": "007",
       "ruta": "ASU",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "23"
     },
@@ -3418,7 +3418,7 @@
       "puerta": "25",
       "ruta": "ROS",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3472,10 +3472,10 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "26",
       "ruta": "IGR",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
