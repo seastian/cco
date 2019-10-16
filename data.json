@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "16/10/2019 02:31",
+  "lastUpdate": "16/10/2019 02:38",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "ES",
-      "vuelo": "8569",
-      "st": "16/10/2019 03:20",
-      "matricula": "9HJAI",
-      "posicion": "03",
-      "et": "16/10/2019 02:38",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "CCS",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "188"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AD",
@@ -2225,6 +2206,25 @@
       "pax": "65"
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "ES",
+      "vuelo": "8569",
+      "st": "16/10/2019 03:20",
+      "matricula": "9HJAI",
+      "posicion": "03",
+      "et": "16/10/2019 02:38",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "009",
+      "ruta": "CCS",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "188"
+    },
+    {
       "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1250",
@@ -3342,7 +3342,7 @@
       "puerta": "21",
       "ruta": "PUJ",
       "via": "RES",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
