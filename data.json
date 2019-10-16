@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/10/2019 13:34",
+  "lastUpdate": "16/10/2019 13:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3391,7 +3391,7 @@
       "matricula": "GYMMA",
       "posicion": "11",
       "et": "",
-      "at": "",
+      "at": "16/10/2019 13:40",
       "term": "A",
       "sector": "AP",
       "chkFrom": "006",
@@ -3399,7 +3399,7 @@
       "puerta": "14",
       "ruta": "LHR",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
