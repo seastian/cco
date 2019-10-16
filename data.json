@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/10/2019 14:00",
+  "lastUpdate": "16/10/2019 14:05",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3456,7 +3456,7 @@
       "puerta": "05",
       "ruta": "GRU",
       "via": "",
-      "remark": "PRE",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3475,7 +3475,7 @@
       "puerta": "16",
       "ruta": "GIG",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3567,7 +3567,7 @@
       "sector": "CPI",
       "chkFrom": "201",
       "chkTo": "220",
-      "puerta": "19",
+      "puerta": "18",
       "ruta": "AMS",
       "via": "",
       "remark": "HOR",
