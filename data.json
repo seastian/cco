@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/10/2019 00:11",
+  "lastUpdate": "16/10/2019 00:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -38,25 +38,6 @@
       "remark": "DEM",
       "sanidad": "NO",
       "pax": "88"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7648",
-      "st": "16/10/2019 01:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "GIG",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -139,9 +120,9 @@
       "aerolinea": "AD",
       "vuelo": "8770",
       "st": "16/10/2019 02:50",
-      "matricula": "",
+      "matricula": "PRYRE",
       "posicion": "",
-      "et": "",
+      "et": "16/10/2019 02:49",
       "at": "",
       "term": "A",
       "sector": "",
@@ -149,9 +130,28 @@
       "lF": "",
       "ruta": "VCP",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "166"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "G3",
+      "vuelo": "7648",
+      "st": "16/10/2019 01:10",
+      "matricula": "PRGUZ",
+      "posicion": "",
+      "et": "16/10/2019 03:09",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "GIG",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": "145"
     },
     {
       "tipo": "arribo",
@@ -424,7 +424,7 @@
       "aerolinea": "4M",
       "vuelo": "7821",
       "st": "16/10/2019 07:05",
-      "matricula": "",
+      "matricula": "CCCXC",
       "posicion": "",
       "et": "16/10/2019 06:41",
       "at": "",
@@ -880,7 +880,7 @@
       "aerolinea": "4M",
       "vuelo": "7813",
       "st": "16/10/2019 10:13",
-      "matricula": "",
+      "matricula": "LVBRA",
       "posicion": "",
       "et": "",
       "at": "",
@@ -3513,7 +3513,7 @@
       "puerta": "01",
       "ruta": "BOG",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3532,7 +3532,7 @@
       "puerta": "07",
       "ruta": "ASU",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3730,7 +3730,7 @@
       "aerolinea": "AD",
       "vuelo": "8771",
       "st": "16/10/2019 04:30",
-      "matricula": "",
+      "matricula": "PRYRE",
       "posicion": "",
       "et": "",
       "at": "",
@@ -3768,7 +3768,7 @@
       "aerolinea": "G3",
       "vuelo": "7689",
       "st": "16/10/2019 04:45",
-      "matricula": "",
+      "matricula": "PRGUZ",
       "posicion": "",
       "et": "",
       "at": "",
