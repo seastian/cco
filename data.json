@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/10/2019 05:47",
+  "lastUpdate": "17/10/2019 05:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3443,25 +3443,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1260",
-      "st": "17/10/2019 06:00",
-      "matricula": "LVFVN",
-      "posicion": "18B",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "19",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "CER",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "1230",
       "st": "17/10/2019 06:00",
       "matricula": "LVBZA",
@@ -3474,6 +3455,25 @@
       "chkTo": "240",
       "puerta": "17",
       "ruta": "POA",
+      "via": "",
+      "remark": "CER",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1260",
+      "st": "17/10/2019 06:00",
+      "matricula": "LVFVN",
+      "posicion": "18B",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "19",
+      "ruta": "ASU",
       "via": "",
       "remark": "CER",
       "sanidad": "NO"
@@ -3532,7 +3532,7 @@
       "puerta": "04",
       "ruta": "GRU",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
