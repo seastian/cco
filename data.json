@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/10/2019 00:41",
+  "lastUpdate": "17/10/2019 00:46",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -481,7 +481,7 @@
       "aerolinea": "IB",
       "vuelo": "6841",
       "st": "17/10/2019 07:35",
-      "matricula": "",
+      "matricula": "ECNCX",
       "posicion": "",
       "et": "17/10/2019 07:21",
       "at": "",
@@ -3095,7 +3095,7 @@
       "puerta": "05",
       "ruta": "SCL",
       "via": "",
-      "remark": "DEM",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3627,7 +3627,7 @@
       "puerta": "12",
       "ruta": "MIA",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
