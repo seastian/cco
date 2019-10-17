@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "16/10/2019 21:01",
+  "lastUpdate": "16/10/2019 21:06",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7684",
-      "st": "16/10/2019 21:15",
-      "matricula": "PRGTL",
-      "posicion": "02",
-      "et": "16/10/2019 21:02",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "137"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AR",
@@ -2251,14 +2232,14 @@
       "matricula": "LVBZA",
       "posicion": "17A",
       "et": "16/10/2019 20:55",
-      "at": "",
+      "at": "16/10/2019 21:02",
       "term": "C",
       "sector": "CAC",
       "cinta": "",
       "lF": "",
       "ruta": "TUC",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "117"
     },
@@ -3475,7 +3456,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
