@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/10/2019 11:04",
+  "lastUpdate": "18/10/2019 11:09",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3366,6 +3366,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "JJ",
+      "vuelo": "8009",
+      "st": "18/10/2019 11:10",
+      "matricula": "PTMUH",
+      "posicion": "09",
+      "et": "18/10/2019 11:30",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "09",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "ULT",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "QR",
       "vuelo": "8157",
       "st": "18/10/2019 05:20",
@@ -3399,7 +3418,7 @@
       "puerta": "19",
       "ruta": "SCL",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3418,26 +3437,7 @@
       "puerta": "01",
       "ruta": "PTY",
       "via": "",
-      "remark": "ULT",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "JJ",
-      "vuelo": "8009",
-      "st": "18/10/2019 11:10",
-      "matricula": "PTMUH",
-      "posicion": "09",
-      "et": "18/10/2019 11:30",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "09",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3519,25 +3519,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1412",
-      "st": "18/10/2019 12:00",
-      "matricula": "LVCAD",
-      "posicion": "22A",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "25",
-      "ruta": "MDZ",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "1524",
       "st": "18/10/2019 12:00",
       "matricula": "LVGUB",
@@ -3550,6 +3531,25 @@
       "chkTo": "240",
       "puerta": "24",
       "ruta": "COR",
+      "via": "",
+      "remark": "PRE",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1412",
+      "st": "18/10/2019 12:00",
+      "matricula": "LVCAD",
+      "posicion": "22A",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "25",
+      "ruta": "MDZ",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -4786,6 +4786,25 @@
       "puerta": "",
       "ruta": "DOH",
       "via": "GRU",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AM",
+      "vuelo": "029",
+      "st": "18/10/2019 23:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "034",
+      "chkTo": "040",
+      "puerta": "",
+      "ruta": "MEX",
+      "via": "",
       "remark": "HOR",
       "sanidad": "NO"
     }
