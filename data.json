@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/10/2019 18:30",
+  "lastUpdate": "18/10/2019 18:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -991,25 +991,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "4M",
-      "vuelo": "7821",
-      "st": "18/10/2019 07:05",
-      "matricula": "CCCXC",
-      "posicion": "08",
-      "et": "18/10/2019 06:40",
-      "at": "18/10/2019 06:33",
-      "term": "A",
-      "sector": "",
-      "cinta": "5",
-      "lF": "004",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "203"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "LH",
       "vuelo": "510",
       "st": "18/10/2019 06:40",
@@ -1086,25 +1067,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1361",
-      "st": "18/10/2019 07:10",
-      "matricula": "LVCBF",
-      "posicion": "18A",
-      "et": "18/10/2019 07:19",
-      "at": "18/10/2019 07:20",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "008",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "118"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "UX",
       "vuelo": "041",
       "st": "18/10/2019 07:35",
@@ -1121,6 +1083,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "330"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1361",
+      "st": "18/10/2019 07:10",
+      "matricula": "LVCBF",
+      "posicion": "18A",
+      "et": "18/10/2019 07:19",
+      "at": "18/10/2019 07:20",
+      "term": "A",
+      "sector": "",
+      "cinta": "7",
+      "lF": "008",
+      "ruta": "BOG",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "118"
     },
     {
       "tipo": "arribo",
@@ -2308,14 +2289,14 @@
       "matricula": "CCCXF",
       "posicion": "06",
       "et": "18/10/2019 18:24",
-      "at": "",
+      "at": "18/10/2019 18:36",
       "term": "A",
       "sector": "",
       "cinta": "2",
       "lF": "002",
       "ruta": "LIM",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "217"
     },
@@ -3779,7 +3760,7 @@
       "puerta": "17",
       "ruta": "GIG",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
