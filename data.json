@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/10/2019 17:32",
+  "lastUpdate": "18/10/2019 17:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3770,7 +3770,7 @@
       "st": "18/10/2019 16:45",
       "matricula": "LVCAD",
       "posicion": "50A",
-      "et": "18/10/2019 17:45",
+      "et": "18/10/2019 18:00",
       "at": "",
       "term": "C",
       "sector": "CPI",
@@ -4107,25 +4107,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "4M",
-      "vuelo": "7820",
-      "st": "18/10/2019 21:25",
-      "matricula": "CCCXC",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "UA",
       "vuelo": "818",
       "st": "18/10/2019 21:25",
@@ -4139,6 +4120,25 @@
       "chkTo": "061",
       "puerta": "",
       "ruta": "IAH",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "4M",
+      "vuelo": "7820",
+      "st": "18/10/2019 21:25",
+      "matricula": "CCCXC",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "MIA",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -4748,6 +4748,25 @@
       "puerta": "",
       "ruta": "CNF",
       "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "5X",
+      "vuelo": "413",
+      "st": "19/10/2019 05:35",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
+      "via": "VCP",
       "remark": "HOR",
       "sanidad": "NO"
     }
