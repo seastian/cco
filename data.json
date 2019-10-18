@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/10/2019 13:42",
+  "lastUpdate": "18/10/2019 13:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -4259,6 +4259,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "UA",
+      "vuelo": "818",
+      "st": "18/10/2019 21:25",
+      "matricula": "N78009",
+      "posicion": "34",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "054",
+      "chkTo": "061",
+      "puerta": "",
+      "ruta": "IAH",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "4M",
       "vuelo": "7820",
       "st": "18/10/2019 21:25",
@@ -4272,25 +4291,6 @@
       "chkTo": "053",
       "puerta": "",
       "ruta": "MIA",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "UA",
-      "vuelo": "818",
-      "st": "18/10/2019 21:25",
-      "matricula": "N78009",
-      "posicion": "16",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "054",
-      "chkTo": "061",
-      "puerta": "22",
-      "ruta": "IAH",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
