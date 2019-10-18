@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/10/2019 16:04",
+  "lastUpdate": "18/10/2019 16:11",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3722,7 +3722,7 @@
       "puerta": "",
       "ruta": "LIM",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -3817,7 +3817,7 @@
       "puerta": "08",
       "ruta": "FRA",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3842,6 +3842,25 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
+      "vuelo": "1262",
+      "st": "18/10/2019 17:05",
+      "matricula": "LVFUA",
+      "posicion": "15B",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "21",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "PRE",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
       "vuelo": "1360",
       "st": "18/10/2019 16:45",
       "matricula": "LVCAD",
@@ -3856,25 +3875,6 @@
       "ruta": "BOG",
       "via": "",
       "remark": "DEM",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1262",
-      "st": "18/10/2019 17:05",
-      "matricula": "LVFUA",
-      "posicion": "15B",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "21",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "HOR",
       "sanidad": "NO"
     },
     {
@@ -3937,25 +3937,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1268",
-      "st": "18/10/2019 18:15",
-      "matricula": "LVGVA",
-      "posicion": "50B",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "17",
-      "ruta": "CWB",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "1290",
       "st": "18/10/2019 18:15",
       "matricula": "LVGUB",
@@ -3968,6 +3949,25 @@
       "chkTo": "240",
       "puerta": "23",
       "ruta": "SCL",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1268",
+      "st": "18/10/2019 18:15",
+      "matricula": "LVGVA",
+      "posicion": "50B",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "17",
+      "ruta": "CWB",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
