@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/10/2019 07:11",
+  "lastUpdate": "18/10/2019 07:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -132,7 +132,7 @@
       "via": "",
       "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "278"
     },
     {
       "tipo": "arribo",
@@ -158,9 +158,9 @@
       "aerolinea": "G3",
       "vuelo": "7680",
       "st": "18/10/2019 09:15",
-      "matricula": "",
+      "matricula": "PRGGE",
       "posicion": "",
-      "et": "",
+      "et": "18/10/2019 09:07",
       "at": "",
       "term": "A",
       "sector": "",
@@ -168,9 +168,9 @@
       "lF": "",
       "ruta": "GRU",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "155"
     },
     {
       "tipo": "arribo",
@@ -3779,7 +3779,7 @@
       "puerta": "26",
       "ruta": "TUC",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3863,7 +3863,7 @@
       "aerolinea": "G3",
       "vuelo": "7681",
       "st": "18/10/2019 09:55",
-      "matricula": "",
+      "matricula": "PRGGE",
       "posicion": "",
       "et": "",
       "at": "",
