@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/10/2019 14:02",
+  "lastUpdate": "19/10/2019 14:07",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -4857,8 +4857,8 @@
       "at": "",
       "term": "A",
       "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
+      "chkFrom": "027",
+      "chkTo": "033",
       "puerta": "",
       "ruta": "REC",
       "via": "",
