@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/10/2019 13:41",
+  "lastUpdate": "19/10/2019 13:46",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3581,7 +3581,7 @@
       "matricula": "FGSPP",
       "posicion": "15",
       "et": "",
-      "at": "",
+      "at": "19/10/2019 13:47",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "211",
@@ -3589,7 +3589,7 @@
       "puerta": "20",
       "ruta": "CDG",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -4753,25 +4753,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "G3",
-      "vuelo": "7671",
-      "st": "19/10/2019 23:55",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "068",
-      "chkTo": "074",
-      "puerta": "",
-      "ruta": "FOR",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1132",
       "st": "19/10/2019 23:55",
@@ -4785,6 +4766,25 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "MAD",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "G3",
+      "vuelo": "7671",
+      "st": "19/10/2019 23:55",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "068",
+      "chkTo": "074",
+      "puerta": "",
+      "ruta": "FOR",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -4861,6 +4861,25 @@
       "chkTo": "026",
       "puerta": "",
       "ruta": "PTY",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "JJ",
+      "vuelo": "8121",
+      "st": "20/10/2019 01:45",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "REC",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
