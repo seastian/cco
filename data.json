@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/10/2019 07:38",
+  "lastUpdate": "19/10/2019 07:43",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -121,7 +121,7 @@
       "vuelo": "465",
       "st": "19/10/2019 08:58",
       "matricula": "CCBEG",
-      "posicion": "",
+      "posicion": "11B",
       "et": "19/10/2019 08:30",
       "at": "",
       "term": "A",
@@ -189,7 +189,7 @@
       "via": "",
       "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "97"
     },
     {
       "tipo": "arribo",
@@ -4848,25 +4848,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "JJ",
-      "vuelo": "8002",
-      "st": "19/10/2019 18:40",
-      "matricula": "PRMBZ",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1248",
       "st": "19/10/2019 18:40",
@@ -4878,6 +4859,25 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
+      "puerta": "",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "JJ",
+      "vuelo": "8002",
+      "st": "19/10/2019 18:40",
+      "matricula": "PRMBZ",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
       "puerta": "",
       "ruta": "GRU",
       "via": "",
