@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/10/2019 17:17",
+  "lastUpdate": "20/10/2019 17:23",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3627,7 +3627,7 @@
       "puerta": "",
       "ruta": "JUZ",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3694,7 +3694,7 @@
       "st": "20/10/2019 17:15",
       "matricula": "PRGTO",
       "posicion": "08",
-      "et": "20/10/2019 17:30",
+      "et": "20/10/2019 17:40",
       "at": "",
       "term": "A",
       "sector": "AP",
@@ -3703,7 +3703,7 @@
       "puerta": "07",
       "ruta": "GIG",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
