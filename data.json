@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/10/2019 13:39",
+  "lastUpdate": "20/10/2019 13:44",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3391,7 +3391,7 @@
       "matricula": "ECINO",
       "posicion": "03",
       "et": "",
-      "at": "",
+      "at": "20/10/2019 13:42",
       "term": "A",
       "sector": "AP",
       "chkFrom": "021",
@@ -3399,7 +3399,7 @@
       "puerta": "02",
       "ruta": "MAD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3410,7 +3410,7 @@
       "matricula": "FGSPI",
       "posicion": "14",
       "et": "",
-      "at": "",
+      "at": "20/10/2019 13:41",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "211",
@@ -3418,7 +3418,7 @@
       "puerta": "18",
       "ruta": "CDG",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3523,7 +3523,7 @@
       "st": "20/10/2019 14:10",
       "matricula": "PRGUH",
       "posicion": "06",
-      "et": "",
+      "et": "20/10/2019 14:20",
       "at": "",
       "term": "A",
       "sector": "AP",
@@ -3532,7 +3532,7 @@
       "puerta": "05",
       "ruta": "GRU",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
