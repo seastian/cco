@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/10/2019 14:17",
+  "lastUpdate": "20/10/2019 14:23",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1238,25 +1238,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8010",
-      "st": "20/10/2019 02:35",
-      "matricula": "PRMAP",
-      "posicion": "07",
-      "et": "20/10/2019 02:20",
-      "at": "20/10/2019 02:24",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "M3",
       "vuelo": "8472",
       "st": "20/10/2019 02:30",
@@ -1713,25 +1694,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "BA",
-      "vuelo": "245",
-      "st": "20/10/2019 08:20",
-      "matricula": "GSTBH",
-      "posicion": "10",
-      "et": "20/10/2019 07:55",
-      "at": "20/10/2019 07:57",
-      "term": "A",
-      "sector": "",
-      "cinta": "4",
-      "lF": "004",
-      "ruta": "LHR",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "282"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "IB",
       "vuelo": "6841",
       "st": "20/10/2019 07:35",
@@ -1748,6 +1710,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "358"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "BA",
+      "vuelo": "245",
+      "st": "20/10/2019 08:20",
+      "matricula": "GSTBH",
+      "posicion": "10",
+      "et": "20/10/2019 07:55",
+      "at": "20/10/2019 07:57",
+      "term": "A",
+      "sector": "",
+      "cinta": "4",
+      "lF": "004",
+      "ruta": "LHR",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "282"
     },
     {
       "tipo": "arribo",
@@ -3494,7 +3475,7 @@
       "puerta": "05",
       "ruta": "GRU",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3551,7 +3532,7 @@
       "puerta": "23",
       "ruta": "GIG",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
