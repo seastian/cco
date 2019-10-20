@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/10/2019 13:17",
+  "lastUpdate": "20/10/2019 13:23",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2036,25 +2036,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1257",
-      "st": "20/10/2019 09:55",
-      "matricula": "LVFQC",
-      "posicion": "18B",
-      "et": "20/10/2019 09:51",
-      "at": "20/10/2019 09:42",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "008",
-      "ruta": "GIG",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "160"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "JJ",
       "vuelo": "8008",
       "st": "20/10/2019 10:00",
@@ -3106,7 +3087,7 @@
       "matricula": "PRMHA",
       "posicion": "52B",
       "et": "20/10/2019 11:30",
-      "at": "",
+      "at": "20/10/2019 13:18",
       "term": "A",
       "sector": "AP",
       "chkFrom": "",
@@ -3114,7 +3095,7 @@
       "puerta": "",
       "ruta": "CWB",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3370,17 +3351,17 @@
       "vuelo": "7506",
       "st": "20/10/2019 11:00",
       "matricula": "GCKOF",
-      "posicion": "11",
+      "posicion": "50",
       "et": "20/10/2019 13:00",
       "at": "",
       "term": "A",
       "sector": "AP",
       "chkFrom": "001",
       "chkTo": "006",
-      "puerta": "14",
+      "puerta": "",
       "ruta": "LGW",
       "via": "",
-      "remark": "CER",
+      "remark": "DEM",
       "sanidad": "NO"
     },
     {
@@ -3391,7 +3372,7 @@
       "matricula": "CP2923",
       "posicion": "08",
       "et": "",
-      "at": "",
+      "at": "20/10/2019 13:23",
       "term": "A",
       "sector": "AP",
       "chkFrom": "064",
@@ -3399,7 +3380,7 @@
       "puerta": "07",
       "ruta": "VVI",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3427,7 +3408,7 @@
       "vuelo": "7868",
       "st": "20/10/2019 13:10",
       "matricula": "CCCXC",
-      "posicion": "22",
+      "posicion": "10",
       "et": "20/10/2019 14:10",
       "at": "",
       "term": "A",
