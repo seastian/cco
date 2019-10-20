@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/10/2019 12:39",
+  "lastUpdate": "20/10/2019 12:45",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3437,7 +3437,7 @@
       "puerta": "13",
       "ruta": "MVD",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3567,7 +3567,7 @@
       "sector": "AP",
       "chkFrom": "006",
       "chkTo": "012",
-      "puerta": "09",
+      "puerta": "08",
       "ruta": "LHR",
       "via": "",
       "remark": "HOR",
