@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/10/2019 15:07",
+  "lastUpdate": "20/10/2019 15:12",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -88,8 +88,8 @@
       "at": "",
       "term": "C",
       "sector": "CAC",
-      "cinta": "",
-      "lF": "",
+      "cinta": "11",
+      "lF": "017",
       "ruta": "MDZ",
       "via": "",
       "remark": "EST",
@@ -107,8 +107,8 @@
       "at": "",
       "term": "C",
       "sector": "CAC",
-      "cinta": "",
-      "lF": "",
+      "cinta": "12",
+      "lF": "018",
       "ruta": "BRC",
       "via": "",
       "remark": "EST",
@@ -183,8 +183,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "9",
+      "lF": "009",
       "ruta": "SCL",
       "via": "",
       "remark": "EST",
@@ -3486,7 +3486,7 @@
       "matricula": "LVFVN",
       "posicion": "16B",
       "et": "",
-      "at": "",
+      "at": "20/10/2019 15:08",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3494,7 +3494,7 @@
       "puerta": "23",
       "ruta": "GIG",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3589,7 +3589,7 @@
       "puerta": "21",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
