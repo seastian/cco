@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/10/2019 14:12",
+  "lastUpdate": "20/10/2019 14:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3475,7 +3475,7 @@
       "puerta": "24",
       "ruta": "USH",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
