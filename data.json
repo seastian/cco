@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/10/2019 11:46",
+  "lastUpdate": "20/10/2019 11:51",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3220,7 +3220,7 @@
       "matricula": "HP1726",
       "posicion": "02",
       "et": "",
-      "at": "",
+      "at": "20/10/2019 11:49",
       "term": "A",
       "sector": "AP",
       "chkFrom": "013",
@@ -3228,7 +3228,7 @@
       "puerta": "01",
       "ruta": "PTY",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3456,7 +3456,7 @@
       "puerta": "16",
       "ruta": "MAD",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3475,7 +3475,7 @@
       "puerta": "27",
       "ruta": "BRC",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
