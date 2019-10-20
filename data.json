@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/10/2019 18:22",
+  "lastUpdate": "20/10/2019 18:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -83,7 +83,7 @@
       "vuelo": "400",
       "st": "20/10/2019 19:00",
       "matricula": "CCDAN",
-      "posicion": "",
+      "posicion": "50A",
       "et": "",
       "at": "",
       "term": "A",
@@ -206,7 +206,7 @@
       "lF": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "",
+      "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
     },
@@ -3760,7 +3760,7 @@
       "puerta": "13",
       "ruta": "LIM",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3814,7 +3814,7 @@
       "sector": "AP",
       "chkFrom": "001",
       "chkTo": "020",
-      "puerta": "09",
+      "puerta": "08",
       "ruta": "DFW",
       "via": "",
       "remark": "HOR",
@@ -3921,7 +3921,7 @@
       "vuelo": "401",
       "st": "20/10/2019 21:00",
       "matricula": "CCDAN",
-      "posicion": "",
+      "posicion": "50A",
       "et": "",
       "at": "",
       "term": "A",
@@ -3950,7 +3950,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "CAN",
       "sanidad": "NO"
     },
     {
@@ -4155,7 +4155,7 @@
       "term": "A",
       "sector": "AP",
       "chkFrom": "027",
-      "chkTo": "033",
+      "chkTo": "035",
       "puerta": "",
       "ruta": "DXB",
       "via": "GIG",
