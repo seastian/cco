@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "21/10/2019 14:17",
+  "lastUpdate": "21/10/2019 14:22",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "SIN",
-      "vuelo": "CC150",
-      "st": "21/10/2019 14:20",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "USH",
-      "via": "",
-      "remark": "CAN",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AR",
@@ -2416,25 +2397,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AC",
-      "vuelo": "092",
-      "st": "21/10/2019 13:00",
-      "matricula": "CFPQB",
-      "posicion": "04",
-      "et": "21/10/2019 13:30",
-      "at": "21/10/2019 13:26",
-      "term": "A",
-      "sector": "",
-      "cinta": "4",
-      "lF": "004",
-      "ruta": "YYZ",
-      "via": "SCL",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "267"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "PRV",
       "vuelo": "ARA",
       "st": "21/10/2019 13:00",
@@ -2451,6 +2413,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "4"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AC",
+      "vuelo": "092",
+      "st": "21/10/2019 13:00",
+      "matricula": "CFPQB",
+      "posicion": "04",
+      "et": "21/10/2019 13:30",
+      "at": "21/10/2019 13:26",
+      "term": "A",
+      "sector": "",
+      "cinta": "4",
+      "lF": "004",
+      "ruta": "YYZ",
+      "via": "SCL",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "267"
     },
     {
       "tipo": "arribo",
@@ -2527,6 +2508,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "168"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "SIN",
+      "vuelo": "CC150",
+      "st": "21/10/2019 14:20",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "USH",
+      "via": "",
+      "remark": "CAN",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "partida",
@@ -3893,7 +3893,7 @@
       "puerta": "16",
       "ruta": "GIG",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3912,7 +3912,7 @@
       "puerta": "03",
       "ruta": "YYZ",
       "via": "SCL",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -4472,7 +4472,7 @@
       "vuelo": "417",
       "st": "21/10/2019 20:20",
       "matricula": "N338UP",
-      "posicion": "61",
+      "posicion": "56",
       "et": "",
       "at": "",
       "term": "TCA",
