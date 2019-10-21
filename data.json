@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/10/2019 01:43",
+  "lastUpdate": "21/10/2019 01:49",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1257,25 +1257,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8011",
-      "st": "20/10/2019 14:23",
-      "matricula": "PRMAP",
-      "posicion": "07",
-      "et": "20/10/2019 13:57",
-      "at": "20/10/2019 13:47",
-      "term": "A",
-      "sector": "",
-      "cinta": "4",
-      "lF": "002",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "156"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "G3",
       "vuelo": "7682",
       "st": "20/10/2019 14:55",
@@ -1371,25 +1352,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "H2",
-      "vuelo": "507",
-      "st": "20/10/2019 14:45",
-      "matricula": "CCAHE",
-      "posicion": "05",
-      "et": "20/10/2019 15:45",
-      "at": "20/10/2019 15:48",
-      "term": "A",
-      "sector": "",
-      "cinta": "2",
-      "lF": "004",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "111"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AU",
       "vuelo": "2393",
       "st": "20/10/2019 16:10",
@@ -1406,6 +1368,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "67"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "H2",
+      "vuelo": "507",
+      "st": "20/10/2019 14:45",
+      "matricula": "CCAHE",
+      "posicion": "05",
+      "et": "20/10/2019 15:45",
+      "at": "20/10/2019 15:48",
+      "term": "A",
+      "sector": "",
+      "cinta": "2",
+      "lF": "004",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "111"
     },
     {
       "tipo": "arribo",
