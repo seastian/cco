@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/10/2019 07:22",
+  "lastUpdate": "21/10/2019 07:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2482,32 +2482,13 @@
       "at": "21/10/2019 07:22",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "5",
+      "lF": "005",
       "ruta": "DFW",
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "232"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1364",
-      "st": "20/10/2019 19:00",
-      "matricula": "LVFUA",
-      "posicion": "18A",
-      "et": "",
-      "at": "20/10/2019 19:28",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "13",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
@@ -3836,7 +3817,7 @@
       "puerta": "12",
       "ruta": "ASU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
