@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/10/2019 03:57",
+  "lastUpdate": "21/10/2019 04:03",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1259,7 +1259,7 @@
       "tipo": "arribo",
       "aerolinea": "AD",
       "vuelo": "8760",
-      "st": "20/10/2019 16:00",
+      "st": "21/10/2019 16:00",
       "matricula": "",
       "posicion": "",
       "et": "",
@@ -1270,7 +1270,7 @@
       "lF": "",
       "ruta": "CNF",
       "via": "",
-      "remark": "CON",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
@@ -3760,7 +3760,7 @@
       "puerta": "01",
       "ruta": "LIM",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
