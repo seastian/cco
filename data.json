@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/10/2019 03:35",
+  "lastUpdate": "21/10/2019 03:40",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3817,7 +3817,7 @@
       "puerta": "01",
       "ruta": "LIM",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3836,7 +3836,7 @@
       "puerta": "05",
       "ruta": "VCP",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
