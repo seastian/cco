@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/10/2019 02:45",
+  "lastUpdate": "21/10/2019 02:50",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3836,7 +3836,7 @@
       "puerta": "16",
       "ruta": "PUJ",
       "via": "RES",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -5089,6 +5089,25 @@
       "chkTo": "074",
       "puerta": "",
       "ruta": "GRU",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1250",
+      "st": "21/10/2019 14:50",
+      "matricula": "LVGUC",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "GIG",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
