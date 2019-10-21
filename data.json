@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/10/2019 00:31",
+  "lastUpdate": "21/10/2019 00:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2568,25 +2568,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1698",
-      "st": "20/10/2019 12:25",
-      "matricula": "LVGKT",
-      "posicion": "52A",
-      "et": "",
-      "at": "20/10/2019 12:35",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "27",
-      "ruta": "BRC",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "UX",
       "vuelo": "042",
       "st": "20/10/2019 12:30",
@@ -3942,7 +3923,7 @@
       "matricula": "N766AV",
       "posicion": "02",
       "et": "",
-      "at": "",
+      "at": "21/10/2019 00:34",
       "term": "A",
       "sector": "AP",
       "chkFrom": "013",
@@ -3950,7 +3931,7 @@
       "puerta": "01",
       "ruta": "BOG",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
