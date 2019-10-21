@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "21/10/2019 10:52",
+  "lastUpdate": "21/10/2019 10:57",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1501",
-      "st": "21/10/2019 10:15",
-      "matricula": "LVFXQ",
-      "posicion": "25B",
-      "et": "21/10/2019 10:56",
-      "at": "",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "12",
-      "lF": "018",
-      "ruta": "COR",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": "156"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "G3",
@@ -2302,25 +2283,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "FQ",
-      "vuelo": "8002",
-      "st": "21/10/2019 10:00",
-      "matricula": "LVGIJ",
-      "posicion": "50B",
-      "et": "",
-      "at": "21/10/2019 10:34",
-      "term": "C",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "AEP",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "IB_",
       "vuelo": "2601",
       "st": "21/10/2019 10:00",
@@ -2337,6 +2299,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "312"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "FQ",
+      "vuelo": "8002",
+      "st": "21/10/2019 10:00",
+      "matricula": "LVGIJ",
+      "posicion": "50B",
+      "et": "",
+      "at": "21/10/2019 10:34",
+      "term": "C",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "AEP",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -2451,6 +2432,25 @@
       "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1501",
+      "st": "21/10/2019 10:15",
+      "matricula": "LVFXQ",
+      "posicion": "25B",
+      "et": "21/10/2019 10:56",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "12",
+      "lF": "018",
+      "ruta": "COR",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": "156"
     },
     {
       "tipo": "partida",
@@ -3448,7 +3448,7 @@
       "matricula": "LVFQZ",
       "posicion": "17A",
       "et": "",
-      "at": "",
+      "at": "21/10/2019 10:55",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3456,7 +3456,7 @@
       "puerta": "17",
       "ruta": "GIG",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3532,7 +3532,7 @@
       "puerta": "05",
       "ruta": "GRU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
