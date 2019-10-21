@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/10/2019 18:21",
+  "lastUpdate": "21/10/2019 18:27",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1124,25 +1124,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "LH",
-      "vuelo": "510",
-      "st": "21/10/2019 06:40",
-      "matricula": "DABYN",
-      "posicion": "09",
-      "et": "21/10/2019 06:22",
-      "at": "21/10/2019 06:24",
-      "term": "A",
-      "sector": "",
-      "cinta": "2",
-      "lF": "004",
-      "ruta": "FRA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AOG",
       "vuelo": "103",
       "st": "21/10/2019 06:30",
@@ -1238,25 +1219,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1361",
-      "st": "21/10/2019 07:10",
-      "matricula": "LVCBT",
-      "posicion": "17B",
-      "et": "21/10/2019 07:09",
-      "at": "21/10/2019 06:56",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "009",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "104"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AZ",
       "vuelo": "680",
       "st": "21/10/2019 06:45",
@@ -1273,6 +1235,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "382"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1361",
+      "st": "21/10/2019 07:10",
+      "matricula": "LVCBT",
+      "posicion": "17B",
+      "et": "21/10/2019 07:09",
+      "at": "21/10/2019 06:56",
+      "term": "A",
+      "sector": "",
+      "cinta": "7",
+      "lF": "009",
+      "ruta": "BOG",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "104"
     },
     {
       "tipo": "arribo",
@@ -2489,25 +2470,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "174"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1300",
-      "st": "20/10/2019 23:30",
-      "matricula": "LVFNJ",
-      "posicion": "16",
-      "et": "21/10/2019 06:00",
-      "at": "21/10/2019 06:26",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "215",
-      "chkTo": "240",
-      "puerta": "22",
-      "ruta": "JFK",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
@@ -3893,7 +3855,7 @@
       "puerta": "",
       "ruta": "FDO",
       "via": "",
-      "remark": "DEM",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3923,7 +3885,7 @@
       "matricula": "LVFVN",
       "posicion": "14A",
       "et": "",
-      "at": "",
+      "at": "21/10/2019 18:18",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3931,7 +3893,7 @@
       "puerta": "18",
       "ruta": "CWB",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -4007,7 +3969,7 @@
       "puerta": "21",
       "ruta": "LIM",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -4026,7 +3988,7 @@
       "puerta": "03",
       "ruta": "SCL",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4175,7 +4137,7 @@
       "sector": "AP",
       "chkFrom": "001",
       "chkTo": "020",
-      "puerta": "",
+      "puerta": "08",
       "ruta": "MIA",
       "via": "",
       "remark": "HOR",
