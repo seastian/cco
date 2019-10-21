@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/10/2019 19:22",
+  "lastUpdate": "21/10/2019 19:27",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3809,7 +3809,7 @@
       "matricula": "LVFQZ",
       "posicion": "25B",
       "et": "",
-      "at": "",
+      "at": "21/10/2019 19:27",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3817,7 +3817,7 @@
       "puerta": "21",
       "ruta": "LIM",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3828,7 +3828,7 @@
       "matricula": "CCBGF",
       "posicion": "04",
       "et": "",
-      "at": "",
+      "at": "21/10/2019 19:25",
       "term": "A",
       "sector": "AP",
       "chkFrom": "038",
@@ -3836,7 +3836,7 @@
       "puerta": "03",
       "ruta": "SCL",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3950,7 +3950,7 @@
       "puerta": "07",
       "ruta": "LIM",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4263,7 +4263,7 @@
       "vuelo": "908",
       "st": "21/10/2019 22:40",
       "matricula": "N784AN",
-      "posicion": "63",
+      "posicion": "54",
       "et": "",
       "at": "",
       "term": "A",
@@ -4306,7 +4306,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "215",
+      "chkFrom": "207",
       "chkTo": "240",
       "puerta": "17",
       "ruta": "MIA",
@@ -4382,7 +4382,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "215",
+      "chkFrom": "207",
       "chkTo": "240",
       "puerta": "",
       "ruta": "JFK",
