@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/10/2019 01:49",
+  "lastUpdate": "21/10/2019 01:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3836,7 +3836,7 @@
       "puerta": "02",
       "ruta": "REC",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
