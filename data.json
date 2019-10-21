@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/10/2019 13:49",
+  "lastUpdate": "21/10/2019 13:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -386,7 +386,7 @@
       "aerolinea": "4M",
       "vuelo": "7511",
       "st": "21/10/2019 17:46",
-      "matricula": "LVGUS",
+      "matricula": "LVCQS",
       "posicion": "",
       "et": "",
       "at": "",
@@ -3562,7 +3562,7 @@
       "matricula": "LVCTZ",
       "posicion": "42",
       "et": "",
-      "at": "",
+      "at": "21/10/2019 13:55",
       "term": "FBO",
       "sector": "",
       "chkFrom": "",
@@ -3570,7 +3570,7 @@
       "puerta": "",
       "ruta": "FDO",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3798,7 +3798,7 @@
       "puerta": "26",
       "ruta": "COR",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4357,7 +4357,7 @@
       "aerolinea": "4M",
       "vuelo": "7814",
       "st": "21/10/2019 19:20",
-      "matricula": "LVGUS",
+      "matricula": "LVCQS",
       "posicion": "",
       "et": "",
       "at": "",
