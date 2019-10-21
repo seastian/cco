@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "21/10/2019 01:54",
+  "lastUpdate": "21/10/2019 02:00",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AD",
-      "vuelo": "8762",
-      "st": "21/10/2019 02:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "CNF",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "JJ",
@@ -2510,6 +2491,25 @@
       "pax": "155"
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "AD",
+      "vuelo": "8762",
+      "st": "21/10/2019 02:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "CNF",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
       "tipo": "partida",
       "aerolinea": "DI",
       "vuelo": "7506",
@@ -3836,7 +3836,7 @@
       "puerta": "02",
       "ruta": "REC",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
