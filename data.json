@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/10/2019 14:59",
+  "lastUpdate": "22/10/2019 15:04",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -174,6 +174,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "JJ",
+      "vuelo": "8003",
+      "st": "22/10/2019 17:40",
+      "matricula": "PRMBO",
+      "posicion": "",
+      "et": "22/10/2019 17:20",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "LA",
       "vuelo": "445",
       "st": "22/10/2019 17:20",
@@ -186,25 +205,6 @@
       "cinta": "",
       "lF": "",
       "ruta": "SCL",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8003",
-      "st": "22/10/2019 17:40",
-      "matricula": "PRMBO",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "GRU",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -3220,7 +3220,7 @@
       "matricula": "LVFQZ",
       "posicion": "16B",
       "et": "",
-      "at": "",
+      "at": "22/10/2019 15:05",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3228,7 +3228,7 @@
       "puerta": "23",
       "ruta": "GIG",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3285,7 +3285,7 @@
       "puerta": "16",
       "ruta": "GRU",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
