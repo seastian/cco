@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/10/2019 16:29",
+  "lastUpdate": "22/10/2019 16:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -177,7 +177,7 @@
       "aerolinea": "AU",
       "vuelo": "2709",
       "st": "22/10/2019 20:00",
-      "matricula": "LVCDZ",
+      "matricula": "LVCPK",
       "posicion": "",
       "et": "",
       "at": "",
@@ -291,7 +291,7 @@
       "aerolinea": "AU",
       "vuelo": "2601",
       "st": "22/10/2019 20:40",
-      "matricula": "LVCPK",
+      "matricula": "LVCDZ",
       "posicion": "",
       "et": "",
       "at": "",
@@ -889,6 +889,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "LIM",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1301",
+      "st": "23/10/2019 04:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "JFK",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -3239,7 +3258,7 @@
       "matricula": "CP2881",
       "posicion": "04",
       "et": "",
-      "at": "",
+      "at": "22/10/2019 16:31",
       "term": "A",
       "sector": "AP",
       "chkFrom": "013",
@@ -3247,7 +3266,7 @@
       "puerta": "03",
       "ruta": "VVI",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3361,7 +3380,7 @@
       "puerta": "05",
       "ruta": "GIG",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3787,7 +3806,7 @@
       "aerolinea": "AU",
       "vuelo": "2762",
       "st": "22/10/2019 21:30",
-      "matricula": "LVCPK",
+      "matricula": "LVCDZ",
       "posicion": "",
       "et": "",
       "at": "",
