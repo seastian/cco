@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/10/2019 04:29",
+  "lastUpdate": "22/10/2019 04:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3665,7 +3665,7 @@
       "puerta": "",
       "ruta": "AEP",
       "via": "",
-      "remark": "HOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3722,7 +3722,7 @@
       "puerta": "02",
       "ruta": "BSB",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3760,7 +3760,7 @@
       "puerta": "12",
       "ruta": "SSA",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
