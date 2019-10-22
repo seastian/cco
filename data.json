@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/10/2019 15:35",
+  "lastUpdate": "22/10/2019 15:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -45,7 +45,7 @@
       "vuelo": "1529",
       "st": "22/10/2019 15:25",
       "matricula": "LVFUA",
-      "posicion": "",
+      "posicion": "17A",
       "et": "22/10/2019 16:00",
       "at": "",
       "term": "C",
@@ -3266,7 +3266,7 @@
       "puerta": "18",
       "ruta": "AMS",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3342,7 +3342,7 @@
       "puerta": "06",
       "ruta": "GRU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
