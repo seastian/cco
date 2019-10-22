@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/10/2019 12:41",
+  "lastUpdate": "22/10/2019 12:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3144,7 +3144,7 @@
       "matricula": "CCBAG",
       "posicion": "50B",
       "et": "22/10/2019 11:45",
-      "at": "",
+      "at": "22/10/2019 12:44",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3152,7 +3152,7 @@
       "puerta": "12",
       "ruta": "SCL",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3361,7 +3361,7 @@
       "puerta": "02",
       "ruta": "GRU",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3380,7 +3380,7 @@
       "puerta": "17",
       "ruta": "MAD",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3399,7 +3399,7 @@
       "puerta": "14",
       "ruta": "CDG",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
