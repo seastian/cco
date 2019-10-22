@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/10/2019 10:28",
+  "lastUpdate": "22/10/2019 10:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -198,7 +198,7 @@
       "st": "22/10/2019 14:23",
       "matricula": "PRTYG",
       "posicion": "",
-      "et": "",
+      "et": "22/10/2019 14:20",
       "at": "",
       "term": "A",
       "sector": "",
@@ -206,9 +206,9 @@
       "lF": "",
       "ruta": "LIM",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "163"
     },
     {
       "tipo": "arribo",
@@ -2118,14 +2118,14 @@
       "matricula": "LVFUC",
       "posicion": "51A",
       "et": "22/10/2019 10:20",
-      "at": "",
+      "at": "22/10/2019 10:30",
       "term": "C",
       "sector": "CAC",
       "cinta": "",
       "lF": "",
       "ruta": "COR",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "166"
     },
@@ -3342,7 +3342,7 @@
       "puerta": "17",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3351,14 +3351,14 @@
       "vuelo": "278",
       "st": "22/10/2019 11:28",
       "matricula": "HP1836",
-      "posicion": "50A",
+      "posicion": "02",
       "et": "",
       "at": "",
       "term": "A",
       "sector": "AP",
       "chkFrom": "013",
       "chkTo": "018",
-      "puerta": "",
+      "puerta": "01",
       "ruta": "PTY",
       "via": "",
       "remark": "HOR",
@@ -3396,7 +3396,7 @@
       "sector": "AP",
       "chkFrom": "041",
       "chkTo": "053",
-      "puerta": "",
+      "puerta": "13",
       "ruta": "SCL",
       "via": "",
       "remark": "HOR",
@@ -3567,7 +3567,7 @@
       "sector": "AP",
       "chkFrom": "041",
       "chkTo": "053",
-      "puerta": "13",
+      "puerta": "",
       "ruta": "SCL",
       "via": "",
       "remark": "DEM",
