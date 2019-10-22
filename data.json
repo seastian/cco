@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/10/2019 12:36",
+  "lastUpdate": "22/10/2019 12:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -140,7 +140,7 @@
       "vuelo": "8011",
       "st": "22/10/2019 14:23",
       "matricula": "PRTYG",
-      "posicion": "",
+      "posicion": "07",
       "et": "22/10/2019 14:20",
       "at": "",
       "term": "A",
@@ -168,7 +168,7 @@
       "lF": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "",
+      "remark": "DEM",
       "sanidad": "NO",
       "pax": "122"
     },
@@ -3617,14 +3617,14 @@
       "vuelo": "8011",
       "st": "22/10/2019 16:15",
       "matricula": "PRTYG",
-      "posicion": "",
+      "posicion": "07",
       "et": "",
       "at": "",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
       "chkTo": "053",
-      "puerta": "",
+      "puerta": "06",
       "ruta": "GRU",
       "via": "",
       "remark": "HOR",
