@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/10/2019 13:50",
+  "lastUpdate": "22/10/2019 13:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2023,14 +2023,14 @@
       "matricula": "PHBHL",
       "posicion": "14",
       "et": "22/10/2019 13:48",
-      "at": "",
+      "at": "22/10/2019 13:52",
       "term": "A",
       "sector": "",
       "cinta": "7",
       "lF": "010",
       "ruta": "SCL",
       "via": "",
-      "remark": "DEM",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -3277,7 +3277,7 @@
       "matricula": "LVBZO",
       "posicion": "25B",
       "et": "22/10/2019 13:30",
-      "at": "",
+      "at": "22/10/2019 13:55",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3285,7 +3285,7 @@
       "puerta": "24",
       "ruta": "MDZ",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3352,7 +3352,7 @@
       "st": "22/10/2019 14:10",
       "matricula": "PRGUY",
       "posicion": "06",
-      "et": "",
+      "et": "22/10/2019 14:20",
       "at": "",
       "term": "A",
       "sector": "AP",
@@ -3361,7 +3361,7 @@
       "puerta": "05",
       "ruta": "GRU",
       "via": "",
-      "remark": "PRE",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3399,7 +3399,7 @@
       "puerta": "04",
       "ruta": "YYZ",
       "via": "SCL",
-      "remark": "EST",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
