@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/10/2019 12:52",
+  "lastUpdate": "22/10/2019 12:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3239,7 +3239,7 @@
       "matricula": "ECNBM",
       "posicion": "04",
       "et": "",
-      "at": "",
+      "at": "22/10/2019 12:58",
       "term": "A",
       "sector": "AP",
       "chkFrom": "054",
@@ -3247,7 +3247,7 @@
       "puerta": "03",
       "ruta": "MAD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3296,7 +3296,7 @@
       "matricula": "LVFUA",
       "posicion": "17B",
       "et": "22/10/2019 13:00",
-      "at": "",
+      "at": "22/10/2019 12:56",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3304,7 +3304,7 @@
       "puerta": "26",
       "ruta": "COR",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3342,7 +3342,7 @@
       "puerta": "13",
       "ruta": "MVD",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3399,7 +3399,7 @@
       "puerta": "14",
       "ruta": "CDG",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4091,8 +4091,8 @@
       "aerolinea": "UA",
       "vuelo": "818",
       "st": "22/10/2019 21:25",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "N78005",
+      "posicion": "33",
       "et": "",
       "at": "",
       "term": "A",
