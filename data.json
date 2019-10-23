@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/10/2019 21:05",
+  "lastUpdate": "22/10/2019 21:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2004,14 +2004,14 @@
       "matricula": "TCLJA",
       "posicion": "05",
       "et": "22/10/2019 21:04",
-      "at": "",
+      "at": "22/10/2019 21:09",
       "term": "A",
       "sector": "",
       "cinta": "2",
       "lF": "002",
       "ruta": "IST",
       "via": "GRU",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "150"
     },
@@ -3342,7 +3342,7 @@
       "puerta": "12",
       "ruta": "ASU",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
