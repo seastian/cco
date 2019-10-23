@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/10/2019 05:31",
+  "lastUpdate": "23/10/2019 05:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2397,21 +2397,21 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1364",
+      "aerolinea": "LA",
+      "vuelo": "532",
       "st": "22/10/2019 19:00",
-      "matricula": "LVFRK",
-      "posicion": "18A",
+      "matricula": "",
+      "posicion": "",
       "et": "",
-      "at": "22/10/2019 19:07",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "21",
-      "ruta": "LIM",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "SCL",
       "via": "",
-      "remark": "PAR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -2435,21 +2435,21 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "LA",
-      "vuelo": "532",
+      "aerolinea": "AR",
+      "vuelo": "1364",
       "st": "22/10/2019 19:00",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "LVFRK",
+      "posicion": "18A",
       "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "",
-      "ruta": "SCL",
+      "at": "22/10/2019 19:07",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "21",
+      "ruta": "LIM",
       "via": "",
-      "remark": "CON",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3418,7 +3418,7 @@
       "puerta": "13",
       "ruta": "ASU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3437,7 +3437,7 @@
       "puerta": "17",
       "ruta": "POA",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
