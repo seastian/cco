@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/10/2019 01:30",
+  "lastUpdate": "23/10/2019 01:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -424,7 +424,7 @@
       "aerolinea": "CM",
       "vuelo": "454",
       "st": "23/10/2019 07:02",
-      "matricula": "",
+      "matricula": "HP1846",
       "posicion": "",
       "et": "",
       "at": "",
@@ -1947,14 +1947,14 @@
       "matricula": "N764AV",
       "posicion": "09",
       "et": "",
-      "at": "",
+      "at": "23/10/2019 01:35",
       "term": "A",
       "sector": "",
       "cinta": "8",
       "lF": "008",
       "ruta": "BOG",
       "via": "",
-      "remark": "CON",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
