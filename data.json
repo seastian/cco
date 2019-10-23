@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/10/2019 03:31",
+  "lastUpdate": "23/10/2019 03:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3361,7 +3361,7 @@
       "puerta": "13",
       "ruta": "SSA",
       "via": "BPS",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
