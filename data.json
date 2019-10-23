@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/10/2019 10:30",
+  "lastUpdate": "23/10/2019 10:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3296,7 +3296,7 @@
       "matricula": "LVGUC",
       "posicion": "17B",
       "et": "23/10/2019 10:35",
-      "at": "",
+      "at": "23/10/2019 10:36",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3304,7 +3304,7 @@
       "puerta": "13",
       "ruta": "SCL",
       "via": "",
-      "remark": "ULT",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
