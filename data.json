@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/10/2019 06:09",
+  "lastUpdate": "23/10/2019 06:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -197,7 +197,7 @@
       "vuelo": "245",
       "st": "23/10/2019 08:20",
       "matricula": "GYMMA",
-      "posicion": "",
+      "posicion": "06",
       "et": "23/10/2019 07:56",
       "at": "",
       "term": "A",
@@ -216,7 +216,7 @@
       "vuelo": "228",
       "st": "23/10/2019 08:15",
       "matricula": "FGSPT",
-      "posicion": "",
+      "posicion": "16",
       "et": "23/10/2019 08:04",
       "at": "",
       "term": "A",
@@ -3334,7 +3334,7 @@
       "matricula": "A7BFG",
       "posicion": "54",
       "et": "23/10/2019 05:20",
-      "at": "",
+      "at": "23/10/2019 06:11",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -3342,7 +3342,7 @@
       "puerta": "",
       "ruta": "DOH",
       "via": "UIO",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3418,7 +3418,7 @@
       "puerta": "09",
       "ruta": "LIM",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3429,7 +3429,7 @@
       "matricula": "LVCBF",
       "posicion": "22A",
       "et": "",
-      "at": "",
+      "at": "23/10/2019 06:13",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3437,7 +3437,7 @@
       "puerta": "17",
       "ruta": "POA",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3494,7 +3494,7 @@
       "puerta": "19",
       "ruta": "GRU",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3532,7 +3532,7 @@
       "puerta": "24",
       "ruta": "COR",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3738,7 +3738,7 @@
       "sector": "AP",
       "chkFrom": "059",
       "chkTo": "067",
-      "puerta": "",
+      "puerta": "23",
       "ruta": "BOG",
       "via": "",
       "remark": "DEM",
@@ -3795,7 +3795,7 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "13",
       "ruta": "SCL",
       "via": "",
       "remark": "DEM",
@@ -4709,6 +4709,25 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "POA",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1268",
+      "st": "23/10/2019 18:15",
+      "matricula": "LVFRQ",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "CWB",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
