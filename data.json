@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/10/2019 06:31",
+  "lastUpdate": "23/10/2019 06:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1200,25 +1200,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "LP",
-      "vuelo": "2429",
-      "st": "22/10/2019 18:47",
-      "matricula": "CCCXK",
-      "posicion": "06",
-      "et": "",
-      "at": "22/10/2019 18:33",
-      "term": "A",
-      "sector": "",
-      "cinta": "3",
-      "lF": "003",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "199"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "LA",
       "vuelo": "443",
       "st": "22/10/2019 19:12",
@@ -1580,25 +1561,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "423",
-      "st": "22/10/2019 21:40",
-      "matricula": "CXLSS",
-      "posicion": "59",
-      "et": "",
-      "at": "22/10/2019 21:11",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1251",
       "st": "22/10/2019 22:00",
@@ -1615,6 +1577,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "167"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AOG",
+      "vuelo": "423",
+      "st": "22/10/2019 21:40",
+      "matricula": "CXLSS",
+      "posicion": "59",
+      "et": "",
+      "at": "22/10/2019 21:11",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -2321,25 +2302,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1268",
-      "st": "22/10/2019 18:15",
-      "matricula": "LVGFQ",
-      "posicion": "17B",
-      "et": "",
-      "at": "22/10/2019 18:36",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "12",
-      "ruta": "CWB",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "JJ",
       "vuelo": "8002",
       "st": "22/10/2019 18:40",
@@ -2682,25 +2644,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "M3",
-      "vuelo": "8410",
-      "st": "22/10/2019 21:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AU",
       "vuelo": "2762",
       "st": "22/10/2019 21:30",
@@ -2716,6 +2659,25 @@
       "ruta": "ROS",
       "via": "",
       "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "8410",
+      "st": "22/10/2019 21:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -3513,7 +3475,7 @@
       "puerta": "24",
       "ruta": "COR",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3551,7 +3513,7 @@
       "puerta": "01",
       "ruta": "SCL",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
