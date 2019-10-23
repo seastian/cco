@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/10/2019 00:09",
+  "lastUpdate": "23/10/2019 00:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2530,25 +2530,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1286",
-      "st": "22/10/2019 16:05",
-      "matricula": "LVGVB",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "CAN",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "OB",
       "vuelo": "709",
       "st": "22/10/2019 16:10",
@@ -3456,7 +3437,7 @@
       "puerta": "04",
       "ruta": "ASU",
       "via": "",
-      "remark": "EST",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4045,7 +4026,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
