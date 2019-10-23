@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/10/2019 02:28",
+  "lastUpdate": "23/10/2019 02:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1105,25 +1105,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8011",
-      "st": "22/10/2019 14:23",
-      "matricula": "PRTYG",
-      "posicion": "07",
-      "et": "22/10/2019 14:20",
-      "at": "22/10/2019 14:33",
-      "term": "A",
-      "sector": "",
-      "cinta": "2",
-      "lF": "002",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "163"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1229",
       "st": "22/10/2019 15:05",
@@ -1257,25 +1238,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1871",
-      "st": "22/10/2019 16:45",
-      "matricula": "LVFRK",
-      "posicion": "18A",
-      "et": "22/10/2019 17:00",
-      "at": "22/10/2019 16:59",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "12",
-      "lF": "018",
-      "ruta": "USH",
-      "via": "FTE",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "163"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "UC",
       "vuelo": "1102",
       "st": "22/10/2019 17:00",
@@ -1292,6 +1254,25 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1871",
+      "st": "22/10/2019 16:45",
+      "matricula": "LVFRK",
+      "posicion": "18A",
+      "et": "22/10/2019 17:00",
+      "at": "22/10/2019 16:59",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "12",
+      "lF": "018",
+      "ruta": "USH",
+      "via": "FTE",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "163"
     },
     {
       "tipo": "arribo",
