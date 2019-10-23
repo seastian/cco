@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "23/10/2019 14:22",
+  "lastUpdate": "23/10/2019 14:28",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AD",
-      "vuelo": "8766",
-      "st": "23/10/2019 12:30",
-      "matricula": "PRYRE",
-      "posicion": "06",
-      "et": "23/10/2019 14:30",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "3",
-      "lF": "003",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": "173"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "G3",
@@ -57,6 +38,25 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "141"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AD",
+      "vuelo": "8766",
+      "st": "23/10/2019 12:30",
+      "matricula": "PRYRE",
+      "posicion": "06",
+      "et": "23/10/2019 14:45",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "3",
+      "lF": "003",
+      "ruta": "VCP",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": "173"
     },
     {
       "tipo": "arribo",
@@ -103,7 +103,7 @@
       "st": "23/10/2019 15:25",
       "matricula": "LVBZO",
       "posicion": "",
-      "et": "",
+      "et": "23/10/2019 15:09",
       "at": "",
       "term": "C",
       "sector": "CAC",
@@ -111,9 +111,9 @@
       "lF": "",
       "ruta": "COR",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "112"
     },
     {
       "tipo": "arribo",
@@ -126,8 +126,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "9",
+      "lF": "007",
       "ruta": "AKL",
       "via": "",
       "remark": "EST",
@@ -3665,7 +3665,7 @@
       "puerta": "04",
       "ruta": "VVI",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
