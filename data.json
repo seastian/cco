@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/10/2019 20:36",
+  "lastUpdate": "28/10/2019 20:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1124,25 +1124,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "DL",
-      "vuelo": "101",
-      "st": "28/10/2019 09:20",
-      "matricula": "N843MH",
-      "posicion": "13",
-      "et": "28/10/2019 08:48",
-      "at": "28/10/2019 08:37",
-      "term": "A",
-      "sector": "",
-      "cinta": "6",
-      "lF": "008",
-      "ruta": "ATL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AA",
       "vuelo": "931",
       "st": "28/10/2019 08:56",
@@ -2150,25 +2131,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1135",
-      "st": "28/10/2019 20:15",
-      "matricula": "LVFVH",
-      "posicion": "14",
-      "et": "28/10/2019 19:35",
-      "at": "28/10/2019 19:44",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "008",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "248"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "ET",
       "vuelo": "506",
       "st": "28/10/2019 20:30",
@@ -2185,6 +2147,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "244"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1135",
+      "st": "28/10/2019 20:15",
+      "matricula": "LVFVH",
+      "posicion": "14",
+      "et": "28/10/2019 19:35",
+      "at": "28/10/2019 19:44",
+      "term": "A",
+      "sector": "",
+      "cinta": "8",
+      "lF": "008",
+      "ruta": "MAD",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "248"
     },
     {
       "tipo": "arribo",
@@ -3589,7 +3570,7 @@
       "puerta": "10",
       "ruta": "MIA",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3627,7 +3608,7 @@
       "puerta": "14",
       "ruta": "IAH",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
