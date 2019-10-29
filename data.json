@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/10/2019 22:49",
+  "lastUpdate": "28/10/2019 22:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -126,11 +126,11 @@
       "at": "",
       "term": "C",
       "sector": "CAC",
-      "cinta": "12",
-      "lF": "018",
+      "cinta": "",
+      "lF": "",
       "ruta": "USH",
       "via": "",
-      "remark": "",
+      "remark": "ALT",
       "sanidad": "NO",
       "pax": ""
     },
@@ -145,8 +145,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "6",
+      "lF": "010",
       "ruta": "PTY",
       "via": "",
       "remark": "EST",
@@ -164,8 +164,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "3",
+      "lF": "003",
       "ruta": "GRU",
       "via": "",
       "remark": "EST",
@@ -3798,7 +3798,7 @@
       "puerta": "04",
       "ruta": "AKL",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
