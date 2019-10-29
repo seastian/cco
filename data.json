@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/10/2019 01:41",
+  "lastUpdate": "29/10/2019 01:46",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -179,7 +179,7 @@
       "st": "29/10/2019 05:00",
       "matricula": "LVFVN",
       "posicion": "",
-      "et": "",
+      "et": "29/10/2019 04:39",
       "at": "",
       "term": "A",
       "sector": "",
@@ -187,9 +187,9 @@
       "lF": "",
       "ruta": "LIM",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "90"
     },
     {
       "tipo": "arribo",
@@ -407,7 +407,7 @@
       "st": "29/10/2019 07:10",
       "matricula": "LVBZO",
       "posicion": "",
-      "et": "",
+      "et": "29/10/2019 07:25",
       "at": "",
       "term": "A",
       "sector": "",
@@ -415,9 +415,9 @@
       "lF": "",
       "ruta": "BOG",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "88"
     },
     {
       "tipo": "arribo",
@@ -2296,25 +2296,6 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AM",
-      "vuelo": "031",
-      "st": "28/10/2019 12:40",
-      "matricula": "N783AM",
-      "posicion": "03",
-      "et": "",
-      "at": "28/10/2019 13:44",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "034",
-      "chkTo": "040",
-      "puerta": "02",
-      "ruta": "MEX",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
