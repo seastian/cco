@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/10/2019 15:35",
+  "lastUpdate": "29/10/2019 15:42",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -709,7 +709,7 @@
       "aerolinea": "JJ",
       "vuelo": "8014",
       "st": "29/10/2019 23:05",
-      "matricula": "PRMAG",
+      "matricula": "PRMBH",
       "posicion": "",
       "et": "",
       "at": "",
@@ -3247,7 +3247,7 @@
       "puerta": "21",
       "ruta": "SCL",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3304,7 +3304,7 @@
       "puerta": "07",
       "ruta": "GRU",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3323,7 +3323,7 @@
       "puerta": "14",
       "ruta": "AMS",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3481,25 +3481,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1290",
-      "st": "29/10/2019 18:15",
-      "matricula": "LVGOO",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "1268",
       "st": "29/10/2019 18:15",
       "matricula": "LVCXS",
@@ -3512,6 +3493,25 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "CWB",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1290",
+      "st": "29/10/2019 18:15",
+      "matricula": "LVGOO",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "SCL",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -4031,25 +4031,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1132",
-      "st": "29/10/2019 23:55",
-      "matricula": "LVFPU",
-      "posicion": "M13",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AM",
       "vuelo": "029",
       "st": "29/10/2019 23:55",
@@ -4072,7 +4053,7 @@
       "aerolinea": "PZ",
       "vuelo": "1310",
       "st": "29/10/2019 23:55",
-      "matricula": "PRMAG",
+      "matricula": "PRMBH",
       "posicion": "",
       "et": "",
       "at": "",
@@ -4082,6 +4063,25 @@
       "chkTo": "053",
       "puerta": "",
       "ruta": "ASU",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1132",
+      "st": "29/10/2019 23:55",
+      "matricula": "LVFPU",
+      "posicion": "M13",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "MAD",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
