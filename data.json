@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/10/2019 14:50",
+  "lastUpdate": "30/10/2019 14:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -45,7 +45,7 @@
       "vuelo": "1529",
       "st": "30/10/2019 15:25",
       "matricula": "LVBZO",
-      "posicion": "",
+      "posicion": "12",
       "et": "30/10/2019 15:10",
       "at": "",
       "term": "C",
@@ -2197,7 +2197,7 @@
       "at": "30/10/2019 14:41",
       "term": "A",
       "sector": "",
-      "cinta": "3",
+      "cinta": "2",
       "lF": "006",
       "ruta": "GRU",
       "via": "",
