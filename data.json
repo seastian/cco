@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/10/2019 00:52",
+  "lastUpdate": "31/10/2019 00:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2375,25 +2375,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "117"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "JJ",
-      "vuelo": "8009",
-      "st": "30/10/2019 12:25",
-      "matricula": "PTMXJ",
-      "posicion": "02",
-      "et": "",
-      "at": "30/10/2019 12:57",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "01",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
