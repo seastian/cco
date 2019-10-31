@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/10/2019 15:19",
+  "lastUpdate": "31/10/2019 15:25",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -664,7 +664,7 @@
       "via": "",
       "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "213"
     },
     {
       "tipo": "arribo",
