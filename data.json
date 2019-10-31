@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/10/2019 20:20",
+  "lastUpdate": "31/10/2019 20:26",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -158,7 +158,7 @@
       "aerolinea": "QR",
       "vuelo": "773",
       "st": "31/10/2019 21:30",
-      "matricula": "",
+      "matricula": "A7BBA",
       "posicion": "04",
       "et": "31/10/2019 21:15",
       "at": "",
@@ -235,7 +235,7 @@
       "vuelo": "1245",
       "st": "31/10/2019 22:00",
       "matricula": "LVCXS",
-      "posicion": "",
+      "posicion": "18B",
       "et": "31/10/2019 21:43",
       "at": "",
       "term": "A",
@@ -254,7 +254,7 @@
       "vuelo": "423",
       "st": "31/10/2019 21:45",
       "matricula": "CXCLS",
-      "posicion": "",
+      "posicion": "59",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -311,7 +311,7 @@
       "vuelo": "015",
       "st": "31/10/2019 22:25",
       "matricula": "TCJJJ",
-      "posicion": "",
+      "posicion": "06",
       "et": "31/10/2019 21:52",
       "at": "",
       "term": "A",
@@ -1026,25 +1026,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "302"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AA",
-      "vuelo": "931",
-      "st": "31/10/2019 08:56",
-      "matricula": "N718AN",
-      "posicion": "06",
-      "et": "31/10/2019 08:30",
-      "at": "31/10/2019 08:26",
-      "term": "A",
-      "sector": "",
-      "cinta": "1",
-      "lF": "005",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "286"
     },
     {
       "tipo": "arribo",
@@ -3494,7 +3475,7 @@
       "puerta": "01",
       "ruta": "SCL",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
