@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/10/2019 01:53",
+  "lastUpdate": "31/10/2019 01:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3930,25 +3930,6 @@
       "chkTo": "240",
       "puerta": "17",
       "ruta": "GRU",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1428",
-      "st": "31/10/2019 06:40",
-      "matricula": "LVCXS",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "25",
-      "ruta": "SLA",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
