@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/11/2019 01:31",
+  "lastUpdate": "01/11/2019 01:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -160,7 +160,7 @@
       "st": "01/11/2019 05:00",
       "matricula": "LVFYK",
       "posicion": "",
-      "et": "",
+      "et": "1/11/2019 04:48",
       "at": "",
       "term": "A",
       "sector": "",
@@ -168,9 +168,9 @@
       "lF": "",
       "ruta": "LIM",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "157"
     },
     {
       "tipo": "arribo",
@@ -331,7 +331,7 @@
       "st": "01/11/2019 07:10",
       "matricula": "LVCAD",
       "posicion": "",
-      "et": "",
+      "et": "1/11/2019 07:19",
       "at": "",
       "term": "A",
       "sector": "",
@@ -339,9 +339,9 @@
       "lF": "",
       "ruta": "BOG",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "110"
     },
     {
       "tipo": "arribo",
@@ -1032,7 +1032,7 @@
       "aerolinea": "AC",
       "vuelo": "092",
       "st": "01/11/2019 13:30",
-      "matricula": "",
+      "matricula": "CFIVW",
       "posicion": "",
       "et": "",
       "at": "",
@@ -1042,7 +1042,7 @@
       "lF": "",
       "ruta": "YYZ",
       "via": "SCL",
-      "remark": "",
+      "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
     },
@@ -3662,7 +3662,7 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "13",
       "ruta": "SSA",
       "via": "",
       "remark": "HOR",
@@ -3700,7 +3700,7 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "17",
       "ruta": "ASU",
       "via": "",
       "remark": "HOR",
@@ -3719,7 +3719,7 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "19",
       "ruta": "POA",
       "via": "",
       "remark": "HOR",
@@ -3776,7 +3776,7 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "24",
       "ruta": "SLA",
       "via": "",
       "remark": "HOR",
@@ -3795,7 +3795,7 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "13",
       "ruta": "GRU",
       "via": "",
       "remark": "HOR",
