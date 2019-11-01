@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/11/2019 12:36",
+  "lastUpdate": "01/11/2019 12:43",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2156,14 +2156,14 @@
       "matricula": "LVCXT",
       "posicion": "18B",
       "et": "1/11/2019 12:30",
-      "at": "",
+      "at": "1/11/2019 12:36",
       "term": "C",
       "sector": "CAC",
       "cinta": "11",
       "lF": "017",
       "ruta": "USH",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "151"
     },
@@ -3247,7 +3247,7 @@
       "puerta": "18",
       "ruta": "MAD",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3320,7 +3320,7 @@
       "sector": "CPI",
       "chkFrom": "201",
       "chkTo": "210",
-      "puerta": "17",
+      "puerta": "16",
       "ruta": "FCO",
       "via": "",
       "remark": "HOR",
@@ -4002,8 +4002,8 @@
       "at": "",
       "term": "A",
       "sector": "AP",
-      "chkFrom": "083",
-      "chkTo": "083",
+      "chkFrom": "054",
+      "chkTo": "061",
       "puerta": "",
       "ruta": "IAH",
       "via": "",
