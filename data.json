@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/11/2019 03:39",
+  "lastUpdate": "01/11/2019 03:46",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1162,25 +1162,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "4M",
-      "vuelo": "7901",
-      "st": "31/10/2019 15:53",
-      "matricula": "LVGUS",
-      "posicion": "08",
-      "et": "31/10/2019 15:53",
-      "at": "31/10/2019 15:43",
-      "term": "A",
-      "sector": "",
-      "cinta": "2",
-      "lF": "002",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "143"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AU",
       "vuelo": "2393",
       "st": "31/10/2019 16:10",
@@ -1846,25 +1827,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AM",
-      "vuelo": "030",
-      "st": "31/10/2019 21:55",
-      "matricula": "N783AM",
-      "posicion": "11",
-      "et": "31/10/2019 21:46",
-      "at": "31/10/2019 21:49",
-      "term": "A",
-      "sector": "",
-      "cinta": "1",
-      "lF": "001",
-      "ruta": "MEX",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "213"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AU",
       "vuelo": "2727",
       "st": "31/10/2019 22:10",
@@ -1881,6 +1843,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "96"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AM",
+      "vuelo": "030",
+      "st": "31/10/2019 21:55",
+      "matricula": "N783AM",
+      "posicion": "11",
+      "et": "31/10/2019 21:46",
+      "at": "31/10/2019 21:49",
+      "term": "A",
+      "sector": "",
+      "cinta": "1",
+      "lF": "001",
+      "ruta": "MEX",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "213"
     },
     {
       "tipo": "arribo",
