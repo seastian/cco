@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/11/2019 17:16",
+  "lastUpdate": "01/11/2019 17:23",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3294,7 +3294,7 @@
       "vuelo": "8013",
       "st": "01/11/2019 16:50",
       "matricula": "PRMBZ",
-      "posicion": "50A",
+      "posicion": "50B",
       "et": "",
       "at": "",
       "term": "A",
@@ -3334,7 +3334,7 @@
       "matricula": "LVBRY",
       "posicion": "51A",
       "et": "",
-      "at": "",
+      "at": "1/11/2019 17:17",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3342,7 +3342,7 @@
       "puerta": "27",
       "ruta": "BRC",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3361,7 +3361,7 @@
       "puerta": "02",
       "ruta": "GIG",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3680,7 +3680,7 @@
       "term": "A",
       "sector": "AP",
       "chkFrom": "054",
-      "chkTo": "061",
+      "chkTo": "062",
       "puerta": "",
       "ruta": "IAH",
       "via": "",
@@ -3978,14 +3978,14 @@
       "vuelo": "1300",
       "st": "01/11/2019 23:30",
       "matricula": "LVGKO",
-      "posicion": "M13",
+      "posicion": "14",
       "et": "",
       "at": "",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "209",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "19",
       "ruta": "JFK",
       "via": "",
       "remark": "HOR",
