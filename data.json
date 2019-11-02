@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/11/2019 02:54",
+  "lastUpdate": "02/11/2019 02:59",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2193,15 +2193,15 @@
       "st": "02/11/2019 02:50",
       "matricula": "PRYRL",
       "posicion": "02",
-      "et": "2/11/2019 02:40",
-      "at": "",
+      "et": "",
+      "at": "2/11/2019 02:58",
       "term": "A",
       "sector": "",
       "cinta": "7",
       "lF": "007",
       "ruta": "VCP",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "158"
     },
@@ -3380,7 +3380,7 @@
       "puerta": "16",
       "ruta": "PUJ",
       "via": "RES",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
