@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/11/2019 04:23",
+  "lastUpdate": "02/11/2019 04:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1273,25 +1273,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7690",
-      "st": "01/11/2019 16:35",
-      "matricula": "PRGUG",
-      "posicion": "03",
-      "et": "1/11/2019 16:25",
-      "at": "1/11/2019 16:25",
-      "term": "A",
-      "sector": "",
-      "cinta": "6",
-      "lF": "010",
-      "ruta": "FLN",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "113"
     },
     {
       "tipo": "arribo",
