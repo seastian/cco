@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/11/2019 05:45",
+  "lastUpdate": "02/11/2019 05:50",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3252,25 +3252,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "4M",
-      "vuelo": "7900",
-      "st": "02/11/2019 04:20",
-      "matricula": "LVFUX",
-      "posicion": "53A",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "CER",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AD",
       "vuelo": "8771",
       "st": "02/11/2019 04:30",
@@ -3347,6 +3328,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "4M",
+      "vuelo": "7900",
+      "st": "02/11/2019 04:20",
+      "matricula": "LVFUX",
+      "posicion": "53A",
+      "et": "2/11/2019 07:30",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "LIM",
+      "via": "",
+      "remark": "CER",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1230",
       "st": "02/11/2019 06:00",
@@ -3380,7 +3380,7 @@
       "puerta": "17",
       "ruta": "ASU",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
