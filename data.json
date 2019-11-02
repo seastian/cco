@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/11/2019 11:12",
+  "lastUpdate": "02/11/2019 11:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3361,7 +3361,7 @@
       "puerta": "01",
       "ruta": "PTY",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3437,7 +3437,7 @@
       "puerta": "23",
       "ruta": "JPA",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3863,7 +3863,7 @@
       "aerolinea": "OB",
       "vuelo": "709",
       "st": "02/11/2019 16:10",
-      "matricula": "",
+      "matricula": "CP2881",
       "posicion": "",
       "et": "",
       "at": "",
