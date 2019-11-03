@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/11/2019 17:52",
+  "lastUpdate": "03/11/2019 17:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1029,25 +1029,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AU",
-      "vuelo": "2369",
-      "st": "03/11/2019 06:20",
-      "matricula": "LVFPS",
-      "posicion": "25A",
-      "et": "3/11/2019 05:53",
-      "at": "3/11/2019 05:56",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "009",
-      "ruta": "VVI",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "67"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AV",
       "vuelo": "087",
       "st": "03/11/2019 05:30",
@@ -1276,25 +1257,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AZ",
-      "vuelo": "680",
-      "st": "03/11/2019 07:55",
-      "matricula": "EIISO",
-      "posicion": "13",
-      "et": "3/11/2019 07:55",
-      "at": "3/11/2019 07:57",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "009",
-      "ruta": "FCO",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "279"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1028",
       "st": "03/11/2019 07:55",
@@ -1311,6 +1273,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AZ",
+      "vuelo": "680",
+      "st": "03/11/2019 07:55",
+      "matricula": "EIISO",
+      "posicion": "13",
+      "et": "3/11/2019 07:55",
+      "at": "3/11/2019 07:57",
+      "term": "A",
+      "sector": "",
+      "cinta": "7",
+      "lF": "009",
+      "ruta": "FCO",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "279"
     },
     {
       "tipo": "arribo",
@@ -1447,25 +1428,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AF",
-      "vuelo": "228",
-      "st": "03/11/2019 09:50",
-      "matricula": "FGSPU",
-      "posicion": "16",
-      "et": "3/11/2019 09:06",
-      "at": "3/11/2019 09:07",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "CDG",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "255"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "DL",
       "vuelo": "101",
       "st": "03/11/2019 09:20",
@@ -1482,6 +1444,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "240"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AF",
+      "vuelo": "228",
+      "st": "03/11/2019 09:50",
+      "matricula": "FGSPU",
+      "posicion": "16",
+      "et": "3/11/2019 09:06",
+      "at": "3/11/2019 09:07",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "009",
+      "ruta": "CDG",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "255"
     },
     {
       "tipo": "arribo",
@@ -1637,25 +1618,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1261",
-      "st": "03/11/2019 10:25",
-      "matricula": "LVGUC",
-      "posicion": "18B",
-      "et": "3/11/2019 10:10",
-      "at": "3/11/2019 10:10",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "008",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "104"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "UA",
       "vuelo": "819",
       "st": "03/11/2019 10:20",
@@ -1672,6 +1634,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "253"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1261",
+      "st": "03/11/2019 10:25",
+      "matricula": "LVGUC",
+      "posicion": "18B",
+      "et": "3/11/2019 10:10",
+      "at": "3/11/2019 10:10",
+      "term": "A",
+      "sector": "",
+      "cinta": "7",
+      "lF": "008",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "104"
     },
     {
       "tipo": "arribo",
@@ -1998,25 +1979,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8003",
-      "st": "03/11/2019 14:00",
-      "matricula": "PRMBX",
-      "posicion": "06",
-      "et": "3/11/2019 14:10",
-      "at": "3/11/2019 13:54",
-      "term": "A",
-      "sector": "",
-      "cinta": "3",
-      "lF": "003",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "154"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AC",
       "vuelo": "092",
       "st": "03/11/2019 13:30",
@@ -2033,6 +1995,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "265"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "JJ",
+      "vuelo": "8003",
+      "st": "03/11/2019 14:00",
+      "matricula": "PRMBX",
+      "posicion": "06",
+      "et": "3/11/2019 14:10",
+      "at": "3/11/2019 13:54",
+      "term": "A",
+      "sector": "",
+      "cinta": "3",
+      "lF": "003",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "154"
     },
     {
       "tipo": "arribo",
@@ -3627,7 +3608,7 @@
       "puerta": "01",
       "ruta": "GIG",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3665,7 +3646,7 @@
       "puerta": "18",
       "ruta": "SCL",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3684,7 +3665,7 @@
       "puerta": "19",
       "ruta": "CWB",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
