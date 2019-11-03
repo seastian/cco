@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/11/2019 01:48",
+  "lastUpdate": "03/11/2019 01:53",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -122,7 +122,7 @@
       "st": "03/11/2019 05:00",
       "matricula": "LVFUC",
       "posicion": "",
-      "et": "",
+      "et": "3/11/2019 05:06",
       "at": "",
       "term": "A",
       "sector": "",
@@ -130,9 +130,9 @@
       "lF": "",
       "ruta": "LIM",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "126"
     },
     {
       "tipo": "arribo",
@@ -1086,25 +1086,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AC",
-      "vuelo": "092",
-      "st": "02/11/2019 13:30",
-      "matricula": "CFNNW",
-      "posicion": "10",
-      "et": "2/11/2019 13:50",
-      "at": "2/11/2019 13:51",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "010",
-      "ruta": "YYZ",
-      "via": "SCL",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "265"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "KL",
       "vuelo": "702",
       "st": "02/11/2019 14:40",
@@ -1371,25 +1352,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1699",
-      "st": "02/11/2019 17:30",
-      "matricula": "LVFUC",
-      "posicion": "18A",
-      "et": "2/11/2019 17:35",
-      "at": "2/11/2019 17:25",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "11",
-      "lF": "017",
-      "ruta": "BRC",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "55"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "G3",
       "vuelo": "7668",
       "st": "02/11/2019 17:35",
@@ -1406,6 +1368,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "99"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1699",
+      "st": "02/11/2019 17:30",
+      "matricula": "LVFUC",
+      "posicion": "18A",
+      "et": "2/11/2019 17:35",
+      "at": "2/11/2019 17:25",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "11",
+      "lF": "017",
+      "ruta": "BRC",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "55"
     },
     {
       "tipo": "arribo",
