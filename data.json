@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/11/2019 18:28",
+  "lastUpdate": "03/11/2019 18:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -291,9 +291,9 @@
       "aerolinea": "G3",
       "vuelo": "7684",
       "st": "03/11/2019 21:15",
-      "matricula": "",
+      "matricula": "PRVBG",
       "posicion": "",
-      "et": "",
+      "et": "3/11/2019 21:15",
       "at": "",
       "term": "A",
       "sector": "",
@@ -301,7 +301,7 @@
       "lF": "",
       "ruta": "GRU",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -2289,14 +2289,14 @@
       "matricula": "LVFNJ",
       "posicion": "13",
       "et": "3/11/2019 18:25",
-      "at": "",
+      "at": "3/11/2019 18:32",
       "term": "A",
       "sector": "",
       "cinta": "9",
       "lF": "007",
       "ruta": "CUN",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "210"
     },
@@ -3627,7 +3627,7 @@
       "puerta": "21",
       "ruta": "LIM",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3646,7 +3646,7 @@
       "puerta": "07",
       "ruta": "GRU",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3882,7 +3882,7 @@
       "aerolinea": "G3",
       "vuelo": "7685",
       "st": "03/11/2019 21:55",
-      "matricula": "",
+      "matricula": "PRVBG",
       "posicion": "",
       "et": "",
       "at": "",
