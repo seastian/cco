@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/11/2019 12:52",
+  "lastUpdate": "03/11/2019 12:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3456,7 +3456,7 @@
       "puerta": "04",
       "ruta": "MAD",
       "via": "",
-      "remark": "HOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
