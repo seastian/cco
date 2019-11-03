@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "03/11/2019 15:33",
+  "lastUpdate": "03/11/2019 15:38",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1873",
-      "st": "03/11/2019 15:45",
-      "matricula": "LVFUA",
-      "posicion": "16B",
-      "et": "3/11/2019 15:40",
-      "at": "",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "12",
-      "lF": "018",
-      "ruta": "BRC",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "131"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AU",
@@ -1064,25 +1045,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1133",
-      "st": "03/11/2019 04:20",
-      "matricula": "LVFPV",
-      "posicion": "13",
-      "et": "3/11/2019 03:30",
-      "at": "3/11/2019 03:37",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "008",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "284"
     },
     {
       "tipo": "arribo",
@@ -2188,25 +2150,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8003",
-      "st": "03/11/2019 14:00",
-      "matricula": "PRMBX",
-      "posicion": "06",
-      "et": "3/11/2019 14:10",
-      "at": "3/11/2019 13:54",
-      "term": "A",
-      "sector": "",
-      "cinta": "3",
-      "lF": "003",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "154"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AC",
       "vuelo": "092",
       "st": "03/11/2019 13:30",
@@ -2223,6 +2166,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "265"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "JJ",
+      "vuelo": "8003",
+      "st": "03/11/2019 14:00",
+      "matricula": "PRMBX",
+      "posicion": "06",
+      "et": "3/11/2019 14:10",
+      "at": "3/11/2019 13:54",
+      "term": "A",
+      "sector": "",
+      "cinta": "3",
+      "lF": "003",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "154"
     },
     {
       "tipo": "arribo",
@@ -2318,6 +2280,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "167"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1873",
+      "st": "03/11/2019 15:45",
+      "matricula": "LVFUA",
+      "posicion": "16B",
+      "et": "3/11/2019 15:40",
+      "at": "3/11/2019 15:34",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "12",
+      "lF": "018",
+      "ruta": "BRC",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "131"
     },
     {
       "tipo": "partida",
@@ -3524,7 +3505,7 @@
       "matricula": "CP3017",
       "posicion": "05",
       "et": "",
-      "at": "",
+      "at": "3/11/2019 15:38",
       "term": "A",
       "sector": "AP",
       "chkFrom": "013",
@@ -3532,7 +3513,7 @@
       "puerta": "04",
       "ruta": "VVI",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
