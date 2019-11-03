@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/11/2019 06:49",
+  "lastUpdate": "03/11/2019 06:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -69,8 +69,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "5",
+      "lF": "001",
       "ruta": "LGW",
       "via": "",
       "remark": "EST",
@@ -88,8 +88,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "9",
+      "lF": "007",
       "ruta": "FRA",
       "via": "",
       "remark": "EST",
@@ -107,7 +107,7 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
+      "cinta": "4",
       "lF": "",
       "ruta": "MAD",
       "via": "",
@@ -126,7 +126,7 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
+      "cinta": "7",
       "lF": "",
       "ruta": "FCO",
       "via": "",
@@ -2270,14 +2270,14 @@
       "matricula": "LVCAD",
       "posicion": "17B",
       "et": "3/11/2019 06:46",
-      "at": "",
+      "at": "3/11/2019 06:52",
       "term": "A",
       "sector": "",
       "cinta": "7",
       "lF": "009",
       "ruta": "BOG",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "108"
     },
@@ -3437,7 +3437,7 @@
       "puerta": "07",
       "ruta": "SCL",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3513,7 +3513,7 @@
       "puerta": "24",
       "ruta": "ROS",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
