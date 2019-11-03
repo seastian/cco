@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/11/2019 17:20",
+  "lastUpdate": "03/11/2019 17:25",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3665,7 +3665,7 @@
       "puerta": "01",
       "ruta": "GIG",
       "via": "",
-      "remark": "PRE",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3703,7 +3703,7 @@
       "puerta": "13",
       "ruta": "POA",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3741,7 +3741,7 @@
       "puerta": "18",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
