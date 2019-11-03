@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "03/11/2019 08:03",
+  "lastUpdate": "03/11/2019 08:08",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "IB",
-      "vuelo": "6841",
-      "st": "03/11/2019 08:25",
-      "matricula": "ECMXV",
-      "posicion": "03",
-      "et": "3/11/2019 08:20",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "010",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "343"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "LA",
@@ -56,7 +37,7 @@
       "via": "",
       "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "269"
     },
     {
       "tipo": "arribo",
@@ -216,7 +197,7 @@
       "vuelo": "953",
       "st": "03/11/2019 09:40",
       "matricula": "N778AN",
-      "posicion": "",
+      "posicion": "09",
       "et": "3/11/2019 09:34",
       "at": "",
       "term": "A",
@@ -1140,25 +1121,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "85"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AU",
-      "vuelo": "2601",
-      "st": "02/11/2019 20:35",
-      "matricula": "LVGAQ",
-      "posicion": "25A",
-      "et": "2/11/2019 20:11",
-      "at": "2/11/2019 20:05",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "12",
-      "lF": "018",
-      "ruta": "USH",
-      "via": "MDQ",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "92"
     },
     {
       "tipo": "arribo",
@@ -2264,6 +2226,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1028",
+      "st": "03/11/2019 07:55",
+      "matricula": "LVFRK",
+      "posicion": "17A",
+      "et": "",
+      "at": "3/11/2019 07:29",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "AEP",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "AZ",
       "vuelo": "680",
       "st": "03/11/2019 07:55",
@@ -2283,22 +2264,22 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1028",
-      "st": "03/11/2019 07:55",
-      "matricula": "LVFRK",
-      "posicion": "17A",
-      "et": "",
-      "at": "3/11/2019 07:29",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "AEP",
+      "aerolinea": "IB",
+      "vuelo": "6841",
+      "st": "03/11/2019 08:25",
+      "matricula": "ECMXV",
+      "posicion": "03",
+      "et": "3/11/2019 08:20",
+      "at": "3/11/2019 08:06",
+      "term": "A",
+      "sector": "",
+      "cinta": "8",
+      "lF": "010",
+      "ruta": "MAD",
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "343"
     },
     {
       "tipo": "partida",
@@ -3391,7 +3372,7 @@
       "matricula": "PRMBR",
       "posicion": "02",
       "et": "",
-      "at": "",
+      "at": "3/11/2019 07:58",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3399,7 +3380,7 @@
       "puerta": "01",
       "ruta": "GRU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3494,7 +3475,7 @@
       "puerta": "25",
       "ruta": "USH",
       "via": "MDQ",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
