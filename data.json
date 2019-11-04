@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/11/2019 01:47",
+  "lastUpdate": "04/11/2019 01:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1143,25 +1143,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "OB",
-      "vuelo": "708",
-      "st": "03/11/2019 14:05",
-      "matricula": "CP3017",
-      "posicion": "05",
-      "et": "3/11/2019 13:50",
-      "at": "3/11/2019 13:50",
-      "term": "A",
-      "sector": "",
-      "cinta": "5",
-      "lF": "005",
-      "ruta": "VVI",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "212"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "KL",
       "vuelo": "702",
       "st": "03/11/2019 14:40",
@@ -1808,25 +1789,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "QT",
-      "vuelo": "4099",
-      "st": "03/11/2019 22:30",
-      "matricula": "N336QT",
-      "posicion": "54",
-      "et": "3/11/2019 21:10",
-      "at": "3/11/2019 21:05",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "QR",
       "vuelo": "773",
       "st": "03/11/2019 21:30",
@@ -1843,6 +1805,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "182"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "QT",
+      "vuelo": "4099",
+      "st": "03/11/2019 22:30",
+      "matricula": "N336QT",
+      "posicion": "54",
+      "et": "3/11/2019 21:10",
+      "at": "3/11/2019 21:05",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "BOG",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -2302,25 +2283,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AV",
-      "vuelo": "217",
-      "st": "03/11/2019 22:20",
-      "matricula": "N753AV",
-      "posicion": "08",
-      "et": "4/11/2019 00:40",
-      "at": "4/11/2019 00:37",
-      "term": "A",
-      "sector": "",
-      "cinta": "2",
-      "lF": "002",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "120"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "JJ",
       "vuelo": "8010",
       "st": "04/11/2019 00:00",
@@ -2337,6 +2299,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AV",
+      "vuelo": "217",
+      "st": "03/11/2019 22:20",
+      "matricula": "N753AV",
+      "posicion": "08",
+      "et": "4/11/2019 00:40",
+      "at": "4/11/2019 00:37",
+      "term": "A",
+      "sector": "",
+      "cinta": "2",
+      "lF": "002",
+      "ruta": "BOG",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "120"
     },
     {
       "tipo": "arribo",
@@ -3562,7 +3543,7 @@
       "matricula": "CXCAR",
       "posicion": "56B",
       "et": "",
-      "at": "",
+      "at": "4/11/2019 01:49",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -3570,7 +3551,7 @@
       "puerta": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3646,7 +3627,7 @@
       "puerta": "06",
       "ruta": "ASU",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3665,7 +3646,7 @@
       "puerta": "01",
       "ruta": "GIG",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
