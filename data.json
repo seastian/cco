@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/11/2019 00:57",
+  "lastUpdate": "04/11/2019 01:02",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3448,7 +3448,7 @@
       "matricula": "N336QT",
       "posicion": "54",
       "et": "3/11/2019 23:00",
-      "at": "",
+      "at": "4/11/2019 01:02",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -3456,7 +3456,7 @@
       "puerta": "",
       "ruta": "BOG",
       "via": "",
-      "remark": "EST",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3676,7 +3676,7 @@
       "matricula": "T1251",
       "posicion": "11",
       "et": "",
-      "at": "",
+      "at": "4/11/2019 00:58",
       "term": "A",
       "sector": "AP",
       "chkFrom": "083",
@@ -3684,7 +3684,7 @@
       "puerta": "14",
       "ruta": "HAV",
       "via": "CCC",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3741,7 +3741,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "EST",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4766,6 +4766,25 @@
       "chkTo": "040",
       "puerta": "",
       "ruta": "MEX",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "IB_",
+      "vuelo": "2602",
+      "st": "04/11/2019 13:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "027",
+      "chkTo": "032",
+      "puerta": "",
+      "ruta": "BCN",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
