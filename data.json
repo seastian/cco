@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/11/2019 03:05",
+  "lastUpdate": "04/11/2019 03:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1634,25 +1634,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "67"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "459",
-      "st": "03/11/2019 20:13",
-      "matricula": "CCBFV",
-      "posicion": "05",
-      "et": "3/11/2019 19:52",
-      "at": "3/11/2019 19:49",
-      "term": "A",
-      "sector": "",
-      "cinta": "3",
-      "lF": "003",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "82"
     },
     {
       "tipo": "arribo",
