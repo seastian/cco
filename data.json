@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/11/2019 12:30",
+  "lastUpdate": "04/11/2019 12:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3562,7 +3562,7 @@
       "matricula": "LVCAD",
       "posicion": "50A",
       "et": "",
-      "at": "",
+      "at": "4/11/2019 12:32",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3570,7 +3570,7 @@
       "puerta": "25",
       "ruta": "COR",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3722,7 +3722,7 @@
       "puerta": "18",
       "ruta": "ZRH",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3817,7 +3817,7 @@
       "puerta": "05",
       "ruta": "VCP",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3855,7 +3855,7 @@
       "puerta": "14",
       "ruta": "FCO",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
