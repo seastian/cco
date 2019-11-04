@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/11/2019 02:49",
+  "lastUpdate": "04/11/2019 02:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3570,7 +3570,7 @@
       "puerta": "16",
       "ruta": "PUJ",
       "via": "RES",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
