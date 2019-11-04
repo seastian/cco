@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/11/2019 00:47",
+  "lastUpdate": "04/11/2019 00:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3741,7 +3741,7 @@
       "puerta": "06",
       "ruta": "ASU",
       "via": "",
-      "remark": "DEM",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3779,7 +3779,7 @@
       "puerta": "05",
       "ruta": "PTY",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3807,7 +3807,7 @@
       "vuelo": "1324",
       "st": "04/11/2019 03:15",
       "matricula": "LVGVC",
-      "posicion": "25B",
+      "posicion": "12",
       "et": "",
       "at": "",
       "term": "C",
