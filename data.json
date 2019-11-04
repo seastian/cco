@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/11/2019 05:22",
+  "lastUpdate": "04/11/2019 05:27",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3551,7 +3551,7 @@
       "puerta": "17",
       "ruta": "ASU",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
