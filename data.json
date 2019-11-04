@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/11/2019 05:32",
+  "lastUpdate": "04/11/2019 05:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -122,7 +122,7 @@
       "st": "04/11/2019 06:50",
       "matricula": "PRMBH",
       "posicion": "",
-      "et": "",
+      "et": "4/11/2019 06:55",
       "at": "",
       "term": "A",
       "sector": "",
@@ -130,7 +130,7 @@
       "lF": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -1371,25 +1371,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1253",
-      "st": "03/11/2019 17:55",
-      "matricula": "LVGUC",
-      "posicion": "17B",
-      "et": "3/11/2019 17:30",
-      "at": "3/11/2019 17:35",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "008",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "121"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "JJ",
       "vuelo": "8092",
       "st": "03/11/2019 18:25",
@@ -1713,25 +1694,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "QT",
-      "vuelo": "4099",
-      "st": "03/11/2019 22:30",
-      "matricula": "N336QT",
-      "posicion": "54",
-      "et": "3/11/2019 21:10",
-      "at": "3/11/2019 21:05",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "QR",
       "vuelo": "773",
       "st": "03/11/2019 21:30",
@@ -1748,6 +1710,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "182"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "QT",
+      "vuelo": "4099",
+      "st": "03/11/2019 22:30",
+      "matricula": "N336QT",
+      "posicion": "54",
+      "et": "3/11/2019 21:10",
+      "at": "3/11/2019 21:05",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "BOG",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -1789,25 +1770,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1263",
-      "st": "03/11/2019 21:25",
-      "matricula": "LVBYY",
-      "posicion": "18A",
-      "et": "3/11/2019 21:21",
-      "at": "3/11/2019 21:14",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "009",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "102"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "EK",
       "vuelo": "247",
       "st": "03/11/2019 20:40",
@@ -1824,6 +1786,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "256"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1263",
+      "st": "03/11/2019 21:25",
+      "matricula": "LVBYY",
+      "posicion": "18A",
+      "et": "3/11/2019 21:21",
+      "at": "3/11/2019 21:14",
+      "term": "A",
+      "sector": "",
+      "cinta": "7",
+      "lF": "009",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "102"
     },
     {
       "tipo": "arribo",
@@ -3608,7 +3589,7 @@
       "puerta": "21",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
