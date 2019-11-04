@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/11/2019 03:26",
+  "lastUpdate": "04/11/2019 03:31",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2346,14 +2346,14 @@
       "matricula": "LVFPU",
       "posicion": "13",
       "et": "4/11/2019 03:21",
-      "at": "",
+      "at": "4/11/2019 03:27",
       "term": "A",
       "sector": "",
       "cinta": "9",
       "lF": "007",
       "ruta": "MAD",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "280"
     },
@@ -3567,7 +3567,7 @@
       "sector": "AP",
       "chkFrom": "041",
       "chkTo": "053",
-      "puerta": "",
+      "puerta": "14",
       "ruta": "LIM",
       "via": "",
       "remark": "HOR",
@@ -4785,6 +4785,25 @@
       "chkTo": "018",
       "puerta": "",
       "ruta": "VVI",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1244",
+      "st": "04/11/2019 15:30",
+      "matricula": "LVGOO",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "GRU",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
