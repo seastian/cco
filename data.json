@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/11/2019 17:49",
+  "lastUpdate": "04/11/2019 17:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1846,25 +1846,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1501",
-      "st": "04/11/2019 10:30",
-      "matricula": "LVFVM",
-      "posicion": "51A",
-      "et": "",
-      "at": "4/11/2019 10:54",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "11",
-      "lF": "017",
-      "ruta": "COR",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "139"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "LA",
       "vuelo": "455",
       "st": "04/11/2019 10:48",
@@ -1881,6 +1862,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "131"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1501",
+      "st": "04/11/2019 10:30",
+      "matricula": "LVFVM",
+      "posicion": "51A",
+      "et": "",
+      "at": "4/11/2019 10:54",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "11",
+      "lF": "017",
+      "ruta": "COR",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "139"
     },
     {
       "tipo": "arribo",
@@ -2555,16 +2555,35 @@
       "matricula": "LVGUC",
       "posicion": "22A",
       "et": "4/11/2019 17:47",
-      "at": "",
+      "at": "4/11/2019 17:50",
       "term": "A",
       "sector": "",
       "cinta": "9",
       "lF": "009",
       "ruta": "GIG",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "152"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1253",
+      "st": "04/11/2019 17:55",
+      "matricula": "LVGOO",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "partida",
@@ -4007,7 +4026,7 @@
       "puerta": "02",
       "ruta": "SCL",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
