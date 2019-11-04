@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/11/2019 01:42",
+  "lastUpdate": "04/11/2019 01:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3570,7 +3570,7 @@
       "puerta": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3665,7 +3665,7 @@
       "puerta": "01",
       "ruta": "GIG",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
