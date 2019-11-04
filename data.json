@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/11/2019 13:37",
+  "lastUpdate": "04/11/2019 13:42",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3752,7 +3752,7 @@
       "matricula": "ECNCY",
       "posicion": "05",
       "et": "",
-      "at": "",
+      "at": "4/11/2019 13:42",
       "term": "A",
       "sector": "AP",
       "chkFrom": "054",
@@ -3760,7 +3760,7 @@
       "puerta": "04",
       "ruta": "MAD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3798,7 +3798,7 @@
       "puerta": "14",
       "ruta": "FCO",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3817,7 +3817,7 @@
       "puerta": "06",
       "ruta": "GRU",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3836,7 +3836,7 @@
       "puerta": "03",
       "ruta": "LHR",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
