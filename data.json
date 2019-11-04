@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/11/2019 01:52",
+  "lastUpdate": "04/11/2019 01:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1178,25 +1178,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "265"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8003",
-      "st": "03/11/2019 14:00",
-      "matricula": "PRMBX",
-      "posicion": "06",
-      "et": "3/11/2019 14:10",
-      "at": "3/11/2019 13:54",
-      "term": "A",
-      "sector": "",
-      "cinta": "3",
-      "lF": "003",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "154"
     },
     {
       "tipo": "arribo",
