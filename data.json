@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/11/2019 15:39",
+  "lastUpdate": "05/11/2019 15:44",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -102,7 +102,7 @@
       "vuelo": "5015",
       "st": "05/11/2019 16:30",
       "matricula": "LVHKS",
-      "posicion": "",
+      "posicion": "51A",
       "et": "",
       "at": "",
       "term": "C",
@@ -3966,7 +3966,7 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "19",
       "ruta": "BOG",
       "via": "",
       "remark": "HOR",
@@ -4004,7 +4004,7 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "13",
       "ruta": "ASU",
       "via": "",
       "remark": "HOR",
@@ -4137,7 +4137,7 @@
       "sector": "AP",
       "chkFrom": "087",
       "chkTo": "091",
-      "puerta": "",
+      "puerta": "27",
       "ruta": "JUJ",
       "via": "",
       "remark": "HOR",
