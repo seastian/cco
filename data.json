@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/11/2019 03:36",
+  "lastUpdate": "05/11/2019 03:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3874,7 +3874,7 @@
       "puerta": "09",
       "ruta": "LIM",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3931,7 +3931,7 @@
       "puerta": "02",
       "ruta": "PTY",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3993,6 +3993,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "QR",
+      "vuelo": "8157",
+      "st": "05/11/2019 04:50",
+      "matricula": "A7BFB",
+      "posicion": "55",
+      "et": "5/11/2019 06:00",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "DOH",
+      "via": "UIO",
+      "remark": "DEM",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1260",
       "st": "05/11/2019 06:00",
@@ -4027,25 +4046,6 @@
       "ruta": "POA",
       "via": "",
       "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "QR",
-      "vuelo": "8157",
-      "st": "05/11/2019 04:50",
-      "matricula": "A7BFB",
-      "posicion": "55",
-      "et": "5/11/2019 06:00",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "DOH",
-      "via": "UIO",
-      "remark": "DEM",
       "sanidad": "NO"
     },
     {
@@ -4089,25 +4089,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1428",
-      "st": "05/11/2019 06:40",
-      "matricula": "LVFVO",
-      "posicion": "22A",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "25",
-      "ruta": "SLA",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "1240",
       "st": "05/11/2019 06:40",
       "matricula": "LVFUA",
@@ -4120,6 +4101,25 @@
       "chkTo": "240",
       "puerta": "17",
       "ruta": "GRU",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1428",
+      "st": "05/11/2019 06:40",
+      "matricula": "LVFVO",
+      "posicion": "22A",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "25",
+      "ruta": "SLA",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
