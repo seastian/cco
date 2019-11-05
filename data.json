@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/11/2019 08:15",
+  "lastUpdate": "05/11/2019 08:20",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -322,7 +322,7 @@
       "via": "",
       "remark": "",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "137"
     },
     {
       "tipo": "arribo",
@@ -1333,25 +1333,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "ET",
-      "vuelo": "506",
-      "st": "04/11/2019 20:30",
-      "matricula": "ETASI",
-      "posicion": "16",
-      "et": "",
-      "at": "4/11/2019 20:19",
-      "term": "A",
-      "sector": "",
-      "cinta": "1",
-      "lF": "001",
-      "ruta": "ADD",
-      "via": "GRU",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "268"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "ZP",
       "vuelo": "818",
       "st": "04/11/2019 20:40",
@@ -1466,25 +1447,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "FO",
-      "vuelo": "5015",
-      "st": "04/11/2019 21:25",
-      "matricula": "LVHFR",
-      "posicion": "52A",
-      "et": "",
-      "at": "4/11/2019 22:03",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "11",
-      "lF": "",
-      "ruta": "COR",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AM",
       "vuelo": "030",
       "st": "04/11/2019 21:55",
@@ -1501,6 +1463,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "133"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "FO",
+      "vuelo": "5015",
+      "st": "04/11/2019 21:25",
+      "matricula": "LVHFR",
+      "posicion": "52A",
+      "et": "",
+      "at": "4/11/2019 22:03",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "11",
+      "lF": "",
+      "ruta": "COR",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -1599,25 +1580,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1429",
-      "st": "04/11/2019 21:20",
-      "matricula": "LVFYK",
-      "posicion": "18A",
-      "et": "4/11/2019 21:40",
-      "at": "4/11/2019 21:43",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "11",
-      "lF": "017",
-      "ruta": "SLA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "152"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AOG",
       "vuelo": "423",
       "st": "04/11/2019 21:40",
@@ -1634,6 +1596,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1429",
+      "st": "04/11/2019 21:20",
+      "matricula": "LVFYK",
+      "posicion": "18A",
+      "et": "4/11/2019 21:40",
+      "at": "4/11/2019 21:43",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "11",
+      "lF": "017",
+      "ruta": "SLA",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "152"
     },
     {
       "tipo": "arribo",
@@ -3931,7 +3912,7 @@
       "puerta": "25",
       "ruta": "USH",
       "via": "MDQ",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
