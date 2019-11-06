@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/11/2019 17:47",
+  "lastUpdate": "06/11/2019 17:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2460,14 +2460,14 @@
       "matricula": "LVHQY",
       "posicion": "50B",
       "et": "",
-      "at": "",
+      "at": "6/11/2019 17:52",
       "term": "C",
       "sector": "CAC",
       "cinta": "12",
       "lF": "017",
       "ruta": "SLA",
       "via": "ROS",
-      "remark": "CON",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -4292,7 +4292,7 @@
       "puerta": "13",
       "ruta": "CWB",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4311,7 +4311,7 @@
       "puerta": "04",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4810,25 +4810,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1132",
-      "st": "06/11/2019 23:55",
-      "matricula": "LVFPU",
-      "posicion": "M16",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AM",
       "vuelo": "029",
       "st": "06/11/2019 23:55",
@@ -4842,6 +4823,25 @@
       "chkTo": "040",
       "puerta": "",
       "ruta": "MEX",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1132",
+      "st": "06/11/2019 23:55",
+      "matricula": "LVFPU",
+      "posicion": "M16",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "MAD",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
