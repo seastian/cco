@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/11/2019 04:49",
+  "lastUpdate": "06/11/2019 04:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3347,25 +3347,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AU",
-      "vuelo": "2368",
-      "st": "05/11/2019 23:30",
-      "matricula": "LVCPK",
-      "posicion": "22B",
-      "et": "",
-      "at": "5/11/2019 23:41",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "13",
-      "ruta": "VVI",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1300",
       "st": "05/11/2019 23:30",
@@ -3633,6 +3614,25 @@
     {
       "tipo": "partida",
       "aerolinea": "AOG",
+      "vuelo": "500",
+      "st": "06/11/2019 04:00",
+      "matricula": "CXLSS",
+      "posicion": "57",
+      "et": "",
+      "at": "6/11/2019 03:45",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
       "vuelo": "424",
       "st": "06/11/2019 04:00",
       "matricula": "CXCLS",
@@ -3665,25 +3665,6 @@
       "puerta": "18",
       "ruta": "SSA",
       "via": "BPS",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "500",
-      "st": "06/11/2019 04:00",
-      "matricula": "CXLSS",
-      "posicion": "57",
-      "et": "",
-      "at": "6/11/2019 03:45",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "ASU",
-      "via": "",
       "remark": "PAR",
       "sanidad": "NO"
     },
@@ -3760,7 +3741,7 @@
       "puerta": "04",
       "ruta": "PTY",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3798,7 +3779,7 @@
       "puerta": "24",
       "ruta": "MDZ",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
