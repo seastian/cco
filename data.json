@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/11/2019 08:27",
+  "lastUpdate": "06/11/2019 08:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -8,7 +8,7 @@
       "st": "06/11/2019 09:15",
       "matricula": "PRMHW",
       "posicion": "02",
-      "et": "6/11/2019 08:50",
+      "et": "6/11/2019 08:45",
       "at": "",
       "term": "A",
       "sector": "",
@@ -2578,7 +2578,7 @@
       "term": "A",
       "sector": "",
       "cinta": "3",
-      "lF": "003",
+      "lF": "001",
       "ruta": "MAD",
       "via": "",
       "remark": "ATE",
@@ -3931,7 +3931,7 @@
       "puerta": "12",
       "ruta": "GIG",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3942,7 +3942,7 @@
       "matricula": "LVBES",
       "posicion": "H26",
       "et": "",
-      "at": "",
+      "at": "6/11/2019 08:29",
       "term": "FBO",
       "sector": "",
       "chkFrom": "",
@@ -3950,26 +3950,7 @@
       "puerta": "",
       "ruta": "HDI",
       "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "PRV",
-      "vuelo": "BRX",
-      "st": "06/11/2019 09:00",
-      "matricula": "LVBRX",
-      "posicion": "40",
-      "et": "",
-      "at": "",
-      "term": "FBO",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "RCQ",
-      "via": "",
-      "remark": "HOR",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3989,6 +3970,25 @@
       "ruta": "SCL",
       "via": "",
       "remark": "ULT",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "PRV",
+      "vuelo": "BRX",
+      "st": "06/11/2019 09:00",
+      "matricula": "LVBRX",
+      "posicion": "40",
+      "et": "",
+      "at": "",
+      "term": "FBO",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "RCQ",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     },
     {
@@ -4244,7 +4244,7 @@
       "vuelo": "1412",
       "st": "06/11/2019 12:00",
       "matricula": "LVCAP",
-      "posicion": "",
+      "posicion": "18B",
       "et": "",
       "at": "",
       "term": "C",
