@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/11/2019 17:16",
+  "lastUpdate": "06/11/2019 17:21",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -4216,7 +4216,7 @@
       "puerta": "21",
       "ruta": "POA",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4365,7 +4365,7 @@
       "sector": "AP",
       "chkFrom": "087",
       "chkTo": "091",
-      "puerta": "",
+      "puerta": "12",
       "ruta": "ASU",
       "via": "",
       "remark": "DEM",
