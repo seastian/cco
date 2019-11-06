@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/11/2019 02:52",
+  "lastUpdate": "06/11/2019 02:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3632,25 +3632,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AMS",
-      "vuelo": "7119",
-      "st": "06/11/2019 01:30",
-      "matricula": "CXMAS",
-      "posicion": "58",
-      "et": "",
-      "at": "6/11/2019 01:34",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "M3",
       "vuelo": "8492",
       "st": "06/11/2019 01:30",
@@ -4382,7 +4363,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "208",
       "chkTo": "240",
       "puerta": "22",
       "ruta": "MIA",
