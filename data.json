@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/11/2019 01:53",
+  "lastUpdate": "07/11/2019 01:59",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3931,7 +3931,7 @@
       "puerta": "",
       "ruta": "NQN",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
