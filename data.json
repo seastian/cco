@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/11/2019 20:45",
+  "lastUpdate": "07/11/2019 20:50",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -4064,7 +4064,7 @@
       "puerta": "10",
       "ruta": "MIA",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4121,7 +4121,7 @@
       "puerta": "05",
       "ruta": "MIA",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
