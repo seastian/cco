@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/11/2019 13:01",
+  "lastUpdate": "07/11/2019 13:06",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -139,9 +139,9 @@
       "aerolinea": "KL",
       "vuelo": "702",
       "st": "07/11/2019 14:40",
-      "matricula": "",
+      "matricula": "PHBHN",
       "posicion": "",
-      "et": "",
+      "et": "7/11/2019 14:27",
       "at": "",
       "term": "A",
       "sector": "",
@@ -149,7 +149,7 @@
       "lF": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -1314,6 +1314,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "G3",
+      "vuelo": "7648",
+      "st": "08/11/2019 01:05",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "GIG",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "AMS",
       "vuelo": "8119",
       "st": "06/11/2019 23:30",
@@ -2217,7 +2236,7 @@
       "term": "A",
       "sector": "",
       "cinta": "1",
-      "lF": "006",
+      "lF": "005",
       "ruta": "JFK",
       "via": "",
       "remark": "ATE",
@@ -3771,7 +3790,7 @@
       "matricula": "HBJMD",
       "posicion": "12",
       "et": "",
-      "at": "",
+      "at": "7/11/2019 12:59",
       "term": "A",
       "sector": "AP",
       "chkFrom": "062",
@@ -3779,7 +3798,7 @@
       "puerta": "16",
       "ruta": "ZRH",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3855,7 +3874,7 @@
       "puerta": "03",
       "ruta": "BCN",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3893,7 +3912,7 @@
       "puerta": "01",
       "ruta": "VCP",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4167,7 +4186,7 @@
       "aerolinea": "KL",
       "vuelo": "702",
       "st": "07/11/2019 16:30",
-      "matricula": "",
+      "matricula": "PHBHN",
       "posicion": "",
       "et": "",
       "at": "",
