@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/11/2019 15:22",
+  "lastUpdate": "07/11/2019 15:29",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2479,14 +2479,14 @@
       "matricula": "LVHEK",
       "posicion": "50A",
       "et": "7/11/2019 15:20",
-      "at": "",
+      "at": "7/11/2019 15:27",
       "term": "C",
       "sector": "CAC",
       "cinta": "11",
       "lF": "017",
       "ruta": "NQN",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -2527,25 +2527,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "113"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1324",
-      "st": "07/11/2019 03:15",
-      "matricula": "LVGVA",
-      "posicion": "12",
-      "et": "",
-      "at": "7/11/2019 03:25",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "16",
-      "ruta": "PUJ",
-      "via": "RES",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
@@ -3961,7 +3942,7 @@
       "matricula": "LVFVO",
       "posicion": "12",
       "et": "",
-      "at": "",
+      "at": "7/11/2019 15:17",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3969,7 +3950,7 @@
       "puerta": "16",
       "ruta": "GIG",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3993,6 +3974,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1244",
+      "st": "07/11/2019 15:30",
+      "matricula": "LVGUC",
+      "posicion": "18A",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "19",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "CER",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "H2",
       "vuelo": "508",
       "st": "07/11/2019 15:20",
@@ -4007,7 +4007,7 @@
       "puerta": "01",
       "ruta": "SCL",
       "via": "",
-      "remark": "DEM",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4046,25 +4046,6 @@
       "ruta": "SLA",
       "via": "",
       "remark": "DEM",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1244",
-      "st": "07/11/2019 15:30",
-      "matricula": "LVGUC",
-      "posicion": "18A",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "19",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "CER",
       "sanidad": "NO"
     },
     {
