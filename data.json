@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/11/2019 13:43",
+  "lastUpdate": "07/11/2019 13:48",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -139,7 +139,7 @@
       "aerolinea": "H2",
       "vuelo": "507",
       "st": "07/11/2019 14:45",
-      "matricula": "",
+      "matricula": "CCAJG",
       "posicion": "",
       "et": "7/11/2019 15:12",
       "at": "",
@@ -915,6 +915,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "AM",
+      "vuelo": "030",
+      "st": "07/11/2019 21:55",
+      "matricula": "XAADG",
+      "posicion": "",
+      "et": "7/11/2019 21:35",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MEX",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "228"
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "AU",
       "vuelo": "2233",
       "st": "07/11/2019 21:40",
@@ -946,25 +965,6 @@
       "cinta": "",
       "lF": "",
       "ruta": "BRC",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AM",
-      "vuelo": "030",
-      "st": "07/11/2019 21:55",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MEX",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -3950,7 +3950,7 @@
       "puerta": "04",
       "ruta": "LHR",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3969,7 +3969,7 @@
       "puerta": "20",
       "ruta": "CDG",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3988,7 +3988,7 @@
       "puerta": "02",
       "ruta": "MAD",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4069,25 +4069,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "H2",
-      "vuelo": "508",
-      "st": "07/11/2019 15:20",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "001",
-      "chkTo": "004",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1244",
       "st": "07/11/2019 15:30",
@@ -4103,6 +4084,25 @@
       "ruta": "GRU",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "H2",
+      "vuelo": "508",
+      "st": "07/11/2019 15:20",
+      "matricula": "CCAJG",
+      "posicion": "",
+      "et": "7/11/2019 15:45",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "001",
+      "chkTo": "004",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "DEM",
       "sanidad": "NO"
     },
     {
@@ -5079,7 +5079,7 @@
       "aerolinea": "AM",
       "vuelo": "029",
       "st": "07/11/2019 23:55",
-      "matricula": "",
+      "matricula": "XAADG",
       "posicion": "",
       "et": "",
       "at": "",
