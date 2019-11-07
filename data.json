@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/11/2019 15:29",
+  "lastUpdate": "07/11/2019 15:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -4007,7 +4007,7 @@
       "puerta": "01",
       "ruta": "SCL",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4102,7 +4102,7 @@
       "puerta": "05",
       "ruta": "GRU",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -4140,7 +4140,7 @@
       "puerta": "16",
       "ruta": "BOG",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
