@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/11/2019 14:51",
+  "lastUpdate": "07/11/2019 14:56",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -345,25 +345,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1293",
-      "st": "07/11/2019 17:45",
-      "matricula": "LVGKS",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "GIG",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "4M",
       "vuelo": "7511",
       "st": "07/11/2019 17:52",
@@ -399,6 +380,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1293",
+      "st": "07/11/2019 17:45",
+      "matricula": "LVGKS",
+      "posicion": "",
+      "et": "7/11/2019 18:05",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "GIG",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": "152"
     },
     {
       "tipo": "arribo",
@@ -2517,14 +2517,14 @@
       "matricula": "LVBRX",
       "posicion": "40",
       "et": "7/11/2019 14:45",
-      "at": "",
+      "at": "7/11/2019 14:56",
       "term": "FBO",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "ROS",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "6"
     },
@@ -3942,7 +3942,7 @@
       "matricula": "DALCC",
       "posicion": "55",
       "et": "",
-      "at": "",
+      "at": "7/11/2019 14:54",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -3950,7 +3950,7 @@
       "puerta": "",
       "ruta": "FRA",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3969,7 +3969,7 @@
       "puerta": "07",
       "ruta": "GRU",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4026,7 +4026,7 @@
       "puerta": "16",
       "ruta": "GIG",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
