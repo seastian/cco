@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/11/2019 17:45",
+  "lastUpdate": "07/11/2019 17:50",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -83,7 +83,7 @@
       "vuelo": "1303",
       "st": "07/11/2019 19:30",
       "matricula": "LVFNI",
-      "posicion": "",
+      "posicion": "16",
       "et": "7/11/2019 19:15",
       "at": "",
       "term": "A",
@@ -991,25 +991,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "WJ",
-      "vuelo": "3449",
-      "st": "06/11/2019 22:34",
-      "matricula": "LVIVO",
-      "posicion": "54A",
-      "et": "7/11/2019 05:40",
-      "at": "7/11/2019 05:46",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "11",
-      "lF": "017",
-      "ruta": "NQN",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "149"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AU",
       "vuelo": "2369",
       "st": "07/11/2019 06:20",
@@ -1368,6 +1349,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "227"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "G3",
+      "vuelo": "7680",
+      "st": "07/11/2019 09:15",
+      "matricula": "PRGGG",
+      "posicion": "08",
+      "et": "7/11/2019 09:04",
+      "at": "7/11/2019 08:56",
+      "term": "A",
+      "sector": "",
+      "cinta": "3",
+      "lF": "004",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "138"
     },
     {
       "tipo": "arribo",
@@ -3980,7 +3980,7 @@
       "matricula": "LVIVO",
       "posicion": "50B",
       "et": "7/11/2019 17:03",
-      "at": "",
+      "at": "7/11/2019 17:48",
       "term": "A",
       "sector": "AP",
       "chkFrom": "082",
@@ -3988,7 +3988,7 @@
       "puerta": "24",
       "ruta": "COR",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -4121,7 +4121,7 @@
       "puerta": "24",
       "ruta": "IGR",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4216,7 +4216,7 @@
       "puerta": "23",
       "ruta": "CWB",
       "via": "",
-      "remark": "PRE",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
