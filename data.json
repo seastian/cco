@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/11/2019 12:35",
+  "lastUpdate": "07/11/2019 12:40",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -197,7 +197,7 @@
       "vuelo": "1229",
       "st": "07/11/2019 15:05",
       "matricula": "LVFQC",
-      "posicion": "",
+      "posicion": "14A",
       "et": "7/11/2019 14:45",
       "at": "",
       "term": "A",
@@ -293,7 +293,7 @@
       "st": "07/11/2019 15:47",
       "matricula": "LVBRA",
       "posicion": "",
-      "et": "",
+      "et": "7/11/2019 15:42",
       "at": "",
       "term": "A",
       "sector": "",
@@ -301,9 +301,9 @@
       "lF": "",
       "ruta": "LIM",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "173"
     },
     {
       "tipo": "arribo",
@@ -3714,7 +3714,7 @@
       "matricula": "CXLSS",
       "posicion": "57",
       "et": "",
-      "at": "",
+      "at": "7/11/2019 12:41",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -3722,7 +3722,7 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3771,7 +3771,7 @@
       "matricula": "LVGFQ",
       "posicion": "17A",
       "et": "",
-      "at": "",
+      "at": "7/11/2019 12:39",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3779,7 +3779,7 @@
       "puerta": "24",
       "ruta": "BRC",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3855,7 +3855,7 @@
       "puerta": "05",
       "ruta": "SCL",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
