@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/11/2019 17:40",
+  "lastUpdate": "07/11/2019 17:45",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1371,25 +1371,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7680",
-      "st": "07/11/2019 09:15",
-      "matricula": "PRGGG",
-      "posicion": "08",
-      "et": "7/11/2019 09:04",
-      "at": "7/11/2019 08:56",
-      "term": "A",
-      "sector": "",
-      "cinta": "3",
-      "lF": "004",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "138"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "H2",
       "vuelo": "501",
       "st": "07/11/2019 09:15",
@@ -2498,14 +2479,14 @@
       "matricula": "LVBOI",
       "posicion": "02",
       "et": "7/11/2019 17:39",
-      "at": "",
+      "at": "7/11/2019 17:45",
       "term": "C",
       "sector": "CAC",
       "cinta": "11",
       "lF": "017",
       "ruta": "IGR",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "174"
     },
@@ -4007,7 +3988,7 @@
       "puerta": "24",
       "ruta": "COR",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4254,7 +4235,7 @@
       "puerta": "17",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
