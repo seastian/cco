@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/11/2019 05:46",
+  "lastUpdate": "07/11/2019 05:51",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2207,25 +2207,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AU",
-      "vuelo": "2291",
-      "st": "06/11/2019 23:25",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "CAN",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "JJ",
       "vuelo": "8010",
       "st": "07/11/2019 00:00",
@@ -2511,25 +2492,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1365",
-      "st": "07/11/2019 05:00",
-      "matricula": "LVFYK",
-      "posicion": "18B",
-      "et": "",
-      "at": "7/11/2019 05:01",
-      "term": "A",
-      "sector": "",
-      "cinta": "6",
-      "lF": "008",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "120"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AOG",
       "vuelo": "102",
       "st": "07/11/2019 05:00",
@@ -2546,6 +2508,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1365",
+      "st": "07/11/2019 05:00",
+      "matricula": "LVFYK",
+      "posicion": "18B",
+      "et": "",
+      "at": "7/11/2019 05:01",
+      "term": "A",
+      "sector": "",
+      "cinta": "6",
+      "lF": "008",
+      "ruta": "LIM",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "120"
     },
     {
       "tipo": "arribo",
@@ -3817,7 +3798,7 @@
       "puerta": "17",
       "ruta": "ASU",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3912,7 +3893,7 @@
       "puerta": "26",
       "ruta": "IGR",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
