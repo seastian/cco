@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/11/2019 15:46",
+  "lastUpdate": "08/11/2019 15:51",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -896,25 +896,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AV",
-      "vuelo": "965",
-      "st": "08/11/2019 04:25",
-      "matricula": "N975AV",
-      "posicion": "09",
-      "et": "8/11/2019 03:50",
-      "at": "8/11/2019 03:49",
-      "term": "A",
-      "sector": "",
-      "cinta": "5",
-      "lF": "005",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "244"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1133",
       "st": "08/11/2019 04:20",
@@ -1200,25 +1181,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "KL",
-      "vuelo": "701",
-      "st": "08/11/2019 07:05",
-      "matricula": "PHBHO",
-      "posicion": "11",
-      "et": "8/11/2019 07:20",
-      "at": "8/11/2019 07:05",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "010",
-      "ruta": "AMS",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "198"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "ZP",
       "vuelo": "820",
       "st": "08/11/2019 07:00",
@@ -1235,6 +1197,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "24"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "KL",
+      "vuelo": "701",
+      "st": "08/11/2019 07:05",
+      "matricula": "PHBHO",
+      "posicion": "11",
+      "et": "8/11/2019 07:20",
+      "at": "8/11/2019 07:05",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "010",
+      "ruta": "AMS",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "198"
     },
     {
       "tipo": "arribo",
@@ -3665,7 +3646,7 @@
       "puerta": "14",
       "ruta": "AMS",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
