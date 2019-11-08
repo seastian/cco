@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/11/2019 00:12",
+  "lastUpdate": "08/11/2019 00:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1005,25 +1005,6 @@
       "ruta": "MIA",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "FO",
-      "vuelo": "5311",
-      "st": "07/11/2019 11:35",
-      "matricula": "LVHFR",
-      "posicion": "52B",
-      "et": "7/11/2019 12:15",
-      "at": "7/11/2019 12:14",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "12",
-      "lF": "018",
-      "ruta": "REL",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -4170,7 +4151,7 @@
       "matricula": "XAADG",
       "posicion": "04",
       "et": "",
-      "at": "",
+      "at": "8/11/2019 00:16",
       "term": "A",
       "sector": "AP",
       "chkFrom": "034",
@@ -4178,7 +4159,7 @@
       "puerta": "03",
       "ruta": "MEX",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
