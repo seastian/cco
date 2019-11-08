@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/11/2019 14:36",
+  "lastUpdate": "08/11/2019 14:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -60,25 +60,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "H2",
-      "vuelo": "507",
-      "st": "08/11/2019 14:45",
-      "matricula": "CCAIY",
-      "posicion": "03",
-      "et": "8/11/2019 15:25",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "5",
-      "lF": "005",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": "119"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1529",
       "st": "08/11/2019 15:25",
@@ -95,6 +76,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "H2",
+      "vuelo": "507",
+      "st": "08/11/2019 14:45",
+      "matricula": "CCAIY",
+      "posicion": "03",
+      "et": "8/11/2019 15:30",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "5",
+      "lF": "005",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": "119"
     },
     {
       "tipo": "arribo",
@@ -253,9 +253,9 @@
       "aerolinea": "G3",
       "vuelo": "7690",
       "st": "08/11/2019 16:35",
-      "matricula": "",
+      "matricula": "PRGTP",
       "posicion": "",
-      "et": "",
+      "et": "8/11/2019 16:30",
       "at": "",
       "term": "A",
       "sector": "",
@@ -263,9 +263,9 @@
       "lF": "",
       "ruta": "FLN",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "150"
     },
     {
       "tipo": "arribo",
@@ -3467,7 +3467,7 @@
       "matricula": "FGSPJ",
       "posicion": "11",
       "et": "",
-      "at": "",
+      "at": "8/11/2019 14:40",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "211",
@@ -3475,7 +3475,7 @@
       "puerta": "14",
       "ruta": "CDG",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3825,7 +3825,7 @@
       "aerolinea": "G3",
       "vuelo": "7653",
       "st": "08/11/2019 17:15",
-      "matricula": "",
+      "matricula": "PRGTP",
       "posicion": "",
       "et": "",
       "at": "",
