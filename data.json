@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/11/2019 20:42",
+  "lastUpdate": "08/11/2019 20:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -759,7 +759,7 @@
       "via": "",
       "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "303"
     },
     {
       "tipo": "arribo",
@@ -915,22 +915,22 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7680",
-      "st": "08/11/2019 09:15",
-      "matricula": "PRGUY",
-      "posicion": "08",
-      "et": "8/11/2019 08:45",
-      "at": "8/11/2019 08:48",
+      "aerolinea": "LA",
+      "vuelo": "465",
+      "st": "09/11/2019 08:48",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "2",
-      "lF": "002",
-      "ruta": "GRU",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
       "via": "",
-      "remark": "ATE",
+      "remark": "",
       "sanidad": "NO",
-      "pax": "130"
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -3334,7 +3334,7 @@
       "matricula": "CCBEQ",
       "posicion": "04",
       "et": "",
-      "at": "",
+      "at": "8/11/2019 20:46",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3342,7 +3342,7 @@
       "puerta": "03",
       "ruta": "SCL",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3361,7 +3361,7 @@
       "puerta": "08",
       "ruta": "DFW",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3437,7 +3437,7 @@
       "puerta": "24",
       "ruta": "ROS",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3456,7 +3456,7 @@
       "puerta": "26",
       "ruta": "COR",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
