@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/11/2019 18:24",
+  "lastUpdate": "08/11/2019 18:29",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -756,25 +756,6 @@
       "cinta": "",
       "lF": "",
       "ruta": "MIA",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1365",
-      "st": "09/11/2019 05:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "LIM",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -2069,6 +2050,25 @@
       "ruta": "GIG",
       "via": "",
       "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LP",
+      "vuelo": "2429",
+      "st": "08/11/2019 18:47",
+      "matricula": "CCBAJ",
+      "posicion": "06",
+      "et": "8/11/2019 18:30",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "4",
+      "lF": "004",
+      "ruta": "LIM",
+      "via": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -3608,7 +3608,7 @@
       "puerta": "19",
       "ruta": "GIG",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
