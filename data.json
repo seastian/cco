@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/11/2019 17:05",
+  "lastUpdate": "08/11/2019 17:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3646,7 +3646,7 @@
       "puerta": "13",
       "ruta": "POA",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3928,7 +3928,7 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "26",
       "ruta": "COR",
       "via": "",
       "remark": "HOR",
