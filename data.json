@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/11/2019 12:51",
+  "lastUpdate": "08/11/2019 12:56",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1143,25 +1143,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8010",
-      "st": "08/11/2019 00:00",
-      "matricula": "PRMAG",
-      "posicion": "04",
-      "et": "8/11/2019 00:45",
-      "at": "8/11/2019 00:54",
-      "term": "A",
-      "sector": "",
-      "cinta": "5",
-      "lF": "004",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "G3",
       "vuelo": "7648",
       "st": "08/11/2019 01:05",
@@ -1732,25 +1713,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "H2",
-      "vuelo": "501",
-      "st": "08/11/2019 09:15",
-      "matricula": "CCAIY",
-      "posicion": "06",
-      "et": "8/11/2019 09:05",
-      "at": "8/11/2019 09:04",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "009",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "JJ",
       "vuelo": "8012",
       "st": "08/11/2019 09:15",
@@ -1767,6 +1729,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "119"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "H2",
+      "vuelo": "501",
+      "st": "08/11/2019 09:15",
+      "matricula": "CCAIY",
+      "posicion": "06",
+      "et": "8/11/2019 09:05",
+      "at": "8/11/2019 09:04",
+      "term": "A",
+      "sector": "",
+      "cinta": "7",
+      "lF": "009",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -3418,7 +3399,7 @@
       "puerta": "27",
       "ruta": "USH",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3438,25 +3419,6 @@
       "ruta": "LIM",
       "via": "",
       "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1134",
-      "st": "08/11/2019 13:10",
-      "matricula": "LVFVH",
-      "posicion": "12",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "16",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3518,6 +3480,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1134",
+      "st": "08/11/2019 13:10",
+      "matricula": "LVFVH",
+      "posicion": "12",
+      "et": "8/11/2019 13:30",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "16",
+      "ruta": "MAD",
+      "via": "",
+      "remark": "BOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "AZ",
       "vuelo": "681",
       "st": "08/11/2019 14:05",
@@ -3532,7 +3513,7 @@
       "puerta": "17",
       "ruta": "FCO",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
