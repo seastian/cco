@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/11/2019 23:19",
+  "lastUpdate": "07/11/2019 23:24",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -60,30 +60,11 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8010",
-      "st": "08/11/2019 00:00",
-      "matricula": "PRMAG",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1040",
       "st": "08/11/2019 00:03",
       "matricula": "LVGKU",
-      "posicion": "",
+      "posicion": "24",
       "et": "",
       "at": "",
       "term": "C",
@@ -114,6 +95,25 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "157"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "JJ",
+      "vuelo": "8010",
+      "st": "08/11/2019 00:00",
+      "matricula": "PRMAG",
+      "posicion": "",
+      "et": "8/11/2019 00:45",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -1045,25 +1045,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "WJ",
-      "vuelo": "3189",
-      "st": "07/11/2019 10:12",
-      "matricula": "LVIVO",
-      "posicion": "52A",
-      "et": "7/11/2019 11:30",
-      "at": "7/11/2019 11:24",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "12",
-      "lF": "018",
-      "ruta": "BRC",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "123"
     },
     {
       "tipo": "arribo",
@@ -4132,7 +4113,7 @@
       "matricula": "LVFNK",
       "posicion": "12",
       "et": "",
-      "at": "",
+      "at": "7/11/2019 23:17",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "209",
@@ -4140,7 +4121,7 @@
       "puerta": "16",
       "ruta": "MIA",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -4254,7 +4235,7 @@
       "puerta": "20",
       "ruta": "IST",
       "via": "GRU",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4311,7 +4292,7 @@
       "puerta": "04",
       "ruta": "ASU",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -4349,7 +4330,7 @@
       "puerta": "05",
       "ruta": "BOG",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
