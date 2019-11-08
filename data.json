@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/11/2019 10:48",
+  "lastUpdate": "08/11/2019 10:53",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1231,25 +1231,6 @@
       "cinta": "",
       "lF": "",
       "ruta": "VCP",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "FO",
-      "vuelo": "5601",
-      "st": "07/11/2019 23:35",
-      "matricula": "LVHKS",
-      "posicion": "56B",
-      "et": "7/11/2019 23:45",
-      "at": "7/11/2019 22:53",
-      "term": "A",
-      "sector": "",
-      "cinta": "3",
-      "lF": "003",
-      "ruta": "ASU",
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
@@ -3456,7 +3437,7 @@
       "puerta": "12",
       "ruta": "SCL",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3475,7 +3456,7 @@
       "puerta": "17",
       "ruta": "SCL",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3494,7 +3475,7 @@
       "puerta": "01",
       "ruta": "PTY",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3532,7 +3513,7 @@
       "puerta": "19",
       "ruta": "GRU",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3551,7 +3532,7 @@
       "puerta": "15",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -4472,14 +4453,14 @@
       "vuelo": "110",
       "st": "08/11/2019 21:07",
       "matricula": "N826MH",
-      "posicion": "11",
+      "posicion": "34",
       "et": "",
       "at": "",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "207",
       "chkTo": "214",
-      "puerta": "14",
+      "puerta": "",
       "ruta": "ATL",
       "via": "",
       "remark": "HOR",
