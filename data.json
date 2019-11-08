@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/11/2019 07:42",
+  "lastUpdate": "08/11/2019 07:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -98,6 +98,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "DL",
+      "vuelo": "101",
+      "st": "08/11/2019 09:20",
+      "matricula": "N826MH",
+      "posicion": "",
+      "et": "8/11/2019 09:04",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "ATL",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "232"
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "H2",
       "vuelo": "501",
       "st": "08/11/2019 09:15",
@@ -114,6 +133,25 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "G3",
+      "vuelo": "7680",
+      "st": "08/11/2019 09:15",
+      "matricula": "PRGUY",
+      "posicion": "",
+      "et": "8/11/2019 09:05",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "130"
     },
     {
       "tipo": "arribo",
@@ -152,44 +190,6 @@
       "remark": "DEM",
       "sanidad": "NO",
       "pax": "271"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7680",
-      "st": "08/11/2019 09:15",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "DL",
-      "vuelo": "101",
-      "st": "08/11/2019 09:20",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "ATL",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -3684,7 +3684,7 @@
       "puerta": "05",
       "ruta": "LIM",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3703,7 +3703,7 @@
       "puerta": "13",
       "ruta": "GIG",
       "via": "",
-      "remark": "HOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3779,7 +3779,7 @@
       "puerta": "17",
       "ruta": "SCL",
       "via": "",
-      "remark": "PRE",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3863,7 +3863,7 @@
       "aerolinea": "G3",
       "vuelo": "7681",
       "st": "08/11/2019 09:10",
-      "matricula": "",
+      "matricula": "PRGUY",
       "posicion": "",
       "et": "",
       "at": "",
