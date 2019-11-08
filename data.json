@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/11/2019 17:50",
+  "lastUpdate": "08/11/2019 17:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -817,25 +817,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AU",
-      "vuelo": "2369",
-      "st": "08/11/2019 06:20",
-      "matricula": "LVCPI",
-      "posicion": "25A",
-      "et": "8/11/2019 05:53",
-      "at": "8/11/2019 05:52",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "009",
-      "ruta": "VVI",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "56"
     },
     {
       "tipo": "arribo",
