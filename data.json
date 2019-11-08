@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/11/2019 05:05",
+  "lastUpdate": "08/11/2019 05:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1292,25 +1292,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "445",
-      "st": "07/11/2019 17:00",
-      "matricula": "CCBBC",
-      "posicion": "04",
-      "et": "7/11/2019 17:00",
-      "at": "7/11/2019 17:11",
-      "term": "A",
-      "sector": "",
-      "cinta": "3",
-      "lF": "001",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "247"
     },
     {
       "tipo": "arribo",
