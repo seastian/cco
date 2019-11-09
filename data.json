@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/11/2019 16:40",
+  "lastUpdate": "09/11/2019 16:45",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3689,6 +3689,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1360",
+      "st": "09/11/2019 16:45",
+      "matricula": "LVCBF",
+      "posicion": "17A",
+      "et": "9/11/2019 17:00",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "19",
+      "ruta": "BOG",
+      "via": "",
+      "remark": "ULT",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "JJ",
       "vuelo": "8013",
       "st": "09/11/2019 16:50",
@@ -3704,25 +3723,6 @@
       "ruta": "GRU",
       "via": "",
       "remark": "CER",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1360",
-      "st": "09/11/2019 16:45",
-      "matricula": "LVCBF",
-      "posicion": "17A",
-      "et": "9/11/2019 17:00",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "19",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "BOR",
       "sanidad": "NO"
     },
     {
