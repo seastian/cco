@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/11/2019 01:40",
+  "lastUpdate": "09/11/2019 01:45",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -120,9 +120,9 @@
       "aerolinea": "AV",
       "vuelo": "087",
       "st": "09/11/2019 05:30",
-      "matricula": "",
+      "matricula": "N280AV",
       "posicion": "",
-      "et": "",
+      "et": "9/11/2019 05:40",
       "at": "",
       "term": "A",
       "sector": "",
@@ -130,9 +130,9 @@
       "lF": "",
       "ruta": "BOG",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "260"
     },
     {
       "tipo": "arribo",
@@ -2245,25 +2245,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "UX",
-      "vuelo": "042",
-      "st": "08/11/2019 13:25",
-      "matricula": "ECNCY",
-      "posicion": "05",
-      "et": "",
-      "at": "8/11/2019 13:44",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "054",
-      "chkTo": "060",
-      "puerta": "04",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "PRV",
       "vuelo": "BES",
       "st": "08/11/2019 13:30",
@@ -3505,7 +3486,7 @@
       "matricula": "HP1825",
       "posicion": "08",
       "et": "",
-      "at": "9/11/2019 01:25",
+      "at": "9/11/2019 01:33",
       "term": "A",
       "sector": "AP",
       "chkFrom": "016",
