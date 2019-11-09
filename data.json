@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/11/2019 15:20",
+  "lastUpdate": "09/11/2019 15:25",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2330,8 +2330,8 @@
       "at": "9/11/2019 15:06",
       "term": "C",
       "sector": "CAC",
-      "cinta": "",
-      "lF": "",
+      "cinta": "11",
+      "lF": "017",
       "ruta": "COR",
       "via": "",
       "remark": "ATE",
@@ -3562,7 +3562,7 @@
       "matricula": "LVFUA",
       "posicion": "14A",
       "et": "9/11/2019 15:15",
-      "at": "",
+      "at": "9/11/2019 15:22",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3570,7 +3570,7 @@
       "puerta": "18",
       "ruta": "GIG",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3627,7 +3627,7 @@
       "puerta": "04",
       "ruta": "GIG",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3646,7 +3646,7 @@
       "puerta": "16",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3684,7 +3684,7 @@
       "puerta": "01",
       "ruta": "GRU",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
