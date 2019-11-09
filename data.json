@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/11/2019 15:42",
+  "lastUpdate": "09/11/2019 15:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3543,7 +3543,7 @@
       "matricula": "CCAZG",
       "posicion": "04",
       "et": "",
-      "at": "",
+      "at": "9/11/2019 15:48",
       "term": "A",
       "sector": "AP",
       "chkFrom": "001",
@@ -3551,7 +3551,7 @@
       "puerta": "03",
       "ruta": "SCL",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3703,7 +3703,7 @@
       "puerta": "19",
       "ruta": "BOG",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
