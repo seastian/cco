@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/11/2019 06:16",
+  "lastUpdate": "09/11/2019 06:21",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -202,7 +202,7 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
+      "cinta": "6",
       "lF": "",
       "ruta": "MIA",
       "via": "",
@@ -235,7 +235,7 @@
       "vuelo": "991",
       "st": "09/11/2019 08:35",
       "matricula": "N836AA",
-      "posicion": "",
+      "posicion": "05",
       "et": "9/11/2019 08:04",
       "at": "",
       "term": "A",
@@ -3171,7 +3171,7 @@
       "puerta": "17",
       "ruta": "ASU",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3285,7 +3285,7 @@
       "puerta": "04",
       "ruta": "BOG",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
