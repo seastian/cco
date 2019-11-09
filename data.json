@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/11/2019 00:31",
+  "lastUpdate": "09/11/2019 00:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2245,44 +2245,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "JJ",
-      "vuelo": "8009",
-      "st": "08/11/2019 12:25",
-      "matricula": "PRMXH",
-      "posicion": "08",
-      "et": "",
-      "at": "8/11/2019 12:33",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "07",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AU",
-      "vuelo": "2392",
-      "st": "08/11/2019 12:25",
-      "matricula": "LVGAQ",
-      "posicion": "22B",
-      "et": "",
-      "at": "8/11/2019 12:36",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "12",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "IB_",
       "vuelo": "2602",
       "st": "08/11/2019 13:00",
@@ -3646,7 +3608,7 @@
       "puerta": "07",
       "ruta": "PTY",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
