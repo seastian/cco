@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/11/2019 16:30",
+  "lastUpdate": "09/11/2019 16:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -121,7 +121,7 @@
       "vuelo": "510",
       "st": "09/11/2019 08:00",
       "matricula": "DABYR",
-      "posicion": "",
+      "posicion": "11",
       "et": "9/11/2019 18:38",
       "at": "",
       "term": "A",
@@ -3619,7 +3619,7 @@
       "matricula": "CP2880",
       "posicion": "06",
       "et": "",
-      "at": "",
+      "at": "9/11/2019 16:36",
       "term": "A",
       "sector": "AP",
       "chkFrom": "013",
@@ -3627,7 +3627,7 @@
       "puerta": "05",
       "ruta": "VVI",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3684,26 +3684,7 @@
       "puerta": "02",
       "ruta": "YYZ",
       "via": "SCL",
-      "remark": "ULT",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1360",
-      "st": "09/11/2019 16:45",
-      "matricula": "LVCBF",
-      "posicion": "17A",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "19",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "PRE",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3723,6 +3704,25 @@
       "ruta": "GRU",
       "via": "",
       "remark": "CER",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1360",
+      "st": "09/11/2019 16:45",
+      "matricula": "LVCBF",
+      "posicion": "17A",
+      "et": "9/11/2019 17:00",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "19",
+      "ruta": "BOG",
+      "via": "",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3779,7 +3779,7 @@
       "puerta": "27",
       "ruta": "IGR",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
