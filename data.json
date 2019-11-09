@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/11/2019 14:50",
+  "lastUpdate": "09/11/2019 14:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2339,6 +2339,25 @@
       "pax": "2"
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "AC",
+      "vuelo": "092",
+      "st": "09/11/2019 14:30",
+      "matricula": "CFIVW",
+      "posicion": "03",
+      "et": "9/11/2019 15:00",
+      "at": "9/11/2019 14:56",
+      "term": "A",
+      "sector": "",
+      "cinta": "8",
+      "lF": "010",
+      "ruta": "YYZ",
+      "via": "SCL",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "266"
+    },
+    {
       "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1324",
@@ -3543,7 +3562,7 @@
       "matricula": "ECNCX",
       "posicion": "03",
       "et": "",
-      "at": "",
+      "at": "9/11/2019 14:52",
       "term": "A",
       "sector": "AP",
       "chkFrom": "021",
@@ -3551,7 +3570,7 @@
       "puerta": "02",
       "ruta": "MAD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3589,7 +3608,7 @@
       "puerta": "18",
       "ruta": "GIG",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
