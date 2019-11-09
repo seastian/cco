@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/11/2019 20:31",
+  "lastUpdate": "09/11/2019 20:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2308,14 +2308,14 @@
       "matricula": "ECNBE",
       "posicion": "03",
       "et": "9/11/2019 20:28",
-      "at": "",
+      "at": "9/11/2019 20:35",
       "term": "A",
       "sector": "",
       "cinta": "1",
       "lF": "005",
       "ruta": "MAD",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "346"
     },
@@ -3524,7 +3524,7 @@
       "matricula": "CCCQO",
       "posicion": "08",
       "et": "9/11/2019 20:12",
-      "at": "",
+      "at": "9/11/2019 20:33",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3532,7 +3532,7 @@
       "puerta": "07",
       "ruta": "LIM",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3722,7 +3722,7 @@
       "puerta": "05",
       "ruta": "MIA",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
