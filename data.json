@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/11/2019 12:49",
+  "lastUpdate": "09/11/2019 12:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3315,7 +3315,7 @@
       "matricula": "LVFRQ",
       "posicion": "25B",
       "et": "",
-      "at": "",
+      "at": "9/11/2019 12:52",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3323,7 +3323,7 @@
       "puerta": "27",
       "ruta": "BRC",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3391,7 +3391,7 @@
       "matricula": "LVGGK",
       "posicion": "17A",
       "et": "",
-      "at": "",
+      "at": "9/11/2019 12:52",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3399,7 +3399,7 @@
       "puerta": "24",
       "ruta": "IGR",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3551,7 +3551,7 @@
       "puerta": "20",
       "ruta": "FCO",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
