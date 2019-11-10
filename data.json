@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/11/2019 00:24",
+  "lastUpdate": "10/11/2019 00:29",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1024,25 +1024,6 @@
       "ruta": "FRA",
       "via": "",
       "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1751",
-      "st": "09/11/2019 12:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
