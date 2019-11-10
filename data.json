@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "10/11/2019 12:47",
+  "lastUpdate": "10/11/2019 12:52",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1241",
-      "st": "10/11/2019 13:25",
-      "matricula": "LVGVB",
-      "posicion": "16B",
-      "et": "10/11/2019 13:07",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "007",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "97"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AR",
@@ -650,9 +631,9 @@
     {
       "tipo": "arribo",
       "aerolinea": "AU",
-      "vuelo": "2601",
+      "vuelo": "2509",
       "st": "10/11/2019 20:25",
-      "matricula": "LVCIF",
+      "matricula": "LVCDZ",
       "posicion": "",
       "et": "",
       "at": "",
@@ -660,8 +641,8 @@
       "sector": "CAC",
       "cinta": "",
       "lF": "",
-      "ruta": "USH",
-      "via": "MDQ",
+      "ruta": "COR",
+      "via": "",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
@@ -688,9 +669,9 @@
     {
       "tipo": "arribo",
       "aerolinea": "AU",
-      "vuelo": "2509",
+      "vuelo": "2601",
       "st": "10/11/2019 20:25",
-      "matricula": "LVCDZ",
+      "matricula": "LVCIF",
       "posicion": "",
       "et": "",
       "at": "",
@@ -698,8 +679,8 @@
       "sector": "CAC",
       "cinta": "",
       "lF": "",
-      "ruta": "COR",
-      "via": "",
+      "ruta": "USH",
+      "via": "MDQ",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
@@ -2244,6 +2225,25 @@
       "pax": "158"
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1241",
+      "st": "10/11/2019 13:25",
+      "matricula": "LVGVB",
+      "posicion": "16B",
+      "et": "10/11/2019 13:07",
+      "at": "10/11/2019 12:52",
+      "term": "A",
+      "sector": "",
+      "cinta": "7",
+      "lF": "007",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "97"
+    },
+    {
       "tipo": "partida",
       "aerolinea": "G3",
       "vuelo": "7475",
@@ -3342,7 +3342,7 @@
       "puerta": "24",
       "ruta": "USH",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3361,7 +3361,7 @@
       "puerta": "16",
       "ruta": "MAD",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3418,7 +3418,7 @@
       "puerta": "04",
       "ruta": "MAD",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3680,7 +3680,7 @@
       "term": "C",
       "sector": "CPI",
       "chkFrom": "201",
-      "chkTo": "218",
+      "chkTo": "220",
       "puerta": "",
       "ruta": "AMS",
       "via": "",
@@ -4073,14 +4073,14 @@
       "vuelo": "900",
       "st": "10/11/2019 21:10",
       "matricula": "N727AN",
-      "posicion": "16",
+      "posicion": "56",
       "et": "",
       "at": "",
       "term": "A",
       "sector": "AP",
       "chkFrom": "001",
       "chkTo": "020",
-      "puerta": "22",
+      "puerta": "",
       "ruta": "MIA",
       "via": "",
       "remark": "HOR",
