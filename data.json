@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/11/2019 13:50",
+  "lastUpdate": "10/11/2019 13:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2213,14 +2213,14 @@
       "matricula": "PRMBT",
       "posicion": "08",
       "et": "10/11/2019 13:47",
-      "at": "",
+      "at": "10/11/2019 13:57",
       "term": "A",
       "sector": "",
       "cinta": "4",
       "lF": "004",
       "ruta": "GRU",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "166"
     },
@@ -3494,7 +3494,7 @@
       "puerta": "02",
       "ruta": "MAD",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
