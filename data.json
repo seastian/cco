@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/11/2019 17:32",
+  "lastUpdate": "10/11/2019 17:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3523,7 +3523,7 @@
       "st": "10/11/2019 17:15",
       "matricula": "PRGUY",
       "posicion": "06",
-      "et": "10/11/2019 17:30",
+      "et": "10/11/2019 17:50",
       "at": "",
       "term": "A",
       "sector": "AP",
@@ -3806,8 +3806,8 @@
       "aerolinea": "DL",
       "vuelo": "110",
       "st": "10/11/2019 21:07",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "N843MH",
+      "posicion": "62",
       "et": "",
       "at": "",
       "term": "C",
