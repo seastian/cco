@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/11/2019 13:55",
+  "lastUpdate": "11/11/2019 14:00",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2283,25 +2283,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "OB",
-      "vuelo": "708",
-      "st": "11/11/2019 14:05",
-      "matricula": "CP2881",
-      "posicion": "08",
-      "et": "11/11/2019 13:40",
-      "at": "11/11/2019 13:37",
-      "term": "A",
-      "sector": "",
-      "cinta": "5",
-      "lF": "005",
-      "ruta": "VVI",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "176"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "JJ",
       "vuelo": "8003",
       "st": "11/11/2019 14:00",
@@ -3499,25 +3480,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "G3",
-      "vuelo": "7453",
-      "st": "11/11/2019 14:10",
-      "matricula": "PRVBK",
-      "posicion": "02",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "068",
-      "chkTo": "074",
-      "puerta": "01",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "BOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "BA",
       "vuelo": "244",
       "st": "11/11/2019 14:15",
@@ -3533,6 +3495,25 @@
       "ruta": "LHR",
       "via": "",
       "remark": "CER",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "G3",
+      "vuelo": "7453",
+      "st": "11/11/2019 14:10",
+      "matricula": "PRVBK",
+      "posicion": "02",
+      "et": "11/11/2019 14:20",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "068",
+      "chkTo": "074",
+      "puerta": "01",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3570,7 +3551,7 @@
       "puerta": "02",
       "ruta": "MAD",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
