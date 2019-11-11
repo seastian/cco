@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/11/2019 17:30",
+  "lastUpdate": "11/11/2019 17:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -126,8 +126,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "9",
+      "lF": "007",
       "ruta": "MAD",
       "via": "",
       "remark": "EST",
@@ -2251,14 +2251,14 @@
       "matricula": "LVFUX",
       "posicion": "06",
       "et": "11/11/2019 17:30",
-      "at": "",
+      "at": "11/11/2019 17:31",
       "term": "C",
       "sector": "CAC",
       "cinta": "11",
       "lF": "017",
       "ruta": "IGR",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "121"
     },
@@ -3608,7 +3608,7 @@
       "puerta": "01",
       "ruta": "GIG",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
