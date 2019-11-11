@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/11/2019 02:53",
+  "lastUpdate": "11/11/2019 02:59",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2340,25 +2340,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "G3",
-      "vuelo": "7453",
-      "st": "10/11/2019 14:10",
-      "matricula": "PRGUG",
-      "posicion": "02",
-      "et": "",
-      "at": "10/11/2019 14:59",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "068",
-      "chkTo": "074",
-      "puerta": "01",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1250",
       "st": "10/11/2019 15:05",
@@ -2473,25 +2454,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "KL",
-      "vuelo": "702",
-      "st": "10/11/2019 16:30",
-      "matricula": "PHBHI",
-      "posicion": "15",
-      "et": "",
-      "at": "10/11/2019 16:25",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "201",
-      "chkTo": "220",
-      "puerta": "20",
-      "ruta": "AMS",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AC",
       "vuelo": "093",
       "st": "10/11/2019 16:30",
@@ -2506,6 +2468,25 @@
       "puerta": "10",
       "ruta": "YYZ",
       "via": "SCL",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "KL",
+      "vuelo": "702",
+      "st": "10/11/2019 16:30",
+      "matricula": "PHBHI",
+      "posicion": "15",
+      "et": "",
+      "at": "10/11/2019 16:25",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "201",
+      "chkTo": "220",
+      "puerta": "20",
+      "ruta": "AMS",
+      "via": "",
       "remark": "PAR",
       "sanidad": "NO"
     },
@@ -3513,7 +3494,7 @@
       "puerta": "16",
       "ruta": "PUJ",
       "via": "RES",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
