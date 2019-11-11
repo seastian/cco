@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/11/2019 00:36",
+  "lastUpdate": "11/11/2019 00:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3632,25 +3632,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1132",
-      "st": "10/11/2019 23:55",
-      "matricula": "LVFPU",
-      "posicion": "14",
-      "et": "",
-      "at": "11/11/2019 00:28",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "18",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AM",
       "vuelo": "029",
       "st": "10/11/2019 23:55",
@@ -3664,6 +3645,25 @@
       "chkTo": "040",
       "puerta": "14",
       "ruta": "MEX",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1132",
+      "st": "10/11/2019 23:55",
+      "matricula": "LVFPU",
+      "posicion": "14",
+      "et": "",
+      "at": "11/11/2019 00:28",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "18",
+      "ruta": "MAD",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -3733,7 +3733,7 @@
       "matricula": "CCAIY",
       "posicion": "10",
       "et": "11/11/2019 00:10",
-      "at": "",
+      "at": "11/11/2019 00:41",
       "term": "A",
       "sector": "AP",
       "chkFrom": "089",
@@ -3741,7 +3741,7 @@
       "puerta": "10",
       "ruta": "SCL",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3760,7 +3760,7 @@
       "puerta": "03",
       "ruta": "HAV",
       "via": "CCC",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
