@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/11/2019 13:50",
+  "lastUpdate": "11/11/2019 13:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2308,14 +2308,14 @@
       "matricula": "PRMBR",
       "posicion": "06",
       "et": "11/11/2019 13:48",
-      "at": "",
+      "at": "11/11/2019 13:51",
       "term": "A",
       "sector": "",
       "cinta": "4",
       "lF": "004",
       "ruta": "GRU",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "172"
     },
@@ -3532,7 +3532,7 @@
       "puerta": "03",
       "ruta": "LHR",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3551,7 +3551,7 @@
       "puerta": "18",
       "ruta": "CDG",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
