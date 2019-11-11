@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/11/2019 22:36",
+  "lastUpdate": "10/11/2019 22:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3442,25 +3442,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "4M",
-      "vuelo": "7820",
-      "st": "10/11/2019 21:35",
-      "matricula": "CCBDC",
-      "posicion": "08",
-      "et": "",
-      "at": "10/11/2019 21:52",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "07",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AU",
       "vuelo": "2518",
       "st": "10/11/2019 21:35",
@@ -3474,6 +3455,25 @@
       "chkTo": "240",
       "puerta": "25",
       "ruta": "COR",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "4M",
+      "vuelo": "7820",
+      "st": "10/11/2019 21:35",
+      "matricula": "CCBDC",
+      "posicion": "08",
+      "et": "",
+      "at": "10/11/2019 21:52",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "07",
+      "ruta": "MIA",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -3581,7 +3581,7 @@
       "matricula": "A6EWC",
       "posicion": "04",
       "et": "",
-      "at": "",
+      "at": "10/11/2019 22:41",
       "term": "A",
       "sector": "AP",
       "chkFrom": "027",
@@ -3589,7 +3589,7 @@
       "puerta": "03",
       "ruta": "DXB",
       "via": "GIG",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3600,7 +3600,7 @@
       "matricula": "N787AL",
       "posicion": "09",
       "et": "",
-      "at": "",
+      "at": "10/11/2019 22:39",
       "term": "A",
       "sector": "AP",
       "chkFrom": "001",
@@ -3608,7 +3608,7 @@
       "puerta": "08",
       "ruta": "JFK",
       "via": "",
-      "remark": "ULT",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3646,7 +3646,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "EST",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
