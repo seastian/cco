@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/11/2019 01:07",
+  "lastUpdate": "12/11/2019 01:13",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3418,7 +3418,7 @@
       "puerta": "",
       "ruta": "CNF",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
