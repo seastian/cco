@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/11/2019 00:50",
+  "lastUpdate": "12/11/2019 00:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -4424,6 +4424,25 @@
       "chkTo": "053",
       "puerta": "",
       "ruta": "GRU",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AM",
+      "vuelo": "031",
+      "st": "12/11/2019 12:55",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "034",
+      "chkTo": "040",
+      "puerta": "",
+      "ruta": "MEX",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
