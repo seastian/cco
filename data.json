@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/11/2019 07:30",
+  "lastUpdate": "12/11/2019 07:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3323,7 +3323,7 @@
       "puerta": "07",
       "ruta": "GRU",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3342,7 +3342,7 @@
       "puerta": "05",
       "ruta": "LIM",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3361,7 +3361,7 @@
       "puerta": "12",
       "ruta": "ASU",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
