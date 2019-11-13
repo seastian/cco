@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/11/2019 17:14",
+  "lastUpdate": "13/11/2019 17:19",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3657,7 +3657,7 @@
       "matricula": "LVBFY",
       "posicion": "02",
       "et": "",
-      "at": "",
+      "at": "13/11/2019 17:20",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3665,7 +3665,7 @@
       "puerta": "24",
       "ruta": "BRC",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3675,7 +3675,7 @@
       "st": "13/11/2019 16:30",
       "matricula": "CFIVX",
       "posicion": "03",
-      "et": "13/11/2019 17:35",
+      "et": "13/11/2019 17:40",
       "at": "",
       "term": "A",
       "sector": "AP",
