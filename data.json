@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/11/2019 16:48",
+  "lastUpdate": "13/11/2019 16:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -84,7 +84,7 @@
       "st": "13/11/2019 17:55",
       "matricula": "LVFQY",
       "posicion": "",
-      "et": "",
+      "et": "13/11/2019 17:54",
       "at": "",
       "term": "A",
       "sector": "",
@@ -92,9 +92,9 @@
       "lF": "",
       "ruta": "GRU",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "157"
     },
     {
       "tipo": "arribo",
@@ -2359,25 +2359,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "G3",
-      "vuelo": "7689",
-      "st": "13/11/2019 04:40",
-      "matricula": "PRVBL",
-      "posicion": "02",
-      "et": "",
-      "at": "13/11/2019 04:53",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "068",
-      "chkTo": "074",
-      "puerta": "01",
-      "ruta": "BSB",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "CM",
       "vuelo": "364",
       "st": "13/11/2019 04:47",
@@ -2393,25 +2374,6 @@
       "ruta": "PTY",
       "via": "",
       "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "QR",
-      "vuelo": "8155",
-      "st": "13/11/2019 04:50",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "DOH",
-      "via": "UIO",
-      "remark": "CAN",
       "sanidad": "NO"
     },
     {
@@ -3670,6 +3632,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "JJ",
+      "vuelo": "8013",
+      "st": "13/11/2019 16:50",
+      "matricula": "PRTYG",
+      "posicion": "08",
+      "et": "",
+      "at": "13/11/2019 16:53",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "07",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "AC",
       "vuelo": "093",
       "st": "13/11/2019 16:30",
@@ -3684,26 +3665,7 @@
       "puerta": "02",
       "ruta": "YYZ",
       "via": "SCL",
-      "remark": "PRE",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "JJ",
-      "vuelo": "8013",
-      "st": "13/11/2019 16:50",
-      "matricula": "PRTYG",
-      "posicion": "08",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "07",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "CER",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3741,7 +3703,7 @@
       "puerta": "24",
       "ruta": "BRC",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4063,6 +4025,25 @@
       "chkTo": "020",
       "puerta": "",
       "ruta": "MIA",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AU",
+      "vuelo": "2762",
+      "st": "13/11/2019 21:30",
+      "matricula": "LVFPS",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "24",
+      "ruta": "ROS",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
