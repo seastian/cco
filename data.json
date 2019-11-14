@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/11/2019 17:07",
+  "lastUpdate": "14/11/2019 17:12",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3931,7 +3931,7 @@
       "puerta": "18",
       "ruta": "ASU",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3988,7 +3988,7 @@
       "puerta": "13",
       "ruta": "POA",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
