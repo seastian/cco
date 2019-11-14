@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/11/2019 17:27",
+  "lastUpdate": "14/11/2019 17:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -27,7 +27,7 @@
       "st": "14/11/2019 17:52",
       "matricula": "LVBSJ",
       "posicion": "",
-      "et": "",
+      "et": "14/11/2019 17:50",
       "at": "",
       "term": "C",
       "sector": "CAC",
@@ -35,7 +35,7 @@
       "lF": "",
       "ruta": "IGR",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -985,6 +985,25 @@
       "lF": "",
       "ruta": "MIA",
       "via": "SCL",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AV",
+      "vuelo": "087",
+      "st": "15/11/2019 05:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "BOG",
+      "via": "",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
