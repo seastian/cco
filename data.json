@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/11/2019 07:07",
+  "lastUpdate": "14/11/2019 07:12",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1288,6 +1288,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "SCL",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1371",
+      "st": "14/11/2019 19:10",
+      "matricula": "LVFVH",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "CUN",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -3277,7 +3296,7 @@
       "matricula": "CXCLS",
       "posicion": "59",
       "et": "",
-      "at": "",
+      "at": "14/11/2019 07:11",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -3285,7 +3304,7 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "CON",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3722,7 +3741,7 @@
       "puerta": "04",
       "ruta": "GRU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3741,7 +3760,7 @@
       "puerta": "10",
       "ruta": "LIM",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
