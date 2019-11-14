@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/11/2019 12:28",
+  "lastUpdate": "14/11/2019 12:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3836,7 +3836,7 @@
       "puerta": "17",
       "ruta": "ZRH",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3893,7 +3893,7 @@
       "puerta": "01",
       "ruta": "VCP",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3912,7 +3912,7 @@
       "puerta": "03",
       "ruta": "MAD",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
