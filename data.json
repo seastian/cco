@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/11/2019 13:42",
+  "lastUpdate": "14/11/2019 13:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1143,25 +1143,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AD",
-      "vuelo": "8762",
-      "st": "14/11/2019 02:00",
-      "matricula": "PRYRY",
-      "posicion": "07",
-      "et": "14/11/2019 01:55",
-      "at": "14/11/2019 01:47",
-      "term": "A",
-      "sector": "",
-      "cinta": "2",
-      "lF": "002",
-      "ruta": "CNF",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "172"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "FLY",
       "vuelo": "7919Q",
       "st": "14/11/2019 02:30",
@@ -1675,25 +1656,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "CHW",
-      "st": "14/11/2019 08:00",
-      "matricula": "LVCHW",
-      "posicion": "40",
-      "et": "",
-      "at": "14/11/2019 07:45",
-      "term": "FBO",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "FDO",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AA",
       "vuelo": "991",
       "st": "14/11/2019 08:35",
@@ -1710,6 +1672,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "273"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "CHW",
+      "st": "14/11/2019 08:00",
+      "matricula": "LVCHW",
+      "posicion": "40",
+      "et": "",
+      "at": "14/11/2019 07:45",
+      "term": "FBO",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "FDO",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -2037,25 +2018,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "AR",
-      "vuelo": "1257",
-      "st": "14/11/2019 09:55",
-      "matricula": "LVFQY",
-      "posicion": "18B",
-      "et": "14/11/2019 09:48",
-      "at": "14/11/2019 09:43",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "GIG",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "170"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
       "vuelo": "1249",
       "st": "14/11/2019 09:55",
       "matricula": "LVFQC",
@@ -2071,6 +2033,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "156"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1257",
+      "st": "14/11/2019 09:55",
+      "matricula": "LVFQY",
+      "posicion": "18B",
+      "et": "14/11/2019 09:48",
+      "at": "14/11/2019 09:43",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "009",
+      "ruta": "GIG",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "170"
     },
     {
       "tipo": "arribo",
@@ -2435,25 +2416,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1997",
-      "st": "14/11/2019 12:55",
-      "matricula": "LVGUB",
-      "posicion": "17B",
-      "et": "14/11/2019 13:25",
-      "at": "14/11/2019 13:21",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "11",
-      "lF": "017",
-      "ruta": "USH",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "136"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "G3",
       "vuelo": "7688",
       "st": "14/11/2019 13:30",
@@ -2470,6 +2432,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "163"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1997",
+      "st": "14/11/2019 12:55",
+      "matricula": "LVGUB",
+      "posicion": "17B",
+      "et": "14/11/2019 13:25",
+      "at": "14/11/2019 13:21",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "11",
+      "lF": "017",
+      "ruta": "USH",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "136"
     },
     {
       "tipo": "arribo",
@@ -3836,7 +3817,7 @@
       "puerta": "",
       "ruta": "AEP",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3931,7 +3912,7 @@
       "puerta": "07",
       "ruta": "LHR",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
