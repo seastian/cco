@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/11/2019 01:54",
+  "lastUpdate": "14/11/2019 01:59",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1257,25 +1257,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8003",
-      "st": "13/11/2019 14:00",
-      "matricula": "PRMBQ",
-      "posicion": "07",
-      "et": "13/11/2019 13:55",
-      "at": "13/11/2019 13:56",
-      "term": "A",
-      "sector": "",
-      "cinta": "3",
-      "lF": "003",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "171"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "M3",
       "vuelo": "8491",
       "st": "13/11/2019 14:00",
@@ -2375,44 +2356,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "128"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "CM",
-      "vuelo": "279",
-      "st": "14/11/2019 00:04",
-      "matricula": "HP1827",
-      "posicion": "03",
-      "et": "14/11/2019 00:15",
-      "at": "14/11/2019 00:15",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "007",
-      "ruta": "PTY",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "150"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1325",
-      "st": "13/11/2019 23:05",
-      "matricula": "LVGVB",
-      "posicion": "51A",
-      "et": "14/11/2019 01:08",
-      "at": "14/11/2019 00:47",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "008",
-      "ruta": "PUJ",
-      "via": "SLA",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "159"
     },
     {
       "tipo": "arribo",
@@ -3722,7 +3665,7 @@
       "puerta": "03",
       "ruta": "GIG",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
