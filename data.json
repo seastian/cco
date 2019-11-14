@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/11/2019 13:52",
+  "lastUpdate": "14/11/2019 13:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3809,7 +3809,7 @@
       "matricula": "LVGFQ",
       "posicion": "17A",
       "et": "",
-      "at": "",
+      "at": "14/11/2019 13:54",
       "term": "C",
       "sector": "",
       "chkFrom": "",
@@ -3817,7 +3817,7 @@
       "puerta": "",
       "ruta": "AEP",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3879,25 +3879,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "G3",
-      "vuelo": "7453",
-      "st": "14/11/2019 14:10",
-      "matricula": "PRGTF",
-      "posicion": "05",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "068",
-      "chkTo": "074",
-      "puerta": "04",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "BA",
       "vuelo": "244",
       "st": "14/11/2019 14:10",
@@ -3912,7 +3893,26 @@
       "puerta": "07",
       "ruta": "LHR",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "G3",
+      "vuelo": "7453",
+      "st": "14/11/2019 14:10",
+      "matricula": "PRGTF",
+      "posicion": "05",
+      "et": "14/11/2019 14:25",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "068",
+      "chkTo": "074",
+      "puerta": "04",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "EST",
       "sanidad": "NO"
     },
     {
@@ -3931,7 +3931,7 @@
       "puerta": "10",
       "ruta": "MAD",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
