@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/11/2019 17:22",
+  "lastUpdate": "14/11/2019 17:27",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -103,7 +103,7 @@
       "st": "14/11/2019 19:00",
       "matricula": "CCBAZ",
       "posicion": "",
-      "et": "",
+      "et": "14/11/2019 18:47",
       "at": "",
       "term": "A",
       "sector": "",
@@ -111,9 +111,9 @@
       "lF": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "155"
     },
     {
       "tipo": "arribo",
@@ -3904,7 +3904,7 @@
       "matricula": "LVFYK",
       "posicion": "14A",
       "et": "",
-      "at": "",
+      "at": "14/11/2019 17:27",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3912,7 +3912,7 @@
       "puerta": "18",
       "ruta": "ASU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
