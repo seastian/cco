@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/11/2019 17:12",
+  "lastUpdate": "14/11/2019 17:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -969,25 +969,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1305",
-      "st": "14/11/2019 04:40",
-      "matricula": "LVFNK",
-      "posicion": "15",
-      "et": "14/11/2019 05:12",
-      "at": "14/11/2019 05:14",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "224"
     },
     {
       "tipo": "arribo",
@@ -3310,25 +3291,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1524",
-      "st": "14/11/2019 12:00",
-      "matricula": "LVCBT",
-      "posicion": "17B",
-      "et": "",
-      "at": "14/11/2019 12:05",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "26",
-      "ruta": "COR",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "1412",
       "st": "14/11/2019 12:00",
       "matricula": "LVBYY",
@@ -3386,6 +3348,25 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
+      "vuelo": "1524",
+      "st": "14/11/2019 12:00",
+      "matricula": "LVCBT",
+      "posicion": "17B",
+      "et": "",
+      "at": "14/11/2019 12:05",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "26",
+      "ruta": "COR",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
       "vuelo": "1698",
       "st": "14/11/2019 12:20",
       "matricula": "LVFQC",
@@ -3398,25 +3379,6 @@
       "chkTo": "240",
       "puerta": "25",
       "ruta": "BRC",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AU",
-      "vuelo": "2392",
-      "st": "14/11/2019 12:25",
-      "matricula": "LVCIH",
-      "posicion": "23B",
-      "et": "",
-      "at": "14/11/2019 12:44",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "13",
-      "ruta": "MVD",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -3436,6 +3398,25 @@
       "chkTo": "053",
       "puerta": "04",
       "ruta": "GRU",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AU",
+      "vuelo": "2392",
+      "st": "14/11/2019 12:25",
+      "matricula": "LVCIH",
+      "posicion": "23B",
+      "et": "",
+      "at": "14/11/2019 12:44",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "13",
+      "ruta": "MVD",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -3969,7 +3950,7 @@
       "puerta": "01",
       "ruta": "GIG",
       "via": "",
-      "remark": "PRE",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3988,7 +3969,7 @@
       "puerta": "13",
       "ruta": "POA",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4064,7 +4045,7 @@
       "puerta": "23",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
