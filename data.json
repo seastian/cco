@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/11/2019 02:51",
+  "lastUpdate": "14/11/2019 02:56",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1333,25 +1333,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AU",
-      "vuelo": "2053",
-      "st": "13/11/2019 15:05",
-      "matricula": "LVFPT",
-      "posicion": "22B",
-      "et": "13/11/2019 14:45",
-      "at": "13/11/2019 14:53",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "AEP",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "4M",
       "vuelo": "7901",
       "st": "13/11/2019 15:47",
@@ -1448,25 +1429,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "AR",
-      "vuelo": "1871",
-      "st": "13/11/2019 16:45",
-      "matricula": "LVFRK",
-      "posicion": "50B",
-      "et": "13/11/2019 16:29",
-      "at": "13/11/2019 16:26",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "12",
-      "lF": "018",
-      "ruta": "USH",
-      "via": "FTE",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
       "vuelo": "1285",
       "st": "13/11/2019 16:20",
       "matricula": "LVFWS",
@@ -1482,6 +1444,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "130"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1871",
+      "st": "13/11/2019 16:45",
+      "matricula": "LVFRK",
+      "posicion": "50B",
+      "et": "13/11/2019 16:29",
+      "at": "13/11/2019 16:26",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "12",
+      "lF": "018",
+      "ruta": "USH",
+      "via": "FTE",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
