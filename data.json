@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/11/2019 14:23",
+  "lastUpdate": "14/11/2019 14:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3790,7 +3790,7 @@
       "matricula": "GYMMS",
       "posicion": "08",
       "et": "",
-      "at": "",
+      "at": "14/11/2019 14:25",
       "term": "A",
       "sector": "AP",
       "chkFrom": "007",
@@ -3798,7 +3798,7 @@
       "puerta": "07",
       "ruta": "LHR",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3817,26 +3817,7 @@
       "puerta": "16",
       "ruta": "MAD",
       "via": "",
-      "remark": "ULT",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "G3",
-      "vuelo": "7453",
-      "st": "14/11/2019 14:10",
-      "matricula": "PRGTF",
-      "posicion": "05",
-      "et": "14/11/2019 14:25",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "068",
-      "chkTo": "074",
-      "puerta": "04",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3856,6 +3837,25 @@
       "ruta": "AEP",
       "via": "",
       "remark": "DEM",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "G3",
+      "vuelo": "7453",
+      "st": "14/11/2019 14:10",
+      "matricula": "PRGTF",
+      "posicion": "05",
+      "et": "14/11/2019 14:40",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "068",
+      "chkTo": "074",
+      "puerta": "04",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3893,7 +3893,7 @@
       "puerta": "10",
       "ruta": "MAD",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
