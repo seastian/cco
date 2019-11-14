@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/11/2019 11:14",
+  "lastUpdate": "14/11/2019 11:20",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3638,7 +3638,7 @@
       "matricula": "LVFUP",
       "posicion": "38",
       "et": "",
-      "at": "",
+      "at": "14/11/2019 10:50",
       "term": "FBO",
       "sector": "",
       "chkFrom": "",
@@ -3646,7 +3646,7 @@
       "puerta": "",
       "ruta": "HDI",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3804,25 +3804,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1041",
-      "st": "14/11/2019 05:50",
-      "matricula": "LVFRK",
-      "posicion": "",
-      "et": "14/11/2019 14:30",
-      "at": "",
-      "term": "C",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "AEP",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "1284",
       "st": "14/11/2019 11:20",
       "matricula": "LVFWS",
@@ -3837,6 +3818,25 @@
       "ruta": "SCL",
       "via": "",
       "remark": "ULT",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1041",
+      "st": "14/11/2019 05:50",
+      "matricula": "LVFRK",
+      "posicion": "",
+      "et": "14/11/2019 14:30",
+      "at": "",
+      "term": "C",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "AEP",
+      "via": "",
+      "remark": "DEM",
       "sanidad": "NO"
     },
     {
@@ -3950,7 +3950,7 @@
       "puerta": "24",
       "ruta": "MDZ",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
