@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/11/2019 13:31",
+  "lastUpdate": "14/11/2019 13:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1124,22 +1124,22 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7648",
-      "st": "14/11/2019 01:05",
-      "matricula": "PRGTH",
-      "posicion": "06",
-      "et": "14/11/2019 01:31",
-      "at": "14/11/2019 01:34",
+      "aerolinea": "CM",
+      "vuelo": "363",
+      "st": "15/11/2019 01:33",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "1",
-      "lF": "001",
-      "ruta": "GIG",
+      "cinta": "",
+      "lF": "",
+      "ruta": "PTY",
       "via": "",
-      "remark": "ATE",
+      "remark": "",
       "sanidad": "NO",
-      "pax": "174"
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -2498,14 +2498,14 @@
       "matricula": "CP2880",
       "posicion": "03",
       "et": "14/11/2019 13:30",
-      "at": "",
+      "at": "14/11/2019 13:32",
       "term": "A",
       "sector": "",
       "cinta": "1",
       "lF": "002",
       "ruta": "VVI",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "200"
     },
@@ -3846,7 +3846,7 @@
       "st": "14/11/2019 13:10",
       "matricula": "LVFVI",
       "posicion": "12",
-      "et": "14/11/2019 13:30",
+      "et": "14/11/2019 14:00",
       "at": "",
       "term": "C",
       "sector": "CPI",
@@ -3912,7 +3912,7 @@
       "puerta": "22",
       "ruta": "FCO",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
