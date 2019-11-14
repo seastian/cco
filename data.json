@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/11/2019 10:48",
+  "lastUpdate": "14/11/2019 10:53",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -246,7 +246,7 @@
       "via": "",
       "remark": "",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "165"
     },
     {
       "tipo": "arribo",
@@ -293,7 +293,7 @@
       "st": "14/11/2019 14:25",
       "matricula": "PRMAP",
       "posicion": "",
-      "et": "",
+      "et": "14/11/2019 14:30",
       "at": "",
       "term": "A",
       "sector": "",
@@ -301,7 +301,7 @@
       "lF": "",
       "ruta": "LIM",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -2406,8 +2406,8 @@
       "at": "14/11/2019 10:24",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "2",
+      "lF": "002",
       "ruta": "SCL",
       "via": "",
       "remark": "ATE",
@@ -2444,7 +2444,7 @@
       "at": "14/11/2019 10:33",
       "term": "A",
       "sector": "",
-      "cinta": "",
+      "cinta": "1",
       "lF": "",
       "ruta": "MEX",
       "via": "",
@@ -2463,8 +2463,8 @@
       "at": "14/11/2019 10:39",
       "term": "C",
       "sector": "CAC",
-      "cinta": "",
-      "lF": "",
+      "cinta": "11",
+      "lF": "017",
       "ruta": "COR",
       "via": "",
       "remark": "ATE",
@@ -3855,7 +3855,7 @@
       "puerta": "19",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3874,7 +3874,7 @@
       "puerta": "01",
       "ruta": "PTY",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
