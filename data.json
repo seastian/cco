@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/11/2019 13:47",
+  "lastUpdate": "14/11/2019 13:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3733,7 +3733,7 @@
       "matricula": "HBJMF",
       "posicion": "13",
       "et": "",
-      "at": "",
+      "at": "14/11/2019 13:51",
       "term": "A",
       "sector": "AP",
       "chkFrom": "062",
@@ -3741,7 +3741,7 @@
       "puerta": "17",
       "ruta": "ZRH",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
