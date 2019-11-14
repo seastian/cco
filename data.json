@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/11/2019 20:32",
+  "lastUpdate": "14/11/2019 20:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1083,25 +1083,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "339"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "DL",
-      "vuelo": "101",
-      "st": "14/11/2019 09:20",
-      "matricula": "N829MH",
-      "posicion": "15",
-      "et": "14/11/2019 08:40",
-      "at": "14/11/2019 08:35",
-      "term": "A",
-      "sector": "",
-      "cinta": "2",
-      "lF": "004",
-      "ruta": "ATL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "244"
     },
     {
       "tipo": "arribo",
@@ -3676,7 +3657,7 @@
       "matricula": "CCBAK",
       "posicion": "02",
       "et": "",
-      "at": "",
+      "at": "14/11/2019 20:34",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3684,7 +3665,7 @@
       "puerta": "01",
       "ruta": "LIM",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3760,7 +3741,7 @@
       "puerta": "04",
       "ruta": "SCL",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
