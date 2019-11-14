@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/11/2019 05:51",
+  "lastUpdate": "14/11/2019 05:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -253,7 +253,7 @@
       "aerolinea": "AA",
       "vuelo": "907",
       "st": "14/11/2019 06:56",
-      "matricula": "",
+      "matricula": "N762AN",
       "posicion": "",
       "et": "14/11/2019 08:07",
       "at": "",
@@ -265,7 +265,7 @@
       "via": "",
       "remark": "DEM",
       "sanidad": "NO",
-      "pax": "272"
+      "pax": "274"
     },
     {
       "tipo": "arribo",
@@ -1352,6 +1352,44 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "4M",
+      "vuelo": "7511",
+      "st": "14/11/2019 17:52",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "IGR",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1253",
+      "st": "14/11/2019 17:55",
+      "matricula": "LVFVM",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "JJ",
       "vuelo": "8092",
       "st": "13/11/2019 18:25",
@@ -2397,25 +2435,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AU",
-      "vuelo": "2232",
-      "st": "13/11/2019 17:40",
-      "matricula": "LVCKZ",
-      "posicion": "25A",
-      "et": "",
-      "at": "13/11/2019 17:56",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "17",
-      "ruta": "POA",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AC",
       "vuelo": "093",
       "st": "13/11/2019 16:30",
@@ -2474,25 +2493,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1268",
-      "st": "13/11/2019 18:15",
-      "matricula": "LVFWS",
-      "posicion": "50A",
-      "et": "",
-      "at": "13/11/2019 18:36",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "21",
-      "ruta": "CWB",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "1290",
       "st": "13/11/2019 18:15",
       "matricula": "LVCBT",
@@ -2505,6 +2505,25 @@
       "chkTo": "240",
       "puerta": "13",
       "ruta": "SCL",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1268",
+      "st": "13/11/2019 18:15",
+      "matricula": "LVFWS",
+      "posicion": "50A",
+      "et": "",
+      "at": "13/11/2019 18:36",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "21",
+      "ruta": "CWB",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -3253,25 +3272,6 @@
     {
       "tipo": "partida",
       "aerolinea": "FLY",
-      "vuelo": "7919",
-      "st": "14/11/2019 02:30",
-      "matricula": "LVYIC",
-      "posicion": "60",
-      "et": "",
-      "at": "14/11/2019 02:21",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "FLY",
       "vuelo": "7919Q",
       "st": "14/11/2019 02:30",
       "matricula": "LVYIC",
@@ -3286,6 +3286,25 @@
       "ruta": "EZE",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "FLY",
+      "vuelo": "7919",
+      "st": "14/11/2019 02:30",
+      "matricula": "LVYIC",
+      "posicion": "60",
+      "et": "",
+      "at": "14/11/2019 02:21",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3348,25 +3367,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AOG",
-      "vuelo": "500",
-      "st": "14/11/2019 04:00",
-      "matricula": "CXLSS",
-      "posicion": "57",
-      "et": "",
-      "at": "14/11/2019 04:12",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
       "vuelo": "424",
       "st": "14/11/2019 04:00",
       "matricula": "CXCLS",
@@ -3381,6 +3381,25 @@
       "ruta": "MVD",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "500",
+      "st": "14/11/2019 04:00",
+      "matricula": "CXLSS",
+      "posicion": "57",
+      "et": "",
+      "at": "14/11/2019 04:12",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3570,7 +3589,7 @@
       "puerta": "10",
       "ruta": "LIM",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3589,7 +3608,7 @@
       "puerta": "19",
       "ruta": "ASU",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3608,7 +3627,7 @@
       "puerta": "21",
       "ruta": "SCL",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3665,7 +3684,7 @@
       "puerta": "23",
       "ruta": "GRU",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
