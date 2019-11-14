@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/11/2019 00:56",
+  "lastUpdate": "14/11/2019 01:01",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1254,25 +1254,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "154"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1787",
-      "st": "13/11/2019 11:55",
-      "matricula": "LVFYK",
-      "posicion": "50A",
-      "et": "13/11/2019 13:19",
-      "at": "13/11/2019 13:02",
-      "term": "C",
-      "sector": "",
-      "cinta": "1",
-      "lF": "017",
-      "ruta": "USH",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "170"
     },
     {
       "tipo": "arribo",
@@ -3855,7 +3836,7 @@
       "puerta": "02",
       "ruta": "PTY",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
