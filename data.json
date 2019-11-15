@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/11/2019 14:52",
+  "lastUpdate": "15/11/2019 14:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -41,6 +41,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1413",
+      "st": "15/11/2019 16:15",
+      "matricula": "LVBYY",
+      "posicion": "",
+      "et": "15/11/2019 16:00",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MDZ",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "108"
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "NZ",
       "vuelo": "30",
       "st": "15/11/2019 16:00",
@@ -72,25 +91,6 @@
       "cinta": "",
       "lF": "",
       "ruta": "MVD",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1413",
-      "st": "15/11/2019 16:15",
-      "matricula": "LVBYY",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MDZ",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -3524,7 +3524,7 @@
       "matricula": "PRVBL",
       "posicion": "06",
       "et": "15/11/2019 14:30",
-      "at": "",
+      "at": "15/11/2019 14:57",
       "term": "A",
       "sector": "AP",
       "chkFrom": "068",
@@ -3532,7 +3532,7 @@
       "puerta": "05",
       "ruta": "GRU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3543,7 +3543,7 @@
       "matricula": "ECMXV",
       "posicion": "10",
       "et": "",
-      "at": "",
+      "at": "15/11/2019 14:54",
       "term": "A",
       "sector": "AP",
       "chkFrom": "021",
@@ -3551,7 +3551,7 @@
       "puerta": "10",
       "ruta": "MAD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3608,7 +3608,7 @@
       "puerta": "23",
       "ruta": "GIG",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
