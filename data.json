@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/11/2019 12:14",
+  "lastUpdate": "15/11/2019 12:19",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2340,25 +2340,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AM",
-      "vuelo": "029",
-      "st": "14/11/2019 23:55",
-      "matricula": "XAADD",
-      "posicion": "04",
-      "et": "",
-      "at": "15/11/2019 00:19",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "034",
-      "chkTo": "040",
-      "puerta": "03",
-      "ruta": "MEX",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "QR",
       "vuelo": "774",
       "st": "14/11/2019 23:35",
@@ -2872,25 +2853,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AV",
-      "vuelo": "088",
-      "st": "15/11/2019 07:00",
-      "matricula": "N804AV",
-      "posicion": "10",
-      "et": "",
-      "at": "15/11/2019 07:33",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "057",
-      "chkTo": "067",
-      "puerta": "10",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AU",
       "vuelo": "2462",
       "st": "15/11/2019 07:00",
@@ -2904,6 +2866,25 @@
       "chkTo": "240",
       "puerta": "26",
       "ruta": "MDZ",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AV",
+      "vuelo": "088",
+      "st": "15/11/2019 07:00",
+      "matricula": "N804AV",
+      "posicion": "10",
+      "et": "",
+      "at": "15/11/2019 07:33",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "057",
+      "chkTo": "067",
+      "puerta": "10",
+      "ruta": "BOG",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -3024,25 +3005,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "PRV",
-      "vuelo": "770MK",
-      "st": "15/11/2019 10:00",
-      "matricula": "N770MK",
-      "posicion": "37",
-      "et": "15/11/2019 08:00",
-      "at": "15/11/2019 09:07",
-      "term": "FBO",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "IGR",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AU",
       "vuelo": "2724",
       "st": "15/11/2019 08:00",
@@ -3055,6 +3017,25 @@
       "chkFrom": "221",
       "chkTo": "240",
       "puerta": "24",
+      "ruta": "IGR",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "PRV",
+      "vuelo": "770MK",
+      "st": "15/11/2019 10:00",
+      "matricula": "N770MK",
+      "posicion": "37",
+      "et": "15/11/2019 08:00",
+      "at": "15/11/2019 09:07",
+      "term": "FBO",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
       "ruta": "IGR",
       "via": "",
       "remark": "PAR",
@@ -3418,7 +3399,7 @@
       "puerta": "26",
       "ruta": "COR",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3456,7 +3437,7 @@
       "puerta": "27",
       "ruta": "BRC",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3475,7 +3456,7 @@
       "puerta": "07",
       "ruta": "GRU",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3494,7 +3475,7 @@
       "puerta": "24",
       "ruta": "USH",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
