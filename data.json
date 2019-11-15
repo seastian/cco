@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/11/2019 15:39",
+  "lastUpdate": "15/11/2019 15:44",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -136,6 +136,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "445",
+      "st": "15/11/2019 17:00",
+      "matricula": "CCBBB",
+      "posicion": "",
+      "et": "15/11/2019 16:50",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1873",
       "st": "15/11/2019 16:15",
@@ -152,25 +171,6 @@
       "remark": "DEM",
       "sanidad": "NO",
       "pax": "127"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "445",
-      "st": "15/11/2019 17:00",
-      "matricula": "CCBBB",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -3613,25 +3613,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1286",
-      "st": "15/11/2019 16:05",
-      "matricula": "LVBYY",
-      "posicion": "17A",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "17",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PRE",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "JJ",
       "vuelo": "8011",
       "st": "15/11/2019 16:15",
@@ -3723,6 +3704,25 @@
       "ruta": "BOG",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1286",
+      "st": "15/11/2019 16:05",
+      "matricula": "LVBYY",
+      "posicion": "17A",
+      "et": "15/11/2019 16:50",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "17",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
