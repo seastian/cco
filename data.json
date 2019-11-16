@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/11/2019 00:00",
+  "lastUpdate": "16/11/2019 00:05",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2346,14 +2346,14 @@
       "matricula": "LVCAP",
       "posicion": "50B",
       "et": "",
-      "at": "",
+      "at": "16/11/2019 00:02",
       "term": "A",
       "sector": "",
       "cinta": "7",
       "lF": "007",
       "ruta": "SCL",
       "via": "",
-      "remark": "CON",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "98"
     },
@@ -3809,7 +3809,7 @@
       "matricula": "A7BBD",
       "posicion": "05",
       "et": "",
-      "at": "",
+      "at": "16/11/2019 00:05",
       "term": "A",
       "sector": "AP",
       "chkFrom": "060",
@@ -3817,7 +3817,7 @@
       "puerta": "04",
       "ruta": "DOH",
       "via": "GRU",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3835,25 +3835,6 @@
       "chkTo": "073",
       "puerta": "03",
       "ruta": "AKL",
-      "via": "",
-      "remark": "ULT",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "H2",
-      "vuelo": "504",
-      "st": "15/11/2019 23:50",
-      "matricula": "CCAJF",
-      "posicion": "03",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "089",
-      "chkTo": "091",
-      "puerta": "02",
-      "ruta": "SCL",
       "via": "",
       "remark": "CER",
       "sanidad": "NO"
@@ -3874,7 +3855,26 @@
       "puerta": "07",
       "ruta": "IST",
       "via": "GRU",
-      "remark": "BOR",
+      "remark": "ULT",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "H2",
+      "vuelo": "504",
+      "st": "15/11/2019 23:50",
+      "matricula": "CCAJF",
+      "posicion": "03",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "089",
+      "chkTo": "091",
+      "puerta": "02",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
