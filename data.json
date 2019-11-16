@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/11/2019 22:59",
+  "lastUpdate": "15/11/2019 23:04",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -690,7 +690,7 @@
       "aerolinea": "LA",
       "vuelo": "465",
       "st": "16/11/2019 08:48",
-      "matricula": "",
+      "matricula": "CCBEG",
       "posicion": "",
       "et": "",
       "at": "",
@@ -1070,7 +1070,7 @@
       "aerolinea": "LA",
       "vuelo": "455",
       "st": "16/11/2019 10:48",
-      "matricula": "",
+      "matricula": "CCCOK",
       "posicion": "",
       "et": "",
       "at": "",
@@ -1102,25 +1102,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "304"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7650",
-      "st": "15/11/2019 11:10",
-      "matricula": "PRGZI",
-      "posicion": "07",
-      "et": "15/11/2019 11:10",
-      "at": "15/11/2019 11:02",
-      "term": "A",
-      "sector": "",
-      "cinta": "1",
-      "lF": "001",
-      "ruta": "GIG",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "173"
     },
     {
       "tipo": "arribo",
@@ -1314,25 +1295,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1997",
-      "st": "15/11/2019 13:00",
-      "matricula": "LVFRQ",
-      "posicion": "12",
-      "et": "15/11/2019 14:30",
-      "at": "15/11/2019 14:38",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "11",
-      "lF": "017",
-      "ruta": "USH",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "162"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "M3",
       "vuelo": "8460",
       "st": "15/11/2019 14:30",
@@ -1349,6 +1311,25 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1997",
+      "st": "15/11/2019 13:00",
+      "matricula": "LVFRQ",
+      "posicion": "12",
+      "et": "15/11/2019 14:30",
+      "at": "15/11/2019 14:38",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "11",
+      "lF": "017",
+      "ruta": "USH",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "162"
     },
     {
       "tipo": "arribo",
@@ -2365,14 +2346,14 @@
       "matricula": "PRMAZ",
       "posicion": "06",
       "et": "15/11/2019 22:50",
-      "at": "",
+      "at": "15/11/2019 23:01",
       "term": "A",
       "sector": "",
       "cinta": "3",
       "lF": "003",
       "ruta": "GRU",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -3798,7 +3779,7 @@
       "puerta": "20",
       "ruta": "MIA",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3912,7 +3893,7 @@
       "puerta": "03",
       "ruta": "AKL",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4775,7 +4756,7 @@
       "aerolinea": "LA",
       "vuelo": "464",
       "st": "16/11/2019 10:25",
-      "matricula": "",
+      "matricula": "CCBEG",
       "posicion": "",
       "et": "",
       "at": "",
