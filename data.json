@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/11/2019 03:36",
+  "lastUpdate": "16/11/2019 03:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3760,7 +3760,7 @@
       "puerta": "02",
       "ruta": "VCP",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
