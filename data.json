@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/11/2019 01:13",
+  "lastUpdate": "17/11/2019 01:18",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3562,7 +3562,7 @@
       "matricula": "PRGUR",
       "posicion": "09",
       "et": "17/11/2019 01:10",
-      "at": "",
+      "at": "17/11/2019 01:18",
       "term": "A",
       "sector": "AP",
       "chkFrom": "068",
@@ -3570,7 +3570,7 @@
       "puerta": "09",
       "ruta": "MAO",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -4582,25 +4582,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AU",
-      "vuelo": "2392",
-      "st": "17/11/2019 12:25",
-      "matricula": "LVGIQ",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "JJ",
       "vuelo": "8009",
       "st": "17/11/2019 12:25",
@@ -4614,6 +4595,25 @@
       "chkTo": "053",
       "puerta": "",
       "ruta": "GRU",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AU",
+      "vuelo": "2392",
+      "st": "17/11/2019 12:25",
+      "matricula": "LVGIQ",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "MVD",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -4652,6 +4652,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "LIM",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AD",
+      "vuelo": "8767",
+      "st": "17/11/2019 13:15",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "076",
+      "chkTo": "078",
+      "puerta": "",
+      "ruta": "VCP",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
