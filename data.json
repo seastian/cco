@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/11/2019 13:43",
+  "lastUpdate": "17/11/2019 13:48",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3627,7 +3627,7 @@
       "puerta": "02",
       "ruta": "MAD",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
