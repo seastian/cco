@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/11/2019 15:16",
+  "lastUpdate": "17/11/2019 15:21",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -122,7 +122,7 @@
       "st": "17/11/2019 16:20",
       "matricula": "LVFXQ",
       "posicion": "",
-      "et": "",
+      "et": "17/11/2019 16:19",
       "at": "",
       "term": "A",
       "sector": "",
@@ -130,9 +130,9 @@
       "lF": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "85"
     },
     {
       "tipo": "arribo",
@@ -3562,7 +3562,7 @@
       "matricula": "LVFVM",
       "posicion": "16B",
       "et": "",
-      "at": "",
+      "at": "17/11/2019 15:17",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3570,7 +3570,7 @@
       "puerta": "23",
       "ruta": "GIG",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3627,7 +3627,7 @@
       "puerta": "13",
       "ruta": "GRU",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4506,6 +4506,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "PZ",
+      "vuelo": "1310",
+      "st": "17/11/2019 23:55",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "AM",
       "vuelo": "029",
       "st": "17/11/2019 23:55",
@@ -4538,25 +4557,6 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "MAD",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "PZ",
-      "vuelo": "1310",
-      "st": "17/11/2019 23:55",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "",
-      "ruta": "ASU",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -4603,25 +4603,6 @@
       "tipo": "partida",
       "aerolinea": "AOG",
       "vuelo": "101",
-      "st": "18/11/2019 00:30",
-      "matricula": "CXCAR",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "101",
       "st": "17/11/2019 20:30",
       "matricula": "CXCAR",
       "posicion": "",
@@ -4635,6 +4616,25 @@
       "ruta": "ASU",
       "via": "",
       "remark": "DEM",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "101",
+      "st": "18/11/2019 00:30",
+      "matricula": "CXCAR",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     },
     {
