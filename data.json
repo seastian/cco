@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/11/2019 12:56",
+  "lastUpdate": "17/11/2019 13:03",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1143,25 +1143,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "101",
-      "st": "17/11/2019 18:30",
-      "matricula": "CXCAR",
-      "posicion": "",
-      "et": "17/11/2019 23:00",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "JJ",
       "vuelo": "8014",
       "st": "17/11/2019 23:05",
@@ -2207,25 +2188,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1001",
-      "st": "17/11/2019 11:00",
-      "matricula": "LVBZO",
-      "posicion": "50B",
-      "et": "",
-      "at": "17/11/2019 12:12",
-      "term": "C",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "EZE",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AOG",
       "vuelo": "423",
       "st": "17/11/2019 11:00",
@@ -2242,6 +2204,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1001",
+      "st": "17/11/2019 11:00",
+      "matricula": "LVBZO",
+      "posicion": "50B",
+      "et": "",
+      "at": "17/11/2019 12:12",
+      "term": "C",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "EZE",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -2337,6 +2318,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "166"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1241",
+      "st": "17/11/2019 13:25",
+      "matricula": "LVFVM",
+      "posicion": "16B",
+      "et": "17/11/2019 13:08",
+      "at": "17/11/2019 13:04",
+      "term": "A",
+      "sector": "",
+      "cinta": "8",
+      "lF": "010",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "126"
     },
     {
       "tipo": "partida",
@@ -3494,7 +3494,7 @@
       "puerta": "03",
       "ruta": "MAD",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3548,7 +3548,7 @@
       "sector": "AP",
       "chkFrom": "006",
       "chkTo": "012",
-      "puerta": "",
+      "puerta": "10",
       "ruta": "LHR",
       "via": "",
       "remark": "HOR",
