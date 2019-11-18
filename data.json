@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/11/2019 01:30",
+  "lastUpdate": "18/11/2019 01:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1064,25 +1064,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7688",
-      "st": "17/11/2019 13:30",
-      "matricula": "PRVBG",
-      "posicion": "02",
-      "et": "17/11/2019 13:34",
-      "at": "17/11/2019 13:35",
-      "term": "A",
-      "sector": "",
-      "cinta": "4",
-      "lF": "004",
-      "ruta": "BSB",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "156"
     },
     {
       "tipo": "arribo",
@@ -3543,7 +3524,7 @@
       "matricula": "HP1725",
       "posicion": "05",
       "et": "",
-      "at": "",
+      "at": "18/11/2019 01:34",
       "term": "A",
       "sector": "AP",
       "chkFrom": "016",
@@ -3551,7 +3532,7 @@
       "puerta": "04",
       "ruta": "PTY",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
