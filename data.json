@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/11/2019 12:44",
+  "lastUpdate": "18/11/2019 12:50",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1216,25 +1216,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7648",
-      "st": "18/11/2019 01:05",
-      "matricula": "PRGTN",
-      "posicion": "09",
-      "et": "18/11/2019 00:49",
-      "at": "18/11/2019 00:49",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "008",
-      "ruta": "GIG",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "147"
     },
     {
       "tipo": "arribo",
@@ -3399,7 +3380,7 @@
       "puerta": "04",
       "ruta": "MEX",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3475,7 +3456,7 @@
       "puerta": "14",
       "ruta": "MAD",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
