@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/11/2019 12:27",
+  "lastUpdate": "18/11/2019 12:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3418,7 +3418,7 @@
       "puerta": "04",
       "ruta": "MEX",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3437,7 +3437,7 @@
       "puerta": "02",
       "ruta": "BCN",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3456,7 +3456,7 @@
       "puerta": "24",
       "ruta": "USH",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4373,25 +4373,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "QT",
-      "vuelo": "4078",
-      "st": "18/11/2019 22:45",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1140",
       "st": "18/11/2019 22:45",
@@ -4405,6 +4386,25 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "FCO",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "QT",
+      "vuelo": "4078",
+      "st": "18/11/2019 22:45",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "BOG",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -4525,6 +4525,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "PZ",
+      "vuelo": "1310",
+      "st": "18/11/2019 23:55",
+      "matricula": "PRMBH",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "AM",
       "vuelo": "029",
       "st": "18/11/2019 23:55",
@@ -4557,25 +4576,6 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "MAD",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "PZ",
-      "vuelo": "1310",
-      "st": "18/11/2019 23:55",
-      "matricula": "PRMBH",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "",
-      "ruta": "ASU",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
