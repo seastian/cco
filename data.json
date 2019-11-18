@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/11/2019 02:10",
+  "lastUpdate": "18/11/2019 02:15",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -4557,6 +4557,25 @@
       "chkTo": "074",
       "puerta": "",
       "ruta": "GRU",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "BA",
+      "vuelo": "244",
+      "st": "18/11/2019 14:15",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "007",
+      "chkTo": "012",
+      "puerta": "",
+      "ruta": "LHR",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
