@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/11/2019 02:49",
+  "lastUpdate": "18/11/2019 02:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -145,8 +145,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "1",
+      "lF": "003",
       "ruta": "BOG",
       "via": "",
       "remark": "EST",
@@ -3475,7 +3475,7 @@
       "puerta": "16",
       "ruta": "PUJ",
       "via": "RES",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
