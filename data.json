@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/11/2019 01:49",
+  "lastUpdate": "19/11/2019 01:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2213,14 +2213,14 @@
       "matricula": "CXMAS",
       "posicion": "57",
       "et": "",
-      "at": "",
+      "at": "19/11/2019 00:00",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "CON",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
