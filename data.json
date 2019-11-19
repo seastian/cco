@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/11/2019 02:27",
+  "lastUpdate": "19/11/2019 02:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1043,25 +1043,6 @@
       "ruta": "LIM",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8011",
-      "st": "18/11/2019 14:25",
-      "matricula": "PRMAZ",
-      "posicion": "06",
-      "et": "18/11/2019 14:40",
-      "at": "18/11/2019 14:33",
-      "term": "A",
-      "sector": "",
-      "cinta": "2",
-      "lF": "002",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -3551,7 +3532,7 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
