@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/11/2019 22:35",
+  "lastUpdate": "18/11/2019 22:40",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -158,9 +158,9 @@
       "aerolinea": "G3",
       "vuelo": "7452",
       "st": "19/11/2019 00:25",
-      "matricula": "",
+      "matricula": "PRVBG",
       "posicion": "",
-      "et": "",
+      "et": "19/11/2019 00:49",
       "at": "",
       "term": "A",
       "sector": "",
@@ -168,9 +168,9 @@
       "lF": "",
       "ruta": "GRU",
       "via": "",
-      "remark": "",
+      "remark": "DEM",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "178"
     },
     {
       "tipo": "arribo",
@@ -178,7 +178,7 @@
       "vuelo": "363",
       "st": "19/11/2019 01:33",
       "matricula": "HP1728",
-      "posicion": "",
+      "posicion": "03",
       "et": "19/11/2019 00:55",
       "at": "",
       "term": "A",
@@ -988,25 +988,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AA",
-      "vuelo": "953",
-      "st": "18/11/2019 10:42",
-      "matricula": "N765AN",
-      "posicion": "06",
-      "et": "18/11/2019 10:30",
-      "at": "18/11/2019 10:39",
-      "term": "A",
-      "sector": "",
-      "cinta": "4",
-      "lF": "005",
-      "ruta": "JFK",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "264"
     },
     {
       "tipo": "arribo",
@@ -3627,7 +3608,7 @@
       "puerta": "18",
       "ruta": "FCO",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3700,7 +3681,7 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "13",
       "ruta": "VVI",
       "via": "",
       "remark": "HOR",
@@ -4034,7 +4015,7 @@
       "aerolinea": "G3",
       "vuelo": "7689",
       "st": "19/11/2019 04:40",
-      "matricula": "",
+      "matricula": "PRVBG",
       "posicion": "",
       "et": "",
       "at": "",
