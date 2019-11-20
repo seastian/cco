@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/11/2019 05:06",
+  "lastUpdate": "20/11/2019 05:11",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -103,7 +103,7 @@
       "st": "20/11/2019 06:50",
       "matricula": "PRMHU",
       "posicion": "",
-      "et": "",
+      "et": "20/11/2019 06:35",
       "at": "",
       "term": "A",
       "sector": "",
@@ -111,9 +111,9 @@
       "lF": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "142"
     },
     {
       "tipo": "arribo",
@@ -1273,25 +1273,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "445",
-      "st": "19/11/2019 17:00",
-      "matricula": "CCBGA",
-      "posicion": "04",
-      "et": "19/11/2019 17:00",
-      "at": "19/11/2019 17:08",
-      "term": "A",
-      "sector": "",
-      "cinta": "4",
-      "lF": "004",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "246"
     },
     {
       "tipo": "arribo",
