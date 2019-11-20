@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/11/2019 12:09",
+  "lastUpdate": "20/11/2019 12:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3775,7 +3775,7 @@
       "term": "C",
       "sector": "CPI",
       "chkFrom": "201",
-      "chkTo": "218",
+      "chkTo": "220",
       "puerta": "",
       "ruta": "AMS",
       "via": "",
