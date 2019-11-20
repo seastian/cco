@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/11/2019 12:35",
+  "lastUpdate": "20/11/2019 12:40",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3315,7 +3315,7 @@
       "matricula": "LVFXQ",
       "posicion": "17A",
       "et": "",
-      "at": "",
+      "at": "20/11/2019 12:38",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3323,7 +3323,7 @@
       "puerta": "27",
       "ruta": "BRC",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3399,7 +3399,7 @@
       "puerta": "24",
       "ruta": "USH",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3456,7 +3456,7 @@
       "puerta": "02",
       "ruta": "MAD",
       "via": "",
-      "remark": "PRE",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
