@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/11/2019 01:40",
+  "lastUpdate": "20/11/2019 01:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1081,44 +1081,6 @@
       "ruta": "BSB",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "OB",
-      "vuelo": "708",
-      "st": "19/11/2019 13:40",
-      "matricula": "CP3086",
-      "posicion": "03",
-      "et": "19/11/2019 13:40",
-      "at": "19/11/2019 13:44",
-      "term": "A",
-      "sector": "",
-      "cinta": "6",
-      "lF": "007",
-      "ruta": "VVI",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "MP",
-      "vuelo": "6912",
-      "st": "19/11/2019 11:05",
-      "matricula": "PHCKC",
-      "posicion": "55",
-      "et": "19/11/2019 13:40",
-      "at": "19/11/2019 13:44",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "AMS",
-      "via": "VCP",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
