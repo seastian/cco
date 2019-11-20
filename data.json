@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/11/2019 15:11",
+  "lastUpdate": "20/11/2019 15:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -18,7 +18,7 @@
       "via": "",
       "remark": "EST",
       "sanidad": "NO",
-      "pax": "258"
+      "pax": "268"
     },
     {
       "tipo": "arribo",
@@ -3448,7 +3448,7 @@
       "matricula": "GYMMR",
       "posicion": "04",
       "et": "",
-      "at": "",
+      "at": "20/11/2019 15:14",
       "term": "A",
       "sector": "AP",
       "chkFrom": "007",
@@ -3456,7 +3456,7 @@
       "puerta": "03",
       "ruta": "LHR",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3589,7 +3589,7 @@
       "puerta": "02",
       "ruta": "VVI",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3757,7 +3757,7 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "19",
       "ruta": "SCL",
       "via": "",
       "remark": "DEM",
@@ -4449,25 +4449,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1132",
-      "st": "20/11/2019 23:55",
-      "matricula": "LVFPU",
-      "posicion": "M14",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "PZ",
       "vuelo": "1310",
       "st": "20/11/2019 23:55",
@@ -4500,6 +4481,25 @@
       "chkTo": "040",
       "puerta": "",
       "ruta": "MEX",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1132",
+      "st": "20/11/2019 23:55",
+      "matricula": "LVFPU",
+      "posicion": "M14",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "MAD",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -4615,6 +4615,25 @@
       "puerta": "",
       "ruta": "GIG",
       "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1324",
+      "st": "21/11/2019 03:15",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "PUJ",
+      "via": "RES",
       "remark": "HOR",
       "sanidad": "NO"
     }
