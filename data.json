@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/11/2019 13:42",
+  "lastUpdate": "20/11/2019 13:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3239,7 +3239,7 @@
       "matricula": "CXCLS",
       "posicion": "57",
       "et": "",
-      "at": "",
+      "at": "20/11/2019 13:43",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -3247,7 +3247,7 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3513,7 +3513,7 @@
       "puerta": "04",
       "ruta": "MAD",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
