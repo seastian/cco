@@ -1,6 +1,25 @@
 {
-  "lastUpdate": "20/11/2019 13:06",
+  "lastUpdate": "20/11/2019 13:11",
   "vuelos": [
+    {
+      "tipo": "arribo",
+      "aerolinea": "G3",
+      "vuelo": "7688",
+      "st": "20/11/2019 13:30",
+      "matricula": "PRGTT",
+      "posicion": "08",
+      "et": "20/11/2019 13:40",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "2",
+      "lF": "002",
+      "ruta": "BSB",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": ""
+    },
     {
       "tipo": "arribo",
       "aerolinea": "JJ",
@@ -19,25 +38,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "162"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7688",
-      "st": "20/11/2019 13:30",
-      "matricula": "PRGTT",
-      "posicion": "08",
-      "et": "20/11/2019 13:49",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "2",
-      "lF": "002",
-      "ruta": "BSB",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -98,6 +98,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "AC",
+      "vuelo": "092",
+      "st": "20/11/2019 14:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "YYZ",
+      "via": "SCL",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1226",
       "st": "20/11/2019 15:15",
@@ -133,25 +152,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "159"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AC",
-      "vuelo": "092",
-      "st": "20/11/2019 14:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "YYZ",
-      "via": "SCL",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -3361,7 +3361,7 @@
       "puerta": "20",
       "ruta": "BCN",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3456,7 +3456,7 @@
       "puerta": "14",
       "ruta": "FCO",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3491,7 +3491,7 @@
       "sector": "AP",
       "chkFrom": "007",
       "chkTo": "012",
-      "puerta": "",
+      "puerta": "03",
       "ruta": "LHR",
       "via": "",
       "remark": "HOR",
