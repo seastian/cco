@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/11/2019 17:11",
+  "lastUpdate": "20/11/2019 17:18",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3537,6 +3537,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "G3",
+      "vuelo": "7653",
+      "st": "20/11/2019 17:15",
+      "matricula": "PRGZI",
+      "posicion": "02",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "068",
+      "chkTo": "074",
+      "puerta": "01",
+      "ruta": "GIG",
+      "via": "",
+      "remark": "ULT",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1286",
       "st": "20/11/2019 16:05",
@@ -3594,25 +3613,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "G3",
-      "vuelo": "7653",
-      "st": "20/11/2019 17:15",
-      "matricula": "PRGZI",
-      "posicion": "02",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "068",
-      "chkTo": "074",
-      "puerta": "01",
-      "ruta": "GIG",
-      "via": "",
-      "remark": "BOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "4M",
       "vuelo": "7766",
       "st": "20/11/2019 17:25",
@@ -3627,7 +3627,7 @@
       "puerta": "27",
       "ruta": "BRC",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3646,7 +3646,7 @@
       "puerta": "13",
       "ruta": "POA",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
