@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/11/2019 13:47",
+  "lastUpdate": "20/11/2019 13:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3410,7 +3410,7 @@
       "matricula": "ECNCY",
       "posicion": "03",
       "et": "",
-      "at": "",
+      "at": "20/11/2019 13:52",
       "term": "A",
       "sector": "AP",
       "chkFrom": "054",
@@ -3418,7 +3418,7 @@
       "puerta": "02",
       "ruta": "MAD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3475,7 +3475,7 @@
       "puerta": "03",
       "ruta": "LHR",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3494,7 +3494,7 @@
       "puerta": "18",
       "ruta": "CDG",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3521,8 +3521,8 @@
       "aerolinea": "AR",
       "vuelo": "1960",
       "st": "20/11/2019 15:00",
-      "matricula": "LVGVB",
-      "posicion": "25B",
+      "matricula": "LVFVM",
+      "posicion": "18A",
       "et": "",
       "at": "",
       "term": "C",
