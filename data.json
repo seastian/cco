@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/11/2019 10:32",
+  "lastUpdate": "20/11/2019 10:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1181,25 +1181,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1325",
-      "st": "19/11/2019 23:05",
-      "matricula": "LVGUB",
-      "posicion": "14A",
-      "et": "19/11/2019 22:38",
-      "at": "19/11/2019 22:36",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "008",
-      "ruta": "PUJ",
-      "via": "SLA",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "134"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AV",
       "vuelo": "217",
       "st": "19/11/2019 22:20",
@@ -1998,25 +1979,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "H2",
-      "vuelo": "501",
-      "st": "20/11/2019 09:15",
-      "matricula": "CCAHD",
-      "posicion": "08",
-      "et": "20/11/2019 09:00",
-      "at": "20/11/2019 09:08",
-      "term": "A",
-      "sector": "",
-      "cinta": "4",
-      "lF": "004",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "136"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1269",
       "st": "20/11/2019 09:55",
@@ -2033,6 +1995,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "127"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "H2",
+      "vuelo": "501",
+      "st": "20/11/2019 09:15",
+      "matricula": "CCAHD",
+      "posicion": "08",
+      "et": "20/11/2019 09:00",
+      "at": "20/11/2019 09:08",
+      "term": "A",
+      "sector": "",
+      "cinta": "4",
+      "lF": "004",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "136"
     },
     {
       "tipo": "arribo",
