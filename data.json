@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/11/2019 16:32",
+  "lastUpdate": "20/11/2019 16:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2175,14 +2175,14 @@
       "matricula": "LVBSJ",
       "posicion": "08",
       "et": "20/11/2019 16:30",
-      "at": "",
+      "at": "20/11/2019 16:34",
       "term": "C",
       "sector": "CAC",
       "cinta": "11",
       "lF": "017",
       "ruta": "BRC",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "174"
     },
@@ -3429,7 +3429,7 @@
       "matricula": "PRTYG",
       "posicion": "07",
       "et": "",
-      "at": "",
+      "at": "20/11/2019 16:34",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3437,7 +3437,7 @@
       "puerta": "06",
       "ruta": "GRU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
