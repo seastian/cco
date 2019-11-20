@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/11/2019 01:14",
+  "lastUpdate": "20/11/2019 01:19",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2201,25 +2201,6 @@
       "chkTo": "060",
       "puerta": "08",
       "ruta": "MAD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "JJ",
-      "vuelo": "8009",
-      "st": "19/11/2019 12:25",
-      "matricula": "PTXPI",
-      "posicion": "08",
-      "et": "19/11/2019 13:25",
-      "at": "19/11/2019 13:18",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "07",
-      "ruta": "GRU",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
