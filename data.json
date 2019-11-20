@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/11/2019 07:23",
+  "lastUpdate": "20/11/2019 07:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -155,6 +155,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1269",
+      "st": "20/11/2019 09:55",
+      "matricula": "LVFVM",
+      "posicion": "",
+      "et": "20/11/2019 09:00",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "CWB",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "127"
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "H2",
       "vuelo": "501",
       "st": "20/11/2019 09:15",
@@ -232,6 +251,25 @@
     {
       "tipo": "arribo",
       "aerolinea": "AR",
+      "vuelo": "1257",
+      "st": "20/11/2019 09:55",
+      "matricula": "LVFQC",
+      "posicion": "",
+      "et": "20/11/2019 09:46",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "GIG",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "128"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
       "vuelo": "1249",
       "st": "20/11/2019 09:55",
       "matricula": "LVFXQ",
@@ -247,44 +285,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "152"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1269",
-      "st": "20/11/2019 09:55",
-      "matricula": "LVFVM",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "CWB",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1257",
-      "st": "20/11/2019 09:55",
-      "matricula": "LVFQC",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "GIG",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -1119,25 +1119,6 @@
       "ruta": "LIM",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1040",
-      "st": "19/11/2019 19:10",
-      "matricula": "LVBYY",
-      "posicion": "50A",
-      "et": "",
-      "at": "19/11/2019 19:24",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "AEP",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -3437,7 +3418,7 @@
       "puerta": "01",
       "ruta": "GRU",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3494,7 +3475,7 @@
       "puerta": "12",
       "ruta": "ASU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
