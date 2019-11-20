@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "20/11/2019 03:40",
+  "lastUpdate": "20/11/2019 03:45",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1133",
-      "st": "20/11/2019 04:20",
-      "matricula": "LVFPU",
-      "posicion": "12",
-      "et": "20/11/2019 03:44",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "293"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "ES",
@@ -1182,25 +1163,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "AR",
-      "vuelo": "1873",
-      "st": "19/11/2019 16:00",
-      "matricula": "LVFQB",
-      "posicion": "15B",
-      "et": "19/11/2019 15:45",
-      "at": "19/11/2019 15:45",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "12",
-      "lF": "018",
-      "ruta": "BRC",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "156"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
       "vuelo": "1285",
       "st": "19/11/2019 16:20",
       "matricula": "LVFUB",
@@ -1770,25 +1732,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AM",
-      "vuelo": "030",
-      "st": "19/11/2019 21:55",
-      "matricula": "N183AM",
-      "posicion": "05",
-      "et": "19/11/2019 21:58",
-      "at": "19/11/2019 21:56",
-      "term": "A",
-      "sector": "",
-      "cinta": "3",
-      "lF": "003",
-      "ruta": "MEX",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "176"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1251",
       "st": "19/11/2019 22:15",
@@ -1805,6 +1748,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "153"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AM",
+      "vuelo": "030",
+      "st": "19/11/2019 21:55",
+      "matricula": "N183AM",
+      "posicion": "05",
+      "et": "19/11/2019 21:58",
+      "at": "19/11/2019 21:56",
+      "term": "A",
+      "sector": "",
+      "cinta": "3",
+      "lF": "003",
+      "ruta": "MEX",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "176"
     },
     {
       "tipo": "arribo",
@@ -2147,6 +2109,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "149"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1133",
+      "st": "20/11/2019 04:20",
+      "matricula": "LVFPU",
+      "posicion": "12",
+      "et": "20/11/2019 03:44",
+      "at": "20/11/2019 03:41",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "009",
+      "ruta": "MAD",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "293"
     },
     {
       "tipo": "arribo",
@@ -3190,7 +3171,7 @@
       "puerta": "09",
       "ruta": "LIM",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3304,7 +3285,7 @@
       "puerta": "02",
       "ruta": "BSB",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
