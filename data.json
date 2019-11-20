@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/11/2019 12:40",
+  "lastUpdate": "20/11/2019 12:46",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3334,7 +3334,7 @@
       "matricula": "PTMXH",
       "posicion": "08",
       "et": "",
-      "at": "",
+      "at": "20/11/2019 12:45",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3342,7 +3342,7 @@
       "puerta": "07",
       "ruta": "GRU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3380,7 +3380,7 @@
       "puerta": "20",
       "ruta": "BCN",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
