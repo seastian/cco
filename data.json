@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/11/2019 16:20",
+  "lastUpdate": "20/11/2019 16:25",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -927,6 +927,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "MAD",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AV",
+      "vuelo": "965",
+      "st": "21/11/2019 04:25",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "LIM",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -3551,7 +3570,7 @@
       "puerta": "15",
       "ruta": "ASU",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
