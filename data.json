@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/11/2019 14:23",
+  "lastUpdate": "20/11/2019 14:29",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -861,7 +861,7 @@
       "aerolinea": "AOG",
       "vuelo": "101",
       "st": "20/11/2019 22:30",
-      "matricula": "",
+      "matricula": "CXCAR",
       "posicion": "",
       "et": "",
       "at": "",
@@ -4563,25 +4563,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "101",
-      "st": "21/11/2019 00:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AV",
       "vuelo": "218",
       "st": "21/11/2019 00:10",
@@ -4597,6 +4578,25 @@
       "ruta": "BOG",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "101",
+      "st": "21/11/2019 00:00",
+      "matricula": "CXCAR",
+      "posicion": "",
+      "et": "21/11/2019 00:30",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "DEM",
       "sanidad": "NO"
     },
     {
