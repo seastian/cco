@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/11/2019 06:16",
+  "lastUpdate": "20/11/2019 06:21",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3329,25 +3329,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1428",
-      "st": "20/11/2019 06:40",
-      "matricula": "LVFUB",
-      "posicion": "51A",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "26",
-      "ruta": "SLA",
-      "via": "",
-      "remark": "ULT",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "1240",
       "st": "20/11/2019 06:40",
       "matricula": "LVFRK",
@@ -3360,6 +3341,25 @@
       "chkTo": "240",
       "puerta": "21",
       "ruta": "GRU",
+      "via": "",
+      "remark": "CER",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1428",
+      "st": "20/11/2019 06:40",
+      "matricula": "LVFUB",
+      "posicion": "51A",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "26",
+      "ruta": "SLA",
       "via": "",
       "remark": "ULT",
       "sanidad": "NO"
