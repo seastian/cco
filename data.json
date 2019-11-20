@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/11/2019 12:51",
+  "lastUpdate": "20/11/2019 12:56",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -117,6 +117,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "KL",
+      "vuelo": "702",
+      "st": "20/11/2019 14:40",
+      "matricula": "PHBHF",
+      "posicion": "",
+      "et": "20/11/2019 14:19",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "AC",
       "vuelo": "092",
       "st": "20/11/2019 14:30",
@@ -171,25 +190,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "108"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "KL",
-      "vuelo": "702",
-      "st": "20/11/2019 14:40",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -3353,7 +3353,7 @@
       "matricula": "LVGBK",
       "posicion": "24B",
       "et": "",
-      "at": "",
+      "at": "20/11/2019 12:55",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3361,7 +3361,7 @@
       "puerta": "13",
       "ruta": "MVD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3475,7 +3475,7 @@
       "puerta": "14",
       "ruta": "FCO",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3730,7 +3730,7 @@
       "aerolinea": "KL",
       "vuelo": "702",
       "st": "20/11/2019 16:30",
-      "matricula": "",
+      "matricula": "PHBHF",
       "posicion": "",
       "et": "",
       "at": "",
