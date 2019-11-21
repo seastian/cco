@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/11/2019 15:56",
+  "lastUpdate": "21/11/2019 16:01",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2340,25 +2340,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "JJ",
-      "vuelo": "8010",
-      "st": "21/11/2019 03:55",
-      "matricula": "PRTYG",
-      "posicion": "03",
-      "et": "",
-      "at": "21/11/2019 04:01",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "02",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "UC",
       "vuelo": "1104",
       "st": "21/11/2019 04:10",
@@ -3703,7 +3684,7 @@
       "puerta": "03",
       "ruta": "VVI",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3722,7 +3703,7 @@
       "puerta": "04",
       "ruta": "GRU",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3779,7 +3760,7 @@
       "puerta": "23",
       "ruta": "BOG",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
