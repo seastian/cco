@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/11/2019 02:49",
+  "lastUpdate": "21/11/2019 02:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2378,25 +2378,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "G3",
-      "vuelo": "7453",
-      "st": "20/11/2019 14:10",
-      "matricula": "PRGTT",
-      "posicion": "08",
-      "et": "",
-      "at": "20/11/2019 14:52",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "068",
-      "chkTo": "074",
-      "puerta": "07",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "BA",
       "vuelo": "244",
       "st": "20/11/2019 14:15",
@@ -2853,25 +2834,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1364",
-      "st": "20/11/2019 19:00",
-      "matricula": "LVFUA",
-      "posicion": "18B",
-      "et": "",
-      "at": "20/11/2019 19:34",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "19",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "PRV",
       "vuelo": "BOA",
       "st": "20/11/2019 16:00",
@@ -2885,6 +2847,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "ASU",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1364",
+      "st": "20/11/2019 19:00",
+      "matricula": "LVFUA",
+      "posicion": "18B",
+      "et": "",
+      "at": "20/11/2019 19:34",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "19",
+      "ruta": "LIM",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -3494,7 +3475,7 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3513,7 +3494,7 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3524,7 +3505,7 @@
       "matricula": "PRGUI",
       "posicion": "06",
       "et": "21/11/2019 02:45",
-      "at": "",
+      "at": "21/11/2019 02:49",
       "term": "A",
       "sector": "AP",
       "chkFrom": "068",
@@ -3532,7 +3513,7 @@
       "puerta": "05",
       "ruta": "GIG",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3589,7 +3570,7 @@
       "puerta": "16",
       "ruta": "PUJ",
       "via": "RES",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4452,7 +4433,7 @@
       "aerolinea": "AR",
       "vuelo": "1820",
       "st": "21/11/2019 12:00",
-      "matricula": "",
+      "matricula": "LVGVB",
       "posicion": "",
       "et": "",
       "at": "",
@@ -4509,7 +4490,7 @@
       "aerolinea": "AR",
       "vuelo": "1524",
       "st": "21/11/2019 12:00",
-      "matricula": "",
+      "matricula": "LVFRK",
       "posicion": "",
       "et": "",
       "at": "",
@@ -4528,7 +4509,7 @@
       "aerolinea": "AR",
       "vuelo": "1698",
       "st": "21/11/2019 12:20",
-      "matricula": "",
+      "matricula": "LVFQC",
       "posicion": "",
       "et": "",
       "at": "",
