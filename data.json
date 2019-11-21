@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/11/2019 14:35",
+  "lastUpdate": "21/11/2019 14:42",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -310,7 +310,7 @@
       "aerolinea": "LP",
       "vuelo": "2429",
       "st": "21/11/2019 18:47",
-      "matricula": "",
+      "matricula": "CCCQO",
       "posicion": "",
       "et": "",
       "at": "",
@@ -3695,7 +3695,7 @@
       "matricula": "ECMYX",
       "posicion": "03",
       "et": "",
-      "at": "",
+      "at": "21/11/2019 14:40",
       "term": "A",
       "sector": "AP",
       "chkFrom": "021",
@@ -3703,7 +3703,7 @@
       "puerta": "02",
       "ruta": "MAD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3713,7 +3713,7 @@
       "st": "21/11/2019 14:10",
       "matricula": "PRGUY",
       "posicion": "02",
-      "et": "21/11/2019 14:40",
+      "et": "21/11/2019 14:50",
       "at": "",
       "term": "A",
       "sector": "AP",
@@ -3760,7 +3760,7 @@
       "puerta": "17",
       "ruta": "GIG",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4262,7 +4262,7 @@
       "aerolinea": "LP",
       "vuelo": "2468",
       "st": "21/11/2019 19:58",
-      "matricula": "",
+      "matricula": "CCCQO",
       "posicion": "",
       "et": "",
       "at": "",
