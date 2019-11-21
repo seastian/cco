@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/11/2019 13:02",
+  "lastUpdate": "21/11/2019 13:07",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -98,6 +98,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "KL",
+      "vuelo": "702",
+      "st": "21/11/2019 14:40",
+      "matricula": "PHBHM",
+      "posicion": "",
+      "et": "21/11/2019 14:25",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1229",
       "st": "21/11/2019 15:05",
@@ -114,25 +133,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "126"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "KL",
-      "vuelo": "702",
-      "st": "21/11/2019 14:40",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -1117,6 +1117,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "GRU",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "G3",
+      "vuelo": "7648",
+      "st": "22/11/2019 01:05",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "GIG",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -3475,7 +3494,7 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3543,7 +3562,7 @@
       "matricula": "HBJMF",
       "posicion": "09",
       "et": "",
-      "at": "",
+      "at": "21/11/2019 13:08",
       "term": "A",
       "sector": "AP",
       "chkFrom": "062",
@@ -3551,7 +3570,7 @@
       "puerta": "09",
       "ruta": "ZRH",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3627,7 +3646,7 @@
       "puerta": "01",
       "ruta": "VCP",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
