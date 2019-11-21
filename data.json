@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/11/2019 18:46",
+  "lastUpdate": "21/11/2019 18:51",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -991,6 +991,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "PZ",
+      "vuelo": "1311",
+      "st": "22/11/2019 06:50",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "AU",
       "vuelo": "2042",
       "st": "21/11/2019 06:00",
@@ -1026,25 +1045,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "271"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "PZ",
-      "vuelo": "1311",
-      "st": "21/11/2019 06:50",
-      "matricula": "PRMHU",
-      "posicion": "02",
-      "et": "",
-      "at": "21/11/2019 06:47",
-      "term": "A",
-      "sector": "",
-      "cinta": "2",
-      "lF": "002",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -1751,25 +1751,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "UA",
-      "vuelo": "819",
-      "st": "21/11/2019 11:20",
-      "matricula": "N74007",
-      "posicion": "06",
-      "et": "21/11/2019 11:15",
-      "at": "21/11/2019 11:13",
-      "term": "A",
-      "sector": "",
-      "cinta": "4",
-      "lF": "001",
-      "ruta": "IAH",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "266"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AOG",
       "vuelo": "421",
       "st": "21/11/2019 11:15",
@@ -1786,6 +1767,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "UA",
+      "vuelo": "819",
+      "st": "21/11/2019 11:20",
+      "matricula": "N74007",
+      "posicion": "06",
+      "et": "21/11/2019 11:15",
+      "at": "21/11/2019 11:13",
+      "term": "A",
+      "sector": "",
+      "cinta": "4",
+      "lF": "001",
+      "ruta": "IAH",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "266"
     },
     {
       "tipo": "arribo",
@@ -1922,25 +1922,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "OB",
-      "vuelo": "708",
-      "st": "21/11/2019 13:40",
-      "matricula": "CP3086",
-      "posicion": "04",
-      "et": "21/11/2019 14:00",
-      "at": "21/11/2019 13:59",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "VVI",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "198"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "M3",
       "vuelo": "8493",
       "st": "21/11/2019 14:00",
@@ -1957,6 +1938,25 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "OB",
+      "vuelo": "708",
+      "st": "21/11/2019 13:40",
+      "matricula": "CP3086",
+      "posicion": "04",
+      "et": "21/11/2019 14:00",
+      "at": "21/11/2019 13:59",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "009",
+      "ruta": "VVI",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "198"
     },
     {
       "tipo": "arribo",
@@ -2128,6 +2128,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "80"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1285",
+      "st": "21/11/2019 16:20",
+      "matricula": "LVFQB",
+      "posicion": "25B",
+      "et": "21/11/2019 16:10",
+      "at": "21/11/2019 16:09",
+      "term": "A",
+      "sector": "",
+      "cinta": "7",
+      "lF": "009",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "106"
     },
     {
       "tipo": "arribo",
@@ -2337,6 +2356,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "203"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1371",
+      "st": "21/11/2019 19:10",
+      "matricula": "LVGKO",
+      "posicion": "12",
+      "et": "21/11/2019 18:52",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "007",
+      "ruta": "CUN",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "200"
     },
     {
       "tipo": "partida",
@@ -3703,7 +3741,7 @@
       "puerta": "19",
       "ruta": "GIG",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
