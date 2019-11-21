@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/11/2019 07:20",
+  "lastUpdate": "21/11/2019 07:25",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -27,7 +27,7 @@
       "st": "21/11/2019 08:00",
       "matricula": "DABYP",
       "posicion": "09",
-      "et": "21/11/2019 07:35",
+      "et": "21/11/2019 08:00",
       "at": "",
       "term": "A",
       "sector": "",
@@ -3589,7 +3589,7 @@
       "puerta": "27",
       "ruta": "COR",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3684,7 +3684,7 @@
       "puerta": "01",
       "ruta": "GRU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3722,7 +3722,7 @@
       "puerta": "12",
       "ruta": "ASU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
