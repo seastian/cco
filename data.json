@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/11/2019 16:54",
+  "lastUpdate": "21/11/2019 17:01",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -935,6 +935,25 @@
     {
       "tipo": "arribo",
       "aerolinea": "AR",
+      "vuelo": "1305",
+      "st": "22/11/2019 04:40",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
       "vuelo": "1141",
       "st": "22/11/2019 04:40",
       "matricula": "",
@@ -954,8 +973,8 @@
     {
       "tipo": "arribo",
       "aerolinea": "AR",
-      "vuelo": "1305",
-      "st": "22/11/2019 04:40",
+      "vuelo": "1365",
+      "st": "22/11/2019 05:00",
       "matricula": "",
       "posicion": "",
       "et": "",
@@ -964,7 +983,7 @@
       "sector": "",
       "cinta": "",
       "lF": "",
-      "ruta": "MIA",
+      "ruta": "LIM",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -3760,7 +3779,7 @@
       "puerta": "25",
       "ruta": "IGR",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3779,7 +3798,7 @@
       "puerta": "07",
       "ruta": "GIG",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4728,6 +4747,25 @@
       "chkTo": "021",
       "puerta": "",
       "ruta": "PTY",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1228",
+      "st": "22/11/2019 05:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "SSA",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
