@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/11/2019 11:59",
+  "lastUpdate": "21/11/2019 12:05",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1117,6 +1117,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "GRU",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "CM",
+      "vuelo": "279",
+      "st": "22/11/2019 00:04",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "PTY",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -2365,14 +2384,14 @@
       "matricula": "DALCK",
       "posicion": "55",
       "et": "21/11/2019 12:00",
-      "at": "",
+      "at": "21/11/2019 12:04",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "FRA",
       "via": "MVD",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -3532,7 +3551,7 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
