@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/11/2019 14:24",
+  "lastUpdate": "21/11/2019 14:30",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3657,7 +3657,7 @@
       "matricula": "GYMMS",
       "posicion": "08",
       "et": "",
-      "at": "",
+      "at": "21/11/2019 14:28",
       "term": "A",
       "sector": "AP",
       "chkFrom": "006",
@@ -3665,7 +3665,7 @@
       "puerta": "07",
       "ruta": "LHR",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3694,7 +3694,7 @@
       "st": "21/11/2019 14:10",
       "matricula": "PRGUY",
       "posicion": "02",
-      "et": "21/11/2019 14:30",
+      "et": "21/11/2019 14:40",
       "at": "",
       "term": "A",
       "sector": "AP",
