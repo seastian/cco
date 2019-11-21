@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/11/2019 17:18",
+  "lastUpdate": "21/11/2019 17:23",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -985,6 +985,25 @@
       "lF": "",
       "ruta": "LIM",
       "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "5X",
+      "vuelo": "412",
+      "st": "22/11/2019 05:23",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "SCL",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
@@ -3695,7 +3714,7 @@
       "matricula": "PRMBY",
       "posicion": "06",
       "et": "",
-      "at": "",
+      "at": "21/11/2019 17:00",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3703,7 +3722,7 @@
       "puerta": "05",
       "ruta": "GRU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3760,7 +3779,7 @@
       "puerta": "25",
       "ruta": "IGR",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3798,7 +3817,7 @@
       "puerta": "17",
       "ruta": "POA",
       "via": "",
-      "remark": "PRE",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4449,25 +4468,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "PZ",
-      "vuelo": "1310",
-      "st": "21/11/2019 23:55",
-      "matricula": "PRMBX",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1132",
       "st": "21/11/2019 23:55",
@@ -4481,6 +4481,25 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "MAD",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "PZ",
+      "vuelo": "1310",
+      "st": "21/11/2019 23:55",
+      "matricula": "PRMBX",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "ASU",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -4748,6 +4767,25 @@
       "puerta": "",
       "ruta": "SSA",
       "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "QR",
+      "vuelo": "8157",
+      "st": "22/11/2019 05:20",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "DOH",
+      "via": "UIO",
       "remark": "HOR",
       "sanidad": "NO"
     }
