@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/11/2019 22:16",
+  "lastUpdate": "21/11/2019 22:23",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -140,7 +140,7 @@
       "vuelo": "8494",
       "st": "21/11/2019 23:45",
       "matricula": "PRABB",
-      "posicion": "",
+      "posicion": "55",
       "et": "21/11/2019 23:40",
       "at": "",
       "term": "TCA",
@@ -1026,25 +1026,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "455",
-      "st": "21/11/2019 10:48",
-      "matricula": "CCBBG",
-      "posicion": "05",
-      "et": "21/11/2019 10:15",
-      "at": "21/11/2019 10:18",
-      "term": "A",
-      "sector": "",
-      "cinta": "3",
-      "lF": "002",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "225"
     },
     {
       "tipo": "arribo",
@@ -2308,14 +2289,14 @@
       "matricula": "N762AV",
       "posicion": "06",
       "et": "21/11/2019 22:05",
-      "at": "",
+      "at": "21/11/2019 22:16",
       "term": "A",
       "sector": "",
       "cinta": "6",
       "lF": "010",
       "ruta": "BOG",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "125"
     },
@@ -3638,7 +3619,7 @@
       "matricula": "N74007",
       "posicion": "08",
       "et": "",
-      "at": "",
+      "at": "21/11/2019 22:18",
       "term": "A",
       "sector": "AP",
       "chkFrom": "054",
@@ -3646,7 +3627,7 @@
       "puerta": "07",
       "ruta": "IAH",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3665,7 +3646,7 @@
       "puerta": "08",
       "ruta": "LAX",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3684,7 +3665,7 @@
       "puerta": "02",
       "ruta": "MAD",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3741,7 +3722,7 @@
       "puerta": "18",
       "ruta": "MIA",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
