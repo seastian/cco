@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/11/2019 08:48",
+  "lastUpdate": "22/11/2019 08:53",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -46,7 +46,7 @@
       "st": "22/11/2019 09:15",
       "matricula": "CCAZK",
       "posicion": "02",
-      "et": "22/11/2019 09:15",
+      "et": "22/11/2019 09:10",
       "at": "",
       "term": "A",
       "sector": "",
@@ -1406,25 +1406,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "148"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7684",
-      "st": "21/11/2019 21:15",
-      "matricula": "PRGTA",
-      "posicion": "05",
-      "et": "21/11/2019 20:55",
-      "at": "21/11/2019 20:52",
-      "term": "A",
-      "sector": "",
-      "cinta": "3",
-      "lF": "005",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "163"
     },
     {
       "tipo": "arribo",
@@ -3657,7 +3638,7 @@
       "matricula": "LVFNI",
       "posicion": "15",
       "et": "",
-      "at": "",
+      "at": "22/11/2019 08:50",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "209",
@@ -3665,7 +3646,7 @@
       "puerta": "20",
       "ruta": "MIA",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3741,7 +3722,7 @@
       "puerta": "07",
       "ruta": "LIM",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
