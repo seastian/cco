@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/11/2019 06:28",
+  "lastUpdate": "22/11/2019 06:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -222,7 +222,7 @@
       "term": "A",
       "sector": "",
       "cinta": "1",
-      "lF": "",
+      "lF": "004",
       "ruta": "LGW",
       "via": "",
       "remark": "EST",
@@ -241,7 +241,7 @@
       "term": "A",
       "sector": "",
       "cinta": "4",
-      "lF": "",
+      "lF": "002",
       "ruta": "MAD",
       "via": "",
       "remark": "EST",
@@ -3494,7 +3494,7 @@
       "puerta": "23",
       "ruta": "GRU",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3532,7 +3532,7 @@
       "puerta": "03",
       "ruta": "SCL",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3608,7 +3608,7 @@
       "puerta": "27",
       "ruta": "ROS",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
