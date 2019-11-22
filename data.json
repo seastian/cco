@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/11/2019 13:38",
+  "lastUpdate": "22/11/2019 13:44",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2498,35 +2498,16 @@
       "matricula": "PRGUP",
       "posicion": "06",
       "et": "22/11/2019 13:30",
-      "at": "",
+      "at": "22/11/2019 13:42",
       "term": "A",
       "sector": "",
       "cinta": "4",
       "lF": "006",
       "ruta": "BSB",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AMS",
-      "vuelo": "7119",
-      "st": "22/11/2019 01:50",
-      "matricula": "CXMAS",
-      "posicion": "60",
-      "et": "",
-      "at": "22/11/2019 01:41",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
@@ -3722,7 +3703,7 @@
       "puerta": "18",
       "ruta": "LHR",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3779,7 +3760,7 @@
       "puerta": "10",
       "ruta": "MAD",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
