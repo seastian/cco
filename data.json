@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/11/2019 13:51",
+  "lastUpdate": "22/11/2019 13:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -145,8 +145,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "4",
+      "lF": "006",
       "ruta": "SCL",
       "via": "",
       "remark": "EST",
@@ -164,8 +164,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "9",
+      "lF": "007",
       "ruta": "YYZ",
       "via": "SCL",
       "remark": "DEM",
