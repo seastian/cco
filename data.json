@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/11/2019 15:44",
+  "lastUpdate": "22/11/2019 15:49",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3714,7 +3714,7 @@
       "matricula": "LVFUA",
       "posicion": "25B",
       "et": "",
-      "at": "",
+      "at": "22/11/2019 15:50",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3722,7 +3722,7 @@
       "puerta": "17",
       "ruta": "GIG",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3912,7 +3912,7 @@
       "puerta": "10",
       "ruta": "YYZ",
       "via": "SCL",
-      "remark": "EST",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
