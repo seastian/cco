@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/11/2019 01:45",
+  "lastUpdate": "22/11/2019 01:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1105,22 +1105,22 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8003",
-      "st": "21/11/2019 14:00",
-      "matricula": "PRMBY",
-      "posicion": "06",
-      "et": "21/11/2019 13:50",
-      "at": "21/11/2019 13:52",
+      "aerolinea": "OB",
+      "vuelo": "708",
+      "st": "21/11/2019 13:40",
+      "matricula": "CP3086",
+      "posicion": "04",
+      "et": "21/11/2019 14:00",
+      "at": "21/11/2019 13:59",
       "term": "A",
       "sector": "",
-      "cinta": "3",
-      "lF": "003",
-      "ruta": "GRU",
+      "cinta": "9",
+      "lF": "009",
+      "ruta": "VVI",
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": "148"
+      "pax": "198"
     },
     {
       "tipo": "arribo",
@@ -1140,25 +1140,6 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "OB",
-      "vuelo": "708",
-      "st": "21/11/2019 13:40",
-      "matricula": "CP3086",
-      "posicion": "04",
-      "et": "21/11/2019 14:00",
-      "at": "21/11/2019 13:59",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "VVI",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "198"
     },
     {
       "tipo": "arribo",
@@ -1694,25 +1675,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AU",
-      "vuelo": "2463",
-      "st": "21/11/2019 20:45",
-      "matricula": "LVGBK",
-      "posicion": "25B",
-      "et": "21/11/2019 20:30",
-      "at": "21/11/2019 20:31",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "12",
-      "lF": "018",
-      "ruta": "MDZ",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "87"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AOG",
       "vuelo": "501",
       "st": "21/11/2019 20:30",
@@ -1729,6 +1691,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AU",
+      "vuelo": "2463",
+      "st": "21/11/2019 20:45",
+      "matricula": "LVGBK",
+      "posicion": "25B",
+      "et": "21/11/2019 20:30",
+      "at": "21/11/2019 20:31",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "12",
+      "lF": "018",
+      "ruta": "MDZ",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "87"
     },
     {
       "tipo": "arribo",
@@ -3570,7 +3551,7 @@
       "puerta": "05",
       "ruta": "GIG",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
