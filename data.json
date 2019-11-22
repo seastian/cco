@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/11/2019 11:37",
+  "lastUpdate": "22/11/2019 11:42",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3505,7 +3505,7 @@
       "matricula": "LVFQB",
       "posicion": "18A",
       "et": "",
-      "at": "",
+      "at": "22/11/2019 11:38",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3513,7 +3513,7 @@
       "puerta": "17",
       "ruta": "SCL",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3665,7 +3665,7 @@
       "puerta": "26",
       "ruta": "FTE",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3703,7 +3703,7 @@
       "puerta": "27",
       "ruta": "BRC",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
