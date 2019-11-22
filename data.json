@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/11/2019 15:39",
+  "lastUpdate": "22/11/2019 15:44",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -13,7 +13,7 @@
       "term": "A",
       "sector": "",
       "cinta": "6",
-      "lF": "",
+      "lF": "009",
       "ruta": "MVD",
       "via": "",
       "remark": "EST",
@@ -70,7 +70,7 @@
       "term": "A",
       "sector": "",
       "cinta": "8",
-      "lF": "007",
+      "lF": "010",
       "ruta": "AKL",
       "via": "",
       "remark": "EST",
@@ -140,7 +140,7 @@
       "vuelo": "7690",
       "st": "22/11/2019 16:35",
       "matricula": "PRVBU",
-      "posicion": "",
+      "posicion": "08",
       "et": "22/11/2019 16:40",
       "at": "",
       "term": "A",
@@ -159,7 +159,7 @@
       "vuelo": "445",
       "st": "22/11/2019 17:00",
       "matricula": "CCBBI",
-      "posicion": "",
+      "posicion": "11",
       "et": "22/11/2019 16:48",
       "at": "",
       "term": "A",
@@ -3752,7 +3752,7 @@
       "matricula": "CCAZK",
       "posicion": "08",
       "et": "",
-      "at": "",
+      "at": "22/11/2019 15:45",
       "term": "A",
       "sector": "AP",
       "chkFrom": "001",
@@ -3760,7 +3760,7 @@
       "puerta": "07",
       "ruta": "SCL",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3874,7 +3874,7 @@
       "puerta": "06",
       "ruta": "GRU",
       "via": "",
-      "remark": "HOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
