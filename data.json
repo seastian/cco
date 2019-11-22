@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/11/2019 14:41",
+  "lastUpdate": "22/11/2019 14:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -46,7 +46,7 @@
       "st": "22/11/2019 15:25",
       "matricula": "LVCBF",
       "posicion": "",
-      "et": "",
+      "et": "22/11/2019 15:17",
       "at": "",
       "term": "C",
       "sector": "CAC",
@@ -54,9 +54,9 @@
       "lF": "",
       "ruta": "COR",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "119"
     },
     {
       "tipo": "arribo",
@@ -122,7 +122,7 @@
       "st": "22/11/2019 16:15",
       "matricula": "LVGVC",
       "posicion": "",
-      "et": "",
+      "et": "22/11/2019 16:11",
       "at": "",
       "term": "C",
       "sector": "CAC",
@@ -130,9 +130,9 @@
       "lF": "",
       "ruta": "BRC",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "150"
     },
     {
       "tipo": "arribo",
@@ -1238,25 +1238,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8010",
-      "st": "22/11/2019 00:00",
-      "matricula": "PRMAK",
-      "posicion": "03",
-      "et": "22/11/2019 02:45",
-      "at": "22/11/2019 02:46",
-      "term": "A",
-      "sector": "",
-      "cinta": "2",
-      "lF": "002",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AD",
       "vuelo": "8770",
       "st": "22/11/2019 02:50",
@@ -1789,25 +1770,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "BA",
-      "vuelo": "245",
-      "st": "22/11/2019 09:10",
-      "matricula": "GYMMT",
-      "posicion": "14",
-      "et": "22/11/2019 08:55",
-      "at": "22/11/2019 09:00",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "007",
-      "ruta": "LHR",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "271"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "JJ",
       "vuelo": "8012",
       "st": "22/11/2019 09:15",
@@ -1824,6 +1786,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "115"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "BA",
+      "vuelo": "245",
+      "st": "22/11/2019 09:10",
+      "matricula": "GYMMT",
+      "posicion": "14",
+      "et": "22/11/2019 08:55",
+      "at": "22/11/2019 09:00",
+      "term": "A",
+      "sector": "",
+      "cinta": "7",
+      "lF": "007",
+      "ruta": "LHR",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "271"
     },
     {
       "tipo": "arribo",
@@ -2479,14 +2460,14 @@
       "matricula": "LVGUC",
       "posicion": "16B",
       "et": "22/11/2019 14:37",
-      "at": "",
+      "at": "22/11/2019 14:43",
       "term": "A",
       "sector": "",
       "cinta": "5",
       "lF": "006",
       "ruta": "SSA",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "145"
     },
@@ -3855,7 +3836,7 @@
       "puerta": "04",
       "ruta": "VVI",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
