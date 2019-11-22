@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/11/2019 11:04",
+  "lastUpdate": "22/11/2019 11:11",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1314,6 +1314,44 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "JJ",
+      "vuelo": "8014",
+      "st": "22/11/2019 23:05",
+      "matricula": "PRMBS",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1325",
+      "st": "22/11/2019 23:05",
+      "matricula": "LVGKU",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "PUJ",
+      "via": "SLA",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1291",
       "st": "21/11/2019 23:25",
@@ -2436,25 +2474,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1302",
-      "st": "21/11/2019 23:00",
-      "matricula": "LVFNL",
-      "posicion": "14",
-      "et": "",
-      "at": "21/11/2019 23:11",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "211",
-      "chkTo": "240",
-      "puerta": "18",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "1370",
       "st": "21/11/2019 23:05",
       "matricula": "LVGKO",
@@ -3532,7 +3551,7 @@
       "puerta": "17",
       "ruta": "SCL",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3570,7 +3589,7 @@
       "puerta": "04",
       "ruta": "LGW",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3608,7 +3627,7 @@
       "puerta": "19",
       "ruta": "GRU",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3646,7 +3665,7 @@
       "puerta": "26",
       "ruta": "FTE",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3901,7 +3920,7 @@
       "aerolinea": "G3",
       "vuelo": "7453",
       "st": "22/11/2019 14:10",
-      "matricula": "",
+      "matricula": "PRGUP",
       "posicion": "",
       "et": "",
       "at": "",
