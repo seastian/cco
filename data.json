@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/11/2019 05:04",
+  "lastUpdate": "22/11/2019 05:09",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1127,9 +1127,9 @@
       "aerolinea": "NZ",
       "vuelo": "30",
       "st": "22/11/2019 16:00",
-      "matricula": "",
+      "matricula": "ZKOKF",
       "posicion": "",
-      "et": "",
+      "et": "22/11/2019 16:01",
       "at": "",
       "term": "A",
       "sector": "",
@@ -1137,9 +1137,9 @@
       "lF": "",
       "ruta": "AKL",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "271"
     },
     {
       "tipo": "arribo",
