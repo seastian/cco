@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/11/2019 07:30",
+  "lastUpdate": "22/11/2019 07:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2093,20 +2093,20 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "102",
+      "aerolinea": "QT",
+      "vuelo": "4092",
       "st": "22/11/2019 04:30",
-      "matricula": "CXCAR",
-      "posicion": "54A",
+      "matricula": "N331QT",
+      "posicion": "55",
       "et": "",
-      "at": "22/11/2019 04:41",
+      "at": "",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
-      "ruta": "ASU",
+      "ruta": "BOG",
       "via": "",
-      "remark": "ATE",
+      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
@@ -2128,6 +2128,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "264"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AOG",
+      "vuelo": "102",
+      "st": "22/11/2019 04:30",
+      "matricula": "CXCAR",
+      "posicion": "54A",
+      "et": "",
+      "at": "22/11/2019 04:41",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -2236,7 +2255,7 @@
       "term": "A",
       "sector": "",
       "cinta": "1",
-      "lF": "006",
+      "lF": "005",
       "ruta": "MIA",
       "via": "",
       "remark": "ATE",
@@ -2375,25 +2394,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "264"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "QT",
-      "vuelo": "4092",
-      "st": "22/11/2019 04:30",
-      "matricula": "N331QT",
-      "posicion": "55",
-      "et": "22/11/2019 07:20",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "partida",
@@ -3486,7 +3486,7 @@
       "matricula": "LVCIE",
       "posicion": "24B",
       "et": "",
-      "at": "",
+      "at": "22/11/2019 07:21",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3494,7 +3494,7 @@
       "puerta": "26",
       "ruta": "MDZ",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3608,7 +3608,7 @@
       "puerta": "05",
       "ruta": "LIM",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3627,7 +3627,7 @@
       "puerta": "24",
       "ruta": "IGR",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3646,7 +3646,7 @@
       "puerta": "12",
       "ruta": "ASU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3684,7 +3684,7 @@
       "puerta": "26",
       "ruta": "TUC",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -4716,25 +4716,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1268",
-      "st": "22/11/2019 18:15",
-      "matricula": "LVFQB",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "CWB",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "1290",
       "st": "22/11/2019 18:15",
       "matricula": "LVGOO",
@@ -4747,6 +4728,25 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "SCL",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1268",
+      "st": "22/11/2019 18:15",
+      "matricula": "LVFQB",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "CWB",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -4842,6 +4842,25 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "GIG",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LP",
+      "vuelo": "2489",
+      "st": "22/11/2019 19:35",
+      "matricula": "CCCXH",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "LIM",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
