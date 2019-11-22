@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/11/2019 12:26",
+  "lastUpdate": "22/11/2019 12:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3600,7 +3600,7 @@
       "matricula": "PTMXJ",
       "posicion": "06",
       "et": "",
-      "at": "",
+      "at": "22/11/2019 12:29",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3608,7 +3608,7 @@
       "puerta": "05",
       "ruta": "GRU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3646,7 +3646,7 @@
       "puerta": "10",
       "ruta": "BCN",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3665,7 +3665,7 @@
       "puerta": "24",
       "ruta": "USH",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3731,14 +3731,14 @@
       "vuelo": "681",
       "st": "22/11/2019 14:05",
       "matricula": "EIISE",
-      "posicion": "23",
+      "posicion": "09",
       "et": "",
       "at": "",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "201",
       "chkTo": "210",
-      "puerta": "09",
+      "puerta": "08",
       "ruta": "FCO",
       "via": "",
       "remark": "HOR",
