@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/11/2019 12:47",
+  "lastUpdate": "22/11/2019 12:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1409,25 +1409,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7648",
-      "st": "22/11/2019 01:05",
-      "matricula": "PRGTH",
-      "posicion": "06",
-      "et": "22/11/2019 01:05",
-      "at": "22/11/2019 00:48",
-      "term": "A",
-      "sector": "",
-      "cinta": "2",
-      "lF": "001",
-      "ruta": "GIG",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "148"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "CM",
       "vuelo": "363",
       "st": "22/11/2019 01:33",
@@ -1998,25 +1979,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8012",
-      "st": "22/11/2019 09:15",
-      "matricula": "PRMBO",
-      "posicion": "08",
-      "et": "22/11/2019 08:55",
-      "at": "22/11/2019 09:05",
-      "term": "A",
-      "sector": "",
-      "cinta": "3",
-      "lF": "001",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "115"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "BA",
       "vuelo": "245",
       "st": "22/11/2019 09:10",
@@ -2033,6 +1995,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "271"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "JJ",
+      "vuelo": "8012",
+      "st": "22/11/2019 09:15",
+      "matricula": "PRMBO",
+      "posicion": "08",
+      "et": "22/11/2019 08:55",
+      "at": "22/11/2019 09:05",
+      "term": "A",
+      "sector": "",
+      "cinta": "3",
+      "lF": "001",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "115"
     },
     {
       "tipo": "arribo",
@@ -2166,6 +2147,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "124"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "JJ",
+      "vuelo": "8008",
+      "st": "22/11/2019 10:15",
+      "matricula": "PTMXJ",
+      "posicion": "06",
+      "et": "22/11/2019 09:55",
+      "at": "22/11/2019 09:52",
+      "term": "A",
+      "sector": "",
+      "cinta": "3",
+      "lF": "002",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -3627,7 +3627,7 @@
       "puerta": "24",
       "ruta": "USH",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
