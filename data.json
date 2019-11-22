@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/11/2019 12:52",
+  "lastUpdate": "22/11/2019 12:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3788,7 +3788,7 @@
       "vuelo": "6856",
       "st": "22/11/2019 14:35",
       "matricula": "ECMXV",
-      "posicion": "24",
+      "posicion": "10",
       "et": "",
       "at": "",
       "term": "A",
