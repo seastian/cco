@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/11/2019 03:29",
+  "lastUpdate": "22/11/2019 03:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2327,14 +2327,14 @@
       "matricula": "LVFPU",
       "posicion": "13",
       "et": "22/11/2019 03:21",
-      "at": "",
+      "at": "22/11/2019 03:35",
       "term": "A",
       "sector": "",
       "cinta": "8",
       "lF": "010",
       "ruta": "MAD",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "281"
     },
@@ -3456,7 +3456,7 @@
       "puerta": "02",
       "ruta": "LIM",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
