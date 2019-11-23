@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/11/2019 22:48",
+  "lastUpdate": "22/11/2019 22:53",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1140,25 +1140,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "266"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7650",
-      "st": "22/11/2019 11:10",
-      "matricula": "PRVBU",
-      "posicion": "54A",
-      "et": "22/11/2019 11:09",
-      "at": "22/11/2019 10:53",
-      "term": "A",
-      "sector": "",
-      "cinta": "2",
-      "lF": "003",
-      "ruta": "GIG",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "101"
     },
     {
       "tipo": "arribo",
@@ -2555,14 +2536,14 @@
       "matricula": "N762AV",
       "posicion": "04",
       "et": "22/11/2019 22:40",
-      "at": "",
+      "at": "22/11/2019 22:51",
       "term": "A",
       "sector": "",
       "cinta": "5",
       "lF": "005",
       "ruta": "BOG",
       "via": "",
-      "remark": "DEM",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "141"
     },
@@ -3931,7 +3912,7 @@
       "puerta": "22",
       "ruta": "MIA",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3950,7 +3931,7 @@
       "puerta": "16",
       "ruta": "CUN",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4007,7 +3988,7 @@
       "puerta": "18",
       "ruta": "JFK",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -4045,7 +4026,7 @@
       "puerta": "07",
       "ruta": "DOH",
       "via": "GRU",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
