@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/11/2019 13:51",
+  "lastUpdate": "23/11/2019 13:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2340,25 +2340,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AMS",
-      "vuelo": "7919",
-      "st": "23/11/2019 02:30",
-      "matricula": "LVBGH",
-      "posicion": "59",
-      "et": "",
-      "at": "23/11/2019 01:53",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AOG",
       "vuelo": "424",
       "st": "23/11/2019 03:00",
@@ -2454,25 +2435,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AD",
-      "vuelo": "8771",
-      "st": "23/11/2019 04:30",
-      "matricula": "PRYRV",
-      "posicion": "04",
-      "et": "",
-      "at": "23/11/2019 04:46",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "076",
-      "chkTo": "081",
-      "puerta": "03",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AJ",
       "vuelo": "523",
       "st": "23/11/2019 04:30",
@@ -2488,6 +2450,25 @@
       "ruta": "LIM",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AD",
+      "vuelo": "8771",
+      "st": "23/11/2019 04:30",
+      "matricula": "PRYRV",
+      "posicion": "04",
+      "et": "",
+      "at": "23/11/2019 04:46",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "076",
+      "chkTo": "081",
+      "puerta": "03",
+      "ruta": "VCP",
+      "via": "",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3608,7 +3589,7 @@
       "puerta": "14",
       "ruta": "LHR",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3627,7 +3608,7 @@
       "puerta": "08",
       "ruta": "CDG",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3665,7 +3646,7 @@
       "puerta": "10",
       "ruta": "MAD",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3812,7 +3793,7 @@
       "at": "",
       "term": "A",
       "sector": "AP",
-      "chkFrom": "061",
+      "chkFrom": "060",
       "chkTo": "067",
       "puerta": "10",
       "ruta": "YYZ",
