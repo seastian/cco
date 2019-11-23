@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/11/2019 17:43",
+  "lastUpdate": "23/11/2019 17:49",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3703,7 +3703,7 @@
       "puerta": "02",
       "ruta": "BCN",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
