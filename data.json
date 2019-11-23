@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/11/2019 12:34",
+  "lastUpdate": "23/11/2019 12:39",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1238,25 +1238,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1965",
-      "st": "23/11/2019 01:00",
-      "matricula": "LVGVA",
-      "posicion": "17B",
-      "et": "23/11/2019 00:41",
-      "at": "23/11/2019 00:39",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "CM",
       "vuelo": "363",
       "st": "23/11/2019 01:33",
@@ -1637,25 +1618,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "QR",
-      "vuelo": "8193",
-      "st": "23/11/2019 04:40",
-      "matricula": "A7BFC",
-      "posicion": "55",
-      "et": "23/11/2019 07:40",
-      "at": "23/11/2019 07:26",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "DOH",
-      "via": "GRU",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "LH",
       "vuelo": "510",
       "st": "23/11/2019 08:00",
@@ -1669,6 +1631,25 @@
       "lF": "007",
       "ruta": "FRA",
       "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "QR",
+      "vuelo": "8193",
+      "st": "23/11/2019 04:40",
+      "matricula": "A7BFC",
+      "posicion": "55",
+      "et": "23/11/2019 07:40",
+      "at": "23/11/2019 07:26",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "DOH",
+      "via": "GRU",
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
@@ -2207,25 +2188,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7650",
-      "st": "23/11/2019 11:10",
-      "matricula": "PRGZI",
-      "posicion": "50B",
-      "et": "",
-      "at": "23/11/2019 11:09",
-      "term": "A",
-      "sector": "",
-      "cinta": "3",
-      "lF": "002",
-      "ruta": "GIG",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "144"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "UA",
       "vuelo": "819",
       "st": "23/11/2019 11:20",
@@ -2242,6 +2204,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "266"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "G3",
+      "vuelo": "7650",
+      "st": "23/11/2019 11:10",
+      "matricula": "PRGZI",
+      "posicion": "50B",
+      "et": "",
+      "at": "23/11/2019 11:09",
+      "term": "A",
+      "sector": "",
+      "cinta": "3",
+      "lF": "002",
+      "ruta": "GIG",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "144"
     },
     {
       "tipo": "arribo",
@@ -3391,7 +3372,7 @@
       "matricula": "CCBBF",
       "posicion": "11",
       "et": "",
-      "at": "",
+      "at": "23/11/2019 12:40",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3399,7 +3380,7 @@
       "puerta": "14",
       "ruta": "SCL",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3570,7 +3551,7 @@
       "puerta": "24",
       "ruta": "USH",
       "via": "",
-      "remark": "PRE",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3589,7 +3570,7 @@
       "puerta": "20",
       "ruta": "MAD",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3757,7 +3738,7 @@
       "sector": "CPI",
       "chkFrom": "210",
       "chkTo": "220",
-      "puerta": "09",
+      "puerta": "08",
       "ruta": "CDG",
       "via": "",
       "remark": "HOR",
