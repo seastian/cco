@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/11/2019 17:33",
+  "lastUpdate": "23/11/2019 17:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3638,7 +3638,7 @@
       "matricula": "LVGFQ",
       "posicion": "14A",
       "et": "",
-      "at": "",
+      "at": "23/11/2019 17:35",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3646,7 +3646,7 @@
       "puerta": "18",
       "ruta": "ASU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
