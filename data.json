@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/11/2019 00:45",
+  "lastUpdate": "23/11/2019 00:50",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2574,14 +2574,14 @@
       "matricula": "PRMAK",
       "posicion": "07",
       "et": "23/11/2019 00:41",
-      "at": "",
+      "at": "23/11/2019 00:46",
       "term": "A",
       "sector": "",
       "cinta": "2",
       "lF": "002",
       "ruta": "GRU",
       "via": "",
-      "remark": "DEM",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -4121,7 +4121,7 @@
       "puerta": "10",
       "ruta": "REC",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4159,7 +4159,7 @@
       "puerta": "07",
       "ruta": "PTY",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
