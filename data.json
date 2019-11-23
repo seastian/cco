@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/11/2019 04:50",
+  "lastUpdate": "23/11/2019 04:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3798,7 +3798,7 @@
       "puerta": "",
       "ruta": "AEP",
       "via": "",
-      "remark": "DEM",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3836,7 +3836,7 @@
       "puerta": "07",
       "ruta": "PTY",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3846,7 +3846,7 @@
       "st": "22/11/2019 23:55",
       "matricula": "N438AM",
       "posicion": "03",
-      "et": "23/11/2019 04:50",
+      "et": "23/11/2019 05:10",
       "at": "",
       "term": "A",
       "sector": "AP",
