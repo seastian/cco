@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/11/2019 13:36",
+  "lastUpdate": "23/11/2019 13:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2302,25 +2302,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "CM",
-      "vuelo": "453",
-      "st": "23/11/2019 01:22",
-      "matricula": "HP1840",
-      "posicion": "08",
-      "et": "",
-      "at": "23/11/2019 01:38",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "016",
-      "chkTo": "021",
-      "puerta": "07",
-      "ruta": "PTY",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AMS",
       "vuelo": "7119",
       "st": "23/11/2019 01:50",
@@ -2606,25 +2587,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1230",
-      "st": "23/11/2019 06:00",
-      "matricula": "LVGKU",
-      "posicion": "54A",
-      "et": "",
-      "at": "23/11/2019 06:06",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "17",
-      "ruta": "POA",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AV",
       "vuelo": "964",
       "st": "23/11/2019 06:00",
@@ -2657,6 +2619,25 @@
       "chkTo": "240",
       "puerta": "19",
       "ruta": "ASU",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1230",
+      "st": "23/11/2019 06:00",
+      "matricula": "LVGKU",
+      "posicion": "54A",
+      "et": "",
+      "at": "23/11/2019 06:06",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "17",
+      "ruta": "POA",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -3524,7 +3505,7 @@
       "matricula": "LVHQI",
       "posicion": "02",
       "et": "",
-      "at": "",
+      "at": "23/11/2019 13:42",
       "term": "C",
       "sector": "",
       "chkFrom": "041",
@@ -3532,7 +3513,7 @@
       "puerta": "27",
       "ruta": "BRC",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3551,7 +3532,7 @@
       "puerta": "22",
       "ruta": "MAD",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3665,7 +3646,7 @@
       "puerta": "08",
       "ruta": "CDG",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
