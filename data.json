@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/11/2019 10:47",
+  "lastUpdate": "24/11/2019 10:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1391,25 +1391,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "JJ",
-      "vuelo": "8014",
-      "st": "23/11/2019 23:05",
-      "matricula": "PRMBQ",
-      "posicion": "54B",
-      "et": "23/11/2019 22:40",
-      "at": "23/11/2019 22:51",
-      "term": "A",
-      "sector": "",
-      "cinta": "3",
-      "lF": "003",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "144"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "JJ",
       "vuelo": "8096",
       "st": "23/11/2019 22:50",
       "matricula": "PRMBG",
@@ -1770,25 +1751,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1024",
-      "st": "24/11/2019 07:05",
-      "matricula": "LVFQC",
-      "posicion": "52B",
-      "et": "24/11/2019 06:50",
-      "at": "24/11/2019 06:46",
-      "term": "C",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "AEP",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "4M",
       "vuelo": "7821",
       "st": "24/11/2019 07:25",
@@ -1805,6 +1767,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "215"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1024",
+      "st": "24/11/2019 07:05",
+      "matricula": "LVFQC",
+      "posicion": "52B",
+      "et": "24/11/2019 06:50",
+      "at": "24/11/2019 06:46",
+      "term": "C",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "AEP",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -1941,25 +1922,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "IB",
-      "vuelo": "6841",
-      "st": "24/11/2019 08:25",
-      "matricula": "ECMYX",
-      "posicion": "10",
-      "et": "24/11/2019 08:15",
-      "at": "24/11/2019 08:16",
-      "term": "A",
-      "sector": "",
-      "cinta": "5",
-      "lF": "003",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "348"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "DI",
       "vuelo": "7505",
       "st": "24/11/2019 08:15",
@@ -1976,6 +1938,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "IB",
+      "vuelo": "6841",
+      "st": "24/11/2019 08:25",
+      "matricula": "ECMYX",
+      "posicion": "10",
+      "et": "24/11/2019 08:15",
+      "at": "24/11/2019 08:16",
+      "term": "A",
+      "sector": "",
+      "cinta": "5",
+      "lF": "003",
+      "ruta": "MAD",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "348"
     },
     {
       "tipo": "arribo",
@@ -2112,25 +2093,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7680",
-      "st": "24/11/2019 09:15",
-      "matricula": "PRGGP",
-      "posicion": "50A",
-      "et": "24/11/2019 09:00",
-      "at": "24/11/2019 08:56",
-      "term": "A",
-      "sector": "",
-      "cinta": "3",
-      "lF": "005",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "76"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "JJ",
       "vuelo": "8012",
       "st": "24/11/2019 09:15",
@@ -2147,6 +2109,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "G3",
+      "vuelo": "7680",
+      "st": "24/11/2019 09:15",
+      "matricula": "PRGGP",
+      "posicion": "50A",
+      "et": "24/11/2019 09:00",
+      "at": "24/11/2019 08:56",
+      "term": "A",
+      "sector": "",
+      "cinta": "3",
+      "lF": "005",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "76"
     },
     {
       "tipo": "arribo",
@@ -3608,7 +3589,7 @@
       "puerta": "17",
       "ruta": "SCL",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3627,7 +3608,7 @@
       "puerta": "07",
       "ruta": "PTY",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
