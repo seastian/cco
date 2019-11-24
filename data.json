@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/11/2019 15:04",
+  "lastUpdate": "24/11/2019 15:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -27,7 +27,7 @@
       "st": "24/11/2019 15:45",
       "matricula": "LVGVC",
       "posicion": "",
-      "et": "",
+      "et": "24/11/2019 15:46",
       "at": "",
       "term": "C",
       "sector": "CAC",
@@ -35,9 +35,9 @@
       "lF": "017",
       "ruta": "BRC",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "160"
     },
     {
       "tipo": "arribo",
@@ -3893,7 +3893,7 @@
       "puerta": "06",
       "ruta": "SCL",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
