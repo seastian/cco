@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/11/2019 02:57",
+  "lastUpdate": "24/11/2019 03:02",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -45,7 +45,7 @@
       "vuelo": "1141",
       "st": "24/11/2019 04:40",
       "matricula": "LVGIF",
-      "posicion": "",
+      "posicion": "12",
       "et": "24/11/2019 03:59",
       "at": "",
       "term": "A",
@@ -69,8 +69,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "5",
+      "lF": "003",
       "ruta": "LIM",
       "via": "",
       "remark": "EST",
@@ -3513,7 +3513,7 @@
       "puerta": "15",
       "ruta": "REC",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
