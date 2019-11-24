@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/11/2019 05:37",
+  "lastUpdate": "24/11/2019 05:42",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -4070,9 +4070,9 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1524",
+      "vuelo": "1820",
       "st": "24/11/2019 12:00",
-      "matricula": "LVCBT",
+      "matricula": "LVFVO",
       "posicion": "",
       "et": "",
       "at": "",
@@ -4081,7 +4081,7 @@
       "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
-      "ruta": "COR",
+      "ruta": "FTE",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -4108,9 +4108,9 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1820",
+      "vuelo": "1524",
       "st": "24/11/2019 12:00",
-      "matricula": "LVFVO",
+      "matricula": "LVCBT",
       "posicion": "",
       "et": "",
       "at": "",
@@ -4119,7 +4119,7 @@
       "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
-      "ruta": "FTE",
+      "ruta": "COR",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -4392,25 +4392,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1022",
-      "st": "24/11/2019 14:55",
-      "matricula": "LVFQY",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "AEP",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "4M",
       "vuelo": "7910",
       "st": "24/11/2019 14:55",
@@ -4426,6 +4407,25 @@
       "ruta": "SCL",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1022",
+      "st": "24/11/2019 14:55",
+      "matricula": "LVFQY",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "AEP",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     },
     {
@@ -4671,6 +4671,25 @@
       "chkTo": "053",
       "puerta": "",
       "ruta": "IGR",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AU",
+      "vuelo": "2232",
+      "st": "24/11/2019 17:40",
+      "matricula": "LVCHQ",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "POA",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
