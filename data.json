@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/11/2019 00:00",
+  "lastUpdate": "24/11/2019 00:05",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -326,6 +326,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "4M",
+      "vuelo": "7821",
+      "st": "24/11/2019 07:25",
+      "matricula": "",
+      "posicion": "",
+      "et": "24/11/2019 06:50",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "215"
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "AA",
       "vuelo": "907",
       "st": "24/11/2019 06:56",
@@ -454,25 +473,6 @@
       "ruta": "LGW",
       "via": "",
       "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "4M",
-      "vuelo": "7821",
-      "st": "24/11/2019 07:25",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
