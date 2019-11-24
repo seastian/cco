@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/11/2019 05:31",
+  "lastUpdate": "24/11/2019 05:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -120,9 +120,9 @@
       "aerolinea": "ZP",
       "vuelo": "820",
       "st": "24/11/2019 07:00",
-      "matricula": "",
+      "matricula": "ZPCRR",
       "posicion": "",
-      "et": "",
+      "et": "24/11/2019 06:54",
       "at": "",
       "term": "A",
       "sector": "",
@@ -130,9 +130,9 @@
       "lF": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "11"
     },
     {
       "tipo": "arribo",
@@ -1253,7 +1253,7 @@
       "via": "",
       "remark": "DEM",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "260"
     },
     {
       "tipo": "arribo",
@@ -2302,25 +2302,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1262",
-      "st": "23/11/2019 17:05",
-      "matricula": "LVGFQ",
-      "posicion": "14A",
-      "et": "",
-      "at": "23/11/2019 17:35",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "18",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AU",
       "vuelo": "2232",
       "st": "23/11/2019 17:40",
@@ -2682,25 +2663,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "4M",
-      "vuelo": "7820",
-      "st": "23/11/2019 21:35",
-      "matricula": "LVIQW",
-      "posicion": "06",
-      "et": "",
-      "at": "23/11/2019 22:14",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "05",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AU",
       "vuelo": "2518",
       "st": "23/11/2019 21:35",
@@ -2714,6 +2676,25 @@
       "chkTo": "240",
       "puerta": "26",
       "ruta": "COR",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "4M",
+      "vuelo": "7820",
+      "st": "23/11/2019 21:35",
+      "matricula": "LVIQW",
+      "posicion": "06",
+      "et": "",
+      "at": "23/11/2019 22:14",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "05",
+      "ruta": "MIA",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -2967,25 +2948,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AM",
-      "vuelo": "029",
-      "st": "23/11/2019 23:55",
-      "matricula": "XAADH",
-      "posicion": "05",
-      "et": "",
-      "at": "24/11/2019 00:33",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "034",
-      "chkTo": "040",
-      "puerta": "04",
-      "ruta": "MEX",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "G3",
       "vuelo": "7671",
       "st": "23/11/2019 23:55",
@@ -2999,6 +2961,25 @@
       "chkTo": "074",
       "puerta": "07",
       "ruta": "FOR",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AM",
+      "vuelo": "029",
+      "st": "23/11/2019 23:55",
+      "matricula": "XAADH",
+      "posicion": "05",
+      "et": "",
+      "at": "24/11/2019 00:33",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "034",
+      "chkTo": "040",
+      "puerta": "04",
+      "ruta": "MEX",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -3380,7 +3361,7 @@
       "puerta": "17",
       "ruta": "POA",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3616,7 +3597,7 @@
       "aerolinea": "ZP",
       "vuelo": "821",
       "st": "24/11/2019 08:00",
-      "matricula": "",
+      "matricula": "ZPCRR",
       "posicion": "",
       "et": "",
       "at": "",
