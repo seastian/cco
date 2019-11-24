@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/11/2019 06:04",
+  "lastUpdate": "24/11/2019 06:09",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1330,25 +1330,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "146"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8092",
-      "st": "23/11/2019 18:25",
-      "matricula": "PRMHG",
-      "posicion": "08",
-      "et": "23/11/2019 18:10",
-      "at": "23/11/2019 18:10",
-      "term": "A",
-      "sector": "",
-      "cinta": "2",
-      "lF": "002",
-      "ruta": "GIG",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "164"
     },
     {
       "tipo": "arribo",
@@ -3418,7 +3399,7 @@
       "puerta": "19",
       "ruta": "GIG",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3456,7 +3437,7 @@
       "puerta": "21",
       "ruta": "GRU",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
