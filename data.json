@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/11/2019 01:39",
+  "lastUpdate": "24/11/2019 01:44",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2321,25 +2321,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "4M",
-      "vuelo": "7766",
-      "st": "23/11/2019 13:20",
-      "matricula": "LVHQI",
-      "posicion": "02",
-      "et": "",
-      "at": "23/11/2019 13:42",
-      "term": "C",
-      "sector": "",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "27",
-      "ruta": "BRC",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "UX",
       "vuelo": "042",
       "st": "23/11/2019 13:25",
@@ -3429,7 +3410,7 @@
       "matricula": "LVHFR",
       "posicion": "52B",
       "et": "",
-      "at": "",
+      "at": "24/11/2019 01:40",
       "term": "A",
       "sector": "AP",
       "chkFrom": "083",
@@ -3437,7 +3418,7 @@
       "puerta": "26",
       "ruta": "REL",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
