@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/11/2019 23:00",
+  "lastUpdate": "23/11/2019 23:05",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1105,25 +1105,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "UA",
-      "vuelo": "819",
-      "st": "23/11/2019 11:20",
-      "matricula": "N77006",
-      "posicion": "06",
-      "et": "23/11/2019 11:10",
-      "at": "23/11/2019 11:04",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "007",
-      "ruta": "IAH",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "266"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "UC",
       "vuelo": "1106",
       "st": "23/11/2019 12:00",
@@ -1162,25 +1143,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "4M",
-      "vuelo": "7911",
-      "st": "23/11/2019 12:21",
-      "matricula": "LVHQI",
-      "posicion": "02",
-      "et": "23/11/2019 12:30",
-      "at": "23/11/2019 12:25",
-      "term": "C",
-      "sector": "",
-      "cinta": "11",
-      "lF": "017",
-      "ruta": "SLA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "159"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "UC",
       "vuelo": "1751",
       "st": "23/11/2019 12:30",
@@ -1197,6 +1159,25 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "4M",
+      "vuelo": "7911",
+      "st": "23/11/2019 12:21",
+      "matricula": "LVHQI",
+      "posicion": "02",
+      "et": "23/11/2019 12:30",
+      "at": "23/11/2019 12:25",
+      "term": "C",
+      "sector": "",
+      "cinta": "11",
+      "lF": "017",
+      "ruta": "SLA",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "159"
     },
     {
       "tipo": "arribo",
@@ -1941,25 +1922,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1429",
-      "st": "23/11/2019 21:20",
-      "matricula": "LVGGK",
-      "posicion": "18A",
-      "et": "23/11/2019 21:04",
-      "at": "23/11/2019 21:07",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "11",
-      "lF": "017",
-      "ruta": "SLA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "158"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "4M",
       "vuelo": "7513",
       "st": "23/11/2019 21:27",
@@ -1976,6 +1938,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "113"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1429",
+      "st": "23/11/2019 21:20",
+      "matricula": "LVGGK",
+      "posicion": "18A",
+      "et": "23/11/2019 21:04",
+      "at": "23/11/2019 21:07",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "11",
+      "lF": "017",
+      "ruta": "SLA",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "158"
     },
     {
       "tipo": "arribo",
@@ -3532,7 +3513,7 @@
       "puerta": "",
       "ruta": "LIM",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
