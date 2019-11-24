@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/11/2019 04:49",
+  "lastUpdate": "24/11/2019 04:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1314,25 +1314,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "445",
-      "st": "23/11/2019 17:00",
-      "matricula": "CCBBH",
-      "posicion": "05",
-      "et": "23/11/2019 16:50",
-      "at": "23/11/2019 16:53",
-      "term": "A",
-      "sector": "",
-      "cinta": "1",
-      "lF": "001",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "4M",
       "vuelo": "7507",
       "st": "23/11/2019 17:52",
@@ -1884,25 +1865,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "FO",
-      "vuelo": "5271",
-      "st": "23/11/2019 21:50",
-      "matricula": "LVHQY",
-      "posicion": "54A",
-      "et": "23/11/2019 21:40",
-      "at": "23/11/2019 21:29",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "12",
-      "lF": "018",
-      "ruta": "BRC",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "147"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "QR",
       "vuelo": "773",
       "st": "23/11/2019 21:30",
@@ -1919,6 +1881,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "178"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "FO",
+      "vuelo": "5271",
+      "st": "23/11/2019 21:50",
+      "matricula": "LVHQY",
+      "posicion": "54A",
+      "et": "23/11/2019 21:40",
+      "at": "23/11/2019 21:29",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "12",
+      "lF": "018",
+      "ruta": "BRC",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "147"
     },
     {
       "tipo": "arribo",
@@ -2337,25 +2318,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "233"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "JJ",
-      "vuelo": "8011",
-      "st": "23/11/2019 16:15",
-      "matricula": "PRMAK",
-      "posicion": "04",
-      "et": "",
-      "at": "23/11/2019 16:53",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "03",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
@@ -3513,7 +3475,7 @@
       "puerta": "04",
       "ruta": "LIM",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
