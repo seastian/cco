@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/11/2019 03:47",
+  "lastUpdate": "24/11/2019 03:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -122,7 +122,7 @@
       "st": "24/11/2019 06:35",
       "matricula": "CCBDC",
       "posicion": "",
-      "et": "",
+      "et": "24/11/2019 06:30",
       "at": "",
       "term": "A",
       "sector": "",
@@ -130,7 +130,7 @@
       "lF": "",
       "ruta": "LIM",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -1254,25 +1254,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "284"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "4M",
-      "vuelo": "7901",
-      "st": "23/11/2019 15:47",
-      "matricula": "LVGLP",
-      "posicion": "07",
-      "et": "23/11/2019 15:50",
-      "at": "23/11/2019 15:52",
-      "term": "A",
-      "sector": "",
-      "cinta": "4",
-      "lF": "004",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "164"
     },
     {
       "tipo": "arribo",
