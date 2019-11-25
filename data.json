@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/11/2019 06:08",
+  "lastUpdate": "25/11/2019 06:13",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1368,25 +1368,6 @@
       "remark": "ALT",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "H2",
-      "vuelo": "505",
-      "st": "24/11/2019 18:40",
-      "matricula": "CCAZI",
-      "posicion": "08",
-      "et": "24/11/2019 18:17",
-      "at": "24/11/2019 18:12",
-      "term": "A",
-      "sector": "",
-      "cinta": "6",
-      "lF": "007",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "75"
     },
     {
       "tipo": "arribo",
@@ -3866,7 +3847,7 @@
       "matricula": "LVCAD",
       "posicion": "18A",
       "et": "",
-      "at": "",
+      "at": "25/11/2019 06:13",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3874,7 +3855,7 @@
       "puerta": "13",
       "ruta": "SCL",
       "via": "",
-      "remark": "ULT",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3918,25 +3899,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1240",
-      "st": "25/11/2019 06:40",
-      "matricula": "LVFVN",
-      "posicion": "18B",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "21",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "1428",
       "st": "25/11/2019 06:40",
       "matricula": "LVGKT",
@@ -3950,7 +3912,26 @@
       "puerta": "24",
       "ruta": "SLA",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1240",
+      "st": "25/11/2019 06:40",
+      "matricula": "LVFVN",
+      "posicion": "18B",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "21",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
