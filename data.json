@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/11/2019 22:36",
+  "lastUpdate": "24/11/2019 22:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3866,7 +3866,7 @@
       "matricula": "A6EWC",
       "posicion": "05",
       "et": "",
-      "at": "",
+      "at": "24/11/2019 22:38",
       "term": "A",
       "sector": "AP",
       "chkFrom": "027",
@@ -3874,7 +3874,7 @@
       "puerta": "04",
       "ruta": "DXB",
       "via": "GIG",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3885,7 +3885,7 @@
       "matricula": "ECNDR",
       "posicion": "03",
       "et": "",
-      "at": "",
+      "at": "24/11/2019 22:40",
       "term": "A",
       "sector": "AP",
       "chkFrom": "021",
@@ -3893,7 +3893,7 @@
       "puerta": "02",
       "ruta": "MAD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -4026,7 +4026,7 @@
       "puerta": "10",
       "ruta": "JFK",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4083,7 +4083,7 @@
       "puerta": "08",
       "ruta": "MIA",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
