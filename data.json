@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/11/2019 03:25",
+  "lastUpdate": "25/11/2019 03:30",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2606,25 +2606,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "H2",
-      "vuelo": "508",
-      "st": "24/11/2019 15:20",
-      "matricula": "CCAZK",
-      "posicion": "07",
-      "et": "",
-      "at": "24/11/2019 15:31",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "001",
-      "chkTo": "004",
-      "puerta": "06",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "OB",
       "vuelo": "709",
       "st": "24/11/2019 15:25",
@@ -5203,6 +5184,25 @@
       "chkTo": "018",
       "puerta": "",
       "ruta": "VVI",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1244",
+      "st": "25/11/2019 15:30",
+      "matricula": "LVGGK",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "GRU",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
