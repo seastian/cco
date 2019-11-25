@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/11/2019 01:05",
+  "lastUpdate": "25/11/2019 01:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1026,25 +1026,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1255",
-      "st": "24/11/2019 13:35",
-      "matricula": "LVFQY",
-      "posicion": "50B",
-      "et": "24/11/2019 13:11",
-      "at": "24/11/2019 13:08",
-      "term": "A",
-      "sector": "",
-      "cinta": "5",
-      "lF": "010",
-      "ruta": "GIG",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "141"
     },
     {
       "tipo": "arribo",
@@ -2097,13 +2078,13 @@
       "vuelo": "5601",
       "st": "24/11/2019 21:50",
       "matricula": "LVHKS",
-      "posicion": "",
+      "posicion": "52A",
       "et": "",
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "7",
+      "lF": "007",
       "ruta": "ASU",
       "via": "",
       "remark": "DEM",
@@ -3923,7 +3904,7 @@
       "matricula": "CUT1251",
       "posicion": "05",
       "et": "",
-      "at": "",
+      "at": "25/11/2019 01:09",
       "term": "A",
       "sector": "AP",
       "chkFrom": "083",
@@ -3931,7 +3912,7 @@
       "puerta": "04",
       "ruta": "HAV",
       "via": "CCC",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3969,7 +3950,7 @@
       "puerta": "05",
       "ruta": "PTY",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4073,14 +4054,14 @@
       "vuelo": "7900",
       "st": "25/11/2019 04:20",
       "matricula": "LVCQS",
-      "posicion": "51A",
+      "posicion": "09",
       "et": "",
       "at": "",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
       "chkTo": "053",
-      "puerta": "",
+      "puerta": "09",
       "ruta": "LIM",
       "via": "",
       "remark": "HOR",
