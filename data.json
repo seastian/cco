@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/11/2019 15:35",
+  "lastUpdate": "25/11/2019 15:40",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -126,13 +126,13 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "1",
+      "lF": "001",
       "ruta": "FLN",
       "via": "",
       "remark": "EST",
       "sanidad": "NO",
-      "pax": "151"
+      "pax": "160"
     },
     {
       "tipo": "arribo",
@@ -145,8 +145,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "4",
+      "lF": "003",
       "ruta": "SCL",
       "via": "",
       "remark": "EST",
@@ -3798,7 +3798,7 @@
       "puerta": "02",
       "ruta": "GRU",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3975,25 +3975,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1268",
-      "st": "25/11/2019 18:15",
-      "matricula": "LVFQB",
-      "posicion": "11B",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "15",
-      "ruta": "CWB",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "1290",
       "st": "25/11/2019 18:15",
       "matricula": "LVBZO",
@@ -4006,6 +3987,25 @@
       "chkTo": "240",
       "puerta": "21",
       "ruta": "SCL",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1268",
+      "st": "25/11/2019 18:15",
+      "matricula": "LVFQB",
+      "posicion": "11B",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "15",
+      "ruta": "CWB",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -4240,25 +4240,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AU",
-      "vuelo": "2762",
-      "st": "25/11/2019 21:30",
-      "matricula": "LVCET",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "ROS",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "ES",
       "vuelo": "8568",
       "st": "25/11/2019 19:55",
@@ -4274,6 +4255,25 @@
       "ruta": "CCS",
       "via": "",
       "remark": "DEM",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AU",
+      "vuelo": "2762",
+      "st": "25/11/2019 21:30",
+      "matricula": "LVCET",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "ROS",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     },
     {
