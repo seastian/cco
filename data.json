@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/11/2019 17:22",
+  "lastUpdate": "25/11/2019 17:27",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -57,6 +57,25 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "171"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "BAP",
+      "st": "25/11/2019 19:30",
+      "matricula": "VPBAP",
+      "posicion": "36A",
+      "et": "25/11/2019 18:30",
+      "at": "",
+      "term": "FBO",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MDZ",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "8"
     },
     {
       "tipo": "arribo",
@@ -171,25 +190,6 @@
       "remark": "HOR",
       "sanidad": "NO",
       "pax": "0"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "BAP",
-      "st": "25/11/2019 19:30",
-      "matricula": "VPBAP",
-      "posicion": "36A",
-      "et": "",
-      "at": "",
-      "term": "FBO",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MDZ",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO",
-      "pax": "8"
     },
     {
       "tipo": "arribo",
@@ -2207,25 +2207,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "4M",
-      "vuelo": "7901",
-      "st": "25/11/2019 15:47",
-      "matricula": "LVCQS",
-      "posicion": "08",
-      "et": "25/11/2019 15:32",
-      "at": "25/11/2019 15:32",
-      "term": "A",
-      "sector": "",
-      "cinta": "5",
-      "lF": "004",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "171"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1873",
       "st": "25/11/2019 16:15",
@@ -3779,7 +3760,7 @@
       "puerta": "01",
       "ruta": "GIG",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3798,7 +3779,7 @@
       "puerta": "13",
       "ruta": "POA",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3817,7 +3798,7 @@
       "puerta": "08",
       "ruta": "FRA",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
