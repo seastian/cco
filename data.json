@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/11/2019 21:58",
+  "lastUpdate": "24/11/2019 22:03",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -198,7 +198,7 @@
       "st": "24/11/2019 23:25",
       "matricula": "LVGVC",
       "posicion": "",
-      "et": "",
+      "et": "24/11/2019 23:21",
       "at": "",
       "term": "A",
       "sector": "",
@@ -206,9 +206,9 @@
       "lF": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "94"
     },
     {
       "tipo": "arribo",
@@ -1086,6 +1086,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1231",
+      "st": "25/11/2019 10:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "POA",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "PRV",
       "vuelo": "CPL",
       "st": "24/11/2019 10:00",
@@ -1140,25 +1159,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "272"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AA",
-      "vuelo": "953",
-      "st": "24/11/2019 10:42",
-      "matricula": "N762AN",
-      "posicion": "15",
-      "et": "24/11/2019 10:04",
-      "at": "24/11/2019 10:00",
-      "term": "A",
-      "sector": "",
-      "cinta": "5",
-      "lF": "005",
-      "ruta": "JFK",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "273"
     },
     {
       "tipo": "arribo",
@@ -1257,25 +1257,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "IB_",
-      "vuelo": "2601",
-      "st": "24/11/2019 11:05",
-      "matricula": "ECMOY",
-      "posicion": "03",
-      "et": "",
-      "at": "24/11/2019 11:00",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "007",
-      "ruta": "BCN",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "305"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "G3",
       "vuelo": "7650",
       "st": "24/11/2019 11:10",
@@ -1292,6 +1273,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "139"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "IB_",
+      "vuelo": "2601",
+      "st": "24/11/2019 11:05",
+      "matricula": "ECMOY",
+      "posicion": "03",
+      "et": "",
+      "at": "24/11/2019 11:00",
+      "term": "A",
+      "sector": "",
+      "cinta": "8",
+      "lF": "007",
+      "ruta": "BCN",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "305"
     },
     {
       "tipo": "arribo",
@@ -1960,25 +1960,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "LP",
-      "vuelo": "2429",
-      "st": "24/11/2019 18:47",
-      "matricula": "CCCQO",
-      "posicion": "06",
-      "et": "24/11/2019 19:10",
-      "at": "24/11/2019 19:03",
-      "term": "A",
-      "sector": "",
-      "cinta": "1",
-      "lF": "001",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1303",
       "st": "24/11/2019 19:30",
@@ -1995,6 +1976,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "234"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LP",
+      "vuelo": "2429",
+      "st": "24/11/2019 18:47",
+      "matricula": "CCCQO",
+      "posicion": "06",
+      "et": "24/11/2019 19:10",
+      "at": "24/11/2019 19:03",
+      "term": "A",
+      "sector": "",
+      "cinta": "1",
+      "lF": "001",
+      "ruta": "LIM",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -3790,7 +3790,7 @@
       "matricula": "LVWGN",
       "posicion": "50B",
       "et": "24/11/2019 21:10",
-      "at": "",
+      "at": "24/11/2019 22:02",
       "term": "C",
       "sector": "CPC",
       "chkFrom": "",
@@ -3798,7 +3798,7 @@
       "puerta": "",
       "ruta": "AEP",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
