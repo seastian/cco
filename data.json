@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/11/2019 00:39",
+  "lastUpdate": "25/11/2019 00:44",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -140,7 +140,7 @@
       "vuelo": "1141",
       "st": "25/11/2019 04:40",
       "matricula": "LVGHQ",
-      "posicion": "",
+      "posicion": "12",
       "et": "25/11/2019 04:16",
       "at": "",
       "term": "A",
@@ -2530,25 +2530,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "H2",
-      "vuelo": "5917",
-      "st": "24/11/2019 12:10",
-      "matricula": "CCAZC",
-      "posicion": "52A",
-      "et": "",
-      "at": "24/11/2019 12:41",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "13",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AU",
       "vuelo": "2392",
       "st": "24/11/2019 12:25",
@@ -4045,7 +4026,7 @@
       "puerta": "14",
       "ruta": "MAD",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4064,7 +4045,7 @@
       "puerta": "05",
       "ruta": "PTY",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4469,25 +4450,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1500",
-      "st": "25/11/2019 07:05",
-      "matricula": "LVGVC",
-      "posicion": "25B",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "COR",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "1026",
       "st": "25/11/2019 07:05",
       "matricula": "LVFQC",
@@ -4500,6 +4462,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "AEP",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1500",
+      "st": "25/11/2019 07:05",
+      "matricula": "LVGVC",
+      "posicion": "25B",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "COR",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -5032,6 +5013,25 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "MVD",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "WK",
+      "vuelo": "091",
+      "st": "25/11/2019 12:45",
+      "matricula": "HBJMD",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "062",
+      "chkTo": "067",
+      "puerta": "",
+      "ruta": "ZRH",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
