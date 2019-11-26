@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/11/2019 17:15",
+  "lastUpdate": "26/11/2019 17:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3133,7 +3133,7 @@
       "puerta": "19",
       "ruta": "POA",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3152,7 +3152,7 @@
       "puerta": "27",
       "ruta": "BRC",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3170,6 +3170,25 @@
       "chkTo": "040",
       "puerta": "08",
       "ruta": "FRA",
+      "via": "",
+      "remark": "PRE",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1290",
+      "st": "26/11/2019 18:15",
+      "matricula": "LVBZO",
+      "posicion": "17A",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "17",
+      "ruta": "SCL",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -3189,25 +3208,6 @@
       "chkTo": "240",
       "puerta": "21",
       "ruta": "CWB",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1290",
-      "st": "26/11/2019 18:15",
-      "matricula": "LVBZO",
-      "posicion": "17A",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "17",
-      "ruta": "SCL",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -3613,25 +3613,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1300",
-      "st": "26/11/2019 23:30",
-      "matricula": "LVGKP",
-      "posicion": "16",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "209",
-      "chkTo": "240",
-      "puerta": "22",
-      "ruta": "JFK",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AA",
       "vuelo": "908",
       "st": "26/11/2019 23:30",
@@ -3645,6 +3626,25 @@
       "chkTo": "020",
       "puerta": "",
       "ruta": "MIA",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1300",
+      "st": "26/11/2019 23:30",
+      "matricula": "LVGKP",
+      "posicion": "16",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "209",
+      "chkTo": "240",
+      "puerta": "22",
+      "ruta": "JFK",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
