@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/11/2019 05:15",
+  "lastUpdate": "27/11/2019 05:21",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3152,7 +3152,7 @@
       "puerta": "24",
       "ruta": "FTE",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3172,6 +3172,25 @@
       "ruta": "CCS",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1260",
+      "st": "27/11/2019 06:00",
+      "matricula": "LVFVN",
+      "posicion": "52A",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "19",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3210,25 +3229,6 @@
       "ruta": "LIM",
       "via": "",
       "remark": "PRE",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1260",
-      "st": "27/11/2019 06:00",
-      "matricula": "LVFVN",
-      "posicion": "52A",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "19",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "HOR",
       "sanidad": "NO"
     },
     {
