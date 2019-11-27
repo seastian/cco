@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/11/2019 09:08",
+  "lastUpdate": "27/11/2019 09:13",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -231,6 +231,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1283",
+      "st": "27/11/2019 11:10",
+      "matricula": "LVCBT",
+      "posicion": "",
+      "et": "27/11/2019 10:40",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "98"
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "UA",
       "vuelo": "819",
       "st": "27/11/2019 11:20",
@@ -263,7 +282,7 @@
       "lF": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "",
+      "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
     },
@@ -323,25 +342,6 @@
       "remark": "DEM",
       "sanidad": "NO",
       "pax": "263"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1283",
-      "st": "27/11/2019 11:10",
-      "matricula": "LVCBT",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -1157,25 +1157,6 @@
       "ruta": "SCL",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "501",
-      "st": "26/11/2019 20:45",
-      "matricula": "CXLSS",
-      "posicion": "57",
-      "et": "",
-      "at": "26/11/2019 21:13",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -2118,14 +2099,14 @@
       "matricula": "GCKWP",
       "posicion": "10",
       "et": "27/11/2019 09:07",
-      "at": "",
+      "at": "27/11/2019 09:10",
       "term": "A",
       "sector": "",
       "cinta": "8",
       "lF": "008",
       "ruta": "LGW",
       "via": "",
-      "remark": "DEM",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "282"
     },
@@ -3361,7 +3342,7 @@
       "puerta": "27",
       "ruta": "CRD",
       "via": "MDQ",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
