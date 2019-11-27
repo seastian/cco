@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/11/2019 04:53",
+  "lastUpdate": "27/11/2019 04:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -235,7 +235,7 @@
       "vuelo": "680",
       "st": "27/11/2019 07:55",
       "matricula": "EIISO",
-      "posicion": "",
+      "posicion": "13",
       "et": "27/11/2019 08:03",
       "at": "",
       "term": "A",
@@ -1162,25 +1162,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "445",
-      "st": "26/11/2019 17:00",
-      "matricula": "CCBGJ",
-      "posicion": "10",
-      "et": "26/11/2019 16:50",
-      "at": "26/11/2019 16:55",
-      "term": "A",
-      "sector": "",
-      "cinta": "3",
-      "lF": "003",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "233"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1293",
       "st": "26/11/2019 17:45",
@@ -1956,7 +1937,7 @@
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": "8"
+      "pax": "6"
     },
     {
       "tipo": "arribo",
