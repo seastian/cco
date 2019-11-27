@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/11/2019 01:39",
+  "lastUpdate": "27/11/2019 01:46",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -89,7 +89,7 @@
       "term": "A",
       "sector": "",
       "cinta": "7",
-      "lF": "",
+      "lF": "007",
       "ruta": "FCO",
       "via": "",
       "remark": "EST",
