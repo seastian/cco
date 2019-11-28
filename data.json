@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/11/2019 21:09",
+  "lastUpdate": "27/11/2019 21:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -950,6 +950,25 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "280"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "H2",
+      "vuelo": "501",
+      "st": "28/11/2019 09:15",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -3342,7 +3361,7 @@
       "puerta": "03",
       "ruta": "GRU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3575,6 +3594,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1132",
+      "st": "27/11/2019 23:55",
+      "matricula": "LVFPV",
+      "posicion": "52",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "MAD",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "AM",
       "vuelo": "029",
       "st": "27/11/2019 23:55",
@@ -3588,25 +3626,6 @@
       "chkTo": "040",
       "puerta": "04",
       "ruta": "MEX",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1132",
-      "st": "27/11/2019 23:55",
-      "matricula": "LVFPV",
-      "posicion": "M15",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "MAD",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -3825,7 +3844,7 @@
       "aerolinea": "4M",
       "vuelo": "7900",
       "st": "28/11/2019 04:20",
-      "matricula": "",
+      "matricula": "LVHQI",
       "posicion": "",
       "et": "",
       "at": "",
