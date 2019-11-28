@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/11/2019 01:41",
+  "lastUpdate": "28/11/2019 01:48",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1064,25 +1064,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "148"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "OB",
-      "vuelo": "708",
-      "st": "27/11/2019 14:05",
-      "matricula": "CP3017",
-      "posicion": "04",
-      "et": "27/11/2019 13:50",
-      "at": "27/11/2019 13:48",
-      "term": "A",
-      "sector": "",
-      "cinta": "1",
-      "lF": "006",
-      "ruta": "VVI",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "211"
     },
     {
       "tipo": "arribo",
