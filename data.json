@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/11/2019 03:46",
+  "lastUpdate": "28/11/2019 03:51",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1159,25 +1159,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AU",
-      "vuelo": "2393",
-      "st": "27/11/2019 16:10",
-      "matricula": "LVCPJ",
-      "posicion": "25A",
-      "et": "27/11/2019 15:53",
-      "at": "27/11/2019 15:51",
-      "term": "A",
-      "sector": "",
-      "cinta": "6",
-      "lF": "010",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "29"
     },
     {
       "tipo": "arribo",
@@ -3152,7 +3133,7 @@
       "puerta": "01",
       "ruta": "LIM",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
