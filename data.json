@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/11/2019 05:12",
+  "lastUpdate": "29/11/2019 05:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -4728,6 +4728,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "AEP",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "G3",
+      "vuelo": "7653",
+      "st": "29/11/2019 17:15",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "068",
+      "chkTo": "074",
+      "puerta": "",
+      "ruta": "GIG",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
