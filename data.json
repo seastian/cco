@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/11/2019 06:49",
+  "lastUpdate": "29/11/2019 06:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1239,25 +1239,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "AR",
-      "vuelo": "1303",
-      "st": "28/11/2019 19:30",
-      "matricula": "LVFNL",
-      "posicion": "14",
-      "et": "28/11/2019 18:43",
-      "at": "28/11/2019 18:53",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "200"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
       "vuelo": "1371",
       "st": "28/11/2019 19:10",
       "matricula": "LVGKO",
@@ -2308,14 +2289,14 @@
       "matricula": "CCCXC",
       "posicion": "04",
       "et": "29/11/2019 06:45",
-      "at": "",
+      "at": "29/11/2019 06:51",
       "term": "A",
       "sector": "",
       "cinta": "5",
       "lF": "004",
       "ruta": "MIA",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "220"
     },
@@ -3475,7 +3456,7 @@
       "puerta": "26",
       "ruta": "MDZ",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
