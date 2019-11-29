@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/11/2019 17:20",
+  "lastUpdate": "29/11/2019 17:25",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -121,7 +121,7 @@
       "vuelo": "2429",
       "st": "29/11/2019 18:47",
       "matricula": "CCBAK",
-      "posicion": "04",
+      "posicion": "08",
       "et": "29/11/2019 19:10",
       "at": "",
       "term": "A",
@@ -3494,7 +3494,7 @@
       "puerta": "13",
       "ruta": "POA",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3693,14 +3693,14 @@
       "vuelo": "2468",
       "st": "29/11/2019 19:57",
       "matricula": "CCBAK",
-      "posicion": "04",
+      "posicion": "08",
       "et": "",
       "at": "",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
       "chkTo": "053",
-      "puerta": "03",
+      "puerta": "07",
       "ruta": "LIM",
       "via": "",
       "remark": "HOR",
