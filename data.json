@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/11/2019 14:56",
+  "lastUpdate": "29/11/2019 15:01",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2160,7 +2160,7 @@
       "term": "A",
       "sector": "",
       "cinta": "6",
-      "lF": "010",
+      "lF": "007",
       "ruta": "GRU",
       "via": "",
       "remark": "ATE",
