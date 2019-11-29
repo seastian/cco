@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/11/2019 11:36",
+  "lastUpdate": "29/11/2019 11:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -70,7 +70,7 @@
       "term": "A",
       "sector": "",
       "cinta": "8",
-      "lF": "",
+      "lF": "008",
       "ruta": "GIG",
       "via": "",
       "remark": "EST",
@@ -89,7 +89,7 @@
       "term": "A",
       "sector": "",
       "cinta": "7",
-      "lF": "",
+      "lF": "008",
       "ruta": "GRU",
       "via": "",
       "remark": "EST",
@@ -108,7 +108,7 @@
       "term": "A",
       "sector": "",
       "cinta": "3",
-      "lF": "",
+      "lF": "006",
       "ruta": "VVI",
       "via": "",
       "remark": "EST",
@@ -127,7 +127,7 @@
       "term": "A",
       "sector": "",
       "cinta": "6",
-      "lF": "",
+      "lF": "010",
       "ruta": "BSB",
       "via": "",
       "remark": "DEM",
@@ -1181,25 +1181,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "M3",
-      "vuelo": "8494",
-      "st": "28/11/2019 23:45",
-      "matricula": "PRACO",
-      "posicion": "55",
-      "et": "28/11/2019 23:44",
-      "at": "28/11/2019 23:40",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "JJ",
       "vuelo": "8010",
       "st": "29/11/2019 00:00",
@@ -2017,25 +1998,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8008",
-      "st": "29/11/2019 10:15",
-      "matricula": "PTXPM",
-      "posicion": "08",
-      "et": "29/11/2019 10:00",
-      "at": "29/11/2019 10:05",
-      "term": "A",
-      "sector": "",
-      "cinta": "2",
-      "lF": "002",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "190"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AA",
       "vuelo": "953",
       "st": "29/11/2019 10:42",
@@ -2052,6 +2014,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "245"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "JJ",
+      "vuelo": "8008",
+      "st": "29/11/2019 10:15",
+      "matricula": "PTXPM",
+      "posicion": "08",
+      "et": "29/11/2019 10:00",
+      "at": "29/11/2019 10:05",
+      "term": "A",
+      "sector": "",
+      "cinta": "2",
+      "lF": "002",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "190"
     },
     {
       "tipo": "arribo",
@@ -3201,7 +3182,7 @@
       "matricula": "LVFVN",
       "posicion": "17A",
       "et": "",
-      "at": "",
+      "at": "29/11/2019 11:24",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3209,7 +3190,7 @@
       "puerta": "17",
       "ruta": "SCL",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3220,7 +3201,7 @@
       "matricula": "HP1844",
       "posicion": "02",
       "et": "",
-      "at": "",
+      "at": "29/11/2019 11:39",
       "term": "A",
       "sector": "AP",
       "chkFrom": "013",
@@ -3228,7 +3209,7 @@
       "puerta": "01",
       "ruta": "PTY",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3342,7 +3323,7 @@
       "puerta": "26",
       "ruta": "COR",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3361,7 +3342,7 @@
       "puerta": "25",
       "ruta": "MDZ",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3475,7 +3456,7 @@
       "puerta": "19",
       "ruta": "MVD",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
