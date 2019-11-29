@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/11/2019 14:50",
+  "lastUpdate": "29/11/2019 14:56",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1010,25 +1010,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "QR",
-      "vuelo": "8157",
-      "st": "29/11/2019 03:00",
-      "matricula": "A7BFG",
-      "posicion": "55",
-      "et": "29/11/2019 02:50",
-      "at": "29/11/2019 02:53",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "DOH",
-      "via": "GRU",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1133",
       "st": "29/11/2019 04:20",
@@ -1295,25 +1276,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "ZP",
-      "vuelo": "820",
-      "st": "29/11/2019 07:00",
-      "matricula": "ZPCRN",
-      "posicion": "50A",
-      "et": "",
-      "at": "29/11/2019 06:59",
-      "term": "A",
-      "sector": "",
-      "cinta": "6",
-      "lF": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "23"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "KL",
       "vuelo": "701",
       "st": "29/11/2019 07:05",
@@ -1330,6 +1292,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "276"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "ZP",
+      "vuelo": "820",
+      "st": "29/11/2019 07:00",
+      "matricula": "ZPCRN",
+      "posicion": "50A",
+      "et": "",
+      "at": "29/11/2019 06:59",
+      "term": "A",
+      "sector": "",
+      "cinta": "6",
+      "lF": "",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "23"
     },
     {
       "tipo": "arribo",
@@ -1485,25 +1466,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "BA",
-      "vuelo": "245",
-      "st": "29/11/2019 09:10",
-      "matricula": "GYMMA",
-      "posicion": "06",
-      "et": "29/11/2019 08:50",
-      "at": "29/11/2019 09:05",
-      "term": "A",
-      "sector": "",
-      "cinta": "5",
-      "lF": "003",
-      "ruta": "LHR",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "229"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "DL",
       "vuelo": "101",
       "st": "29/11/2019 09:20",
@@ -1520,6 +1482,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "209"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "BA",
+      "vuelo": "245",
+      "st": "29/11/2019 09:10",
+      "matricula": "GYMMA",
+      "posicion": "06",
+      "et": "29/11/2019 08:50",
+      "at": "29/11/2019 09:05",
+      "term": "A",
+      "sector": "",
+      "cinta": "5",
+      "lF": "003",
+      "ruta": "LHR",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "229"
     },
     {
       "tipo": "arribo",
@@ -3475,7 +3456,7 @@
       "puerta": "01",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
