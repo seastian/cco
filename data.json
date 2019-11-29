@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/11/2019 06:18",
+  "lastUpdate": "29/11/2019 06:23",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -57,6 +57,25 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AA",
+      "vuelo": "907",
+      "st": "29/11/2019 06:56",
+      "matricula": "N778AN",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "DES",
+      "sanidad": "NO",
+      "pax": "266"
     },
     {
       "tipo": "arribo",
@@ -231,6 +250,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "JJ",
+      "vuelo": "8012",
+      "st": "29/11/2019 09:15",
+      "matricula": "PRMBG",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "G3",
       "vuelo": "7680",
       "st": "29/11/2019 09:15",
@@ -269,25 +307,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8012",
-      "st": "29/11/2019 09:15",
-      "matricula": "PRMBG",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "DL",
       "vuelo": "101",
       "st": "29/11/2019 09:20",
@@ -304,25 +323,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AA",
-      "vuelo": "907",
-      "st": "29/11/2019 06:56",
-      "matricula": "N778AN",
-      "posicion": "",
-      "et": "29/11/2019 09:35",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": "266"
     },
     {
       "tipo": "arribo",
@@ -1068,25 +1068,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "AR",
-      "vuelo": "1413",
-      "st": "29/11/2019 16:15",
-      "matricula": "LVBYY",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MDZ",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
       "vuelo": "1873",
       "st": "29/11/2019 16:15",
       "matricula": "LVGUC",
@@ -1098,6 +1079,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "BRC",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1413",
+      "st": "29/11/2019 16:15",
+      "matricula": "LVBYY",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MDZ",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -1235,25 +1235,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8024",
-      "st": "28/11/2019 18:20",
-      "matricula": "PRMBY",
-      "posicion": "02",
-      "et": "28/11/2019 18:15",
-      "at": "28/11/2019 18:20",
-      "term": "A",
-      "sector": "",
-      "cinta": "2",
-      "lF": "002",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "176"
     },
     {
       "tipo": "arribo",
@@ -3334,7 +3315,7 @@
       "matricula": "N279AV",
       "posicion": "09",
       "et": "",
-      "at": "",
+      "at": "29/11/2019 06:21",
       "term": "A",
       "sector": "AP",
       "chkFrom": "059",
@@ -3342,7 +3323,7 @@
       "puerta": "09",
       "ruta": "LIM",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3437,7 +3418,7 @@
       "puerta": "17",
       "ruta": "GRU",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3456,7 +3437,7 @@
       "puerta": "24",
       "ruta": "SLA",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3475,7 +3456,7 @@
       "puerta": "10",
       "ruta": "BOG",
       "via": "",
-      "remark": "PRE",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3513,7 +3494,7 @@
       "puerta": "01",
       "ruta": "SCL",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4652,6 +4633,25 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "CWB",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "4M",
+      "vuelo": "7768",
+      "st": "29/11/2019 18:20",
+      "matricula": "LVBRY",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "BRC",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
