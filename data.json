@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/11/2019 00:11",
+  "lastUpdate": "29/11/2019 00:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3543,7 +3543,7 @@
       "matricula": "XAADL",
       "posicion": "05",
       "et": "",
-      "at": "",
+      "at": "29/11/2019 00:13",
       "term": "A",
       "sector": "AP",
       "chkFrom": "034",
@@ -3551,7 +3551,7 @@
       "puerta": "04",
       "ruta": "MEX",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
