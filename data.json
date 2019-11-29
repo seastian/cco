@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/11/2019 04:59",
+  "lastUpdate": "29/11/2019 05:05",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3429,7 +3429,7 @@
       "matricula": "HP1726",
       "posicion": "07",
       "et": "",
-      "at": "",
+      "at": "29/11/2019 05:02",
       "term": "A",
       "sector": "AP",
       "chkFrom": "016",
@@ -3437,7 +3437,7 @@
       "puerta": "06",
       "ruta": "PTY",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3532,7 +3532,7 @@
       "puerta": "19",
       "ruta": "ASU",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -4690,6 +4690,25 @@
       "chkTo": "053",
       "puerta": "",
       "ruta": "GRU",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1262",
+      "st": "29/11/2019 17:05",
+      "matricula": "LVGUC",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "ASU",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
