@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/11/2019 16:33",
+  "lastUpdate": "29/11/2019 16:39",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3418,7 +3418,7 @@
       "puerta": "20",
       "ruta": "AMS",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3437,7 +3437,7 @@
       "puerta": "17",
       "ruta": "BOG",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3456,7 +3456,7 @@
       "puerta": "05",
       "ruta": "GRU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3655,14 +3655,14 @@
       "vuelo": "8002",
       "st": "29/11/2019 19:15",
       "matricula": "PRMBG",
-      "posicion": "",
+      "posicion": "02",
       "et": "",
       "at": "",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
       "chkTo": "053",
-      "puerta": "",
+      "puerta": "01",
       "ruta": "GRU",
       "via": "",
       "remark": "HOR",
@@ -4183,25 +4183,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AM",
-      "vuelo": "029",
-      "st": "29/11/2019 23:55",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "034",
-      "chkTo": "040",
-      "puerta": "",
-      "ruta": "MEX",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1132",
       "st": "29/11/2019 23:55",
@@ -4215,6 +4196,25 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "MAD",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AM",
+      "vuelo": "029",
+      "st": "29/11/2019 23:55",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "034",
+      "chkTo": "040",
+      "puerta": "",
+      "ruta": "MEX",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
