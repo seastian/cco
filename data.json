@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/11/2019 12:32",
+  "lastUpdate": "29/11/2019 12:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3239,7 +3239,7 @@
       "matricula": "LVBYY",
       "posicion": "50A",
       "et": "",
-      "at": "",
+      "at": "29/11/2019 12:37",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3247,7 +3247,7 @@
       "puerta": "25",
       "ruta": "MDZ",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3456,7 +3456,7 @@
       "puerta": "01",
       "ruta": "VCP",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3475,7 +3475,7 @@
       "puerta": "04",
       "ruta": "MAD",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
