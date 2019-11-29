@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/11/2019 08:32",
+  "lastUpdate": "29/11/2019 08:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -31,7 +31,7 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
+      "cinta": "8",
       "lF": "",
       "ruta": "ATL",
       "via": "",
@@ -216,7 +216,7 @@
       "vuelo": "8008",
       "st": "29/11/2019 10:15",
       "matricula": "PTXPM",
-      "posicion": "",
+      "posicion": "08",
       "et": "29/11/2019 09:55",
       "at": "",
       "term": "A",
@@ -1216,44 +1216,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "ZP",
-      "vuelo": "818",
-      "st": "28/11/2019 20:40",
-      "matricula": "ZPCRN",
-      "posicion": "50A",
-      "et": "28/11/2019 20:28",
-      "at": "28/11/2019 20:38",
-      "term": "A",
-      "sector": "",
-      "cinta": "5",
-      "lF": "005",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "46"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AU",
-      "vuelo": "2463",
-      "st": "28/11/2019 20:45",
-      "matricula": "LVCPJ",
-      "posicion": "23B",
-      "et": "28/11/2019 20:32",
-      "at": "28/11/2019 20:34",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "12",
-      "lF": "018",
-      "ruta": "MDZ",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "82"
     },
     {
       "tipo": "arribo",
@@ -3494,7 +3456,7 @@
       "puerta": "14",
       "ruta": "SCL",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
