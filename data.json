@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/11/2019 13:51",
+  "lastUpdate": "29/11/2019 13:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2251,14 +2251,14 @@
       "matricula": "CP2880",
       "posicion": "04",
       "et": "29/11/2019 13:50",
-      "at": "",
+      "at": "29/11/2019 13:55",
       "term": "A",
       "sector": "",
       "cinta": "3",
       "lF": "006",
       "ruta": "VVI",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "202"
     },
@@ -3399,7 +3399,7 @@
       "puerta": "",
       "ruta": "AEP",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
