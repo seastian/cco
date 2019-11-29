@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/11/2019 12:43",
+  "lastUpdate": "29/11/2019 12:48",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3266,7 +3266,7 @@
       "puerta": "12",
       "ruta": "SCL",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3277,7 +3277,7 @@
       "matricula": "LVGUB",
       "posicion": "17B",
       "et": "",
-      "at": "",
+      "at": "29/11/2019 12:48",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3285,7 +3285,7 @@
       "puerta": "27",
       "ruta": "BRC",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3296,7 +3296,7 @@
       "matricula": "PTXPM",
       "posicion": "08",
       "et": "",
-      "at": "",
+      "at": "29/11/2019 12:45",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3304,7 +3304,7 @@
       "puerta": "07",
       "ruta": "GRU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3380,7 +3380,7 @@
       "puerta": "16",
       "ruta": "BCN",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3437,7 +3437,7 @@
       "puerta": "01",
       "ruta": "VCP",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3456,7 +3456,7 @@
       "puerta": "04",
       "ruta": "MAD",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
