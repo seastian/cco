@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/11/2019 06:26",
+  "lastUpdate": "30/11/2019 06:31",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2226,25 +2226,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "G3",
-      "vuelo": "7653",
-      "st": "29/11/2019 17:15",
-      "matricula": "PRVBF",
-      "posicion": "08",
-      "et": "29/11/2019 17:55",
-      "at": "29/11/2019 18:29",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "068",
-      "chkTo": "074",
-      "puerta": "07",
-      "ruta": "GIG",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1268",
       "st": "29/11/2019 18:15",
@@ -2303,25 +2284,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1364",
-      "st": "29/11/2019 19:00",
-      "matricula": "LVGFQ",
-      "posicion": "17A",
-      "et": "",
-      "at": "29/11/2019 19:45",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "19",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "1290",
       "st": "29/11/2019 18:15",
       "matricula": "LVBYY",
@@ -2334,6 +2296,25 @@
       "chkTo": "240",
       "puerta": "16",
       "ruta": "SCL",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1364",
+      "st": "29/11/2019 19:00",
+      "matricula": "LVGFQ",
+      "posicion": "17A",
+      "et": "",
+      "at": "29/11/2019 19:45",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "19",
+      "ruta": "LIM",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -2360,25 +2341,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1248",
-      "st": "29/11/2019 19:40",
-      "matricula": "LVFVN",
-      "posicion": "22A",
-      "et": "",
-      "at": "29/11/2019 20:08",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "17",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "1256",
       "st": "29/11/2019 19:20",
       "matricula": "LVFQC",
@@ -2391,6 +2353,25 @@
       "chkTo": "240",
       "puerta": "13",
       "ruta": "GIG",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1248",
+      "st": "29/11/2019 19:40",
+      "matricula": "LVFVN",
+      "posicion": "22A",
+      "et": "",
+      "at": "29/11/2019 20:08",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "17",
+      "ruta": "GRU",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -3258,7 +3239,7 @@
       "matricula": "LVBYY",
       "posicion": "22A",
       "et": "",
-      "at": "",
+      "at": "30/11/2019 06:30",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3266,7 +3247,7 @@
       "puerta": "17",
       "ruta": "POA",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3342,7 +3323,7 @@
       "puerta": "",
       "ruta": "DOH",
       "via": "UIO",
-      "remark": "EST",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3399,7 +3380,7 @@
       "puerta": "26",
       "ruta": "MDZ",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3418,7 +3399,7 @@
       "puerta": "12",
       "ruta": "SCL",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3438,25 +3419,6 @@
       "ruta": "BOG",
       "via": "",
       "remark": "ULT",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1500",
-      "st": "30/11/2019 07:15",
-      "matricula": "LVCXS",
-      "posicion": "17B",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "25",
-      "ruta": "COR",
-      "via": "",
-      "remark": "HOR",
       "sanidad": "NO"
     },
     {
@@ -3495,6 +3457,25 @@
       "ruta": "GRU",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1500",
+      "st": "30/11/2019 07:15",
+      "matricula": "LVCXS",
+      "posicion": "17B",
+      "et": "30/11/2019 07:40",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "25",
+      "ruta": "COR",
+      "via": "",
+      "remark": "DEM",
       "sanidad": "NO"
     },
     {
