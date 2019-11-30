@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/11/2019 22:31",
+  "lastUpdate": "29/11/2019 22:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -64,7 +64,7 @@
       "vuelo": "1325",
       "st": "29/11/2019 23:05",
       "matricula": "LVGVB",
-      "posicion": "16B",
+      "posicion": "51A",
       "et": "29/11/2019 23:02",
       "at": "",
       "term": "A",
@@ -3410,7 +3410,7 @@
       "matricula": "N78005",
       "posicion": "53",
       "et": "",
-      "at": "",
+      "at": "29/11/2019 22:33",
       "term": "A",
       "sector": "AP",
       "chkFrom": "054",
@@ -3418,7 +3418,7 @@
       "puerta": "08",
       "ruta": "IAH",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3475,7 +3475,7 @@
       "puerta": "07",
       "ruta": "GRU",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3514,25 +3514,6 @@
       "ruta": "FLL",
       "via": "",
       "remark": "CER",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1302",
-      "st": "29/11/2019 23:00",
-      "matricula": "LVFNL",
-      "posicion": "16",
-      "et": "29/11/2019 22:45",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "209",
-      "chkTo": "240",
-      "puerta": "22",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3590,6 +3571,25 @@
       "ruta": "JFK",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1302",
+      "st": "29/11/2019 23:00",
+      "matricula": "LVFNL",
+      "posicion": "16",
+      "et": "29/11/2019 23:15",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "209",
+      "chkTo": "240",
+      "puerta": "22",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3708,25 +3708,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AM",
-      "vuelo": "029",
-      "st": "29/11/2019 23:55",
-      "matricula": "XAADL",
-      "posicion": "06",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "034",
-      "chkTo": "040",
-      "puerta": "05",
-      "ruta": "MEX",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1132",
       "st": "29/11/2019 23:55",
@@ -3740,6 +3721,25 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "MAD",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AM",
+      "vuelo": "029",
+      "st": "29/11/2019 23:55",
+      "matricula": "XAADL",
+      "posicion": "06",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "034",
+      "chkTo": "040",
+      "puerta": "05",
+      "ruta": "MEX",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -3883,7 +3883,7 @@
       "vuelo": "1324",
       "st": "30/11/2019 03:15",
       "matricula": "LVGVB",
-      "posicion": "16B",
+      "posicion": "51A",
       "et": "",
       "at": "",
       "term": "C",
