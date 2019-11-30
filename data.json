@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/11/2019 12:46",
+  "lastUpdate": "30/11/2019 12:51",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3266,7 +3266,7 @@
       "puerta": "02",
       "ruta": "BCN",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3304,7 +3304,7 @@
       "puerta": "16",
       "ruta": "MAD",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
