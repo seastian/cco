@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/11/2019 00:36",
+  "lastUpdate": "30/11/2019 00:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -986,25 +986,6 @@
       "ruta": "VCP",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1997",
-      "st": "29/11/2019 12:50",
-      "matricula": "LVFSK",
-      "posicion": "17A",
-      "et": "29/11/2019 12:33",
-      "at": "29/11/2019 12:41",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "12",
-      "lF": "018",
-      "ruta": "USH",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -3543,7 +3524,7 @@
       "matricula": "XAADL",
       "posicion": "06",
       "et": "",
-      "at": "",
+      "at": "30/11/2019 00:38",
       "term": "A",
       "sector": "AP",
       "chkFrom": "034",
@@ -3551,7 +3532,7 @@
       "puerta": "05",
       "ruta": "MEX",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3618,7 +3599,7 @@
       "st": "29/11/2019 23:55",
       "matricula": "LVFPV",
       "posicion": "12",
-      "et": "30/11/2019 00:40",
+      "et": "30/11/2019 00:50",
       "at": "",
       "term": "C",
       "sector": "CPI",
