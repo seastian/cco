@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "30/11/2019 13:51",
+  "lastUpdate": "30/11/2019 13:56",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8003",
-      "st": "30/11/2019 14:00",
-      "matricula": "PTMXQ",
-      "posicion": "12",
-      "et": "30/11/2019 13:55",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "1",
-      "lF": "002",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "174"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "OB",
@@ -1694,25 +1675,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "M3",
-      "vuelo": "8498",
-      "st": "30/11/2019 09:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "JJ",
       "vuelo": "8012",
       "st": "30/11/2019 09:15",
@@ -1727,6 +1689,25 @@
       "ruta": "GRU",
       "via": "",
       "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "M3",
+      "vuelo": "8498",
+      "st": "30/11/2019 09:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "VCP",
+      "via": "",
+      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
@@ -2204,6 +2185,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "133"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "JJ",
+      "vuelo": "8003",
+      "st": "30/11/2019 14:00",
+      "matricula": "PTMXQ",
+      "posicion": "12",
+      "et": "30/11/2019 13:55",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "1",
+      "lF": "002",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "174"
     },
     {
       "tipo": "partida",
@@ -3361,7 +3361,7 @@
       "puerta": "22",
       "ruta": "CDG",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
