@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/11/2019 06:06",
+  "lastUpdate": "30/11/2019 06:11",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -183,8 +183,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "9",
+      "lF": "007",
       "ruta": "AMS",
       "via": "",
       "remark": "EST",
@@ -3239,7 +3239,7 @@
       "matricula": "N332UP",
       "posicion": "55",
       "et": "",
-      "at": "",
+      "at": "30/11/2019 06:07",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -3247,7 +3247,7 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "VCP",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3361,7 +3361,7 @@
       "puerta": "13",
       "ruta": "GIG",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3418,7 +3418,7 @@
       "puerta": "24",
       "ruta": "SLA",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
