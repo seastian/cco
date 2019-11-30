@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/11/2019 03:40",
+  "lastUpdate": "30/11/2019 03:46",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3353,7 +3353,7 @@
       "matricula": "LVGVB",
       "posicion": "15B",
       "et": "",
-      "at": "",
+      "at": "30/11/2019 03:30",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3361,7 +3361,7 @@
       "puerta": "21",
       "ruta": "PUJ",
       "via": "RES",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3437,7 +3437,7 @@
       "puerta": "12",
       "ruta": "LIM",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3456,7 +3456,7 @@
       "puerta": "01",
       "ruta": "VCP",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
