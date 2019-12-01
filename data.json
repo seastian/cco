@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/12/2019 05:31",
+  "lastUpdate": "01/12/2019 05:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1219,44 +1219,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7668",
-      "st": "30/11/2019 17:35",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "GIG",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1699",
-      "st": "30/11/2019 17:30",
-      "matricula": "LVCXS",
-      "posicion": "17B",
-      "et": "30/11/2019 17:45",
-      "at": "30/11/2019 17:39",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "12",
-      "lF": "018",
-      "ruta": "BRC",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "113"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1293",
       "st": "30/11/2019 17:45",
@@ -1504,25 +1466,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "ET",
-      "vuelo": "506",
-      "st": "30/11/2019 20:30",
-      "matricula": "ETARE",
-      "posicion": "16",
-      "et": "30/11/2019 20:29",
-      "at": "30/11/2019 20:37",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "010",
-      "ruta": "ADD",
-      "via": "GRU",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "255"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AU",
       "vuelo": "2601",
       "st": "30/11/2019 20:35",
@@ -1539,6 +1482,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "87"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "ET",
+      "vuelo": "506",
+      "st": "30/11/2019 20:30",
+      "matricula": "ETARE",
+      "posicion": "16",
+      "et": "30/11/2019 20:29",
+      "at": "30/11/2019 20:37",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "010",
+      "ruta": "ADD",
+      "via": "GRU",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "255"
     },
     {
       "tipo": "arribo",
@@ -3190,7 +3152,7 @@
       "puerta": "01",
       "ruta": "GRU",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3247,7 +3209,7 @@
       "puerta": "10",
       "ruta": "LIM",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3285,7 +3247,7 @@
       "puerta": "17",
       "ruta": "GIG",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
