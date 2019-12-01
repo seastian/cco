@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/12/2019 05:11",
+  "lastUpdate": "01/12/2019 05:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2207,25 +2207,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "G3",
-      "vuelo": "7669",
-      "st": "30/11/2019 16:00",
-      "matricula": "PRGIU",
-      "posicion": "06",
-      "et": "30/11/2019 16:35",
-      "at": "30/11/2019 17:17",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "068",
-      "chkTo": "074",
-      "puerta": "05",
-      "ruta": "GIG",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "JJ",
       "vuelo": "8013",
       "st": "30/11/2019 16:50",
@@ -2298,25 +2279,6 @@
       "ruta": "ASU",
       "via": "",
       "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "G3",
-      "vuelo": "7653",
-      "st": "30/11/2019 17:15",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "068",
-      "chkTo": "074",
-      "puerta": "",
-      "ruta": "GIG",
-      "via": "",
-      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -2587,25 +2549,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "ET",
-      "vuelo": "507",
-      "st": "30/11/2019 21:30",
-      "matricula": "ETARE",
-      "posicion": "16",
-      "et": "",
-      "at": "30/11/2019 22:05",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "201",
-      "chkTo": "206",
-      "puerta": "22",
-      "ruta": "ADD",
-      "via": "GRU",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AU",
       "vuelo": "2762",
       "st": "30/11/2019 21:30",
@@ -2620,6 +2563,25 @@
       "puerta": "24",
       "ruta": "ROS",
       "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "ET",
+      "vuelo": "507",
+      "st": "30/11/2019 21:30",
+      "matricula": "ETARE",
+      "posicion": "16",
+      "et": "",
+      "at": "30/11/2019 22:05",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "201",
+      "chkTo": "206",
+      "puerta": "22",
+      "ruta": "ADD",
+      "via": "GRU",
       "remark": "PAR",
       "sanidad": "NO"
     },
@@ -3285,7 +3247,7 @@
       "puerta": "01",
       "ruta": "GRU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3451,7 +3413,7 @@
       "at": "",
       "term": "A",
       "sector": "AP",
-      "chkFrom": "041",
+      "chkFrom": "038",
       "chkTo": "053",
       "puerta": "05",
       "ruta": "SCL",
