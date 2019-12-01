@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/12/2019 13:52",
+  "lastUpdate": "01/12/2019 13:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2270,14 +2270,14 @@
       "matricula": "PRVBV",
       "posicion": "04",
       "et": "1/12/2019 13:40",
-      "at": "",
+      "at": "1/12/2019 13:54",
       "term": "A",
       "sector": "",
       "cinta": "2",
       "lF": "002",
       "ruta": "GRU",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "118"
     },
