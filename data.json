@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/12/2019 06:31",
+  "lastUpdate": "01/12/2019 06:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2156,14 +2156,14 @@
       "matricula": "CCBJA",
       "posicion": "04",
       "et": "1/12/2019 06:25",
-      "at": "",
+      "at": "1/12/2019 06:35",
       "term": "A",
       "sector": "",
       "cinta": "3",
       "lF": "003",
       "ruta": "LIM",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -3323,7 +3323,7 @@
       "puerta": "01",
       "ruta": "FLN",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4479,6 +4479,25 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LA",
+      "vuelo": "532",
+      "st": "01/12/2019 18:35",
+      "matricula": "CCBGL",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "038",
+      "chkTo": "053",
       "puerta": "",
       "ruta": "SCL",
       "via": "",
