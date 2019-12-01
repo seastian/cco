@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/12/2019 04:23",
+  "lastUpdate": "01/12/2019 04:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1181,25 +1181,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1873",
-      "st": "30/11/2019 16:15",
-      "matricula": "LVFUB",
-      "posicion": "50A",
-      "et": "30/11/2019 16:30",
-      "at": "30/11/2019 16:26",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "12",
-      "lF": "018",
-      "ruta": "BRC",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "119"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "G3",
       "vuelo": "7690",
       "st": "30/11/2019 16:35",
@@ -1314,25 +1295,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1371",
-      "st": "30/11/2019 19:10",
-      "matricula": "LVFNI",
-      "posicion": "53",
-      "et": "30/11/2019 18:35",
-      "at": "30/11/2019 18:50",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "CUN",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "242"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "JJ",
       "vuelo": "8092",
       "st": "30/11/2019 18:25",
@@ -1349,6 +1311,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "173"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1371",
+      "st": "30/11/2019 19:10",
+      "matricula": "LVFNI",
+      "posicion": "53",
+      "et": "30/11/2019 18:35",
+      "at": "30/11/2019 18:50",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "009",
+      "ruta": "CUN",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "242"
     },
     {
       "tipo": "arribo",
@@ -1523,25 +1504,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "ET",
-      "vuelo": "506",
-      "st": "30/11/2019 20:30",
-      "matricula": "ETARE",
-      "posicion": "16",
-      "et": "30/11/2019 20:29",
-      "at": "30/11/2019 20:37",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "010",
-      "ruta": "ADD",
-      "via": "GRU",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "255"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AU",
       "vuelo": "2601",
       "st": "30/11/2019 20:35",
@@ -1558,6 +1520,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "87"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "ET",
+      "vuelo": "506",
+      "st": "30/11/2019 20:30",
+      "matricula": "ETARE",
+      "posicion": "16",
+      "et": "30/11/2019 20:29",
+      "at": "30/11/2019 20:37",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "010",
+      "ruta": "ADD",
+      "via": "GRU",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "255"
     },
     {
       "tipo": "arribo",
@@ -3277,7 +3258,7 @@
       "matricula": "LVGLP",
       "posicion": "11B",
       "et": "",
-      "at": "",
+      "at": "1/12/2019 04:25",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3285,7 +3266,7 @@
       "puerta": "15",
       "ruta": "LIM",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3323,7 +3304,7 @@
       "puerta": "04",
       "ruta": "VVI",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
