@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/12/2019 03:28",
+  "lastUpdate": "01/12/2019 03:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1162,25 +1162,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "4M",
-      "vuelo": "7901",
-      "st": "30/11/2019 15:47",
-      "matricula": "LVBSJ",
-      "posicion": "02",
-      "et": "30/11/2019 15:37",
-      "at": "30/11/2019 15:32",
-      "term": "A",
-      "sector": "",
-      "cinta": "2",
-      "lF": "005",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "155"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "NZ",
       "vuelo": "30",
       "st": "30/11/2019 16:00",
@@ -1637,25 +1618,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AU",
-      "vuelo": "2601",
-      "st": "30/11/2019 20:35",
-      "matricula": "LVCHR",
-      "posicion": "23B",
-      "et": "30/11/2019 20:29",
-      "at": "30/11/2019 20:32",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "11",
-      "lF": "017",
-      "ruta": "USH",
-      "via": "MDQ",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "87"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "ET",
       "vuelo": "506",
       "st": "30/11/2019 20:30",
@@ -1672,6 +1634,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "255"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AU",
+      "vuelo": "2601",
+      "st": "30/11/2019 20:35",
+      "matricula": "LVCHR",
+      "posicion": "23B",
+      "et": "30/11/2019 20:29",
+      "at": "30/11/2019 20:32",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "11",
+      "lF": "017",
+      "ruta": "USH",
+      "via": "MDQ",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "87"
     },
     {
       "tipo": "arribo",
@@ -3239,7 +3220,7 @@
       "matricula": "PRMHR",
       "posicion": "05",
       "et": "",
-      "at": "",
+      "at": "1/12/2019 03:32",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3247,7 +3228,7 @@
       "puerta": "04",
       "ruta": "LIM",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3285,7 +3266,7 @@
       "puerta": "05",
       "ruta": "SSA",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
