@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/12/2019 05:06",
+  "lastUpdate": "01/12/2019 05:11",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -32,7 +32,7 @@
       "term": "A",
       "sector": "",
       "cinta": "3",
-      "lF": "",
+      "lF": "003",
       "ruta": "LIM",
       "via": "",
       "remark": "EST",
@@ -51,7 +51,7 @@
       "term": "A",
       "sector": "",
       "cinta": "4",
-      "lF": "",
+      "lF": "004",
       "ruta": "NAT",
       "via": "",
       "remark": "EST",
@@ -69,8 +69,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "1",
+      "lF": "006",
       "ruta": "MIA",
       "via": "",
       "remark": "EST",
@@ -3239,7 +3239,7 @@
       "matricula": "LVGOO",
       "posicion": "53A",
       "et": "",
-      "at": "",
+      "at": "1/12/2019 05:07",
       "term": "C",
       "sector": "",
       "chkFrom": "",
@@ -3247,7 +3247,7 @@
       "puerta": "",
       "ruta": "AEP",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3304,7 +3304,7 @@
       "puerta": "19",
       "ruta": "POA",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -4538,6 +4538,25 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "ASU",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "4M",
+      "vuelo": "7508",
+      "st": "01/12/2019 17:10",
+      "matricula": "LVGLP",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "IGR",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
