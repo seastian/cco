@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/12/2019 06:24",
+  "lastUpdate": "04/12/2019 06:30",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -159,7 +159,7 @@
       "vuelo": "8193",
       "st": "04/12/2019 05:15",
       "matricula": "",
-      "posicion": "",
+      "posicion": "55",
       "et": "4/12/2019 07:30",
       "at": "",
       "term": "TCA",
@@ -273,7 +273,7 @@
       "vuelo": "245",
       "st": "04/12/2019 09:10",
       "matricula": "GYMMT",
-      "posicion": "",
+      "posicion": "08",
       "et": "4/12/2019 09:06",
       "at": "",
       "term": "A",
@@ -3693,7 +3693,7 @@
       "vuelo": "8193",
       "st": "04/12/2019 07:20",
       "matricula": "",
-      "posicion": "",
+      "posicion": "55",
       "et": "4/12/2019 08:30",
       "at": "",
       "term": "TCA",
