@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/12/2019 12:11",
+  "lastUpdate": "06/12/2019 12:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3486,7 +3486,7 @@
       "matricula": "LVCAP",
       "posicion": "50B",
       "et": "",
-      "at": "",
+      "at": "6/12/2019 12:13",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3494,7 +3494,7 @@
       "puerta": "25",
       "ruta": "COR",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3532,7 +3532,7 @@
       "puerta": "24",
       "ruta": "MDZ",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3570,7 +3570,7 @@
       "puerta": "13",
       "ruta": "MVD",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3624,10 +3624,10 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "24",
+      "puerta": "25",
       "ruta": "USH",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
