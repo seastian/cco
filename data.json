@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/12/2019 12:26",
+  "lastUpdate": "06/12/2019 12:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2416,25 +2416,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AV",
-      "vuelo": "218",
-      "st": "06/12/2019 00:10",
-      "matricula": "N764AV",
-      "posicion": "02",
-      "et": "",
-      "at": "6/12/2019 00:32",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "013",
-      "chkTo": "015",
-      "puerta": "01",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "M3",
       "vuelo": "8494",
       "st": "06/12/2019 02:10",
@@ -2569,25 +2550,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AOG",
-      "vuelo": "500",
-      "st": "06/12/2019 04:00",
-      "matricula": "CXLSS",
-      "posicion": "59",
-      "et": "",
-      "at": "6/12/2019 04:20",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
       "vuelo": "424",
       "st": "06/12/2019 04:00",
       "matricula": "CXCLS",
@@ -2600,6 +2562,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MVD",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "500",
+      "st": "06/12/2019 04:00",
+      "matricula": "CXLSS",
+      "posicion": "59",
+      "et": "",
+      "at": "6/12/2019 04:20",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "ASU",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -3551,7 +3532,7 @@
       "puerta": "",
       "ruta": "UAE",
       "via": "",
-      "remark": "DEM",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3608,7 +3589,7 @@
       "puerta": "16",
       "ruta": "MAD",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3665,7 +3646,7 @@
       "puerta": "17",
       "ruta": "FCO",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
