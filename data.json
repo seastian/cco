@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/12/2019 13:24",
+  "lastUpdate": "06/12/2019 13:29",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2327,14 +2327,14 @@
       "matricula": "LVCXT",
       "posicion": "22A",
       "et": "6/12/2019 13:14",
-      "at": "",
+      "at": "6/12/2019 13:27",
       "term": "A",
       "sector": "",
       "cinta": "8",
       "lF": "008",
       "ruta": "GRU",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "116"
     },
@@ -2356,25 +2356,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "144"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "CM",
-      "vuelo": "453",
-      "st": "06/12/2019 01:22",
-      "matricula": "HP1729",
-      "posicion": "10",
-      "et": "",
-      "at": "6/12/2019 01:28",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "016",
-      "chkTo": "022",
-      "puerta": "10",
-      "ruta": "PTY",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
@@ -2683,25 +2664,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1230",
-      "st": "06/12/2019 06:00",
-      "matricula": "LVFUC",
-      "posicion": "17B",
-      "et": "",
-      "at": "6/12/2019 06:09",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "21",
-      "ruta": "POA",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "1260",
       "st": "06/12/2019 06:00",
       "matricula": "LVFVN",
@@ -2733,6 +2695,25 @@
       "chkTo": "067",
       "puerta": "04",
       "ruta": "LIM",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1230",
+      "st": "06/12/2019 06:00",
+      "matricula": "LVFUC",
+      "posicion": "17B",
+      "et": "",
+      "at": "6/12/2019 06:09",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "21",
+      "ruta": "POA",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -3570,7 +3551,7 @@
       "puerta": "17",
       "ruta": "FCO",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3627,7 +3608,7 @@
       "puerta": "18",
       "ruta": "CDG",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
