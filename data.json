@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/12/2019 14:58",
+  "lastUpdate": "06/12/2019 15:03",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -60,25 +60,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AD",
-      "vuelo": "8760",
-      "st": "06/12/2019 16:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "CNF",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "NZ",
       "vuelo": "30",
       "st": "06/12/2019 16:00",
@@ -114,6 +95,25 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "138"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AD",
+      "vuelo": "8760",
+      "st": "06/12/2019 16:00",
+      "matricula": "PRYYF",
+      "posicion": "",
+      "et": "6/12/2019 16:09",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "CNF",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "114"
     },
     {
       "tipo": "arribo",
@@ -3266,7 +3266,7 @@
       "puerta": "",
       "ruta": "IGR",
       "via": "",
-      "remark": "CON",
+      "remark": "CAN",
       "sanidad": "NO"
     },
     {
@@ -3619,7 +3619,7 @@
       "matricula": "PRGTT",
       "posicion": "08",
       "et": "6/12/2019 14:50",
-      "at": "",
+      "at": "6/12/2019 15:02",
       "term": "A",
       "sector": "AP",
       "chkFrom": "068",
@@ -3627,7 +3627,7 @@
       "puerta": "07",
       "ruta": "GIG",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3665,7 +3665,7 @@
       "puerta": "17",
       "ruta": "GIG",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3795,7 +3795,7 @@
       "sector": "CPI",
       "chkFrom": "201",
       "chkTo": "220",
-      "puerta": "19",
+      "puerta": "18",
       "ruta": "AMS",
       "via": "",
       "remark": "HOR",
@@ -3921,7 +3921,7 @@
       "vuelo": "BRX",
       "st": "06/12/2019 17:30",
       "matricula": "LVBRX",
-      "posicion": "",
+      "posicion": "40",
       "et": "",
       "at": "",
       "term": "FBO",
