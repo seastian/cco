@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/12/2019 05:25",
+  "lastUpdate": "08/12/2019 05:30",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -19,6 +19,25 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "249"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LP",
+      "vuelo": "2467",
+      "st": "08/12/2019 06:35",
+      "matricula": "CCCXH",
+      "posicion": "06",
+      "et": "8/12/2019 06:05",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "3",
+      "lF": "003",
+      "ruta": "LIM",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -55,25 +74,6 @@
       "ruta": "NAT",
       "via": "",
       "remark": "DEM",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LP",
-      "vuelo": "2467",
-      "st": "08/12/2019 06:35",
-      "matricula": "CCCXH",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
@@ -3462,25 +3462,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1230",
-      "st": "08/12/2019 06:00",
-      "matricula": "LVFVM",
-      "posicion": "18A",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "21",
-      "ruta": "POA",
-      "via": "",
-      "remark": "PRE",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "1260",
       "st": "08/12/2019 06:00",
       "matricula": "LVFYK",
@@ -3495,6 +3476,25 @@
       "ruta": "ASU",
       "via": "",
       "remark": "PRE",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1230",
+      "st": "08/12/2019 06:00",
+      "matricula": "LVFVM",
+      "posicion": "18A",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "21",
+      "ruta": "POA",
+      "via": "",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
