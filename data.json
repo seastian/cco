@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/12/2019 15:00",
+  "lastUpdate": "08/12/2019 15:05",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -32,7 +32,7 @@
       "term": "C",
       "sector": "CAC",
       "cinta": "12",
-      "lF": "",
+      "lF": "018",
       "ruta": "COR",
       "via": "",
       "remark": "EST",
@@ -2312,7 +2312,7 @@
       "term": "A",
       "sector": "",
       "cinta": "1",
-      "lF": "003",
+      "lF": "001",
       "ruta": "LIM",
       "via": "",
       "remark": "ATE",
@@ -3589,7 +3589,7 @@
       "puerta": "06",
       "ruta": "SCL",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
