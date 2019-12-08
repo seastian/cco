@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/12/2019 12:49",
+  "lastUpdate": "08/12/2019 12:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3437,7 +3437,7 @@
       "puerta": "08",
       "ruta": "BCN",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3532,7 +3532,7 @@
       "puerta": "04",
       "ruta": "MAD",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3624,7 +3624,7 @@
       "sector": "CPI",
       "chkFrom": "211",
       "chkTo": "220",
-      "puerta": "19",
+      "puerta": "18",
       "ruta": "CDG",
       "via": "",
       "remark": "HOR",
