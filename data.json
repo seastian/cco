@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/12/2019 17:15",
+  "lastUpdate": "08/12/2019 17:20",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -98,6 +98,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "4M",
+      "vuelo": "7765",
+      "st": "08/12/2019 18:58",
+      "matricula": "LVGUS",
+      "posicion": "",
+      "et": "8/12/2019 18:45",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "BRC",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1371",
       "st": "08/12/2019 19:10",
@@ -114,25 +133,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "154"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "4M",
-      "vuelo": "7765",
-      "st": "08/12/2019 18:58",
-      "matricula": "LVGUS",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "BRC",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -2331,7 +2331,7 @@
       "term": "A",
       "sector": "",
       "cinta": "5",
-      "lF": "",
+      "lF": "004",
       "ruta": "VCP",
       "via": "",
       "remark": "ATE",
@@ -3619,7 +3619,7 @@
       "matricula": "PRMHA",
       "posicion": "02",
       "et": "",
-      "at": "",
+      "at": "8/12/2019 17:18",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3627,7 +3627,7 @@
       "puerta": "01",
       "ruta": "GRU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
