@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/12/2019 00:52",
+  "lastUpdate": "08/12/2019 00:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3684,7 +3684,7 @@
       "puerta": "23",
       "ruta": "MAO",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
