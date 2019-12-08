@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/12/2019 06:41",
+  "lastUpdate": "08/12/2019 06:46",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3385,25 +3385,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AV",
-      "vuelo": "088",
-      "st": "08/12/2019 07:00",
-      "matricula": "N279AV",
-      "posicion": "05",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "059",
-      "chkTo": "067",
-      "puerta": "04",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "BOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AU",
       "vuelo": "2462",
       "st": "08/12/2019 07:00",
@@ -3418,7 +3399,7 @@
       "puerta": "25",
       "ruta": "MDZ",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3437,7 +3418,7 @@
       "puerta": "07",
       "ruta": "SCL",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3455,6 +3436,25 @@
       "chkTo": "074",
       "puerta": "01",
       "ruta": "FLN",
+      "via": "",
+      "remark": "ULT",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AV",
+      "vuelo": "088",
+      "st": "08/12/2019 07:00",
+      "matricula": "N279AV",
+      "posicion": "05",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "059",
+      "chkTo": "067",
+      "puerta": "04",
+      "ruta": "BOG",
       "via": "",
       "remark": "BOR",
       "sanidad": "NO"
@@ -3475,7 +3475,7 @@
       "puerta": "26",
       "ruta": "COR",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
