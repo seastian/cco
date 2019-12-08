@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/12/2019 17:10",
+  "lastUpdate": "08/12/2019 17:15",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2331,7 +2331,7 @@
       "term": "A",
       "sector": "",
       "cinta": "5",
-      "lF": "005",
+      "lF": "",
       "ruta": "VCP",
       "via": "",
       "remark": "ATE",
@@ -3684,7 +3684,7 @@
       "puerta": "05",
       "ruta": "YYZ",
       "via": "SCL",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3703,7 +3703,7 @@
       "puerta": "17",
       "ruta": "POA",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3741,7 +3741,7 @@
       "puerta": "08",
       "ruta": "FRA",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4205,7 +4205,7 @@
       "aerolinea": "IB",
       "vuelo": "6844",
       "st": "08/12/2019 22:30",
-      "matricula": "",
+      "matricula": "ECNDR",
       "posicion": "",
       "et": "",
       "at": "",
