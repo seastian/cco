@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/12/2019 16:32",
+  "lastUpdate": "08/12/2019 16:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3581,7 +3581,7 @@
       "matricula": "PRGUZ",
       "posicion": "06",
       "et": "",
-      "at": "",
+      "at": "8/12/2019 16:35",
       "term": "A",
       "sector": "AP",
       "chkFrom": "068",
@@ -3589,7 +3589,7 @@
       "puerta": "05",
       "ruta": "GRU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3703,7 +3703,7 @@
       "puerta": "18",
       "ruta": "ASU",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
