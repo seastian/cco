@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/12/2019 17:53",
+  "lastUpdate": "08/12/2019 17:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1105,25 +1105,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AV",
-      "vuelo": "087",
-      "st": "08/12/2019 05:30",
-      "matricula": "N279AV",
-      "posicion": "05",
-      "et": "",
-      "at": "8/12/2019 05:57",
-      "term": "A",
-      "sector": "",
-      "cinta": "2",
-      "lF": "002",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "249"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AU",
       "vuelo": "2369",
       "st": "08/12/2019 06:15",
@@ -1581,25 +1562,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "AR",
-      "vuelo": "1249",
-      "st": "08/12/2019 09:55",
-      "matricula": "LVCXS",
-      "posicion": "22A",
-      "et": "8/12/2019 09:47",
-      "at": "8/12/2019 09:54",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "008",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "106"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
       "vuelo": "1257",
       "st": "08/12/2019 09:55",
       "matricula": "LVFRQ",
@@ -1615,6 +1577,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "142"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1249",
+      "st": "08/12/2019 09:55",
+      "matricula": "LVCXS",
+      "posicion": "22A",
+      "et": "8/12/2019 09:47",
+      "at": "8/12/2019 09:54",
+      "term": "A",
+      "sector": "",
+      "cinta": "8",
+      "lF": "008",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "106"
     },
     {
       "tipo": "arribo",
@@ -2384,14 +2365,14 @@
       "matricula": "LVCXS",
       "posicion": "25B",
       "et": "8/12/2019 17:50",
-      "at": "",
+      "at": "8/12/2019 17:56",
       "term": "A",
       "sector": "",
       "cinta": "6",
       "lF": "007",
       "ruta": "GRU",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "130"
     },
@@ -3722,7 +3703,7 @@
       "puerta": "08",
       "ruta": "FRA",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3779,7 +3760,7 @@
       "puerta": "16",
       "ruta": "CWB",
       "via": "",
-      "remark": "PRE",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
