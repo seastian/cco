@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/12/2019 01:41",
+  "lastUpdate": "09/12/2019 01:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -64,7 +64,7 @@
       "vuelo": "1133",
       "st": "09/12/2019 04:20",
       "matricula": "LVFPV",
-      "posicion": "",
+      "posicion": "13",
       "et": "9/12/2019 03:31",
       "at": "",
       "term": "A",
@@ -76,25 +76,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "223"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "ES",
-      "vuelo": "8569",
-      "st": "09/12/2019 04:20",
-      "matricula": "9HFOX",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "CCS",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -159,7 +140,7 @@
       "vuelo": "1305",
       "st": "09/12/2019 04:40",
       "matricula": "LVGHQ",
-      "posicion": "",
+      "posicion": "12",
       "et": "9/12/2019 04:34",
       "at": "",
       "term": "A",
@@ -380,6 +361,25 @@
       "remark": "DEM",
       "sanidad": "NO",
       "pax": "272"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "4M",
+      "vuelo": "7821",
+      "st": "09/12/2019 07:25",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "CAN",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
