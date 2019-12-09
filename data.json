@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/12/2019 03:04",
+  "lastUpdate": "09/12/2019 03:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2592,15 +2592,15 @@
       "st": "09/12/2019 02:45",
       "matricula": "CP2716",
       "posicion": "03",
-      "et": "9/12/2019 02:50",
-      "at": "",
+      "et": "",
+      "at": "9/12/2019 03:06",
       "term": "A",
       "sector": "",
       "cinta": "2",
       "lF": "002",
       "ruta": "VVI",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
