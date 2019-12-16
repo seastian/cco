@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/12/2019 12:49",
+  "lastUpdate": "16/12/2019 12:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -19,6 +19,25 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "78"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "G3",
+      "vuelo": "7682",
+      "st": "16/12/2019 13:35",
+      "matricula": "PRVBU",
+      "posicion": "04",
+      "et": "16/12/2019 13:20",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "2",
+      "lF": "002",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "122"
     },
     {
       "tipo": "arribo",
@@ -57,25 +76,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "146"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7682",
-      "st": "16/12/2019 13:35",
-      "matricula": "PRVBU",
-      "posicion": "04",
-      "et": "16/12/2019 13:35",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "2",
-      "lF": "002",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "122"
     },
     {
       "tipo": "arribo",
@@ -3817,7 +3817,7 @@
       "puerta": "19",
       "ruta": "BCN",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3928,7 +3928,7 @@
       "sector": "AP",
       "chkFrom": "007",
       "chkTo": "012",
-      "puerta": "09",
+      "puerta": "08",
       "ruta": "LHR",
       "via": "",
       "remark": "HOR",
