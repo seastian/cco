@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/12/2019 15:26",
+  "lastUpdate": "16/12/2019 15:31",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -19,25 +19,6 @@
       "remark": "DEM",
       "sanidad": "NO",
       "pax": "124"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "4M",
-      "vuelo": "7901",
-      "st": "16/12/2019 15:47",
-      "matricula": "LVGUS",
-      "posicion": "51A",
-      "et": "16/12/2019 15:35",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "2",
-      "lF": "002",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "100"
     },
     {
       "tipo": "arribo",
@@ -350,7 +331,7 @@
       "st": "16/12/2019 18:25",
       "matricula": "PRMHK",
       "posicion": "",
-      "et": "",
+      "et": "16/12/2019 18:16",
       "at": "",
       "term": "A",
       "sector": "",
@@ -358,9 +339,9 @@
       "lF": "",
       "ruta": "GIG",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "167"
     },
     {
       "tipo": "arribo",
@@ -630,25 +611,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AU",
-      "vuelo": "2601",
-      "st": "16/12/2019 20:40",
-      "matricula": "LVCDY",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "USH",
-      "via": "MDQ",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "EK",
       "vuelo": "247",
       "st": "16/12/2019 20:40",
@@ -681,6 +643,25 @@
       "lF": "",
       "ruta": "ASU",
       "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AU",
+      "vuelo": "2601",
+      "st": "16/12/2019 20:40",
+      "matricula": "LVCDY",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "USH",
+      "via": "MDQ",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
@@ -2567,6 +2548,25 @@
       "pax": "123"
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "4M",
+      "vuelo": "7901",
+      "st": "16/12/2019 15:47",
+      "matricula": "LVGUS",
+      "posicion": "51A",
+      "et": "16/12/2019 15:35",
+      "at": "16/12/2019 15:28",
+      "term": "A",
+      "sector": "",
+      "cinta": "2",
+      "lF": "002",
+      "ruta": "LIM",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "100"
+    },
+    {
       "tipo": "partida",
       "aerolinea": "JJ",
       "vuelo": "8010",
@@ -3950,7 +3950,7 @@
       "puerta": "12",
       "ruta": "GRU",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
