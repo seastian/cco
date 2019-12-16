@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/12/2019 19:32",
+  "lastUpdate": "16/12/2019 19:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2365,14 +2365,14 @@
       "matricula": "LVBMS",
       "posicion": "H15",
       "et": "",
-      "at": "",
+      "at": "16/12/2019 19:25",
       "term": "FBO",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "APO",
       "via": "",
-      "remark": "HOR",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "5"
     },
@@ -3866,7 +3866,7 @@
       "matricula": "PRMHK",
       "posicion": "08",
       "et": "",
-      "at": "",
+      "at": "16/12/2019 19:37",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3874,7 +3874,7 @@
       "puerta": "07",
       "ruta": "GRU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
