@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/12/2019 03:33",
+  "lastUpdate": "17/12/2019 03:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -103,7 +103,7 @@
       "st": "17/12/2019 05:00",
       "matricula": "LVCXS",
       "posicion": "18A",
-      "et": "",
+      "et": "17/12/2019 05:09",
       "at": "",
       "term": "A",
       "sector": "",
@@ -111,9 +111,9 @@
       "lF": "",
       "ruta": "LIM",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "141"
     },
     {
       "tipo": "arribo",
@@ -1140,25 +1140,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "H2",
-      "vuelo": "507",
-      "st": "16/12/2019 14:45",
-      "matricula": "CCAID",
-      "posicion": "05",
-      "et": "16/12/2019 15:35",
-      "at": "16/12/2019 15:36",
-      "term": "A",
-      "sector": "",
-      "cinta": "6",
-      "lF": "010",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "124"
     },
     {
       "tipo": "arribo",
