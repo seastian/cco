@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/12/2019 01:53",
+  "lastUpdate": "17/12/2019 01:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -83,7 +83,7 @@
       "vuelo": "1301",
       "st": "17/12/2019 04:30",
       "matricula": "LVGKO",
-      "posicion": "",
+      "posicion": "14",
       "et": "17/12/2019 04:34",
       "at": "",
       "term": "A",
