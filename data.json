@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/12/2019 12:41",
+  "lastUpdate": "18/12/2019 12:46",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3619,7 +3619,7 @@
       "matricula": "PTMXP",
       "posicion": "03",
       "et": "",
-      "at": "",
+      "at": "18/12/2019 12:46",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3627,7 +3627,7 @@
       "puerta": "02",
       "ruta": "GRU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
