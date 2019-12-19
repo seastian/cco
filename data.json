@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/12/2019 10:32",
+  "lastUpdate": "19/12/2019 10:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2650,14 +2650,14 @@
       "matricula": "LVGAQ",
       "posicion": "25A",
       "et": "19/12/2019 10:30",
-      "at": "",
+      "at": "19/12/2019 10:34",
       "term": "A",
       "sector": "",
       "cinta": "7",
       "lF": "009",
       "ruta": "ASU",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "82"
     },
