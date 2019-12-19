@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/12/2019 00:16",
+  "lastUpdate": "19/12/2019 00:21",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1159,25 +1159,6 @@
       "remark": "HOR",
       "sanidad": "NO",
       "pax": "0"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AD",
-      "vuelo": "8766",
-      "st": "18/12/2019 12:30",
-      "matricula": "PRYRX",
-      "posicion": "02",
-      "et": "18/12/2019 12:19",
-      "at": "18/12/2019 12:19",
-      "term": "A",
-      "sector": "",
-      "cinta": "2",
-      "lF": "003",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "122"
     },
     {
       "tipo": "arribo",
