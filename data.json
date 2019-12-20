@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/12/2019 20:17",
+  "lastUpdate": "20/12/2019 20:23",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1129,7 +1129,7 @@
       "st": "21/12/2019 08:25",
       "matricula": "ECNBE",
       "posicion": "",
-      "et": "21/12/2019 07:58",
+      "et": "21/12/2019 07:57",
       "at": "",
       "term": "A",
       "sector": "",
@@ -2558,7 +2558,7 @@
       "at": "20/12/2019 20:09",
       "term": "",
       "sector": "",
-      "cinta": "",
+      "cinta": "6",
       "lF": "007",
       "ruta": "EZE",
       "via": "",
@@ -3942,7 +3942,7 @@
       "matricula": "LVGGQ",
       "posicion": "17A",
       "et": "20/12/2019 19:55",
-      "at": "",
+      "at": "20/12/2019 20:20",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3950,7 +3950,7 @@
       "puerta": "19",
       "ruta": "GRU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -4007,7 +4007,7 @@
       "puerta": "02",
       "ruta": "SCL",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4064,7 +4064,7 @@
       "puerta": "10",
       "ruta": "MIA",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4194,7 +4194,7 @@
       "sector": "AP",
       "chkFrom": "041",
       "chkTo": "053",
-      "puerta": "",
+      "puerta": "03",
       "ruta": "MIA",
       "via": "",
       "remark": "HOR",
@@ -4232,7 +4232,7 @@
       "sector": "AP",
       "chkFrom": "001",
       "chkTo": "020",
-      "puerta": "",
+      "puerta": "09",
       "ruta": "JFK",
       "via": "",
       "remark": "HOR",
@@ -4365,7 +4365,7 @@
       "sector": "AP",
       "chkFrom": "001",
       "chkTo": "020",
-      "puerta": "",
+      "puerta": "10",
       "ruta": "MIA",
       "via": "",
       "remark": "HOR",
