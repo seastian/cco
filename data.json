@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/12/2019 00:54",
+  "lastUpdate": "21/12/2019 00:59",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3081,25 +3081,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1244",
-      "st": "20/12/2019 15:45",
-      "matricula": "LVFVN",
-      "posicion": "17B",
-      "et": "",
-      "at": "20/12/2019 16:30",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "19",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "PRV",
       "vuelo": "VJT80",
       "st": "20/12/2019 16:00",
@@ -4102,7 +4083,7 @@
       "puerta": "16",
       "ruta": "AEP",
       "via": "",
-      "remark": "DEM",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4197,7 +4178,7 @@
       "puerta": "07",
       "ruta": "PTY",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -5488,6 +5469,25 @@
       "chkTo": "040",
       "puerta": "",
       "ruta": "MEX",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "IB_",
+      "vuelo": "2602",
+      "st": "21/12/2019 13:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "027",
+      "chkTo": "032",
+      "puerta": "",
+      "ruta": "BCN",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
