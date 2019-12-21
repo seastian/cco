@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/12/2019 22:52",
+  "lastUpdate": "20/12/2019 22:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -126,13 +126,32 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "1",
+      "lF": "001",
       "ruta": "PTY",
       "via": "",
       "remark": "EST",
       "sanidad": "NO",
       "pax": "150"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "JJ",
+      "vuelo": "8010",
+      "st": "21/12/2019 00:00",
+      "matricula": "PRMAZ",
+      "posicion": "",
+      "et": "20/12/2019 23:50",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -169,25 +188,6 @@
       "ruta": "SLA",
       "via": "",
       "remark": "DEM",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8010",
-      "st": "21/12/2019 00:00",
-      "matricula": "PRMAZ",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
@@ -2612,14 +2612,14 @@
       "matricula": "PRMHQ",
       "posicion": "09",
       "et": "20/12/2019 22:50",
-      "at": "",
+      "at": "20/12/2019 22:56",
       "term": "A",
       "sector": "",
       "cinta": "3",
       "lF": "003",
       "ruta": "GRU",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "170"
     },
@@ -3969,7 +3969,7 @@
       "puerta": "02",
       "ruta": "MAD",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4083,7 +4083,7 @@
       "puerta": "17",
       "ruta": "MIA",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4140,7 +4140,7 @@
       "puerta": "18",
       "ruta": "JFK",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4254,7 +4254,7 @@
       "puerta": "16",
       "ruta": "MAD",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
