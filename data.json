@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/12/2019 14:46",
+  "lastUpdate": "21/12/2019 14:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2631,14 +2631,14 @@
       "matricula": "LVCID",
       "posicion": "25A",
       "et": "",
-      "at": "",
+      "at": "21/12/2019 14:47",
       "term": "A",
       "sector": "",
       "cinta": "6",
       "lF": "008",
       "ruta": "MVD",
       "via": "",
-      "remark": "CON",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -3803,25 +3803,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1698",
-      "st": "21/12/2019 12:25",
-      "matricula": "LVGGK",
-      "posicion": "17B",
-      "et": "",
-      "at": "21/12/2019 13:21",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "25",
-      "ruta": "BRC",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "JJ",
       "vuelo": "8009",
       "st": "21/12/2019 12:25",
@@ -3835,6 +3816,25 @@
       "chkTo": "053",
       "puerta": "12",
       "ruta": "GRU",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1698",
+      "st": "21/12/2019 12:25",
+      "matricula": "LVGGK",
+      "posicion": "17B",
+      "et": "",
+      "at": "21/12/2019 13:21",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "25",
+      "ruta": "BRC",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -4018,7 +4018,7 @@
       "matricula": "GYMMA",
       "posicion": "06",
       "et": "",
-      "at": "",
+      "at": "21/12/2019 14:51",
       "term": "A",
       "sector": "AP",
       "chkFrom": "006",
@@ -4026,7 +4026,7 @@
       "puerta": "05",
       "ruta": "LHR",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
