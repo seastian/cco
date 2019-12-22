@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/12/2019 14:28",
+  "lastUpdate": "22/12/2019 14:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3695,7 +3695,7 @@
       "matricula": "PRGTE",
       "posicion": "07",
       "et": "",
-      "at": "",
+      "at": "22/12/2019 14:33",
       "term": "A",
       "sector": "AP",
       "chkFrom": "068",
@@ -3703,7 +3703,7 @@
       "puerta": "06",
       "ruta": "GIG",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3779,7 +3779,7 @@
       "puerta": "18",
       "ruta": "FLN",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3817,7 +3817,7 @@
       "puerta": "17",
       "ruta": "GIG",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
