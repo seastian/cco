@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/12/2019 12:35",
+  "lastUpdate": "22/12/2019 12:40",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1409,25 +1409,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7702",
-      "st": "22/12/2019 00:55",
-      "matricula": "PRGUZ",
-      "posicion": "08",
-      "et": "22/12/2019 01:05",
-      "at": "22/12/2019 00:39",
-      "term": "A",
-      "sector": "",
-      "cinta": "2",
-      "lF": "001",
-      "ruta": "JPA",
-      "via": "MCZ",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "138"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "JJ",
       "vuelo": "8010",
       "st": "22/12/2019 00:00",
@@ -2131,25 +2112,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1269",
-      "st": "22/12/2019 09:55",
-      "matricula": "LVFQB",
-      "posicion": "22A",
-      "et": "22/12/2019 09:28",
-      "at": "22/12/2019 09:24",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "CWB",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "125"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "G3",
       "vuelo": "7680",
       "st": "22/12/2019 09:30",
@@ -2166,6 +2128,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "112"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1269",
+      "st": "22/12/2019 09:55",
+      "matricula": "LVFQB",
+      "posicion": "22A",
+      "et": "22/12/2019 09:28",
+      "at": "22/12/2019 09:24",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "009",
+      "ruta": "CWB",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "125"
     },
     {
       "tipo": "arribo",
@@ -2227,25 +2208,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "AA",
-      "vuelo": "997",
-      "st": "22/12/2019 08:42",
-      "matricula": "N753AN",
-      "posicion": "06",
-      "et": "22/12/2019 10:25",
-      "at": "22/12/2019 10:23",
-      "term": "A",
-      "sector": "",
-      "cinta": "4",
-      "lF": "006",
-      "ruta": "DFW",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "271"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AA",
       "vuelo": "931",
       "st": "22/12/2019 09:28",
       "matricula": "N718AN",
@@ -2261,6 +2223,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "304"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AA",
+      "vuelo": "997",
+      "st": "22/12/2019 08:42",
+      "matricula": "N753AN",
+      "posicion": "06",
+      "et": "22/12/2019 10:25",
+      "at": "22/12/2019 10:23",
+      "term": "A",
+      "sector": "",
+      "cinta": "4",
+      "lF": "006",
+      "ruta": "DFW",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "271"
     },
     {
       "tipo": "arribo",
@@ -2397,25 +2378,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1223",
-      "st": "22/12/2019 11:30",
-      "matricula": "LVFXQ",
-      "posicion": "18B",
-      "et": "22/12/2019 11:31",
-      "at": "22/12/2019 11:30",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "007",
-      "ruta": "BPS",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "112"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "UX",
       "vuelo": "041",
       "st": "22/12/2019 08:50",
@@ -2432,6 +2394,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "313"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1223",
+      "st": "22/12/2019 11:30",
+      "matricula": "LVFXQ",
+      "posicion": "18B",
+      "et": "22/12/2019 11:31",
+      "at": "22/12/2019 11:30",
+      "term": "A",
+      "sector": "",
+      "cinta": "7",
+      "lF": "007",
+      "ruta": "BPS",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "112"
     },
     {
       "tipo": "arribo",
@@ -3570,7 +3551,7 @@
       "puerta": "25",
       "ruta": "BRC",
       "via": "",
-      "remark": "PRE",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3608,7 +3589,7 @@
       "puerta": "27",
       "ruta": "USH",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3646,7 +3627,7 @@
       "puerta": "09",
       "ruta": "BCN",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3684,7 +3665,7 @@
       "puerta": "07",
       "ruta": "VCP",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
