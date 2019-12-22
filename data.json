@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/12/2019 12:30",
+  "lastUpdate": "22/12/2019 12:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3505,7 +3505,7 @@
       "matricula": "LVFVO",
       "posicion": "18A",
       "et": "",
-      "at": "",
+      "at": "22/12/2019 12:18",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3513,7 +3513,7 @@
       "puerta": "24",
       "ruta": "FTE",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3581,7 +3581,7 @@
       "matricula": "PTXPG",
       "posicion": "02",
       "et": "",
-      "at": "",
+      "at": "22/12/2019 12:33",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3589,7 +3589,7 @@
       "puerta": "01",
       "ruta": "GRU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3646,7 +3646,7 @@
       "puerta": "09",
       "ruta": "BCN",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3665,7 +3665,7 @@
       "puerta": "22",
       "ruta": "MAD",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
