@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/12/2019 03:31",
+  "lastUpdate": "22/12/2019 03:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -519,7 +519,7 @@
       "aerolinea": "JJ",
       "vuelo": "8012",
       "st": "22/12/2019 09:15",
-      "matricula": "PRMHQ",
+      "matricula": "PRMHR",
       "posicion": "",
       "et": "",
       "at": "",
@@ -1238,25 +1238,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "4M",
-      "vuelo": "7901",
-      "st": "21/12/2019 15:47",
-      "matricula": "LVGUS",
-      "posicion": "50A",
-      "et": "21/12/2019 15:38",
-      "at": "21/12/2019 15:32",
-      "term": "A",
-      "sector": "",
-      "cinta": "2",
-      "lF": "002",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AC",
       "vuelo": "092",
       "st": "21/12/2019 14:30",
@@ -1561,6 +1542,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "LP",
+      "vuelo": "2429",
+      "st": "21/12/2019 18:47",
+      "matricula": "CCBFW",
+      "posicion": "03",
+      "et": "21/12/2019 18:50",
+      "at": "21/12/2019 19:04",
+      "term": "A",
+      "sector": "",
+      "cinta": "5",
+      "lF": "002",
+      "ruta": "LIM",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "150"
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "4M",
       "vuelo": "7737",
       "st": "21/12/2019 18:53",
@@ -1580,22 +1580,22 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "LP",
-      "vuelo": "2429",
-      "st": "21/12/2019 18:47",
-      "matricula": "CCBFW",
-      "posicion": "03",
-      "et": "21/12/2019 18:50",
-      "at": "21/12/2019 19:04",
+      "aerolinea": "AR",
+      "vuelo": "1303",
+      "st": "21/12/2019 19:30",
+      "matricula": "LVFNJ",
+      "posicion": "15",
+      "et": "21/12/2019 18:59",
+      "at": "21/12/2019 19:10",
       "term": "A",
       "sector": "",
-      "cinta": "5",
-      "lF": "002",
-      "ruta": "LIM",
+      "cinta": "8",
+      "lF": "008",
+      "ruta": "MIA",
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": "150"
+      "pax": "270"
     },
     {
       "tipo": "arribo",
@@ -3703,7 +3703,7 @@
       "puerta": "01",
       "ruta": "REC",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3779,7 +3779,7 @@
       "puerta": "10",
       "ruta": "BSB",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -4471,7 +4471,7 @@
       "aerolinea": "JJ",
       "vuelo": "8093",
       "st": "22/12/2019 10:05",
-      "matricula": "PRMHQ",
+      "matricula": "PRMHR",
       "posicion": "",
       "et": "",
       "at": "",
