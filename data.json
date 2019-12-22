@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/12/2019 12:40",
+  "lastUpdate": "22/12/2019 12:45",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3233,25 +3233,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "H2",
-      "vuelo": "502",
-      "st": "22/12/2019 09:50",
-      "matricula": "CCAFY",
-      "posicion": "04",
-      "et": "",
-      "at": "22/12/2019 10:06",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "079",
-      "chkTo": "081",
-      "puerta": "03",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "4M",
       "vuelo": "7732",
       "st": "22/12/2019 09:50",
@@ -3265,6 +3246,25 @@
       "chkTo": "053",
       "puerta": "24",
       "ruta": "FTE",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "H2",
+      "vuelo": "502",
+      "st": "22/12/2019 09:50",
+      "matricula": "CCAFY",
+      "posicion": "04",
+      "et": "",
+      "at": "22/12/2019 10:06",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "079",
+      "chkTo": "081",
+      "puerta": "03",
+      "ruta": "SCL",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -3646,7 +3646,7 @@
       "puerta": "22",
       "ruta": "MAD",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
