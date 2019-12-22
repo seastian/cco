@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/12/2019 14:33",
+  "lastUpdate": "22/12/2019 14:39",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3689,25 +3689,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "G3",
-      "vuelo": "7653",
-      "st": "22/12/2019 14:15",
-      "matricula": "PRGTE",
-      "posicion": "07",
-      "et": "",
-      "at": "22/12/2019 14:33",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "068",
-      "chkTo": "074",
-      "puerta": "06",
-      "ruta": "GIG",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "BA",
       "vuelo": "244",
       "st": "22/12/2019 14:15",
@@ -3723,6 +3704,25 @@
       "ruta": "LHR",
       "via": "",
       "remark": "CER",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "G3",
+      "vuelo": "7653",
+      "st": "22/12/2019 14:15",
+      "matricula": "PRGTE",
+      "posicion": "07",
+      "et": "",
+      "at": "22/12/2019 14:33",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "068",
+      "chkTo": "074",
+      "puerta": "06",
+      "ruta": "GIG",
+      "via": "",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
