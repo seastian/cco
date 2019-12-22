@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/12/2019 12:50",
+  "lastUpdate": "22/12/2019 12:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3646,7 +3646,7 @@
       "puerta": "07",
       "ruta": "VCP",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4833,14 +4833,14 @@
       "vuelo": "908",
       "st": "22/12/2019 23:40",
       "matricula": "N791AN",
-      "posicion": "11",
+      "posicion": "34",
       "et": "",
       "at": "",
       "term": "A",
       "sector": "AP",
       "chkFrom": "001",
       "chkTo": "020",
-      "puerta": "14",
+      "puerta": "",
       "ruta": "MIA",
       "via": "",
       "remark": "HOR",
