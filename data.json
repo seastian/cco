@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/12/2019 10:44",
+  "lastUpdate": "22/12/2019 10:50",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1410,25 +1410,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "JJ",
-      "vuelo": "8014",
-      "st": "21/12/2019 23:05",
-      "matricula": "PRMBF",
-      "posicion": "56B",
-      "et": "21/12/2019 22:35",
-      "at": "21/12/2019 22:46",
-      "term": "A",
-      "sector": "",
-      "cinta": "4",
-      "lF": "004",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "JJ",
       "vuelo": "8096",
       "st": "21/12/2019 22:50",
       "matricula": "PRTYA",
@@ -2403,14 +2384,14 @@
       "matricula": "LVFVO",
       "posicion": "18A",
       "et": "22/12/2019 10:37",
-      "at": "",
+      "at": "22/12/2019 10:47",
       "term": "A",
       "sector": "",
       "cinta": "7",
       "lF": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "81"
     },
@@ -3722,7 +3703,7 @@
       "puerta": "03",
       "ruta": "PTY",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3760,7 +3741,7 @@
       "puerta": "02",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
