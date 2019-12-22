@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/12/2019 12:45",
+  "lastUpdate": "22/12/2019 12:50",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1390,25 +1390,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7452",
-      "st": "22/12/2019 00:25",
-      "matricula": "PRGEC",
-      "posicion": "07",
-      "et": "22/12/2019 00:50",
-      "at": "22/12/2019 00:48",
-      "term": "A",
-      "sector": "",
-      "cinta": "3",
-      "lF": "002",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "127"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "JJ",
       "vuelo": "8010",
       "st": "22/12/2019 00:00",
@@ -2112,25 +2093,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7680",
-      "st": "22/12/2019 09:30",
-      "matricula": "PRGUX",
-      "posicion": "50A",
-      "et": "22/12/2019 09:28",
-      "at": "22/12/2019 08:58",
-      "term": "A",
-      "sector": "",
-      "cinta": "2",
-      "lF": "003",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "112"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1269",
       "st": "22/12/2019 09:55",
@@ -2147,6 +2109,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "125"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "G3",
+      "vuelo": "7680",
+      "st": "22/12/2019 09:30",
+      "matricula": "PRGUX",
+      "posicion": "50A",
+      "et": "22/12/2019 09:28",
+      "at": "22/12/2019 08:58",
+      "term": "A",
+      "sector": "",
+      "cinta": "2",
+      "lF": "003",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "112"
     },
     {
       "tipo": "arribo",
@@ -2378,25 +2359,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "UX",
-      "vuelo": "041",
-      "st": "22/12/2019 08:50",
-      "matricula": "ECNCY",
-      "posicion": "05",
-      "et": "22/12/2019 11:31",
-      "at": "22/12/2019 11:37",
-      "term": "A",
-      "sector": "",
-      "cinta": "6",
-      "lF": "007",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "313"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1223",
       "st": "22/12/2019 11:30",
@@ -2413,6 +2375,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "112"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "UX",
+      "vuelo": "041",
+      "st": "22/12/2019 08:50",
+      "matricula": "ECNCY",
+      "posicion": "05",
+      "et": "22/12/2019 11:31",
+      "at": "22/12/2019 11:37",
+      "term": "A",
+      "sector": "",
+      "cinta": "6",
+      "lF": "007",
+      "ruta": "MAD",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "313"
     },
     {
       "tipo": "arribo",
@@ -3665,7 +3646,7 @@
       "puerta": "07",
       "ruta": "VCP",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3684,7 +3665,7 @@
       "puerta": "04",
       "ruta": "MAD",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
