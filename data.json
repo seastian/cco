@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/12/2019 06:47",
+  "lastUpdate": "22/12/2019 06:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -221,7 +221,7 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
+      "cinta": "4",
       "lF": "",
       "ruta": "MAD",
       "via": "",
@@ -1371,25 +1371,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "4M",
-      "vuelo": "7737",
-      "st": "21/12/2019 18:53",
-      "matricula": "LVGLP",
-      "posicion": "50A",
-      "et": "21/12/2019 18:50",
-      "at": "21/12/2019 18:52",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "11",
-      "lF": "018",
-      "ruta": "FTE",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "158"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1303",
       "st": "21/12/2019 19:30",
@@ -1713,25 +1694,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1287",
-      "st": "21/12/2019 21:15",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "CAN",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AU",
       "vuelo": "2287",
       "st": "21/12/2019 21:15",
@@ -1748,6 +1710,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "93"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1287",
+      "st": "21/12/2019 21:15",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "CAN",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -2426,7 +2407,7 @@
       "term": "A",
       "sector": "",
       "cinta": "4",
-      "lF": "004",
+      "lF": "003",
       "ruta": "BOG",
       "via": "",
       "remark": "ATE",
@@ -3562,7 +3543,7 @@
       "matricula": "LVGOO",
       "posicion": "17B",
       "et": "",
-      "at": "",
+      "at": "22/12/2019 06:49",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3570,7 +3551,7 @@
       "puerta": "24",
       "ruta": "SLA",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3608,7 +3589,7 @@
       "puerta": "05",
       "ruta": "FLN",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3646,7 +3627,7 @@
       "puerta": "10",
       "ruta": "BOG",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
