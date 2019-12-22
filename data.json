@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/12/2019 14:08",
+  "lastUpdate": "22/12/2019 14:13",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2422,35 +2422,16 @@
       "matricula": "CP3017",
       "posicion": "04",
       "et": "22/12/2019 14:05",
-      "at": "",
+      "at": "22/12/2019 14:11",
       "term": "A",
       "sector": "",
       "cinta": "4",
       "lF": "004",
       "ruta": "VVI",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "186"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "M3",
-      "vuelo": "8496",
-      "st": "22/12/2019 02:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
@@ -2701,25 +2682,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AV",
-      "vuelo": "964",
-      "st": "22/12/2019 06:00",
-      "matricula": "N279AV",
-      "posicion": "09",
-      "et": "",
-      "at": "22/12/2019 06:14",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "038",
-      "chkTo": "038",
-      "puerta": "09",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AU",
       "vuelo": "2230",
       "st": "22/12/2019 06:00",
@@ -2733,6 +2695,25 @@
       "chkTo": "240",
       "puerta": "19",
       "ruta": "POA",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AV",
+      "vuelo": "964",
+      "st": "22/12/2019 06:00",
+      "matricula": "N279AV",
+      "posicion": "09",
+      "et": "",
+      "at": "22/12/2019 06:14",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "038",
+      "chkTo": "038",
+      "puerta": "09",
+      "ruta": "LIM",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -3741,7 +3722,7 @@
       "puerta": "06",
       "ruta": "GIG",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3779,7 +3760,7 @@
       "puerta": "02",
       "ruta": "MAD",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3798,7 +3779,7 @@
       "puerta": "18",
       "ruta": "FLN",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
