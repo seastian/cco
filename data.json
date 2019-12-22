@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/12/2019 08:15",
+  "lastUpdate": "22/12/2019 08:20",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3562,7 +3562,7 @@
       "matricula": "LVCHO",
       "posicion": "52B",
       "et": "",
-      "at": "",
+      "at": "22/12/2019 08:17",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3570,7 +3570,7 @@
       "puerta": "27",
       "ruta": "ROS",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3741,7 +3741,7 @@
       "puerta": "14",
       "ruta": "SCL",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
