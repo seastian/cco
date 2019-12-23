@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/12/2019 00:35",
+  "lastUpdate": "23/12/2019 00:40",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -82,9 +82,9 @@
       "aerolinea": "OB",
       "vuelo": "700",
       "st": "23/12/2019 02:45",
-      "matricula": "",
+      "matricula": "CP2716",
       "posicion": "",
-      "et": "",
+      "et": "23/12/2019 03:30",
       "at": "",
       "term": "A",
       "sector": "",
@@ -92,9 +92,9 @@
       "lF": "",
       "ruta": "VVI",
       "via": "",
-      "remark": "",
+      "remark": "DEM",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "122"
     },
     {
       "tipo": "arribo",
@@ -3923,7 +3923,7 @@
       "matricula": "N791AN",
       "posicion": "09",
       "et": "",
-      "at": "",
+      "at": "23/12/2019 00:37",
       "term": "A",
       "sector": "AP",
       "chkFrom": "001",
@@ -3931,7 +3931,7 @@
       "puerta": "08",
       "ruta": "MIA",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3999,7 +3999,7 @@
       "matricula": "PRMAP",
       "posicion": "06",
       "et": "22/12/2019 23:55",
-      "at": "",
+      "at": "23/12/2019 00:20",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -4007,7 +4007,7 @@
       "puerta": "05",
       "ruta": "ASU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -4075,7 +4075,7 @@
       "matricula": "N818AV",
       "posicion": "04",
       "et": "",
-      "at": "",
+      "at": "23/12/2019 00:30",
       "term": "A",
       "sector": "AP",
       "chkFrom": "012",
@@ -4083,7 +4083,7 @@
       "puerta": "03",
       "ruta": "BOG",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -4281,7 +4281,7 @@
       "aerolinea": "OB",
       "vuelo": "701",
       "st": "23/12/2019 04:45",
-      "matricula": "",
+      "matricula": "CP2716",
       "posicion": "",
       "et": "",
       "at": "",
