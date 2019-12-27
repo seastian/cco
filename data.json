@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/12/2019 07:30",
+  "lastUpdate": "27/12/2019 07:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -46,7 +46,7 @@
       "st": "27/12/2019 09:10",
       "matricula": "GYMMR",
       "posicion": "08",
-      "et": "27/12/2019 08:44",
+      "et": "27/12/2019 08:40",
       "at": "",
       "term": "A",
       "sector": "",
@@ -98,6 +98,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "H2",
+      "vuelo": "501",
+      "st": "27/12/2019 09:15",
+      "matricula": "CCAHD",
+      "posicion": "",
+      "et": "27/12/2019 09:00",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "164"
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "AF",
       "vuelo": "228",
       "st": "27/12/2019 09:50",
@@ -114,25 +133,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "308"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "H2",
-      "vuelo": "501",
-      "st": "27/12/2019 09:15",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -2150,6 +2150,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1365",
+      "st": "27/12/2019 05:00",
+      "matricula": "LVFQZ",
+      "posicion": "18A",
+      "et": "",
+      "at": "27/12/2019 07:35",
+      "term": "A",
+      "sector": "",
+      "cinta": "8",
+      "lF": "008",
+      "ruta": "LIM",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "156"
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "AV",
       "vuelo": "087",
       "st": "27/12/2019 05:30",
@@ -2299,25 +2318,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "91"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1365",
-      "st": "27/12/2019 05:00",
-      "matricula": "LVFQZ",
-      "posicion": "18A",
-      "et": "27/12/2019 07:15",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "008",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": "156"
     },
     {
       "tipo": "arribo",
@@ -3494,7 +3494,7 @@
       "puerta": "12",
       "ruta": "GIG",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3551,7 +3551,7 @@
       "puerta": "25",
       "ruta": "COR",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3570,7 +3570,7 @@
       "puerta": "24",
       "ruta": "ROS",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3711,7 +3711,7 @@
       "aerolinea": "H2",
       "vuelo": "502",
       "st": "27/12/2019 09:50",
-      "matricula": "",
+      "matricula": "CCAHD",
       "posicion": "",
       "et": "",
       "at": "",
