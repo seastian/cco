@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/12/2019 01:35",
+  "lastUpdate": "27/12/2019 01:40",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -991,25 +991,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7688",
-      "st": "26/12/2019 13:30",
-      "matricula": "PRGTC",
-      "posicion": "06",
-      "et": "26/12/2019 13:25",
-      "at": "26/12/2019 13:36",
-      "term": "A",
-      "sector": "",
-      "cinta": "2",
-      "lF": "002",
-      "ruta": "BSB",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "154"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1255",
       "st": "26/12/2019 14:15",
@@ -1029,25 +1010,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8011",
-      "st": "26/12/2019 14:25",
-      "matricula": "PRTYG",
-      "posicion": "02",
-      "et": "26/12/2019 14:00",
-      "at": "26/12/2019 14:02",
-      "term": "A",
-      "sector": "",
-      "cinta": "6",
-      "lF": "006",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "115"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "M3",
       "vuelo": "8493",
       "st": "26/12/2019 14:00",
@@ -1064,6 +1026,25 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "JJ",
+      "vuelo": "8011",
+      "st": "26/12/2019 14:25",
+      "matricula": "PRTYG",
+      "posicion": "02",
+      "et": "26/12/2019 14:00",
+      "at": "26/12/2019 14:02",
+      "term": "A",
+      "sector": "",
+      "cinta": "6",
+      "lF": "006",
+      "ruta": "LIM",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "115"
     },
     {
       "tipo": "arribo",
@@ -3646,7 +3627,7 @@
       "puerta": "20",
       "ruta": "CUN",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
