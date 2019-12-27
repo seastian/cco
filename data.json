@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/12/2019 09:39",
+  "lastUpdate": "27/12/2019 09:44",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1349,25 +1349,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AU",
-      "vuelo": "2263",
-      "st": "26/12/2019 21:35",
-      "matricula": "LVCIF",
-      "posicion": "TG2",
-      "et": "26/12/2019 21:37",
-      "at": "26/12/2019 21:43",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "010",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "62"
     },
     {
       "tipo": "arribo",
@@ -3760,7 +3741,7 @@
       "puerta": "12",
       "ruta": "FLN",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
