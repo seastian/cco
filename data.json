@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/12/2019 04:33",
+  "lastUpdate": "27/12/2019 04:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -320,7 +320,7 @@
       "lF": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "",
+      "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
     },
@@ -3447,7 +3447,7 @@
       "st": "27/12/2019 04:20",
       "matricula": "LVBRY",
       "posicion": "07",
-      "et": "27/12/2019 04:40",
+      "et": "27/12/2019 04:50",
       "at": "",
       "term": "A",
       "sector": "AP",
