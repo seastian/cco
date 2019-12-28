@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/12/2019 12:44",
+  "lastUpdate": "28/12/2019 12:49",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2425,7 +2425,7 @@
       "at": "28/12/2019 11:54",
       "term": "A",
       "sector": "",
-      "cinta": "4",
+      "cinta": "5",
       "lF": "001",
       "ruta": "VCP",
       "via": "",
@@ -2720,25 +2720,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AV",
-      "vuelo": "964",
-      "st": "28/12/2019 06:00",
-      "matricula": "N342AV",
-      "posicion": "10",
-      "et": "",
-      "at": "28/12/2019 06:10",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "059",
-      "chkTo": "067",
-      "puerta": "10",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1230",
       "st": "28/12/2019 06:00",
@@ -2752,6 +2733,25 @@
       "chkTo": "240",
       "puerta": "19",
       "ruta": "POA",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AV",
+      "vuelo": "964",
+      "st": "28/12/2019 06:00",
+      "matricula": "N342AV",
+      "posicion": "10",
+      "et": "",
+      "at": "28/12/2019 06:10",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "059",
+      "chkTo": "067",
+      "puerta": "10",
+      "ruta": "LIM",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -2797,18 +2797,18 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1240",
+      "vuelo": "1428",
       "st": "28/12/2019 06:40",
-      "matricula": "LVFQY",
-      "posicion": "25B",
+      "matricula": "LVGOO",
+      "posicion": "18A",
       "et": "",
-      "at": "28/12/2019 07:04",
+      "at": "28/12/2019 06:45",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "12",
-      "ruta": "GRU",
+      "puerta": "25",
+      "ruta": "SLA",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -3486,7 +3486,7 @@
       "matricula": "PTXPQ",
       "posicion": "11B",
       "et": "",
-      "at": "",
+      "at": "28/12/2019 12:46",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3494,7 +3494,7 @@
       "puerta": "15",
       "ruta": "GRU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3551,7 +3551,7 @@
       "puerta": "27",
       "ruta": "BRC",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3608,7 +3608,7 @@
       "puerta": "17",
       "ruta": "MAD",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3958,7 +3958,7 @@
       "aerolinea": "KL",
       "vuelo": "702",
       "st": "28/12/2019 16:30",
-      "matricula": "",
+      "matricula": "PHBHL",
       "posicion": "",
       "et": "",
       "at": "",
