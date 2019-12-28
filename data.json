@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/12/2019 01:53",
+  "lastUpdate": "28/12/2019 01:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1045,25 +1045,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1223",
-      "st": "27/12/2019 13:55",
-      "matricula": "LVFUC",
-      "posicion": "16B",
-      "et": "27/12/2019 13:51",
-      "at": "27/12/2019 13:57",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "010",
-      "ruta": "BPS",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "89"
     },
     {
       "tipo": "arribo",
@@ -2346,14 +2327,14 @@
       "matricula": "N44ZF",
       "posicion": "37",
       "et": "28/12/2019 01:45",
-      "at": "",
+      "at": "28/12/2019 01:54",
       "term": "FBO",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "SDQ",
       "via": "",
-      "remark": "DEM",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "3"
     },
@@ -4289,7 +4270,7 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "25",
       "ruta": "CRD",
       "via": "MDQ",
       "remark": "HOR",
