@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/12/2019 05:15",
+  "lastUpdate": "28/12/2019 05:20",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3826,7 +3826,7 @@
       "vuelo": "1030",
       "st": "28/12/2019 08:20",
       "matricula": "LVGVB",
-      "posicion": "M04",
+      "posicion": "51A",
       "et": "",
       "at": "",
       "term": "C",
