@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/12/2019 17:15",
+  "lastUpdate": "28/12/2019 17:20",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3790,7 +3790,7 @@
       "matricula": "PRYRV",
       "posicion": "08",
       "et": "",
-      "at": "",
+      "at": "28/12/2019 17:20",
       "term": "A",
       "sector": "AP",
       "chkFrom": "075",
@@ -3798,7 +3798,7 @@
       "puerta": "07",
       "ruta": "CNF",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3836,7 +3836,7 @@
       "puerta": "27",
       "ruta": "IGR",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3855,7 +3855,7 @@
       "puerta": "12",
       "ruta": "GIG",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
