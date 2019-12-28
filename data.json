@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/12/2019 23:02",
+  "lastUpdate": "27/12/2019 23:07",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1083,25 +1083,6 @@
       "remark": "HOR",
       "sanidad": "NO",
       "pax": "2"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1283",
-      "st": "27/12/2019 11:05",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -3779,7 +3760,7 @@
       "puerta": "18",
       "ruta": "CUN",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3855,7 +3836,7 @@
       "puerta": "10",
       "ruta": "MIA",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3874,7 +3855,7 @@
       "puerta": "02",
       "ruta": "AKL",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3909,7 +3890,7 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "16",
+      "puerta": "17",
       "ruta": "MAD",
       "via": "",
       "remark": "PRE",
@@ -3931,7 +3912,7 @@
       "puerta": "14",
       "ruta": "MEX",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4259,25 +4240,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AV",
-      "vuelo": "964",
-      "st": "28/12/2019 06:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "059",
-      "chkTo": "067",
-      "puerta": "",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1230",
       "st": "28/12/2019 06:00",
@@ -4291,6 +4253,25 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "POA",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AV",
+      "vuelo": "964",
+      "st": "28/12/2019 06:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "059",
+      "chkTo": "067",
+      "puerta": "",
+      "ruta": "LIM",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -4336,6 +4317,25 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
+      "vuelo": "1428",
+      "st": "28/12/2019 06:40",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "SLA",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
       "vuelo": "1240",
       "st": "28/12/2019 06:40",
       "matricula": "",
@@ -4373,25 +4373,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1428",
-      "st": "28/12/2019 06:40",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "SLA",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AU",
       "vuelo": "2462",
       "st": "28/12/2019 06:45",
@@ -4411,25 +4392,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "LA",
-      "vuelo": "468",
-      "st": "28/12/2019 07:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AV",
       "vuelo": "088",
       "st": "28/12/2019 07:00",
@@ -4443,6 +4405,25 @@
       "chkTo": "067",
       "puerta": "",
       "ruta": "BOG",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LA",
+      "vuelo": "468",
+      "st": "28/12/2019 07:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "SCL",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -4487,8 +4468,8 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AU",
-      "vuelo": "2702",
+      "aerolinea": "AR",
+      "vuelo": "1500",
       "st": "28/12/2019 08:00",
       "matricula": "",
       "posicion": "",
@@ -4499,7 +4480,7 @@
       "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
-      "ruta": "ROS",
+      "ruta": "COR",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
