@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/12/2019 17:33",
+  "lastUpdate": "29/12/2019 17:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -4083,7 +4083,7 @@
       "puerta": "08",
       "ruta": "FRA",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
