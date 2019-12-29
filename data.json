@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/12/2019 03:53",
+  "lastUpdate": "29/12/2019 03:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1254,25 +1254,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "122"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AD",
-      "vuelo": "8760",
-      "st": "28/12/2019 16:00",
-      "matricula": "PRYRV",
-      "posicion": "08",
-      "et": "28/12/2019 16:00",
-      "at": "28/12/2019 15:59",
-      "term": "A",
-      "sector": "",
-      "cinta": "1",
-      "lF": "006",
-      "ruta": "CNF",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "170"
     },
     {
       "tipo": "arribo",
@@ -3627,7 +3608,7 @@
       "puerta": "12",
       "ruta": "SSA",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3684,7 +3665,7 @@
       "puerta": "10",
       "ruta": "BSB",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3703,7 +3684,7 @@
       "puerta": "05",
       "ruta": "VVI",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
