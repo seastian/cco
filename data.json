@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/12/2019 05:43",
+  "lastUpdate": "29/12/2019 05:48",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -50,7 +50,7 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
+      "cinta": "9",
       "lF": "",
       "ruta": "AMS",
       "via": "",
@@ -1409,25 +1409,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1253",
-      "st": "28/12/2019 18:10",
-      "matricula": "LVFXQ",
-      "posicion": "25B",
-      "et": "",
-      "at": "28/12/2019 17:47",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "007",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "154"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "4M",
       "vuelo": "7737",
       "st": "28/12/2019 18:37",
@@ -1618,25 +1599,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1273",
-      "st": "28/12/2019 19:40",
-      "matricula": "LVFQY",
-      "posicion": "18A",
-      "et": "28/12/2019 20:00",
-      "at": "28/12/2019 20:08",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "007",
-      "ruta": "FLN",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "91"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AU",
       "vuelo": "2509",
       "st": "28/12/2019 20:20",
@@ -1653,6 +1615,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "89"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1273",
+      "st": "28/12/2019 19:40",
+      "matricula": "LVFQY",
+      "posicion": "18A",
+      "et": "28/12/2019 20:00",
+      "at": "28/12/2019 20:08",
+      "term": "A",
+      "sector": "",
+      "cinta": "7",
+      "lF": "007",
+      "ruta": "FLN",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "91"
     },
     {
       "tipo": "arribo",
@@ -3627,7 +3608,7 @@
       "puerta": "19",
       "ruta": "SCL",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
