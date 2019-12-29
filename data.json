@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/12/2019 07:22",
+  "lastUpdate": "29/12/2019 07:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -197,7 +197,7 @@
       "vuelo": "228",
       "st": "29/12/2019 09:50",
       "matricula": "FGSPX",
-      "posicion": "11",
+      "posicion": "15",
       "et": "29/12/2019 09:05",
       "at": "",
       "term": "A",
@@ -2492,25 +2492,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1364",
-      "st": "28/12/2019 19:00",
-      "matricula": "LVGKS",
-      "posicion": "16B",
-      "et": "",
-      "at": "28/12/2019 19:25",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "23",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "JJ",
       "vuelo": "8002",
       "st": "28/12/2019 19:15",
@@ -3684,7 +3665,7 @@
       "puerta": "19",
       "ruta": "GIG",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3703,7 +3684,7 @@
       "puerta": "01",
       "ruta": "GRU",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
