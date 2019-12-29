@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/12/2019 01:51",
+  "lastUpdate": "29/12/2019 01:56",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1808,25 +1808,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AU",
-      "vuelo": "2601",
-      "st": "28/12/2019 20:40",
-      "matricula": "LVCIE",
-      "posicion": "24A",
-      "et": "28/12/2019 20:23",
-      "at": "28/12/2019 20:18",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "11",
-      "lF": "017",
-      "ruta": "USH",
-      "via": "MDQ",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "87"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "ZP",
       "vuelo": "818",
       "st": "28/12/2019 20:40",
@@ -2226,25 +2207,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8096",
-      "st": "28/12/2019 22:50",
-      "matricula": "PRMHU",
-      "posicion": "03",
-      "et": "28/12/2019 22:40",
-      "at": "28/12/2019 22:44",
-      "term": "A",
-      "sector": "",
-      "cinta": "2",
-      "lF": "002",
-      "ruta": "SSA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1291",
       "st": "28/12/2019 23:15",
@@ -2261,6 +2223,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "42"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "JJ",
+      "vuelo": "8096",
+      "st": "28/12/2019 22:50",
+      "matricula": "PRMHU",
+      "posicion": "03",
+      "et": "28/12/2019 22:40",
+      "at": "28/12/2019 22:44",
+      "term": "A",
+      "sector": "",
+      "cinta": "2",
+      "lF": "002",
+      "ruta": "SSA",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
