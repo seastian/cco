@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/12/2019 13:42",
+  "lastUpdate": "29/12/2019 13:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3619,7 +3619,7 @@
       "matricula": "ECNCY",
       "posicion": "04",
       "et": "",
-      "at": "",
+      "at": "29/12/2019 13:46",
       "term": "A",
       "sector": "AP",
       "chkFrom": "054",
@@ -3627,7 +3627,7 @@
       "puerta": "03",
       "ruta": "MAD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3703,7 +3703,7 @@
       "puerta": "19",
       "ruta": "GIG",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3722,7 +3722,7 @@
       "puerta": "13",
       "ruta": "MVD",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3779,7 +3779,7 @@
       "puerta": "05",
       "ruta": "GIG",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3798,7 +3798,7 @@
       "puerta": "20",
       "ruta": "CDG",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4737,8 +4737,8 @@
       "aerolinea": "AR",
       "vuelo": "1370",
       "st": "29/12/2019 23:10",
-      "matricula": "LVFVI",
-      "posicion": "",
+      "matricula": "LVFNI",
+      "posicion": "M13",
       "et": "",
       "at": "",
       "term": "C",
