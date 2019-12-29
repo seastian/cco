@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/12/2019 19:33",
+  "lastUpdate": "29/12/2019 19:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1504,25 +1504,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "467",
-      "st": "29/12/2019 10:23",
-      "matricula": "CCCOK",
-      "posicion": "08",
-      "et": "29/12/2019 10:10",
-      "at": "29/12/2019 10:12",
-      "term": "A",
-      "sector": "",
-      "cinta": "6",
-      "lF": "003",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "138"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "IB_",
       "vuelo": "2601",
       "st": "29/12/2019 11:05",
@@ -1542,25 +1523,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "455",
-      "st": "29/12/2019 10:48",
-      "matricula": "CCCQM",
-      "posicion": "07",
-      "et": "29/12/2019 10:30",
-      "at": "29/12/2019 10:35",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "003",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "121"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "PRV",
       "vuelo": "GQT",
       "st": "29/12/2019 11:00",
@@ -1577,6 +1539,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "4"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "455",
+      "st": "29/12/2019 10:48",
+      "matricula": "CCCQM",
+      "posicion": "07",
+      "et": "29/12/2019 10:30",
+      "at": "29/12/2019 10:35",
+      "term": "A",
+      "sector": "",
+      "cinta": "7",
+      "lF": "003",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "121"
     },
     {
       "tipo": "arribo",
@@ -2227,25 +2208,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "AR",
-      "vuelo": "1871",
-      "st": "29/12/2019 16:50",
-      "matricula": "LVFSK",
-      "posicion": "16B",
-      "et": "29/12/2019 16:15",
-      "at": "29/12/2019 16:20",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "12",
-      "lF": "018",
-      "ruta": "USH",
-      "via": "FTE",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "170"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
       "vuelo": "1285",
       "st": "29/12/2019 16:20",
       "matricula": "LVFRQ",
@@ -2261,6 +2223,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "83"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1871",
+      "st": "29/12/2019 16:50",
+      "matricula": "LVFSK",
+      "posicion": "16B",
+      "et": "29/12/2019 16:15",
+      "at": "29/12/2019 16:20",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "12",
+      "lF": "018",
+      "ruta": "USH",
+      "via": "FTE",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "170"
     },
     {
       "tipo": "arribo",
@@ -2593,14 +2574,14 @@
       "matricula": "N859GT",
       "posicion": "55",
       "et": "29/12/2019 19:30",
-      "at": "",
+      "at": "29/12/2019 19:37",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -4037,7 +4018,7 @@
       "matricula": "PRMBX",
       "posicion": "03",
       "et": "",
-      "at": "",
+      "at": "29/12/2019 19:29",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -4045,7 +4026,7 @@
       "puerta": "02",
       "ruta": "GRU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -4121,7 +4102,7 @@
       "puerta": "01",
       "ruta": "LIM",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4140,7 +4121,7 @@
       "puerta": "04",
       "ruta": "SCL",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
