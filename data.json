@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "29/12/2019 13:37",
+  "lastUpdate": "29/12/2019 13:42",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "OB",
-      "vuelo": "708",
-      "st": "29/12/2019 14:05",
-      "matricula": "CP2880",
-      "posicion": "04",
-      "et": "29/12/2019 13:40",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "5",
-      "lF": "005",
-      "ruta": "VVI",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "197"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "JJ",
@@ -1599,25 +1580,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1361",
-      "st": "29/12/2019 07:10",
-      "matricula": "LVBZO",
-      "posicion": "17B",
-      "et": "29/12/2019 06:50",
-      "at": "29/12/2019 06:48",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "010",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "94"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "KL",
       "vuelo": "701",
       "st": "29/12/2019 07:05",
@@ -1634,6 +1596,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "203"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1361",
+      "st": "29/12/2019 07:10",
+      "matricula": "LVBZO",
+      "posicion": "17B",
+      "et": "29/12/2019 06:50",
+      "at": "29/12/2019 06:48",
+      "term": "A",
+      "sector": "",
+      "cinta": "7",
+      "lF": "010",
+      "ruta": "BOG",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "94"
     },
     {
       "tipo": "arribo",
@@ -2489,6 +2470,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "177"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "OB",
+      "vuelo": "708",
+      "st": "29/12/2019 14:05",
+      "matricula": "CP2880",
+      "posicion": "04",
+      "et": "29/12/2019 13:40",
+      "at": "29/12/2019 13:43",
+      "term": "A",
+      "sector": "",
+      "cinta": "5",
+      "lF": "005",
+      "ruta": "VVI",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "197"
     },
     {
       "tipo": "partida",
@@ -3703,7 +3703,7 @@
       "puerta": "19",
       "ruta": "GIG",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
