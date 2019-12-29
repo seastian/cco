@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/12/2019 17:12",
+  "lastUpdate": "29/12/2019 17:18",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -132,7 +132,7 @@
       "via": "",
       "remark": "DEM",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "126"
     },
     {
       "tipo": "arribo",
@@ -265,7 +265,7 @@
       "via": "",
       "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "159"
     },
     {
       "tipo": "arribo",
@@ -303,7 +303,7 @@
       "via": "",
       "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "117"
     },
     {
       "tipo": "arribo",
@@ -1124,25 +1124,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7460",
-      "st": "29/12/2019 05:55",
-      "matricula": "PRGTT",
-      "posicion": "08",
-      "et": "29/12/2019 05:17",
-      "at": "29/12/2019 05:17",
-      "term": "A",
-      "sector": "",
-      "cinta": "5",
-      "lF": "005",
-      "ruta": "NAT",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "111"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AV",
       "vuelo": "087",
       "st": "29/12/2019 05:30",
@@ -1219,25 +1200,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "KL",
-      "vuelo": "701",
-      "st": "29/12/2019 07:05",
-      "matricula": "PHBHM",
-      "posicion": "11",
-      "et": "29/12/2019 06:50",
-      "at": "29/12/2019 06:54",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "007",
-      "ruta": "AMS",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "203"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1361",
       "st": "29/12/2019 07:10",
@@ -1254,6 +1216,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "94"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "KL",
+      "vuelo": "701",
+      "st": "29/12/2019 07:05",
+      "matricula": "PHBHM",
+      "posicion": "11",
+      "et": "29/12/2019 06:50",
+      "at": "29/12/2019 06:54",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "007",
+      "ruta": "AMS",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "203"
     },
     {
       "tipo": "arribo",
@@ -1732,25 +1713,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "455",
-      "st": "29/12/2019 10:48",
-      "matricula": "CCCQM",
-      "posicion": "07",
-      "et": "29/12/2019 10:30",
-      "at": "29/12/2019 10:35",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "003",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "121"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "PRV",
       "vuelo": "GQT",
       "st": "29/12/2019 11:00",
@@ -1767,6 +1729,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "4"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "455",
+      "st": "29/12/2019 10:48",
+      "matricula": "CCCQM",
+      "posicion": "07",
+      "et": "29/12/2019 10:30",
+      "at": "29/12/2019 10:35",
+      "term": "A",
+      "sector": "",
+      "cinta": "7",
+      "lF": "003",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "121"
     },
     {
       "tipo": "arribo",
@@ -2473,25 +2454,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "445",
-      "st": "29/12/2019 17:00",
-      "matricula": "CCBBH",
-      "posicion": "05",
-      "et": "29/12/2019 16:50",
-      "at": "29/12/2019 16:50",
-      "term": "A",
-      "sector": "",
-      "cinta": "3",
-      "lF": "003",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "155"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AD",
       "vuelo": "8770",
       "st": "29/12/2019 17:00",
@@ -2508,6 +2470,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "162"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "445",
+      "st": "29/12/2019 17:00",
+      "matricula": "CCBBH",
+      "posicion": "05",
+      "et": "29/12/2019 16:50",
+      "at": "29/12/2019 16:50",
+      "term": "A",
+      "sector": "",
+      "cinta": "3",
+      "lF": "003",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "155"
     },
     {
       "tipo": "arribo",
@@ -3632,25 +3613,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "BA",
-      "vuelo": "244",
-      "st": "29/12/2019 14:15",
-      "matricula": "GYMMA",
-      "posicion": "10",
-      "et": "",
-      "at": "29/12/2019 14:54",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "006",
-      "chkTo": "012",
-      "puerta": "10",
-      "ruta": "LHR",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "G3",
       "vuelo": "7653",
       "st": "29/12/2019 14:15",
@@ -3664,6 +3626,25 @@
       "chkTo": "074",
       "puerta": "05",
       "ruta": "GIG",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "BA",
+      "vuelo": "244",
+      "st": "29/12/2019 14:15",
+      "matricula": "GYMMA",
+      "posicion": "10",
+      "et": "",
+      "at": "29/12/2019 14:54",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "006",
+      "chkTo": "012",
+      "puerta": "10",
+      "ruta": "LHR",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -3879,25 +3860,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "KL",
-      "vuelo": "702",
-      "st": "29/12/2019 16:30",
-      "matricula": "PHBHM",
-      "posicion": "15",
-      "et": "",
-      "at": "29/12/2019 16:41",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "201",
-      "chkTo": "220",
-      "puerta": "20",
-      "ruta": "AMS",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AC",
       "vuelo": "093",
       "st": "29/12/2019 16:30",
@@ -3917,21 +3879,21 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AD",
-      "vuelo": "8761",
-      "st": "29/12/2019 16:50",
-      "matricula": "PRYRA",
-      "posicion": "08",
+      "aerolinea": "KL",
+      "vuelo": "702",
+      "st": "29/12/2019 16:30",
+      "matricula": "PHBHM",
+      "posicion": "15",
       "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "075",
-      "chkTo": "081",
-      "puerta": "07",
-      "ruta": "CNF",
+      "at": "29/12/2019 16:41",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "201",
+      "chkTo": "220",
+      "puerta": "20",
+      "ruta": "AMS",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3955,6 +3917,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "AD",
+      "vuelo": "8761",
+      "st": "29/12/2019 16:50",
+      "matricula": "PRYRA",
+      "posicion": "08",
+      "et": "",
+      "at": "29/12/2019 17:18",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "075",
+      "chkTo": "081",
+      "puerta": "07",
+      "ruta": "CNF",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "AU",
       "vuelo": "2262",
       "st": "29/12/2019 17:00",
@@ -3970,25 +3951,6 @@
       "ruta": "ASU",
       "via": "",
       "remark": "CER",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1029",
-      "st": "29/12/2019 17:10",
-      "matricula": "LVFRK",
-      "posicion": "17A",
-      "et": "",
-      "at": "29/12/2019 17:13",
-      "term": "C",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "AEP",
-      "via": "",
-      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -4027,6 +3989,25 @@
       "ruta": "IGR",
       "via": "",
       "remark": "CER",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1029",
+      "st": "29/12/2019 17:10",
+      "matricula": "LVFRK",
+      "posicion": "17A",
+      "et": "",
+      "at": "29/12/2019 17:13",
+      "term": "C",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "AEP",
+      "via": "",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -4083,7 +4064,7 @@
       "puerta": "13",
       "ruta": "POA",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4102,7 +4083,7 @@
       "puerta": "05",
       "ruta": "VCP",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4159,7 +4140,7 @@
       "puerta": "17",
       "ruta": "CWB",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
