@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/12/2019 22:33",
+  "lastUpdate": "29/12/2019 22:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1064,25 +1064,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "455",
-      "st": "29/12/2019 10:48",
-      "matricula": "CCCQM",
-      "posicion": "07",
-      "et": "29/12/2019 10:30",
-      "at": "29/12/2019 10:35",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "003",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "121"
     },
     {
       "tipo": "arribo",
@@ -2517,14 +2498,14 @@
       "matricula": "LVGCK",
       "posicion": "41",
       "et": "",
-      "at": "",
+      "at": "29/12/2019 22:37",
       "term": "FBO",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "PDP",
       "via": "",
-      "remark": "HOR",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
     },
@@ -4064,7 +4045,7 @@
       "puerta": "03",
       "ruta": "DXB",
       "via": "GIG",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4102,7 +4083,7 @@
       "puerta": "01",
       "ruta": "SCL",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4254,7 +4235,7 @@
       "puerta": "12",
       "ruta": "REC",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
