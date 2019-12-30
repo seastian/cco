@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/12/2019 09:42",
+  "lastUpdate": "30/12/2019 09:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1390,25 +1390,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1251",
-      "st": "29/12/2019 22:10",
-      "matricula": "LVGVB",
-      "posicion": "22A",
-      "et": "29/12/2019 21:45",
-      "at": "29/12/2019 21:47",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "007",
-      "ruta": "GIG",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "120"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "TK",
       "vuelo": "015",
       "st": "29/12/2019 22:25",
@@ -2112,25 +2093,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AA",
-      "vuelo": "907",
-      "st": "30/12/2019 06:56",
-      "matricula": "N789AN",
-      "posicion": "03",
-      "et": "30/12/2019 07:00",
-      "at": "30/12/2019 06:56",
-      "term": "A",
-      "sector": "",
-      "cinta": "1",
-      "lF": "005",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "210"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "CM",
       "vuelo": "454",
       "st": "30/12/2019 07:04",
@@ -2166,6 +2128,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AA",
+      "vuelo": "907",
+      "st": "30/12/2019 06:56",
+      "matricula": "N789AN",
+      "posicion": "03",
+      "et": "30/12/2019 07:00",
+      "at": "30/12/2019 06:56",
+      "term": "A",
+      "sector": "",
+      "cinta": "1",
+      "lF": "005",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "210"
     },
     {
       "tipo": "arribo",
@@ -2359,25 +2340,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8012",
-      "st": "30/12/2019 09:15",
-      "matricula": "PRMBT",
-      "posicion": "02",
-      "et": "30/12/2019 08:40",
-      "at": "30/12/2019 08:42",
-      "term": "A",
-      "sector": "",
-      "cinta": "6",
-      "lF": "002",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "133"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "WK",
       "vuelo": "090",
       "st": "30/12/2019 09:00",
@@ -2394,6 +2356,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "JJ",
+      "vuelo": "8012",
+      "st": "30/12/2019 09:15",
+      "matricula": "PRMBT",
+      "posicion": "02",
+      "et": "30/12/2019 08:40",
+      "at": "30/12/2019 08:42",
+      "term": "A",
+      "sector": "",
+      "cinta": "6",
+      "lF": "002",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "133"
     },
     {
       "tipo": "arribo",
@@ -3950,7 +3931,7 @@
       "puerta": "27",
       "ruta": "FTE",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
