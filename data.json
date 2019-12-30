@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/12/2019 11:16",
+  "lastUpdate": "30/12/2019 11:21",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -217,7 +217,7 @@
       "st": "30/12/2019 14:00",
       "matricula": "PRMHQ",
       "posicion": "",
-      "et": "",
+      "et": "30/12/2019 13:40",
       "at": "",
       "term": "A",
       "sector": "",
@@ -225,9 +225,9 @@
       "lF": "",
       "ruta": "GRU",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "171"
     },
     {
       "tipo": "arribo",
@@ -1846,25 +1846,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "CM",
-      "vuelo": "454",
-      "st": "30/12/2019 07:04",
-      "matricula": "HP1842",
-      "posicion": "50A",
-      "et": "30/12/2019 07:00",
-      "at": "30/12/2019 06:44",
-      "term": "A",
-      "sector": "",
-      "cinta": "6",
-      "lF": "009",
-      "ruta": "PTY",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "PRV",
       "vuelo": "CTK",
       "st": "30/12/2019 07:00",
@@ -1900,6 +1881,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "210"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "CM",
+      "vuelo": "454",
+      "st": "30/12/2019 07:04",
+      "matricula": "HP1842",
+      "posicion": "50A",
+      "et": "30/12/2019 07:00",
+      "at": "30/12/2019 06:44",
+      "term": "A",
+      "sector": "",
+      "cinta": "6",
+      "lF": "009",
+      "ruta": "PTY",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -2093,25 +2093,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "WK",
-      "vuelo": "090",
-      "st": "30/12/2019 09:00",
-      "matricula": "HBJMG",
-      "posicion": "11",
-      "et": "30/12/2019 08:40",
-      "at": "30/12/2019 08:42",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "008",
-      "ruta": "ZRH",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "JJ",
       "vuelo": "8012",
       "st": "30/12/2019 09:15",
@@ -2128,6 +2109,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "133"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "WK",
+      "vuelo": "090",
+      "st": "30/12/2019 09:00",
+      "matricula": "HBJMG",
+      "posicion": "11",
+      "et": "30/12/2019 08:40",
+      "at": "30/12/2019 08:42",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "008",
+      "ruta": "ZRH",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -2508,6 +2508,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "190"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1501",
+      "st": "30/12/2019 11:35",
+      "matricula": "LVFQY",
+      "posicion": "17A",
+      "et": "30/12/2019 11:22",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "12",
+      "lF": "018",
+      "ruta": "COR",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "151"
     },
     {
       "tipo": "partida",
@@ -3931,7 +3950,7 @@
       "puerta": "24",
       "ruta": "MDZ",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
