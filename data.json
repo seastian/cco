@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/12/2019 05:30",
+  "lastUpdate": "30/12/2019 05:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3760,7 +3760,7 @@
       "puerta": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -3836,7 +3836,7 @@
       "puerta": "12",
       "ruta": "ASU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3855,7 +3855,7 @@
       "puerta": "10",
       "ruta": "LIM",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
