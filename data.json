@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/12/2019 12:03",
+  "lastUpdate": "31/12/2019 12:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -122,7 +122,7 @@
       "st": "31/12/2019 13:35",
       "matricula": "PRMBQ",
       "posicion": "",
-      "et": "",
+      "et": "31/12/2019 13:35",
       "at": "",
       "term": "A",
       "sector": "",
@@ -130,9 +130,9 @@
       "lF": "",
       "ruta": "FLN",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "20"
     },
     {
       "tipo": "arribo",
@@ -3323,7 +3323,7 @@
       "puerta": "13",
       "ruta": "MVD",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3342,7 +3342,7 @@
       "puerta": "27",
       "ruta": "BRC",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3380,7 +3380,7 @@
       "puerta": "04",
       "ruta": "MEX",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3746,25 +3746,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AD",
-      "vuelo": "8761",
-      "st": "31/12/2019 16:50",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "075",
-      "chkTo": "081",
-      "puerta": "",
-      "ruta": "CNF",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "JJ",
       "vuelo": "8013",
       "st": "31/12/2019 16:50",
@@ -3778,6 +3759,25 @@
       "chkTo": "053",
       "puerta": "",
       "ruta": "GRU",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AD",
+      "vuelo": "8761",
+      "st": "31/12/2019 16:50",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "075",
+      "chkTo": "081",
+      "puerta": "",
+      "ruta": "CNF",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -4164,25 +4164,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AA",
-      "vuelo": "992",
-      "st": "31/12/2019 22:05",
-      "matricula": "N837AN",
-      "posicion": "61",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "001",
-      "chkTo": "020",
-      "puerta": "",
-      "ruta": "LAX",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "UA",
       "vuelo": "818",
       "st": "31/12/2019 22:05",
@@ -4196,6 +4177,25 @@
       "chkTo": "061",
       "puerta": "",
       "ruta": "IAH",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AA",
+      "vuelo": "992",
+      "st": "31/12/2019 22:05",
+      "matricula": "N837AN",
+      "posicion": "61",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "001",
+      "chkTo": "020",
+      "puerta": "",
+      "ruta": "LAX",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -4221,25 +4221,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1140",
-      "st": "31/12/2019 22:45",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "FCO",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AA",
       "vuelo": "954",
       "st": "31/12/2019 22:45",
@@ -4253,6 +4234,25 @@
       "chkTo": "020",
       "puerta": "",
       "ruta": "JFK",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1140",
+      "st": "31/12/2019 22:45",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "FCO",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
