@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/12/2019 06:26",
+  "lastUpdate": "31/12/2019 06:31",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -164,8 +164,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "7",
+      "lF": "009",
       "ruta": "FRA",
       "via": "",
       "remark": "EST",
@@ -183,8 +183,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "1",
+      "lF": "004",
       "ruta": "MAD",
       "via": "",
       "remark": "EST",
@@ -221,8 +221,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "5",
+      "lF": "003",
       "ruta": "MAD",
       "via": "",
       "remark": "EST",
@@ -240,8 +240,8 @@
       "at": "",
       "term": "C",
       "sector": "CAC",
-      "cinta": "",
-      "lF": "",
+      "cinta": "11",
+      "lF": "017",
       "ruta": "IGR",
       "via": "",
       "remark": "",
@@ -3828,7 +3828,7 @@
       "matricula": "LVGVC",
       "posicion": "18B",
       "et": "",
-      "at": "",
+      "at": "31/12/2019 06:30",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3836,7 +3836,7 @@
       "puerta": "23",
       "ruta": "SCL",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3874,7 +3874,7 @@
       "puerta": "21",
       "ruta": "GRU",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
