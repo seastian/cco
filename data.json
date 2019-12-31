@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/12/2019 17:09",
+  "lastUpdate": "31/12/2019 17:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -763,6 +763,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "G3",
+      "vuelo": "9304",
+      "st": "01/01/2020 05:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "GIG",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1365",
       "st": "01/01/2020 05:00",
@@ -782,19 +801,19 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "9304",
-      "st": "01/01/2020 05:00",
+      "aerolinea": "5X",
+      "vuelo": "414",
+      "st": "01/01/2020 05:12",
       "matricula": "",
       "posicion": "",
       "et": "",
       "at": "",
-      "term": "A",
+      "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
-      "ruta": "GIG",
-      "via": "",
+      "ruta": "MIA",
+      "via": "SCL",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
@@ -3285,7 +3304,7 @@
       "puerta": "",
       "ruta": "REL",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -3361,7 +3380,7 @@
       "puerta": "02",
       "ruta": "VCP",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
