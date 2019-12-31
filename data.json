@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/12/2019 18:11",
+  "lastUpdate": "31/12/2019 18:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2080,14 +2080,14 @@
       "matricula": "PRMAK",
       "posicion": "08",
       "et": "31/12/2019 18:00",
-      "at": "",
+      "at": "31/12/2019 18:13",
       "term": "A",
       "sector": "",
       "cinta": "1",
       "lF": "001",
       "ruta": "GIG",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -3342,7 +3342,7 @@
       "puerta": "13",
       "ruta": "LIM",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
