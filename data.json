@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/12/2019 13:44",
+  "lastUpdate": "31/12/2019 13:49",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -19,25 +19,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "88"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8011",
-      "st": "31/12/2019 14:25",
-      "matricula": "PRMAZ",
-      "posicion": "10",
-      "et": "31/12/2019 13:55",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "6",
-      "lF": "001",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "91"
     },
     {
       "tipo": "arribo",
@@ -1523,25 +1504,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7680",
-      "st": "31/12/2019 09:30",
-      "matricula": "PRGGM",
-      "posicion": "08",
-      "et": "31/12/2019 09:20",
-      "at": "31/12/2019 09:05",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "159"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "DI",
       "vuelo": "7505",
       "st": "31/12/2019 08:15",
@@ -1577,6 +1539,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "167"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "G3",
+      "vuelo": "7680",
+      "st": "31/12/2019 09:30",
+      "matricula": "PRGGM",
+      "posicion": "08",
+      "et": "31/12/2019 09:20",
+      "at": "31/12/2019 09:05",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "009",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "159"
     },
     {
       "tipo": "arribo",
@@ -2052,6 +2033,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "160"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "JJ",
+      "vuelo": "8011",
+      "st": "31/12/2019 14:25",
+      "matricula": "PRMAZ",
+      "posicion": "10",
+      "et": "31/12/2019 13:55",
+      "at": "31/12/2019 13:47",
+      "term": "A",
+      "sector": "",
+      "cinta": "6",
+      "lF": "001",
+      "ruta": "LIM",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "91"
     },
     {
       "tipo": "partida",
@@ -3266,7 +3266,7 @@
       "puerta": "20",
       "ruta": "FCO",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
