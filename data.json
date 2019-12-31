@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/12/2019 13:37",
+  "lastUpdate": "31/12/2019 13:44",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -196,9 +196,9 @@
       "aerolinea": "AD",
       "vuelo": "8760",
       "st": "31/12/2019 16:00",
-      "matricula": "",
+      "matricula": "PRYRY",
       "posicion": "",
-      "et": "",
+      "et": "31/12/2019 16:00",
       "at": "",
       "term": "A",
       "sector": "",
@@ -206,9 +206,9 @@
       "lF": "",
       "ruta": "CNF",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "163"
     },
     {
       "tipo": "arribo",
@@ -232,25 +232,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "AR",
-      "vuelo": "1285",
-      "st": "31/12/2019 16:20",
-      "matricula": "LVFQC",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
       "vuelo": "1873",
       "st": "31/12/2019 16:20",
       "matricula": "LVFVN",
@@ -262,6 +243,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "BRC",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1285",
+      "st": "31/12/2019 16:20",
+      "matricula": "LVFQC",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -2023,14 +2023,14 @@
       "matricula": "PRGTG",
       "posicion": "08",
       "et": "31/12/2019 13:35",
-      "at": "",
+      "at": "31/12/2019 13:39",
       "term": "A",
       "sector": "",
       "cinta": "2",
       "lF": "003",
       "ruta": "BSB",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "138"
     },
@@ -3201,7 +3201,7 @@
       "matricula": "PRYRN",
       "posicion": "02",
       "et": "",
-      "at": "",
+      "at": "31/12/2019 13:44",
       "term": "A",
       "sector": "AP",
       "chkFrom": "075",
@@ -3209,7 +3209,7 @@
       "puerta": "01",
       "ruta": "VCP",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3247,7 +3247,7 @@
       "puerta": "23",
       "ruta": "GIG",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3304,7 +3304,7 @@
       "puerta": "14",
       "ruta": "CDG",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3502,7 +3502,7 @@
       "aerolinea": "AD",
       "vuelo": "8761",
       "st": "31/12/2019 16:50",
-      "matricula": "",
+      "matricula": "PRYRY",
       "posicion": "",
       "et": "",
       "at": "",
