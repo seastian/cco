@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/12/2019 07:28",
+  "lastUpdate": "31/12/2019 07:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1193,6 +1193,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "CUN",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1303",
+      "st": "31/12/2019 19:30",
+      "matricula": "LVFNL",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -3733,7 +3752,7 @@
       "matricula": "LVCPJ",
       "posicion": "22B",
       "et": "",
-      "at": "",
+      "at": "31/12/2019 07:30",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3741,7 +3760,7 @@
       "puerta": "26",
       "ruta": "MDZ",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3836,7 +3855,7 @@
       "puerta": "17",
       "ruta": "GIG",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3893,7 +3912,7 @@
       "puerta": "25",
       "ruta": "COR",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4240,25 +4259,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "JJ",
-      "vuelo": "8009",
-      "st": "31/12/2019 12:25",
-      "matricula": "PTMXF",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AU",
       "vuelo": "2392",
       "st": "31/12/2019 12:25",
@@ -4293,6 +4293,25 @@
       "ruta": "BRC",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "JJ",
+      "vuelo": "8009",
+      "st": "31/12/2019 12:25",
+      "matricula": "PTMXF",
+      "posicion": "",
+      "et": "31/12/2019 12:40",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "EST",
       "sanidad": "NO"
     },
     {
