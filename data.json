@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "31/12/2019 04:20",
+  "lastUpdate": "31/12/2019 04:26",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1301",
-      "st": "31/12/2019 04:30",
-      "matricula": "LVFVI",
-      "posicion": "14",
-      "et": "31/12/2019 04:26",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "JFK",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "197"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AR",
@@ -193,6 +174,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "4M",
+      "vuelo": "7821",
+      "st": "31/12/2019 07:25",
+      "matricula": "CCCXD",
+      "posicion": "",
+      "et": "31/12/2019 07:00",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "AA",
       "vuelo": "991",
       "st": "31/12/2019 08:35",
@@ -264,25 +264,6 @@
       "ruta": "AEP",
       "via": "",
       "remark": "CAN",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "4M",
-      "vuelo": "7821",
-      "st": "31/12/2019 07:25",
-      "matricula": "CCCXD",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
@@ -1311,25 +1292,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "94"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "NZ",
-      "vuelo": "30",
-      "st": "30/12/2019 16:00",
-      "matricula": "ZKOKC",
-      "posicion": "05",
-      "et": "30/12/2019 16:32",
-      "at": "30/12/2019 16:24",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "008",
-      "ruta": "AKL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -2622,6 +2584,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "169"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1301",
+      "st": "31/12/2019 04:30",
+      "matricula": "LVFVI",
+      "posicion": "14",
+      "et": "31/12/2019 04:26",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "009",
+      "ruta": "JFK",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "197"
     },
     {
       "tipo": "partida",
@@ -3999,7 +3980,7 @@
       "matricula": "LVBFY",
       "posicion": "10",
       "et": "",
-      "at": "",
+      "at": "31/12/2019 04:23",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -4007,7 +3988,7 @@
       "puerta": "10",
       "ruta": "LIM",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -4083,7 +4064,7 @@
       "puerta": "02",
       "ruta": "FLN",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4102,7 +4083,7 @@
       "puerta": "13",
       "ruta": "SSA",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
