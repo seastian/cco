@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/12/2019 03:23",
+  "lastUpdate": "31/12/2019 03:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3942,7 +3942,7 @@
       "matricula": "LVHKN",
       "posicion": "52B",
       "et": "",
-      "at": "",
+      "at": "31/12/2019 03:26",
       "term": "A",
       "sector": "",
       "chkFrom": "083",
@@ -3950,7 +3950,7 @@
       "puerta": "24",
       "ruta": "IGR",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
