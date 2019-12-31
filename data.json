@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/12/2019 22:30",
+  "lastUpdate": "30/12/2019 22:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -234,9 +234,9 @@
       "aerolinea": "G3",
       "vuelo": "7452",
       "st": "31/12/2019 00:25",
-      "matricula": "",
+      "matricula": "PRGEA",
       "posicion": "",
-      "et": "",
+      "et": "31/12/2019 00:30",
       "at": "",
       "term": "A",
       "sector": "",
@@ -244,9 +244,9 @@
       "lF": "",
       "ruta": "GRU",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "118"
     },
     {
       "tipo": "arribo",
@@ -1064,25 +1064,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "455",
-      "st": "30/12/2019 10:48",
-      "matricula": "CCBAF",
-      "posicion": "51A",
-      "et": "30/12/2019 10:34",
-      "at": "30/12/2019 10:33",
-      "term": "A",
-      "sector": "",
-      "cinta": "3",
-      "lF": "001",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "136"
     },
     {
       "tipo": "arribo",
@@ -4018,7 +3999,7 @@
       "matricula": "PRVBL",
       "posicion": "02",
       "et": "30/12/2019 22:15",
-      "at": "",
+      "at": "30/12/2019 22:28",
       "term": "A",
       "sector": "AP",
       "chkFrom": "068",
@@ -4026,7 +4007,7 @@
       "puerta": "01",
       "ruta": "GRU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -4083,7 +4064,7 @@
       "puerta": "04",
       "ruta": "DXB",
       "via": "GIG",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4159,7 +4140,7 @@
       "puerta": "01",
       "ruta": "SCL",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4178,7 +4159,7 @@
       "puerta": "18",
       "ruta": "CUN",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4197,7 +4178,7 @@
       "puerta": "14",
       "ruta": "DOH",
       "via": "GRU",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4699,7 +4680,7 @@
       "aerolinea": "G3",
       "vuelo": "7691",
       "st": "31/12/2019 05:05",
-      "matricula": "",
+      "matricula": "PRGEA",
       "posicion": "",
       "et": "",
       "at": "",
@@ -4830,7 +4811,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1428",
+      "vuelo": "1240",
       "st": "31/12/2019 06:40",
       "matricula": "",
       "posicion": "",
@@ -4841,7 +4822,7 @@
       "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
-      "ruta": "SLA",
+      "ruta": "GRU",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -4868,7 +4849,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1240",
+      "vuelo": "1428",
       "st": "31/12/2019 06:40",
       "matricula": "",
       "posicion": "",
@@ -4879,7 +4860,7 @@
       "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
-      "ruta": "GRU",
+      "ruta": "SLA",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -4905,25 +4886,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "LA",
-      "vuelo": "468",
-      "st": "31/12/2019 07:00",
-      "matricula": "CCCOL",
-      "posicion": "50A",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AV",
       "vuelo": "088",
       "st": "31/12/2019 07:00",
@@ -4937,6 +4899,25 @@
       "chkTo": "067",
       "puerta": "",
       "ruta": "BOG",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LA",
+      "vuelo": "468",
+      "st": "31/12/2019 07:00",
+      "matricula": "CCCOL",
+      "posicion": "50A",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "SCL",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -4981,25 +4962,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "JJ",
-      "vuelo": "8015",
-      "st": "31/12/2019 07:50",
-      "matricula": "PRMAP",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "LP",
       "vuelo": "2428",
       "st": "31/12/2019 07:50",
@@ -5013,6 +4975,25 @@
       "chkTo": "053",
       "puerta": "",
       "ruta": "LIM",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "JJ",
+      "vuelo": "8015",
+      "st": "31/12/2019 07:50",
+      "matricula": "PRMAP",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "GRU",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
