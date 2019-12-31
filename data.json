@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "31/12/2019 15:37",
+  "lastUpdate": "31/12/2019 15:44",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "4M",
-      "vuelo": "7824",
-      "st": "31/12/2019 15:45",
-      "matricula": "CCCXD",
-      "posicion": "52",
-      "et": "31/12/2019 15:40",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "2",
-      "lF": "002",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "98"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AD",
@@ -1086,25 +1067,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "4M",
-      "vuelo": "7821",
-      "st": "31/12/2019 07:25",
-      "matricula": "CCCXD",
-      "posicion": "04",
-      "et": "31/12/2019 07:00",
-      "at": "31/12/2019 07:06",
-      "term": "A",
-      "sector": "",
-      "cinta": "5",
-      "lF": "001",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "CM",
       "vuelo": "454",
       "st": "31/12/2019 07:04",
@@ -1121,6 +1083,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "134"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "4M",
+      "vuelo": "7821",
+      "st": "31/12/2019 07:25",
+      "matricula": "CCCXD",
+      "posicion": "04",
+      "et": "31/12/2019 07:00",
+      "at": "31/12/2019 07:06",
+      "term": "A",
+      "sector": "",
+      "cinta": "5",
+      "lF": "001",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -1371,22 +1352,22 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AA",
-      "vuelo": "907",
-      "st": "31/12/2019 06:56",
-      "matricula": "N773AN",
-      "posicion": "13",
+      "aerolinea": "DI",
+      "vuelo": "7505",
+      "st": "31/12/2019 08:15",
+      "matricula": "GCKWF",
+      "posicion": "04",
       "et": "31/12/2019 09:20",
-      "at": "31/12/2019 09:20",
+      "at": "31/12/2019 09:32",
       "term": "A",
       "sector": "",
-      "cinta": "1",
-      "lF": "006",
-      "ruta": "MIA",
+      "cinta": "5",
+      "lF": "004",
+      "ruta": "LGW",
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": "167"
+      "pax": "215"
     },
     {
       "tipo": "arribo",
@@ -1409,22 +1390,22 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "DI",
-      "vuelo": "7505",
-      "st": "31/12/2019 08:15",
-      "matricula": "GCKWF",
-      "posicion": "04",
+      "aerolinea": "AA",
+      "vuelo": "907",
+      "st": "31/12/2019 06:56",
+      "matricula": "N773AN",
+      "posicion": "13",
       "et": "31/12/2019 09:20",
-      "at": "31/12/2019 09:32",
+      "at": "31/12/2019 09:20",
       "term": "A",
       "sector": "",
-      "cinta": "5",
-      "lF": "004",
-      "ruta": "LGW",
+      "cinta": "1",
+      "lF": "006",
+      "ruta": "MIA",
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": "215"
+      "pax": "167"
     },
     {
       "tipo": "arribo",
@@ -2071,6 +2052,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "108"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "4M",
+      "vuelo": "7824",
+      "st": "31/12/2019 15:45",
+      "matricula": "CCCXD",
+      "posicion": "52",
+      "et": "31/12/2019 15:40",
+      "at": "31/12/2019 15:37",
+      "term": "A",
+      "sector": "",
+      "cinta": "2",
+      "lF": "002",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "98"
     },
     {
       "tipo": "partida",
@@ -3266,7 +3266,7 @@
       "puerta": "03",
       "ruta": "VVI",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3285,7 +3285,7 @@
       "puerta": "10",
       "ruta": "GRU",
       "via": "",
-      "remark": "PRE",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3323,7 +3323,7 @@
       "puerta": "18",
       "ruta": "AMS",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
