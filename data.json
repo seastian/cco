@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/12/2019 14:37",
+  "lastUpdate": "31/12/2019 14:42",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3209,7 +3209,7 @@
       "puerta": "07",
       "ruta": "GIG",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3285,7 +3285,7 @@
       "puerta": "16",
       "ruta": "FLN",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3304,7 +3304,7 @@
       "puerta": "02",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
