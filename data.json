@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/12/2019 12:34",
+  "lastUpdate": "31/12/2019 12:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -50,8 +50,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "4",
+      "lF": "001",
       "ruta": "FLN",
       "via": "",
       "remark": "EST",
@@ -107,8 +107,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "2",
+      "lF": "003",
       "ruta": "BSB",
       "via": "",
       "remark": "EST",
@@ -183,8 +183,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "7",
+      "lF": "008",
       "ruta": "FLN",
       "via": "",
       "remark": "DEM",
@@ -2094,25 +2094,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1302",
-      "st": "30/12/2019 23:00",
-      "matricula": "LVFNL",
-      "posicion": "16",
-      "et": "31/12/2019 00:15",
-      "at": "31/12/2019 00:39",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "207",
-      "chkTo": "240",
-      "puerta": "22",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "1368",
       "st": "30/12/2019 23:50",
       "matricula": "LVFUC",
@@ -3399,7 +3380,7 @@
       "puerta": "02",
       "ruta": "MAD",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3418,7 +3399,7 @@
       "puerta": "23",
       "ruta": "GIG",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
