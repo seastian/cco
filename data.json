@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/12/2019 01:43",
+  "lastUpdate": "31/12/2019 01:49",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1121,25 +1121,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "95"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8003",
-      "st": "30/12/2019 14:00",
-      "matricula": "PRMHQ",
-      "posicion": "04",
-      "et": "30/12/2019 13:40",
-      "at": "30/12/2019 13:47",
-      "term": "A",
-      "sector": "",
-      "cinta": "6",
-      "lF": "001",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "171"
     },
     {
       "tipo": "arribo",
@@ -4122,25 +4103,6 @@
       "ruta": "GIG",
       "via": "",
       "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "M3",
-      "vuelo": "8490",
-      "st": "31/12/2019 02:10",
-      "matricula": "PRACO",
-      "posicion": "55",
-      "et": "31/12/2019 01:07",
-      "at": "31/12/2019 01:09",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
       "sanidad": "NO"
     },
     {
