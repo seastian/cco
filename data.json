@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/01/2020 16:31",
+  "lastUpdate": "01/01/2020 16:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -120,9 +120,9 @@
       "aerolinea": "G3",
       "vuelo": "7684",
       "st": "01/01/2020 18:50",
-      "matricula": "",
+      "matricula": "PRGGX",
       "posicion": "",
-      "et": "",
+      "et": "1/1/2020 18:55",
       "at": "",
       "term": "A",
       "sector": "",
@@ -130,9 +130,9 @@
       "lF": "",
       "ruta": "GRU",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "66"
     },
     {
       "tipo": "arribo",
@@ -3752,7 +3752,7 @@
       "matricula": "PRGTE",
       "posicion": "05",
       "et": "",
-      "at": "",
+      "at": "1/1/2020 16:33",
       "term": "A",
       "sector": "AP",
       "chkFrom": "068",
@@ -3760,7 +3760,7 @@
       "puerta": "04",
       "ruta": "GRU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3817,7 +3817,7 @@
       "puerta": "23",
       "ruta": "BOG",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3836,7 +3836,7 @@
       "puerta": "05",
       "ruta": "GRU",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3855,7 +3855,7 @@
       "puerta": "07",
       "ruta": "CNF",
       "via": "",
-      "remark": "HOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4091,7 +4091,7 @@
       "aerolinea": "G3",
       "vuelo": "9305",
       "st": "01/01/2020 19:40",
-      "matricula": "",
+      "matricula": "PRGGX",
       "posicion": "",
       "et": "",
       "at": "",
