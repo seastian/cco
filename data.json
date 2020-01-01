@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/01/2020 12:29",
+  "lastUpdate": "01/01/2020 12:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -934,25 +934,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "GTI",
-      "vuelo": "033",
-      "st": "01/01/2020 20:45",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AU",
       "vuelo": "2463",
       "st": "01/01/2020 20:45",
@@ -988,6 +969,25 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "198"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "GTI",
+      "vuelo": "033",
+      "st": "01/01/2020 20:45",
+      "matricula": "N859GT",
+      "posicion": "",
+      "et": "1/1/2020 20:50",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -3429,7 +3429,7 @@
       "matricula": "LVCIE",
       "posicion": "52B",
       "et": "",
-      "at": "1/1/2020 12:28",
+      "at": "1/1/2020 12:32",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3467,7 +3467,7 @@
       "matricula": "LVFVM",
       "posicion": "17B",
       "et": "",
-      "at": "",
+      "at": "1/1/2020 12:34",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3475,7 +3475,7 @@
       "puerta": "27",
       "ruta": "BRC",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3494,7 +3494,7 @@
       "puerta": "09",
       "ruta": "BCN",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3570,7 +3570,7 @@
       "puerta": "02",
       "ruta": "MAD",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3589,7 +3589,7 @@
       "puerta": "06",
       "ruta": "CFB",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4411,25 +4411,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1103",
-      "st": "01/01/2020 21:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AU",
       "vuelo": "2518",
       "st": "01/01/2020 21:30",
@@ -4443,6 +4424,25 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "COR",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1103",
+      "st": "01/01/2020 21:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -4639,25 +4639,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "GTI",
-      "vuelo": "033",
-      "st": "01/01/2020 23:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "IB",
       "vuelo": "6844",
       "st": "01/01/2020 23:10",
@@ -4711,6 +4692,25 @@
       "ruta": "DOH",
       "via": "GRU",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "GTI",
+      "vuelo": "033",
+      "st": "01/01/2020 23:00",
+      "matricula": "N859GT",
+      "posicion": "",
+      "et": "1/1/2020 23:20",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "DEM",
       "sanidad": "NO"
     },
     {
