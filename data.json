@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/01/2020 14:15",
+  "lastUpdate": "01/01/2020 14:21",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -140,7 +140,7 @@
       "vuelo": "8760",
       "st": "01/01/2020 16:00",
       "matricula": "PRYRD",
-      "posicion": "",
+      "posicion": "08",
       "et": "1/1/2020 16:00",
       "at": "",
       "term": "A",
@@ -178,7 +178,7 @@
       "vuelo": "30",
       "st": "01/01/2020 16:00",
       "matricula": "ZKOKC",
-      "posicion": "",
+      "posicion": "04",
       "et": "1/1/2020 16:11",
       "at": "",
       "term": "A",
@@ -3665,7 +3665,7 @@
       "puerta": "01",
       "ruta": "GIG",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3684,7 +3684,7 @@
       "puerta": "03",
       "ruta": "FLN",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
