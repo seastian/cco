@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/01/2020 18:20",
+  "lastUpdate": "01/01/2020 18:26",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3828,7 +3828,7 @@
       "matricula": "LVGUC",
       "posicion": "12",
       "et": "",
-      "at": "",
+      "at": "1/1/2020 18:20",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3836,7 +3836,7 @@
       "puerta": "16",
       "ruta": "CWB",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
