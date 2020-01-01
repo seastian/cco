@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/01/2020 03:34",
+  "lastUpdate": "01/01/2020 03:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -536,25 +536,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "AR",
-      "vuelo": "1249",
-      "st": "01/01/2020 09:55",
-      "matricula": "LVGGQ",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
       "vuelo": "1269",
       "st": "01/01/2020 09:55",
       "matricula": "LVGKS",
@@ -566,6 +547,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "CWB",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1249",
+      "st": "01/01/2020 09:55",
+      "matricula": "LVGGQ",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "GRU",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -1162,22 +1162,22 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "4M",
-      "vuelo": "7824",
-      "st": "31/12/2019 15:45",
-      "matricula": "CCCXD",
-      "posicion": "52",
-      "et": "31/12/2019 15:40",
-      "at": "31/12/2019 15:37",
-      "term": "A",
-      "sector": "",
-      "cinta": "2",
-      "lF": "002",
-      "ruta": "SCL",
+      "aerolinea": "AR",
+      "vuelo": "1529",
+      "st": "01/01/2020 15:40",
+      "matricula": "LVCAP",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "COR",
       "via": "",
-      "remark": "ATE",
+      "remark": "",
       "sanidad": "NO",
-      "pax": "98"
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -2981,7 +2981,7 @@
       "puerta": "03",
       "ruta": "LIM",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3019,7 +3019,7 @@
       "puerta": "01",
       "ruta": "LIM",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
