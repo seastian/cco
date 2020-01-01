@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/12/2019 22:49",
+  "lastUpdate": "31/12/2019 22:56",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -877,25 +877,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1283",
-      "st": "31/12/2019 11:05",
-      "matricula": "LVGVC",
-      "posicion": "52A",
-      "et": "31/12/2019 10:48",
-      "at": "31/12/2019 10:55",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "008",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "93"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "UA",
       "vuelo": "819",
       "st": "31/12/2019 11:20",
@@ -912,25 +893,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "208"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "IB_",
-      "vuelo": "2601",
-      "st": "31/12/2019 11:05",
-      "matricula": "ECMOU",
-      "posicion": "10",
-      "et": "31/12/2019 11:06",
-      "at": "31/12/2019 10:51",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "007",
-      "ruta": "BCN",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "173"
     },
     {
       "tipo": "arribo",
@@ -3171,7 +3133,7 @@
       "puerta": "16",
       "ruta": "MIA",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3266,7 +3228,7 @@
       "puerta": "14",
       "ruta": "IST",
       "via": "GRU",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
