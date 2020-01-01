@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/01/2020 07:23",
+  "lastUpdate": "01/01/2020 07:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2061,14 +2061,14 @@
       "matricula": "PHBHC",
       "posicion": "14",
       "et": "1/1/2020 07:10",
-      "at": "",
+      "at": "1/1/2020 07:25",
       "term": "A",
       "sector": "",
       "cinta": "9",
       "lF": "007",
       "ruta": "AMS",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "219"
     },
@@ -3152,7 +3152,7 @@
       "puerta": "26",
       "ruta": "ROS",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3171,7 +3171,7 @@
       "puerta": "27",
       "ruta": "IGR",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
