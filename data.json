@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/01/2020 17:44",
+  "lastUpdate": "01/01/2020 17:49",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2479,14 +2479,14 @@
       "matricula": "LVFVO",
       "posicion": "17B",
       "et": "1/1/2020 17:40",
-      "at": "",
+      "at": "1/1/2020 17:49",
       "term": "A",
       "sector": "",
       "cinta": "7",
       "lF": "007",
       "ruta": "GIG",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "129"
     },
@@ -3828,7 +3828,7 @@
       "matricula": "LVCEV",
       "posicion": "25A",
       "et": "",
-      "at": "",
+      "at": "1/1/2020 17:45",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3836,7 +3836,7 @@
       "puerta": "17",
       "ruta": "POA",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3893,7 +3893,7 @@
       "puerta": "16",
       "ruta": "CWB",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
