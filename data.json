@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/01/2020 00:12",
+  "lastUpdate": "01/01/2020 00:19",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2036,25 +2036,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1524",
-      "st": "31/12/2019 12:05",
-      "matricula": "LVCBT",
-      "posicion": "50A",
-      "et": "",
-      "at": "31/12/2019 12:15",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "25",
-      "ruta": "COR",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "4M",
       "vuelo": "7504",
       "st": "31/12/2019 12:19",
@@ -2910,25 +2891,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AA",
-      "vuelo": "992",
-      "st": "31/12/2019 22:05",
-      "matricula": "N837AN",
-      "posicion": "09",
-      "et": "",
-      "at": "31/12/2019 22:21",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "001",
-      "chkTo": "020",
-      "puerta": "09",
-      "ruta": "LAX",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "UA",
       "vuelo": "818",
       "st": "31/12/2019 22:05",
@@ -2942,6 +2904,25 @@
       "chkTo": "061",
       "puerta": "14",
       "ruta": "IAH",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AA",
+      "vuelo": "992",
+      "st": "31/12/2019 22:05",
+      "matricula": "N837AN",
+      "posicion": "09",
+      "et": "",
+      "at": "31/12/2019 22:21",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "001",
+      "chkTo": "020",
+      "puerta": "09",
+      "ruta": "LAX",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -2967,25 +2948,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AA",
-      "vuelo": "954",
-      "st": "31/12/2019 22:45",
-      "matricula": "N766AN",
-      "posicion": "10",
-      "et": "",
-      "at": "31/12/2019 22:46",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "001",
-      "chkTo": "020",
-      "puerta": "10",
-      "ruta": "JFK",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1140",
       "st": "31/12/2019 22:45",
@@ -3001,6 +2963,25 @@
       "ruta": "FCO",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AA",
+      "vuelo": "954",
+      "st": "31/12/2019 22:45",
+      "matricula": "N766AN",
+      "posicion": "10",
+      "et": "",
+      "at": "31/12/2019 22:46",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "001",
+      "chkTo": "020",
+      "puerta": "10",
+      "ruta": "JFK",
+      "via": "",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3201,7 +3182,7 @@
       "matricula": "N818AV",
       "posicion": "07",
       "et": "",
-      "at": "",
+      "at": "1/1/2020 00:13",
       "term": "A",
       "sector": "AP",
       "chkFrom": "013",
@@ -3209,7 +3190,7 @@
       "puerta": "06",
       "ruta": "BOG",
       "via": "",
-      "remark": "ULT",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3228,7 +3209,7 @@
       "puerta": "02",
       "ruta": "PTY",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
