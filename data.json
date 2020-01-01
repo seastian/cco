@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/01/2020 10:33",
+  "lastUpdate": "01/01/2020 10:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1486,25 +1486,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "JJ",
-      "vuelo": "8014",
-      "st": "31/12/2019 23:05",
-      "matricula": "PRMAP",
-      "posicion": "05",
-      "et": "31/12/2019 22:38",
-      "at": "31/12/2019 22:36",
-      "term": "A",
-      "sector": "",
-      "cinta": "1",
-      "lF": "001",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "92"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "JJ",
       "vuelo": "8010",
       "st": "31/12/2019 23:55",
       "matricula": "PRMAZ",
@@ -2303,25 +2284,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "AA",
-      "vuelo": "953",
-      "st": "01/01/2020 10:42",
-      "matricula": "N783AN",
-      "posicion": "14",
-      "et": "1/1/2020 10:10",
-      "at": "1/1/2020 10:10",
-      "term": "A",
-      "sector": "",
-      "cinta": "1",
-      "lF": "006",
-      "ruta": "JFK",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "93"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AA",
       "vuelo": "997",
       "st": "01/01/2020 08:42",
       "matricula": "N756AM",
@@ -2337,6 +2299,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "102"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AA",
+      "vuelo": "953",
+      "st": "01/01/2020 10:42",
+      "matricula": "N783AN",
+      "posicion": "14",
+      "et": "1/1/2020 10:10",
+      "at": "1/1/2020 10:10",
+      "term": "A",
+      "sector": "",
+      "cinta": "1",
+      "lF": "006",
+      "ruta": "JFK",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "93"
     },
     {
       "tipo": "arribo",
