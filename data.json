@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/01/2020 12:50",
+  "lastUpdate": "01/01/2020 12:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1504,25 +1504,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "CM",
-      "vuelo": "363",
-      "st": "01/01/2020 01:33",
-      "matricula": "HP1832",
-      "posicion": "07",
-      "et": "1/1/2020 00:58",
-      "at": "1/1/2020 00:54",
-      "term": "A",
-      "sector": "",
-      "cinta": "2",
-      "lF": "002",
-      "ruta": "PTY",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "22"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AD",
       "vuelo": "8762",
       "st": "01/01/2020 02:00",
@@ -2208,25 +2189,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "AA",
-      "vuelo": "997",
-      "st": "01/01/2020 08:42",
-      "matricula": "N756AM",
-      "posicion": "13",
-      "et": "1/1/2020 10:10",
-      "at": "1/1/2020 10:06",
-      "term": "A",
-      "sector": "",
-      "cinta": "4",
-      "lF": "005",
-      "ruta": "DFW",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "102"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AA",
       "vuelo": "953",
       "st": "01/01/2020 10:42",
       "matricula": "N783AN",
@@ -2242,6 +2204,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "93"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AA",
+      "vuelo": "997",
+      "st": "01/01/2020 08:42",
+      "matricula": "N756AM",
+      "posicion": "13",
+      "et": "1/1/2020 10:10",
+      "at": "1/1/2020 10:06",
+      "term": "A",
+      "sector": "",
+      "cinta": "4",
+      "lF": "005",
+      "ruta": "DFW",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "102"
     },
     {
       "tipo": "arribo",
@@ -3551,7 +3532,7 @@
       "puerta": "02",
       "ruta": "MAD",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3608,7 +3589,7 @@
       "puerta": "17",
       "ruta": "FCO",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
