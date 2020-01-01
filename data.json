@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/01/2020 02:17",
+  "lastUpdate": "01/01/2020 02:24",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1843,25 +1843,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "41"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1325",
-      "st": "31/12/2019 23:15",
-      "matricula": "LVGVB",
-      "posicion": "16B",
-      "et": "31/12/2019 21:45",
-      "at": "31/12/2019 21:48",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "008",
-      "ruta": "PUJ",
-      "via": "SLA",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "34"
     },
     {
       "tipo": "arribo",
