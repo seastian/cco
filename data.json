@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/01/2020 15:44",
+  "lastUpdate": "01/01/2020 15:49",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -198,7 +198,7 @@
       "st": "01/01/2020 18:10",
       "matricula": "LVGKS",
       "posicion": "25B",
-      "et": "",
+      "et": "1/1/2020 18:00",
       "at": "",
       "term": "A",
       "sector": "",
@@ -206,9 +206,9 @@
       "lF": "007",
       "ruta": "GRU",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "64"
     },
     {
       "tipo": "arribo",
@@ -2683,25 +2683,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1240",
-      "st": "01/01/2020 06:40",
-      "matricula": "LVFWS",
-      "posicion": "18A",
-      "et": "",
-      "at": "1/1/2020 07:00",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "19",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "1428",
       "st": "01/01/2020 06:40",
       "matricula": "LVCBT",
@@ -2714,6 +2695,25 @@
       "chkTo": "240",
       "puerta": "24",
       "ruta": "SLA",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1240",
+      "st": "01/01/2020 06:40",
+      "matricula": "LVFWS",
+      "posicion": "18A",
+      "et": "",
+      "at": "1/1/2020 07:00",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "19",
+      "ruta": "GRU",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -2777,25 +2777,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "LA",
-      "vuelo": "468",
-      "st": "01/01/2020 07:00",
-      "matricula": "CCBAC",
-      "posicion": "06",
-      "et": "",
-      "at": "1/1/2020 07:07",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "05",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AV",
       "vuelo": "088",
       "st": "01/01/2020 07:00",
@@ -2809,6 +2790,25 @@
       "chkTo": "067",
       "puerta": "10",
       "ruta": "BOG",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LA",
+      "vuelo": "468",
+      "st": "01/01/2020 07:00",
+      "matricula": "CCBAC",
+      "posicion": "06",
+      "et": "",
+      "at": "1/1/2020 07:07",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "05",
+      "ruta": "SCL",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -3741,7 +3741,7 @@
       "puerta": "16",
       "ruta": "GRU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3760,7 +3760,7 @@
       "puerta": "17",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3779,7 +3779,7 @@
       "puerta": "02",
       "ruta": "GRU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3817,7 +3817,7 @@
       "puerta": "18",
       "ruta": "AMS",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
