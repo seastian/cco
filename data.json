@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/01/2020 20:42",
+  "lastUpdate": "01/01/2020 20:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -60,25 +60,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7650",
-      "st": "01/01/2020 21:15",
-      "matricula": "PRGGK",
-      "posicion": "02",
-      "et": "1/1/2020 21:05",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "4",
-      "lF": "004",
-      "ruta": "GIG",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "123"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1429",
       "st": "01/01/2020 21:30",
@@ -95,6 +76,25 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "G3",
+      "vuelo": "7650",
+      "st": "01/01/2020 21:15",
+      "matricula": "PRGGK",
+      "posicion": "02",
+      "et": "1/1/2020 21:05",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "4",
+      "lF": "004",
+      "ruta": "GIG",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "123"
     },
     {
       "tipo": "arribo",
