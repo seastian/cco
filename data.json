@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/01/2020 12:40",
+  "lastUpdate": "01/01/2020 12:45",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -231,6 +231,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "KL",
+      "vuelo": "702",
+      "st": "01/01/2020 14:40",
+      "matricula": "PHBHC",
+      "posicion": "",
+      "et": "1/1/2020 14:06",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "AC",
       "vuelo": "092",
       "st": "01/01/2020 14:30",
@@ -266,25 +285,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "81"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "KL",
-      "vuelo": "702",
-      "st": "01/01/2020 14:40",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -1504,25 +1504,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7648",
-      "st": "01/01/2020 01:05",
-      "matricula": "PRVBG",
-      "posicion": "05",
-      "et": "1/1/2020 00:40",
-      "at": "1/1/2020 00:43",
-      "term": "A",
-      "sector": "",
-      "cinta": "5",
-      "lF": "005",
-      "ruta": "GIG",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "CM",
       "vuelo": "363",
       "st": "01/01/2020 01:33",
@@ -2227,25 +2208,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "AA",
-      "vuelo": "953",
-      "st": "01/01/2020 10:42",
-      "matricula": "N783AN",
-      "posicion": "14",
-      "et": "1/1/2020 10:10",
-      "at": "1/1/2020 10:10",
-      "term": "A",
-      "sector": "",
-      "cinta": "1",
-      "lF": "006",
-      "ruta": "JFK",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "93"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AA",
       "vuelo": "997",
       "st": "01/01/2020 08:42",
       "matricula": "N756AM",
@@ -2261,6 +2223,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "102"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AA",
+      "vuelo": "953",
+      "st": "01/01/2020 10:42",
+      "matricula": "N783AN",
+      "posicion": "14",
+      "et": "1/1/2020 10:10",
+      "at": "1/1/2020 10:10",
+      "term": "A",
+      "sector": "",
+      "cinta": "1",
+      "lF": "006",
+      "ruta": "JFK",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "93"
     },
     {
       "tipo": "arribo",
@@ -3532,7 +3513,7 @@
       "puerta": "16",
       "ruta": "MAD",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3570,7 +3551,7 @@
       "puerta": "02",
       "ruta": "MAD",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3589,7 +3570,7 @@
       "puerta": "06",
       "ruta": "CFB",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
