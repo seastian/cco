@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/01/2020 19:31",
+  "lastUpdate": "02/01/2020 19:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -25,7 +25,7 @@
       "aerolinea": "4M",
       "vuelo": "7767",
       "st": "02/01/2020 19:59",
-      "matricula": "LVBSJ",
+      "matricula": "",
       "posicion": "",
       "et": "",
       "at": "",
@@ -3961,7 +3961,7 @@
       "matricula": "PRMBO",
       "posicion": "02",
       "et": "",
-      "at": "",
+      "at": "2/1/2020 19:32",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3969,7 +3969,7 @@
       "puerta": "01",
       "ruta": "GRU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
