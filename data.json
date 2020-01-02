@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/01/2020 19:47",
+  "lastUpdate": "02/01/2020 19:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1157,6 +1157,25 @@
       "ruta": "MIA",
       "via": "",
       "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "DI",
+      "vuelo": "7505",
+      "st": "03/01/2020 08:15",
+      "matricula": "GCKWC",
+      "posicion": "",
+      "et": "3/1/2020 07:49",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "LGW",
+      "via": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -4026,7 +4045,7 @@
       "puerta": "07",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4642,7 +4661,7 @@
       "aerolinea": "AR",
       "vuelo": "1324",
       "st": "03/01/2020 03:15",
-      "matricula": "",
+      "matricula": "LVGVC",
       "posicion": "",
       "et": "",
       "at": "",
