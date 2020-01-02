@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/01/2020 03:44",
+  "lastUpdate": "02/01/2020 03:49",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1288,6 +1288,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "COR",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "4M",
+      "vuelo": "7824",
+      "st": "02/01/2020 15:45",
+      "matricula": "CCCWV",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -3893,7 +3912,7 @@
       "puerta": "02",
       "ruta": "BSB",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4099,7 +4118,7 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "19",
+      "puerta": "18",
       "ruta": "SCL",
       "via": "",
       "remark": "HOR",
