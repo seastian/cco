@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/01/2020 04:52",
+  "lastUpdate": "02/01/2020 04:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1330,25 +1330,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AD",
-      "vuelo": "8770",
-      "st": "01/01/2020 17:00",
-      "matricula": "PRYRF",
-      "posicion": "07",
-      "et": "1/1/2020 16:40",
-      "at": "1/1/2020 16:55",
-      "term": "A",
-      "sector": "",
-      "cinta": "1",
-      "lF": "006",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "158"
     },
     {
       "tipo": "arribo",
@@ -3893,7 +3874,7 @@
       "puerta": "24",
       "ruta": "IGR",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3912,7 +3893,7 @@
       "puerta": "09",
       "ruta": "CNF",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3969,7 +3950,7 @@
       "puerta": "10",
       "ruta": "LIM",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
