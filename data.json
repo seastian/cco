@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/01/2020 14:49",
+  "lastUpdate": "02/01/2020 14:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3847,7 +3847,7 @@
       "matricula": "FGSPT",
       "posicion": "11",
       "et": "",
-      "at": "",
+      "at": "2/1/2020 14:52",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "209",
@@ -3855,7 +3855,7 @@
       "puerta": "14",
       "ruta": "CDG",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3969,7 +3969,7 @@
       "puerta": "20",
       "ruta": "GIG",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4118,7 +4118,7 @@
       "sector": "CPI",
       "chkFrom": "201",
       "chkTo": "218",
-      "puerta": "19",
+      "puerta": "18",
       "ruta": "AMS",
       "via": "",
       "remark": "HOR",
