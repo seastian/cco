@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/01/2020 20:45",
+  "lastUpdate": "08/01/2020 20:51",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1086,22 +1086,22 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8012",
-      "st": "08/01/2020 09:00",
-      "matricula": "PRMBZ",
-      "posicion": "08",
-      "et": "8/1/2020 09:00",
-      "at": "8/1/2020 08:51",
+      "aerolinea": "4M",
+      "vuelo": "7815",
+      "st": "09/01/2020 08:48",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "2",
-      "lF": "002",
-      "ruta": "GRU",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
       "via": "",
-      "remark": "ATE",
+      "remark": "",
       "sanidad": "NO",
-      "pax": "95"
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -2612,35 +2612,16 @@
       "matricula": "HP1834",
       "posicion": "52B",
       "et": "8/1/2020 20:45",
-      "at": "",
+      "at": "8/1/2020 20:49",
       "term": "A",
       "sector": "",
       "cinta": "4",
       "lF": "004",
       "ruta": "PTY",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "133"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "4M",
-      "vuelo": "7825",
-      "st": "08/01/2020 08:35",
-      "matricula": "CCCWF",
-      "posicion": "06",
-      "et": "",
-      "at": "8/1/2020 08:48",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "05",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
@@ -4007,7 +3988,7 @@
       "puerta": "10",
       "ruta": "DFW",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4064,7 +4045,7 @@
       "puerta": "14",
       "ruta": "ADD",
       "via": "GRU",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
