@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/01/2020 17:13",
+  "lastUpdate": "08/01/2020 17:18",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -908,6 +908,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "PTY",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "FO",
+      "vuelo": "5271",
+      "st": "09/01/2020 01:45",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "BRC",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -2460,14 +2479,14 @@
       "matricula": "CCBBG",
       "posicion": "03",
       "et": "",
-      "at": "",
+      "at": "8/1/2020 17:14",
       "term": "A",
       "sector": "",
       "cinta": "4",
       "lF": "004",
       "ruta": "SCL",
       "via": "",
-      "remark": "CON",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -4026,7 +4045,7 @@
       "puerta": "20",
       "ruta": "ASU",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4102,7 +4121,7 @@
       "puerta": "16",
       "ruta": "CWB",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
