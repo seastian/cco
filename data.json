@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/01/2020 16:33",
+  "lastUpdate": "08/01/2020 16:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1178,25 +1178,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "179"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "5X",
-      "vuelo": "414",
-      "st": "08/01/2020 05:12",
-      "matricula": "N346UP",
-      "posicion": "54",
-      "et": "8/1/2020 05:26",
-      "at": "8/1/2020 04:36",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "SCL",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -2498,14 +2479,14 @@
       "matricula": "LVFUB",
       "posicion": "17B",
       "et": "",
-      "at": "",
+      "at": "8/1/2020 16:35",
       "term": "C",
       "sector": "CAC",
       "cinta": "12",
       "lF": "018",
       "ruta": "BRC",
       "via": "",
-      "remark": "CON",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "134"
     },
