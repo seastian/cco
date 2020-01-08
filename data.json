@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/01/2020 10:24",
+  "lastUpdate": "08/01/2020 10:29",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -12,7 +12,7 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "1",
+      "cinta": "",
       "lF": "",
       "ruta": "JFK",
       "via": "",
@@ -50,7 +50,7 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "3",
+      "cinta": "",
       "lF": "",
       "ruta": "SCL",
       "via": "",
@@ -2463,7 +2463,7 @@
       "at": "8/1/2020 10:02",
       "term": "A",
       "sector": "",
-      "cinta": "",
+      "cinta": "3",
       "lF": "002",
       "ruta": "SCL",
       "via": "",
@@ -2540,31 +2540,12 @@
       "term": "A",
       "sector": "",
       "cinta": "1",
-      "lF": "",
+      "lF": "006",
       "ruta": "DFW",
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "240"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "4M",
-      "vuelo": "7820",
-      "st": "07/01/2020 22:15",
-      "matricula": "CCCXC",
-      "posicion": "04",
-      "et": "",
-      "at": "7/1/2020 22:26",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "03",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
@@ -3836,7 +3817,7 @@
       "puerta": "20",
       "ruta": "MIA",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3855,7 +3836,7 @@
       "puerta": "13",
       "ruta": "GIG",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3931,7 +3912,7 @@
       "puerta": "10",
       "ruta": "LGW",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
