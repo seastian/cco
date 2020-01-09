@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/01/2020 12:27",
+  "lastUpdate": "09/01/2020 12:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3581,7 +3581,7 @@
       "matricula": "LVGVA",
       "posicion": "17B",
       "et": "",
-      "at": "",
+      "at": "9/1/2020 12:21",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3589,7 +3589,7 @@
       "puerta": "25",
       "ruta": "COR",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3638,7 +3638,7 @@
       "matricula": "PTMXN",
       "posicion": "12",
       "et": "",
-      "at": "",
+      "at": "9/1/2020 12:33",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3646,7 +3646,7 @@
       "puerta": "16",
       "ruta": "GRU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3684,7 +3684,7 @@
       "puerta": "10",
       "ruta": "ZRH",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
