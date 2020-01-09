@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/01/2020 06:24",
+  "lastUpdate": "09/01/2020 06:29",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -269,6 +269,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "BA",
+      "vuelo": "245",
+      "st": "09/01/2020 09:10",
+      "matricula": "GYMMR",
+      "posicion": "",
+      "et": "9/1/2020 08:50",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "LHR",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "PRV",
       "vuelo": "CBP",
       "st": "09/01/2020 09:00",
@@ -302,25 +321,6 @@
       "ruta": "GRU",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "BA",
-      "vuelo": "245",
-      "st": "09/01/2020 09:10",
-      "matricula": "GYMMR",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "LHR",
-      "via": "",
-      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
@@ -3771,7 +3771,7 @@
       "matricula": "LVFSK",
       "posicion": "17B",
       "et": "",
-      "at": "",
+      "at": "9/1/2020 06:28",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3779,7 +3779,7 @@
       "puerta": "18",
       "ruta": "SCL",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3893,7 +3893,7 @@
       "puerta": "25",
       "ruta": "MDZ",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3931,7 +3931,7 @@
       "puerta": "10",
       "ruta": "SCL",
       "via": "",
-      "remark": "PRE",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3969,7 +3969,7 @@
       "puerta": "13",
       "ruta": "GIG",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
