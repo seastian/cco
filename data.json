@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/01/2020 03:25",
+  "lastUpdate": "09/01/2020 03:31",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2593,14 +2593,14 @@
       "matricula": "LVFVI",
       "posicion": "13",
       "et": "9/1/2020 03:17",
-      "at": "",
+      "at": "9/1/2020 03:31",
       "term": "A",
       "sector": "",
       "cinta": "9",
       "lF": "009",
       "ruta": "MAD",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "205"
     },
@@ -2619,25 +2619,6 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AF",
-      "vuelo": "229",
-      "st": "08/01/2020 14:20",
-      "matricula": "FGSPQ",
-      "posicion": "11",
-      "et": "",
-      "at": "8/1/2020 15:28",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "211",
-      "chkTo": "220",
-      "puerta": "14",
-      "ruta": "CDG",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -2676,25 +2657,6 @@
       "chkTo": "240",
       "puerta": "19",
       "ruta": "FLN",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "CM",
-      "vuelo": "278",
-      "st": "08/01/2020 11:38",
-      "matricula": "HP1725",
-      "posicion": "51A",
-      "et": "8/1/2020 15:00",
-      "at": "8/1/2020 15:31",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "013",
-      "chkTo": "018",
-      "puerta": "12",
-      "ruta": "PTY",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -4045,7 +4007,7 @@
       "puerta": "06",
       "ruta": "LIM",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
