@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/01/2020 14:48",
+  "lastUpdate": "09/01/2020 14:53",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -236,7 +236,7 @@
       "st": "09/01/2020 17:50",
       "matricula": "LVFUB",
       "posicion": "",
-      "et": "",
+      "et": "9/1/2020 17:33",
       "at": "",
       "term": "A",
       "sector": "",
@@ -244,9 +244,9 @@
       "lF": "",
       "ruta": "GIG",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "114"
     },
     {
       "tipo": "arribo",
@@ -1143,25 +1143,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7690",
-      "st": "09/01/2020 01:50",
-      "matricula": "PRGOR",
-      "posicion": "02",
-      "et": "",
-      "at": "9/1/2020 02:50",
-      "term": "A",
-      "sector": "",
-      "cinta": "2",
-      "lF": "002",
-      "ruta": "FLN",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "76"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "UC",
       "vuelo": "1104",
       "st": "09/01/2020 03:00",
@@ -1903,25 +1884,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AM",
-      "vuelo": "028",
-      "st": "09/01/2020 10:40",
-      "matricula": "XAADH",
-      "posicion": "04",
-      "et": "9/1/2020 09:55",
-      "at": "9/1/2020 09:46",
-      "term": "A",
-      "sector": "",
-      "cinta": "6",
-      "lF": "010",
-      "ruta": "MEX",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "171"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "JJ",
       "vuelo": "8008",
       "st": "09/01/2020 10:15",
@@ -1938,6 +1900,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "123"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AM",
+      "vuelo": "028",
+      "st": "09/01/2020 10:40",
+      "matricula": "XAADH",
+      "posicion": "04",
+      "et": "9/1/2020 09:55",
+      "at": "9/1/2020 09:46",
+      "term": "A",
+      "sector": "",
+      "cinta": "6",
+      "lF": "010",
+      "ruta": "MEX",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "171"
     },
     {
       "tipo": "arribo",
@@ -3714,7 +3695,7 @@
       "matricula": "PRMBX",
       "posicion": "10",
       "et": "",
-      "at": "",
+      "at": "9/1/2020 14:51",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3722,7 +3703,7 @@
       "puerta": "10",
       "ruta": "FLN",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3798,7 +3779,7 @@
       "puerta": "05",
       "ruta": "SCL",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4498,7 +4479,7 @@
       "sector": "AP",
       "chkFrom": "041",
       "chkTo": "053",
-      "puerta": "05",
+      "puerta": "",
       "ruta": "MIA",
       "via": "",
       "remark": "HOR",
