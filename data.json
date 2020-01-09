@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/01/2020 00:56",
+  "lastUpdate": "09/01/2020 01:01",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -4207,7 +4207,7 @@
       "st": "08/01/2020 23:45",
       "matricula": "ZKOKD",
       "posicion": "05",
-      "et": "9/1/2020 01:00",
+      "et": "9/1/2020 01:30",
       "at": "",
       "term": "A",
       "sector": "AP",
@@ -5393,6 +5393,25 @@
       "chkTo": "067",
       "puerta": "",
       "ruta": "ZRH",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "IB_",
+      "vuelo": "2602",
+      "st": "09/01/2020 13:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "027",
+      "chkTo": "032",
+      "puerta": "",
+      "ruta": "BCN",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
