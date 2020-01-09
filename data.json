@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/01/2020 11:31",
+  "lastUpdate": "09/01/2020 11:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -312,7 +312,7 @@
       "st": "09/01/2020 15:15",
       "matricula": "LVBOI",
       "posicion": "",
-      "et": "",
+      "et": "9/1/2020 15:02",
       "at": "",
       "term": "A",
       "sector": "",
@@ -320,9 +320,9 @@
       "lF": "",
       "ruta": "LIM",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "164"
     },
     {
       "tipo": "arribo",
@@ -3562,7 +3562,7 @@
       "matricula": "LVFUB",
       "posicion": "17A",
       "et": "",
-      "at": "",
+      "at": "9/1/2020 11:28",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3570,7 +3570,7 @@
       "puerta": "21",
       "ruta": "SCL",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3703,7 +3703,7 @@
       "puerta": "25",
       "ruta": "COR",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4023,7 +4023,7 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "23",
       "ruta": "FLN",
       "via": "",
       "remark": "HOR",
