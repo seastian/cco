@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/01/2020 14:53",
+  "lastUpdate": "09/01/2020 14:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -139,7 +139,7 @@
       "aerolinea": "AR",
       "vuelo": "1285",
       "st": "09/01/2020 16:20",
-      "matricula": "LVGGK",
+      "matricula": "LVFUB",
       "posicion": "",
       "et": "9/1/2020 16:00",
       "at": "",
@@ -234,7 +234,7 @@
       "aerolinea": "AR",
       "vuelo": "1293",
       "st": "09/01/2020 17:50",
-      "matricula": "LVFUB",
+      "matricula": "LVGGK",
       "posicion": "",
       "et": "9/1/2020 17:33",
       "at": "",
@@ -3714,7 +3714,7 @@
       "matricula": "LVGKU",
       "posicion": "17A",
       "et": "",
-      "at": "",
+      "at": "9/1/2020 14:56",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3722,7 +3722,7 @@
       "puerta": "23",
       "ruta": "FLN",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3741,7 +3741,7 @@
       "puerta": "18",
       "ruta": "GIG",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4091,7 +4091,7 @@
       "aerolinea": "AR",
       "vuelo": "1268",
       "st": "09/01/2020 18:10",
-      "matricula": "LVFUB",
+      "matricula": "LVGGK",
       "posicion": "",
       "et": "",
       "at": "",
@@ -4243,7 +4243,7 @@
       "aerolinea": "AR",
       "vuelo": "1248",
       "st": "09/01/2020 19:40",
-      "matricula": "LVGGK",
+      "matricula": "LVFUB",
       "posicion": "",
       "et": "",
       "at": "",
