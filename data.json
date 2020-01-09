@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/01/2020 05:31",
+  "lastUpdate": "09/01/2020 05:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1127,7 +1127,7 @@
       "aerolinea": "AR",
       "vuelo": "1529",
       "st": "09/01/2020 15:40",
-      "matricula": "LVFSK",
+      "matricula": "LVGVA",
       "posicion": "",
       "et": "",
       "at": "",
@@ -2530,25 +2530,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "JJ",
-      "vuelo": "8013",
-      "st": "08/01/2020 16:50",
-      "matricula": "PRTYG",
-      "posicion": "05",
-      "et": "",
-      "at": "8/1/2020 17:36",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "04",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AD",
       "vuelo": "8761",
       "st": "08/01/2020 16:50",
@@ -3874,7 +3855,7 @@
       "puerta": "13",
       "ruta": "ASU",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3893,7 +3874,7 @@
       "puerta": "21",
       "ruta": "POA",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4173,7 +4154,7 @@
       "at": "",
       "term": "A",
       "sector": "AP",
-      "chkFrom": "041",
+      "chkFrom": "040",
       "chkTo": "053",
       "puerta": "03",
       "ruta": "LIM",
