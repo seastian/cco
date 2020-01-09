@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/01/2020 12:17",
+  "lastUpdate": "09/01/2020 12:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3581,7 +3581,7 @@
       "matricula": "LVFRK",
       "posicion": "22A",
       "et": "",
-      "at": "",
+      "at": "9/1/2020 12:18",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3589,7 +3589,7 @@
       "puerta": "24",
       "ruta": "FTE",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3665,7 +3665,7 @@
       "puerta": "16",
       "ruta": "GRU",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3722,7 +3722,7 @@
       "puerta": "09",
       "ruta": "BCN",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
