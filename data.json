@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/01/2020 15:34",
+  "lastUpdate": "09/01/2020 15:39",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -272,7 +272,7 @@
       "aerolinea": "LP",
       "vuelo": "2429",
       "st": "09/01/2020 19:06",
-      "matricula": "CCBGE",
+      "matricula": "CCBCE",
       "posicion": "",
       "et": "",
       "at": "",
@@ -3760,7 +3760,7 @@
       "puerta": "16",
       "ruta": "GRU",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3798,7 +3798,7 @@
       "puerta": "15",
       "ruta": "GRU",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3836,7 +3836,7 @@
       "puerta": "04",
       "ruta": "GRU",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4224,7 +4224,7 @@
       "aerolinea": "LP",
       "vuelo": "2468",
       "st": "09/01/2020 20:12",
-      "matricula": "CCBGE",
+      "matricula": "CCBCE",
       "posicion": "",
       "et": "",
       "at": "",
@@ -4661,8 +4661,8 @@
       "aerolinea": "AR",
       "vuelo": "1132",
       "st": "09/01/2020 23:55",
-      "matricula": "LVFVH",
-      "posicion": "",
+      "matricula": "LVFPU",
+      "posicion": "M01",
       "et": "",
       "at": "",
       "term": "C",
