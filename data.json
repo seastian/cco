@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/01/2020 16:51",
+  "lastUpdate": "09/01/2020 16:56",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2384,14 +2384,14 @@
       "matricula": "PRYRC",
       "posicion": "02",
       "et": "9/1/2020 16:51",
-      "at": "",
+      "at": "9/1/2020 16:55",
       "term": "A",
       "sector": "",
       "cinta": "4",
       "lF": "004",
       "ruta": "VCP",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "170"
     },
@@ -3855,7 +3855,7 @@
       "puerta": "17",
       "ruta": "ASU",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3874,7 +3874,7 @@
       "puerta": "27",
       "ruta": "IGR",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
