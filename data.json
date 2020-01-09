@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/01/2020 13:40",
+  "lastUpdate": "09/01/2020 13:45",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -83,7 +83,7 @@
       "vuelo": "1229",
       "st": "09/01/2020 15:05",
       "matricula": "LVFQB",
-      "posicion": "",
+      "posicion": "17B",
       "et": "9/1/2020 14:30",
       "at": "",
       "term": "A",
@@ -121,7 +121,7 @@
       "vuelo": "507",
       "st": "09/01/2020 14:47",
       "matricula": "CCAZK",
-      "posicion": "",
+      "posicion": "06",
       "et": "9/1/2020 14:35",
       "at": "",
       "term": "A",
@@ -140,7 +140,7 @@
       "vuelo": "092",
       "st": "09/01/2020 14:30",
       "matricula": "CFJZS",
-      "posicion": "",
+      "posicion": "10",
       "et": "9/1/2020 15:00",
       "at": "",
       "term": "A",
@@ -2384,14 +2384,14 @@
       "matricula": "LVGUB",
       "posicion": "14A",
       "et": "9/1/2020 13:40",
-      "at": "",
+      "at": "9/1/2020 13:42",
       "term": "A",
       "sector": "",
       "cinta": "9",
       "lF": "009",
       "ruta": "GIG",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "112"
     },
@@ -3562,7 +3562,7 @@
       "matricula": "PRYRW",
       "posicion": "02",
       "et": "",
-      "at": "",
+      "at": "9/1/2020 13:30",
       "term": "A",
       "sector": "AP",
       "chkFrom": "075",
@@ -3570,7 +3570,7 @@
       "puerta": "01",
       "ruta": "VCP",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3627,7 +3627,7 @@
       "puerta": "16",
       "ruta": "FCO",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3646,7 +3646,7 @@
       "puerta": "05",
       "ruta": "LHR",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3722,7 +3722,7 @@
       "puerta": "04",
       "ruta": "MAD",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3741,7 +3741,7 @@
       "puerta": "10",
       "ruta": "FLN",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3940,14 +3940,14 @@
       "vuelo": "093",
       "st": "09/01/2020 16:30",
       "matricula": "CFJZS",
-      "posicion": "",
+      "posicion": "10",
       "et": "9/1/2020 16:40",
       "at": "",
       "term": "A",
       "sector": "AP",
       "chkFrom": "060",
       "chkTo": "067",
-      "puerta": "",
+      "puerta": "10",
       "ruta": "YYZ",
       "via": "SCL",
       "remark": "EST",
