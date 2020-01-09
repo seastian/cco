@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/01/2020 12:33",
+  "lastUpdate": "09/01/2020 12:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1314,25 +1314,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "CM",
-      "vuelo": "363",
-      "st": "09/01/2020 01:12",
-      "matricula": "HP1729",
-      "posicion": "08",
-      "et": "9/1/2020 00:40",
-      "at": "9/1/2020 00:37",
-      "term": "A",
-      "sector": "",
-      "cinta": "4",
-      "lF": "004",
-      "ruta": "PTY",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "105"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "JJ",
       "vuelo": "8010",
       "st": "08/01/2020 23:55",
@@ -1960,25 +1941,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8012",
-      "st": "09/01/2020 09:00",
-      "matricula": "PRMBY",
-      "posicion": "06",
-      "et": "9/1/2020 08:50",
-      "at": "9/1/2020 08:56",
-      "term": "A",
-      "sector": "",
-      "cinta": "5",
-      "lF": "001",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "116"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "BA",
       "vuelo": "245",
       "st": "09/01/2020 09:10",
@@ -1995,6 +1957,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "234"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "JJ",
+      "vuelo": "8012",
+      "st": "09/01/2020 09:00",
+      "matricula": "PRMBY",
+      "posicion": "06",
+      "et": "9/1/2020 08:50",
+      "at": "9/1/2020 08:56",
+      "term": "A",
+      "sector": "",
+      "cinta": "5",
+      "lF": "001",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "116"
     },
     {
       "tipo": "arribo",
@@ -2188,25 +2169,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8008",
-      "st": "09/01/2020 10:15",
-      "matricula": "PTMXN",
-      "posicion": "12",
-      "et": "9/1/2020 09:55",
-      "at": "9/1/2020 10:09",
-      "term": "A",
-      "sector": "",
-      "cinta": "1",
-      "lF": "002",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "123"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AM",
       "vuelo": "028",
       "st": "09/01/2020 10:40",
@@ -2223,6 +2185,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "171"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "JJ",
+      "vuelo": "8008",
+      "st": "09/01/2020 10:15",
+      "matricula": "PTMXN",
+      "posicion": "12",
+      "et": "9/1/2020 09:55",
+      "at": "9/1/2020 10:09",
+      "term": "A",
+      "sector": "",
+      "cinta": "1",
+      "lF": "002",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "123"
     },
     {
       "tipo": "arribo",
@@ -3600,7 +3581,7 @@
       "matricula": "LVGBK",
       "posicion": "22B",
       "et": "",
-      "at": "",
+      "at": "9/1/2020 12:38",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3608,7 +3589,7 @@
       "puerta": "13",
       "ruta": "MVD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3703,7 +3684,7 @@
       "puerta": "09",
       "ruta": "BCN",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
