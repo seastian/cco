@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/01/2020 16:08",
+  "lastUpdate": "12/01/2020 16:13",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3942,7 +3942,7 @@
       "matricula": "CP2881",
       "posicion": "03",
       "et": "",
-      "at": "",
+      "at": "12/1/2020 16:14",
       "term": "A",
       "sector": "AP",
       "chkFrom": "013",
@@ -3950,7 +3950,7 @@
       "puerta": "02",
       "ruta": "VVI",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -4064,7 +4064,7 @@
       "puerta": "23",
       "ruta": "SCL",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4140,7 +4140,7 @@
       "puerta": "01",
       "ruta": "CNF",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4159,7 +4159,7 @@
       "puerta": "07",
       "ruta": "GRU",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4795,14 +4795,14 @@
       "vuelo": "1140",
       "st": "12/01/2020 22:45",
       "matricula": "LVGIF",
-      "posicion": "M18",
+      "posicion": "13",
       "et": "",
       "at": "",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "17",
       "ruta": "FCO",
       "via": "",
       "remark": "HOR",
@@ -5147,25 +5147,6 @@
       "puerta": "",
       "ruta": "BOG",
       "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "CU",
-      "vuelo": "361",
-      "st": "13/01/2020 00:30",
-      "matricula": "T1251",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "083",
-      "chkTo": "088",
-      "puerta": "",
-      "ruta": "HAV",
-      "via": "CCC",
       "remark": "HOR",
       "sanidad": "NO"
     },
