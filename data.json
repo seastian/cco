@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/01/2020 12:50",
+  "lastUpdate": "12/01/2020 12:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3638,7 +3638,7 @@
       "matricula": "LVFQB",
       "posicion": "17A",
       "et": "",
-      "at": "",
+      "at": "12/1/2020 12:52",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3646,7 +3646,7 @@
       "puerta": "24",
       "ruta": "USH",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3855,7 +3855,7 @@
       "puerta": "17",
       "ruta": "FCO",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
