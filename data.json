@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/01/2020 13:52",
+  "lastUpdate": "12/01/2020 13:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3893,7 +3893,7 @@
       "puerta": "03",
       "ruta": "LHR",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3912,7 +3912,7 @@
       "puerta": "01",
       "ruta": "GIG",
       "via": "",
-      "remark": "PRE",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4016,7 +4016,7 @@
       "vuelo": "BFR",
       "st": "12/01/2020 15:20",
       "matricula": "LVBFR",
-      "posicion": "",
+      "posicion": "41",
       "et": "",
       "at": "",
       "term": "FBO",
