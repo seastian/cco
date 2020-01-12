@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/01/2020 15:05",
+  "lastUpdate": "12/01/2020 15:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -12,8 +12,8 @@
       "at": "",
       "term": "C",
       "sector": "CAC",
-      "cinta": "",
-      "lF": "",
+      "cinta": "12",
+      "lF": "017",
       "ruta": "COR",
       "via": "",
       "remark": "EST",
@@ -4045,7 +4045,7 @@
       "puerta": "01",
       "ruta": "SCL",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
