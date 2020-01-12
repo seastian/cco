@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/01/2020 14:55",
+  "lastUpdate": "12/01/2020 15:00",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -26,7 +26,7 @@
       "vuelo": "1529",
       "st": "12/01/2020 15:40",
       "matricula": "LVBZO",
-      "posicion": "",
+      "posicion": "25B",
       "et": "12/1/2020 15:19",
       "at": "",
       "term": "C",
@@ -4064,7 +4064,7 @@
       "puerta": "02",
       "ruta": "VVI",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4206,7 +4206,7 @@
       "vuelo": "1360",
       "st": "12/01/2020 16:45",
       "matricula": "LVBZO",
-      "posicion": "",
+      "posicion": "25B",
       "et": "",
       "at": "",
       "term": "C",
