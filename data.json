@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/01/2020 11:37",
+  "lastUpdate": "12/01/2020 11:43",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -177,9 +177,9 @@
       "aerolinea": "OB",
       "vuelo": "708",
       "st": "12/01/2020 14:05",
-      "matricula": "",
+      "matricula": "CP2881",
       "posicion": "",
-      "et": "",
+      "et": "12/1/2020 13:55",
       "at": "",
       "term": "A",
       "sector": "",
@@ -187,9 +187,9 @@
       "lF": "",
       "ruta": "VVI",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "196"
     },
     {
       "tipo": "arribo",
@@ -3790,7 +3790,7 @@
       "matricula": "HP1829",
       "posicion": "08",
       "et": "",
-      "at": "",
+      "at": "12/1/2020 11:41",
       "term": "A",
       "sector": "AP",
       "chkFrom": "013",
@@ -3798,7 +3798,7 @@
       "puerta": "07",
       "ruta": "PTY",
       "via": "",
-      "remark": "ULT",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3912,7 +3912,7 @@
       "puerta": "01",
       "ruta": "GRU",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -4035,7 +4035,7 @@
       "vuelo": "042",
       "st": "12/01/2020 13:25",
       "matricula": "ECNCY",
-      "posicion": "23",
+      "posicion": "03",
       "et": "",
       "at": "",
       "term": "A",
