@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/01/2020 19:22",
+  "lastUpdate": "13/01/2020 19:27",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -497,25 +497,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AV",
-      "vuelo": "217",
-      "st": "13/01/2020 22:20",
-      "matricula": "N818AV",
-      "posicion": "",
-      "et": "13/1/2020 22:00",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "114"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "UC",
       "vuelo": "1109",
       "st": "13/01/2020 22:00",
@@ -532,6 +513,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AV",
+      "vuelo": "217",
+      "st": "13/01/2020 22:20",
+      "matricula": "N818AV",
+      "posicion": "",
+      "et": "13/1/2020 22:00",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "BOG",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "114"
     },
     {
       "tipo": "arribo",
@@ -669,25 +669,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "AR",
-      "vuelo": "1325",
-      "st": "13/01/2020 23:15",
-      "matricula": "LVGVB",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "PUJ",
-      "via": "SLA",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
       "vuelo": "1291",
       "st": "13/01/2020 23:15",
       "matricula": "LVFQC",
@@ -700,6 +681,25 @@
       "lF": "",
       "ruta": "SCL",
       "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1325",
+      "st": "13/01/2020 23:15",
+      "matricula": "LVGVB",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "PUJ",
+      "via": "SLA",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
@@ -1254,6 +1254,25 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "280"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "4M",
+      "vuelo": "7821",
+      "st": "14/01/2020 07:25",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -3893,7 +3912,7 @@
       "puerta": "02",
       "ruta": "GRU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3950,7 +3969,7 @@
       "puerta": "05",
       "ruta": "LIM",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4300,7 +4319,7 @@
       "aerolinea": "QR",
       "vuelo": "774",
       "st": "13/01/2020 23:15",
-      "matricula": "",
+      "matricula": "A7BBA",
       "posicion": "",
       "et": "",
       "at": "",
