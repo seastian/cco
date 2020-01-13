@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/01/2020 17:04",
+  "lastUpdate": "13/01/2020 17:09",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1238,25 +1238,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "102",
-      "st": "13/01/2020 03:30",
-      "matricula": "CXCAR",
-      "posicion": "54B",
-      "et": "13/1/2020 05:15",
-      "at": "13/1/2020 05:09",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AV",
       "vuelo": "087",
       "st": "13/01/2020 05:30",
@@ -2169,25 +2150,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8003",
-      "st": "13/01/2020 14:10",
-      "matricula": "PRMBQ",
-      "posicion": "04",
-      "et": "13/1/2020 13:40",
-      "at": "13/1/2020 13:47",
-      "term": "A",
-      "sector": "",
-      "cinta": "4",
-      "lF": "004",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "135"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "G3",
       "vuelo": "7688",
       "st": "13/01/2020 13:30",
@@ -2204,6 +2166,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "JJ",
+      "vuelo": "8003",
+      "st": "13/01/2020 14:10",
+      "matricula": "PRMBQ",
+      "posicion": "04",
+      "et": "13/1/2020 13:40",
+      "at": "13/1/2020 13:47",
+      "term": "A",
+      "sector": "",
+      "cinta": "4",
+      "lF": "004",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "135"
     },
     {
       "tipo": "arribo",
@@ -2492,25 +2473,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AD",
-      "vuelo": "8770",
-      "st": "13/01/2020 17:00",
-      "matricula": "PRYRL",
-      "posicion": "02",
-      "et": "13/1/2020 16:40",
-      "at": "13/1/2020 16:41",
-      "term": "A",
-      "sector": "",
-      "cinta": "1",
-      "lF": "004",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "153"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1871",
       "st": "13/01/2020 16:45",
@@ -2527,6 +2489,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "155"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AD",
+      "vuelo": "8770",
+      "st": "13/01/2020 17:00",
+      "matricula": "PRYRL",
+      "posicion": "02",
+      "et": "13/1/2020 16:40",
+      "at": "13/1/2020 16:41",
+      "term": "A",
+      "sector": "",
+      "cinta": "1",
+      "lF": "004",
+      "ruta": "VCP",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "153"
     },
     {
       "tipo": "arribo",
@@ -3904,7 +3885,7 @@
       "matricula": "LVCBT",
       "posicion": "12",
       "et": "",
-      "at": "",
+      "at": "13/1/2020 17:07",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3912,7 +3893,7 @@
       "puerta": "16",
       "ruta": "BOG",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -4121,7 +4102,7 @@
       "puerta": "17",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
