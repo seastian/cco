@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/01/2020 17:42",
+  "lastUpdate": "13/01/2020 17:48",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2492,25 +2492,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1293",
-      "st": "13/01/2020 17:50",
-      "matricula": "LVFUB",
-      "posicion": "17B",
-      "et": "13/1/2020 17:30",
-      "at": "13/1/2020 17:28",
-      "term": "A",
-      "sector": "",
-      "cinta": "6",
-      "lF": "009",
-      "ruta": "GIG",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "117"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "PRV",
       "vuelo": "CAZ",
       "st": "13/01/2020 17:30",
@@ -2530,6 +2511,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1293",
+      "st": "13/01/2020 17:50",
+      "matricula": "LVFUB",
+      "posicion": "17B",
+      "et": "13/1/2020 17:30",
+      "at": "13/1/2020 17:28",
+      "term": "A",
+      "sector": "",
+      "cinta": "6",
+      "lF": "009",
+      "ruta": "GIG",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "117"
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "4M",
       "vuelo": "7505",
       "st": "13/01/2020 17:52",
@@ -2546,6 +2546,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "144"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1253",
+      "st": "13/01/2020 18:10",
+      "matricula": "LVGGK",
+      "posicion": "18B",
+      "et": "13/1/2020 18:00",
+      "at": "13/1/2020 17:48",
+      "term": "A",
+      "sector": "",
+      "cinta": "8",
+      "lF": "010",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "91"
     },
     {
       "tipo": "partida",
@@ -3950,7 +3969,7 @@
       "puerta": "",
       "ruta": "ESC",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -4007,7 +4026,7 @@
       "puerta": "18",
       "ruta": "CWB",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4026,7 +4045,7 @@
       "puerta": "17",
       "ruta": "SCL",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4042,7 +4061,7 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "23",
+      "puerta": "22",
       "ruta": "GIG",
       "via": "",
       "remark": "PRE",
@@ -4064,7 +4083,7 @@
       "puerta": "14",
       "ruta": "SCL",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
