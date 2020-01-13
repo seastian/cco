@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/01/2020 15:34",
+  "lastUpdate": "13/01/2020 15:40",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3923,7 +3923,7 @@
       "matricula": "CP3017",
       "posicion": "05",
       "et": "",
-      "at": "",
+      "at": "13/1/2020 15:38",
       "term": "A",
       "sector": "AP",
       "chkFrom": "013",
@@ -3931,7 +3931,7 @@
       "puerta": "04",
       "ruta": "VVI",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -4007,7 +4007,7 @@
       "puerta": "05",
       "ruta": "GRU",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
