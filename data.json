@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/01/2020 08:00",
+  "lastUpdate": "13/01/2020 08:06",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3885,7 +3885,7 @@
       "matricula": "LVGGQ",
       "posicion": "17A",
       "et": "",
-      "at": "",
+      "at": "13/1/2020 07:58",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3893,7 +3893,7 @@
       "puerta": "17",
       "ruta": "GIG",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3923,7 +3923,7 @@
       "matricula": "LVGIK",
       "posicion": "24A",
       "et": "",
-      "at": "",
+      "at": "13/1/2020 08:01",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3931,7 +3931,7 @@
       "puerta": "24",
       "ruta": "ROS",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3942,7 +3942,7 @@
       "matricula": "LVBZO",
       "posicion": "18B",
       "et": "",
-      "at": "",
+      "at": "13/1/2020 08:06",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3950,7 +3950,7 @@
       "puerta": "27",
       "ruta": "COR",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -4026,7 +4026,7 @@
       "puerta": "07",
       "ruta": "SCL",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
