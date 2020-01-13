@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/01/2020 14:31",
+  "lastUpdate": "13/01/2020 14:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -212,6 +212,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "AD",
+      "vuelo": "8770",
+      "st": "13/01/2020 17:00",
+      "matricula": "PRYRL",
+      "posicion": "",
+      "et": "13/1/2020 16:40",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "VCP",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "153"
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1871",
       "st": "13/01/2020 16:45",
@@ -228,25 +247,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "155"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AD",
-      "vuelo": "8770",
-      "st": "13/01/2020 17:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -2574,14 +2574,14 @@
       "matricula": "LVGGQ",
       "posicion": "17B",
       "et": "13/1/2020 14:30",
-      "at": "",
+      "at": "13/1/2020 14:33",
       "term": "A",
       "sector": "",
       "cinta": "7",
       "lF": "007",
       "ruta": "GIG",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "111"
     },
@@ -3885,7 +3885,7 @@
       "matricula": "ECIQR",
       "posicion": "10",
       "et": "",
-      "at": "",
+      "at": "13/1/2020 14:35",
       "term": "A",
       "sector": "AP",
       "chkFrom": "021",
@@ -3893,7 +3893,7 @@
       "puerta": "10",
       "ruta": "MAD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3950,7 +3950,7 @@
       "puerta": "13",
       "ruta": "GIG",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
