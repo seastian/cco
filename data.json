@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/01/2020 20:16",
+  "lastUpdate": "14/01/2020 20:21",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -170,7 +170,7 @@
       "via": "GRU",
       "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "199"
     },
     {
       "tipo": "arribo",
@@ -250,30 +250,11 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AU",
-      "vuelo": "2263",
-      "st": "14/01/2020 21:35",
-      "matricula": "LVGBK",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "4M",
       "vuelo": "7739",
       "st": "14/01/2020 20:34",
       "matricula": "LVBSJ",
-      "posicion": "",
+      "posicion": "50B",
       "et": "14/1/2020 21:40",
       "at": "",
       "term": "C",
@@ -326,22 +307,22 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1245",
-      "st": "14/01/2020 22:15",
-      "matricula": "LVGKT",
-      "posicion": "22A",
-      "et": "14/1/2020 22:00",
+      "aerolinea": "AU",
+      "vuelo": "2263",
+      "st": "14/01/2020 21:35",
+      "matricula": "LVGBK",
+      "posicion": "24A",
+      "et": "14/1/2020 21:55",
       "at": "",
       "term": "A",
       "sector": "",
       "cinta": "",
       "lF": "",
-      "ruta": "GRU",
+      "ruta": "ASU",
       "via": "",
-      "remark": "EST",
+      "remark": "DEM",
       "sanidad": "NO",
-      "pax": "87"
+      "pax": "86"
     },
     {
       "tipo": "arribo",
@@ -361,6 +342,25 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "124"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1245",
+      "st": "14/01/2020 22:15",
+      "matricula": "LVGKT",
+      "posicion": "22A",
+      "et": "14/1/2020 22:00",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "87"
     },
     {
       "tipo": "arribo",
@@ -573,6 +573,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "CM",
+      "vuelo": "363",
+      "st": "15/01/2020 01:12",
+      "matricula": "HP1821",
+      "posicion": "",
+      "et": "15/1/2020 01:05",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "PTY",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "145"
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "G3",
       "vuelo": "7648",
       "st": "15/01/2020 01:05",
@@ -585,25 +604,6 @@
       "cinta": "",
       "lF": "",
       "ruta": "GIG",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "CM",
-      "vuelo": "363",
-      "st": "15/01/2020 01:12",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "PTY",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -1064,25 +1064,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "340"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "IB",
-      "vuelo": "6841",
-      "st": "14/01/2020 08:35",
-      "matricula": "ECNDR",
-      "posicion": "10",
-      "et": "14/1/2020 08:19",
-      "at": "14/1/2020 08:21",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "007",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "312"
     },
     {
       "tipo": "arribo",
@@ -3562,7 +3543,7 @@
       "matricula": "PRMHU",
       "posicion": "08",
       "et": "14/1/2020 20:25",
-      "at": "",
+      "at": "14/1/2020 20:16",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3570,7 +3551,7 @@
       "puerta": "07",
       "ruta": "GRU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3608,7 +3589,7 @@
       "puerta": "08",
       "ruta": "DFW",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3627,7 +3608,7 @@
       "puerta": "12",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3646,7 +3627,7 @@
       "puerta": "20",
       "ruta": "ATL",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
