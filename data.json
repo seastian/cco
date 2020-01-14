@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/01/2020 09:09",
+  "lastUpdate": "14/01/2020 09:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1200,25 +1200,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "QR",
-      "vuelo": "773",
-      "st": "13/01/2020 21:30",
-      "matricula": "A7BBA",
-      "posicion": "08",
-      "et": "13/1/2020 21:05",
-      "at": "13/1/2020 21:12",
-      "term": "A",
-      "sector": "",
-      "cinta": "5",
-      "lF": "005",
-      "ruta": "DOH",
-      "via": "GRU",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "207"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "ZP",
       "vuelo": "818",
       "st": "13/01/2020 20:40",
@@ -1504,6 +1485,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "GG",
+      "vuelo": "551",
+      "st": "13/01/2020 23:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "FO",
       "vuelo": "5601",
       "st": "13/01/2020 21:30",
@@ -1537,25 +1537,6 @@
       "ruta": "GRU",
       "via": "",
       "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "GG",
-      "vuelo": "551",
-      "st": "13/01/2020 23:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
@@ -2356,6 +2337,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "83"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "BA",
+      "vuelo": "245",
+      "st": "14/01/2020 09:10",
+      "matricula": "GYMMR",
+      "posicion": "16",
+      "et": "14/1/2020 09:15",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "8",
+      "lF": "008",
+      "ruta": "LHR",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "234"
     },
     {
       "tipo": "partida",
@@ -3695,7 +3695,7 @@
       "matricula": "LVCPJ",
       "posicion": "24B",
       "et": "",
-      "at": "",
+      "at": "14/1/2020 09:01",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3703,7 +3703,7 @@
       "puerta": "26",
       "ruta": "CRD",
       "via": "MDQ",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3733,7 +3733,7 @@
       "matricula": "XAAMX",
       "posicion": "11",
       "et": "",
-      "at": "",
+      "at": "14/1/2020 09:12",
       "term": "A",
       "sector": "AP",
       "chkFrom": "034",
@@ -3741,7 +3741,7 @@
       "puerta": "14",
       "ruta": "MEX",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3798,7 +3798,7 @@
       "puerta": "15",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
