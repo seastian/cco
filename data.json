@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/01/2020 16:32",
+  "lastUpdate": "14/01/2020 16:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3467,7 +3467,7 @@
       "matricula": "CP3017",
       "posicion": "04",
       "et": "",
-      "at": "",
+      "at": "14/1/2020 16:34",
       "term": "A",
       "sector": "AP",
       "chkFrom": "013",
@@ -3475,7 +3475,7 @@
       "puerta": "03",
       "ruta": "VVI",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3542,7 +3542,7 @@
       "st": "14/01/2020 16:30",
       "matricula": "PHBHO",
       "posicion": "15",
-      "et": "",
+      "et": "14/1/2020 17:00",
       "at": "",
       "term": "C",
       "sector": "CPI",
@@ -3627,7 +3627,7 @@
       "puerta": "07",
       "ruta": "CNF",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3864,7 +3864,7 @@
       "vuelo": "1364",
       "st": "14/01/2020 19:00",
       "matricula": "LVFVO",
-      "posicion": "M08",
+      "posicion": "17B",
       "et": "",
       "at": "",
       "term": "C",
