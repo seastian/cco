@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/01/2020 17:17",
+  "lastUpdate": "14/01/2020 17:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -630,6 +630,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "CAZ",
+      "st": "14/01/2020 23:40",
+      "matricula": "LVCAZ",
+      "posicion": "H15",
+      "et": "14/1/2020 22:40",
+      "at": "",
+      "term": "FBO",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "RYO",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "0"
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "JJ",
       "vuelo": "8014",
       "st": "14/01/2020 23:00",
@@ -703,25 +722,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "CAZ",
-      "st": "14/01/2020 23:40",
-      "matricula": "LVCAZ",
-      "posicion": "H15",
-      "et": "",
-      "at": "",
-      "term": "FBO",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "RYO",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -3665,7 +3665,7 @@
       "puerta": "21",
       "ruta": "ASU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3741,7 +3741,7 @@
       "puerta": "08",
       "ruta": "FRA",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
