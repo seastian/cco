@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/01/2020 15:08",
+  "lastUpdate": "14/01/2020 15:13",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -83,7 +83,7 @@
       "vuelo": "1873",
       "st": "14/01/2020 16:20",
       "matricula": "LVGFQ",
-      "posicion": "",
+      "posicion": "17B",
       "et": "14/1/2020 16:06",
       "at": "",
       "term": "C",
@@ -121,7 +121,7 @@
       "vuelo": "1871",
       "st": "14/01/2020 16:45",
       "matricula": "LVGKS",
-      "posicion": "",
+      "posicion": "17A",
       "et": "14/1/2020 16:16",
       "at": "",
       "term": "C",
@@ -303,7 +303,7 @@
       "via": "",
       "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "225"
     },
     {
       "tipo": "arribo",
@@ -322,7 +322,7 @@
       "via": "",
       "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "190"
     },
     {
       "tipo": "arribo",
@@ -3921,7 +3921,7 @@
       "vuelo": "1256",
       "st": "14/01/2020 18:20",
       "matricula": "LVGFQ",
-      "posicion": "",
+      "posicion": "17B",
       "et": "",
       "at": "",
       "term": "C",
@@ -4035,7 +4035,7 @@
       "vuelo": "1248",
       "st": "14/01/2020 19:40",
       "matricula": "LVGKS",
-      "posicion": "",
+      "posicion": "17A",
       "et": "",
       "at": "",
       "term": "C",
