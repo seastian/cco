@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/01/2020 08:38",
+  "lastUpdate": "14/01/2020 08:43",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -189,7 +189,7 @@
       "via": "",
       "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "83"
     },
     {
       "tipo": "arribo",
@@ -215,7 +215,7 @@
       "aerolinea": "JJ",
       "vuelo": "8008",
       "st": "14/01/2020 10:15",
-      "matricula": "PTXPD",
+      "matricula": "PTXPO",
       "posicion": "",
       "et": "14/1/2020 09:45",
       "at": "",
@@ -1174,6 +1174,44 @@
       "cinta": "",
       "lF": "",
       "ruta": "FTE",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AU",
+      "vuelo": "2601",
+      "st": "14/01/2020 20:40",
+      "matricula": "LVFPT",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "USH",
+      "via": "MDQ",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AU",
+      "vuelo": "2463",
+      "st": "14/01/2020 20:40",
+      "matricula": "LVCEU",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MDZ",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -3695,7 +3733,7 @@
       "matricula": "LVCBT",
       "posicion": "17B",
       "et": "",
-      "at": "",
+      "at": "14/1/2020 08:42",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3703,7 +3741,7 @@
       "puerta": "24",
       "ruta": "COR",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3817,7 +3855,7 @@
       "puerta": "19",
       "ruta": "SCL",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4091,7 +4129,7 @@
       "aerolinea": "JJ",
       "vuelo": "8009",
       "st": "14/01/2020 12:25",
-      "matricula": "PTXPD",
+      "matricula": "PTXPO",
       "posicion": "",
       "et": "",
       "at": "",
