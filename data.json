@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/01/2020 14:22",
+  "lastUpdate": "14/01/2020 14:27",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3437,7 +3437,7 @@
       "puerta": "06",
       "ruta": "GIG",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3513,7 +3513,7 @@
       "puerta": "12",
       "ruta": "FLN",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
