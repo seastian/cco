@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/01/2020 17:23",
+  "lastUpdate": "17/01/2020 17:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3790,7 +3790,7 @@
       "matricula": "PRYSE",
       "posicion": "05",
       "et": "",
-      "at": "",
+      "at": "17/1/2020 17:25",
       "term": "A",
       "sector": "AP",
       "chkFrom": "075",
@@ -3798,7 +3798,7 @@
       "puerta": "04",
       "ruta": "CNF",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
