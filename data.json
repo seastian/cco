@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/01/2020 17:44",
+  "lastUpdate": "17/01/2020 17:49",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3904,7 +3904,7 @@
       "matricula": "LVBHU",
       "posicion": "06",
       "et": "",
-      "at": "",
+      "at": "17/1/2020 17:45",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3912,7 +3912,7 @@
       "puerta": "27",
       "ruta": "BRC",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3988,7 +3988,7 @@
       "puerta": "19",
       "ruta": "CWB",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
