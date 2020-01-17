@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/01/2020 12:13",
+  "lastUpdate": "17/01/2020 12:18",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3619,7 +3619,7 @@
       "matricula": "LVBGI",
       "posicion": "51A",
       "et": "",
-      "at": "",
+      "at": "17/1/2020 12:01",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3627,7 +3627,7 @@
       "puerta": "27",
       "ruta": "IGR",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3646,7 +3646,7 @@
       "puerta": "26",
       "ruta": "FTE",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3657,7 +3657,7 @@
       "matricula": "LVCDZ",
       "posicion": "22B",
       "et": "",
-      "at": "",
+      "at": "17/1/2020 12:15",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3665,7 +3665,7 @@
       "puerta": "24",
       "ruta": "MDZ",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3695,7 +3695,7 @@
       "matricula": "LVFVN",
       "posicion": "70",
       "et": "17/1/2020 12:15",
-      "at": "",
+      "at": "17/1/2020 12:17",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3703,7 +3703,7 @@
       "puerta": "17",
       "ruta": "GRU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3741,7 +3741,7 @@
       "puerta": "24",
       "ruta": "BRC",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3883,14 +3883,14 @@
       "vuelo": "681",
       "st": "17/01/2020 14:05",
       "matricula": "EIISB",
-      "posicion": "23",
+      "posicion": "13",
       "et": "",
       "at": "",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "201",
       "chkTo": "210",
-      "puerta": "",
+      "puerta": "17",
       "ruta": "FCO",
       "via": "",
       "remark": "HOR",
