@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/01/2020 17:13",
+  "lastUpdate": "17/01/2020 17:18",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3803,25 +3803,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "JJ",
-      "vuelo": "8013",
-      "st": "17/01/2020 16:50",
-      "matricula": "PRTYH",
-      "posicion": "08",
-      "et": "",
-      "at": "17/1/2020 16:57",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "07",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AD",
       "vuelo": "8761",
       "st": "17/01/2020 16:50",
@@ -3837,6 +3818,25 @@
       "ruta": "CNF",
       "via": "",
       "remark": "CER",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "JJ",
+      "vuelo": "8013",
+      "st": "17/01/2020 16:50",
+      "matricula": "PRTYH",
+      "posicion": "08",
+      "et": "",
+      "at": "17/1/2020 16:57",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "07",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3885,7 +3885,7 @@
       "matricula": "CFKAU",
       "posicion": "03",
       "et": "17/1/2020 17:00",
-      "at": "",
+      "at": "17/1/2020 17:17",
       "term": "A",
       "sector": "AP",
       "chkFrom": "061",
@@ -3893,7 +3893,7 @@
       "puerta": "02",
       "ruta": "YYZ",
       "via": "SCL",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3917,6 +3917,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "4M",
+      "vuelo": "7770",
+      "st": "17/01/2020 17:15",
+      "matricula": "LVBHU",
+      "posicion": "06",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "27",
+      "ruta": "BRC",
+      "via": "",
+      "remark": "CER",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "PRV",
       "vuelo": "BCR",
       "st": "17/01/2020 18:00",
@@ -3932,25 +3951,6 @@
       "ruta": "PTY",
       "via": "",
       "remark": "EST",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "4M",
-      "vuelo": "7770",
-      "st": "17/01/2020 17:15",
-      "matricula": "LVBHU",
-      "posicion": "06",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "27",
-      "ruta": "BRC",
-      "via": "",
-      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3988,7 +3988,7 @@
       "puerta": "01",
       "ruta": "VCP",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
