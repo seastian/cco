@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/01/2020 14:45",
+  "lastUpdate": "22/01/2020 14:50",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -231,25 +231,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AD",
-      "vuelo": "8770",
-      "st": "22/01/2020 17:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "LA",
       "vuelo": "445",
       "st": "22/01/2020 17:00",
@@ -266,6 +247,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AD",
+      "vuelo": "8770",
+      "st": "22/01/2020 17:00",
+      "matricula": "PRYRL",
+      "posicion": "",
+      "et": "22/1/2020 17:05",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "VCP",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "135"
     },
     {
       "tipo": "arribo",
@@ -2422,14 +2422,14 @@
       "matricula": "LVFSK",
       "posicion": "16B",
       "et": "22/1/2020 14:41",
-      "at": "",
+      "at": "22/1/2020 14:46",
       "term": "A",
       "sector": "",
       "cinta": "6",
       "lF": "010",
       "ruta": "SSA",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "140"
     },
@@ -3714,7 +3714,7 @@
       "matricula": "PRGTA",
       "posicion": "02",
       "et": "22/1/2020 14:30",
-      "at": "",
+      "at": "22/1/2020 14:48",
       "term": "A",
       "sector": "AP",
       "chkFrom": "068",
@@ -3722,7 +3722,7 @@
       "puerta": "01",
       "ruta": "GIG",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3741,7 +3741,7 @@
       "puerta": "13",
       "ruta": "FLN",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3817,7 +3817,7 @@
       "puerta": "06",
       "ruta": "SCL",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3836,7 +3836,7 @@
       "puerta": "04",
       "ruta": "VVI",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4072,7 +4072,7 @@
       "aerolinea": "AD",
       "vuelo": "8771",
       "st": "22/01/2020 18:00",
-      "matricula": "",
+      "matricula": "PRYRL",
       "posicion": "",
       "et": "",
       "at": "",
