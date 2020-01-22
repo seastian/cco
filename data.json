@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/01/2020 12:25",
+  "lastUpdate": "22/01/2020 12:30",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3589,7 +3589,7 @@
       "puerta": "25",
       "ruta": "COR",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3619,7 +3619,7 @@
       "matricula": "LVFVN",
       "posicion": "18A",
       "et": "",
-      "at": "",
+      "at": "22/1/2020 12:30",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3627,7 +3627,7 @@
       "puerta": "24",
       "ruta": "BRC",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
