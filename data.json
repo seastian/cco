@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/01/2020 19:45",
+  "lastUpdate": "22/01/2020 19:51",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -216,7 +216,7 @@
       "vuelo": "1259",
       "st": "22/01/2020 21:05",
       "matricula": "LVGVB",
-      "posicion": "17A",
+      "posicion": "17B",
       "et": "22/1/2020 20:41",
       "at": "",
       "term": "A",
@@ -3595,25 +3595,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1290",
-      "st": "22/01/2020 18:15",
-      "matricula": "LVBYY",
-      "posicion": "18A",
-      "et": "",
-      "at": "22/1/2020 18:48",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "21",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "1256",
       "st": "22/01/2020 18:20",
       "matricula": "LVFUB",
@@ -3733,7 +3714,7 @@
       "matricula": "LVCXT",
       "posicion": "17B",
       "et": "",
-      "at": "",
+      "at": "22/1/2020 19:49",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3741,7 +3722,7 @@
       "puerta": "17",
       "ruta": "GRU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3779,7 +3760,7 @@
       "puerta": "01",
       "ruta": "LIM",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3798,7 +3779,7 @@
       "puerta": "05",
       "ruta": "SCL",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3814,7 +3795,7 @@
       "sector": "AP",
       "chkFrom": "001",
       "chkTo": "020",
-      "puerta": "09",
+      "puerta": "08",
       "ruta": "DFW",
       "via": "",
       "remark": "HOR",
