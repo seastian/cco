@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/01/2020 17:06",
+  "lastUpdate": "22/01/2020 17:12",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2397,25 +2397,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "QR",
-      "vuelo": "8155",
-      "st": "22/01/2020 04:50",
-      "matricula": "A7BFS",
-      "posicion": "55",
-      "et": "",
-      "at": "22/1/2020 05:08",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "DOH",
-      "via": "UIO",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1228",
       "st": "22/01/2020 05:05",
@@ -2511,25 +2492,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1230",
-      "st": "22/01/2020 06:00",
-      "matricula": "LVGOO",
-      "posicion": "17A",
-      "et": "",
-      "at": "22/1/2020 06:08",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "19",
-      "ruta": "POA",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AV",
       "vuelo": "964",
       "st": "22/01/2020 06:00",
@@ -2543,6 +2505,25 @@
       "chkTo": "067",
       "puerta": "10",
       "ruta": "LIM",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1230",
+      "st": "22/01/2020 06:00",
+      "matricula": "LVGOO",
+      "posicion": "17A",
+      "et": "",
+      "at": "22/1/2020 06:08",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "19",
+      "ruta": "POA",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -3798,7 +3779,7 @@
       "puerta": "17",
       "ruta": "BOG",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
