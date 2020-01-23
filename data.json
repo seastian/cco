@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/01/2020 14:02",
+  "lastUpdate": "23/01/2020 14:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1276,25 +1276,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "9300",
-      "st": "23/01/2020 02:10",
-      "matricula": "PRVBU",
-      "posicion": "08",
-      "et": "23/1/2020 02:10",
-      "at": "23/1/2020 02:05",
-      "term": "A",
-      "sector": "",
-      "cinta": "3",
-      "lF": "003",
-      "ruta": "FLN",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "60"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "UC",
       "vuelo": "1104",
       "st": "23/01/2020 03:00",
@@ -1542,25 +1523,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AA",
-      "vuelo": "991",
-      "st": "23/01/2020 08:35",
-      "matricula": "N821AN",
-      "posicion": "05",
-      "et": "23/1/2020 06:55",
-      "at": "23/1/2020 06:52",
-      "term": "A",
-      "sector": "",
-      "cinta": "1",
-      "lF": "006",
-      "ruta": "LAX",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "214"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "PZ",
       "vuelo": "1311",
       "st": "23/01/2020 06:50",
@@ -1577,6 +1539,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AA",
+      "vuelo": "991",
+      "st": "23/01/2020 08:35",
+      "matricula": "N821AN",
+      "posicion": "05",
+      "et": "23/1/2020 06:55",
+      "at": "23/1/2020 06:52",
+      "term": "A",
+      "sector": "",
+      "cinta": "1",
+      "lF": "006",
+      "ruta": "LAX",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "214"
     },
     {
       "tipo": "arribo",
@@ -2422,14 +2403,14 @@
       "matricula": "PRMBH",
       "posicion": "08",
       "et": "23/1/2020 13:55",
-      "at": "",
+      "at": "23/1/2020 14:07",
       "term": "A",
       "sector": "",
       "cinta": "2",
       "lF": "002",
       "ruta": "GRU",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "159"
     },
@@ -3703,7 +3684,7 @@
       "puerta": "16",
       "ruta": "GIG",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3733,7 +3714,7 @@
       "matricula": "EIDBM",
       "posicion": "16",
       "et": "",
-      "at": "",
+      "at": "23/1/2020 14:05",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "201",
@@ -3741,7 +3722,7 @@
       "puerta": "22",
       "ruta": "FCO",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3779,7 +3760,7 @@
       "puerta": "17",
       "ruta": "CDG",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3817,7 +3798,7 @@
       "puerta": "06",
       "ruta": "FLN",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
