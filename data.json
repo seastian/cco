@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/01/2020 13:18",
+  "lastUpdate": "23/01/2020 13:24",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3695,7 +3695,7 @@
       "matricula": "ECMYA",
       "posicion": "12",
       "et": "",
-      "at": "",
+      "at": "23/1/2020 13:24",
       "term": "A",
       "sector": "AP",
       "chkFrom": "027",
@@ -3703,7 +3703,7 @@
       "puerta": "16",
       "ruta": "BCN",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3798,7 +3798,7 @@
       "puerta": "22",
       "ruta": "FCO",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3855,7 +3855,7 @@
       "puerta": "04",
       "ruta": "MAD",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -4107,25 +4107,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "KL",
-      "vuelo": "702",
-      "st": "23/01/2020 16:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "201",
-      "chkTo": "218",
-      "puerta": "",
-      "ruta": "AMS",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AC",
       "vuelo": "093",
       "st": "23/01/2020 16:30",
@@ -4167,7 +4148,7 @@
       "aerolinea": "AD",
       "vuelo": "8761",
       "st": "23/01/2020 16:50",
-      "matricula": "",
+      "matricula": "PRYRH",
       "posicion": "",
       "et": "",
       "at": "",
@@ -4392,25 +4373,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1364",
-      "st": "23/01/2020 19:00",
-      "matricula": "LVGVC",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "4M",
       "vuelo": "7814",
       "st": "23/01/2020 19:00",
@@ -4424,6 +4386,25 @@
       "chkTo": "053",
       "puerta": "",
       "ruta": "SCL",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1364",
+      "st": "23/01/2020 19:00",
+      "matricula": "LVGVC",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "LIM",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -4700,7 +4681,7 @@
       "vuelo": "7820",
       "st": "23/01/2020 22:15",
       "matricula": "CCCWF",
-      "posicion": "",
+      "posicion": "52",
       "et": "",
       "at": "",
       "term": "A",
