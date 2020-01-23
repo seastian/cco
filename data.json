@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/01/2020 04:00",
+  "lastUpdate": "23/01/2020 04:05",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2511,25 +2511,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1244",
-      "st": "22/01/2020 15:45",
-      "matricula": "LVGGQ",
-      "posicion": "14A",
-      "et": "",
-      "at": "22/1/2020 16:02",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "18",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "JJ",
       "vuelo": "8011",
       "st": "22/01/2020 16:15",
@@ -3855,7 +3836,7 @@
       "puerta": "05",
       "ruta": "PTY",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4088,6 +4069,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1428",
+      "st": "23/01/2020 06:40",
+      "matricula": "LVBYY",
+      "posicion": "22B",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "24",
+      "ruta": "SLA",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "AU",
       "vuelo": "2472",
       "st": "23/01/2020 06:40",
@@ -4120,25 +4120,6 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "GRU",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1428",
-      "st": "23/01/2020 06:40",
-      "matricula": "LVBYY",
-      "posicion": "22B",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "24",
-      "ruta": "SLA",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
