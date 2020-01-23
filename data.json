@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/01/2020 11:01",
+  "lastUpdate": "23/01/2020 11:07",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3874,7 +3874,7 @@
       "puerta": "19",
       "ruta": "SCL",
       "via": "",
-      "remark": "PRE",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3893,7 +3893,7 @@
       "puerta": "27",
       "ruta": "BRC",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3950,7 +3950,7 @@
       "puerta": "26",
       "ruta": "FTE",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
