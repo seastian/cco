@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/01/2020 17:20",
+  "lastUpdate": "24/01/2020 17:25",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -4064,7 +4064,7 @@
       "puerta": "05",
       "ruta": "VCP",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4083,7 +4083,7 @@
       "puerta": "08",
       "ruta": "FRA",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
