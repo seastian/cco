@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/01/2020 16:52",
+  "lastUpdate": "24/01/2020 16:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -64,7 +64,7 @@
       "vuelo": "8092",
       "st": "24/01/2020 18:20",
       "matricula": "PRMHM",
-      "posicion": "",
+      "posicion": "02",
       "et": "24/1/2020 17:50",
       "at": "",
       "term": "A",
@@ -83,7 +83,7 @@
       "vuelo": "1253",
       "st": "24/01/2020 18:10",
       "matricula": "LVFUB",
-      "posicion": "",
+      "posicion": "17B",
       "et": "24/1/2020 18:15",
       "at": "",
       "term": "A",
@@ -2593,14 +2593,14 @@
       "matricula": "PRYRO",
       "posicion": "06",
       "et": "24/1/2020 16:50",
-      "at": "",
+      "at": "24/1/2020 16:56",
       "term": "A",
       "sector": "",
       "cinta": "4",
       "lF": "004",
       "ruta": "VCP",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "145"
     },
@@ -2619,25 +2619,6 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "CM",
-      "vuelo": "364",
-      "st": "24/01/2020 04:51",
-      "matricula": "HP1827",
-      "posicion": "07",
-      "et": "",
-      "at": "24/1/2020 04:55",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "016",
-      "chkTo": "021",
-      "puerta": "06",
-      "ruta": "PTY",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -4075,7 +4056,7 @@
       "matricula": "PRMAG",
       "posicion": "07",
       "et": "",
-      "at": "",
+      "at": "24/1/2020 16:54",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -4083,7 +4064,7 @@
       "puerta": "06",
       "ruta": "GRU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -4102,7 +4083,7 @@
       "puerta": "07",
       "ruta": "CNF",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4121,7 +4102,7 @@
       "puerta": "21",
       "ruta": "ASU",
       "via": "",
-      "remark": "HOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4140,7 +4121,7 @@
       "puerta": "27",
       "ruta": "BRC",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4358,14 +4339,14 @@
       "vuelo": "7685",
       "st": "24/01/2020 19:45",
       "matricula": "PRGUT",
-      "posicion": "04",
+      "posicion": "",
       "et": "",
       "at": "",
       "term": "A",
       "sector": "AP",
       "chkFrom": "068",
       "chkTo": "074",
-      "puerta": "03",
+      "puerta": "",
       "ruta": "GRU",
       "via": "",
       "remark": "HOR",
@@ -4463,7 +4444,7 @@
       "puerta": "",
       "ruta": "AEP",
       "via": "",
-      "remark": "HOR",
+      "remark": "CAN",
       "sanidad": "NO"
     },
     {
