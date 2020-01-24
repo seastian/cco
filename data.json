@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/01/2020 14:33",
+  "lastUpdate": "24/01/2020 14:39",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -45,7 +45,7 @@
       "vuelo": "1229",
       "st": "24/01/2020 15:05",
       "matricula": "LVGVB",
-      "posicion": "",
+      "posicion": "18A",
       "et": "24/1/2020 14:51",
       "at": "",
       "term": "A",
@@ -1333,25 +1333,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7648",
-      "st": "24/01/2020 01:05",
-      "matricula": "PRGEK",
-      "posicion": "03",
-      "et": "24/1/2020 02:35",
-      "at": "24/1/2020 02:35",
-      "term": "A",
-      "sector": "",
-      "cinta": "2",
-      "lF": "004",
-      "ruta": "GIG",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "102"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "OB",
       "vuelo": "700",
       "st": "24/01/2020 02:45",
@@ -2574,14 +2555,14 @@
       "matricula": "PHBHE",
       "posicion": "13",
       "et": "24/1/2020 14:27",
-      "at": "",
+      "at": "24/1/2020 14:27",
       "term": "A",
       "sector": "",
       "cinta": "9",
       "lF": "009",
       "ruta": "SCL",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "268"
     },
@@ -2616,7 +2597,7 @@
       "term": "A",
       "sector": "",
       "cinta": "5",
-      "lF": "",
+      "lF": "005",
       "ruta": "YYZ",
       "via": "SCL",
       "remark": "CON",
@@ -3950,7 +3931,7 @@
       "puerta": "07",
       "ruta": "GIG",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4045,7 +4026,7 @@
       "puerta": "10",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -4073,7 +4054,7 @@
       "vuelo": "1027",
       "st": "24/01/2020 15:40",
       "matricula": "LVGVB",
-      "posicion": "",
+      "posicion": "18A",
       "et": "",
       "at": "",
       "term": "C",
