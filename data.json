@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/01/2020 18:25",
+  "lastUpdate": "24/01/2020 18:30",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -122,7 +122,7 @@
       "st": "24/01/2020 19:58",
       "matricula": "LVBRY",
       "posicion": "02",
-      "et": "24/1/2020 19:49",
+      "et": "24/1/2020 19:38",
       "at": "",
       "term": "C",
       "sector": "CAC",
@@ -3969,7 +3969,7 @@
       "puerta": "18",
       "ruta": "GIG",
       "via": "",
-      "remark": "PRE",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
