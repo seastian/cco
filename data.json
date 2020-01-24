@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/01/2020 13:27",
+  "lastUpdate": "24/01/2020 13:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2555,14 +2555,14 @@
       "matricula": "LVCAD",
       "posicion": "14A",
       "et": "24/1/2020 13:27",
-      "at": "",
+      "at": "24/1/2020 13:30",
       "term": "A",
       "sector": "",
       "cinta": "8",
       "lF": "008",
       "ruta": "FLN",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "95"
     },
@@ -3703,7 +3703,7 @@
       "puerta": "16",
       "ruta": "MAD",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3817,7 +3817,7 @@
       "puerta": "02",
       "ruta": "MAD",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
