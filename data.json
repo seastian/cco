@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/01/2020 13:43",
+  "lastUpdate": "24/01/2020 13:49",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2555,14 +2555,14 @@
       "matricula": "CP3086",
       "posicion": "05",
       "et": "24/1/2020 13:40",
-      "at": "",
+      "at": "24/1/2020 13:45",
       "term": "A",
       "sector": "",
       "cinta": "1",
       "lF": "001",
       "ruta": "VVI",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "196"
     },
@@ -3836,7 +3836,7 @@
       "puerta": "03",
       "ruta": "LHR",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
