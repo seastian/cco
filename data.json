@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "24/01/2020 19:59",
+  "lastUpdate": "24/01/2020 20:04",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "GQD",
-      "st": "24/01/2020 20:00",
-      "matricula": "LVGQD",
-      "posicion": "40",
-      "et": "",
-      "at": "",
-      "term": "FBO",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "FDO",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": "0"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AU",
@@ -284,7 +265,7 @@
       "via": "",
       "remark": "",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "78"
     },
     {
       "tipo": "arribo",
@@ -360,7 +341,7 @@
       "via": "",
       "remark": "",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "40"
     },
     {
       "tipo": "arribo",
@@ -626,7 +607,7 @@
       "via": "SLA",
       "remark": "",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "133"
     },
     {
       "tipo": "arribo",
@@ -844,7 +825,7 @@
       "st": "25/01/2020 04:20",
       "matricula": "",
       "posicion": "",
-      "et": "",
+      "et": "25/1/2020 03:50",
       "at": "",
       "term": "A",
       "sector": "",
@@ -852,9 +833,9 @@
       "lF": "",
       "ruta": "MAD",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "238"
     },
     {
       "tipo": "arribo",
@@ -882,7 +863,7 @@
       "st": "25/01/2020 04:40",
       "matricula": "",
       "posicion": "",
-      "et": "",
+      "et": "25/1/2020 04:30",
       "at": "",
       "term": "A",
       "sector": "",
@@ -890,9 +871,9 @@
       "lF": "",
       "ruta": "FCO",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "208"
     },
     {
       "tipo": "arribo",
@@ -901,7 +882,7 @@
       "st": "25/01/2020 04:40",
       "matricula": "",
       "posicion": "",
-      "et": "",
+      "et": "25/1/2020 04:41",
       "at": "",
       "term": "A",
       "sector": "",
@@ -909,9 +890,9 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "246"
     },
     {
       "tipo": "arribo",
@@ -2416,25 +2397,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7684",
-      "st": "24/01/2020 19:05",
-      "matricula": "PRGUT",
-      "posicion": "05",
-      "et": "24/1/2020 19:00",
-      "at": "24/1/2020 18:55",
-      "term": "A",
-      "sector": "",
-      "cinta": "6",
-      "lF": "010",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "LA",
       "vuelo": "443",
       "st": "24/01/2020 19:12",
@@ -2447,6 +2409,25 @@
       "cinta": "2",
       "lF": "001",
       "ruta": "SCL",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "G3",
+      "vuelo": "7684",
+      "st": "24/01/2020 19:05",
+      "matricula": "PRGUT",
+      "posicion": "05",
+      "et": "24/1/2020 19:00",
+      "at": "24/1/2020 18:55",
+      "term": "A",
+      "sector": "",
+      "cinta": "6",
+      "lF": "010",
+      "ruta": "GRU",
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
@@ -2548,6 +2529,25 @@
       "pax": "110"
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "GQD",
+      "st": "24/01/2020 20:00",
+      "matricula": "LVGQD",
+      "posicion": "40",
+      "et": "",
+      "at": "",
+      "term": "FBO",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "FDO",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO",
+      "pax": "0"
+    },
+    {
       "tipo": "partida",
       "aerolinea": "AV",
       "vuelo": "964",
@@ -2561,44 +2561,6 @@
       "chkFrom": "059",
       "chkTo": "067",
       "puerta": "",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1264",
-      "st": "24/01/2020 07:45",
-      "matricula": "LVFWS",
-      "posicion": "18A",
-      "et": "",
-      "at": "24/1/2020 08:00",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "17",
-      "ruta": "GIG",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LP",
-      "vuelo": "2428",
-      "st": "24/01/2020 07:55",
-      "matricula": "CCCWV",
-      "posicion": "03",
-      "et": "",
-      "at": "24/1/2020 08:04",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "02",
       "ruta": "LIM",
       "via": "",
       "remark": "PAR",
@@ -3689,6 +3651,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "AU",
+      "vuelo": "2262",
+      "st": "24/01/2020 17:00",
+      "matricula": "LVCHO",
+      "posicion": "23A",
+      "et": "",
+      "at": "24/1/2020 17:28",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "21",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "AD",
       "vuelo": "8761",
       "st": "24/01/2020 16:50",
@@ -3988,7 +3969,7 @@
       "puerta": "03",
       "ruta": "SCL",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4007,7 +3988,7 @@
       "puerta": "08",
       "ruta": "DFW",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
