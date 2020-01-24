@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/01/2020 01:17",
+  "lastUpdate": "24/01/2020 01:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -842,7 +842,7 @@
       "aerolinea": "AU",
       "vuelo": "2261",
       "st": "24/01/2020 10:30",
-      "matricula": "LVCDZ",
+      "matricula": "LVCHO",
       "posicion": "",
       "et": "",
       "at": "",
@@ -4357,8 +4357,8 @@
       "aerolinea": "AU",
       "vuelo": "2260",
       "st": "24/01/2020 05:55",
-      "matricula": "LVGBK",
-      "posicion": "25B",
+      "matricula": "LVCHO",
+      "posicion": "25A",
       "et": "",
       "at": "",
       "term": "C",
@@ -4414,8 +4414,8 @@
       "aerolinea": "AU",
       "vuelo": "2472",
       "st": "24/01/2020 06:40",
-      "matricula": "LVCHO",
-      "posicion": "25A",
+      "matricula": "LVGBK",
+      "posicion": "25B",
       "et": "",
       "at": "",
       "term": "C",
