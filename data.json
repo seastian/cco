@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/01/2020 10:15",
+  "lastUpdate": "24/01/2020 10:21",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -118,6 +118,25 @@
     {
       "tipo": "arribo",
       "aerolinea": "AR",
+      "vuelo": "1501",
+      "st": "24/01/2020 11:35",
+      "matricula": "LVCXS",
+      "posicion": "",
+      "et": "24/1/2020 11:16",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "COR",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "131"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
       "vuelo": "1787",
       "st": "24/01/2020 11:40",
       "matricula": "LVFRQ",
@@ -152,25 +171,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": "0"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1501",
-      "st": "24/01/2020 11:35",
-      "matricula": "LVCXS",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "COR",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -1447,6 +1447,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "AV",
+      "vuelo": "217",
+      "st": "24/01/2020 22:20",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "BOG",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "AU",
       "vuelo": "2233",
       "st": "23/01/2020 21:50",
@@ -1463,25 +1482,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "47"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1245",
-      "st": "23/01/2020 22:15",
-      "matricula": "LVFWS",
-      "posicion": "51A",
-      "et": "23/1/2020 22:13",
-      "at": "23/1/2020 22:19",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "112"
     },
     {
       "tipo": "arribo",
@@ -3817,7 +3817,7 @@
       "puerta": "17",
       "ruta": "GIG",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -5128,6 +5128,25 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "EK",
+      "vuelo": "248",
+      "st": "24/01/2020 22:20",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "027",
+      "chkTo": "034",
+      "puerta": "",
+      "ruta": "DXB",
+      "via": "GIG",
       "remark": "HOR",
       "sanidad": "NO"
     }
