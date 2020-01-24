@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/01/2020 16:30",
+  "lastUpdate": "24/01/2020 16:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1159,25 +1159,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1133",
-      "st": "24/01/2020 04:20",
-      "matricula": "LVFVI",
-      "posicion": "15",
-      "et": "",
-      "at": "24/1/2020 04:33",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "008",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "210"
     },
     {
       "tipo": "arribo",
@@ -2606,25 +2587,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "500",
-      "st": "24/01/2020 04:00",
-      "matricula": "CXCLS",
-      "posicion": "58",
-      "et": "",
-      "at": "24/1/2020 04:32",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "OB",
       "vuelo": "701",
       "st": "24/01/2020 04:45",
@@ -3024,25 +2986,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1500",
-      "st": "24/01/2020 08:00",
-      "matricula": "LVCXS",
-      "posicion": "17A",
-      "et": "",
-      "at": "24/1/2020 08:07",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "24",
-      "ruta": "COR",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AU",
       "vuelo": "2702",
       "st": "24/01/2020 08:00",
@@ -3056,6 +2999,25 @@
       "chkTo": "240",
       "puerta": "25",
       "ruta": "ROS",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1500",
+      "st": "24/01/2020 08:00",
+      "matricula": "LVCXS",
+      "posicion": "17A",
+      "et": "",
+      "at": "24/1/2020 08:07",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "24",
+      "ruta": "COR",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -4018,7 +3980,7 @@
       "matricula": "PRGTB",
       "posicion": "06",
       "et": "",
-      "at": "",
+      "at": "24/1/2020 16:32",
       "term": "A",
       "sector": "AP",
       "chkFrom": "068",
@@ -4026,7 +3988,7 @@
       "puerta": "05",
       "ruta": "GRU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -4056,7 +4018,7 @@
       "matricula": "PHBHE",
       "posicion": "13",
       "et": "",
-      "at": "",
+      "at": "24/1/2020 16:36",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "201",
@@ -4064,7 +4026,7 @@
       "puerta": "17",
       "ruta": "AMS",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -4083,7 +4045,7 @@
       "puerta": "18",
       "ruta": "BOG",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
