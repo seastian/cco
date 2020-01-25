@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/01/2020 02:07",
+  "lastUpdate": "25/01/2020 02:13",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -379,7 +379,7 @@
       "via": "",
       "remark": "",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -3969,7 +3969,7 @@
       "puerta": "09",
       "ruta": "FLN",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4175,7 +4175,7 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "17",
       "ruta": "BPS",
       "via": "",
       "remark": "HOR",
