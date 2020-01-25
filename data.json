@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/01/2020 18:22",
+  "lastUpdate": "25/01/2020 18:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -4121,7 +4121,7 @@
       "puerta": "13",
       "ruta": "LIM",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
