@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/01/2020 05:16",
+  "lastUpdate": "25/01/2020 05:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -141,7 +141,7 @@
       "st": "25/01/2020 06:50",
       "matricula": "PRMHU",
       "posicion": "",
-      "et": "",
+      "et": "25/1/2020 06:50",
       "at": "",
       "term": "A",
       "sector": "",
@@ -149,7 +149,7 @@
       "lF": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -3714,7 +3714,7 @@
       "matricula": "PRGGP",
       "posicion": "07",
       "et": "",
-      "at": "",
+      "at": "25/1/2020 05:18",
       "term": "A",
       "sector": "AP",
       "chkFrom": "068",
@@ -3722,7 +3722,7 @@
       "puerta": "06",
       "ruta": "FLN",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
