@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/01/2020 03:30",
+  "lastUpdate": "25/01/2020 03:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1276,25 +1276,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "4M",
-      "vuelo": "7901",
-      "st": "24/01/2020 15:15",
-      "matricula": "LVBHU",
-      "posicion": "02",
-      "et": "24/1/2020 15:40",
-      "at": "24/1/2020 15:33",
-      "term": "A",
-      "sector": "",
-      "cinta": "5",
-      "lF": "002",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "143"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AU",
       "vuelo": "2285",
       "st": "24/01/2020 16:20",
@@ -2517,14 +2498,14 @@
       "matricula": "LVHFR",
       "posicion": "71",
       "et": "25/1/2020 03:30",
-      "at": "",
+      "at": "25/1/2020 03:31",
       "term": "A",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "PDP",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "74"
     },
