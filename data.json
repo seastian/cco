@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/01/2020 07:31",
+  "lastUpdate": "26/01/2020 07:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -288,6 +288,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1249",
+      "st": "26/01/2020 09:55",
+      "matricula": "LVFXQ",
+      "posicion": "",
+      "et": "26/1/2020 09:35",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "96"
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "AA",
       "vuelo": "997",
       "st": "26/01/2020 08:42",
@@ -304,25 +323,6 @@
       "remark": "DEM",
       "sanidad": "NO",
       "pax": "244"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1249",
-      "st": "26/01/2020 09:55",
-      "matricula": "LVFXQ",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -1368,25 +1368,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "4M",
-      "vuelo": "7767",
-      "st": "25/01/2020 19:58",
-      "matricula": "LVBGI",
-      "posicion": "08",
-      "et": "25/1/2020 19:40",
-      "at": "25/1/2020 19:37",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "11",
-      "lF": "017",
-      "ruta": "BRC",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "151"
     },
     {
       "tipo": "arribo",
@@ -3646,7 +3627,7 @@
       "puerta": "21",
       "ruta": "GIG",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3665,7 +3646,7 @@
       "puerta": "24",
       "ruta": "ROS",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3779,7 +3760,7 @@
       "puerta": "20",
       "ruta": "MIA",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
