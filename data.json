@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "25/01/2020 21:22",
+  "lastUpdate": "25/01/2020 21:27",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1429",
-      "st": "25/01/2020 21:30",
-      "matricula": "LVBZO",
-      "posicion": "22A",
-      "et": "25/1/2020 21:24",
-      "at": "",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "12",
-      "lF": "018",
-      "ruta": "SLA",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "105"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AU",
@@ -969,6 +950,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AF",
+      "vuelo": "228",
+      "st": "26/01/2020 09:50",
+      "matricula": "FGSPU",
+      "posicion": "",
+      "et": "26/1/2020 09:25",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "CDG",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "273"
     },
     {
       "tipo": "arribo",
@@ -2453,6 +2453,25 @@
       "pax": "159"
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1429",
+      "st": "25/01/2020 21:30",
+      "matricula": "LVBZO",
+      "posicion": "22A",
+      "et": "25/1/2020 21:24",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "12",
+      "lF": "018",
+      "ruta": "SLA",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "105"
+    },
+    {
       "tipo": "partida",
       "aerolinea": "AU",
       "vuelo": "2600",
@@ -3214,25 +3233,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "KL",
-      "vuelo": "702",
-      "st": "25/01/2020 16:30",
-      "matricula": "PHBHI",
-      "posicion": "11",
-      "et": "",
-      "at": "25/1/2020 16:40",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "201",
-      "chkTo": "220",
-      "puerta": "14",
-      "ruta": "AMS",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1360",
       "st": "25/01/2020 16:45",
@@ -3695,7 +3695,7 @@
       "matricula": "LVBGI",
       "posicion": "08",
       "et": "",
-      "at": "",
+      "at": "25/1/2020 21:24",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3703,7 +3703,7 @@
       "puerta": "07",
       "ruta": "SCL",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3836,7 +3836,7 @@
       "puerta": "12",
       "ruta": "ASU",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3893,7 +3893,7 @@
       "puerta": "08",
       "ruta": "LAX",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
