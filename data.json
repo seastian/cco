@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "26/01/2020 09:36",
+  "lastUpdate": "26/01/2020 09:42",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AU",
-      "vuelo": "2231",
-      "st": "26/01/2020 10:10",
-      "matricula": "LVFPS",
-      "posicion": "22B",
-      "et": "26/1/2020 09:40",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "010",
-      "ruta": "POA",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "63"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AA",
@@ -2472,6 +2453,25 @@
       "pax": "96"
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "AU",
+      "vuelo": "2231",
+      "st": "26/01/2020 10:10",
+      "matricula": "LVFPS",
+      "posicion": "22B",
+      "et": "26/1/2020 09:40",
+      "at": "26/1/2020 09:41",
+      "term": "A",
+      "sector": "",
+      "cinta": "7",
+      "lF": "010",
+      "ruta": "POA",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "63"
+    },
+    {
       "tipo": "partida",
       "aerolinea": "DL",
       "vuelo": "110",
@@ -3779,7 +3779,7 @@
       "puerta": "07",
       "ruta": "SCL",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3798,7 +3798,7 @@
       "puerta": "17",
       "ruta": "FLN",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
