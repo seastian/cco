@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/01/2020 03:48",
+  "lastUpdate": "26/01/2020 03:53",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1333,25 +1333,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AU",
-      "vuelo": "2413",
-      "st": "25/01/2020 16:10",
-      "matricula": "LVCPK",
-      "posicion": "22B",
-      "et": "25/1/2020 16:00",
-      "at": "25/1/2020 15:52",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "11",
-      "lF": "017",
-      "ruta": "MDZ",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "86"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1873",
       "st": "25/01/2020 16:20",
@@ -1447,6 +1428,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "UC",
+      "vuelo": "1106",
+      "st": "25/01/2020 17:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "AD",
       "vuelo": "8770",
       "st": "25/01/2020 17:00",
@@ -1480,25 +1480,6 @@
       "ruta": "SCL",
       "via": "",
       "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1106",
-      "st": "25/01/2020 17:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
@@ -2470,6 +2451,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "108"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1133",
+      "st": "26/01/2020 04:20",
+      "matricula": "LVGKP",
+      "posicion": "13",
+      "et": "26/1/2020 03:54",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "8",
+      "lF": "008",
+      "ruta": "MAD",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "237"
     },
     {
       "tipo": "partida",
@@ -3855,7 +3855,7 @@
       "puerta": "02",
       "ruta": "PTY",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
