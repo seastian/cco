@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/01/2020 00:41",
+  "lastUpdate": "26/01/2020 00:46",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -120,9 +120,9 @@
       "aerolinea": "AV",
       "vuelo": "965",
       "st": "26/01/2020 04:25",
-      "matricula": "",
+      "matricula": "N280AV",
       "posicion": "",
-      "et": "",
+      "et": "26/1/2020 04:25",
       "at": "",
       "term": "A",
       "sector": "",
@@ -130,9 +130,9 @@
       "lF": "",
       "ruta": "LIM",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "243"
     },
     {
       "tipo": "arribo",
@@ -196,9 +196,9 @@
       "aerolinea": "AV",
       "vuelo": "087",
       "st": "26/01/2020 05:30",
-      "matricula": "",
+      "matricula": "N741AV",
       "posicion": "",
-      "et": "",
+      "et": "26/1/2020 05:35",
       "at": "",
       "term": "A",
       "sector": "",
@@ -206,9 +206,9 @@
       "lF": "",
       "ruta": "BOG",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "124"
     },
     {
       "tipo": "arribo",
@@ -4262,7 +4262,7 @@
       "aerolinea": "AV",
       "vuelo": "964",
       "st": "26/01/2020 06:00",
-      "matricula": "",
+      "matricula": "N280AV",
       "posicion": "",
       "et": "",
       "at": "",
@@ -4414,7 +4414,7 @@
       "aerolinea": "AV",
       "vuelo": "088",
       "st": "26/01/2020 07:00",
-      "matricula": "",
+      "matricula": "N741AV",
       "posicion": "",
       "et": "",
       "at": "",
