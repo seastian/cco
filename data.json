@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/01/2020 02:30",
+  "lastUpdate": "26/01/2020 02:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1900,25 +1900,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "IB",
-      "vuelo": "6845",
-      "st": "25/01/2020 20:40",
-      "matricula": "ECNCX",
-      "posicion": "03",
-      "et": "25/1/2020 20:46",
-      "at": "25/1/2020 20:39",
-      "term": "A",
-      "sector": "",
-      "cinta": "1",
-      "lF": "001",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "288"
     },
     {
       "tipo": "arribo",
