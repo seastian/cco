@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/01/2020 20:33",
+  "lastUpdate": "27/01/2020 20:39",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -37,7 +37,26 @@
       "via": "",
       "remark": "HOR",
       "sanidad": "NO",
-      "pax": "2"
+      "pax": "3"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "G3",
+      "vuelo": "7650",
+      "st": "27/01/2020 21:15",
+      "matricula": "PRGTE",
+      "posicion": "",
+      "et": "27/1/2020 21:05",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "GIG",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "100"
     },
     {
       "tipo": "arribo",
@@ -76,25 +95,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "200"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7650",
-      "st": "27/01/2020 21:15",
-      "matricula": "PRGTE",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "GIG",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -1045,6 +1045,25 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "340"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AA",
+      "vuelo": "991",
+      "st": "28/01/2020 08:35",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "LAX",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -2441,14 +2460,14 @@
       "matricula": "ZPCRN",
       "posicion": "51A",
       "et": "27/1/2020 20:27",
-      "at": "",
+      "at": "27/1/2020 20:36",
       "term": "A",
       "sector": "",
       "cinta": "5",
       "lF": "006",
       "ruta": "ASU",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "26"
     },
@@ -2470,25 +2489,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "78"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1428",
-      "st": "27/01/2020 06:40",
-      "matricula": "LVCBF",
-      "posicion": "50A",
-      "et": "27/1/2020 08:00",
-      "at": "27/1/2020 08:37",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "27",
-      "ruta": "SLA",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
