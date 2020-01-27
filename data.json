@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/01/2020 07:21",
+  "lastUpdate": "27/01/2020 07:27",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -103,7 +103,7 @@
       "st": "27/01/2020 08:48",
       "matricula": "LVBFY",
       "posicion": "",
-      "et": "",
+      "et": "27/1/2020 08:54",
       "at": "",
       "term": "A",
       "sector": "",
@@ -111,9 +111,9 @@
       "lF": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "161"
     },
     {
       "tipo": "arribo",
@@ -364,6 +364,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "JJ",
+      "vuelo": "8008",
+      "st": "27/01/2020 10:15",
+      "matricula": "PTXPQ",
+      "posicion": "",
+      "et": "27/1/2020 10:00",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "157"
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1231",
       "st": "27/01/2020 10:10",
@@ -395,25 +414,6 @@
       "cinta": "",
       "lF": "",
       "ruta": "MDZ",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8008",
-      "st": "27/01/2020 10:15",
-      "matricula": "PTXPQ",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "GRU",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -2555,14 +2555,14 @@
       "matricula": "XAADH",
       "posicion": "05",
       "et": "27/1/2020 07:16",
-      "at": "",
+      "at": "27/1/2020 07:27",
       "term": "A",
       "sector": "",
       "cinta": "5",
       "lF": "001",
       "ruta": "MEX",
       "via": "",
-      "remark": "DEM",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "263"
     },
@@ -3909,7 +3909,7 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "25",
+      "puerta": "27",
       "ruta": "SLA",
       "via": "",
       "remark": "DEM",
@@ -3969,7 +3969,7 @@
       "puerta": "07",
       "ruta": "LIM",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4045,7 +4045,7 @@
       "puerta": "19",
       "ruta": "FLN",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
