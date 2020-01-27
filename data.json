@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/01/2020 17:11",
+  "lastUpdate": "27/01/2020 17:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2530,25 +2530,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "G3",
-      "vuelo": "7691",
-      "st": "27/01/2020 05:05",
-      "matricula": "PRVBW",
-      "posicion": "03",
-      "et": "27/1/2020 05:05",
-      "at": "27/1/2020 05:12",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "068",
-      "chkTo": "074",
-      "puerta": "02",
-      "ruta": "FLN",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AD",
       "vuelo": "8763",
       "st": "27/01/2020 05:30",
@@ -4045,7 +4026,7 @@
       "puerta": "21",
       "ruta": "POA",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
