@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/01/2020 09:07",
+  "lastUpdate": "27/01/2020 09:13",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -136,25 +136,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8008",
-      "st": "27/01/2020 10:15",
-      "matricula": "PTXPQ",
-      "posicion": "",
-      "et": "27/1/2020 09:50",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "157"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AU",
       "vuelo": "2541",
       "st": "27/01/2020 10:15",
@@ -171,6 +152,25 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "90"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "JJ",
+      "vuelo": "8008",
+      "st": "27/01/2020 10:15",
+      "matricula": "PTXPQ",
+      "posicion": "",
+      "et": "27/1/2020 10:00",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "157"
     },
     {
       "tipo": "arribo",
@@ -1311,25 +1311,6 @@
       "remark": "HOR",
       "sanidad": "NO",
       "pax": "2"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1429",
-      "st": "26/01/2020 21:30",
-      "matricula": "LVBZO",
-      "posicion": "18A",
-      "et": "26/1/2020 21:09",
-      "at": "26/1/2020 21:09",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "12",
-      "lF": "018",
-      "ruta": "SLA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "103"
     },
     {
       "tipo": "arribo",
@@ -3360,25 +3341,6 @@
       "chkTo": "074",
       "puerta": "13",
       "ruta": "BSB",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "OB",
-      "vuelo": "701",
-      "st": "27/01/2020 04:45",
-      "matricula": "CP2554",
-      "posicion": "02",
-      "et": "",
-      "at": "27/1/2020 04:48",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "007",
-      "chkTo": "012",
-      "puerta": "01",
-      "ruta": "VVI",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
