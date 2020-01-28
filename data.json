@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/01/2020 18:24",
+  "lastUpdate": "28/01/2020 18:30",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3532,7 +3532,7 @@
       "puerta": "13",
       "ruta": "LIM",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3551,7 +3551,7 @@
       "puerta": "07",
       "ruta": "GRU",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3756,7 +3756,7 @@
       "term": "A",
       "sector": "AP",
       "chkFrom": "054",
-      "chkTo": "061",
+      "chkTo": "062",
       "puerta": "",
       "ruta": "IAH",
       "via": "",
