@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/01/2020 14:23",
+  "lastUpdate": "28/01/2020 14:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -108,7 +108,7 @@
       "term": "A",
       "sector": "",
       "cinta": "4",
-      "lF": "",
+      "lF": "004",
       "ruta": "SCL",
       "via": "",
       "remark": "EST",
@@ -146,7 +146,7 @@
       "term": "A",
       "sector": "",
       "cinta": "5",
-      "lF": "006",
+      "lF": "005",
       "ruta": "CNF",
       "via": "",
       "remark": "EST",
@@ -265,7 +265,7 @@
       "via": "",
       "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "128"
     },
     {
       "tipo": "arribo",
@@ -3448,7 +3448,7 @@
       "matricula": "ECNDR",
       "posicion": "11",
       "et": "",
-      "at": "",
+      "at": "28/1/2020 14:27",
       "term": "A",
       "sector": "AP",
       "chkFrom": "021",
@@ -3456,7 +3456,7 @@
       "puerta": "14",
       "ruta": "MAD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3494,7 +3494,7 @@
       "puerta": "13",
       "ruta": "FLN",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
