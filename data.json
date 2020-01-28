@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/01/2020 17:20",
+  "lastUpdate": "28/01/2020 17:25",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3589,7 +3589,7 @@
       "puerta": "17",
       "ruta": "POA",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3608,7 +3608,7 @@
       "puerta": "04",
       "ruta": "VCP",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3627,7 +3627,7 @@
       "puerta": "22",
       "ruta": "FRA",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3646,7 +3646,7 @@
       "puerta": "21",
       "ruta": "CWB",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3665,7 +3665,7 @@
       "puerta": "13",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -4145,25 +4145,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AM",
-      "vuelo": "029",
-      "st": "28/01/2020 23:55",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "034",
-      "chkTo": "040",
-      "puerta": "",
-      "ruta": "MEX",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1132",
       "st": "28/01/2020 23:55",
@@ -4177,6 +4158,25 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "MAD",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AM",
+      "vuelo": "029",
+      "st": "28/01/2020 23:55",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "034",
+      "chkTo": "040",
+      "puerta": "",
+      "ruta": "MEX",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -4335,25 +4335,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "FO",
-      "vuelo": "5272",
-      "st": "29/01/2020 02:45",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "089",
-      "chkTo": "091",
-      "puerta": "",
-      "ruta": "BRC",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "G3",
       "vuelo": "7649",
       "st": "29/01/2020 02:45",
@@ -4367,6 +4348,25 @@
       "chkTo": "074",
       "puerta": "",
       "ruta": "GIG",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "FO",
+      "vuelo": "5272",
+      "st": "29/01/2020 02:45",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "089",
+      "chkTo": "091",
+      "puerta": "",
+      "ruta": "BRC",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
