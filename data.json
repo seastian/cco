@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/01/2020 16:31",
+  "lastUpdate": "28/01/2020 16:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -969,25 +969,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1141",
-      "st": "28/01/2020 04:40",
-      "matricula": "LVGHQ",
-      "posicion": "12",
-      "et": "28/1/2020 04:55",
-      "at": "28/1/2020 04:35",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "010",
-      "ruta": "FCO",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "204"
     },
     {
       "tipo": "arribo",
@@ -3505,7 +3486,7 @@
       "matricula": "PHBHF",
       "posicion": "11",
       "et": "",
-      "at": "",
+      "at": "28/1/2020 16:33",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "201",
@@ -3513,7 +3494,7 @@
       "puerta": "14",
       "ruta": "AMS",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3570,7 +3551,7 @@
       "puerta": "05",
       "ruta": "CNF",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3608,7 +3589,7 @@
       "puerta": "27",
       "ruta": "BRC",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
