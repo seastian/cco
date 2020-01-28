@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/01/2020 06:26",
+  "lastUpdate": "28/01/2020 06:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2453,23 +2453,23 @@
       "pax": "141"
     },
     {
-      "tipo": "partida",
-      "aerolinea": "LA",
-      "vuelo": "532",
-      "st": "27/01/2020 18:35",
-      "matricula": "CCBGP",
-      "posicion": "10",
-      "et": "",
-      "at": "27/1/2020 18:32",
+      "tipo": "arribo",
+      "aerolinea": "CM",
+      "vuelo": "454",
+      "st": "28/01/2020 07:06",
+      "matricula": "HP1836",
+      "posicion": "51A",
+      "et": "28/1/2020 06:54",
+      "at": "28/1/2020 06:32",
       "term": "A",
-      "sector": "AP",
-      "chkFrom": "038",
-      "chkTo": "053",
-      "puerta": "10",
-      "ruta": "SCL",
+      "sector": "",
+      "cinta": "7",
+      "lF": "008",
+      "ruta": "PTY",
       "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "154"
     },
     {
       "tipo": "partida",
@@ -3665,7 +3665,7 @@
       "puerta": "26",
       "ruta": "SLA",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3684,7 +3684,7 @@
       "puerta": "24",
       "ruta": "TUC",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3722,7 +3722,7 @@
       "puerta": "03",
       "ruta": "SCL",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4167,8 +4167,8 @@
       "aerolinea": "CM",
       "vuelo": "278",
       "st": "28/01/2020 11:38",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "HP1836",
+      "posicion": "51A",
       "et": "",
       "at": "",
       "term": "A",
