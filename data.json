@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/01/2020 10:50",
+  "lastUpdate": "28/01/2020 10:56",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1181,25 +1181,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8014",
-      "st": "27/01/2020 23:00",
-      "matricula": "PRMBR",
-      "posicion": "05",
-      "et": "27/1/2020 22:57",
-      "at": "27/1/2020 22:53",
-      "term": "A",
-      "sector": "",
-      "cinta": "3",
-      "lF": "002",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "154"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "GG",
       "vuelo": "551",
       "st": "27/01/2020 23:00",
@@ -2308,14 +2289,14 @@
       "matricula": "LVFVM",
       "posicion": "16B",
       "et": "28/1/2020 10:38",
-      "at": "",
+      "at": "28/1/2020 10:52",
       "term": "A",
       "sector": "",
       "cinta": "7",
       "lF": "008",
       "ruta": "SCL",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "89"
     },
@@ -2714,25 +2695,6 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "ROS",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "M3",
-      "vuelo": "8490",
-      "st": "28/01/2020 02:10",
-      "matricula": "PRABB",
-      "posicion": "55",
-      "et": "28/1/2020 01:30",
-      "at": "28/1/2020 02:12",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -3646,7 +3608,7 @@
       "puerta": "07",
       "ruta": "SCL",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3684,7 +3646,7 @@
       "puerta": "19",
       "ruta": "SCL",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3722,7 +3684,7 @@
       "puerta": "27",
       "ruta": "IGR",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3741,7 +3703,7 @@
       "puerta": "26",
       "ruta": "MDZ",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
