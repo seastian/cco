@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/01/2020 03:33",
+  "lastUpdate": "28/01/2020 03:39",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1162,25 +1162,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "4M",
-      "vuelo": "7824",
-      "st": "27/01/2020 15:48",
-      "matricula": "CCCWV",
-      "posicion": "52",
-      "et": "27/1/2020 15:35",
-      "at": "27/1/2020 15:39",
-      "term": "A",
-      "sector": "",
-      "cinta": "1",
-      "lF": "001",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "161"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1229",
       "st": "27/01/2020 15:05",
@@ -1296,25 +1277,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "AR",
-      "vuelo": "1285",
-      "st": "27/01/2020 16:20",
-      "matricula": "LVFYK",
-      "posicion": "14A",
-      "et": "27/1/2020 16:15",
-      "at": "27/1/2020 16:22",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "010",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "100"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
       "vuelo": "1871",
       "st": "27/01/2020 16:45",
       "matricula": "LVGKT",
@@ -1330,6 +1292,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "156"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1285",
+      "st": "27/01/2020 16:20",
+      "matricula": "LVFYK",
+      "posicion": "14A",
+      "et": "27/1/2020 16:15",
+      "at": "27/1/2020 16:22",
+      "term": "A",
+      "sector": "",
+      "cinta": "7",
+      "lF": "010",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "100"
     },
     {
       "tipo": "arribo",
@@ -3798,7 +3779,7 @@
       "puerta": "09",
       "ruta": "LIM",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
