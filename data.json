@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/01/2020 02:44",
+  "lastUpdate": "29/01/2020 02:50",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1222,6 +1222,25 @@
       "aerolinea": "KL",
       "vuelo": "702",
       "st": "29/01/2020 14:40",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "H2",
+      "vuelo": "507",
+      "st": "29/01/2020 14:47",
       "matricula": "",
       "posicion": "",
       "et": "",
@@ -3456,7 +3475,7 @@
       "puerta": "23",
       "ruta": "PUJ",
       "via": "RES",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
