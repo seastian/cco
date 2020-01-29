@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/01/2020 00:39",
+  "lastUpdate": "29/01/2020 00:45",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2269,7 +2269,7 @@
       "st": "29/01/2020 00:25",
       "matricula": "PRGGM",
       "posicion": "06",
-      "et": "29/1/2020 00:25",
+      "et": "",
       "at": "",
       "term": "A",
       "sector": "",
@@ -2277,7 +2277,7 @@
       "lF": "005",
       "ruta": "GRU",
       "via": "",
-      "remark": "EST",
+      "remark": "CON",
       "sanidad": "NO",
       "pax": "106"
     },
@@ -3551,7 +3551,7 @@
       "puerta": "",
       "ruta": "NAT",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
