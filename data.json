@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/01/2020 05:21",
+  "lastUpdate": "29/01/2020 05:26",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -136,25 +136,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AM",
-      "vuelo": "028",
-      "st": "29/01/2020 07:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MEX",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "CM",
       "vuelo": "454",
       "st": "29/01/2020 07:06",
@@ -190,6 +171,25 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "251"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AM",
+      "vuelo": "028",
+      "st": "29/01/2020 07:00",
+      "matricula": "N967AM",
+      "posicion": "",
+      "et": "29/1/2020 07:15",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MEX",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "236"
     },
     {
       "tipo": "arribo",
@@ -3494,7 +3494,7 @@
       "puerta": "13",
       "ruta": "ASU",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3532,7 +3532,7 @@
       "puerta": "14",
       "ruta": "LIM",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
