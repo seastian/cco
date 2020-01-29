@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/01/2020 05:42",
+  "lastUpdate": "29/01/2020 05:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -69,8 +69,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "4",
+      "lF": "004",
       "ruta": "MIA",
       "via": "",
       "remark": "EST",
@@ -88,8 +88,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "7",
+      "lF": "007",
       "ruta": "BOG",
       "via": "",
       "remark": "EST",
@@ -126,8 +126,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "5",
+      "lF": "005",
       "ruta": "PTY",
       "via": "",
       "remark": "EST",
@@ -140,7 +140,7 @@
       "vuelo": "701",
       "st": "29/01/2020 07:05",
       "matricula": "PHBHL",
-      "posicion": "",
+      "posicion": "11",
       "et": "29/1/2020 07:10",
       "at": "",
       "term": "A",
@@ -1215,7 +1215,7 @@
       "via": "",
       "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "290"
     },
     {
       "tipo": "arribo",
@@ -3456,7 +3456,7 @@
       "puerta": "09",
       "ruta": "CCS",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3494,7 +3494,7 @@
       "puerta": "21",
       "ruta": "POA",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3532,7 +3532,7 @@
       "puerta": "23",
       "ruta": "SCL",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3551,7 +3551,7 @@
       "puerta": "05",
       "ruta": "GRU",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3901,15 +3901,15 @@
       "aerolinea": "AM",
       "vuelo": "031",
       "st": "29/01/2020 09:00",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "N967AM",
+      "posicion": "04",
       "et": "",
       "at": "",
       "term": "A",
       "sector": "AP",
       "chkFrom": "034",
       "chkTo": "040",
-      "puerta": "",
+      "puerta": "03",
       "ruta": "MEX",
       "via": "",
       "remark": "HOR",
@@ -3920,15 +3920,15 @@
       "aerolinea": "KL",
       "vuelo": "701",
       "st": "29/01/2020 09:00",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "PHBHL",
+      "posicion": "11",
       "et": "",
       "at": "",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "201",
       "chkTo": "208",
-      "puerta": "",
+      "puerta": "14",
       "ruta": "SCL",
       "via": "",
       "remark": "HOR",
