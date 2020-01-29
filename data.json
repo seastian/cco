@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/01/2020 02:50",
+  "lastUpdate": "29/01/2020 02:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1250,6 +1250,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "SCL",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1265",
+      "st": "29/01/2020 14:55",
+      "matricula": "LVGVB",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "GIG",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -3437,7 +3456,7 @@
       "puerta": "06",
       "ruta": "GIG",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3475,7 +3494,7 @@
       "puerta": "23",
       "ruta": "PUJ",
       "via": "RES",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
