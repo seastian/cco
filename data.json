@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/01/2020 12:27",
+  "lastUpdate": "30/01/2020 12:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -64,7 +64,7 @@
       "vuelo": "8042",
       "st": "30/01/2020 13:35",
       "matricula": "PRMBR",
-      "posicion": "",
+      "posicion": "02",
       "et": "30/1/2020 13:40",
       "at": "",
       "term": "A",
@@ -2530,25 +2530,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "PZ",
-      "vuelo": "1310",
-      "st": "29/01/2020 23:55",
-      "matricula": "PRMHR",
-      "posicion": "06",
-      "et": "",
-      "at": "30/1/2020 00:31",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "05",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AV",
       "vuelo": "218",
       "st": "30/01/2020 00:10",
@@ -3714,7 +3695,7 @@
       "matricula": "LVGFQ",
       "posicion": "17B",
       "et": "",
-      "at": "",
+      "at": "30/1/2020 12:29",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3722,7 +3703,7 @@
       "puerta": "26",
       "ruta": "FTE",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3836,7 +3817,7 @@
       "puerta": "10",
       "ruta": "ZRH",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
