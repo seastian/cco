@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/01/2020 05:12",
+  "lastUpdate": "30/01/2020 05:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -4026,7 +4026,7 @@
       "puerta": "17",
       "ruta": "ASU",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -4083,7 +4083,7 @@
       "puerta": "21",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
