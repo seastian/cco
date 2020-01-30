@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/01/2020 05:17",
+  "lastUpdate": "30/01/2020 05:23",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3988,7 +3988,7 @@
       "puerta": "26",
       "ruta": "IGR",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
