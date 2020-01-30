@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/01/2020 22:33",
+  "lastUpdate": "29/01/2020 22:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2650,14 +2650,14 @@
       "matricula": "LVCIE",
       "posicion": "24A",
       "et": "29/1/2020 22:25",
-      "at": "",
+      "at": "29/1/2020 22:36",
       "term": "A",
       "sector": "",
       "cinta": "5",
       "lF": "007",
       "ruta": "POA",
       "via": "",
-      "remark": "DEM",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "57"
     },
@@ -4102,7 +4102,7 @@
       "puerta": "18",
       "ruta": "FCO",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
