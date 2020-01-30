@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/01/2020 08:10",
+  "lastUpdate": "30/01/2020 08:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -462,9 +462,9 @@
       "aerolinea": "UA",
       "vuelo": "819",
       "st": "30/01/2020 11:20",
-      "matricula": "",
+      "matricula": "N78009",
       "posicion": "",
-      "et": "",
+      "et": "30/1/2020 11:10",
       "at": "",
       "term": "A",
       "sector": "",
@@ -472,9 +472,9 @@
       "lF": "",
       "ruta": "IAH",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "266"
     },
     {
       "tipo": "arribo",
@@ -1314,6 +1314,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1135",
+      "st": "30/01/2020 20:15",
+      "matricula": "LVFVH",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MAD",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "AU",
       "vuelo": "2709",
       "st": "29/01/2020 20:10",
@@ -1349,25 +1368,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "325"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AU",
-      "vuelo": "2739",
-      "st": "29/01/2020 20:25",
-      "matricula": "LVCET",
-      "posicion": "25A",
-      "et": "",
-      "at": "29/1/2020 20:16",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "11",
-      "lF": "017",
-      "ruta": "IGR",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "72"
     },
     {
       "tipo": "arribo",
@@ -1542,25 +1542,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "QR",
-      "vuelo": "773",
-      "st": "29/01/2020 21:30",
-      "matricula": "A7BBB",
-      "posicion": "08",
-      "et": "29/1/2020 21:05",
-      "at": "29/1/2020 21:06",
-      "term": "A",
-      "sector": "",
-      "cinta": "5",
-      "lF": "005",
-      "ruta": "DOH",
-      "via": "GRU",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "205"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1429",
       "st": "29/01/2020 21:30",
@@ -1577,6 +1558,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "109"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "QR",
+      "vuelo": "773",
+      "st": "29/01/2020 21:30",
+      "matricula": "A7BBB",
+      "posicion": "08",
+      "et": "29/1/2020 21:05",
+      "at": "29/1/2020 21:06",
+      "term": "A",
+      "sector": "",
+      "cinta": "5",
+      "lF": "005",
+      "ruta": "DOH",
+      "via": "GRU",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "205"
     },
     {
       "tipo": "arribo",
@@ -2464,7 +2464,7 @@
       "term": "A",
       "sector": "",
       "cinta": "9",
-      "lF": "010",
+      "lF": "009",
       "ruta": "AMS",
       "via": "",
       "remark": "ATE",
@@ -2587,25 +2587,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "4M",
-      "vuelo": "7821",
-      "st": "30/01/2020 07:25",
-      "matricula": "CCBDC",
-      "posicion": "12",
-      "et": "30/1/2020 08:10",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "4",
-      "lF": "004",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1361",
       "st": "30/01/2020 07:10",
@@ -2622,6 +2603,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "108"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "4M",
+      "vuelo": "7821",
+      "st": "30/01/2020 07:25",
+      "matricula": "CCBDC",
+      "posicion": "12",
+      "et": "30/1/2020 08:10",
+      "at": "30/1/2020 08:12",
+      "term": "A",
+      "sector": "",
+      "cinta": "4",
+      "lF": "004",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "partida",
@@ -3942,7 +3942,7 @@
       "matricula": "LVFRQ",
       "posicion": "17B",
       "et": "",
-      "at": "",
+      "at": "30/1/2020 08:10",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3950,7 +3950,7 @@
       "puerta": "25",
       "ruta": "COR",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -4026,7 +4026,7 @@
       "puerta": "17",
       "ruta": "MIA",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4102,7 +4102,7 @@
       "puerta": "14",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
