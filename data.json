@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/02/2020 18:28",
+  "lastUpdate": "03/02/2020 18:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1162,25 +1162,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "103",
-      "st": "03/02/2020 06:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "LP",
       "vuelo": "2467",
       "st": "03/02/2020 06:35",
@@ -1219,25 +1200,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "WWS",
-      "st": "03/02/2020 06:45",
-      "matricula": "P4WWS",
-      "posicion": "45",
-      "et": "",
-      "at": "3/2/2020 06:35",
-      "term": "FBO",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SID",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "1"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AA",
       "vuelo": "907",
       "st": "03/02/2020 06:56",
@@ -1254,6 +1216,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "272"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "WWS",
+      "st": "03/02/2020 06:45",
+      "matricula": "P4WWS",
+      "posicion": "45",
+      "et": "",
+      "at": "3/2/2020 06:35",
+      "term": "FBO",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SID",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "1"
     },
     {
       "tipo": "arribo",
@@ -1656,25 +1637,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7680",
-      "st": "03/02/2020 09:30",
-      "matricula": "PRGEK",
-      "posicion": "06",
-      "et": "3/2/2020 09:30",
-      "at": "3/2/2020 09:01",
-      "term": "A",
-      "sector": "",
-      "cinta": "3",
-      "lF": "006",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "88"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1249",
       "st": "03/02/2020 09:55",
@@ -1691,6 +1653,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "112"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "G3",
+      "vuelo": "7680",
+      "st": "03/02/2020 09:30",
+      "matricula": "PRGEK",
+      "posicion": "06",
+      "et": "3/2/2020 09:30",
+      "at": "3/2/2020 09:01",
+      "term": "A",
+      "sector": "",
+      "cinta": "3",
+      "lF": "006",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "88"
     },
     {
       "tipo": "arribo",
@@ -4037,7 +4018,7 @@
       "matricula": "LVFQY",
       "posicion": "16B",
       "et": "",
-      "at": "",
+      "at": "3/2/2020 18:29",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -4045,7 +4026,7 @@
       "puerta": "23",
       "ruta": "SCL",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -4083,7 +4064,7 @@
       "puerta": "06",
       "ruta": "VCP",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4140,7 +4121,7 @@
       "puerta": "05",
       "ruta": "GRU",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4159,7 +4140,7 @@
       "puerta": "07",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -4282,14 +4263,14 @@
       "vuelo": "110",
       "st": "03/02/2020 21:16",
       "matricula": "N190DN",
-      "posicion": "TD1",
+      "posicion": "14",
       "et": "",
       "at": "",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "207",
       "chkTo": "214",
-      "puerta": "18",
+      "puerta": "19",
       "ruta": "ATL",
       "via": "",
       "remark": "HOR",
@@ -4402,7 +4383,7 @@
       "term": "A",
       "sector": "AP",
       "chkFrom": "054",
-      "chkTo": "061",
+      "chkTo": "062",
       "puerta": "",
       "ruta": "IAH",
       "via": "",
