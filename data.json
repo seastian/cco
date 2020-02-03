@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/02/2020 18:23",
+  "lastUpdate": "03/02/2020 18:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -4083,7 +4083,7 @@
       "puerta": "06",
       "ruta": "VCP",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4140,7 +4140,7 @@
       "puerta": "05",
       "ruta": "GRU",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -4623,8 +4623,8 @@
       "aerolinea": "NZ",
       "vuelo": "31",
       "st": "03/02/2020 23:45",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "ZKOKC",
+      "posicion": "35",
       "et": "",
       "at": "",
       "term": "A",
