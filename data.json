@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/02/2020 12:36",
+  "lastUpdate": "03/02/2020 12:42",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3988,7 +3988,7 @@
       "puerta": "08",
       "ruta": "ZRH",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4064,7 +4064,7 @@
       "puerta": "04",
       "ruta": "MAD",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4216,7 +4216,7 @@
       "puerta": "10",
       "ruta": "MAD",
       "via": "",
-      "remark": "ULT",
+      "remark": "HOR",
       "sanidad": "NO"
     },
     {
