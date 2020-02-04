@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/02/2020 11:19",
+  "lastUpdate": "04/02/2020 11:24",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -265,7 +265,7 @@
       "via": "",
       "remark": "",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "105"
     },
     {
       "tipo": "arribo",
@@ -2378,25 +2378,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "H2",
-      "vuelo": "504",
-      "st": "03/02/2020 23:03",
-      "matricula": "CCAZK",
-      "posicion": "04",
-      "et": "",
-      "at": "3/2/2020 23:22",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "089",
-      "chkTo": "091",
-      "puerta": "03",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AA",
       "vuelo": "954",
       "st": "03/02/2020 23:10",
@@ -2531,7 +2512,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1000",
+      "vuelo": "1001",
       "st": "03/02/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -2539,7 +2520,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "209",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -2550,7 +2531,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1001",
+      "vuelo": "1000",
       "st": "03/02/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -2558,7 +2539,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -3657,7 +3638,7 @@
       "matricula": "PRGTC",
       "posicion": "50A",
       "et": "",
-      "at": "",
+      "at": "4/2/2020 11:24",
       "term": "A",
       "sector": "AP",
       "chkFrom": "068",
@@ -3665,7 +3646,7 @@
       "puerta": "12",
       "ruta": "GRU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3703,7 +3684,7 @@
       "puerta": "01",
       "ruta": "PTY",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3722,7 +3703,7 @@
       "puerta": "27",
       "ruta": "COR",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
