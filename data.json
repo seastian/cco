@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/02/2020 08:47",
+  "lastUpdate": "04/02/2020 08:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -159,7 +159,7 @@
       "vuelo": "931",
       "st": "04/02/2020 09:28",
       "matricula": "N724AN",
-      "posicion": "",
+      "posicion": "09",
       "et": "4/2/2020 09:53",
       "at": "",
       "term": "A",
@@ -197,7 +197,7 @@
       "vuelo": "2541",
       "st": "04/02/2020 10:15",
       "matricula": "LVCET",
-      "posicion": "",
+      "posicion": "25A",
       "et": "4/2/2020 10:01",
       "at": "",
       "term": "C",
@@ -216,7 +216,7 @@
       "vuelo": "2261",
       "st": "04/02/2020 10:30",
       "matricula": "LVCHR",
-      "posicion": "",
+      "posicion": "22B",
       "et": "4/2/2020 10:05",
       "at": "",
       "term": "A",
@@ -235,7 +235,7 @@
       "vuelo": "953",
       "st": "04/02/2020 10:42",
       "matricula": "N785AN",
-      "posicion": "",
+      "posicion": "10",
       "et": "4/2/2020 10:19",
       "at": "",
       "term": "A",
@@ -3714,7 +3714,7 @@
       "matricula": "CCCWV",
       "posicion": "08",
       "et": "",
-      "at": "",
+      "at": "4/2/2020 08:50",
       "term": "A",
       "sector": "",
       "chkFrom": "",
@@ -3722,7 +3722,7 @@
       "puerta": "07",
       "ruta": "SCL",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3741,7 +3741,7 @@
       "puerta": "21",
       "ruta": "FLN",
       "via": "",
-      "remark": "DEM",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4016,7 +4016,7 @@
       "vuelo": "2412",
       "st": "04/02/2020 12:00",
       "matricula": "LVCHR",
-      "posicion": "",
+      "posicion": "22B",
       "et": "",
       "at": "",
       "term": "C",
@@ -4092,7 +4092,7 @@
       "vuelo": "2392",
       "st": "04/02/2020 12:25",
       "matricula": "LVCET",
-      "posicion": "",
+      "posicion": "25A",
       "et": "",
       "at": "",
       "term": "C",
