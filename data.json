@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/02/2020 12:18",
+  "lastUpdate": "04/02/2020 12:23",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -65,7 +65,7 @@
       "st": "04/02/2020 13:35",
       "matricula": "PRMBQ",
       "posicion": "",
-      "et": "",
+      "et": "4/2/2020 13:35",
       "at": "",
       "term": "A",
       "sector": "",
@@ -73,7 +73,7 @@
       "lF": "",
       "ruta": "FLN",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
