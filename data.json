@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/02/2020 17:16",
+  "lastUpdate": "04/02/2020 17:21",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2244,23 +2244,23 @@
       "pax": "155"
     },
     {
-      "tipo": "partida",
-      "aerolinea": "G3",
-      "vuelo": "7691",
-      "st": "04/02/2020 05:05",
-      "matricula": "PRGEI",
-      "posicion": "02",
-      "et": "",
-      "at": "4/2/2020 05:19",
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1293",
+      "st": "04/02/2020 17:50",
+      "matricula": "LVGKU",
+      "posicion": "17B",
+      "et": "4/2/2020 17:22",
+      "at": "",
       "term": "A",
-      "sector": "AP",
-      "chkFrom": "068",
-      "chkTo": "074",
-      "puerta": "01",
-      "ruta": "FLN",
+      "sector": "",
+      "cinta": "8",
+      "lF": "008",
+      "ruta": "GIG",
       "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "109"
     },
     {
       "tipo": "partida",
