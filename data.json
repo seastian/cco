@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/02/2020 21:10",
+  "lastUpdate": "03/02/2020 21:15",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -45,7 +45,7 @@
       "vuelo": "2233",
       "st": "03/02/2020 21:50",
       "matricula": "LVCID",
-      "posicion": "",
+      "posicion": "24A",
       "et": "3/2/2020 21:25",
       "at": "",
       "term": "A",
@@ -1159,25 +1159,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "274"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "WK",
-      "vuelo": "090",
-      "st": "03/02/2020 09:00",
-      "matricula": "HBJMD",
-      "posicion": "09",
-      "et": "3/2/2020 08:58",
-      "at": "3/2/2020 09:13",
-      "term": "A",
-      "sector": "",
-      "cinta": "5",
-      "lF": "008",
-      "ruta": "ZRH",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "306"
     },
     {
       "tipo": "arribo",
@@ -3423,25 +3404,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "PRV",
-      "vuelo": "BES",
-      "st": "03/02/2020 17:00",
-      "matricula": "LVBES",
-      "posicion": "H25",
-      "et": "",
-      "at": "3/2/2020 17:27",
-      "term": "FBO",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "ESC",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AU",
       "vuelo": "2262",
       "st": "03/02/2020 17:00",
@@ -3455,6 +3417,25 @@
       "chkTo": "240",
       "puerta": "17",
       "ruta": "ASU",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "PRV",
+      "vuelo": "BES",
+      "st": "03/02/2020 17:00",
+      "matricula": "LVBES",
+      "posicion": "H25",
+      "et": "",
+      "at": "3/2/2020 17:27",
+      "term": "FBO",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "ESC",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -3733,7 +3714,7 @@
       "matricula": "N777AN",
       "posicion": "09",
       "et": "",
-      "at": "",
+      "at": "3/2/2020 21:15",
       "term": "A",
       "sector": "AP",
       "chkFrom": "001",
@@ -3741,7 +3722,7 @@
       "puerta": "08",
       "ruta": "DFW",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3765,6 +3746,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "DL",
+      "vuelo": "110",
+      "st": "03/02/2020 21:16",
+      "matricula": "N190DN",
+      "posicion": "14",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "207",
+      "chkTo": "214",
+      "puerta": "18",
+      "ruta": "ATL",
+      "via": "",
+      "remark": "CER",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1248",
       "st": "03/02/2020 19:40",
@@ -3784,25 +3784,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "DL",
-      "vuelo": "110",
-      "st": "03/02/2020 21:16",
-      "matricula": "N190DN",
-      "posicion": "14",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "207",
-      "chkTo": "214",
-      "puerta": "18",
-      "ruta": "ATL",
-      "via": "",
-      "remark": "BOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "ET",
       "vuelo": "507",
       "st": "03/02/2020 21:20",
@@ -3817,7 +3798,7 @@
       "puerta": "14",
       "ruta": "ADD",
       "via": "GRU",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3836,7 +3817,7 @@
       "puerta": "24",
       "ruta": "COR",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3855,7 +3836,7 @@
       "puerta": "25",
       "ruta": "ROS",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3874,7 +3855,7 @@
       "puerta": "10",
       "ruta": "MIA",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3893,7 +3874,7 @@
       "puerta": "12",
       "ruta": "ASU",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3912,7 +3893,7 @@
       "puerta": "02",
       "ruta": "IAH",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -4135,7 +4116,7 @@
       "at": "",
       "term": "A",
       "sector": "AP",
-      "chkFrom": "076",
+      "chkFrom": "075",
       "chkTo": "081",
       "puerta": "",
       "ruta": "AKL",
