@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/02/2020 05:14",
+  "lastUpdate": "04/02/2020 05:20",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3752,7 +3752,7 @@
       "matricula": "PRGEI",
       "posicion": "02",
       "et": "",
-      "at": "",
+      "at": "4/2/2020 05:19",
       "term": "A",
       "sector": "AP",
       "chkFrom": "068",
@@ -3760,7 +3760,7 @@
       "puerta": "01",
       "ruta": "FLN",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3817,7 +3817,7 @@
       "puerta": "07",
       "ruta": "GRU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3874,7 +3874,7 @@
       "puerta": "02",
       "ruta": "LIM",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4814,7 +4814,7 @@
       "vuelo": "1272",
       "st": "04/02/2020 14:45",
       "matricula": "LVGVC",
-      "posicion": "51A",
+      "posicion": "",
       "et": "",
       "at": "",
       "term": "C",
@@ -4832,7 +4832,7 @@
       "aerolinea": "AR",
       "vuelo": "1250",
       "st": "04/02/2020 15:05",
-      "matricula": "LVGVC",
+      "matricula": "LVFVO",
       "posicion": "",
       "et": "",
       "at": "",
