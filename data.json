@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/02/2020 14:34",
+  "lastUpdate": "04/02/2020 14:39",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -27,7 +27,7 @@
       "st": "04/02/2020 15:15",
       "matricula": "LVHQI",
       "posicion": "02",
-      "et": "4/2/2020 15:06",
+      "et": "4/2/2020 15:10",
       "at": "",
       "term": "A",
       "sector": "",
@@ -94,7 +94,7 @@
       "via": "",
       "remark": "",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "82"
     },
     {
       "tipo": "arribo",
@@ -3486,7 +3486,7 @@
       "matricula": "ECNGT",
       "posicion": "03",
       "et": "",
-      "at": "",
+      "at": "4/2/2020 14:34",
       "term": "A",
       "sector": "AP",
       "chkFrom": "021",
@@ -3494,7 +3494,7 @@
       "puerta": "02",
       "ruta": "MAD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3513,7 +3513,7 @@
       "puerta": "03",
       "ruta": "FLN",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3532,7 +3532,7 @@
       "puerta": "21",
       "ruta": "FLN",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3551,7 +3551,7 @@
       "puerta": "16",
       "ruta": "GIG",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3787,7 +3787,7 @@
       "aerolinea": "AD",
       "vuelo": "8771",
       "st": "04/02/2020 18:00",
-      "matricula": "",
+      "matricula": "PRYRY",
       "posicion": "",
       "et": "",
       "at": "",
