@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/02/2020 06:13",
+  "lastUpdate": "04/02/2020 06:18",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -155,6 +155,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "4M",
+      "vuelo": "7821",
+      "st": "04/02/2020 07:25",
+      "matricula": "CCCWV",
+      "posicion": "08",
+      "et": "4/2/2020 07:12",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "211"
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1365",
       "st": "04/02/2020 05:00",
@@ -190,25 +209,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "264"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "4M",
-      "vuelo": "7821",
-      "st": "04/02/2020 07:25",
-      "matricula": "CCCWV",
-      "posicion": "08",
-      "et": "4/2/2020 07:20",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -292,7 +292,7 @@
       "vuelo": "6841",
       "st": "04/02/2020 08:35",
       "matricula": "ECNGT",
-      "posicion": "",
+      "posicion": "03",
       "et": "4/2/2020 08:01",
       "at": "",
       "term": "A",
@@ -311,7 +311,7 @@
       "vuelo": "041",
       "st": "04/02/2020 08:50",
       "matricula": "ECNFM",
-      "posicion": "",
+      "posicion": "14",
       "et": "4/2/2020 08:32",
       "at": "",
       "term": "A",
@@ -2435,25 +2435,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "4M",
-      "vuelo": "7766",
-      "st": "03/02/2020 18:05",
-      "matricula": "LVBFY",
-      "posicion": "02",
-      "et": "",
-      "at": "3/2/2020 18:17",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "24",
-      "ruta": "BRC",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1290",
       "st": "03/02/2020 18:15",
@@ -3752,7 +3733,7 @@
       "matricula": "LVFQY",
       "posicion": "71",
       "et": "",
-      "at": "",
+      "at": "4/2/2020 06:17",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3760,7 +3741,7 @@
       "puerta": "21",
       "ruta": "SCL",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3779,7 +3760,7 @@
       "puerta": "24",
       "ruta": "SLA",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3798,7 +3779,7 @@
       "puerta": "25",
       "ruta": "TUC",
       "via": "",
-      "remark": "PRE",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3836,7 +3817,7 @@
       "puerta": "27",
       "ruta": "MDZ",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3850,12 +3831,12 @@
       "at": "",
       "term": "A",
       "sector": "AP",
-      "chkFrom": "040",
+      "chkFrom": "041",
       "chkTo": "053",
       "puerta": "12",
       "ruta": "SCL",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3874,7 +3855,7 @@
       "puerta": "10",
       "ruta": "BOG",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3926,7 +3907,7 @@
       "at": "",
       "term": "A",
       "sector": "AP",
-      "chkFrom": "038",
+      "chkFrom": "041",
       "chkTo": "053",
       "puerta": "02",
       "ruta": "LIM",
