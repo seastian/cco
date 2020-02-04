@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "04/02/2020 20:33",
+  "lastUpdate": "04/02/2020 20:38",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AU",
-      "vuelo": "2463",
-      "st": "04/02/2020 20:45",
-      "matricula": "LVGAQ",
-      "posicion": "23B",
-      "et": "4/2/2020 20:39",
-      "at": "",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "12",
-      "lF": "018",
-      "ruta": "MDZ",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AU",
@@ -250,25 +231,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AM",
-      "vuelo": "030",
-      "st": "04/02/2020 21:55",
-      "matricula": "N446AM",
-      "posicion": "04",
-      "et": "4/2/2020 21:50",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MEX",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "237"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AU",
       "vuelo": "2233",
       "st": "04/02/2020 21:50",
@@ -285,6 +247,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AM",
+      "vuelo": "030",
+      "st": "04/02/2020 21:55",
+      "matricula": "N446AM",
+      "posicion": "04",
+      "et": "4/2/2020 21:50",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MEX",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "237"
     },
     {
       "tipo": "arribo",
@@ -1029,25 +1010,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "BA",
-      "vuelo": "245",
-      "st": "04/02/2020 09:10",
-      "matricula": "GYMMR",
-      "posicion": "06",
-      "et": "4/2/2020 08:30",
-      "at": "4/2/2020 08:38",
-      "term": "A",
-      "sector": "",
-      "cinta": "5",
-      "lF": "004",
-      "ruta": "LHR",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "263"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "UX",
       "vuelo": "041",
       "st": "04/02/2020 08:50",
@@ -1713,25 +1675,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AU",
-      "vuelo": "2393",
-      "st": "04/02/2020 16:20",
-      "matricula": "LVCMB",
-      "posicion": "25A",
-      "et": "4/2/2020 15:10",
-      "at": "4/2/2020 15:16",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "008",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "37"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "4M",
       "vuelo": "7901",
       "st": "04/02/2020 15:15",
@@ -1748,6 +1691,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "159"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AU",
+      "vuelo": "2393",
+      "st": "04/02/2020 16:20",
+      "matricula": "LVCMB",
+      "posicion": "25A",
+      "et": "4/2/2020 15:10",
+      "at": "4/2/2020 15:16",
+      "term": "A",
+      "sector": "",
+      "cinta": "8",
+      "lF": "008",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "37"
     },
     {
       "tipo": "arribo",
@@ -2147,6 +2109,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "168"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AU",
+      "vuelo": "2463",
+      "st": "04/02/2020 20:45",
+      "matricula": "LVGAQ",
+      "posicion": "23B",
+      "et": "4/2/2020 20:39",
+      "at": "4/2/2020 20:35",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "12",
+      "lF": "018",
+      "ruta": "MDZ",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -3380,7 +3361,7 @@
       "puerta": "08",
       "ruta": "DFW",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3399,7 +3380,7 @@
       "puerta": "05",
       "ruta": "SCL",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3418,7 +3399,7 @@
       "puerta": "18",
       "ruta": "ATL",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
