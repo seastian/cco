@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/02/2020 15:26",
+  "lastUpdate": "04/02/2020 15:31",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -481,7 +481,7 @@
       "aerolinea": "AU",
       "vuelo": "2465",
       "st": "04/02/2020 21:25",
-      "matricula": "LVCDZ",
+      "matricula": "LVCID",
       "posicion": "",
       "et": "",
       "at": "",
@@ -671,7 +671,7 @@
       "aerolinea": "AR",
       "vuelo": "1363",
       "st": "04/02/2020 22:25",
-      "matricula": "",
+      "matricula": "LVGGQ",
       "posicion": "",
       "et": "",
       "at": "",
@@ -709,7 +709,7 @@
       "aerolinea": "AU",
       "vuelo": "2727",
       "st": "04/02/2020 22:30",
-      "matricula": "LVCID",
+      "matricula": "LVCDZ",
       "posicion": "",
       "et": "",
       "at": "",
@@ -3391,7 +3391,7 @@
       "matricula": "LVGVC",
       "posicion": "15B",
       "et": "",
-      "at": "4/2/2020 15:20",
+      "at": "4/2/2020 15:19",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3475,7 +3475,7 @@
       "puerta": "18",
       "ruta": "GRU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3551,7 +3551,7 @@
       "puerta": "07",
       "ruta": "GRU",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3776,7 +3776,7 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "19",
       "ruta": "LIM",
       "via": "",
       "remark": "HOR",
@@ -3947,7 +3947,7 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "24",
       "ruta": "COR",
       "via": "",
       "remark": "HOR",
@@ -3966,7 +3966,7 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "26",
       "ruta": "ROS",
       "via": "",
       "remark": "HOR",
