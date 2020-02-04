@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/02/2020 04:22",
+  "lastUpdate": "04/02/2020 04:27",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -84,7 +84,7 @@
       "st": "04/02/2020 06:35",
       "matricula": "CCBJA",
       "posicion": "",
-      "et": "4/2/2020 06:30",
+      "et": "4/2/2020 06:50",
       "at": "",
       "term": "A",
       "sector": "",
@@ -3790,7 +3790,7 @@
       "matricula": "LVHQI",
       "posicion": "09",
       "et": "",
-      "at": "",
+      "at": "4/2/2020 04:25",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3798,7 +3798,7 @@
       "puerta": "09",
       "ruta": "LIM",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3855,7 +3855,7 @@
       "puerta": "15",
       "ruta": "BSB",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3912,7 +3912,7 @@
       "puerta": "13",
       "ruta": "SSA",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -4135,7 +4135,7 @@
       "at": "",
       "term": "A",
       "sector": "AP",
-      "chkFrom": "041",
+      "chkFrom": "038",
       "chkTo": "053",
       "puerta": "",
       "ruta": "SCL",
@@ -4173,7 +4173,7 @@
       "at": "",
       "term": "A",
       "sector": "AP",
-      "chkFrom": "041",
+      "chkFrom": "038",
       "chkTo": "053",
       "puerta": "",
       "ruta": "GRU",
@@ -4211,7 +4211,7 @@
       "at": "",
       "term": "A",
       "sector": "AP",
-      "chkFrom": "041",
+      "chkFrom": "038",
       "chkTo": "053",
       "puerta": "",
       "ruta": "LIM",
