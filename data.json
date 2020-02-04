@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/02/2020 05:41",
+  "lastUpdate": "04/02/2020 05:46",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1238,25 +1238,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AD",
-      "vuelo": "8770",
-      "st": "03/02/2020 17:00",
-      "matricula": "PRYRO",
-      "posicion": "07",
-      "et": "3/2/2020 17:50",
-      "at": "3/2/2020 17:46",
-      "term": "A",
-      "sector": "",
-      "cinta": "3",
-      "lF": "003",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "161"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "JJ",
       "vuelo": "8092",
       "st": "03/02/2020 18:25",
@@ -1333,25 +1314,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "4M",
-      "vuelo": "7507",
-      "st": "03/02/2020 19:27",
-      "matricula": "LVFUX",
-      "posicion": "50A",
-      "et": "3/2/2020 19:00",
-      "at": "3/2/2020 19:05",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "11",
-      "lF": "017",
-      "ruta": "IGR",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "124"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1371",
       "st": "03/02/2020 19:10",
@@ -1368,6 +1330,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "254"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "4M",
+      "vuelo": "7507",
+      "st": "03/02/2020 19:27",
+      "matricula": "LVFUX",
+      "posicion": "50A",
+      "et": "3/2/2020 19:00",
+      "at": "3/2/2020 19:05",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "11",
+      "lF": "017",
+      "ruta": "IGR",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "124"
     },
     {
       "tipo": "arribo",
@@ -3771,7 +3752,7 @@
       "matricula": "PRGOP",
       "posicion": "08",
       "et": "4/2/2020 05:40",
-      "at": "",
+      "at": "4/2/2020 05:45",
       "term": "A",
       "sector": "AP",
       "chkFrom": "068",
@@ -3779,7 +3760,7 @@
       "puerta": "07",
       "ruta": "GRU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3798,7 +3779,7 @@
       "puerta": "17",
       "ruta": "ASU",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3855,7 +3836,7 @@
       "puerta": "21",
       "ruta": "SCL",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
