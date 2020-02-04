@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/02/2020 18:12",
+  "lastUpdate": "04/02/2020 18:18",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -146,7 +146,7 @@
       "term": "A",
       "sector": "",
       "cinta": "7",
-      "lF": "",
+      "lF": "007",
       "ruta": "FLN",
       "via": "",
       "remark": "EST",
@@ -2264,25 +2264,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1282",
-      "st": "04/02/2020 06:05",
-      "matricula": "LVFQY",
-      "posicion": "71",
-      "et": "",
-      "at": "4/2/2020 06:17",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "21",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AU",
       "vuelo": "2472",
       "st": "04/02/2020 06:40",
@@ -3551,7 +3532,7 @@
       "puerta": "14",
       "ruta": "SCL",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3712,7 +3693,7 @@
       "vuelo": "2518",
       "st": "04/02/2020 21:30",
       "matricula": "LVCET",
-      "posicion": "",
+      "posicion": "22A",
       "et": "",
       "at": "",
       "term": "C",
@@ -4230,7 +4211,7 @@
       "at": "",
       "term": "A",
       "sector": "AP",
-      "chkFrom": "079",
+      "chkFrom": "075",
       "chkTo": "081",
       "puerta": "",
       "ruta": "CNF",
