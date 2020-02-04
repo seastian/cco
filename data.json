@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/02/2020 18:28",
+  "lastUpdate": "04/02/2020 18:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3737,7 +3737,7 @@
       "term": "A",
       "sector": "AP",
       "chkFrom": "054",
-      "chkTo": "061",
+      "chkTo": "062",
       "puerta": "",
       "ruta": "IAH",
       "via": "",
