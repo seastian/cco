@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/02/2020 14:56",
+  "lastUpdate": "04/02/2020 15:01",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -777,25 +777,6 @@
       "ruta": "IGR",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "HI915",
-      "st": "04/02/2020 22:40",
-      "matricula": "HI915",
-      "posicion": "40",
-      "et": "",
-      "at": "",
-      "term": "FBO",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "TJA",
-      "via": "",
-      "remark": "HOR",
       "sanidad": "NO",
       "pax": ""
     },
