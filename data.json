@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/02/2020 03:55",
+  "lastUpdate": "04/02/2020 04:00",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2441,14 +2441,14 @@
       "matricula": "LVFVI",
       "posicion": "12",
       "et": "4/2/2020 03:47",
-      "at": "",
+      "at": "4/2/2020 04:00",
       "term": "A",
       "sector": "",
       "cinta": "9",
       "lF": "009",
       "ruta": "MAD",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -3817,7 +3817,7 @@
       "puerta": "09",
       "ruta": "LIM",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
