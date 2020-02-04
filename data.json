@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/02/2020 03:35",
+  "lastUpdate": "04/02/2020 03:40",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -250,6 +250,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "CM",
+      "vuelo": "454",
+      "st": "04/02/2020 07:06",
+      "matricula": "HP1834",
+      "posicion": "",
+      "et": "4/2/2020 07:00",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "PTY",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "150"
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "ZP",
       "vuelo": "820",
       "st": "04/02/2020 07:00",
@@ -285,25 +304,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "CM",
-      "vuelo": "454",
-      "st": "04/02/2020 07:06",
-      "matricula": "HP1834",
-      "posicion": "",
-      "et": "4/2/2020 07:00",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "PTY",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "150"
     },
     {
       "tipo": "arribo",
@@ -2473,25 +2473,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "H2",
-      "vuelo": "508",
-      "st": "03/02/2020 15:22",
-      "matricula": "CCAHD",
-      "posicion": "07",
-      "et": "",
-      "at": "3/2/2020 15:36",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "001",
-      "chkTo": "004",
-      "puerta": "06",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "OB",
       "vuelo": "709",
       "st": "03/02/2020 15:25",
@@ -2682,25 +2663,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AU",
-      "vuelo": "2262",
-      "st": "03/02/2020 17:00",
-      "matricula": "LVCPK",
-      "posicion": "22B",
-      "et": "",
-      "at": "3/2/2020 17:15",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "17",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "PRV",
       "vuelo": "BES",
       "st": "03/02/2020 17:00",
@@ -2714,6 +2676,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "ESC",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AU",
+      "vuelo": "2262",
+      "st": "03/02/2020 17:00",
+      "matricula": "LVCPK",
+      "posicion": "22B",
+      "et": "",
+      "at": "3/2/2020 17:15",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "17",
+      "ruta": "ASU",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -3836,7 +3817,7 @@
       "puerta": "06",
       "ruta": "LIM",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3884,7 +3865,7 @@
       "st": "04/02/2020 04:40",
       "matricula": "PRGUG",
       "posicion": "11B",
-      "et": "",
+      "et": "4/2/2020 04:40",
       "at": "",
       "term": "A",
       "sector": "AP",
@@ -3893,7 +3874,7 @@
       "puerta": "15",
       "ruta": "BSB",
       "via": "",
-      "remark": "HOR",
+      "remark": "EST",
       "sanidad": "NO"
     },
     {
