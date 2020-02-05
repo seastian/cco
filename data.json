@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/02/2020 15:48",
+  "lastUpdate": "05/02/2020 15:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -198,7 +198,7 @@
       "st": "05/02/2020 17:50",
       "matricula": "LVCTB",
       "posicion": "",
-      "et": "",
+      "et": "5/2/2020 17:22",
       "at": "",
       "term": "A",
       "sector": "",
@@ -206,9 +206,9 @@
       "lF": "",
       "ruta": "GIG",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "108"
     },
     {
       "tipo": "arribo",
@@ -1219,25 +1219,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1133",
-      "st": "05/02/2020 04:20",
-      "matricula": "LVFPU",
-      "posicion": "13",
-      "et": "5/2/2020 03:36",
-      "at": "5/2/2020 03:49",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "008",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AV",
       "vuelo": "965",
       "st": "05/02/2020 04:25",
@@ -1371,25 +1352,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "QR",
-      "vuelo": "8155",
-      "st": "05/02/2020 05:50",
-      "matricula": "A7BFL",
-      "posicion": "54",
-      "et": "5/2/2020 05:15",
-      "at": "5/2/2020 05:10",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "DOH",
-      "via": "GRU",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AV",
       "vuelo": "087",
       "st": "05/02/2020 05:30",
@@ -1406,6 +1368,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "248"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "QR",
+      "vuelo": "8155",
+      "st": "05/02/2020 05:50",
+      "matricula": "A7BFL",
+      "posicion": "54",
+      "et": "5/2/2020 05:15",
+      "at": "5/2/2020 05:10",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "DOH",
+      "via": "GRU",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -1596,6 +1577,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "DI",
+      "vuelo": "7505",
+      "st": "05/02/2020 08:15",
+      "matricula": "GCKWB",
+      "posicion": "10",
+      "et": "5/2/2020 07:49",
+      "at": "5/2/2020 07:55",
+      "term": "A",
+      "sector": "",
+      "cinta": "4",
+      "lF": "004",
+      "ruta": "LGW",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "261"
     },
     {
       "tipo": "arribo",
@@ -3969,7 +3969,7 @@
       "puerta": "14",
       "ruta": "AMS",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -5051,6 +5051,25 @@
       "chkTo": "074",
       "puerta": "",
       "ruta": "FLN",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "JJ",
+      "vuelo": "8010",
+      "st": "06/02/2020 03:55",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "LIM",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
