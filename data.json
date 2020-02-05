@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/02/2020 20:05",
+  "lastUpdate": "05/02/2020 20:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -235,7 +235,7 @@
       "vuelo": "1259",
       "st": "05/02/2020 21:05",
       "matricula": "LVFWS",
-      "posicion": "",
+      "posicion": "17B",
       "et": "5/2/2020 21:20",
       "at": "",
       "term": "A",
@@ -3798,7 +3798,7 @@
       "puerta": "04",
       "ruta": "GRU",
       "via": "",
-      "remark": "PRE",
+      "remark": "CAN",
       "sanidad": "NO"
     },
     {
@@ -3836,7 +3836,7 @@
       "puerta": "02",
       "ruta": "SCL",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4023,7 +4023,7 @@
       "sector": "AP",
       "chkFrom": "054",
       "chkTo": "059",
-      "puerta": "",
+      "puerta": "03",
       "ruta": "IAH",
       "via": "",
       "remark": "HOR",
