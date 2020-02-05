@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/02/2020 06:15",
+  "lastUpdate": "05/02/2020 06:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -94,7 +94,7 @@
       "via": "",
       "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "221"
     },
     {
       "tipo": "arribo",
@@ -2435,25 +2435,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "LH",
-      "vuelo": "511",
-      "st": "04/02/2020 18:05",
-      "matricula": "DABYU",
-      "posicion": "09",
-      "et": "",
-      "at": "4/2/2020 18:20",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "032",
-      "chkTo": "040",
-      "puerta": "08",
-      "ruta": "FRA",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1256",
       "st": "04/02/2020 18:20",
@@ -3570,7 +3551,7 @@
       "puerta": "17",
       "ruta": "GRU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3589,7 +3570,7 @@
       "puerta": "25",
       "ruta": "SLA",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3608,7 +3589,7 @@
       "puerta": "24",
       "ruta": "TUC",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3627,7 +3608,7 @@
       "puerta": "26",
       "ruta": "MDZ",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3665,7 +3646,7 @@
       "puerta": "07",
       "ruta": "SCL",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3684,7 +3665,7 @@
       "puerta": "03",
       "ruta": "BOG",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4861,6 +4842,25 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "CWB",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1256",
+      "st": "05/02/2020 18:20",
+      "matricula": "LVFVO",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "GIG",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
