@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/02/2020 19:31",
+  "lastUpdate": "06/02/2020 19:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3733,7 +3733,7 @@
       "matricula": "PRMAG",
       "posicion": "06",
       "et": "",
-      "at": "",
+      "at": "6/2/2020 19:32",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3741,7 +3741,7 @@
       "puerta": "05",
       "ruta": "GRU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3855,7 +3855,7 @@
       "puerta": "01",
       "ruta": "GRU",
       "via": "",
-      "remark": "EST",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3874,7 +3874,7 @@
       "puerta": "04",
       "ruta": "LIM",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
