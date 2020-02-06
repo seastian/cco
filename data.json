@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/02/2020 01:10",
+  "lastUpdate": "06/02/2020 01:15",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1064,25 +1064,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8042",
-      "st": "05/02/2020 13:35",
-      "matricula": "PRMBQ",
-      "posicion": "05",
-      "et": "5/2/2020 13:20",
-      "at": "5/2/2020 13:13",
-      "term": "A",
-      "sector": "",
-      "cinta": "3",
-      "lF": "003",
-      "ruta": "FLN",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "164"
     },
     {
       "tipo": "arribo",
@@ -2606,25 +2587,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AD",
-      "vuelo": "8767",
-      "st": "05/02/2020 13:00",
-      "matricula": "PRYRY",
-      "posicion": "08",
-      "et": "",
-      "at": "5/2/2020 13:16",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "075",
-      "chkTo": "081",
-      "puerta": "07",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "4M",
       "vuelo": "7760",
       "st": "05/02/2020 13:09",
@@ -2777,25 +2739,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "IB",
-      "vuelo": "6856",
-      "st": "05/02/2020 14:20",
-      "matricula": "ECINO",
-      "posicion": "03",
-      "et": "",
-      "at": "5/2/2020 14:35",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "021",
-      "chkTo": "026",
-      "puerta": "02",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AF",
       "vuelo": "229",
       "st": "05/02/2020 14:20",
@@ -2809,6 +2752,25 @@
       "chkTo": "220",
       "puerta": "14",
       "ruta": "CDG",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "IB",
+      "vuelo": "6856",
+      "st": "05/02/2020 14:20",
+      "matricula": "ECINO",
+      "posicion": "03",
+      "et": "",
+      "at": "5/2/2020 14:35",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "021",
+      "chkTo": "026",
+      "puerta": "02",
+      "ruta": "MAD",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -4064,7 +4026,7 @@
       "puerta": "02",
       "ruta": "PTY",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
