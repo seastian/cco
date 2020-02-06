@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/02/2020 07:22",
+  "lastUpdate": "06/02/2020 07:27",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -136,6 +136,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1269",
+      "st": "06/02/2020 09:55",
+      "matricula": "LVFQY",
+      "posicion": "72",
+      "et": "6/2/2020 09:06",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "CWB",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "H2",
       "vuelo": "501",
       "st": "06/02/2020 09:17",
@@ -212,6 +231,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1249",
+      "st": "06/02/2020 09:55",
+      "matricula": "LVCTB",
+      "posicion": "17B",
+      "et": "6/2/2020 09:35",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "AA",
       "vuelo": "931",
       "st": "06/02/2020 09:28",
@@ -228,44 +266,6 @@
       "remark": "DEM",
       "sanidad": "NO",
       "pax": "292"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1269",
-      "st": "06/02/2020 09:55",
-      "matricula": "LVFQY",
-      "posicion": "72",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "CWB",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1249",
-      "st": "06/02/2020 09:55",
-      "matricula": "LVCTB",
-      "posicion": "17B",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -307,25 +307,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AA",
-      "vuelo": "997",
-      "st": "06/02/2020 10:16",
-      "matricula": "N781AN",
-      "posicion": "",
-      "et": "6/2/2020 10:15",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "DFW",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "215"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "JJ",
       "vuelo": "8008",
       "st": "06/02/2020 10:15",
@@ -342,6 +323,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AA",
+      "vuelo": "997",
+      "st": "06/02/2020 10:16",
+      "matricula": "N781AN",
+      "posicion": "",
+      "et": "6/2/2020 10:15",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "DFW",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "215"
     },
     {
       "tipo": "arribo",
@@ -1178,25 +1178,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1273",
-      "st": "05/02/2020 19:40",
-      "matricula": "LVFQC",
-      "posicion": "17A",
-      "et": "5/2/2020 19:31",
-      "at": "5/2/2020 19:27",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "007",
-      "ruta": "FLN",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "123"
     },
     {
       "tipo": "arribo",
@@ -3836,7 +3817,7 @@
       "puerta": "16",
       "ruta": "GIG",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3893,7 +3874,7 @@
       "puerta": "25",
       "ruta": "COR",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3912,7 +3893,7 @@
       "puerta": "24",
       "ruta": "FTE",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3931,7 +3912,7 @@
       "puerta": "26",
       "ruta": "ROS",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -4156,7 +4137,7 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "17",
       "ruta": "SCL",
       "via": "",
       "remark": "HOR",
