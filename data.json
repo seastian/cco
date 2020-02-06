@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/02/2020 07:33",
+  "lastUpdate": "06/02/2020 07:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1273,25 +1273,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "ET",
-      "vuelo": "506",
-      "st": "05/02/2020 19:55",
-      "matricula": "ETARE",
-      "posicion": "11",
-      "et": "5/2/2020 20:00",
-      "at": "5/2/2020 19:37",
-      "term": "A",
-      "sector": "",
-      "cinta": "1",
-      "lF": "001",
-      "ruta": "ADD",
-      "via": "GRU",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "197"
     },
     {
       "tipo": "arribo",
@@ -3874,7 +3855,7 @@
       "puerta": "07",
       "ruta": "LIM",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3931,7 +3912,7 @@
       "puerta": "26",
       "ruta": "ROS",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
