@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/02/2020 17:11",
+  "lastUpdate": "06/02/2020 17:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1194,6 +1194,25 @@
       "lF": "",
       "ruta": "LIM",
       "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "5X",
+      "vuelo": "412",
+      "st": "07/02/2020 05:12",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "SCL",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
@@ -3912,7 +3931,7 @@
       "puerta": "13",
       "ruta": "POA",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4107,25 +4126,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "G3",
-      "vuelo": "7685",
-      "st": "06/02/2020 19:55",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "068",
-      "chkTo": "074",
-      "puerta": "",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "LP",
       "vuelo": "2468",
       "st": "06/02/2020 20:12",
@@ -4141,6 +4141,25 @@
       "ruta": "LIM",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "G3",
+      "vuelo": "7685",
+      "st": "06/02/2020 19:55",
+      "matricula": "",
+      "posicion": "",
+      "et": "6/2/2020 20:20",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "068",
+      "chkTo": "074",
+      "puerta": "",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "DEM",
       "sanidad": "NO"
     },
     {
@@ -4186,7 +4205,7 @@
       "aerolinea": "4M",
       "vuelo": "7816",
       "st": "06/02/2020 21:02",
-      "matricula": "",
+      "matricula": "LVGLP",
       "posicion": "",
       "et": "",
       "at": "",
