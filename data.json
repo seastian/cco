@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/02/2020 05:11",
+  "lastUpdate": "06/02/2020 05:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1273,25 +1273,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "445",
-      "st": "05/02/2020 17:00",
-      "matricula": "CCBGE",
-      "posicion": "03",
-      "et": "5/2/2020 17:15",
-      "at": "5/2/2020 17:14",
-      "term": "A",
-      "sector": "",
-      "cinta": "3",
-      "lF": "003",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "219"
     },
     {
       "tipo": "arribo",
@@ -3836,7 +3817,7 @@
       "puerta": "17",
       "ruta": "ASU",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3855,7 +3836,7 @@
       "puerta": "09",
       "ruta": "LIM",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
