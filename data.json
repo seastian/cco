@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/02/2020 10:47",
+  "lastUpdate": "06/02/2020 10:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2368,8 +2368,8 @@
       "at": "6/2/2020 10:38",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "6",
+      "lF": "009",
       "ruta": "LHR",
       "via": "",
       "remark": "ATE",
@@ -3779,7 +3779,7 @@
       "puerta": "01",
       "ruta": "PTY",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
