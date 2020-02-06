@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/02/2020 05:05",
+  "lastUpdate": "06/02/2020 05:11",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2530,25 +2530,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "JJ",
-      "vuelo": "8013",
-      "st": "05/02/2020 16:50",
-      "matricula": "PRMAP",
-      "posicion": "02",
-      "et": "",
-      "at": "5/2/2020 17:11",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "01",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AU",
       "vuelo": "2262",
       "st": "05/02/2020 17:00",
@@ -3798,7 +3779,7 @@
       "puerta": "24",
       "ruta": "IGR",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3836,7 +3817,7 @@
       "puerta": "15",
       "ruta": "GRU",
       "via": "",
-      "remark": "PRE",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4154,7 +4135,7 @@
       "at": "",
       "term": "A",
       "sector": "AP",
-      "chkFrom": "041",
+      "chkFrom": "040",
       "chkTo": "053",
       "puerta": "07",
       "ruta": "LIM",
@@ -5184,6 +5165,25 @@
       "chkTo": "053",
       "puerta": "",
       "ruta": "GRU",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "4M",
+      "vuelo": "7508",
+      "st": "06/02/2020 17:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "IGR",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
