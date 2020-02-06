@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/02/2020 16:30",
+  "lastUpdate": "06/02/2020 16:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2441,14 +2441,14 @@
       "matricula": "LVGFQ",
       "posicion": "17B",
       "et": "6/2/2020 16:30",
-      "at": "",
+      "at": "6/2/2020 16:34",
       "term": "C",
       "sector": "CAC",
       "cinta": "12",
       "lF": "017",
       "ruta": "USH",
       "via": "FTE",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -3771,7 +3771,7 @@
       "matricula": "PRGGU",
       "posicion": "02",
       "et": "",
-      "at": "",
+      "at": "6/2/2020 16:33",
       "term": "A",
       "sector": "AP",
       "chkFrom": "068",
@@ -3779,7 +3779,7 @@
       "puerta": "01",
       "ruta": "GRU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3809,7 +3809,7 @@
       "matricula": "PHBHG",
       "posicion": "14",
       "et": "",
-      "at": "",
+      "at": "6/2/2020 16:35",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "201",
@@ -3817,7 +3817,7 @@
       "puerta": "19",
       "ruta": "AMS",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3836,7 +3836,7 @@
       "puerta": "10",
       "ruta": "YYZ",
       "via": "SCL",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
