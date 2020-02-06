@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/02/2020 12:10",
+  "lastUpdate": "06/02/2020 12:15",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -45,7 +45,7 @@
       "vuelo": "1271",
       "st": "06/02/2020 13:35",
       "matricula": "LVFQC",
-      "posicion": "",
+      "posicion": "15B",
       "et": "6/2/2020 13:05",
       "at": "",
       "term": "A",
@@ -3176,25 +3176,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "102",
-      "st": "06/02/2020 07:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "JJ",
       "vuelo": "8015",
       "st": "06/02/2020 07:40",
@@ -3562,7 +3543,7 @@
       "matricula": "LVBFY",
       "posicion": "12",
       "et": "",
-      "at": "",
+      "at": "6/2/2020 12:14",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3570,7 +3551,7 @@
       "puerta": "27",
       "ruta": "BRC",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3676,7 +3657,7 @@
       "matricula": "LVFWS",
       "posicion": "72",
       "et": "",
-      "at": "",
+      "at": "6/2/2020 12:15",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3684,7 +3665,7 @@
       "puerta": "24",
       "ruta": "FTE",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3817,7 +3798,7 @@
       "puerta": "14",
       "ruta": "BCN",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3978,14 +3959,14 @@
       "vuelo": "1272",
       "st": "06/02/2020 14:45",
       "matricula": "LVFQC",
-      "posicion": "",
+      "posicion": "15B",
       "et": "",
       "at": "",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "21",
       "ruta": "FLN",
       "via": "",
       "remark": "HOR",
@@ -4080,7 +4061,7 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "13",
       "ruta": "GRU",
       "via": "",
       "remark": "HOR",
