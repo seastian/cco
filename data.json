@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/02/2020 00:02",
+  "lastUpdate": "06/02/2020 00:07",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -101,9 +101,9 @@
       "aerolinea": "G3",
       "vuelo": "9300",
       "st": "06/02/2020 02:10",
-      "matricula": "",
+      "matricula": "PRGGD",
       "posicion": "",
-      "et": "",
+      "et": "6/2/2020 02:00",
       "at": "",
       "term": "A",
       "sector": "",
@@ -111,7 +111,7 @@
       "lF": "",
       "ruta": "FLN",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -2496,7 +2496,7 @@
       "vuelo": "7675",
       "st": "05/02/2020 23:39",
       "matricula": "LVBRY",
-      "posicion": "",
+      "posicion": "TG6",
       "et": "",
       "at": "",
       "term": "",
@@ -3942,7 +3942,7 @@
       "matricula": "N793AN",
       "posicion": "10",
       "et": "",
-      "at": "",
+      "at": "6/2/2020 00:06",
       "term": "A",
       "sector": "AP",
       "chkFrom": "001",
@@ -3950,7 +3950,7 @@
       "puerta": "10",
       "ruta": "MIA",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -4083,7 +4083,7 @@
       "puerta": "18",
       "ruta": "MCO",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4102,7 +4102,7 @@
       "puerta": "05",
       "ruta": "BOG",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4490,7 +4490,7 @@
       "aerolinea": "G3",
       "vuelo": "7681",
       "st": "06/02/2020 05:40",
-      "matricula": "",
+      "matricula": "PRGGD",
       "posicion": "",
       "et": "",
       "at": "",
@@ -4791,8 +4791,8 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AU",
-      "vuelo": "2702",
+      "aerolinea": "AR",
+      "vuelo": "1500",
       "st": "06/02/2020 08:00",
       "matricula": "",
       "posicion": "",
@@ -4803,7 +4803,7 @@
       "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
-      "ruta": "ROS",
+      "ruta": "COR",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -4829,8 +4829,8 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1500",
+      "aerolinea": "AU",
+      "vuelo": "2702",
       "st": "06/02/2020 08:00",
       "matricula": "",
       "posicion": "",
@@ -4841,7 +4841,7 @@
       "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
-      "ruta": "COR",
+      "ruta": "ROS",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -5165,6 +5165,25 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "COR",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1820",
+      "st": "06/02/2020 12:05",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "FTE",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
