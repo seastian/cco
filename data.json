@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/02/2020 15:54",
+  "lastUpdate": "06/02/2020 15:59",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3638,7 +3638,7 @@
       "matricula": "LVFRK",
       "posicion": "50B",
       "et": "",
-      "at": "",
+      "at": "6/2/2020 15:57",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3646,7 +3646,7 @@
       "puerta": "13",
       "ruta": "GRU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3779,7 +3779,7 @@
       "puerta": "21",
       "ruta": "VVI",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3817,7 +3817,7 @@
       "puerta": "10",
       "ruta": "YYZ",
       "via": "SCL",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3874,7 +3874,7 @@
       "puerta": "05",
       "ruta": "GRU",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
