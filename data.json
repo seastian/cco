@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/02/2020 07:19",
+  "lastUpdate": "07/02/2020 07:24",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3904,7 +3904,7 @@
       "matricula": "N280AV",
       "posicion": "04",
       "et": "",
-      "at": "",
+      "at": "7/2/2020 07:21",
       "term": "A",
       "sector": "AP",
       "chkFrom": "059",
@@ -3912,7 +3912,7 @@
       "puerta": "03",
       "ruta": "BOG",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3969,7 +3969,7 @@
       "puerta": "24",
       "ruta": "COR",
       "via": "",
-      "remark": "PRE",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3988,7 +3988,7 @@
       "puerta": "16",
       "ruta": "GIG",
       "via": "",
-      "remark": "HOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4026,7 +4026,7 @@
       "puerta": "26",
       "ruta": "ROS",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
