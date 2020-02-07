@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/02/2020 05:07",
+  "lastUpdate": "07/02/2020 05:12",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3714,7 +3714,7 @@
       "matricula": "PRGTB",
       "posicion": "53A",
       "et": "",
-      "at": "",
+      "at": "7/2/2020 05:12",
       "term": "A",
       "sector": "AP",
       "chkFrom": "068",
@@ -3722,7 +3722,7 @@
       "puerta": "12",
       "ruta": "BSB",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3771,7 +3771,7 @@
       "matricula": "PRGOQ",
       "posicion": "05",
       "et": "",
-      "at": "",
+      "at": "7/2/2020 05:09",
       "term": "A",
       "sector": "AP",
       "chkFrom": "068",
@@ -3779,7 +3779,7 @@
       "puerta": "04",
       "ruta": "FLN",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3855,7 +3855,7 @@
       "puerta": "05",
       "ruta": "GRU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3893,7 +3893,7 @@
       "puerta": "09",
       "ruta": "LIM",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
