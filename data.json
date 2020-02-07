@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/02/2020 02:19",
+  "lastUpdate": "07/02/2020 02:24",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -64,7 +64,7 @@
       "vuelo": "965",
       "st": "07/02/2020 04:25",
       "matricula": "N974AV",
-      "posicion": "",
+      "posicion": "09",
       "et": "7/2/2020 03:50",
       "at": "",
       "term": "A",
@@ -1159,25 +1159,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AC",
-      "vuelo": "092",
-      "st": "06/02/2020 14:30",
-      "matricula": "CFIVW",
-      "posicion": "10",
-      "et": "6/2/2020 14:30",
-      "at": "6/2/2020 14:24",
-      "term": "A",
-      "sector": "",
-      "cinta": "1",
-      "lF": "006",
-      "ruta": "YYZ",
-      "via": "SCL",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "364"
     },
     {
       "tipo": "arribo",
@@ -5089,6 +5070,25 @@
       "chkTo": "218",
       "puerta": "",
       "ruta": "CDG",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1786",
+      "st": "07/02/2020 14:25",
+      "matricula": "LVGFQ",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "USH",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
