@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/02/2020 01:46",
+  "lastUpdate": "07/02/2020 01:51",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1083,25 +1083,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8003",
-      "st": "06/02/2020 14:15",
-      "matricula": "PRTYH",
-      "posicion": "06",
-      "et": "6/2/2020 13:55",
-      "at": "6/2/2020 13:52",
-      "term": "A",
-      "sector": "",
-      "cinta": "5",
-      "lF": "002",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "163"
     },
     {
       "tipo": "arribo",
@@ -3809,7 +3790,7 @@
       "matricula": "HP1821",
       "posicion": "08",
       "et": "",
-      "at": "",
+      "at": "7/2/2020 01:49",
       "term": "A",
       "sector": "AP",
       "chkFrom": "016",
@@ -3817,7 +3798,7 @@
       "puerta": "07",
       "ruta": "PTY",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
