@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/02/2020 06:52",
+  "lastUpdate": "07/02/2020 06:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -4026,7 +4026,7 @@
       "puerta": "05",
       "ruta": "LIM",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -4130,7 +4130,7 @@
       "vuelo": "GQN",
       "st": "07/02/2020 08:30",
       "matricula": "LVGQN",
-      "posicion": "",
+      "posicion": "41",
       "et": "",
       "at": "",
       "term": "FBO",
