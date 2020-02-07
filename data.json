@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/02/2020 05:12",
+  "lastUpdate": "07/02/2020 05:18",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3790,7 +3790,7 @@
       "matricula": "LVFQC",
       "posicion": "17B",
       "et": "",
-      "at": "",
+      "at": "7/2/2020 05:16",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3798,7 +3798,7 @@
       "puerta": "17",
       "ruta": "SSA",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -5165,6 +5165,25 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "ASU",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "4M",
+      "vuelo": "7770",
+      "st": "07/02/2020 17:15",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "BRC",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
