@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/02/2020 14:00",
+  "lastUpdate": "07/02/2020 14:05",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3595,25 +3595,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1820",
-      "st": "07/02/2020 12:00",
-      "matricula": "LVGKT",
-      "posicion": "50A",
-      "et": "",
-      "at": "7/2/2020 12:07",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "27",
-      "ruta": "FTE",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "1524",
       "st": "07/02/2020 12:00",
       "matricula": "LVCAD",
@@ -3626,6 +3607,25 @@
       "chkTo": "240",
       "puerta": "26",
       "ruta": "COR",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1820",
+      "st": "07/02/2020 12:00",
+      "matricula": "LVGKT",
+      "posicion": "50A",
+      "et": "",
+      "at": "7/2/2020 12:07",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "27",
+      "ruta": "FTE",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
