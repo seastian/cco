@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/02/2020 10:28",
+  "lastUpdate": "07/02/2020 10:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1480,25 +1480,6 @@
       "ruta": "IST",
       "via": "GRU",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1104",
-      "st": "06/02/2020 22:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
@@ -3828,7 +3809,7 @@
       "matricula": "H01",
       "posicion": "17A",
       "et": "",
-      "at": "",
+      "at": "7/2/2020 10:00",
       "term": "C",
       "sector": "CPC",
       "chkFrom": "",
@@ -3836,7 +3817,7 @@
       "puerta": "",
       "ruta": "-AR",
       "via": "",
-      "remark": "CON",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3931,7 +3912,7 @@
       "puerta": "06",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -4509,7 +4490,7 @@
       "aerolinea": "AR",
       "vuelo": "1286",
       "st": "07/02/2020 16:05",
-      "matricula": "LVFQC",
+      "matricula": "LVCXT",
       "posicion": "",
       "et": "",
       "at": "",
@@ -5204,6 +5185,25 @@
       "puerta": "",
       "ruta": "DXB",
       "via": "GIG",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "H2",
+      "vuelo": "504",
+      "st": "07/02/2020 22:32",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "089",
+      "chkTo": "091",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
       "remark": "HOR",
       "sanidad": "NO"
     }
