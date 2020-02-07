@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/02/2020 12:27",
+  "lastUpdate": "07/02/2020 12:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3347,25 +3347,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "ZP",
-      "vuelo": "821",
-      "st": "07/02/2020 08:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "074",
-      "chkTo": "075",
-      "puerta": "12",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AU",
       "vuelo": "2724",
       "st": "07/02/2020 08:10",
@@ -3969,7 +3950,7 @@
       "puerta": "04",
       "ruta": "MAD",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
