@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/02/2020 06:47",
+  "lastUpdate": "07/02/2020 06:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -19,25 +19,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "GQN",
-      "st": "07/02/2020 07:00",
-      "matricula": "LVGQN",
-      "posicion": "41",
-      "et": "",
-      "at": "",
-      "term": "FBO",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "AEP",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -725,10 +706,10 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1271",
+      "aerolinea": "JJ",
+      "vuelo": "8042",
       "st": "07/02/2020 13:35",
-      "matricula": "LVGKU",
+      "matricula": "PRMBF",
       "posicion": "",
       "et": "",
       "at": "",
@@ -744,10 +725,10 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8042",
+      "aerolinea": "AR",
+      "vuelo": "1271",
       "st": "07/02/2020 13:35",
-      "matricula": "PRMBF",
+      "matricula": "LVGKU",
       "posicion": "",
       "et": "",
       "at": "",
@@ -2650,16 +2631,35 @@
       "matricula": "HP1729",
       "posicion": "50B",
       "et": "7/2/2020 06:45",
-      "at": "",
+      "at": "7/2/2020 06:50",
       "term": "A",
       "sector": "",
       "cinta": "4",
       "lF": "004",
       "ruta": "PTY",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "150"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "GQN",
+      "st": "07/02/2020 07:00",
+      "matricula": "LVGQN",
+      "posicion": "41",
+      "et": "",
+      "at": "7/2/2020 06:46",
+      "term": "FBO",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "AEP",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "0"
     },
     {
       "tipo": "partida",
@@ -3885,7 +3885,7 @@
       "matricula": "LVFPT",
       "posicion": "24B",
       "et": "",
-      "at": "",
+      "at": "7/2/2020 06:53",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3893,7 +3893,7 @@
       "puerta": "26",
       "ruta": "TUC",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3969,7 +3969,7 @@
       "puerta": "07",
       "ruta": "GRU",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
