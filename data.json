@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/02/2020 02:30",
+  "lastUpdate": "08/02/2020 02:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -4121,7 +4121,7 @@
       "puerta": "05",
       "ruta": "FLN",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
