@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/02/2020 01:11",
+  "lastUpdate": "08/02/2020 01:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1010,25 +1010,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7688",
-      "st": "07/02/2020 13:30",
-      "matricula": "PRGTB",
-      "posicion": "08",
-      "et": "7/2/2020 13:20",
-      "at": "7/2/2020 13:14",
-      "term": "A",
-      "sector": "",
-      "cinta": "2",
-      "lF": "005",
-      "ruta": "BSB",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "105"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "JJ",
       "vuelo": "8042",
       "st": "07/02/2020 13:35",
@@ -1067,25 +1048,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1223",
-      "st": "07/02/2020 13:55",
-      "matricula": "LVFRK",
-      "posicion": "14A",
-      "et": "7/2/2020 13:50",
-      "at": "7/2/2020 13:42",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "010",
-      "ruta": "BPS",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "133"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "JJ",
       "vuelo": "8003",
       "st": "07/02/2020 14:10",
@@ -1102,6 +1064,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "157"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1223",
+      "st": "07/02/2020 13:55",
+      "matricula": "LVFRK",
+      "posicion": "14A",
+      "et": "7/2/2020 13:50",
+      "at": "7/2/2020 13:42",
+      "term": "A",
+      "sector": "",
+      "cinta": "7",
+      "lF": "010",
+      "ruta": "BPS",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "133"
     },
     {
       "tipo": "arribo",
@@ -1428,25 +1409,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "445",
-      "st": "07/02/2020 17:00",
-      "matricula": "CCBGA",
-      "posicion": "05",
-      "et": "7/2/2020 17:00",
-      "at": "7/2/2020 16:56",
-      "term": "A",
-      "sector": "",
-      "cinta": "4",
-      "lF": "004",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "281"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1275",
       "st": "07/02/2020 17:30",
@@ -1463,6 +1425,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "445",
+      "st": "07/02/2020 17:00",
+      "matricula": "CCBGA",
+      "posicion": "05",
+      "et": "7/2/2020 17:00",
+      "at": "7/2/2020 16:56",
+      "term": "A",
+      "sector": "",
+      "cinta": "4",
+      "lF": "004",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "281"
     },
     {
       "tipo": "arribo",
@@ -3942,7 +3923,7 @@
       "matricula": "PRGTB",
       "posicion": "02",
       "et": "8/2/2020 01:05",
-      "at": "",
+      "at": "8/2/2020 01:14",
       "term": "A",
       "sector": "AP",
       "chkFrom": "083",
@@ -3950,7 +3931,7 @@
       "puerta": "12",
       "ruta": "REC",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3988,7 +3969,7 @@
       "puerta": "06",
       "ruta": "ASU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
