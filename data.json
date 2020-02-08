@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/02/2020 12:49",
+  "lastUpdate": "08/02/2020 12:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3676,7 +3676,7 @@
       "matricula": "LVCAP",
       "posicion": "25B",
       "et": "8/2/2020 12:20",
-      "at": "",
+      "at": "8/2/2020 12:55",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3684,7 +3684,7 @@
       "puerta": "24",
       "ruta": "COR",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3798,7 +3798,7 @@
       "puerta": "16",
       "ruta": "MAD",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3817,7 +3817,7 @@
       "puerta": "04",
       "ruta": "MAD",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3874,7 +3874,7 @@
       "puerta": "20",
       "ruta": "FCO",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -4373,25 +4373,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1106",
-      "st": "08/02/2020 18:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1268",
       "st": "08/02/2020 18:10",
@@ -4405,6 +4386,25 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "CWB",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1106",
+      "st": "08/02/2020 18:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -4871,14 +4871,14 @@
       "vuelo": "954",
       "st": "08/02/2020 23:10",
       "matricula": "N778AN",
-      "posicion": "13",
+      "posicion": "53",
       "et": "",
       "at": "",
       "term": "A",
       "sector": "AP",
       "chkFrom": "001",
       "chkTo": "020",
-      "puerta": "17",
+      "puerta": "",
       "ruta": "JFK",
       "via": "",
       "remark": "HOR",
