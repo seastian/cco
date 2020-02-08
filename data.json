@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/02/2020 00:34",
+  "lastUpdate": "08/02/2020 00:39",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -4083,7 +4083,7 @@
       "puerta": "12",
       "ruta": "REC",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4357,7 +4357,7 @@
       "aerolinea": "G3",
       "vuelo": "7681",
       "st": "08/02/2020 05:40",
-      "matricula": "",
+      "matricula": "PRGGK",
       "posicion": "",
       "et": "",
       "at": "",
