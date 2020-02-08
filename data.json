@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/02/2020 12:39",
+  "lastUpdate": "08/02/2020 12:44",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1466,25 +1466,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7648",
-      "st": "08/02/2020 01:05",
-      "matricula": "PRGIU",
-      "posicion": "03",
-      "et": "8/2/2020 00:45",
-      "at": "8/2/2020 00:44",
-      "term": "A",
-      "sector": "",
-      "cinta": "5",
-      "lF": "005",
-      "ruta": "GIG",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "132"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1369",
       "st": "07/02/2020 23:15",
@@ -1580,25 +1561,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "CM",
-      "vuelo": "363",
-      "st": "08/02/2020 04:08",
-      "matricula": "HP1725",
-      "posicion": "07",
-      "et": "8/2/2020 04:00",
-      "at": "8/2/2020 03:55",
-      "term": "A",
-      "sector": "",
-      "cinta": "3",
-      "lF": "003",
-      "ruta": "PTY",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "145"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AV",
       "vuelo": "965",
       "st": "08/02/2020 04:25",
@@ -1615,6 +1577,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "257"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "CM",
+      "vuelo": "363",
+      "st": "08/02/2020 04:08",
+      "matricula": "HP1725",
+      "posicion": "07",
+      "et": "8/2/2020 04:00",
+      "at": "8/2/2020 03:55",
+      "term": "A",
+      "sector": "",
+      "cinta": "3",
+      "lF": "003",
+      "ruta": "PTY",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "145"
     },
     {
       "tipo": "arribo",
@@ -3817,7 +3798,7 @@
       "puerta": "08",
       "ruta": "BCN",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
