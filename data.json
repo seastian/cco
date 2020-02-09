@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "08/02/2020 22:35",
+  "lastUpdate": "08/02/2020 22:40",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8096",
-      "st": "08/02/2020 22:50",
-      "matricula": "PRMBO",
-      "posicion": "11B",
-      "et": "8/2/2020 22:40",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "4",
-      "lF": "004",
-      "ruta": "SSA",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "164"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "JJ",
@@ -2451,6 +2432,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "JJ",
+      "vuelo": "8096",
+      "st": "08/02/2020 22:50",
+      "matricula": "PRMBO",
+      "posicion": "11B",
+      "et": "8/2/2020 22:40",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "4",
+      "lF": "004",
+      "ruta": "SSA",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "164"
     },
     {
       "tipo": "partida",
