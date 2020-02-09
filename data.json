@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/02/2020 16:23",
+  "lastUpdate": "09/02/2020 16:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -440,6 +440,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "ZP",
+      "vuelo": "818",
+      "st": "09/02/2020 20:40",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "AU",
       "vuelo": "2601",
       "st": "09/02/2020 20:40",
@@ -472,25 +491,6 @@
       "lF": "",
       "ruta": "DXB",
       "via": "GIG",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "ZP",
-      "vuelo": "818",
-      "st": "09/02/2020 20:40",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "ASU",
-      "via": "",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
@@ -1174,6 +1174,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "CCS",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AV",
+      "vuelo": "965",
+      "st": "10/02/2020 04:25",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "LIM",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -3931,7 +3950,7 @@
       "puerta": "06",
       "ruta": "GRU",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3969,7 +3988,7 @@
       "puerta": "23",
       "ruta": "VVI",
       "via": "",
-      "remark": "DEM",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4007,7 +4026,7 @@
       "puerta": "27",
       "ruta": "IGR",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
