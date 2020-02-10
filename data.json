@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/02/2020 05:30",
+  "lastUpdate": "10/02/2020 05:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3855,7 +3855,7 @@
       "puerta": "17",
       "ruta": "ASU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3874,7 +3874,7 @@
       "puerta": "13",
       "ruta": "POA",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3912,7 +3912,7 @@
       "puerta": "19",
       "ruta": "LIM",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4615,7 +4615,7 @@
       "puerta": "",
       "ruta": "LGW",
       "via": "",
-      "remark": "HOR",
+      "remark": "DEM",
       "sanidad": "NO"
     },
     {
