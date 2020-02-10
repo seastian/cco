@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/02/2020 13:39",
+  "lastUpdate": "10/02/2020 13:45",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -73,7 +73,7 @@
       "lF": "",
       "ruta": "GRU",
       "via": "",
-      "remark": "",
+      "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
     },
@@ -1333,25 +1333,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7690",
-      "st": "10/02/2020 01:50",
-      "matricula": "PRVBI",
-      "posicion": "02",
-      "et": "10/2/2020 01:41",
-      "at": "10/2/2020 01:41",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "007",
-      "ruta": "FLN",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "104"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "5X",
       "vuelo": "416",
       "st": "10/02/2020 02:19",
@@ -1656,25 +1637,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "LP",
-      "vuelo": "2467",
-      "st": "10/02/2020 06:35",
-      "matricula": "CCCXE",
-      "posicion": "06",
-      "et": "10/2/2020 06:30",
-      "at": "10/2/2020 06:28",
-      "term": "A",
-      "sector": "",
-      "cinta": "5",
-      "lF": "003",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "241"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AOG",
       "vuelo": "103",
       "st": "10/02/2020 06:30",
@@ -1710,6 +1672,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LP",
+      "vuelo": "2467",
+      "st": "10/02/2020 06:35",
+      "matricula": "CCCXE",
+      "posicion": "06",
+      "et": "10/2/2020 06:30",
+      "at": "10/2/2020 06:28",
+      "term": "A",
+      "sector": "",
+      "cinta": "5",
+      "lF": "003",
+      "ruta": "LIM",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "241"
     },
     {
       "tipo": "arribo",
@@ -3942,7 +3923,7 @@
       "matricula": "ECNFM",
       "posicion": "03",
       "et": "",
-      "at": "",
+      "at": "10/2/2020 13:38",
       "term": "A",
       "sector": "AP",
       "chkFrom": "054",
@@ -3950,7 +3931,7 @@
       "puerta": "02",
       "ruta": "MAD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3969,7 +3950,7 @@
       "puerta": "04",
       "ruta": "LGW",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4007,7 +3988,7 @@
       "puerta": "22",
       "ruta": "FCO",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4140,7 +4121,7 @@
       "puerta": "05",
       "ruta": "FLN",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
