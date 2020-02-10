@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/02/2020 15:35",
+  "lastUpdate": "10/02/2020 15:40",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2612,14 +2612,14 @@
       "matricula": "CCCXG",
       "posicion": "24",
       "et": "10/2/2020 15:35",
-      "at": "",
+      "at": "10/2/2020 15:38",
       "term": "A",
       "sector": "",
       "cinta": "1",
       "lF": "001",
       "ruta": "SCL",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "215"
     },
@@ -4254,7 +4254,7 @@
       "puerta": "14",
       "ruta": "AMS",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
