@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/02/2020 13:50",
+  "lastUpdate": "10/02/2020 13:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -4102,7 +4102,7 @@
       "puerta": "07",
       "ruta": "LHR",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4159,7 +4159,7 @@
       "puerta": "05",
       "ruta": "FLN",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
