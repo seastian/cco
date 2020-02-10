@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/02/2020 12:36",
+  "lastUpdate": "10/02/2020 12:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3885,7 +3885,7 @@
       "matricula": "PRMHM",
       "posicion": "50A",
       "et": "10/2/2020 12:10",
-      "at": "",
+      "at": "10/2/2020 12:40",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3893,7 +3893,7 @@
       "puerta": "13",
       "ruta": "GIG",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3904,7 +3904,7 @@
       "matricula": "LVGGQ",
       "posicion": "72",
       "et": "",
-      "at": "",
+      "at": "10/2/2020 12:42",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3912,7 +3912,7 @@
       "puerta": "27",
       "ruta": "BRC",
       "via": "",
-      "remark": "ULT",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -4118,7 +4118,7 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "24",
       "ruta": "USH",
       "via": "",
       "remark": "HOR",
@@ -4232,7 +4232,7 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "13",
       "ruta": "FLN",
       "via": "",
       "remark": "HOR",
@@ -4308,7 +4308,7 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "17",
       "ruta": "GRU",
       "via": "",
       "remark": "HOR",
