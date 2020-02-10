@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/02/2020 12:31",
+  "lastUpdate": "10/02/2020 12:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1364,6 +1364,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "GRU",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "CM",
+      "vuelo": "279",
+      "st": "11/02/2020 00:34",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "PTY",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -3752,7 +3771,7 @@
       "matricula": "HP1725",
       "posicion": "02",
       "et": "",
-      "at": "",
+      "at": "10/2/2020 12:36",
       "term": "A",
       "sector": "AP",
       "chkFrom": "013",
@@ -3760,7 +3779,7 @@
       "puerta": "01",
       "ruta": "PTY",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3988,7 +4007,7 @@
       "puerta": "12",
       "ruta": "MVD",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4045,7 +4064,7 @@
       "puerta": "02",
       "ruta": "MAD",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4175,7 +4194,7 @@
       "sector": "CPI",
       "chkFrom": "211",
       "chkTo": "220",
-      "puerta": "19",
+      "puerta": "18",
       "ruta": "CDG",
       "via": "",
       "remark": "HOR",
