@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/02/2020 13:08",
+  "lastUpdate": "10/02/2020 13:13",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -168,7 +168,7 @@
       "lF": "",
       "ruta": "YYZ",
       "via": "SCL",
-      "remark": "",
+      "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
     },
@@ -2615,7 +2615,7 @@
       "at": "10/2/2020 13:00",
       "term": "A",
       "sector": "",
-      "cinta": "7",
+      "cinta": "9",
       "lF": "008",
       "ruta": "FLN",
       "via": "",
@@ -2631,14 +2631,14 @@
       "matricula": "LVCXT",
       "posicion": "15B",
       "et": "10/2/2020 13:00",
-      "at": "",
+      "at": "10/2/2020 13:09",
       "term": "A",
       "sector": "",
       "cinta": "6",
       "lF": "007",
       "ruta": "GRU",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -3960,7 +3960,7 @@
       "st": "10/02/2020 11:30",
       "matricula": "GCKWS",
       "posicion": "05",
-      "et": "10/2/2020 13:30",
+      "et": "10/2/2020 13:40",
       "at": "",
       "term": "A",
       "sector": "AP",
@@ -3969,7 +3969,7 @@
       "puerta": "04",
       "ruta": "LGW",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4330,7 +4330,7 @@
       "puerta": "",
       "ruta": "YYZ",
       "via": "SCL",
-      "remark": "HOR",
+      "remark": "DEM",
       "sanidad": "NO"
     },
     {
