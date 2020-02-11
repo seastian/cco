@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/02/2020 05:32",
+  "lastUpdate": "11/02/2020 05:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1219,25 +1219,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "4M",
-      "vuelo": "7505",
-      "st": "10/02/2020 17:52",
-      "matricula": "LVBFO",
-      "posicion": "04",
-      "et": "10/2/2020 17:35",
-      "at": "10/2/2020 17:34",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "11",
-      "lF": "018",
-      "ruta": "IGR",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "140"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1293",
       "st": "10/02/2020 17:50",
@@ -1333,25 +1314,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8092",
-      "st": "10/02/2020 18:25",
-      "matricula": "PRMHM",
-      "posicion": "02",
-      "et": "10/2/2020 19:00",
-      "at": "10/2/2020 19:15",
-      "term": "A",
-      "sector": "",
-      "cinta": "2",
-      "lF": "002",
-      "ruta": "GIG",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "170"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1371",
       "st": "10/02/2020 19:10",
@@ -1368,6 +1330,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "252"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "JJ",
+      "vuelo": "8092",
+      "st": "10/02/2020 18:25",
+      "matricula": "PRMHM",
+      "posicion": "02",
+      "et": "10/2/2020 19:00",
+      "at": "10/2/2020 19:15",
+      "term": "A",
+      "sector": "",
+      "cinta": "2",
+      "lF": "002",
+      "ruta": "GIG",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "170"
     },
     {
       "tipo": "arribo",
@@ -3771,7 +3752,7 @@
       "matricula": "LVGIQ",
       "posicion": "51A",
       "et": "",
-      "at": "",
+      "at": "11/2/2020 05:36",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3779,7 +3760,7 @@
       "puerta": "24",
       "ruta": "IGR",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3931,7 +3912,7 @@
       "puerta": "09",
       "ruta": "LIM",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3969,7 +3950,7 @@
       "puerta": "13",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
