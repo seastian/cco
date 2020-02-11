@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/02/2020 02:54",
+  "lastUpdate": "11/02/2020 02:59",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -50,8 +50,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "4",
+      "lF": "004",
       "ruta": "PTY",
       "via": "",
       "remark": "EST",
@@ -2512,25 +2512,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1258",
-      "st": "10/02/2020 14:15",
-      "matricula": "LVCXT",
-      "posicion": "15B",
-      "et": "10/2/2020 14:30",
-      "at": "10/2/2020 15:00",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "21",
-      "ruta": "GIG",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "1272",
       "st": "10/02/2020 14:45",
       "matricula": "LVFQZ",
@@ -3828,7 +3809,7 @@
       "matricula": "PRGOQ",
       "posicion": "03",
       "et": "11/2/2020 02:45",
-      "at": "",
+      "at": "11/2/2020 02:58",
       "term": "A",
       "sector": "AP",
       "chkFrom": "027",
@@ -3836,7 +3817,7 @@
       "puerta": "02",
       "ruta": "GIG",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
