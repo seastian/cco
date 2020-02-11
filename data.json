@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/02/2020 18:44",
+  "lastUpdate": "11/02/2020 18:49",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -41,6 +41,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "443",
+      "st": "11/02/2020 19:12",
+      "matricula": "CCBEI",
+      "posicion": "",
+      "et": "11/2/2020 19:08",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "152"
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "LP",
       "vuelo": "2429",
       "st": "11/02/2020 19:07",
@@ -76,25 +95,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "241"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "443",
-      "st": "11/02/2020 19:12",
-      "matricula": "CCBEI",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -3494,7 +3494,7 @@
       "puerta": "03",
       "ruta": "GRU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
