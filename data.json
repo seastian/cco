@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/02/2020 07:32",
+  "lastUpdate": "11/02/2020 07:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -193,25 +193,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "DL",
-      "vuelo": "101",
-      "st": "11/02/2020 09:20",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "ATL",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1269",
       "st": "11/02/2020 09:55",
@@ -285,6 +266,25 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "129"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "DL",
+      "vuelo": "101",
+      "st": "11/02/2020 09:20",
+      "matricula": "N176DZ",
+      "posicion": "",
+      "et": "11/2/2020 09:42",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "ATL",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": "193"
     },
     {
       "tipo": "arribo",
@@ -3817,26 +3817,7 @@
       "puerta": "17",
       "ruta": "GIG",
       "via": "",
-      "remark": "ULT",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LP",
-      "vuelo": "2428",
-      "st": "11/02/2020 07:55",
-      "matricula": "CCCXG",
-      "posicion": "35",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "05",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "HOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3951,6 +3932,25 @@
       "ruta": "MIA",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LP",
+      "vuelo": "2428",
+      "st": "11/02/2020 07:55",
+      "matricula": "CCCXG",
+      "posicion": "35",
+      "et": "11/2/2020 08:30",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "05",
+      "ruta": "LIM",
+      "via": "",
+      "remark": "DEM",
       "sanidad": "NO"
     },
     {
