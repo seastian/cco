@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/02/2020 15:26",
+  "lastUpdate": "11/02/2020 15:31",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2169,44 +2169,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "424",
-      "st": "11/02/2020 04:00",
-      "matricula": "CXCLS",
-      "posicion": "60",
-      "et": "",
-      "at": "11/2/2020 03:30",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "500",
-      "st": "11/02/2020 04:00",
-      "matricula": "CXLSS",
-      "posicion": "58",
-      "et": "",
-      "at": "11/2/2020 03:28",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "4M",
       "vuelo": "7900",
       "st": "11/02/2020 04:20",
@@ -2473,25 +2435,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AU",
-      "vuelo": "2472",
-      "st": "11/02/2020 06:40",
-      "matricula": "LVCET",
-      "posicion": "24B",
-      "et": "",
-      "at": "11/2/2020 06:55",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "26",
-      "ruta": "TUC",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1428",
       "st": "11/02/2020 06:40",
@@ -2505,6 +2448,25 @@
       "chkTo": "240",
       "puerta": "24",
       "ruta": "SLA",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AU",
+      "vuelo": "2472",
+      "st": "11/02/2020 06:40",
+      "matricula": "LVCET",
+      "posicion": "24B",
+      "et": "",
+      "at": "11/2/2020 06:55",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "26",
+      "ruta": "TUC",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -3437,7 +3399,7 @@
       "puerta": "23",
       "ruta": "GRU",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3456,7 +3418,7 @@
       "puerta": "03",
       "ruta": "VVI",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3494,7 +3456,7 @@
       "puerta": "05",
       "ruta": "GRU",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
