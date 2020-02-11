@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/02/2020 15:15",
+  "lastUpdate": "11/02/2020 15:20",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3353,7 +3353,7 @@
       "matricula": "PRTYH",
       "posicion": "07",
       "et": "11/2/2020 14:40",
-      "at": "",
+      "at": "11/2/2020 15:20",
       "term": "A",
       "sector": "AP",
       "chkFrom": "",
@@ -3361,7 +3361,7 @@
       "puerta": "06",
       "ruta": "GRU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3437,7 +3437,7 @@
       "puerta": "02",
       "ruta": "SCL",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
