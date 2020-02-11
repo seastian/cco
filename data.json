@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/02/2020 05:26",
+  "lastUpdate": "11/02/2020 05:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -26,7 +26,7 @@
       "vuelo": "2467",
       "st": "11/02/2020 06:35",
       "matricula": "CCCXC",
-      "posicion": "",
+      "posicion": "53",
       "et": "11/2/2020 06:20",
       "at": "",
       "term": "A",
@@ -1219,25 +1219,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8003",
-      "st": "10/02/2020 14:10",
-      "matricula": "PRMHG",
-      "posicion": "08",
-      "et": "10/2/2020 17:20",
-      "at": "10/2/2020 17:30",
-      "term": "A",
-      "sector": "",
-      "cinta": "1",
-      "lF": "001",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "153"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "4M",
       "vuelo": "7505",
       "st": "10/02/2020 17:52",
@@ -1352,22 +1333,22 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "LP",
-      "vuelo": "2429",
-      "st": "10/02/2020 19:07",
-      "matricula": "CCCPO",
-      "posicion": "06",
+      "aerolinea": "JJ",
+      "vuelo": "8092",
+      "st": "10/02/2020 18:25",
+      "matricula": "PRMHM",
+      "posicion": "02",
       "et": "10/2/2020 19:00",
-      "at": "10/2/2020 19:00",
+      "at": "10/2/2020 19:15",
       "term": "A",
       "sector": "",
-      "cinta": "1",
-      "lF": "001",
-      "ruta": "LIM",
+      "cinta": "2",
+      "lF": "002",
+      "ruta": "GIG",
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": "121"
+      "pax": "170"
     },
     {
       "tipo": "arribo",
@@ -1390,22 +1371,22 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8092",
-      "st": "10/02/2020 18:25",
-      "matricula": "PRMHM",
-      "posicion": "02",
+      "aerolinea": "LP",
+      "vuelo": "2429",
+      "st": "10/02/2020 19:07",
+      "matricula": "CCCPO",
+      "posicion": "06",
       "et": "10/2/2020 19:00",
-      "at": "10/2/2020 19:15",
+      "at": "10/2/2020 19:00",
       "term": "A",
       "sector": "",
-      "cinta": "2",
-      "lF": "002",
-      "ruta": "GIG",
+      "cinta": "1",
+      "lF": "001",
+      "ruta": "LIM",
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": "170"
+      "pax": "121"
     },
     {
       "tipo": "arribo",
@@ -3836,7 +3817,7 @@
       "puerta": "12",
       "ruta": "BSB",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3912,7 +3893,7 @@
       "puerta": "21",
       "ruta": "ASU",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3969,7 +3950,7 @@
       "puerta": "17",
       "ruta": "POA",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4757,7 +4738,7 @@
       "vuelo": "7920",
       "st": "11/02/2020 13:45",
       "matricula": "CCCXC",
-      "posicion": "",
+      "posicion": "53",
       "et": "",
       "at": "",
       "term": "A",
