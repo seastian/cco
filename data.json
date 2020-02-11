@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/02/2020 01:15",
+  "lastUpdate": "11/02/2020 01:20",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2498,14 +2498,14 @@
       "matricula": "PRGIH",
       "posicion": "02",
       "et": "11/2/2020 01:09",
-      "at": "",
+      "at": "11/2/2020 01:17",
       "term": "A",
       "sector": "",
       "cinta": "3",
       "lF": "003",
       "ruta": "GIG",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "88"
     },
@@ -4007,7 +4007,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "EST",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4118,7 +4118,7 @@
       "sector": "AP",
       "chkFrom": "089",
       "chkTo": "091",
-      "puerta": "",
+      "puerta": "24",
       "ruta": "MDZ",
       "via": "",
       "remark": "HOR",
@@ -4643,14 +4643,14 @@
       "vuelo": "1264",
       "st": "11/02/2020 07:45",
       "matricula": "LVGKO",
-      "posicion": "M05",
+      "posicion": "13",
       "et": "",
       "at": "",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "17",
       "ruta": "GIG",
       "via": "",
       "remark": "HOR",
