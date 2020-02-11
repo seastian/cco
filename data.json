@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/02/2020 12:28",
+  "lastUpdate": "11/02/2020 12:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -478,6 +478,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1303",
+      "st": "11/02/2020 19:30",
+      "matricula": "LVFNK",
+      "posicion": "",
+      "et": "11/2/2020 18:58",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "188"
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "G3",
       "vuelo": "7684",
       "st": "11/02/2020 19:05",
@@ -551,25 +570,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "241"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1303",
-      "st": "11/02/2020 19:30",
-      "matricula": "LVFNK",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -2188,25 +2188,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "EK",
-      "vuelo": "248",
-      "st": "10/02/2020 22:20",
-      "matricula": "A6ECL",
-      "posicion": "11",
-      "et": "11/2/2020 00:15",
-      "at": "11/2/2020 00:30",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "027",
-      "chkTo": "035",
-      "puerta": "14",
-      "ruta": "DXB",
-      "via": "GIG",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "G3",
       "vuelo": "9281",
       "st": "11/02/2020 00:40",
@@ -2302,25 +2283,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AMS",
-      "vuelo": "7119",
-      "st": "11/02/2020 01:50",
-      "matricula": "CXMAS",
-      "posicion": "59",
-      "et": "",
-      "at": "11/2/2020 01:30",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "PZ",
       "vuelo": "1310",
       "st": "10/02/2020 23:55",
@@ -2334,6 +2296,25 @@
       "chkTo": "053",
       "puerta": "06",
       "ruta": "ASU",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AMS",
+      "vuelo": "7119",
+      "st": "11/02/2020 01:50",
+      "matricula": "CXMAS",
+      "posicion": "59",
+      "et": "",
+      "at": "11/2/2020 01:30",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -3437,7 +3418,7 @@
       "puerta": "25",
       "ruta": "IGR",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3456,7 +3437,7 @@
       "puerta": "09",
       "ruta": "BCN",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3494,7 +3475,7 @@
       "puerta": "16",
       "ruta": "MAD",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3662,7 +3643,7 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "19",
       "ruta": "FLN",
       "via": "",
       "remark": "HOR",
