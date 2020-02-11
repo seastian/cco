@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/02/2020 11:30",
+  "lastUpdate": "11/02/2020 11:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3551,7 +3551,7 @@
       "puerta": "26",
       "ruta": "FTE",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3627,7 +3627,7 @@
       "puerta": "07",
       "ruta": "GRU",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -4605,14 +4605,14 @@
       "vuelo": "954",
       "st": "11/02/2020 23:10",
       "matricula": "N767AJ",
-      "posicion": "04",
+      "posicion": "TG2",
       "et": "",
       "at": "",
       "term": "A",
       "sector": "AP",
       "chkFrom": "001",
       "chkTo": "020",
-      "puerta": "03",
+      "puerta": "",
       "ruta": "JFK",
       "via": "",
       "remark": "HOR",
