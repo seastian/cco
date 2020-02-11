@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/02/2020 01:10",
+  "lastUpdate": "11/02/2020 01:15",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -101,9 +101,9 @@
       "aerolinea": "QR",
       "vuelo": "8157",
       "st": "11/02/2020 03:00",
-      "matricula": "",
+      "matricula": "A7BFC",
       "posicion": "",
-      "et": "",
+      "et": "11/2/2020 03:15",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -111,7 +111,7 @@
       "lF": "",
       "ruta": "DOH",
       "via": "GRU",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
