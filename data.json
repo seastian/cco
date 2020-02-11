@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/02/2020 00:27",
+  "lastUpdate": "11/02/2020 00:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -4075,7 +4075,7 @@
       "matricula": "A6ECL",
       "posicion": "11",
       "et": "11/2/2020 00:15",
-      "at": "",
+      "at": "11/2/2020 00:30",
       "term": "A",
       "sector": "AP",
       "chkFrom": "027",
@@ -4083,7 +4083,7 @@
       "puerta": "14",
       "ruta": "DXB",
       "via": "GIG",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -4093,7 +4093,7 @@
       "st": "10/02/2020 23:55",
       "matricula": "PRMAZ",
       "posicion": "52A",
-      "et": "11/2/2020 01:30",
+      "et": "11/2/2020 01:50",
       "at": "",
       "term": "A",
       "sector": "AP",
