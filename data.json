@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/02/2020 03:39",
+  "lastUpdate": "12/02/2020 03:44",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1216,25 +1216,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "4M",
-      "vuelo": "7824",
-      "st": "11/02/2020 15:48",
-      "matricula": "CCCXD",
-      "posicion": "51",
-      "et": "11/2/2020 15:42",
-      "at": "11/2/2020 15:44",
-      "term": "A",
-      "sector": "",
-      "cinta": "1",
-      "lF": "002",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "207"
     },
     {
       "tipo": "arribo",
@@ -4709,6 +4690,25 @@
       "chkTo": "018",
       "puerta": "",
       "ruta": "VVI",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1244",
+      "st": "12/02/2020 15:45",
+      "matricula": "LVFUB",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "GRU",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
