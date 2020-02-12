@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/02/2020 00:02",
+  "lastUpdate": "12/02/2020 00:07",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -101,9 +101,9 @@
       "aerolinea": "OB",
       "vuelo": "700",
       "st": "12/02/2020 02:45",
-      "matricula": "",
+      "matricula": "CP2716",
       "posicion": "",
-      "et": "",
+      "et": "12/2/2020 02:30",
       "at": "",
       "term": "A",
       "sector": "",
@@ -111,9 +111,9 @@
       "lF": "",
       "ruta": "VVI",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "109"
     },
     {
       "tipo": "arribo",
@@ -3825,7 +3825,7 @@
       "aerolinea": "OB",
       "vuelo": "701",
       "st": "12/02/2020 04:45",
-      "matricula": "",
+      "matricula": "CP2716",
       "posicion": "",
       "et": "",
       "at": "",
