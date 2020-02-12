@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/02/2020 16:53",
+  "lastUpdate": "12/02/2020 16:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3714,7 +3714,7 @@
       "matricula": "PRMAK",
       "posicion": "04",
       "et": "",
-      "at": "",
+      "at": "12/2/2020 16:54",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3722,7 +3722,7 @@
       "puerta": "03",
       "ruta": "GRU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
