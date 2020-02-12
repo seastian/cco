@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/02/2020 00:43",
+  "lastUpdate": "12/02/2020 00:48",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -79,25 +79,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "QR",
-      "vuelo": "8155",
-      "st": "12/02/2020 03:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "DOH",
-      "via": "GRU",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1321",
       "st": "12/02/2020 04:00",
@@ -114,6 +95,25 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "166"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "QR",
+      "vuelo": "8155",
+      "st": "12/02/2020 03:00",
+      "matricula": "A7BFD",
+      "posicion": "",
+      "et": "12/2/2020 03:05",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "DOH",
+      "via": "GRU",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
