@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/02/2020 22:50",
+  "lastUpdate": "12/02/2020 22:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2403,14 +2403,14 @@
       "matricula": "PRMHM",
       "posicion": "06",
       "et": "12/2/2020 22:46",
-      "at": "",
+      "at": "12/2/2020 22:53",
       "term": "A",
       "sector": "",
       "cinta": "5",
       "lF": "005",
       "ruta": "GRU",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "174"
     },
@@ -3760,7 +3760,7 @@
       "puerta": "05",
       "ruta": "DXB",
       "via": "GIG",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3798,7 +3798,7 @@
       "puerta": "16",
       "ruta": "MIA",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3817,7 +3817,7 @@
       "puerta": "08",
       "ruta": "JFK",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
