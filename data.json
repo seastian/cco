@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/02/2020 14:53",
+  "lastUpdate": "13/02/2020 14:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2384,14 +2384,14 @@
       "matricula": "LVFUB",
       "posicion": "16B",
       "et": "13/2/2020 14:45",
-      "at": "",
+      "at": "13/2/2020 14:40",
       "term": "A",
       "sector": "",
       "cinta": "7",
       "lF": "007",
       "ruta": "SSA",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "147"
     },
@@ -3833,7 +3833,7 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "19",
+      "puerta": "13",
       "ruta": "VVI",
       "via": "",
       "remark": "HOR",
