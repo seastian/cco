@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/02/2020 06:47",
+  "lastUpdate": "13/02/2020 06:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -292,7 +292,7 @@
       "vuelo": "090",
       "st": "13/02/2020 09:00",
       "matricula": "HBJME",
-      "posicion": "",
+      "posicion": "09",
       "et": "13/2/2020 09:05",
       "at": "",
       "term": "A",
@@ -3524,7 +3524,7 @@
       "matricula": "LVCEV",
       "posicion": "71",
       "et": "",
-      "at": "",
+      "at": "13/2/2020 06:53",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3532,7 +3532,7 @@
       "puerta": "25",
       "ruta": "TUC",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3665,7 +3665,7 @@
       "puerta": "01",
       "ruta": "GRU",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3958,7 +3958,7 @@
       "aerolinea": "AR",
       "vuelo": "1292",
       "st": "13/02/2020 10:45",
-      "matricula": "LVFQC",
+      "matricula": "LVGFQ",
       "posicion": "",
       "et": "",
       "at": "",
@@ -3996,7 +3996,7 @@
       "aerolinea": "AR",
       "vuelo": "1284",
       "st": "13/02/2020 11:20",
-      "matricula": "LVGFQ",
+      "matricula": "LVFQC",
       "posicion": "",
       "et": "",
       "at": "",
@@ -4187,14 +4187,14 @@
       "vuelo": "091",
       "st": "13/02/2020 12:45",
       "matricula": "HBJME",
-      "posicion": "",
+      "posicion": "09",
       "et": "",
       "at": "",
       "term": "A",
       "sector": "AP",
       "chkFrom": "062",
       "chkTo": "067",
-      "puerta": "",
+      "puerta": "09",
       "ruta": "ZRH",
       "via": "",
       "remark": "HOR",
