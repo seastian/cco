@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/02/2020 05:40",
+  "lastUpdate": "13/02/2020 05:45",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3524,7 +3524,7 @@
       "matricula": "HP1849",
       "posicion": "10",
       "et": "",
-      "at": "",
+      "at": "13/2/2020 05:41",
       "term": "A",
       "sector": "AP",
       "chkFrom": "016",
@@ -3532,7 +3532,7 @@
       "puerta": "10",
       "ruta": "PTY",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
