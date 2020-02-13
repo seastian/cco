@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/02/2020 17:47",
+  "lastUpdate": "13/02/2020 17:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -121,7 +121,7 @@
       "vuelo": "1273",
       "st": "13/02/2020 19:40",
       "matricula": "LVCXS",
-      "posicion": "",
+      "posicion": "17A",
       "et": "13/2/2020 19:10",
       "at": "",
       "term": "A",
@@ -3657,7 +3657,7 @@
       "matricula": "LVGUS",
       "posicion": "70",
       "et": "13/2/2020 17:30",
-      "at": "",
+      "at": "13/2/2020 17:53",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3665,7 +3665,7 @@
       "puerta": "27",
       "ruta": "IGR",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3760,7 +3760,7 @@
       "puerta": "04",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
