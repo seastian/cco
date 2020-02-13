@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/02/2020 13:40",
+  "lastUpdate": "13/02/2020 13:45",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2326,15 +2326,15 @@
       "st": "13/02/2020 13:30",
       "matricula": "PRVBG",
       "posicion": "06",
-      "et": "13/2/2020 13:29",
-      "at": "",
+      "et": "",
+      "at": "13/2/2020 13:45",
       "term": "A",
       "sector": "",
       "cinta": "4",
       "lF": "004",
       "ruta": "BSB",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "158"
     },
@@ -3494,7 +3494,7 @@
       "puerta": "10",
       "ruta": "LHR",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
