@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/02/2020 14:37",
+  "lastUpdate": "13/02/2020 14:43",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -151,7 +151,7 @@
       "via": "",
       "remark": "",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "77"
     },
     {
       "tipo": "arribo",
@@ -236,7 +236,7 @@
       "st": "13/02/2020 17:50",
       "matricula": "LVGFQ",
       "posicion": "",
-      "et": "",
+      "et": "13/2/2020 17:35",
       "at": "",
       "term": "A",
       "sector": "",
@@ -244,7 +244,7 @@
       "lF": "",
       "ruta": "GIG",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": "137"
     },
@@ -3505,7 +3505,7 @@
       "matricula": "PRVBG",
       "posicion": "06",
       "et": "",
-      "at": "",
+      "at": "13/2/2020 14:42",
       "term": "A",
       "sector": "AP",
       "chkFrom": "068",
@@ -3513,7 +3513,7 @@
       "puerta": "05",
       "ruta": "GIG",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3627,7 +3627,7 @@
       "puerta": "16",
       "ruta": "GIG",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3665,7 +3665,7 @@
       "puerta": "10",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
