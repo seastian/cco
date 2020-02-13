@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/02/2020 02:57",
+  "lastUpdate": "13/02/2020 03:02",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1178,25 +1178,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AC",
-      "vuelo": "092",
-      "st": "12/02/2020 14:30",
-      "matricula": "CFNNQ",
-      "posicion": "10",
-      "et": "12/2/2020 15:00",
-      "at": "12/2/2020 14:59",
-      "term": "A",
-      "sector": "",
-      "cinta": "1",
-      "lF": "006",
-      "ruta": "YYZ",
-      "via": "SCL",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "419"
     },
     {
       "tipo": "arribo",
@@ -3760,7 +3741,7 @@
       "puerta": "23",
       "ruta": "PUJ",
       "via": "RES",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
