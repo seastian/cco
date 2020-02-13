@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/02/2020 00:47",
+  "lastUpdate": "13/02/2020 00:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -69,8 +69,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "5",
+      "lF": "005",
       "ruta": "FLN",
       "via": "",
       "remark": "EST",
@@ -184,7 +184,7 @@
       "term": "A",
       "sector": "",
       "cinta": "9",
-      "lF": "",
+      "lF": "010",
       "ruta": "MIA",
       "via": "",
       "remark": "EST",
