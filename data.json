@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/02/2020 13:08",
+  "lastUpdate": "13/02/2020 13:13",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -193,6 +193,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "H2",
+      "vuelo": "507",
+      "st": "13/02/2020 14:47",
+      "matricula": "CCAZS",
+      "posicion": "",
+      "et": "13/2/2020 14:33",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "159"
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1229",
       "st": "13/02/2020 15:05",
@@ -209,25 +228,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "147"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "H2",
-      "vuelo": "507",
-      "st": "13/02/2020 14:47",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -293,7 +293,7 @@
       "st": "13/02/2020 16:05",
       "matricula": "LVFVH",
       "posicion": "",
-      "et": "",
+      "et": "13/2/2020 16:01",
       "at": "",
       "term": "A",
       "sector": "",
@@ -301,9 +301,9 @@
       "lF": "",
       "ruta": "GIG",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "233"
     },
     {
       "tipo": "arribo",
@@ -3711,7 +3711,7 @@
       "aerolinea": "H2",
       "vuelo": "508",
       "st": "13/02/2020 15:22",
-      "matricula": "",
+      "matricula": "CCAZS",
       "posicion": "",
       "et": "",
       "at": "",
