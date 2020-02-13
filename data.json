@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/02/2020 12:51",
+  "lastUpdate": "13/02/2020 12:56",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3467,7 +3467,7 @@
       "matricula": "HBJME",
       "posicion": "15",
       "et": "",
-      "at": "",
+      "at": "13/2/2020 12:55",
       "term": "A",
       "sector": "AP",
       "chkFrom": "062",
@@ -3475,7 +3475,7 @@
       "puerta": "20",
       "ruta": "ZRH",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3494,7 +3494,7 @@
       "puerta": "01",
       "ruta": "VCP",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3532,7 +3532,7 @@
       "puerta": "18",
       "ruta": "FCO",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -4243,8 +4243,8 @@
       "aerolinea": "DL",
       "vuelo": "110",
       "st": "13/02/2020 21:16",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "N178DZ",
+      "posicion": "36",
       "et": "",
       "at": "",
       "term": "C",
@@ -4376,8 +4376,8 @@
       "aerolinea": "UA",
       "vuelo": "818",
       "st": "13/02/2020 22:05",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "N78013",
+      "posicion": "33",
       "et": "",
       "at": "",
       "term": "A",
