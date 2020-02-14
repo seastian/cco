@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/02/2020 07:33",
+  "lastUpdate": "14/02/2020 07:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -108,31 +108,12 @@
       "term": "A",
       "sector": "",
       "cinta": "9",
-      "lF": "",
+      "lF": "010",
       "ruta": "MAD",
       "via": "",
       "remark": "DEM",
       "sanidad": "NO",
       "pax": "359"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "BA",
-      "vuelo": "245",
-      "st": "14/02/2020 09:10",
-      "matricula": "GYMMS",
-      "posicion": "06",
-      "et": "14/2/2020 08:53",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "6",
-      "lF": "",
-      "ruta": "LHR",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -152,6 +133,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "BA",
+      "vuelo": "245",
+      "st": "14/02/2020 09:10",
+      "matricula": "GYMMS",
+      "posicion": "06",
+      "et": "14/2/2020 09:00",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "6",
+      "lF": "003",
+      "ruta": "LHR",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "266"
     },
     {
       "tipo": "arribo",
@@ -3836,7 +3836,7 @@
       "puerta": "",
       "ruta": "MDZ",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3855,7 +3855,7 @@
       "puerta": "01",
       "ruta": "GRU",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3950,7 +3950,7 @@
       "puerta": "25",
       "ruta": "IGR",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3988,7 +3988,7 @@
       "puerta": "13",
       "ruta": "FLN",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
