@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/02/2020 12:42",
+  "lastUpdate": "14/02/2020 12:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3807,7 +3807,7 @@
       "vuelo": "CNQ",
       "st": "14/02/2020 10:40",
       "matricula": "LVCNQ",
-      "posicion": "",
+      "posicion": "41",
       "et": "14/2/2020 14:00",
       "at": "",
       "term": "FBO",
