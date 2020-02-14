@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/02/2020 06:19",
+  "lastUpdate": "14/02/2020 06:24",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1406,25 +1406,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "162"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7684",
-      "st": "13/02/2020 18:45",
-      "matricula": "PRGUV",
-      "posicion": "02",
-      "et": "13/2/2020 18:40",
-      "at": "13/2/2020 18:25",
-      "term": "A",
-      "sector": "",
-      "cinta": "1",
-      "lF": "001",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "135"
     },
     {
       "tipo": "arribo",
@@ -3817,7 +3798,7 @@
       "puerta": "",
       "ruta": "DWC",
       "via": "",
-      "remark": "HOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3836,7 +3817,7 @@
       "puerta": "24",
       "ruta": "SLA",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3855,7 +3836,7 @@
       "puerta": "26",
       "ruta": "TUC",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
