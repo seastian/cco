@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/02/2020 23:22",
+  "lastUpdate": "13/02/2020 23:27",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,8 +7,8 @@
       "vuelo": "1043",
       "st": "13/02/2020 23:45",
       "matricula": "LVCBT",
-      "posicion": "",
-      "et": "",
+      "posicion": "70",
+      "et": "13/2/2020 23:39",
       "at": "",
       "term": "C",
       "sector": "",
@@ -16,9 +16,9 @@
       "lF": "",
       "ruta": "AEP",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -1083,25 +1083,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "DL",
-      "vuelo": "101",
-      "st": "13/02/2020 09:20",
-      "matricula": "N178DZ",
-      "posicion": "06",
-      "et": "13/2/2020 11:49",
-      "at": "13/2/2020 11:27",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "008",
-      "ruta": "ATL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "211"
     },
     {
       "tipo": "arribo",
@@ -3676,7 +3657,7 @@
       "matricula": "A7BBE",
       "posicion": "06",
       "et": "",
-      "at": "",
+      "at": "13/2/2020 23:26",
       "term": "A",
       "sector": "AP",
       "chkFrom": "061",
@@ -3684,7 +3665,7 @@
       "puerta": "05",
       "ruta": "DOH",
       "via": "GRU",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3703,7 +3684,7 @@
       "puerta": "22",
       "ruta": "CUN",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3760,7 +3741,7 @@
       "puerta": "01",
       "ruta": "ASU",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3940,7 +3921,7 @@
       "vuelo": "7119",
       "st": "14/02/2020 01:50",
       "matricula": "CXMAS",
-      "posicion": "",
+      "posicion": "57",
       "et": "",
       "at": "",
       "term": "TCA",
