@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/02/2020 02:49",
+  "lastUpdate": "14/02/2020 02:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3695,7 +3695,7 @@
       "matricula": "PRVBI",
       "posicion": "10",
       "et": "",
-      "at": "",
+      "at": "14/2/2020 02:53",
       "term": "A",
       "sector": "AP",
       "chkFrom": "068",
@@ -3703,7 +3703,7 @@
       "puerta": "10",
       "ruta": "GIG",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3741,7 +3741,7 @@
       "puerta": "18",
       "ruta": "PUJ",
       "via": "RES",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
