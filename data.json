@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/02/2020 01:00",
+  "lastUpdate": "14/02/2020 01:05",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2441,14 +2441,14 @@
       "matricula": "PRGTG",
       "posicion": "07",
       "et": "14/2/2020 01:00",
-      "at": "",
+      "at": "14/2/2020 01:02",
       "term": "A",
       "sector": "",
       "cinta": "6",
       "lF": "010",
       "ruta": "GIG",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "175"
     },
@@ -3760,7 +3760,7 @@
       "puerta": "01",
       "ruta": "PTY",
       "via": "",
-      "remark": "PRE",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
