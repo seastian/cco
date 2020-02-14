@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/02/2020 00:03",
+  "lastUpdate": "14/02/2020 00:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -407,7 +407,7 @@
       "st": "14/02/2020 06:56",
       "matricula": "",
       "posicion": "",
-      "et": "",
+      "et": "14/2/2020 06:52",
       "at": "",
       "term": "A",
       "sector": "",
@@ -415,9 +415,9 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "272"
     },
     {
       "tipo": "arribo",
@@ -2422,14 +2422,14 @@
       "matricula": "PRTYG",
       "posicion": "09",
       "et": "13/2/2020 23:54",
-      "at": "",
+      "at": "14/2/2020 00:05",
       "term": "A",
       "sector": "",
       "cinta": "3",
       "lF": "003",
       "ruta": "GRU",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -2448,25 +2448,6 @@
       "chkTo": "240",
       "puerta": "25",
       "ruta": "MDZ",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1524",
-      "st": "13/02/2020 12:00",
-      "matricula": "LVCBF",
-      "posicion": "22A",
-      "et": "",
-      "at": "13/2/2020 12:08",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "27",
-      "ruta": "COR",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -4937,6 +4918,25 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "MDZ",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1392",
+      "st": "14/02/2020 12:05",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "MVD",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
