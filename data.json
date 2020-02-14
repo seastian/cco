@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/02/2020 12:52",
+  "lastUpdate": "14/02/2020 12:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3836,7 +3836,7 @@
       "puerta": "01",
       "ruta": "VCP",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3855,7 +3855,7 @@
       "puerta": "08",
       "ruta": "BCN",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3874,7 +3874,7 @@
       "puerta": "16",
       "ruta": "MAD",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3893,7 +3893,7 @@
       "puerta": "04",
       "ruta": "MAD",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
