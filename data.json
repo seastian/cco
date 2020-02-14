@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/02/2020 14:53",
+  "lastUpdate": "14/02/2020 14:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -4403,7 +4403,7 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "17",
       "ruta": "CWB",
       "via": "",
       "remark": "HOR",
