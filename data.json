@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/02/2020 04:50",
+  "lastUpdate": "14/02/2020 04:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1333,6 +1333,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1871",
+      "st": "14/02/2020 16:55",
+      "matricula": "LVFQY",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "USH",
+      "via": "FTE",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "4M",
       "vuelo": "7507",
       "st": "13/02/2020 17:52",
@@ -2517,14 +2536,14 @@
       "matricula": "N337UP",
       "posicion": "50",
       "et": "14/2/2020 04:50",
-      "at": "",
+      "at": "14/2/2020 04:50",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "MIA",
       "via": "SCL",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -3665,7 +3684,7 @@
       "puerta": "16",
       "ruta": "BPS",
       "via": "",
-      "remark": "PRE",
+      "remark": "HOR",
       "sanidad": "NO"
     },
     {
@@ -3741,7 +3760,7 @@
       "puerta": "03",
       "ruta": "PTY",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3798,7 +3817,7 @@
       "puerta": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
