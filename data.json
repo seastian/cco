@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/02/2020 01:46",
+  "lastUpdate": "14/02/2020 01:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -64,7 +64,7 @@
       "vuelo": "363",
       "st": "14/02/2020 04:08",
       "matricula": "HP1832",
-      "posicion": "",
+      "posicion": "10",
       "et": "14/2/2020 03:25",
       "at": "",
       "term": "A",
@@ -4054,14 +4054,14 @@
       "vuelo": "364",
       "st": "14/02/2020 05:26",
       "matricula": "HP1832",
-      "posicion": "",
+      "posicion": "10",
       "et": "",
       "at": "",
       "term": "A",
       "sector": "AP",
       "chkFrom": "016",
       "chkTo": "022",
-      "puerta": "",
+      "puerta": "10",
       "ruta": "PTY",
       "via": "",
       "remark": "HOR",
