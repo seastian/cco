@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/02/2020 01:10",
+  "lastUpdate": "14/02/2020 01:15",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3714,7 +3714,7 @@
       "matricula": "LVFPU",
       "posicion": "12",
       "et": "14/2/2020 00:40",
-      "at": "",
+      "at": "14/2/2020 01:11",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3722,7 +3722,7 @@
       "puerta": "16",
       "ruta": "MAD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
