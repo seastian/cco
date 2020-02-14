@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/02/2020 12:47",
+  "lastUpdate": "14/02/2020 12:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -193,6 +193,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "KL",
+      "vuelo": "702",
+      "st": "14/02/2020 14:40",
+      "matricula": "PHBHD",
+      "posicion": "",
+      "et": "14/2/2020 14:13",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "JJ",
       "vuelo": "8011",
       "st": "14/02/2020 14:25",
@@ -243,25 +262,6 @@
       "cinta": "",
       "lF": "",
       "ruta": "MVD",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "KL",
-      "vuelo": "702",
-      "st": "14/02/2020 14:40",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
       "via": "",
       "remark": "",
       "sanidad": "NO",
