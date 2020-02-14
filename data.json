@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/02/2020 15:45",
+  "lastUpdate": "14/02/2020 15:50",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1219,25 +1219,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1104",
-      "st": "14/02/2020 03:40",
-      "matricula": "N536LA",
-      "posicion": "53",
-      "et": "",
-      "at": "14/2/2020 03:50",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "ASU",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1321",
       "st": "14/02/2020 04:00",
@@ -1485,25 +1466,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AA",
-      "vuelo": "907",
-      "st": "14/02/2020 06:56",
-      "matricula": "N775AN",
-      "posicion": "04",
-      "et": "14/2/2020 07:00",
-      "at": "14/2/2020 06:59",
-      "term": "A",
-      "sector": "",
-      "cinta": "1",
-      "lF": "005",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "272"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "ZP",
       "vuelo": "820",
       "st": "14/02/2020 07:00",
@@ -1520,6 +1482,25 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AA",
+      "vuelo": "907",
+      "st": "14/02/2020 06:56",
+      "matricula": "N775AN",
+      "posicion": "04",
+      "et": "14/2/2020 07:00",
+      "at": "14/2/2020 06:59",
+      "term": "A",
+      "sector": "",
+      "cinta": "1",
+      "lF": "005",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "272"
     },
     {
       "tipo": "arribo",
@@ -1713,6 +1694,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "H2",
+      "vuelo": "501",
+      "st": "14/02/2020 09:17",
+      "matricula": "CCAZP",
+      "posicion": "02",
+      "et": "14/2/2020 09:00",
+      "at": "14/2/2020 08:51",
+      "term": "A",
+      "sector": "",
+      "cinta": "1",
+      "lF": "002",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "166"
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "JJ",
       "vuelo": "8012",
       "st": "14/02/2020 09:00",
@@ -1748,25 +1748,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "266"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "H2",
-      "vuelo": "501",
-      "st": "14/02/2020 09:17",
-      "matricula": "CCAZP",
-      "posicion": "02",
-      "et": "14/2/2020 09:00",
-      "at": "14/2/2020 08:51",
-      "term": "A",
-      "sector": "",
-      "cinta": "1",
-      "lF": "002",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "166"
     },
     {
       "tipo": "arribo",
@@ -1884,25 +1865,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AU",
-      "vuelo": "2541",
-      "st": "14/02/2020 10:15",
-      "matricula": "LVCMA",
-      "posicion": "22B",
-      "et": "14/2/2020 09:55",
-      "at": "14/2/2020 09:53",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "11",
-      "lF": "017",
-      "ruta": "MDZ",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "91"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1231",
       "st": "14/02/2020 10:10",
@@ -1919,6 +1881,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "108"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AU",
+      "vuelo": "2541",
+      "st": "14/02/2020 10:15",
+      "matricula": "LVCMA",
+      "posicion": "22B",
+      "et": "14/2/2020 09:55",
+      "at": "14/2/2020 09:53",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "11",
+      "lF": "017",
+      "ruta": "MDZ",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "91"
     },
     {
       "tipo": "arribo",
@@ -2416,25 +2397,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "H2",
-      "vuelo": "507",
-      "st": "14/02/2020 14:47",
-      "matricula": "CCAJF",
-      "posicion": "03",
-      "et": "14/2/2020 14:35",
-      "at": "14/2/2020 14:35",
-      "term": "A",
-      "sector": "",
-      "cinta": "4",
-      "lF": "006",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "130"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1393",
       "st": "14/02/2020 14:35",
@@ -2451,6 +2413,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "H2",
+      "vuelo": "507",
+      "st": "14/02/2020 14:47",
+      "matricula": "CCAJF",
+      "posicion": "03",
+      "et": "14/2/2020 14:35",
+      "at": "14/2/2020 14:35",
+      "term": "A",
+      "sector": "",
+      "cinta": "4",
+      "lF": "006",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "130"
     },
     {
       "tipo": "arribo",
@@ -3980,7 +3961,7 @@
       "matricula": "LVCAZ",
       "posicion": "H15",
       "et": "",
-      "at": "",
+      "at": "14/2/2020 15:49",
       "term": "FBO",
       "sector": "",
       "chkFrom": "",
@@ -3988,7 +3969,7 @@
       "puerta": "",
       "ruta": "EQS",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -4045,7 +4026,7 @@
       "puerta": "23",
       "ruta": "SCL",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4064,7 +4045,7 @@
       "puerta": "05",
       "ruta": "GRU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4102,7 +4083,7 @@
       "puerta": "14",
       "ruta": "AMS",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
