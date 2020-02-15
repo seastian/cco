@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/02/2020 00:41",
+  "lastUpdate": "15/02/2020 00:46",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3790,7 +3790,7 @@
       "matricula": "LVFVH",
       "posicion": "13",
       "et": "",
-      "at": "",
+      "at": "15/2/2020 00:46",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3798,7 +3798,7 @@
       "puerta": "17",
       "ruta": "MAD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3969,7 +3969,7 @@
       "puerta": "09",
       "ruta": "REC",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
