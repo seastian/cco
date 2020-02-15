@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/02/2020 12:37",
+  "lastUpdate": "15/02/2020 12:42",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3505,7 +3505,7 @@
       "matricula": "LVFQB",
       "posicion": "70",
       "et": "",
-      "at": "",
+      "at": "15/2/2020 12:38",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3513,7 +3513,7 @@
       "puerta": "27",
       "ruta": "BRC",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3674,7 +3674,7 @@
       "vuelo": "229",
       "st": "15/02/2020 14:20",
       "matricula": "FGSPS",
-      "posicion": "24",
+      "posicion": "11",
       "et": "",
       "at": "",
       "term": "C",
@@ -4548,14 +4548,14 @@
       "vuelo": "818",
       "st": "15/02/2020 22:05",
       "matricula": "N78004",
-      "posicion": "14",
+      "posicion": "53",
       "et": "",
       "at": "",
       "term": "A",
       "sector": "AP",
       "chkFrom": "054",
       "chkTo": "061",
-      "puerta": "19",
+      "puerta": "",
       "ruta": "IAH",
       "via": "",
       "remark": "HOR",
