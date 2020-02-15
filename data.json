@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/02/2020 07:15",
+  "lastUpdate": "15/02/2020 07:20",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -155,6 +155,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "JJ",
+      "vuelo": "8012",
+      "st": "15/02/2020 09:00",
+      "matricula": "PRMHG",
+      "posicion": "",
+      "et": "15/2/2020 08:50",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "174"
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "IB",
       "vuelo": "6841",
       "st": "15/02/2020 08:35",
@@ -171,25 +190,6 @@
       "remark": "DEM",
       "sanidad": "NO",
       "pax": "359"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8012",
-      "st": "15/02/2020 09:00",
-      "matricula": "PRMHG",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -3657,7 +3657,7 @@
       "matricula": "N762AV",
       "posicion": "10",
       "et": "",
-      "at": "",
+      "at": "15/2/2020 07:16",
       "term": "A",
       "sector": "AP",
       "chkFrom": "058",
@@ -3665,7 +3665,7 @@
       "puerta": "10",
       "ruta": "BOG",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -4994,6 +4994,25 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "LIM",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "JJ",
+      "vuelo": "8002",
+      "st": "15/02/2020 19:20",
+      "matricula": "PRMHG",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "GRU",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
