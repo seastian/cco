@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/02/2020 15:56",
+  "lastUpdate": "15/02/2020 16:01",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3594,25 +3594,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AU",
-      "vuelo": "2041",
-      "st": "15/02/2020 15:30",
-      "matricula": "LVCET",
-      "posicion": "22B",
-      "et": "15/2/2020 16:50",
-      "at": "",
-      "term": "C",
-      "sector": "CPC",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "AEP",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "G3",
       "vuelo": "7669",
       "st": "15/02/2020 16:00",
@@ -3628,6 +3609,25 @@
       "ruta": "GIG",
       "via": "",
       "remark": "ULT",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AU",
+      "vuelo": "2041",
+      "st": "15/02/2020 15:30",
+      "matricula": "LVCET",
+      "posicion": "22B",
+      "et": "15/2/2020 16:50",
+      "at": "",
+      "term": "C",
+      "sector": "CPC",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "AEP",
+      "via": "",
+      "remark": "DEM",
       "sanidad": "NO"
     },
     {
@@ -3798,26 +3798,7 @@
       "puerta": "01",
       "ruta": "GRU",
       "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1262",
-      "st": "15/02/2020 17:00",
-      "matricula": "LVGVC",
-      "posicion": "17B",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "19",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3837,6 +3818,25 @@
       "ruta": "ASU",
       "via": "",
       "remark": "CAN",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1262",
+      "st": "15/02/2020 17:00",
+      "matricula": "LVGVC",
+      "posicion": "17B",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "19",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -4804,6 +4804,25 @@
       "chkTo": "053",
       "puerta": "",
       "ruta": "LIM",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "JJ",
+      "vuelo": "8097",
+      "st": "16/02/2020 04:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "SSA",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
