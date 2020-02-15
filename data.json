@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/02/2020 17:15",
+  "lastUpdate": "15/02/2020 17:20",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3733,7 +3733,7 @@
       "matricula": "LVCET",
       "posicion": "22B",
       "et": "15/2/2020 16:50",
-      "at": "",
+      "at": "15/2/2020 17:17",
       "term": "C",
       "sector": "CPC",
       "chkFrom": "",
@@ -3741,7 +3741,7 @@
       "puerta": "",
       "ruta": "AEP",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3790,7 +3790,7 @@
       "matricula": "LVCQS",
       "posicion": "08",
       "et": "",
-      "at": "",
+      "at": "15/2/2020 17:15",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3798,7 +3798,7 @@
       "puerta": "24",
       "ruta": "IGR",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3817,7 +3817,7 @@
       "puerta": "05",
       "ruta": "GIG",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4053,7 +4053,7 @@
       "aerolinea": "G3",
       "vuelo": "7685",
       "st": "15/02/2020 19:55",
-      "matricula": "",
+      "matricula": "PRGTR",
       "posicion": "",
       "et": "",
       "at": "",
