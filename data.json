@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/02/2020 05:29",
+  "lastUpdate": "15/02/2020 05:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1257,18 +1257,18 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1106",
+      "aerolinea": "LA",
+      "vuelo": "445",
       "st": "15/02/2020 17:00",
-      "matricula": "",
+      "matricula": "CCBGM",
       "posicion": "",
       "et": "",
       "at": "",
-      "term": "TCA",
+      "term": "A",
       "sector": "",
       "cinta": "",
       "lF": "",
-      "ruta": "MIA",
+      "ruta": "SCL",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -1295,10 +1295,29 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "445",
+      "aerolinea": "UC",
+      "vuelo": "1106",
       "st": "15/02/2020 17:00",
-      "matricula": "CCBGM",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1277",
+      "st": "15/02/2020 17:30",
+      "matricula": "LVFUA",
       "posicion": "",
       "et": "",
       "at": "",
@@ -1306,7 +1325,7 @@
       "sector": "",
       "cinta": "",
       "lF": "",
-      "ruta": "SCL",
+      "ruta": "FLN",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -3665,7 +3684,7 @@
       "puerta": "17",
       "ruta": "ASU",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3684,7 +3703,7 @@
       "puerta": "09",
       "ruta": "LIM",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3703,7 +3722,7 @@
       "puerta": "19",
       "ruta": "POA",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
