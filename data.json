@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/02/2020 00:51",
+  "lastUpdate": "15/02/2020 00:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3904,7 +3904,7 @@
       "matricula": "N818AV",
       "posicion": "05",
       "et": "",
-      "at": "",
+      "at": "15/2/2020 00:52",
       "term": "A",
       "sector": "AP",
       "chkFrom": "013",
@@ -3912,7 +3912,7 @@
       "puerta": "04",
       "ruta": "BOG",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3942,7 +3942,7 @@
       "matricula": "LVCAD",
       "posicion": "72",
       "et": "",
-      "at": "",
+      "at": "15/2/2020 00:56",
       "term": "C",
       "sector": "",
       "chkFrom": "",
@@ -3950,7 +3950,7 @@
       "puerta": "",
       "ruta": "AEP",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
