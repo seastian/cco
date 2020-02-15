@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/02/2020 13:41",
+  "lastUpdate": "15/02/2020 13:48",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2365,14 +2365,14 @@
       "matricula": "PRMHP",
       "posicion": "04",
       "et": "15/2/2020 13:40",
-      "at": "",
+      "at": "15/2/2020 13:42",
       "term": "A",
       "sector": "",
       "cinta": "1",
       "lF": "001",
       "ruta": "FLN",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "171"
     },
@@ -3518,25 +3518,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1258",
-      "st": "15/02/2020 14:00",
-      "matricula": "LVFQC",
-      "posicion": "22A",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "13",
-      "ruta": "GIG",
-      "via": "",
-      "remark": "PRE",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AZ",
       "vuelo": "681",
       "st": "15/02/2020 14:05",
@@ -3551,7 +3532,26 @@
       "puerta": "17",
       "ruta": "FCO",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1258",
+      "st": "15/02/2020 14:00",
+      "matricula": "LVFQC",
+      "posicion": "22A",
+      "et": "15/2/2020 14:10",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "13",
+      "ruta": "GIG",
+      "via": "",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3589,7 +3589,7 @@
       "puerta": "04",
       "ruta": "MAD",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3893,7 +3893,7 @@
       "puerta": "10",
       "ruta": "AMS",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
