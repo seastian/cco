@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/02/2020 00:16",
+  "lastUpdate": "15/02/2020 00:21",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -421,25 +421,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "4M",
-      "vuelo": "7821",
-      "st": "15/02/2020 07:25",
-      "matricula": "CCCXD",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AA",
       "vuelo": "907",
       "st": "15/02/2020 06:56",
@@ -456,6 +437,25 @@
       "remark": "DEM",
       "sanidad": "NO",
       "pax": "272"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "4M",
+      "vuelo": "7821",
+      "st": "15/02/2020 07:25",
+      "matricula": "CCCXD",
+      "posicion": "",
+      "et": "15/2/2020 07:40",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "208"
     },
     {
       "tipo": "arribo",
