@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/02/2020 15:09",
+  "lastUpdate": "15/02/2020 15:15",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -139,9 +139,9 @@
       "aerolinea": "G3",
       "vuelo": "7692",
       "st": "15/02/2020 16:35",
-      "matricula": "",
+      "matricula": "PRVBX",
       "posicion": "",
-      "et": "",
+      "et": "15/2/2020 16:30",
       "at": "",
       "term": "A",
       "sector": "",
@@ -149,9 +149,9 @@
       "lF": "",
       "ruta": "FLN",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "117"
     },
     {
       "tipo": "arribo",
@@ -253,9 +253,9 @@
       "aerolinea": "G3",
       "vuelo": "7668",
       "st": "15/02/2020 17:35",
-      "matricula": "",
+      "matricula": "PRGTF",
       "posicion": "",
-      "et": "",
+      "et": "15/2/2020 17:36",
       "at": "",
       "term": "A",
       "sector": "",
@@ -263,9 +263,9 @@
       "lF": "",
       "ruta": "GIG",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "152"
     },
     {
       "tipo": "arribo",
@@ -2312,7 +2312,7 @@
       "term": "A",
       "sector": "",
       "cinta": "1",
-      "lF": "001",
+      "lF": "006",
       "ruta": "YYZ",
       "via": "SCL",
       "remark": "ATE",
@@ -3524,7 +3524,7 @@
       "matricula": "LVCXS",
       "posicion": "15B",
       "et": "15/2/2020 15:00",
-      "at": "",
+      "at": "15/2/2020 15:14",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3532,7 +3532,7 @@
       "puerta": "21",
       "ruta": "FLN",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3589,7 +3589,7 @@
       "puerta": "",
       "ruta": "VCP",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -3608,7 +3608,7 @@
       "puerta": "06",
       "ruta": "SCL",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3901,7 +3901,7 @@
       "aerolinea": "G3",
       "vuelo": "7653",
       "st": "15/02/2020 17:15",
-      "matricula": "",
+      "matricula": "PRVBX",
       "posicion": "",
       "et": "",
       "at": "",
@@ -4262,7 +4262,7 @@
       "aerolinea": "G3",
       "vuelo": "7490",
       "st": "15/02/2020 21:20",
-      "matricula": "",
+      "matricula": "PRGTF",
       "posicion": "",
       "et": "",
       "at": "",
