@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/02/2020 00:39",
+  "lastUpdate": "16/02/2020 00:46",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3978,14 +3978,14 @@
       "vuelo": "1222",
       "st": "16/02/2020 02:40",
       "matricula": "LVFRQ",
-      "posicion": "25B",
+      "posicion": "12",
       "et": "",
       "at": "",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "16",
       "ruta": "BPS",
       "via": "",
       "remark": "HOR",
