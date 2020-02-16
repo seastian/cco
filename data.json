@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/02/2020 17:10",
+  "lastUpdate": "16/02/2020 17:15",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3942,7 +3942,7 @@
       "matricula": "LVCBT",
       "posicion": "72",
       "et": "",
-      "at": "",
+      "at": "16/2/2020 17:15",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3950,7 +3950,7 @@
       "puerta": "17",
       "ruta": "BOG",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -4102,7 +4102,7 @@
       "puerta": "08",
       "ruta": "FRA",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -5190,25 +5190,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1228",
-      "st": "17/02/2020 05:05",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "SSA",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "G3",
       "vuelo": "7691",
       "st": "17/02/2020 05:05",
@@ -5222,6 +5203,25 @@
       "chkTo": "074",
       "puerta": "",
       "ruta": "FLN",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1228",
+      "st": "17/02/2020 05:05",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "SSA",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
