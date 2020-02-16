@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/02/2020 02:32",
+  "lastUpdate": "16/02/2020 02:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1174,25 +1174,6 @@
       "cinta": "7",
       "lF": "007",
       "ruta": "MVD",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "H2",
-      "vuelo": "507",
-      "st": "15/02/2020 14:47",
-      "matricula": "CCAZO",
-      "posicion": "07",
-      "et": "15/2/2020 14:38",
-      "at": "15/2/2020 14:34",
-      "term": "A",
-      "sector": "",
-      "cinta": "2",
-      "lF": "006",
-      "ruta": "SCL",
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
@@ -3855,7 +3836,7 @@
       "puerta": "02",
       "ruta": "CNF",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
