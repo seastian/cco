@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/02/2020 19:11",
+  "lastUpdate": "16/02/2020 19:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2441,14 +2441,14 @@
       "matricula": "CXCAR",
       "posicion": "54A",
       "et": "",
-      "at": "",
+      "at": "16/2/2020 19:13",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "CON",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -3999,7 +3999,7 @@
       "matricula": "LVFQZ",
       "posicion": "17A",
       "et": "",
-      "at": "",
+      "at": "16/2/2020 19:15",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -4007,7 +4007,7 @@
       "puerta": "21",
       "ruta": "LIM",
       "via": "",
-      "remark": "ULT",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -4045,7 +4045,7 @@
       "puerta": "01",
       "ruta": "GRU",
       "via": "",
-      "remark": "PRE",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4064,7 +4064,7 @@
       "puerta": "05",
       "ruta": "LIM",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
