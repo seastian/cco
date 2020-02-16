@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/02/2020 14:48",
+  "lastUpdate": "16/02/2020 14:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3866,7 +3866,7 @@
       "matricula": "LVGVB",
       "posicion": "15B",
       "et": "",
-      "at": "",
+      "at": "16/2/2020 14:49",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3874,7 +3874,7 @@
       "puerta": "21",
       "ruta": "FLN",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3931,7 +3931,7 @@
       "puerta": "03",
       "ruta": "VVI",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
