@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/02/2020 01:51",
+  "lastUpdate": "16/02/2020 01:56",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3912,7 +3912,7 @@
       "puerta": "05",
       "ruta": "GIG",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3931,7 +3931,7 @@
       "puerta": "02",
       "ruta": "CNF",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
