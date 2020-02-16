@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/02/2020 21:57",
+  "lastUpdate": "15/02/2020 22:02",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -19,25 +19,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1245",
-      "st": "15/02/2020 22:15",
-      "matricula": "LVGFQ",
-      "posicion": "17A",
-      "et": "15/2/2020 22:07",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "008",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "152"
     },
     {
       "tipo": "arribo",
@@ -1219,25 +1200,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7688",
-      "st": "15/02/2020 13:30",
-      "matricula": "PRGZI",
-      "posicion": "08",
-      "et": "15/2/2020 13:30",
-      "at": "15/2/2020 13:32",
-      "term": "A",
-      "sector": "",
-      "cinta": "4",
-      "lF": "004",
-      "ruta": "BSB",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "138"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "OB",
       "vuelo": "708",
       "st": "15/02/2020 13:40",
@@ -1254,6 +1216,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "G3",
+      "vuelo": "7688",
+      "st": "15/02/2020 13:30",
+      "matricula": "PRGZI",
+      "posicion": "08",
+      "et": "15/2/2020 13:30",
+      "at": "15/2/2020 13:32",
+      "term": "A",
+      "sector": "",
+      "cinta": "4",
+      "lF": "004",
+      "ruta": "BSB",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "138"
     },
     {
       "tipo": "arribo",
