@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/02/2020 01:41",
+  "lastUpdate": "16/02/2020 01:46",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1087,25 +1087,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "JJ",
-      "vuelo": "8042",
-      "st": "15/02/2020 13:35",
-      "matricula": "PRMHP",
-      "posicion": "04",
-      "et": "15/2/2020 13:40",
-      "at": "15/2/2020 13:42",
-      "term": "A",
-      "sector": "",
-      "cinta": "1",
-      "lF": "001",
-      "ruta": "FLN",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "171"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "JJ",
       "vuelo": "8003",
       "st": "15/02/2020 14:15",
       "matricula": "PRMAK",
@@ -1121,25 +1102,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "166"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1255",
-      "st": "15/02/2020 14:15",
-      "matricula": "LVFVN",
-      "posicion": "17A",
-      "et": "15/2/2020 14:00",
-      "at": "15/2/2020 14:05",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "007",
-      "ruta": "GIG",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "140"
     },
     {
       "tipo": "arribo",
@@ -1159,6 +1121,25 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1255",
+      "st": "15/02/2020 14:15",
+      "matricula": "LVFVN",
+      "posicion": "17A",
+      "et": "15/2/2020 14:00",
+      "at": "15/2/2020 14:05",
+      "term": "A",
+      "sector": "",
+      "cinta": "8",
+      "lF": "007",
+      "ruta": "GIG",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "140"
     },
     {
       "tipo": "arribo",
