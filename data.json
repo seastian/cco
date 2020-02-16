@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/02/2020 02:11",
+  "lastUpdate": "16/02/2020 02:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1124,25 +1124,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "KL",
-      "vuelo": "702",
-      "st": "15/02/2020 14:40",
-      "matricula": "PHBHF",
-      "posicion": "10",
-      "et": "15/2/2020 14:16",
-      "at": "15/2/2020 14:15",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "010",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AU",
       "vuelo": "2393",
       "st": "15/02/2020 14:45",
@@ -1258,25 +1239,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "4M",
-      "vuelo": "7901",
-      "st": "15/02/2020 15:15",
-      "matricula": "LVCQS",
-      "posicion": "08",
-      "et": "15/2/2020 15:27",
-      "at": "15/2/2020 15:06",
-      "term": "A",
-      "sector": "",
-      "cinta": "3",
-      "lF": "001",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "174"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "4M",
       "vuelo": "7824",
       "st": "15/02/2020 15:48",
       "matricula": "CCCXD",
@@ -1292,6 +1254,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "220"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "4M",
+      "vuelo": "7901",
+      "st": "15/02/2020 15:15",
+      "matricula": "LVCQS",
+      "posicion": "08",
+      "et": "15/2/2020 15:27",
+      "at": "15/2/2020 15:06",
+      "term": "A",
+      "sector": "",
+      "cinta": "3",
+      "lF": "001",
+      "ruta": "LIM",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "174"
     },
     {
       "tipo": "arribo",
@@ -3836,7 +3817,7 @@
       "puerta": "16",
       "ruta": "BPS",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3855,7 +3836,7 @@
       "puerta": "05",
       "ruta": "GIG",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3874,7 +3855,7 @@
       "puerta": "02",
       "ruta": "CNF",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -5051,6 +5032,44 @@
       "chkTo": "210",
       "puerta": "",
       "ruta": "FCO",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "BA",
+      "vuelo": "244",
+      "st": "16/02/2020 14:15",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "007",
+      "chkTo": "012",
+      "puerta": "",
+      "ruta": "LHR",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "G3",
+      "vuelo": "7653",
+      "st": "16/02/2020 14:15",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "068",
+      "chkTo": "074",
+      "puerta": "",
+      "ruta": "GIG",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
