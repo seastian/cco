@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/02/2020 05:36",
+  "lastUpdate": "16/02/2020 05:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1330,25 +1330,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1293",
-      "st": "15/02/2020 17:50",
-      "matricula": "LVFQZ",
-      "posicion": "17A",
-      "et": "15/2/2020 17:42",
-      "at": "15/2/2020 17:38",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "GIG",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "142"
     },
     {
       "tipo": "arribo",
@@ -2758,25 +2739,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "ET",
-      "vuelo": "507",
-      "st": "15/02/2020 21:20",
-      "matricula": "ETAOU",
-      "posicion": "15",
-      "et": "",
-      "at": "15/2/2020 21:41",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "201",
-      "chkTo": "207",
-      "puerta": "20",
-      "ruta": "ADD",
-      "via": "GRU",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "G3",
       "vuelo": "7490",
       "st": "15/02/2020 21:20",
@@ -2791,6 +2753,25 @@
       "puerta": "12",
       "ruta": "SSA",
       "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "ET",
+      "vuelo": "507",
+      "st": "15/02/2020 21:20",
+      "matricula": "ETAOU",
+      "posicion": "15",
+      "et": "",
+      "at": "15/2/2020 21:41",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "201",
+      "chkTo": "207",
+      "puerta": "20",
+      "ruta": "ADD",
+      "via": "GRU",
       "remark": "PAR",
       "sanidad": "NO"
     },
@@ -3138,25 +3119,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AM",
-      "vuelo": "029",
-      "st": "15/02/2020 23:55",
-      "matricula": "N438AM",
-      "posicion": "15",
-      "et": "",
-      "at": "16/2/2020 00:05",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "034",
-      "chkTo": "040",
-      "puerta": "20",
-      "ruta": "MEX",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "G3",
       "vuelo": "7671",
       "st": "15/02/2020 23:55",
@@ -3170,6 +3132,25 @@
       "chkTo": "074",
       "puerta": "12",
       "ruta": "FOR",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AM",
+      "vuelo": "029",
+      "st": "15/02/2020 23:55",
+      "matricula": "N438AM",
+      "posicion": "15",
+      "et": "",
+      "at": "16/2/2020 00:05",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "034",
+      "chkTo": "040",
+      "puerta": "20",
+      "ruta": "MEX",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -3532,7 +3513,7 @@
       "puerta": "07",
       "ruta": "PTY",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3608,7 +3589,7 @@
       "puerta": "19",
       "ruta": "SCL",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3646,7 +3627,7 @@
       "puerta": "26",
       "ruta": "SLA",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -4937,6 +4918,25 @@
       "chkTo": "053",
       "puerta": "",
       "ruta": "IGR",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AU",
+      "vuelo": "2232",
+      "st": "16/02/2020 17:40",
+      "matricula": "LVCHQ",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "POA",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
