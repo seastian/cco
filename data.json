@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/02/2020 03:25",
+  "lastUpdate": "16/02/2020 03:30",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1219,25 +1219,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "4M",
-      "vuelo": "7824",
-      "st": "15/02/2020 15:48",
-      "matricula": "CCCXD",
-      "posicion": "52",
-      "et": "15/2/2020 15:27",
-      "at": "15/2/2020 15:27",
-      "term": "A",
-      "sector": "",
-      "cinta": "4",
-      "lF": "001",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "220"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AJ",
       "vuelo": "507",
       "st": "15/02/2020 15:30",
@@ -1296,25 +1277,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "AR",
-      "vuelo": "1873",
-      "st": "15/02/2020 16:20",
-      "matricula": "LVCXT",
-      "posicion": "71",
-      "et": "15/2/2020 16:21",
-      "at": "15/2/2020 16:11",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "12",
-      "lF": "018",
-      "ruta": "BRC",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "142"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
       "vuelo": "1285",
       "st": "15/02/2020 16:20",
       "matricula": "LVFQY",
@@ -1330,6 +1292,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "126"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1873",
+      "st": "15/02/2020 16:20",
+      "matricula": "LVCXT",
+      "posicion": "71",
+      "et": "15/2/2020 16:21",
+      "at": "15/2/2020 16:11",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "12",
+      "lF": "018",
+      "ruta": "BRC",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "142"
     },
     {
       "tipo": "arribo",
