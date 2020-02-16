@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/02/2020 21:21",
+  "lastUpdate": "15/02/2020 21:26",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -231,6 +231,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1291",
+      "st": "15/02/2020 23:15",
+      "matricula": "LVCXT",
+      "posicion": "",
+      "et": "15/2/2020 22:40",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "73"
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "JJ",
       "vuelo": "8096",
       "st": "15/02/2020 22:50",
@@ -266,25 +285,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "108"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1291",
-      "st": "15/02/2020 23:15",
-      "matricula": "LVCXT",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -3589,7 +3589,7 @@
       "puerta": "12",
       "ruta": "SSA",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3722,7 +3722,7 @@
       "puerta": "04",
       "ruta": "MIA",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
