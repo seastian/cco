@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/02/2020 05:31",
+  "lastUpdate": "16/02/2020 05:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1330,25 +1330,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7668",
-      "st": "15/02/2020 17:35",
-      "matricula": "PRGTF",
-      "posicion": "50B",
-      "et": "15/2/2020 17:36",
-      "at": "15/2/2020 17:32",
-      "term": "A",
-      "sector": "",
-      "cinta": "5",
-      "lF": "005",
-      "ruta": "GIG",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "152"
     },
     {
       "tipo": "arribo",
@@ -3589,7 +3570,7 @@
       "puerta": "09",
       "ruta": "LIM",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3608,7 +3589,7 @@
       "puerta": "17",
       "ruta": "POA",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
