@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/02/2020 13:54",
+  "lastUpdate": "17/02/2020 13:59",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -140,7 +140,7 @@
       "vuelo": "30",
       "st": "17/02/2020 16:00",
       "matricula": "ZKOKB",
-      "posicion": "",
+      "posicion": "03",
       "et": "17/2/2020 15:21",
       "at": "",
       "term": "A",
@@ -1311,25 +1311,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "147"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "5X",
-      "vuelo": "416",
-      "st": "17/02/2020 02:19",
-      "matricula": "N358UP",
-      "posicion": "55",
-      "et": "17/2/2020 02:00",
-      "at": "17/2/2020 01:55",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "SCL",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -3988,7 +3969,7 @@
       "puerta": "26",
       "ruta": "USH",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4026,7 +4007,7 @@
       "puerta": "03",
       "ruta": "LHR",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
