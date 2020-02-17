@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/02/2020 06:22",
+  "lastUpdate": "17/02/2020 06:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1390,6 +1390,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "JJ",
+      "vuelo": "8092",
+      "st": "17/02/2020 18:25",
+      "matricula": "PRMHF",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "GIG",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "AOG",
       "vuelo": "101",
       "st": "16/02/2020 18:30",
@@ -2752,25 +2771,6 @@
       "chkTo": "081",
       "puerta": "01",
       "ruta": "VCP",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1290",
-      "st": "16/02/2020 18:15",
-      "matricula": "LVFRK",
-      "posicion": "22A",
-      "et": "",
-      "at": "16/2/2020 18:27",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "19",
-      "ruta": "SCL",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -4178,7 +4178,7 @@
       "puerta": "21",
       "ruta": "GRU",
       "via": "",
-      "remark": "PRE",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4197,7 +4197,7 @@
       "puerta": "24",
       "ruta": "TUC",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4216,7 +4216,7 @@
       "puerta": "25",
       "ruta": "MDZ",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4235,7 +4235,7 @@
       "puerta": "02",
       "ruta": "BOG",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
