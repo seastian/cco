@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/02/2020 13:17",
+  "lastUpdate": "17/02/2020 13:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -8,7 +8,7 @@
       "st": "17/02/2020 13:35",
       "matricula": "PRMBX",
       "posicion": "06",
-      "et": "17/2/2020 13:20",
+      "et": "17/2/2020 13:25",
       "at": "",
       "term": "A",
       "sector": "",
@@ -19,25 +19,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "171"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7688",
-      "st": "17/02/2020 13:30",
-      "matricula": "PRGUR",
-      "posicion": "07",
-      "et": "17/2/2020 13:20",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "3",
-      "lF": "005",
-      "ruta": "BSB",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "130"
     },
     {
       "tipo": "arribo",
@@ -177,9 +158,9 @@
       "aerolinea": "KL",
       "vuelo": "702",
       "st": "17/02/2020 14:40",
-      "matricula": "",
+      "matricula": "PHBHL",
       "posicion": "",
-      "et": "",
+      "et": "17/2/2020 14:44",
       "at": "",
       "term": "A",
       "sector": "",
@@ -187,7 +168,7 @@
       "lF": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -1770,25 +1751,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "LP",
-      "vuelo": "2467",
-      "st": "17/02/2020 06:35",
-      "matricula": "CCBJA",
-      "posicion": "06",
-      "et": "17/2/2020 07:00",
-      "at": "17/2/2020 07:01",
-      "term": "A",
-      "sector": "",
-      "cinta": "3",
-      "lF": "003",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "223"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "LH",
       "vuelo": "8264",
       "st": "17/02/2020 07:20",
@@ -1824,6 +1786,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "147"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LP",
+      "vuelo": "2467",
+      "st": "17/02/2020 06:35",
+      "matricula": "CCBJA",
+      "posicion": "06",
+      "et": "17/2/2020 07:00",
+      "at": "17/2/2020 07:01",
+      "term": "A",
+      "sector": "",
+      "cinta": "3",
+      "lF": "003",
+      "ruta": "LIM",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "223"
     },
     {
       "tipo": "arribo",
@@ -2071,25 +2052,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "172"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "H2",
-      "vuelo": "501",
-      "st": "17/02/2020 09:17",
-      "matricula": "CCAZI",
-      "posicion": "07",
-      "et": "17/2/2020 09:17",
-      "at": "17/2/2020 09:26",
-      "term": "A",
-      "sector": "",
-      "cinta": "2",
-      "lF": "002",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "157"
     },
     {
       "tipo": "arribo",
@@ -2546,6 +2508,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "171"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "G3",
+      "vuelo": "7688",
+      "st": "17/02/2020 13:30",
+      "matricula": "PRGUR",
+      "posicion": "07",
+      "et": "17/2/2020 13:20",
+      "at": "17/2/2020 13:20",
+      "term": "A",
+      "sector": "",
+      "cinta": "3",
+      "lF": "005",
+      "ruta": "BSB",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "130"
     },
     {
       "tipo": "partida",
@@ -3942,7 +3923,7 @@
       "matricula": "PRYRL",
       "posicion": "02",
       "et": "",
-      "at": "",
+      "at": "17/2/2020 13:18",
       "term": "A",
       "sector": "AP",
       "chkFrom": "075",
@@ -3950,7 +3931,7 @@
       "puerta": "01",
       "ruta": "VCP",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -4102,7 +4083,7 @@
       "puerta": "03",
       "ruta": "LHR",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -4395,7 +4376,7 @@
       "aerolinea": "KL",
       "vuelo": "702",
       "st": "17/02/2020 16:30",
-      "matricula": "",
+      "matricula": "PHBHL",
       "posicion": "",
       "et": "",
       "at": "",
