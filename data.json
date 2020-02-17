@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/02/2020 04:21",
+  "lastUpdate": "17/02/2020 04:26",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2055,25 +2055,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "FO",
-      "vuelo": "5951",
-      "st": "16/02/2020 21:55",
-      "matricula": "LVHKS",
-      "posicion": "70",
-      "et": "",
-      "at": "16/2/2020 22:43",
-      "term": "",
-      "sector": "",
-      "cinta": "7",
-      "lF": "008",
-      "ruta": "FLN",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "H2",
       "vuelo": "503",
       "st": "16/02/2020 21:57",
@@ -2131,25 +2112,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8120",
-      "st": "16/02/2020 22:20",
-      "matricula": "PRMHG",
-      "posicion": "53A",
-      "et": "16/2/2020 22:30",
-      "at": "16/2/2020 22:33",
-      "term": "A",
-      "sector": "",
-      "cinta": "2",
-      "lF": "002",
-      "ruta": "REC",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "167"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "CU",
       "vuelo": "360",
       "st": "16/02/2020 22:30",
@@ -2166,6 +2128,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "195"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "JJ",
+      "vuelo": "8120",
+      "st": "16/02/2020 22:20",
+      "matricula": "PRMHG",
+      "posicion": "53A",
+      "et": "16/2/2020 22:30",
+      "at": "16/2/2020 22:33",
+      "term": "A",
+      "sector": "",
+      "cinta": "2",
+      "lF": "002",
+      "ruta": "REC",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "167"
     },
     {
       "tipo": "arribo",
@@ -4159,7 +4140,7 @@
       "puerta": "02",
       "ruta": "VVI",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4207,7 +4188,7 @@
       "st": "17/02/2020 05:05",
       "matricula": "PRVBK",
       "posicion": "08",
-      "et": "",
+      "et": "17/2/2020 05:05",
       "at": "",
       "term": "A",
       "sector": "AP",
@@ -4216,7 +4197,7 @@
       "puerta": "07",
       "ruta": "FLN",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
