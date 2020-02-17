@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/02/2020 05:09",
+  "lastUpdate": "17/02/2020 05:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -196,9 +196,9 @@
       "aerolinea": "AM",
       "vuelo": "028",
       "st": "17/02/2020 07:10",
-      "matricula": "",
+      "matricula": "N438AM",
       "posicion": "",
-      "et": "",
+      "et": "17/2/2020 07:08",
       "at": "",
       "term": "A",
       "sector": "",
@@ -206,9 +206,9 @@
       "lF": "",
       "ruta": "MEX",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "265"
     },
     {
       "tipo": "arribo",
@@ -3537,25 +3537,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "EK",
-      "vuelo": "248",
-      "st": "16/02/2020 22:20",
-      "matricula": "A6EGC",
-      "posicion": "04",
-      "et": "16/2/2020 23:45",
-      "at": "17/2/2020 00:16",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "027",
-      "chkTo": "035",
-      "puerta": "03",
-      "ruta": "DXB",
-      "via": "GIG",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "JJ",
       "vuelo": "8121",
       "st": "16/02/2020 23:20",
@@ -4075,7 +4056,7 @@
       "matricula": "PRVBK",
       "posicion": "08",
       "et": "17/2/2020 05:05",
-      "at": "",
+      "at": "17/2/2020 05:13",
       "term": "A",
       "sector": "AP",
       "chkFrom": "068",
@@ -4083,7 +4064,7 @@
       "puerta": "07",
       "ruta": "FLN",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -4121,7 +4102,7 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "EST",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4140,7 +4121,7 @@
       "puerta": "05",
       "ruta": "PTY",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4273,7 +4254,7 @@
       "puerta": "09",
       "ruta": "LIM",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4737,7 +4718,7 @@
       "aerolinea": "AM",
       "vuelo": "031",
       "st": "17/02/2020 09:10",
-      "matricula": "",
+      "matricula": "N438AM",
       "posicion": "",
       "et": "",
       "at": "",
