@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/02/2020 08:39",
+  "lastUpdate": "17/02/2020 08:45",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -50,7 +50,7 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
+      "cinta": "5",
       "lF": "",
       "ruta": "LGW",
       "via": "",
@@ -107,7 +107,7 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "5",
+      "cinta": "",
       "lF": "",
       "ruta": "GRU",
       "via": "",
@@ -1410,6 +1410,25 @@
     {
       "tipo": "arribo",
       "aerolinea": "AU",
+      "vuelo": "2463",
+      "st": "17/02/2020 20:45",
+      "matricula": "LVGIQ",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MDZ",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AU",
       "vuelo": "2739",
       "st": "16/02/2020 20:25",
       "matricula": "LVCIF",
@@ -1425,25 +1444,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "85"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "ZP",
-      "vuelo": "818",
-      "st": "16/02/2020 20:40",
-      "matricula": "ZPCRR",
-      "posicion": "50A",
-      "et": "16/2/2020 20:33",
-      "at": "16/2/2020 20:45",
-      "term": "A",
-      "sector": "",
-      "cinta": "2",
-      "lF": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "25"
     },
     {
       "tipo": "arribo",
@@ -2131,25 +2131,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1369",
-      "st": "16/02/2020 23:20",
-      "matricula": "LVGKS",
-      "posicion": "14A",
-      "et": "17/2/2020 01:50",
-      "at": "17/2/2020 02:01",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "007",
-      "ruta": "VVI",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "147"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "G3",
       "vuelo": "7690",
       "st": "17/02/2020 01:50",
@@ -2166,6 +2147,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1369",
+      "st": "16/02/2020 23:20",
+      "matricula": "LVGKS",
+      "posicion": "14A",
+      "et": "17/2/2020 01:50",
+      "at": "17/2/2020 02:01",
+      "term": "A",
+      "sector": "",
+      "cinta": "7",
+      "lF": "007",
+      "ruta": "VVI",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "147"
     },
     {
       "tipo": "arribo",
@@ -2568,25 +2568,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "CM",
-      "vuelo": "454",
-      "st": "17/02/2020 07:06",
-      "matricula": "HP1825",
-      "posicion": "50A",
-      "et": "17/2/2020 07:00",
-      "at": "17/2/2020 06:56",
-      "term": "A",
-      "sector": "",
-      "cinta": "6",
-      "lF": "006",
-      "ruta": "PTY",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "147"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "LH",
       "vuelo": "8264",
       "st": "17/02/2020 07:20",
@@ -2603,6 +2584,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "CM",
+      "vuelo": "454",
+      "st": "17/02/2020 07:06",
+      "matricula": "HP1825",
+      "posicion": "50A",
+      "et": "17/2/2020 07:00",
+      "at": "17/2/2020 06:56",
+      "term": "A",
+      "sector": "",
+      "cinta": "6",
+      "lF": "006",
+      "ruta": "PTY",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "147"
     },
     {
       "tipo": "arribo",
@@ -4273,7 +4273,7 @@
       "puerta": "24",
       "ruta": "CRD",
       "via": "MDQ",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4311,7 +4311,7 @@
       "puerta": "18",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
