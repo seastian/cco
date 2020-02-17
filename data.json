@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/02/2020 14:52",
+  "lastUpdate": "17/02/2020 14:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -197,7 +197,7 @@
       "vuelo": "1285",
       "st": "17/02/2020 16:20",
       "matricula": "LVFUC",
-      "posicion": "",
+      "posicion": "16B",
       "et": "",
       "at": "",
       "term": "A",
@@ -3923,7 +3923,7 @@
       "matricula": "FGSPV",
       "posicion": "16",
       "et": "",
-      "at": "",
+      "at": "17/2/2020 14:55",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "211",
@@ -3931,7 +3931,7 @@
       "puerta": "22",
       "ruta": "CDG",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -4026,7 +4026,7 @@
       "puerta": "01",
       "ruta": "SCL",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4045,7 +4045,7 @@
       "puerta": "04",
       "ruta": "VVI",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4064,7 +4064,7 @@
       "puerta": "18",
       "ruta": "GRU",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
