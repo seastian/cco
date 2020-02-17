@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/02/2020 19:33",
+  "lastUpdate": "17/02/2020 19:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -4344,7 +4344,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "215",
+      "chkFrom": "213",
       "chkTo": "240",
       "puerta": "22",
       "ruta": "MIA",
