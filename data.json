@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/02/2020 02:51",
+  "lastUpdate": "17/02/2020 02:56",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -107,8 +107,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "3",
+      "lF": "003",
       "ruta": "LIM",
       "via": "",
       "remark": "EST",
@@ -4178,7 +4178,7 @@
       "puerta": "01",
       "ruta": "GIG",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
