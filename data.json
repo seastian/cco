@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/02/2020 18:20",
+  "lastUpdate": "17/02/2020 18:25",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -4007,7 +4007,7 @@
       "puerta": "18",
       "ruta": "SCL",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4025,25 +4025,6 @@
       "chkTo": "240",
       "puerta": "13",
       "ruta": "GIG",
-      "via": "",
-      "remark": "BOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LH",
-      "vuelo": "511",
-      "st": "17/02/2020 18:05",
-      "matricula": "DABYU",
-      "posicion": "09",
-      "et": "17/2/2020 18:30",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "032",
-      "chkTo": "040",
-      "puerta": "08",
-      "ruta": "FRA",
       "via": "",
       "remark": "ULT",
       "sanidad": "NO"
@@ -4065,6 +4046,25 @@
       "ruta": "POA",
       "via": "",
       "remark": "CER",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LH",
+      "vuelo": "511",
+      "st": "17/02/2020 18:05",
+      "matricula": "DABYU",
+      "posicion": "09",
+      "et": "17/2/2020 18:45",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "032",
+      "chkTo": "040",
+      "puerta": "08",
+      "ruta": "FRA",
+      "via": "",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4440,7 +4440,7 @@
       "term": "A",
       "sector": "AP",
       "chkFrom": "027",
-      "chkTo": "034",
+      "chkTo": "035",
       "puerta": "",
       "ruta": "DXB",
       "via": "GIG",
