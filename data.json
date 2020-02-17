@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/02/2020 20:15",
+  "lastUpdate": "17/02/2020 20:20",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -19,25 +19,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "94"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "ZP",
-      "vuelo": "818",
-      "st": "17/02/2020 20:40",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -95,6 +76,25 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "85"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "ZP",
+      "vuelo": "818",
+      "st": "17/02/2020 20:40",
+      "matricula": "ZPCRS",
+      "posicion": "",
+      "et": "17/2/2020 21:05",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": "28"
     },
     {
       "tipo": "arribo",
@@ -1064,6 +1064,25 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "IB",
+      "vuelo": "6841",
+      "st": "18/02/2020 08:35",
+      "matricula": "ECNGT",
+      "posicion": "",
+      "et": "18/2/2020 08:20",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MAD",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "348"
     },
     {
       "tipo": "arribo",
@@ -2441,14 +2460,14 @@
       "matricula": "A6ECW",
       "posicion": "05",
       "et": "17/2/2020 20:09",
-      "at": "",
+      "at": "17/2/2020 20:16",
       "term": "A",
       "sector": "",
       "cinta": "1",
       "lF": "001",
       "ruta": "DXB",
       "via": "GIG",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "337"
     },
@@ -3828,7 +3847,7 @@
       "matricula": "LVFRK",
       "posicion": "22A",
       "et": "",
-      "at": "",
+      "at": "17/2/2020 20:20",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3836,7 +3855,7 @@
       "puerta": "19",
       "ruta": "GRU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -4072,7 +4091,7 @@
       "aerolinea": "ZP",
       "vuelo": "819",
       "st": "17/02/2020 21:50",
-      "matricula": "",
+      "matricula": "ZPCRS",
       "posicion": "",
       "et": "",
       "at": "",
@@ -4453,7 +4472,7 @@
       "vuelo": "9281",
       "st": "18/02/2020 00:40",
       "matricula": "PRGUR",
-      "posicion": "",
+      "posicion": "50A",
       "et": "",
       "at": "",
       "term": "A",
