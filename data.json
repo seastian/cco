@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/02/2020 03:24",
+  "lastUpdate": "18/02/2020 03:30",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1273,25 +1273,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1529",
-      "st": "17/02/2020 15:35",
-      "matricula": "LVFQZ",
-      "posicion": "12",
-      "et": "17/2/2020 15:29",
-      "at": "17/2/2020 15:30",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "11",
-      "lF": "017",
-      "ruta": "COR",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "120"
     },
     {
       "tipo": "arribo",
@@ -3847,7 +3828,7 @@
       "matricula": "LVGVB",
       "posicion": "16B",
       "et": "",
-      "at": "",
+      "at": "18/2/2020 03:27",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3855,7 +3836,7 @@
       "puerta": "23",
       "ruta": "PUJ",
       "via": "RES",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3917,6 +3898,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1896",
+      "st": "18/02/2020 04:00",
+      "matricula": "LVGFQ",
+      "posicion": "17A",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "24",
+      "ruta": "USH",
+      "via": "",
+      "remark": "BOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "AOG",
       "vuelo": "500",
       "st": "18/02/2020 04:00",
@@ -3951,25 +3951,6 @@
       "ruta": "MVD",
       "via": "",
       "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1896",
-      "st": "18/02/2020 04:00",
-      "matricula": "LVGFQ",
-      "posicion": "17A",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "24",
-      "ruta": "USH",
-      "via": "",
-      "remark": "PRE",
       "sanidad": "NO"
     },
     {
