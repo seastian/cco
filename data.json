@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/02/2020 07:41",
+  "lastUpdate": "18/02/2020 07:46",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -322,7 +322,7 @@
       "via": "",
       "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "100"
     },
     {
       "tipo": "arribo",
@@ -2033,25 +2033,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "154"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1102",
-      "st": "18/02/2020 00:15",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -4339,14 +4320,14 @@
       "vuelo": "502",
       "st": "18/02/2020 09:52",
       "matricula": "CCAZI",
-      "posicion": "",
+      "posicion": "08",
       "et": "",
       "at": "",
       "term": "A",
       "sector": "AP",
       "chkFrom": "079",
       "chkTo": "081",
-      "puerta": "",
+      "puerta": "07",
       "ruta": "SCL",
       "via": "",
       "remark": "HOR",
@@ -4563,25 +4544,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "JJ",
-      "vuelo": "8009",
-      "st": "18/02/2020 12:25",
-      "matricula": "PTMXO",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AU",
       "vuelo": "2392",
       "st": "18/02/2020 12:25",
@@ -4614,6 +4576,25 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "BRC",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "JJ",
+      "vuelo": "8009",
+      "st": "18/02/2020 12:25",
+      "matricula": "PTMXO",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "GRU",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
