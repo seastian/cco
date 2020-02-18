@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/02/2020 05:09",
+  "lastUpdate": "18/02/2020 05:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1353,25 +1353,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "AR",
-      "vuelo": "1285",
-      "st": "17/02/2020 16:20",
-      "matricula": "LVFUC",
-      "posicion": "16B",
-      "et": "",
-      "at": "17/2/2020 17:11",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "007",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
       "vuelo": "1991",
       "st": "17/02/2020 16:50",
       "matricula": "LVGUB",
@@ -1428,25 +1409,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "OFT",
-      "st": "17/02/2020 18:00",
-      "matricula": "LVOFT",
-      "posicion": "40",
-      "et": "",
-      "at": "17/2/2020 17:20",
-      "term": "FBO",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "RLA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "2"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "4M",
       "vuelo": "7505",
       "st": "17/02/2020 17:52",
@@ -1463,6 +1425,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "135"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "OFT",
+      "st": "17/02/2020 18:00",
+      "matricula": "LVOFT",
+      "posicion": "40",
+      "et": "",
+      "at": "17/2/2020 17:20",
+      "term": "FBO",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "RLA",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "2"
     },
     {
       "tipo": "arribo",
@@ -4007,26 +3988,7 @@
       "puerta": "06",
       "ruta": "PTY",
       "via": "",
-      "remark": "ULT",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "QR",
-      "vuelo": "8157",
-      "st": "18/02/2020 05:30",
-      "matricula": "A7BFC",
-      "posicion": "55",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "UIO",
-      "via": "UIO",
-      "remark": "HOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4045,6 +4007,25 @@
       "puerta": "",
       "ruta": "UIO",
       "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "QR",
+      "vuelo": "8157",
+      "st": "18/02/2020 05:30",
+      "matricula": "A7BFC",
+      "posicion": "55",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "UIO",
+      "via": "UIO",
       "remark": "HOR",
       "sanidad": "NO"
     },
@@ -4140,7 +4121,7 @@
       "puerta": "17",
       "ruta": "POA",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
