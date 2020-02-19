@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/02/2020 03:38",
+  "lastUpdate": "19/02/2020 03:43",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1846,25 +1846,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AU",
-      "vuelo": "2465",
-      "st": "18/02/2020 21:25",
-      "matricula": "LVCPK",
-      "posicion": "24B",
-      "et": "18/2/2020 21:00",
-      "at": "18/2/2020 20:57",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "11",
-      "lF": "017",
-      "ruta": "TUC",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "94"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1287",
       "st": "18/02/2020 21:15",
@@ -1881,6 +1862,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "91"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AU",
+      "vuelo": "2465",
+      "st": "18/02/2020 21:25",
+      "matricula": "LVCPK",
+      "posicion": "24B",
+      "et": "18/2/2020 21:00",
+      "at": "18/2/2020 20:57",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "11",
+      "lF": "017",
+      "ruta": "TUC",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "94"
     },
     {
       "tipo": "arribo",
@@ -1903,25 +1903,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AU",
-      "vuelo": "2233",
-      "st": "18/02/2020 21:50",
-      "matricula": "LVCDZ",
-      "posicion": "25A",
-      "et": "18/2/2020 21:25",
-      "at": "18/2/2020 21:35",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "008",
-      "ruta": "POA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "50"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "G3",
       "vuelo": "7650",
       "st": "18/02/2020 21:15",
@@ -1938,6 +1919,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "150"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AU",
+      "vuelo": "2233",
+      "st": "18/02/2020 21:50",
+      "matricula": "LVCDZ",
+      "posicion": "25A",
+      "et": "18/2/2020 21:25",
+      "at": "18/2/2020 21:35",
+      "term": "A",
+      "sector": "",
+      "cinta": "7",
+      "lF": "008",
+      "ruta": "POA",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "50"
     },
     {
       "tipo": "arribo",
@@ -2036,25 +2036,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AV",
-      "vuelo": "217",
-      "st": "18/02/2020 22:20",
-      "matricula": "N818AV",
-      "posicion": "02",
-      "et": "18/2/2020 22:00",
-      "at": "18/2/2020 22:11",
-      "term": "A",
-      "sector": "",
-      "cinta": "4",
-      "lF": "004",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "148"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AMS",
       "vuelo": "8119",
       "st": "18/02/2020 22:00",
@@ -2071,6 +2052,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AV",
+      "vuelo": "217",
+      "st": "18/02/2020 22:20",
+      "matricula": "N818AV",
+      "posicion": "02",
+      "et": "18/2/2020 22:00",
+      "at": "18/2/2020 22:11",
+      "term": "A",
+      "sector": "",
+      "cinta": "4",
+      "lF": "004",
+      "ruta": "BOG",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "148"
     },
     {
       "tipo": "arribo",
@@ -2356,6 +2356,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "205"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "CM",
+      "vuelo": "363",
+      "st": "19/02/2020 04:08",
+      "matricula": "HP1729",
+      "posicion": "06",
+      "et": "19/2/2020 03:44",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "7",
+      "lF": "003",
+      "ruta": "PTY",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "138"
     },
     {
       "tipo": "partida",
@@ -3353,7 +3372,7 @@
       "matricula": "PRYRA",
       "posicion": "09",
       "et": "",
-      "at": "",
+      "at": "19/2/2020 03:33",
       "term": "A",
       "sector": "AP",
       "chkFrom": "075",
@@ -3361,7 +3380,7 @@
       "puerta": "09",
       "ruta": "CNF",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3372,7 +3391,7 @@
       "matricula": "LVGVC",
       "posicion": "12",
       "et": "",
-      "at": "",
+      "at": "19/2/2020 03:22",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3380,7 +3399,7 @@
       "puerta": "16",
       "ruta": "PUJ",
       "via": "RES",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3494,7 +3513,7 @@
       "puerta": "03",
       "ruta": "BSB",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
