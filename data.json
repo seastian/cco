@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/02/2020 05:18",
+  "lastUpdate": "19/02/2020 05:23",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -246,7 +246,7 @@
       "via": "",
       "remark": "EST",
       "sanidad": "NO",
-      "pax": "260"
+      "pax": "216"
     },
     {
       "tipo": "arribo",
@@ -2308,14 +2308,14 @@
       "matricula": "LVGKP",
       "posicion": "15",
       "et": "19/2/2020 05:07",
-      "at": "",
+      "at": "19/2/2020 05:19",
       "term": "A",
       "sector": "",
       "cinta": "9",
       "lF": "010",
       "ruta": "MAD",
       "via": "",
-      "remark": "DEM",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "240"
     },
@@ -3361,7 +3361,7 @@
       "puerta": "02",
       "ruta": "CCS",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3399,7 +3399,7 @@
       "puerta": "21",
       "ruta": "POA",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3418,7 +3418,7 @@
       "puerta": "10",
       "ruta": "LIM",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
