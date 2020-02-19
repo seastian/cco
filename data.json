@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/02/2020 16:30",
+  "lastUpdate": "19/02/2020 16:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -25,7 +25,7 @@
       "aerolinea": "LA",
       "vuelo": "445",
       "st": "19/02/2020 17:00",
-      "matricula": "CCBBC",
+      "matricula": "CCBGJ",
       "posicion": "04",
       "et": "19/2/2020 16:50",
       "at": "",
@@ -179,7 +179,7 @@
       "st": "19/02/2020 19:07",
       "matricula": "CCBAB",
       "posicion": "",
-      "et": "",
+      "et": "19/2/2020 19:09",
       "at": "",
       "term": "A",
       "sector": "",
@@ -187,9 +187,9 @@
       "lF": "",
       "ruta": "LIM",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "147"
     },
     {
       "tipo": "arribo",
@@ -3714,7 +3714,7 @@
       "matricula": "PRMAG",
       "posicion": "04",
       "et": "",
-      "at": "",
+      "at": "19/2/2020 16:35",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3722,7 +3722,7 @@
       "puerta": "03",
       "ruta": "GRU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3760,7 +3760,7 @@
       "puerta": "13",
       "ruta": "VVI",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3798,7 +3798,7 @@
       "puerta": "10",
       "ruta": "YYZ",
       "via": "SCL",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3855,7 +3855,7 @@
       "puerta": "19",
       "ruta": "ASU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4015,7 +4015,7 @@
       "aerolinea": "LA",
       "vuelo": "532",
       "st": "19/02/2020 18:35",
-      "matricula": "CCBBC",
+      "matricula": "CCBGJ",
       "posicion": "04",
       "et": "",
       "at": "",
