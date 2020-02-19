@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/02/2020 07:08",
+  "lastUpdate": "19/02/2020 07:13",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1295,25 +1295,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "443",
-      "st": "18/02/2020 19:12",
-      "matricula": "CCBEA",
-      "posicion": "02",
-      "et": "18/2/2020 19:00",
-      "at": "18/2/2020 19:11",
-      "term": "A",
-      "sector": "",
-      "cinta": "1",
-      "lF": "002",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "148"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1273",
       "st": "18/02/2020 19:40",
@@ -1466,25 +1447,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1287",
-      "st": "18/02/2020 21:15",
-      "matricula": "LVFQZ",
-      "posicion": "70",
-      "et": "18/2/2020 21:00",
-      "at": "18/2/2020 20:47",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "007",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "91"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AU",
       "vuelo": "2465",
       "st": "18/02/2020 21:25",
@@ -1501,6 +1463,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "94"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1287",
+      "st": "18/02/2020 21:15",
+      "matricula": "LVFQZ",
+      "posicion": "70",
+      "et": "18/2/2020 21:00",
+      "at": "18/2/2020 20:47",
+      "term": "A",
+      "sector": "",
+      "cinta": "7",
+      "lF": "007",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "91"
     },
     {
       "tipo": "arribo",
@@ -1523,25 +1504,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AU",
-      "vuelo": "2233",
-      "st": "18/02/2020 21:50",
-      "matricula": "LVCDZ",
-      "posicion": "25A",
-      "et": "18/2/2020 21:25",
-      "at": "18/2/2020 21:35",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "008",
-      "ruta": "POA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "50"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "G3",
       "vuelo": "7650",
       "st": "18/02/2020 21:15",
@@ -1558,6 +1520,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "150"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AU",
+      "vuelo": "2233",
+      "st": "18/02/2020 21:50",
+      "matricula": "LVCDZ",
+      "posicion": "25A",
+      "et": "18/2/2020 21:25",
+      "at": "18/2/2020 21:35",
+      "term": "A",
+      "sector": "",
+      "cinta": "7",
+      "lF": "008",
+      "ruta": "POA",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "50"
     },
     {
       "tipo": "arribo",
@@ -2251,14 +2232,14 @@
       "matricula": "PHBHO",
       "posicion": "11",
       "et": "19/2/2020 06:59",
-      "at": "",
+      "at": "19/2/2020 07:09",
       "term": "A",
       "sector": "",
       "cinta": "8",
       "lF": "010",
       "ruta": "AMS",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "283"
     },
@@ -3448,7 +3429,7 @@
       "matricula": "PRTYV",
       "posicion": "02",
       "et": "",
-      "at": "",
+      "at": "19/2/2020 07:13",
       "term": "A",
       "sector": "AP",
       "chkFrom": "040",
@@ -3456,7 +3437,7 @@
       "puerta": "01",
       "ruta": "SCL",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3532,7 +3513,7 @@
       "puerta": "05",
       "ruta": "LIM",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3589,7 +3570,7 @@
       "puerta": "27",
       "ruta": "COR",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
