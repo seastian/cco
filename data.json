@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/02/2020 01:53",
+  "lastUpdate": "19/02/2020 01:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1155,6 +1155,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "GRU",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1223",
+      "st": "19/02/2020 13:55",
+      "matricula": "LVGFQ",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "BPS",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -3437,7 +3456,7 @@
       "puerta": "07",
       "ruta": "GIG",
       "via": "",
-      "remark": "HOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
