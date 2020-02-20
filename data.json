@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/02/2020 02:58",
+  "lastUpdate": "20/02/2020 03:03",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3589,7 +3589,7 @@
       "puerta": "16",
       "ruta": "PUJ",
       "via": "RES",
-      "remark": "PRE",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4791,6 +4791,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1272",
+      "st": "20/02/2020 14:45",
+      "matricula": "LVFRQ",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "FLN",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "LH",
       "vuelo": "8265",
       "st": "20/02/2020 14:45",
@@ -4811,9 +4830,9 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1272",
-      "st": "20/02/2020 14:45",
-      "matricula": "LVFRQ",
+      "vuelo": "1250",
+      "st": "20/02/2020 15:05",
+      "matricula": "LVFYK",
       "posicion": "",
       "et": "",
       "at": "",
@@ -4822,7 +4841,7 @@
       "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
-      "ruta": "FLN",
+      "ruta": "GIG",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
