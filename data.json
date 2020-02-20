@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/02/2020 11:30",
+  "lastUpdate": "20/02/2020 11:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1257,25 +1257,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "M3",
-      "vuelo": "8492",
-      "st": "19/02/2020 23:45",
-      "matricula": "CCCZZ",
-      "posicion": "55",
-      "et": "19/2/2020 23:44",
-      "at": "19/2/2020 23:33",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "JJ",
       "vuelo": "8010",
       "st": "19/02/2020 23:55",
@@ -1561,25 +1542,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "102",
-      "st": "20/02/2020 05:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AV",
       "vuelo": "087",
       "st": "20/02/2020 05:30",
@@ -1596,6 +1558,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "258"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AOG",
+      "vuelo": "102",
+      "st": "20/02/2020 05:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -2017,25 +1998,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1257",
-      "st": "20/02/2020 09:50",
-      "matricula": "LVFVO",
-      "posicion": "72",
-      "et": "20/2/2020 09:26",
-      "at": "20/2/2020 09:35",
-      "term": "A",
-      "sector": "",
-      "cinta": "6",
-      "lF": "007",
-      "ruta": "GIG",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "G3",
       "vuelo": "7680",
       "st": "20/02/2020 09:30",
@@ -2052,6 +2014,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "157"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1257",
+      "st": "20/02/2020 09:50",
+      "matricula": "LVFVO",
+      "posicion": "72",
+      "et": "20/2/2020 09:26",
+      "at": "20/2/2020 09:35",
+      "term": "A",
+      "sector": "",
+      "cinta": "6",
+      "lF": "007",
+      "ruta": "GIG",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -2312,7 +2293,7 @@
       "term": "A",
       "sector": "",
       "cinta": "9",
-      "lF": "010",
+      "lF": "009",
       "ruta": "BCN",
       "via": "",
       "remark": "ATE",
@@ -2331,7 +2312,7 @@
       "term": "A",
       "sector": "",
       "cinta": "8",
-      "lF": "009",
+      "lF": "010",
       "ruta": "IAH",
       "via": "",
       "remark": "ATE",
@@ -3456,7 +3437,7 @@
       "puerta": "",
       "ruta": "AEP",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3532,7 +3513,7 @@
       "puerta": "05",
       "ruta": "PTY",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3551,7 +3532,7 @@
       "puerta": "07",
       "ruta": "SCL",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3570,7 +3551,7 @@
       "puerta": "24",
       "ruta": "COR",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3681,7 +3662,7 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "26",
+      "puerta": "27",
       "ruta": "BRC",
       "via": "",
       "remark": "HOR",
