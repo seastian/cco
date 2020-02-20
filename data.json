@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/02/2020 16:28",
+  "lastUpdate": "20/02/2020 16:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2327,14 +2327,14 @@
       "matricula": "LVGKT",
       "posicion": "14A",
       "et": "20/2/2020 16:28",
-      "at": "",
+      "at": "20/2/2020 16:32",
       "term": "C",
       "sector": "CAC",
       "cinta": "11",
       "lF": "017",
       "ruta": "USH",
       "via": "FTE",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "135"
     },
@@ -3600,7 +3600,7 @@
       "matricula": "CP2881",
       "posicion": "05",
       "et": "",
-      "at": "",
+      "at": "20/2/2020 16:20",
       "term": "A",
       "sector": "AP",
       "chkFrom": "013",
@@ -3608,7 +3608,7 @@
       "puerta": "04",
       "ruta": "VVI",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3638,7 +3638,7 @@
       "matricula": "PRGGJ",
       "posicion": "02",
       "et": "",
-      "at": "",
+      "at": "20/2/2020 16:15",
       "term": "A",
       "sector": "AP",
       "chkFrom": "068",
@@ -3646,7 +3646,26 @@
       "puerta": "01",
       "ruta": "GRU",
       "via": "",
-      "remark": "ULT",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1368",
+      "st": "20/02/2020 16:30",
+      "matricula": "LVCBT",
+      "posicion": "51A",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "19",
+      "ruta": "VVI",
+      "via": "",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3666,25 +3685,6 @@
       "ruta": "AMS",
       "via": "",
       "remark": "CER",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1368",
-      "st": "20/02/2020 16:30",
-      "matricula": "LVCBT",
-      "posicion": "51A",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "19",
-      "ruta": "VVI",
-      "via": "",
-      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3722,7 +3722,7 @@
       "puerta": "23",
       "ruta": "BOG",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
