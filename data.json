@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/02/2020 17:13",
+  "lastUpdate": "20/02/2020 17:18",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3657,7 +3657,7 @@
       "matricula": "LVCBT",
       "posicion": "51A",
       "et": "",
-      "at": "",
+      "at": "20/2/2020 17:16",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3665,7 +3665,7 @@
       "puerta": "19",
       "ruta": "VVI",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3779,7 +3779,7 @@
       "puerta": "01",
       "ruta": "VCP",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
