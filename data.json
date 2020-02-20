@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/02/2020 13:40",
+  "lastUpdate": "20/02/2020 13:45",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3570,7 +3570,7 @@
       "puerta": "18",
       "ruta": "CDG",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3719,7 +3719,7 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "13",
       "ruta": "GRU",
       "via": "",
       "remark": "HOR",
@@ -3814,7 +3814,7 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "19",
       "ruta": "VVI",
       "via": "",
       "remark": "HOR",
