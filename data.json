@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/02/2020 06:28",
+  "lastUpdate": "20/02/2020 06:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -121,7 +121,7 @@
       "vuelo": "991",
       "st": "20/02/2020 08:35",
       "matricula": "N830AN",
-      "posicion": "",
+      "posicion": "11",
       "et": "20/2/2020 07:10",
       "at": "",
       "term": "A",
@@ -140,7 +140,7 @@
       "vuelo": "820",
       "st": "20/02/2020 07:00",
       "matricula": "ZPCRR",
-      "posicion": "",
+      "posicion": "51A",
       "et": "20/2/2020 07:40",
       "at": "",
       "term": "A",
@@ -3448,7 +3448,7 @@
       "matricula": "LVGVA",
       "posicion": "70",
       "et": "",
-      "at": "",
+      "at": "20/2/2020 06:31",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3456,7 +3456,7 @@
       "puerta": "17",
       "ruta": "SCL",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3551,7 +3551,7 @@
       "puerta": "27",
       "ruta": "MDZ",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3589,7 +3589,7 @@
       "puerta": "01",
       "ruta": "SCL",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3608,7 +3608,7 @@
       "puerta": "02",
       "ruta": "BOG",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3788,7 +3788,7 @@
       "vuelo": "821",
       "st": "20/02/2020 08:00",
       "matricula": "ZPCRR",
-      "posicion": "",
+      "posicion": "51A",
       "et": "20/2/2020 08:40",
       "at": "",
       "term": "A",
@@ -4012,25 +4012,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "LA",
-      "vuelo": "456",
-      "st": "20/02/2020 11:38",
-      "matricula": "PRTYP",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "CM",
       "vuelo": "278",
       "st": "20/02/2020 11:38",
@@ -4044,6 +4025,25 @@
       "chkTo": "018",
       "puerta": "",
       "ruta": "PTY",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LA",
+      "vuelo": "456",
+      "st": "20/02/2020 11:38",
+      "matricula": "PRTYP",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "SCL",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
