@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/02/2020 05:09",
+  "lastUpdate": "20/02/2020 05:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3486,7 +3486,7 @@
       "matricula": "LVGUB",
       "posicion": "71",
       "et": "",
-      "at": "",
+      "at": "20/2/2020 05:12",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3494,7 +3494,7 @@
       "puerta": "17",
       "ruta": "SSA",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3608,7 +3608,7 @@
       "puerta": "04",
       "ruta": "LIM",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3627,7 +3627,7 @@
       "puerta": "19",
       "ruta": "POA",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -4222,9 +4222,9 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1524",
+      "vuelo": "1412",
       "st": "20/02/2020 12:00",
-      "matricula": "LVCAP",
+      "matricula": "LVGVA",
       "posicion": "",
       "et": "",
       "at": "",
@@ -4233,7 +4233,7 @@
       "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
-      "ruta": "COR",
+      "ruta": "MDZ",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -4259,10 +4259,10 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
+      "aerolinea": "AU",
       "vuelo": "1412",
       "st": "20/02/2020 12:00",
-      "matricula": "LVGVA",
+      "matricula": "",
       "posicion": "",
       "et": "",
       "at": "",
