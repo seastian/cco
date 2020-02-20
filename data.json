@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/02/2020 20:01",
+  "lastUpdate": "20/02/2020 20:06",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -57,25 +57,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "83"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "ZP",
-      "vuelo": "818",
-      "st": "20/02/2020 20:40",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -171,6 +152,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "ZP",
+      "vuelo": "818",
+      "st": "20/02/2020 20:40",
+      "matricula": "ZPCRS",
+      "posicion": "",
+      "et": "20/2/2020 21:24",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": "49"
     },
     {
       "tipo": "arribo",
@@ -1048,25 +1048,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "UX",
-      "vuelo": "041",
-      "st": "20/02/2020 08:50",
-      "matricula": "ECNCY",
-      "posicion": "03",
-      "et": "20/2/2020 08:04",
-      "at": "20/2/2020 08:04",
-      "term": "A",
-      "sector": "",
-      "cinta": "6",
-      "lF": "007",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "301"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "LH",
       "vuelo": "510",
       "st": "20/02/2020 08:00",
@@ -1162,25 +1143,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "BA",
-      "vuelo": "245",
-      "st": "20/02/2020 09:10",
-      "matricula": "GYMMA",
-      "posicion": "10",
-      "et": "20/2/2020 09:00",
-      "at": "20/2/2020 09:04",
-      "term": "A",
-      "sector": "",
-      "cinta": "5",
-      "lF": "005",
-      "ruta": "LHR",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "272"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "WK",
       "vuelo": "090",
       "st": "20/02/2020 09:00",
@@ -1197,6 +1159,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "296"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "BA",
+      "vuelo": "245",
+      "st": "20/02/2020 09:10",
+      "matricula": "GYMMA",
+      "posicion": "10",
+      "et": "20/2/2020 09:00",
+      "at": "20/2/2020 09:04",
+      "term": "A",
+      "sector": "",
+      "cinta": "5",
+      "lF": "005",
+      "ruta": "LHR",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "272"
     },
     {
       "tipo": "arribo",
@@ -3703,7 +3684,7 @@
       "puerta": "20",
       "ruta": "ATL",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3787,7 +3768,7 @@
       "aerolinea": "ZP",
       "vuelo": "819",
       "st": "20/02/2020 21:50",
-      "matricula": "",
+      "matricula": "ZPCRS",
       "posicion": "",
       "et": "",
       "at": "",
