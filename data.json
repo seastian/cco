@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/02/2020 23:27",
+  "lastUpdate": "20/02/2020 23:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3779,7 +3779,7 @@
       "puerta": "01",
       "ruta": "ASU",
       "via": "",
-      "remark": "PRE",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3912,7 +3912,7 @@
       "puerta": "04",
       "ruta": "BOG",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4165,7 +4165,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1222",
+      "vuelo": "1228",
       "st": "21/02/2020 05:05",
       "matricula": "",
       "posicion": "",
@@ -4176,7 +4176,7 @@
       "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
-      "ruta": "BPS",
+      "ruta": "SSA",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -4203,7 +4203,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1228",
+      "vuelo": "1222",
       "st": "21/02/2020 05:05",
       "matricula": "",
       "posicion": "",
@@ -4214,7 +4214,7 @@
       "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
-      "ruta": "SSA",
+      "ruta": "BPS",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -4355,25 +4355,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1240",
-      "st": "21/02/2020 06:40",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "1428",
       "st": "21/02/2020 06:40",
       "matricula": "",
@@ -4386,6 +4367,25 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "SLA",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1240",
+      "st": "21/02/2020 06:40",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "GRU",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -4430,25 +4430,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "LA",
-      "vuelo": "468",
-      "st": "21/02/2020 07:00",
-      "matricula": "PRTYI",
-      "posicion": "08",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "07",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AV",
       "vuelo": "088",
       "st": "21/02/2020 07:00",
@@ -4462,6 +4443,25 @@
       "chkTo": "067",
       "puerta": "",
       "ruta": "BOG",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LA",
+      "vuelo": "468",
+      "st": "21/02/2020 07:00",
+      "matricula": "PRTYI",
+      "posicion": "08",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "07",
+      "ruta": "SCL",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -4544,25 +4544,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AU",
-      "vuelo": "2702",
-      "st": "21/02/2020 08:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "ROS",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "ZP",
       "vuelo": "821",
       "st": "21/02/2020 08:00",
@@ -4576,6 +4557,25 @@
       "chkTo": "075",
       "puerta": "",
       "ruta": "ASU",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AU",
+      "vuelo": "2702",
+      "st": "21/02/2020 08:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "ROS",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -4882,6 +4882,25 @@
       "ruta": "SCL",
       "via": "",
       "remark": "EST",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "DI",
+      "vuelo": "7506",
+      "st": "21/02/2020 11:30",
+      "matricula": "GCKWE",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "001",
+      "chkTo": "006",
+      "puerta": "",
+      "ruta": "LGW",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     }
   ]
