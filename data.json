@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/02/2020 19:33",
+  "lastUpdate": "21/02/2020 19:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,7 +7,7 @@
       "vuelo": "2709",
       "st": "21/02/2020 20:05",
       "matricula": "LVCID",
-      "posicion": "",
+      "posicion": "22B",
       "et": "21/2/2020 19:45",
       "at": "",
       "term": "C",
@@ -141,7 +141,7 @@
       "st": "21/02/2020 20:40",
       "matricula": "",
       "posicion": "",
-      "et": "",
+      "et": "21/2/2020 20:42",
       "at": "",
       "term": "A",
       "sector": "",
@@ -149,7 +149,7 @@
       "lF": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -193,25 +193,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7650",
-      "st": "21/02/2020 21:15",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "GIG",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1287",
       "st": "21/02/2020 21:15",
@@ -224,6 +205,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "SCL",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "G3",
+      "vuelo": "7650",
+      "st": "21/02/2020 21:15",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "GIG",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -3893,7 +3893,7 @@
       "puerta": "08",
       "ruta": "FRA",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3912,7 +3912,7 @@
       "puerta": "19",
       "ruta": "LIM",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3950,7 +3950,7 @@
       "puerta": "12",
       "ruta": "GRU",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3969,7 +3969,7 @@
       "puerta": "03",
       "ruta": "LIM",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4287,7 +4287,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "215",
       "chkTo": "240",
       "puerta": "20",
       "ruta": "MIA",
