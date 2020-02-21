@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "20/02/2020 22:51",
+  "lastUpdate": "20/02/2020 22:56",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1291",
-      "st": "20/02/2020 23:15",
-      "matricula": "LVFWS",
-      "posicion": "71",
-      "et": "20/2/2020 22:53",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "6",
-      "lF": "008",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "86"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "JJ",
@@ -83,7 +64,7 @@
       "vuelo": "8010",
       "st": "20/02/2020 23:55",
       "matricula": "PRMAZ",
-      "posicion": "",
+      "posicion": "03",
       "et": "20/2/2020 23:48",
       "at": "",
       "term": "A",
@@ -196,9 +177,9 @@
       "aerolinea": "AD",
       "vuelo": "8762",
       "st": "21/02/2020 01:50",
-      "matricula": "",
+      "matricula": "PRYRF",
       "posicion": "",
-      "et": "",
+      "et": "21/2/2020 01:50",
       "at": "",
       "term": "A",
       "sector": "",
@@ -206,9 +187,9 @@
       "lF": "",
       "ruta": "CNF",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "168"
     },
     {
       "tipo": "arribo",
@@ -386,7 +367,7 @@
       "aerolinea": "5X",
       "vuelo": "412",
       "st": "21/02/2020 05:12",
-      "matricula": "",
+      "matricula": "N306UP",
       "posicion": "",
       "et": "",
       "at": "",
@@ -2396,6 +2377,25 @@
       "pax": "159"
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1291",
+      "st": "20/02/2020 23:15",
+      "matricula": "LVFWS",
+      "posicion": "71",
+      "et": "20/2/2020 22:53",
+      "at": "20/2/2020 22:55",
+      "term": "A",
+      "sector": "",
+      "cinta": "6",
+      "lF": "008",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "86"
+    },
+    {
       "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1024",
@@ -3684,7 +3684,7 @@
       "puerta": "22",
       "ruta": "MIA",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3741,7 +3741,7 @@
       "puerta": "18",
       "ruta": "CUN",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
