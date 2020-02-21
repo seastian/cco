@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/02/2020 15:33",
+  "lastUpdate": "21/02/2020 15:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3847,7 +3847,7 @@
       "matricula": "LVFWS",
       "posicion": "12",
       "et": "21/2/2020 15:15",
-      "at": "",
+      "at": "21/2/2020 15:34",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3855,7 +3855,7 @@
       "puerta": "16",
       "ruta": "GIG",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3950,26 +3950,7 @@
       "puerta": "17",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "JJ",
-      "vuelo": "8011",
-      "st": "21/02/2020 16:15",
-      "matricula": "PRMAZ",
-      "posicion": "02",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "01",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4026,7 +4007,26 @@
       "puerta": "16",
       "ruta": "VVI",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "JJ",
+      "vuelo": "8011",
+      "st": "21/02/2020 16:15",
+      "matricula": "PRMAZ",
+      "posicion": "02",
+      "et": "21/2/2020 16:30",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "01",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "EST",
       "sanidad": "NO"
     },
     {
