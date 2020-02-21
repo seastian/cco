@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/02/2020 17:23",
+  "lastUpdate": "21/02/2020 17:29",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -992,25 +992,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "AR",
-      "vuelo": "1305",
-      "st": "22/02/2020 04:40",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
       "vuelo": "1141",
       "st": "22/02/2020 04:40",
       "matricula": "",
@@ -1022,6 +1003,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "FCO",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1305",
+      "st": "22/02/2020 04:40",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -1060,6 +1060,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "LIM",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AV",
+      "vuelo": "087",
+      "st": "22/02/2020 05:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "BOG",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -3847,7 +3866,7 @@
       "matricula": "LVCAP",
       "posicion": "50B",
       "et": "",
-      "at": "",
+      "at": "21/2/2020 17:28",
       "term": "C",
       "sector": "",
       "chkFrom": "",
@@ -3855,7 +3874,7 @@
       "puerta": "",
       "ruta": "AEP",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3912,7 +3931,7 @@
       "puerta": "01",
       "ruta": "GRU",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3931,7 +3950,7 @@
       "puerta": "03",
       "ruta": "VVI",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3988,7 +4007,7 @@
       "puerta": "17",
       "ruta": "POA",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -5070,6 +5089,25 @@
       "chkTo": "074",
       "puerta": "",
       "ruta": "FLN",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "CM",
+      "vuelo": "364",
+      "st": "22/02/2020 05:26",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "016",
+      "chkTo": "021",
+      "puerta": "",
+      "ruta": "PTY",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
