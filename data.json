@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/02/2020 21:03",
+  "lastUpdate": "20/02/2020 21:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1045,25 +1045,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "BA",
-      "vuelo": "245",
-      "st": "20/02/2020 09:10",
-      "matricula": "GYMMA",
-      "posicion": "10",
-      "et": "20/2/2020 09:00",
-      "at": "20/2/2020 09:04",
-      "term": "A",
-      "sector": "",
-      "cinta": "5",
-      "lF": "005",
-      "ruta": "LHR",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "272"
     },
     {
       "tipo": "arribo",
@@ -3627,7 +3608,7 @@
       "puerta": "24",
       "ruta": "COR",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3646,7 +3627,7 @@
       "puerta": "26",
       "ruta": "ROS",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3665,7 +3646,7 @@
       "puerta": "10",
       "ruta": "MIA",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3684,7 +3665,7 @@
       "puerta": "12",
       "ruta": "ASU",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3703,7 +3684,7 @@
       "puerta": "04",
       "ruta": "IAH",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3731,14 +3712,14 @@
       "vuelo": "992",
       "st": "20/02/2020 22:20",
       "matricula": "N830AN",
-      "posicion": "33",
+      "posicion": "09",
       "et": "",
       "at": "",
       "term": "A",
       "sector": "AP",
       "chkFrom": "001",
       "chkTo": "020",
-      "puerta": "",
+      "puerta": "09",
       "ruta": "LAX",
       "via": "",
       "remark": "HOR",
@@ -3822,25 +3803,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1370",
-      "st": "20/02/2020 23:10",
-      "matricula": "LVFVI",
-      "posicion": "14",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "19",
-      "ruta": "CUN",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "IB",
       "vuelo": "6844",
       "st": "20/02/2020 23:10",
@@ -3854,6 +3816,25 @@
       "chkTo": "026",
       "puerta": "03",
       "ruta": "MAD",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1370",
+      "st": "20/02/2020 23:10",
+      "matricula": "LVFVI",
+      "posicion": "14",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "19",
+      "ruta": "CUN",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
