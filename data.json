@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/02/2020 11:38",
+  "lastUpdate": "21/02/2020 11:43",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1409,25 +1409,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "M3",
-      "vuelo": "8494",
-      "st": "20/02/2020 23:45",
-      "matricula": "CCCZZ",
-      "posicion": "54",
-      "et": "20/2/2020 23:40",
-      "at": "20/2/2020 23:42",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1369",
       "st": "20/02/2020 23:15",
@@ -2407,7 +2388,7 @@
       "term": "A",
       "sector": "",
       "cinta": "7",
-      "lF": "007",
+      "lF": "009",
       "ruta": "IAH",
       "via": "",
       "remark": "ATE",
@@ -3733,7 +3714,7 @@
       "matricula": "GCKWE",
       "posicion": "10",
       "et": "",
-      "at": "",
+      "at": "21/2/2020 11:40",
       "term": "A",
       "sector": "AP",
       "chkFrom": "001",
@@ -3741,7 +3722,7 @@
       "puerta": "10",
       "ruta": "LGW",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3817,7 +3798,7 @@
       "puerta": "09",
       "ruta": "GRU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4053,7 +4034,7 @@
       "aerolinea": "G3",
       "vuelo": "7653",
       "st": "21/02/2020 14:15",
-      "matricula": "",
+      "matricula": "PRGUI",
       "posicion": "",
       "et": "",
       "at": "",
