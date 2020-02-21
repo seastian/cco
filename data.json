@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/02/2020 14:19",
+  "lastUpdate": "21/02/2020 14:24",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -197,7 +197,7 @@
       "vuelo": "1265",
       "st": "21/02/2020 16:05",
       "matricula": "LVFNJ",
-      "posicion": "",
+      "posicion": "13",
       "et": "21/2/2020 15:56",
       "at": "",
       "term": "A",
@@ -3893,7 +3893,7 @@
       "puerta": "05",
       "ruta": "FLN",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
