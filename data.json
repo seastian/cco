@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/02/2020 18:19",
+  "lastUpdate": "22/02/2020 18:24",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2511,25 +2511,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AU",
-      "vuelo": "2724",
-      "st": "22/02/2020 06:10",
-      "matricula": "LVCET",
-      "posicion": "25A",
-      "et": "",
-      "at": "22/2/2020 06:20",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "24",
-      "ruta": "IGR",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "G3",
       "vuelo": "7681",
       "st": "22/02/2020 05:40",
@@ -2682,25 +2663,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AU",
-      "vuelo": "2702",
-      "st": "22/02/2020 08:00",
-      "matricula": "LVGAQ",
-      "posicion": "25A",
-      "et": "",
-      "at": "22/2/2020 08:16",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "24",
-      "ruta": "ROS",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1500",
       "st": "22/02/2020 08:00",
@@ -2733,6 +2695,25 @@
       "chkTo": "067",
       "puerta": "03",
       "ruta": "BOG",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AU",
+      "vuelo": "2702",
+      "st": "22/02/2020 08:00",
+      "matricula": "LVGAQ",
+      "posicion": "25A",
+      "et": "",
+      "at": "22/2/2020 08:16",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "24",
+      "ruta": "ROS",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -2847,6 +2828,25 @@
       "chkTo": "075",
       "puerta": "12",
       "ruta": "ASU",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1304",
+      "st": "22/02/2020 08:30",
+      "matricula": "LVFNL",
+      "posicion": "13",
+      "et": "22/2/2020 08:45",
+      "at": "22/2/2020 09:03",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "209",
+      "chkTo": "240",
+      "puerta": "17",
+      "ruta": "MIA",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -3866,7 +3866,7 @@
       "matricula": "LVCQS",
       "posicion": "50B",
       "et": "22/2/2020 18:10",
-      "at": "",
+      "at": "22/2/2020 18:05",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3874,7 +3874,7 @@
       "puerta": "27",
       "ruta": "IGR",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3885,7 +3885,7 @@
       "matricula": "LVFYK",
       "posicion": "16B",
       "et": "",
-      "at": "",
+      "at": "22/2/2020 18:08",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3893,7 +3893,7 @@
       "puerta": "23",
       "ruta": "CWB",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3950,7 +3950,7 @@
       "puerta": "19",
       "ruta": "GIG",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
