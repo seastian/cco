@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/02/2020 05:42",
+  "lastUpdate": "22/02/2020 05:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3988,7 +3988,7 @@
       "puerta": "19",
       "ruta": "GRU",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -4452,7 +4452,7 @@
       "aerolinea": "DI",
       "vuelo": "7506",
       "st": "22/02/2020 11:30",
-      "matricula": "",
+      "matricula": "GCKOG",
       "posicion": "",
       "et": "",
       "at": "",
