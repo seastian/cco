@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/02/2020 17:17",
+  "lastUpdate": "22/02/2020 17:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1124,25 +1124,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AD",
-      "vuelo": "9300",
-      "st": "22/02/2020 04:50",
-      "matricula": "PRYRN",
-      "posicion": "02",
-      "et": "",
-      "at": "22/2/2020 05:21",
-      "term": "A",
-      "sector": "",
-      "cinta": "2",
-      "lF": "002",
-      "ruta": "REC",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "166"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1365",
       "st": "22/02/2020 05:00",
@@ -1466,25 +1447,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "BA",
-      "vuelo": "245",
-      "st": "22/02/2020 09:10",
-      "matricula": "GSTBC",
-      "posicion": "15",
-      "et": "22/2/2020 08:35",
-      "at": "22/2/2020 08:41",
-      "term": "A",
-      "sector": "",
-      "cinta": "3",
-      "lF": "002",
-      "ruta": "LHR",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "263"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "4M",
       "vuelo": "7815",
       "st": "22/02/2020 08:48",
@@ -1501,6 +1463,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "140"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "BA",
+      "vuelo": "245",
+      "st": "22/02/2020 09:10",
+      "matricula": "GSTBC",
+      "posicion": "15",
+      "et": "22/2/2020 08:35",
+      "at": "22/2/2020 08:41",
+      "term": "A",
+      "sector": "",
+      "cinta": "3",
+      "lF": "002",
+      "ruta": "LHR",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "263"
     },
     {
       "tipo": "arribo",
@@ -3969,7 +3950,7 @@
       "puerta": "27",
       "ruta": "IGR",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3988,7 +3969,7 @@
       "puerta": "17",
       "ruta": "POA",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4026,7 +4007,7 @@
       "puerta": "08",
       "ruta": "FRA",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
