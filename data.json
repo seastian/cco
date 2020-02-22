@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/02/2020 16:19",
+  "lastUpdate": "22/02/2020 16:24",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -12,8 +12,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "5",
-      "lF": "",
+      "cinta": "4",
+      "lF": "004",
       "ruta": "FLN",
       "via": "",
       "remark": "EST",
@@ -31,8 +31,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "2",
+      "lF": "001",
       "ruta": "VCP",
       "via": "",
       "remark": "EST",
@@ -50,8 +50,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "5",
+      "lF": "005",
       "ruta": "SCL",
       "via": "",
       "remark": "EST",
@@ -1102,25 +1102,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "176"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1133",
-      "st": "22/02/2020 04:20",
-      "matricula": "LVGKO",
-      "posicion": "14",
-      "et": "",
-      "at": "22/2/2020 04:22",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "010",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "194"
     },
     {
       "tipo": "arribo",
@@ -3809,7 +3790,7 @@
       "matricula": "CP3017",
       "posicion": "04",
       "et": "",
-      "at": "",
+      "at": "22/2/2020 16:23",
       "term": "A",
       "sector": "AP",
       "chkFrom": "013",
@@ -3817,7 +3798,7 @@
       "puerta": "03",
       "ruta": "VVI",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3855,7 +3836,7 @@
       "puerta": "02",
       "ruta": "GRU",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
