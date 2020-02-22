@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/02/2020 03:21",
+  "lastUpdate": "22/02/2020 03:26",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2422,14 +2422,14 @@
       "matricula": "PRYRZ",
       "posicion": "02",
       "et": "",
-      "at": "",
+      "at": "22/2/2020 03:22",
       "term": "A",
       "sector": "",
       "cinta": "3",
       "lF": "003",
       "ruta": "VCP",
       "via": "",
-      "remark": "CON",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "169"
     },
@@ -3779,7 +3779,7 @@
       "puerta": "02",
       "ruta": "LIM",
       "via": "",
-      "remark": "PRE",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
