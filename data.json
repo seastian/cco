@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/02/2020 00:41",
+  "lastUpdate": "22/02/2020 00:46",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -101,9 +101,9 @@
       "aerolinea": "AD",
       "vuelo": "9302",
       "st": "22/02/2020 02:55",
-      "matricula": "",
+      "matricula": "PRYRZ",
       "posicion": "",
-      "et": "",
+      "et": "22/2/2020 02:40",
       "at": "",
       "term": "A",
       "sector": "",
@@ -111,9 +111,9 @@
       "lF": "",
       "ruta": "VCP",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "169"
     },
     {
       "tipo": "arribo",
@@ -196,9 +196,9 @@
       "aerolinea": "AD",
       "vuelo": "9300",
       "st": "22/02/2020 04:50",
-      "matricula": "",
+      "matricula": "PRYRN",
       "posicion": "",
-      "et": "",
+      "et": "22/2/2020 04:35",
       "at": "",
       "term": "A",
       "sector": "",
@@ -206,7 +206,7 @@
       "lF": "",
       "ruta": "REC",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -4186,7 +4186,7 @@
       "aerolinea": "AD",
       "vuelo": "9303",
       "st": "22/02/2020 03:55",
-      "matricula": "",
+      "matricula": "PRYRZ",
       "posicion": "",
       "et": "",
       "at": "",
@@ -4338,7 +4338,7 @@
       "aerolinea": "AD",
       "vuelo": "9301",
       "st": "22/02/2020 05:50",
-      "matricula": "",
+      "matricula": "PRYRN",
       "posicion": "",
       "et": "",
       "at": "",
