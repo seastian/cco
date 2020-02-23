@@ -1,13 +1,13 @@
 {
-  "lastUpdate": "23/02/2020 01:03",
+  "lastUpdate": "23/02/2020 01:08",
   "vuelos": [
     {
       "tipo": "arribo",
       "aerolinea": "WJ",
       "vuelo": "3005",
       "st": "23/02/2020 01:57",
-      "matricula": "LVHEK",
-      "posicion": "",
+      "matricula": "LVIVO",
+      "posicion": "50A",
       "et": "",
       "at": "",
       "term": "A",
