@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/02/2020 19:44",
+  "lastUpdate": "23/02/2020 19:49",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -212,6 +212,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "AU",
+      "vuelo": "2263",
+      "st": "23/02/2020 21:35",
+      "matricula": "LVCPK",
+      "posicion": "",
+      "et": "23/2/2020 21:11",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "81"
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "QR",
       "vuelo": "773",
       "st": "23/02/2020 21:30",
@@ -262,25 +281,6 @@
       "cinta": "",
       "lF": "",
       "ruta": "TUC",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AU",
-      "vuelo": "2263",
-      "st": "23/02/2020 21:35",
-      "matricula": "LVCPK",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "ASU",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -3722,7 +3722,7 @@
       "puerta": "07",
       "ruta": "LIM",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
