@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/02/2020 13:37",
+  "lastUpdate": "23/02/2020 13:43",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3551,7 +3551,7 @@
       "puerta": "13",
       "ruta": "MVD",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3665,7 +3665,7 @@
       "puerta": "22",
       "ruta": "CDG",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3684,7 +3684,7 @@
       "puerta": "05",
       "ruta": "FLN",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
