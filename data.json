@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/02/2020 17:41",
+  "lastUpdate": "23/02/2020 17:48",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1884,25 +1884,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8042",
-      "st": "23/02/2020 13:35",
-      "matricula": "PRMBF",
-      "posicion": "06",
-      "et": "23/2/2020 13:15",
-      "at": "23/2/2020 13:16",
-      "term": "A",
-      "sector": "",
-      "cinta": "3",
-      "lF": "003",
-      "ruta": "FLN",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "168"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1271",
       "st": "23/02/2020 13:35",
@@ -1922,22 +1903,22 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1241",
-      "st": "23/02/2020 13:25",
-      "matricula": "LVCXS",
-      "posicion": "12",
+      "aerolinea": "JJ",
+      "vuelo": "8042",
+      "st": "23/02/2020 13:35",
+      "matricula": "PRMBF",
+      "posicion": "06",
       "et": "23/2/2020 13:15",
-      "at": "23/2/2020 13:03",
+      "at": "23/2/2020 13:16",
       "term": "A",
       "sector": "",
-      "cinta": "7",
-      "lF": "007",
-      "ruta": "GRU",
+      "cinta": "3",
+      "lF": "003",
+      "ruta": "FLN",
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": "154"
+      "pax": "168"
     },
     {
       "tipo": "arribo",
@@ -1998,25 +1979,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "OB",
-      "vuelo": "708",
-      "st": "23/02/2020 14:05",
-      "matricula": "CP2880",
-      "posicion": "04",
-      "et": "23/2/2020 14:00",
-      "at": "23/2/2020 13:49",
-      "term": "A",
-      "sector": "",
-      "cinta": "6",
-      "lF": "007",
-      "ruta": "VVI",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "223"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "JJ",
       "vuelo": "8011",
       "st": "23/02/2020 14:25",
@@ -2033,6 +1995,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "155"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "OB",
+      "vuelo": "708",
+      "st": "23/02/2020 14:05",
+      "matricula": "CP2880",
+      "posicion": "04",
+      "et": "23/2/2020 14:00",
+      "at": "23/2/2020 13:49",
+      "term": "A",
+      "sector": "",
+      "cinta": "6",
+      "lF": "007",
+      "ruta": "VVI",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "223"
     },
     {
       "tipo": "arribo",
@@ -2055,25 +2036,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AC",
-      "vuelo": "092",
-      "st": "23/02/2020 14:30",
-      "matricula": "CFKAU",
-      "posicion": "10",
-      "et": "23/2/2020 14:40",
-      "at": "23/2/2020 14:41",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "008",
-      "ruta": "YYZ",
-      "via": "SCL",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "240"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "H2",
       "vuelo": "507",
       "st": "23/02/2020 14:47",
@@ -2090,6 +2052,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "127"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AC",
+      "vuelo": "092",
+      "st": "23/02/2020 14:30",
+      "matricula": "CFKAU",
+      "posicion": "10",
+      "et": "23/2/2020 14:40",
+      "at": "23/2/2020 14:41",
+      "term": "A",
+      "sector": "",
+      "cinta": "8",
+      "lF": "008",
+      "ruta": "YYZ",
+      "via": "SCL",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "240"
     },
     {
       "tipo": "arribo",
@@ -3798,7 +3779,7 @@
       "puerta": "17",
       "ruta": "CWB",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3817,7 +3798,7 @@
       "puerta": "19",
       "ruta": "SCL",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3836,7 +3817,7 @@
       "puerta": "13",
       "ruta": "GIG",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4174,7 +4155,7 @@
       "term": "A",
       "sector": "AP",
       "chkFrom": "027",
-      "chkTo": "034",
+      "chkTo": "035",
       "puerta": "",
       "ruta": "DXB",
       "via": "GIG",
