@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/02/2020 06:30",
+  "lastUpdate": "23/02/2020 06:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2397,25 +2397,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "LA",
-      "vuelo": "532",
-      "st": "22/02/2020 18:35",
-      "matricula": "CCBGA",
-      "posicion": "05",
-      "et": "",
-      "at": "22/2/2020 18:36",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "038",
-      "chkTo": "053",
-      "puerta": "04",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1364",
       "st": "22/02/2020 19:00",
@@ -3589,7 +3570,7 @@
       "puerta": "05",
       "ruta": "SCL",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4823,6 +4804,25 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "GIG",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LA",
+      "vuelo": "532",
+      "st": "23/02/2020 18:35",
+      "matricula": "CCBGP",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "038",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "SCL",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
