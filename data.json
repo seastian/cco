@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/02/2020 16:11",
+  "lastUpdate": "24/02/2020 16:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3893,7 +3893,7 @@
       "puerta": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3993,6 +3993,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "JJ",
+      "vuelo": "8011",
+      "st": "24/02/2020 16:15",
+      "matricula": "PRTYG",
+      "posicion": "06",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "05",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "CER",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "PRV",
       "vuelo": "BOA",
       "st": "24/02/2020 17:00",
@@ -4008,25 +4027,6 @@
       "ruta": "ASU",
       "via": "",
       "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "JJ",
-      "vuelo": "8011",
-      "st": "24/02/2020 16:15",
-      "matricula": "PRTYG",
-      "posicion": "06",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "05",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4064,7 +4064,7 @@
       "puerta": "21",
       "ruta": "VVI",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4083,7 +4083,7 @@
       "puerta": "18",
       "ruta": "AMS",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4111,7 +4111,7 @@
       "vuelo": "1360",
       "st": "24/02/2020 16:45",
       "matricula": "LVBZA",
-      "posicion": "17A",
+      "posicion": "25B",
       "et": "",
       "at": "",
       "term": "C",
@@ -4121,7 +4121,7 @@
       "puerta": "13",
       "ruta": "BOG",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4178,7 +4178,7 @@
       "puerta": "27",
       "ruta": "BRC",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
