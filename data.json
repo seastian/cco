@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/02/2020 12:27",
+  "lastUpdate": "24/02/2020 12:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3733,7 +3733,7 @@
       "matricula": "LVGKS",
       "posicion": "22A",
       "et": "",
-      "at": "",
+      "at": "24/2/2020 12:30",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3741,7 +3741,7 @@
       "puerta": "26",
       "ruta": "FTE",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3790,7 +3790,7 @@
       "matricula": "PTMXJ",
       "posicion": "02",
       "et": "",
-      "at": "",
+      "at": "24/2/2020 12:32",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3798,7 +3798,7 @@
       "puerta": "01",
       "ruta": "GRU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3836,7 +3836,7 @@
       "puerta": "19",
       "ruta": "MVD",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
