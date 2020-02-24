@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/02/2020 14:01",
+  "lastUpdate": "24/02/2020 14:06",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -216,7 +216,7 @@
       "vuelo": "30",
       "st": "24/02/2020 16:00",
       "matricula": "ZKOKH",
-      "posicion": "",
+      "posicion": "05",
       "et": "24/2/2020 15:47",
       "at": "",
       "term": "A",
@@ -3847,7 +3847,7 @@
       "matricula": "ECNCY",
       "posicion": "10",
       "et": "",
-      "at": "",
+      "at": "24/2/2020 14:03",
       "term": "A",
       "sector": "AP",
       "chkFrom": "054",
@@ -3855,7 +3855,7 @@
       "puerta": "10",
       "ruta": "MAD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3912,7 +3912,7 @@
       "puerta": "16",
       "ruta": "GIG",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3931,7 +3931,7 @@
       "puerta": "07",
       "ruta": "GIG",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3988,7 +3988,7 @@
       "puerta": "14",
       "ruta": "CDG",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4007,7 +4007,7 @@
       "puerta": "04",
       "ruta": "MAD",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4026,7 +4026,7 @@
       "puerta": "06",
       "ruta": "FLN",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
