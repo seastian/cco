@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/02/2020 11:23",
+  "lastUpdate": "24/02/2020 11:29",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2549,25 +2549,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1370",
-      "st": "23/02/2020 23:10",
-      "matricula": "LVFNI",
-      "posicion": "16",
-      "et": "",
-      "at": "23/2/2020 23:26",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "22",
-      "ruta": "CUN",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "JJ",
       "vuelo": "8121",
       "st": "23/02/2020 23:20",
@@ -3689,25 +3670,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "LH",
-      "vuelo": "8265",
-      "st": "24/02/2020 09:20",
-      "matricula": "DALCK",
-      "posicion": "54",
-      "et": "",
-      "at": "24/2/2020 09:40",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "FRA",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "H2",
       "vuelo": "502",
       "st": "24/02/2020 09:52",
@@ -3721,25 +3683,6 @@
       "chkTo": "081",
       "puerta": "07",
       "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "JJ",
-      "vuelo": "8093",
-      "st": "24/02/2020 10:10",
-      "matricula": "PRMBZ",
-      "posicion": "02",
-      "et": "",
-      "at": "24/2/2020 10:19",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "01",
-      "ruta": "GIG",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -3761,6 +3704,25 @@
       "ruta": "FTE",
       "via": "",
       "remark": "CER",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "JJ",
+      "vuelo": "8093",
+      "st": "24/02/2020 10:10",
+      "matricula": "PRMBZ",
+      "posicion": "02",
+      "et": "",
+      "at": "24/2/2020 10:19",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "01",
+      "ruta": "GIG",
+      "via": "",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3798,7 +3760,7 @@
       "puerta": "",
       "ruta": "AEP",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3836,7 +3798,7 @@
       "puerta": "05",
       "ruta": "GRU",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3931,7 +3893,7 @@
       "puerta": "07",
       "ruta": "PTY",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3969,7 +3931,7 @@
       "puerta": "27",
       "ruta": "COR",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -5204,6 +5166,44 @@
       "puerta": "",
       "ruta": "DOH",
       "via": "GRU",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1320",
+      "st": "24/02/2020 23:30",
+      "matricula": "LVFNJ",
+      "posicion": "M07",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "MCO",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1108",
+      "st": "24/02/2020 23:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "LIM",
+      "via": "",
       "remark": "HOR",
       "sanidad": "NO"
     }
