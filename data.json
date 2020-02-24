@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/02/2020 17:14",
+  "lastUpdate": "24/02/2020 17:19",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -4045,7 +4045,7 @@
       "puerta": "17",
       "ruta": "ASU",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4064,7 +4064,7 @@
       "puerta": "23",
       "ruta": "POA",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4102,7 +4102,7 @@
       "puerta": "01",
       "ruta": "VCP",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
