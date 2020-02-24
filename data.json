@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/02/2020 13:40",
+  "lastUpdate": "24/02/2020 13:45",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2536,14 +2536,14 @@
       "matricula": "CP3017",
       "posicion": "03",
       "et": "24/2/2020 13:40",
-      "at": "",
+      "at": "24/2/2020 13:41",
       "term": "A",
       "sector": "",
       "cinta": "9",
       "lF": "010",
       "ruta": "VVI",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "211"
     },
@@ -2555,14 +2555,14 @@
       "matricula": "PRTYG",
       "posicion": "06",
       "et": "24/2/2020 13:40",
-      "at": "",
+      "at": "24/2/2020 13:45",
       "term": "A",
       "sector": "",
       "cinta": "3",
       "lF": "003",
       "ruta": "GRU",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "165"
     },
@@ -3931,7 +3931,7 @@
       "puerta": "16",
       "ruta": "GIG",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3988,7 +3988,7 @@
       "puerta": "24",
       "ruta": "USH",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
