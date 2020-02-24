@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/02/2020 18:28",
+  "lastUpdate": "24/02/2020 18:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1162,25 +1162,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "103",
-      "st": "24/02/2020 06:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "LP",
       "vuelo": "2467",
       "st": "24/02/2020 06:35",
@@ -1504,25 +1485,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8012",
-      "st": "24/02/2020 09:00",
-      "matricula": "PRMBZ",
-      "posicion": "02",
-      "et": "24/2/2020 09:00",
-      "at": "24/2/2020 08:58",
-      "term": "A",
-      "sector": "",
-      "cinta": "6",
-      "lF": "006",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "145"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1269",
       "st": "24/02/2020 09:55",
@@ -1539,6 +1501,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "69"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "JJ",
+      "vuelo": "8012",
+      "st": "24/02/2020 09:00",
+      "matricula": "PRMBZ",
+      "posicion": "02",
+      "et": "24/2/2020 09:00",
+      "at": "24/2/2020 08:58",
+      "term": "A",
+      "sector": "",
+      "cinta": "6",
+      "lF": "006",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "145"
     },
     {
       "tipo": "arribo",
@@ -1732,25 +1713,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8008",
-      "st": "24/02/2020 10:15",
-      "matricula": "PTMXJ",
-      "posicion": "02",
-      "et": "24/2/2020 10:00",
-      "at": "24/2/2020 09:58",
-      "term": "A",
-      "sector": "",
-      "cinta": "6",
-      "lF": "006",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "199"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1541",
       "st": "24/02/2020 10:15",
@@ -1767,6 +1729,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "94"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "JJ",
+      "vuelo": "8008",
+      "st": "24/02/2020 10:15",
+      "matricula": "PTMXJ",
+      "posicion": "02",
+      "et": "24/2/2020 10:00",
+      "at": "24/2/2020 09:58",
+      "term": "A",
+      "sector": "",
+      "cinta": "6",
+      "lF": "006",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "199"
     },
     {
       "tipo": "arribo",
@@ -3931,7 +3912,7 @@
       "puerta": "",
       "ruta": "MAD",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3999,7 +3980,7 @@
       "matricula": "LVGUB",
       "posicion": "16B",
       "et": "",
-      "at": "",
+      "at": "24/2/2020 18:33",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -4007,7 +3988,7 @@
       "puerta": "23",
       "ruta": "GIG",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
