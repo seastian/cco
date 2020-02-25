@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/02/2020 01:03",
+  "lastUpdate": "25/02/2020 01:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1960,25 +1960,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AU",
-      "vuelo": "2509",
-      "st": "24/02/2020 20:20",
-      "matricula": "LVFPT",
-      "posicion": "23A",
-      "et": "24/2/2020 19:53",
-      "at": "24/2/2020 20:02",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "12",
-      "lF": "017",
-      "ruta": "COR",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "59"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "EK",
       "vuelo": "247",
       "st": "24/02/2020 20:40",
@@ -2169,25 +2150,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AV",
-      "vuelo": "217",
-      "st": "24/02/2020 22:20",
-      "matricula": "N818AV",
-      "posicion": "52B",
-      "et": "24/2/2020 21:30",
-      "at": "24/2/2020 21:32",
-      "term": "A",
-      "sector": "",
-      "cinta": "5",
-      "lF": "004",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "121"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AU",
       "vuelo": "2233",
       "st": "24/02/2020 21:50",
@@ -2223,6 +2185,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "252"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AV",
+      "vuelo": "217",
+      "st": "24/02/2020 22:20",
+      "matricula": "N818AV",
+      "posicion": "52B",
+      "et": "24/2/2020 21:30",
+      "at": "24/2/2020 21:32",
+      "term": "A",
+      "sector": "",
+      "cinta": "5",
+      "lF": "004",
+      "ruta": "BOG",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "121"
     },
     {
       "tipo": "arribo",
@@ -4243,7 +4224,7 @@
       "aerolinea": "QR",
       "vuelo": "8157",
       "st": "25/02/2020 04:50",
-      "matricula": "",
+      "matricula": "A7BFK",
       "posicion": "55",
       "et": "",
       "at": "",
