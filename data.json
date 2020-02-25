@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/02/2020 22:22",
+  "lastUpdate": "24/02/2020 22:27",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -973,25 +973,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "AR",
-      "vuelo": "1269",
-      "st": "25/02/2020 09:55",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "CWB",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
       "vuelo": "1249",
       "st": "25/02/2020 09:55",
       "matricula": "",
@@ -1003,6 +984,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "GRU",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1269",
+      "st": "25/02/2020 09:55",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "CWB",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -1029,6 +1029,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "JJ",
+      "vuelo": "8008",
+      "st": "25/02/2020 10:15",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "AU",
       "vuelo": "2541",
       "st": "25/02/2020 10:15",
@@ -1048,9 +1067,9 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8008",
-      "st": "25/02/2020 10:15",
+      "aerolinea": "LA",
+      "vuelo": "467",
+      "st": "25/02/2020 10:23",
       "matricula": "",
       "posicion": "",
       "et": "",
@@ -1059,7 +1078,7 @@
       "sector": "",
       "cinta": "",
       "lF": "",
-      "ruta": "GRU",
+      "ruta": "SCL",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -3752,7 +3771,7 @@
       "matricula": "CCBDC",
       "posicion": "06",
       "et": "",
-      "at": "",
+      "at": "24/2/2020 22:25",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3760,7 +3779,7 @@
       "puerta": "05",
       "ruta": "MIA",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3912,7 +3931,7 @@
       "puerta": "14",
       "ruta": "AKL",
       "via": "",
-      "remark": "EST",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3969,7 +3988,7 @@
       "puerta": "20",
       "ruta": "MCO",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
