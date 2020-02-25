@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/02/2020 20:36",
+  "lastUpdate": "25/02/2020 20:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2327,14 +2327,14 @@
       "matricula": "LVFVM",
       "posicion": "70",
       "et": "",
-      "at": "",
+      "at": "25/2/2020 20:38",
       "term": "A",
       "sector": "",
       "cinta": "7",
       "lF": "009",
       "ruta": "GIG",
       "via": "",
-      "remark": "CON",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "148"
     },
@@ -2449,44 +2449,6 @@
       "puerta": "",
       "ruta": "DWC",
       "via": "GIG",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "4M",
-      "vuelo": "7825",
-      "st": "25/02/2020 08:35",
-      "matricula": "CCCXD",
-      "posicion": "08",
-      "et": "",
-      "at": "25/2/2020 08:38",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "07",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "ZP",
-      "vuelo": "821",
-      "st": "25/02/2020 08:00",
-      "matricula": "ZPCRS",
-      "posicion": "50B",
-      "et": "25/2/2020 08:40",
-      "at": "25/2/2020 08:40",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "074",
-      "chkTo": "075",
-      "puerta": "12",
-      "ruta": "ASU",
-      "via": "",
       "remark": "PAR",
       "sanidad": "NO"
     },
@@ -3760,7 +3722,7 @@
       "puerta": "04",
       "ruta": "SCL",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
