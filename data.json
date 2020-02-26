@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/02/2020 12:45",
+  "lastUpdate": "26/02/2020 12:51",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -804,7 +804,7 @@
       "aerolinea": "AU",
       "vuelo": "2739",
       "st": "26/02/2020 20:25",
-      "matricula": "LVCIF",
+      "matricula": "LVCHS",
       "posicion": "",
       "et": "",
       "at": "",
@@ -3665,7 +3665,7 @@
       "puerta": "07",
       "ruta": "VCP",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3741,7 +3741,7 @@
       "puerta": "01",
       "ruta": "CFB",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3779,7 +3779,7 @@
       "puerta": "17",
       "ruta": "FCO",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
