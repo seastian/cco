@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/02/2020 12:35",
+  "lastUpdate": "26/02/2020 12:40",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3619,7 +3619,7 @@
       "matricula": "PTMXJ",
       "posicion": "07",
       "et": "",
-      "at": "",
+      "at": "26/2/2020 12:36",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3627,7 +3627,7 @@
       "puerta": "06",
       "ruta": "GRU",
       "via": "",
-      "remark": "ULT",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3703,7 +3703,7 @@
       "puerta": "16",
       "ruta": "MAD",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3741,7 +3741,7 @@
       "puerta": "01",
       "ruta": "CFB",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
