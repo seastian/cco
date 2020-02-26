@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/02/2020 00:36",
+  "lastUpdate": "26/02/2020 00:43",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2413,25 +2413,6 @@
       "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1698",
-      "st": "25/02/2020 12:25",
-      "matricula": "LVFUB",
-      "posicion": "71",
-      "et": "",
-      "at": "25/2/2020 12:43",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "27",
-      "ruta": "BRC",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
