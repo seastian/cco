@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/02/2020 04:32",
+  "lastUpdate": "26/02/2020 04:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2441,14 +2441,14 @@
       "matricula": "N306UP",
       "posicion": "56",
       "et": "26/2/2020 04:30",
-      "at": "",
+      "at": "26/2/2020 04:34",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "MIA",
       "via": "SCL",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -2486,25 +2486,6 @@
       "chkTo": "220",
       "puerta": "20",
       "ruta": "AMS",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1368",
-      "st": "25/02/2020 16:30",
-      "matricula": "LVCBT",
-      "posicion": "16B",
-      "et": "",
-      "at": "25/2/2020 16:35",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "23",
-      "ruta": "VVI",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -3475,7 +3456,7 @@
       "puerta": "01",
       "ruta": "CNF",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3570,7 +3551,7 @@
       "puerta": "19",
       "ruta": "SSA",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
