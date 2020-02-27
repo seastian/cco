@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/02/2020 04:20",
+  "lastUpdate": "27/02/2020 04:25",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1328,25 +1328,6 @@
       "ruta": "BRC",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "GTI",
-      "vuelo": "033",
-      "st": "26/02/2020 20:45",
-      "matricula": "N859GT",
-      "posicion": "55",
-      "et": "26/2/2020 16:10",
-      "at": "26/2/2020 16:25",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
