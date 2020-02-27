@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/02/2020 01:42",
+  "lastUpdate": "27/02/2020 01:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3652,6 +3652,25 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
+      "vuelo": "H24",
+      "st": "26/02/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "QTR",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
       "vuelo": "H24N",
       "st": "26/02/2020 23:59",
       "matricula": "",
@@ -3681,25 +3700,6 @@
       "sector": "AP",
       "chkFrom": "041",
       "chkTo": "053",
-      "puerta": "",
-      "ruta": "QTR",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "H24",
-      "st": "26/02/2020 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
       "via": "",
@@ -3771,7 +3771,7 @@
       "matricula": "HP1845",
       "posicion": "08",
       "et": "",
-      "at": "",
+      "at": "27/2/2020 01:45",
       "term": "A",
       "sector": "AP",
       "chkFrom": "016",
@@ -3779,7 +3779,7 @@
       "puerta": "07",
       "ruta": "PTY",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
