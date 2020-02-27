@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/02/2020 22:50",
+  "lastUpdate": "26/02/2020 22:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -83,7 +83,7 @@
       "vuelo": "8010",
       "st": "26/02/2020 23:55",
       "matricula": "PRMAZ",
-      "posicion": "",
+      "posicion": "05",
       "et": "26/2/2020 23:50",
       "at": "",
       "term": "A",
@@ -102,7 +102,7 @@
       "vuelo": "279",
       "st": "27/02/2020 00:34",
       "matricula": "HP1845",
-      "posicion": "",
+      "posicion": "08",
       "et": "27/2/2020 00:15",
       "at": "",
       "term": "A",
@@ -3912,7 +3912,7 @@
       "puerta": "10",
       "ruta": "MIA",
       "via": "",
-      "remark": "EST",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
