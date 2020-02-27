@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/02/2020 00:50",
+  "lastUpdate": "27/02/2020 00:56",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2362,7 +2362,7 @@
       "aerolinea": "M3",
       "vuelo": "8492",
       "st": "26/02/2020 23:45",
-      "matricula": "",
+      "matricula": "CCCZZ",
       "posicion": "",
       "et": "",
       "at": "",
