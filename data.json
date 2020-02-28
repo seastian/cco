@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/02/2020 05:04",
+  "lastUpdate": "28/02/2020 05:09",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -46,7 +46,7 @@
       "st": "28/02/2020 06:35",
       "matricula": "CCCWV",
       "posicion": "06",
-      "et": "28/2/2020 06:50",
+      "et": "28/2/2020 06:40",
       "at": "",
       "term": "A",
       "sector": "",
@@ -3627,7 +3627,7 @@
       "puerta": "19",
       "ruta": "ASU",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
