@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/02/2020 02:53",
+  "lastUpdate": "28/02/2020 02:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2384,14 +2384,14 @@
       "matricula": "CP2716",
       "posicion": "06",
       "et": "28/2/2020 02:50",
-      "at": "",
+      "at": "28/2/2020 02:56",
       "term": "A",
       "sector": "",
       "cinta": "3",
       "lF": "003",
       "ruta": "VVI",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "137"
     },
@@ -3703,7 +3703,7 @@
       "puerta": "16",
       "ruta": "PUJ",
       "via": "RES",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
