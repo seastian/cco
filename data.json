@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/02/2020 05:30",
+  "lastUpdate": "28/02/2020 05:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3467,7 +3467,7 @@
       "matricula": "LVCAD",
       "posicion": "17B",
       "et": "28/2/2020 05:15",
-      "at": "",
+      "at": "28/2/2020 05:32",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3475,7 +3475,7 @@
       "puerta": "17",
       "ruta": "BPS",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
