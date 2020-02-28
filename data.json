@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/02/2020 06:16",
+  "lastUpdate": "28/02/2020 06:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -88,8 +88,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "9",
+      "lF": "010",
       "ruta": "AMS",
       "via": "",
       "remark": "EST",
@@ -3589,7 +3589,7 @@
       "puerta": "24",
       "ruta": "TUC",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3627,7 +3627,7 @@
       "puerta": "26",
       "ruta": "MDZ",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3646,7 +3646,7 @@
       "puerta": "09",
       "ruta": "BOG",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3665,7 +3665,7 @@
       "puerta": "01",
       "ruta": "SCL",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4658,25 +4658,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AC",
-      "vuelo": "093",
-      "st": "28/02/2020 16:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "061",
-      "chkTo": "067",
-      "puerta": "",
-      "ruta": "YYZ",
-      "via": "SCL",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1368",
       "st": "28/02/2020 16:30",
@@ -4710,6 +4691,25 @@
       "puerta": "",
       "ruta": "AMS",
       "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AC",
+      "vuelo": "093",
+      "st": "28/02/2020 16:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "061",
+      "chkTo": "067",
+      "puerta": "",
+      "ruta": "YYZ",
+      "via": "SCL",
       "remark": "HOR",
       "sanidad": "NO"
     },
@@ -4899,6 +4899,25 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "SCL",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1256",
+      "st": "28/02/2020 18:20",
+      "matricula": "LVFQC",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "GIG",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
