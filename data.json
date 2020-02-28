@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/02/2020 12:36",
+  "lastUpdate": "28/02/2020 12:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3562,7 +3562,7 @@
       "matricula": "LVFVO",
       "posicion": "70",
       "et": "",
-      "at": "",
+      "at": "28/2/2020 12:39",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3570,7 +3570,7 @@
       "puerta": "27",
       "ruta": "BRC",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
