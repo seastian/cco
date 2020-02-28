@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/02/2020 17:33",
+  "lastUpdate": "28/02/2020 17:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -177,9 +177,9 @@
       "aerolinea": "ET",
       "vuelo": "506",
       "st": "28/02/2020 19:55",
-      "matricula": "",
+      "matricula": "ETAOV",
       "posicion": "",
-      "et": "",
+      "et": "28/2/2020 19:34",
       "at": "",
       "term": "A",
       "sector": "",
@@ -187,9 +187,9 @@
       "lF": "",
       "ruta": "ADD",
       "via": "GRU",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "163"
     },
     {
       "tipo": "arribo",
@@ -3817,7 +3817,7 @@
       "puerta": "08",
       "ruta": "FRA",
       "via": "",
-      "remark": "PRE",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
