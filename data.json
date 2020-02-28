@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/02/2020 01:45",
+  "lastUpdate": "28/02/2020 01:51",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3714,7 +3714,7 @@
       "matricula": "HP1826",
       "posicion": "06",
       "et": "",
-      "at": "",
+      "at": "28/2/2020 01:48",
       "term": "A",
       "sector": "AP",
       "chkFrom": "016",
@@ -3722,7 +3722,7 @@
       "puerta": "05",
       "ruta": "PTY",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3779,7 +3779,7 @@
       "puerta": "09",
       "ruta": "CNF",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
