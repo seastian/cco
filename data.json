@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/02/2020 01:40",
+  "lastUpdate": "28/02/2020 01:45",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3657,7 +3657,7 @@
       "matricula": "N818AV",
       "posicion": "07",
       "et": "",
-      "at": "",
+      "at": "28/2/2020 01:42",
       "term": "A",
       "sector": "AP",
       "chkFrom": "013",
@@ -3665,7 +3665,7 @@
       "puerta": "06",
       "ruta": "BOG",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3703,7 +3703,7 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3760,7 +3760,7 @@
       "puerta": "04",
       "ruta": "GIG",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
