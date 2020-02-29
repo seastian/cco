@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "29/02/2020 10:29",
+  "lastUpdate": "29/02/2020 10:35",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "455",
-      "st": "29/02/2020 10:48",
-      "matricula": "CCBFE",
-      "posicion": "06",
-      "et": "29/2/2020 10:35",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AA",
@@ -2055,25 +2036,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "4M",
-      "vuelo": "7815",
-      "st": "29/02/2020 08:48",
-      "matricula": "LVHQI",
-      "posicion": "52A",
-      "et": "29/2/2020 08:50",
-      "at": "29/2/2020 08:40",
-      "term": "A",
-      "sector": "",
-      "cinta": "2",
-      "lF": "002",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "119"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "JJ",
       "vuelo": "8012",
       "st": "29/02/2020 09:00",
@@ -2090,6 +2052,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "4M",
+      "vuelo": "7815",
+      "st": "29/02/2020 08:48",
+      "matricula": "LVHQI",
+      "posicion": "52A",
+      "et": "29/2/2020 08:50",
+      "at": "29/2/2020 08:40",
+      "term": "A",
+      "sector": "",
+      "cinta": "2",
+      "lF": "002",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "119"
     },
     {
       "tipo": "arribo",
@@ -2375,6 +2356,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "270"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "455",
+      "st": "29/02/2020 10:48",
+      "matricula": "CCBFE",
+      "posicion": "06",
+      "et": "29/2/2020 10:35",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "partida",
@@ -3722,7 +3722,7 @@
       "puerta": "01",
       "ruta": "PTY",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
