@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/02/2020 15:30",
+  "lastUpdate": "29/02/2020 15:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3703,7 +3703,7 @@
       "puerta": "01",
       "ruta": "GRU",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3814,7 +3814,7 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "19",
       "ruta": "ASU",
       "via": "",
       "remark": "HOR",
