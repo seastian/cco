@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/02/2020 00:40",
+  "lastUpdate": "29/02/2020 00:45",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -101,9 +101,9 @@
       "aerolinea": "AD",
       "vuelo": "9302",
       "st": "29/02/2020 02:55",
-      "matricula": "",
+      "matricula": "PRYRC",
       "posicion": "",
-      "et": "",
+      "et": "29/2/2020 03:20",
       "at": "",
       "term": "A",
       "sector": "",
@@ -111,9 +111,9 @@
       "lF": "",
       "ruta": "VCP",
       "via": "",
-      "remark": "",
+      "remark": "DEM",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "147"
     },
     {
       "tipo": "arribo",
@@ -215,9 +215,9 @@
       "aerolinea": "AD",
       "vuelo": "9300",
       "st": "29/02/2020 04:50",
-      "matricula": "",
+      "matricula": "PRYRL",
       "posicion": "",
-      "et": "",
+      "et": "29/2/2020 04:55",
       "at": "",
       "term": "A",
       "sector": "",
@@ -225,9 +225,9 @@
       "lF": "",
       "ruta": "REC",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "98"
     },
     {
       "tipo": "arribo",
@@ -3771,7 +3771,7 @@
       "matricula": "A6ECN",
       "posicion": "08",
       "et": "28/2/2020 23:59",
-      "at": "",
+      "at": "29/2/2020 00:44",
       "term": "A",
       "sector": "AP",
       "chkFrom": "027",
@@ -3779,7 +3779,7 @@
       "puerta": "07",
       "ruta": "DXB",
       "via": "GIG",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3977,7 +3977,7 @@
       "aerolinea": "AD",
       "vuelo": "9303",
       "st": "29/02/2020 03:55",
-      "matricula": "",
+      "matricula": "PRYRC",
       "posicion": "",
       "et": "",
       "at": "",
@@ -4148,7 +4148,7 @@
       "aerolinea": "AD",
       "vuelo": "9301",
       "st": "29/02/2020 05:50",
-      "matricula": "",
+      "matricula": "PRYRL",
       "posicion": "",
       "et": "",
       "at": "",
