@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/02/2020 03:29",
+  "lastUpdate": "29/02/2020 03:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -972,10 +972,10 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8042",
+      "aerolinea": "AR",
+      "vuelo": "1271",
       "st": "29/02/2020 13:35",
-      "matricula": "PRMHU",
+      "matricula": "LVGVA",
       "posicion": "",
       "et": "",
       "at": "",
@@ -991,10 +991,10 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1271",
+      "aerolinea": "JJ",
+      "vuelo": "8042",
       "st": "29/02/2020 13:35",
-      "matricula": "LVGVA",
+      "matricula": "PRMHU",
       "posicion": "",
       "et": "",
       "at": "",
@@ -1231,6 +1231,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "GIG",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1529",
+      "st": "29/02/2020 15:35",
+      "matricula": "LVCBT",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "COR",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -3619,7 +3638,7 @@
       "matricula": "LVGVC",
       "posicion": "16B",
       "et": "",
-      "at": "",
+      "at": "29/2/2020 03:30",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3627,7 +3646,7 @@
       "puerta": "23",
       "ruta": "PUJ",
       "via": "RES",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3703,7 +3722,7 @@
       "puerta": "01",
       "ruta": "VCP",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
