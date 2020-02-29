@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/02/2020 02:32",
+  "lastUpdate": "29/02/2020 02:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -27,7 +27,7 @@
       "st": "29/02/2020 02:55",
       "matricula": "PRYRC",
       "posicion": "02",
-      "et": "29/2/2020 03:20",
+      "et": "29/2/2020 02:50",
       "at": "",
       "term": "A",
       "sector": "",
@@ -35,7 +35,7 @@
       "lF": "",
       "ruta": "VCP",
       "via": "",
-      "remark": "DEM",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": "147"
     },
@@ -1181,25 +1181,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "H2",
-      "vuelo": "507",
-      "st": "28/02/2020 14:47",
-      "matricula": "CCAJF",
-      "posicion": "07",
-      "et": "28/2/2020 14:33",
-      "at": "28/2/2020 14:35",
-      "term": "A",
-      "sector": "",
-      "cinta": "1",
-      "lF": "006",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "132"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1393",
       "st": "28/02/2020 14:35",
@@ -1276,25 +1257,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1529",
-      "st": "28/02/2020 15:35",
-      "matricula": "LVCBT",
-      "posicion": "71",
-      "et": "28/2/2020 15:15",
-      "at": "28/2/2020 15:29",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "11",
-      "lF": "017",
-      "ruta": "COR",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "103"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AC",
       "vuelo": "092",
       "st": "28/02/2020 14:30",
@@ -1311,6 +1273,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "303"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1529",
+      "st": "28/02/2020 15:35",
+      "matricula": "LVCBT",
+      "posicion": "71",
+      "et": "28/2/2020 15:15",
+      "at": "28/2/2020 15:29",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "11",
+      "lF": "017",
+      "ruta": "COR",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "103"
     },
     {
       "tipo": "arribo",
