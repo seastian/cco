@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/02/2020 03:45",
+  "lastUpdate": "29/02/2020 03:50",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1250,6 +1250,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "COR",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "4M",
+      "vuelo": "7824",
+      "st": "29/02/2020 15:48",
+      "matricula": "CCCWF",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -3646,7 +3665,7 @@
       "puerta": "06",
       "ruta": "PTY",
       "via": "",
-      "remark": "DEM",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3703,7 +3722,7 @@
       "puerta": "15",
       "ruta": "LIM",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
