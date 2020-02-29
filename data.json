@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/02/2020 03:24",
+  "lastUpdate": "29/02/2020 03:29",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1238,25 +1238,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1529",
-      "st": "28/02/2020 15:35",
-      "matricula": "LVCBT",
-      "posicion": "71",
-      "et": "28/2/2020 15:15",
-      "at": "28/2/2020 15:29",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "11",
-      "lF": "017",
-      "ruta": "COR",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "103"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "4M",
       "vuelo": "7824",
       "st": "28/02/2020 15:48",
@@ -2416,25 +2397,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "CM",
-      "vuelo": "279",
-      "st": "29/02/2020 00:34",
-      "matricula": "HP1825",
-      "posicion": "07",
-      "et": "29/2/2020 02:50",
-      "at": "29/2/2020 02:55",
-      "term": "A",
-      "sector": "",
-      "cinta": "5",
-      "lF": "005",
-      "ruta": "PTY",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "155"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AD",
       "vuelo": "9302",
       "st": "29/02/2020 02:55",
@@ -2451,6 +2413,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "147"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "CM",
+      "vuelo": "279",
+      "st": "29/02/2020 00:34",
+      "matricula": "HP1825",
+      "posicion": "07",
+      "et": "29/2/2020 02:50",
+      "at": "29/2/2020 02:55",
+      "term": "A",
+      "sector": "",
+      "cinta": "5",
+      "lF": "005",
+      "ruta": "PTY",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "155"
     },
     {
       "tipo": "partida",
@@ -3741,7 +3722,7 @@
       "puerta": "03",
       "ruta": "LIM",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
