@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/02/2020 21:20",
+  "lastUpdate": "28/02/2020 21:25",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1045,25 +1045,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8012",
-      "st": "28/02/2020 09:00",
-      "matricula": "PRMAG",
-      "posicion": "02",
-      "et": "28/2/2020 09:15",
-      "at": "28/2/2020 09:22",
-      "term": "A",
-      "sector": "",
-      "cinta": "3",
-      "lF": "001",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "117"
     },
     {
       "tipo": "arribo",
@@ -3619,7 +3600,7 @@
       "matricula": "LVCAD",
       "posicion": "17A",
       "et": "",
-      "at": "",
+      "at": "28/2/2020 21:21",
       "term": "C",
       "sector": "CPC",
       "chkFrom": "",
@@ -3627,7 +3608,7 @@
       "puerta": "",
       "ruta": "AEP",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3817,7 +3798,7 @@
       "puerta": "02",
       "ruta": "IAH",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3909,7 +3890,7 @@
       "sector": "AP",
       "chkFrom": "001",
       "chkTo": "020",
-      "puerta": "09",
+      "puerta": "08",
       "ruta": "JFK",
       "via": "",
       "remark": "HOR",
