@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/02/2020 07:49",
+  "lastUpdate": "29/02/2020 07:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -139,9 +139,9 @@
       "aerolinea": "DL",
       "vuelo": "101",
       "st": "29/02/2020 09:20",
-      "matricula": "",
+      "matricula": "N186DN",
       "posicion": "",
-      "et": "29/2/2020 09:00",
+      "et": "29/2/2020 08:59",
       "at": "",
       "term": "A",
       "sector": "",
@@ -151,7 +151,26 @@
       "via": "",
       "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "187"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "G3",
+      "vuelo": "7680",
+      "st": "29/02/2020 09:30",
+      "matricula": "PRGTF",
+      "posicion": "",
+      "et": "29/2/2020 09:00",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "156"
     },
     {
       "tipo": "arribo",
@@ -247,25 +266,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "301"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7680",
-      "st": "29/02/2020 09:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -1277,25 +1277,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "AU",
-      "vuelo": "2739",
-      "st": "28/02/2020 20:25",
-      "matricula": "LVGIK",
-      "posicion": "25B",
-      "et": "28/2/2020 19:53",
-      "at": "28/2/2020 19:52",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "12",
-      "lF": "018",
-      "ruta": "IGR",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "83"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AU",
       "vuelo": "2709",
       "st": "28/02/2020 20:05",
       "matricula": "LVCHS",
@@ -1672,25 +1653,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "127"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1245",
-      "st": "28/02/2020 22:15",
-      "matricula": "LVFWS",
-      "posicion": "72",
-      "et": "28/2/2020 22:10",
-      "at": "28/2/2020 22:09",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "115"
     },
     {
       "tipo": "arribo",
@@ -3676,7 +3638,7 @@
       "matricula": "LVFNI",
       "posicion": "13",
       "et": "",
-      "at": "",
+      "at": "29/2/2020 07:54",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3684,7 +3646,7 @@
       "puerta": "17",
       "ruta": "GIG",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3779,7 +3741,7 @@
       "puerta": "13",
       "ruta": "FLN",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3798,7 +3760,7 @@
       "puerta": "10",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3958,7 +3920,7 @@
       "aerolinea": "G3",
       "vuelo": "7453",
       "st": "29/02/2020 11:15",
-      "matricula": "",
+      "matricula": "PRGTF",
       "posicion": "",
       "et": "",
       "at": "",
@@ -4954,6 +4916,25 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
+      "puerta": "",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "G3",
+      "vuelo": "7685",
+      "st": "29/02/2020 19:55",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "068",
+      "chkTo": "074",
       "puerta": "",
       "ruta": "GRU",
       "via": "",
