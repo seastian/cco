@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/02/2020 03:35",
+  "lastUpdate": "29/02/2020 03:40",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1254,25 +1254,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "4M",
-      "vuelo": "7824",
-      "st": "28/02/2020 15:48",
-      "matricula": "CCCXD",
-      "posicion": "10",
-      "et": "28/2/2020 15:37",
-      "at": "28/2/2020 15:39",
-      "term": "A",
-      "sector": "",
-      "cinta": "1",
-      "lF": "002",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "167"
     },
     {
       "tipo": "arribo",
@@ -3214,25 +3195,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1302",
-      "st": "28/02/2020 23:00",
-      "matricula": "LVFNK",
-      "posicion": "15",
-      "et": "",
-      "at": "28/2/2020 23:06",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "213",
-      "chkTo": "240",
-      "puerta": "20",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AA",
       "vuelo": "954",
       "st": "28/02/2020 23:09",
@@ -3722,7 +3684,7 @@
       "puerta": "01",
       "ruta": "VCP",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3741,7 +3703,7 @@
       "puerta": "03",
       "ruta": "LIM",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
