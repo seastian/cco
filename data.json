@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/03/2020 12:37",
+  "lastUpdate": "01/03/2020 12:42",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3524,7 +3524,7 @@
       "matricula": "LVGGK",
       "posicion": "71",
       "et": "",
-      "at": "",
+      "at": "1/3/2020 12:41",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3532,7 +3532,7 @@
       "puerta": "24",
       "ruta": "BRC",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3814,7 +3814,7 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "19",
       "ruta": "FLN",
       "via": "",
       "remark": "HOR",
@@ -3852,7 +3852,7 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "13",
       "ruta": "GIG",
       "via": "",
       "remark": "HOR",
