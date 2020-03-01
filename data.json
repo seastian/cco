@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/03/2020 00:13",
+  "lastUpdate": "01/03/2020 00:18",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2397,25 +2397,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "G3",
-      "vuelo": "7702",
-      "st": "29/02/2020 12:00",
-      "matricula": "PRVBK",
-      "posicion": "50A",
-      "et": "",
-      "at": "29/2/2020 12:15",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "068",
-      "chkTo": "074",
-      "puerta": "12",
-      "ruta": "JPA",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1820",
       "st": "29/02/2020 12:05",
@@ -2740,25 +2721,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1618",
-      "st": "29/02/2020 15:45",
-      "matricula": "LVFVM",
-      "posicion": "17B",
-      "et": "",
-      "at": "29/2/2020 15:45",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "24",
-      "ruta": "CPC",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "1244",
       "st": "29/02/2020 15:45",
       "matricula": "LVFQY",
@@ -2771,6 +2733,25 @@
       "chkTo": "240",
       "puerta": "23",
       "ruta": "GRU",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1618",
+      "st": "29/02/2020 15:45",
+      "matricula": "LVFVM",
+      "posicion": "17B",
+      "et": "",
+      "at": "29/2/2020 15:45",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "24",
+      "ruta": "CPC",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -3695,7 +3676,7 @@
       "matricula": "N964AM",
       "posicion": "05",
       "et": "",
-      "at": "",
+      "at": "1/3/2020 00:15",
       "term": "A",
       "sector": "AP",
       "chkFrom": "034",
@@ -3703,7 +3684,7 @@
       "puerta": "04",
       "ruta": "MEX",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
