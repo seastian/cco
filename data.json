@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/03/2020 14:35",
+  "lastUpdate": "01/03/2020 14:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1032,9 +1032,9 @@
       "aerolinea": "CU",
       "vuelo": "360",
       "st": "01/03/2020 22:30",
-      "matricula": "",
+      "matricula": "T1250",
       "posicion": "",
-      "et": "",
+      "et": "1/3/2020 22:30",
       "at": "",
       "term": "A",
       "sector": "",
@@ -1042,9 +1042,9 @@
       "lF": "",
       "ruta": "HAV",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "196"
     },
     {
       "tipo": "arribo",
@@ -3752,7 +3752,7 @@
       "matricula": "GYMMU",
       "posicion": "11",
       "et": "",
-      "at": "",
+      "at": "1/3/2020 14:36",
       "term": "A",
       "sector": "AP",
       "chkFrom": "006",
@@ -3760,7 +3760,7 @@
       "puerta": "14",
       "ruta": "LHR",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -4984,7 +4984,7 @@
       "aerolinea": "CU",
       "vuelo": "361",
       "st": "02/03/2020 00:30",
-      "matricula": "",
+      "matricula": "T1250",
       "posicion": "",
       "et": "",
       "at": "",
