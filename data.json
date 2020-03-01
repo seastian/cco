@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/03/2020 06:26",
+  "lastUpdate": "01/03/2020 06:31",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -198,7 +198,7 @@
       "st": "01/03/2020 08:48",
       "matricula": "LVBRA",
       "posicion": "",
-      "et": "",
+      "et": "1/3/2020 08:51",
       "at": "",
       "term": "A",
       "sector": "",
@@ -206,9 +206,9 @@
       "lF": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "137"
     },
     {
       "tipo": "arribo",
@@ -216,7 +216,7 @@
       "vuelo": "6841",
       "st": "01/03/2020 08:35",
       "matricula": "ECIQR",
-      "posicion": "",
+      "posicion": "10",
       "et": "1/3/2020 09:00",
       "at": "",
       "term": "A",
@@ -3589,7 +3589,7 @@
       "puerta": "25",
       "ruta": "MDZ",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4471,7 +4471,7 @@
       "aerolinea": "AF",
       "vuelo": "229",
       "st": "01/03/2020 14:20",
-      "matricula": "",
+      "matricula": "FGSPY",
       "posicion": "",
       "et": "",
       "at": "",
