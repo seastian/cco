@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/03/2020 02:10",
+  "lastUpdate": "01/03/2020 02:15",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3741,7 +3741,7 @@
       "puerta": "21",
       "ruta": "BPS",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3798,7 +3798,7 @@
       "puerta": "02",
       "ruta": "LIM",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -4887,25 +4887,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1258",
-      "st": "01/03/2020 14:00",
-      "matricula": "LVFUA",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "GIG",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "1392",
       "st": "01/03/2020 14:00",
       "matricula": "LVBZA",
@@ -4918,6 +4899,25 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "MVD",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1258",
+      "st": "01/03/2020 14:00",
+      "matricula": "LVFUA",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "GIG",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -4956,6 +4956,44 @@
       "chkTo": "026",
       "puerta": "",
       "ruta": "MAD",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "G3",
+      "vuelo": "7653",
+      "st": "01/03/2020 14:15",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "068",
+      "chkTo": "074",
+      "puerta": "",
+      "ruta": "GIG",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "BA",
+      "vuelo": "244",
+      "st": "01/03/2020 14:15",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "007",
+      "chkTo": "012",
+      "puerta": "",
+      "ruta": "LHR",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
