@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/02/2020 22:30",
+  "lastUpdate": "29/02/2020 22:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3722,7 +3722,7 @@
       "puerta": "22",
       "ruta": "MIA",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3760,7 +3760,7 @@
       "puerta": "17",
       "ruta": "CUN",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3860,6 +3860,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "AA",
+      "vuelo": "908",
+      "st": "29/02/2020 23:55",
+      "matricula": "N782AN",
+      "posicion": "09",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "001",
+      "chkTo": "020",
+      "puerta": "09",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1132",
       "st": "29/02/2020 23:55",
@@ -3873,25 +3892,6 @@
       "chkTo": "240",
       "puerta": "16",
       "ruta": "MAD",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AA",
-      "vuelo": "908",
-      "st": "29/02/2020 23:55",
-      "matricula": "N782AN",
-      "posicion": "35",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "001",
-      "chkTo": "020",
-      "puerta": "09",
-      "ruta": "MIA",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
