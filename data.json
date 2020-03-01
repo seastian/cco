@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/02/2020 21:35",
+  "lastUpdate": "29/02/2020 21:40",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -107,8 +107,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "7",
+      "lF": "007",
       "ruta": "PUJ",
       "via": "SLA",
       "remark": "EST",
@@ -126,7 +126,7 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
+      "cinta": "5",
       "lF": "",
       "ruta": "SSA",
       "via": "",
@@ -164,8 +164,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "8",
+      "lF": "008",
       "ruta": "VVI",
       "via": "",
       "remark": "EST",
@@ -3467,7 +3467,7 @@
       "matricula": "PRGUY",
       "posicion": "50A",
       "et": "",
-      "at": "",
+      "at": "29/2/2020 21:38",
       "term": "A",
       "sector": "AP",
       "chkFrom": "068",
@@ -3475,7 +3475,7 @@
       "puerta": "13",
       "ruta": "SSA",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3486,7 +3486,7 @@
       "matricula": "ETAOU",
       "posicion": "05",
       "et": "",
-      "at": "",
+      "at": "29/2/2020 21:36",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "201",
@@ -3494,7 +3494,7 @@
       "puerta": "04",
       "ruta": "ADD",
       "via": "GRU",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3589,7 +3589,7 @@
       "puerta": "10",
       "ruta": "MIA",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3665,7 +3665,7 @@
       "puerta": "07",
       "ruta": "MIA",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
