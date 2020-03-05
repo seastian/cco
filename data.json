@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/03/2020 20:01",
+  "lastUpdate": "05/03/2020 20:07",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1083,44 +1083,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "174"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1495",
-      "st": "05/03/2020 07:30",
-      "matricula": "HCCPR",
-      "posicion": "02",
-      "et": "5/3/2020 08:03",
-      "at": "5/3/2020 08:04",
-      "term": "A",
-      "sector": "",
-      "cinta": "6",
-      "lF": "002",
-      "ruta": "UIO",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "UX",
-      "vuelo": "041",
-      "st": "05/03/2020 08:50",
-      "matricula": "ECNCY",
-      "posicion": "03",
-      "et": "5/3/2020 08:04",
-      "at": "5/3/2020 08:07",
-      "term": "A",
-      "sector": "",
-      "cinta": "4",
-      "lF": "001",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "297"
     },
     {
       "tipo": "arribo",
@@ -2343,10 +2305,10 @@
       "aerolinea": "AU",
       "vuelo": "2509",
       "st": "05/03/2020 20:20",
-      "matricula": "LVCHR",
+      "matricula": "LVCIF",
       "posicion": "23B",
       "et": "5/3/2020 20:02",
-      "at": "5/3/2020 19:58",
+      "at": "5/3/2020 20:02",
       "term": "C",
       "sector": "CAC",
       "cinta": "12",
@@ -3638,7 +3600,7 @@
       "matricula": "LVGVA",
       "posicion": "22A",
       "et": "",
-      "at": "",
+      "at": "5/3/2020 20:04",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3646,7 +3608,7 @@
       "puerta": "17",
       "ruta": "GRU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3657,7 +3619,7 @@
       "matricula": "PRTYQ",
       "posicion": "05",
       "et": "",
-      "at": "",
+      "at": "5/3/2020 20:00",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3665,7 +3627,7 @@
       "puerta": "04",
       "ruta": "SCL",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3703,7 +3665,7 @@
       "puerta": "03",
       "ruta": "LIM",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3741,7 +3703,7 @@
       "puerta": "08",
       "ruta": "DFW",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
