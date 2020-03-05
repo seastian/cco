@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/03/2020 12:05",
+  "lastUpdate": "05/03/2020 12:11",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1220,25 +1220,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "G3",
-      "vuelo": "7452",
-      "st": "05/03/2020 00:25",
-      "matricula": "PRVBH",
-      "posicion": "08",
-      "et": "5/3/2020 00:25",
-      "at": "5/3/2020 00:09",
-      "term": "A",
-      "sector": "",
-      "cinta": "5",
-      "lF": "005",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "71"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "G3",
       "vuelo": "7648",
       "st": "05/03/2020 01:05",
       "matricula": "PRGTC",
@@ -2093,25 +2074,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AF",
-      "vuelo": "228",
-      "st": "05/03/2020 09:40",
-      "matricula": "FGSPL",
-      "posicion": "11",
-      "et": "",
-      "at": "5/3/2020 09:37",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "007",
-      "ruta": "CDG",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "295"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1231",
       "st": "05/03/2020 10:00",
@@ -2128,6 +2090,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "67"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AF",
+      "vuelo": "228",
+      "st": "05/03/2020 09:40",
+      "matricula": "FGSPL",
+      "posicion": "11",
+      "et": "",
+      "at": "5/3/2020 09:37",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "007",
+      "ruta": "CDG",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "295"
     },
     {
       "tipo": "arribo",
@@ -3589,7 +3570,7 @@
       "puerta": "25",
       "ruta": "FTE",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3703,7 +3684,7 @@
       "puerta": "01",
       "ruta": "VCP",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3722,7 +3703,7 @@
       "puerta": "04",
       "ruta": "BCN",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4848,6 +4829,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "AM",
+      "vuelo": "029",
+      "st": "05/03/2020 23:55",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "034",
+      "chkTo": "040",
+      "puerta": "",
+      "ruta": "MEX",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1132",
       "st": "05/03/2020 23:55",
@@ -4880,25 +4880,6 @@
       "chkTo": "053",
       "puerta": "",
       "ruta": "ASU",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AM",
-      "vuelo": "029",
-      "st": "05/03/2020 23:55",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "034",
-      "chkTo": "040",
-      "puerta": "",
-      "ruta": "MEX",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -4956,6 +4937,25 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AV",
+      "vuelo": "218",
+      "st": "06/03/2020 00:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "013",
+      "chkTo": "015",
+      "puerta": "",
+      "ruta": "BOG",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
