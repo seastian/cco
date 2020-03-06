@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/03/2020 14:21",
+  "lastUpdate": "06/03/2020 14:26",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -64,7 +64,7 @@
       "vuelo": "7901",
       "st": "06/03/2020 15:15",
       "matricula": "LVBFO",
-      "posicion": "",
+      "posicion": "03",
       "et": "6/3/2020 15:15",
       "at": "",
       "term": "A",
@@ -121,7 +121,7 @@
       "vuelo": "092",
       "st": "06/03/2020 14:30",
       "matricula": "CFNNU",
-      "posicion": "",
+      "posicion": "05",
       "et": "6/3/2020 15:30",
       "at": "",
       "term": "A",
@@ -140,7 +140,7 @@
       "vuelo": "30",
       "st": "06/03/2020 16:00",
       "matricula": "ZKOKB",
-      "posicion": "",
+      "posicion": "10",
       "et": "6/3/2020 15:44",
       "at": "",
       "term": "A",
@@ -3779,7 +3779,7 @@
       "puerta": "17",
       "ruta": "FLN",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
