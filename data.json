@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/03/2020 02:33",
+  "lastUpdate": "06/03/2020 02:39",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3974,25 +3974,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "LP",
-      "vuelo": "2428",
-      "st": "06/03/2020 07:55",
-      "matricula": "CCCXH",
-      "posicion": "",
-      "et": "6/3/2020 06:25",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1428",
       "st": "06/03/2020 06:40",
@@ -4141,6 +4122,25 @@
       "ruta": "GIG",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LP",
+      "vuelo": "2428",
+      "st": "06/03/2020 07:55",
+      "matricula": "CCCXH",
+      "posicion": "",
+      "et": "6/3/2020 07:55",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "LIM",
+      "via": "",
+      "remark": "EST",
       "sanidad": "NO"
     },
     {
