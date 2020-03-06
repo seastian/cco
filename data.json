@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/03/2020 13:31",
+  "lastUpdate": "06/03/2020 13:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2346,14 +2346,14 @@
       "matricula": "PRMHZ",
       "posicion": "07",
       "et": "6/3/2020 13:20",
-      "at": "",
+      "at": "6/3/2020 13:31",
       "term": "A",
       "sector": "",
       "cinta": "3",
       "lF": "003",
       "ruta": "FLN",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "159"
     },
@@ -3670,6 +3670,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1258",
+      "st": "06/03/2020 14:15",
+      "matricula": "LVCTC",
+      "posicion": "71",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "13",
+      "ruta": "GIG",
+      "via": "",
+      "remark": "PRE",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "G3",
       "vuelo": "7653",
       "st": "06/03/2020 14:15",
@@ -3685,25 +3704,6 @@
       "ruta": "GIG",
       "via": "",
       "remark": "PRE",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1258",
-      "st": "06/03/2020 14:15",
-      "matricula": "LVCTC",
-      "posicion": "71",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "13",
-      "ruta": "GIG",
-      "via": "",
-      "remark": "HOR",
       "sanidad": "NO"
     },
     {
