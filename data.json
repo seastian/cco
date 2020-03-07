@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/03/2020 17:39",
+  "lastUpdate": "07/03/2020 17:45",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -158,9 +158,9 @@
       "aerolinea": "ET",
       "vuelo": "506",
       "st": "07/03/2020 19:55",
-      "matricula": "",
+      "matricula": "ETASG",
       "posicion": "",
-      "et": "",
+      "et": "7/3/2020 19:42",
       "at": "",
       "term": "A",
       "sector": "",
@@ -168,9 +168,9 @@
       "lF": "",
       "ruta": "ADD",
       "via": "GRU",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "155"
     },
     {
       "tipo": "arribo",
@@ -3646,7 +3646,7 @@
       "puerta": "05",
       "ruta": "VCP",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3684,7 +3684,7 @@
       "puerta": "23",
       "ruta": "CWB",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3920,7 +3920,7 @@
       "aerolinea": "ET",
       "vuelo": "507",
       "st": "07/03/2020 21:20",
-      "matricula": "",
+      "matricula": "ETASG",
       "posicion": "",
       "et": "",
       "at": "",
