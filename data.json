@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/03/2020 17:45",
+  "lastUpdate": "07/03/2020 17:50",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -953,25 +953,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AV",
-      "vuelo": "087",
-      "st": "07/03/2020 05:30",
-      "matricula": "N280AV",
-      "posicion": "10",
-      "et": "7/3/2020 05:55",
-      "at": "7/3/2020 05:50",
-      "term": "A",
-      "sector": "",
-      "cinta": "5",
-      "lF": "001",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "219"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "G3",
       "vuelo": "7471",
       "st": "07/03/2020 06:45",
@@ -1808,6 +1789,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "G3",
+      "vuelo": "7688",
+      "st": "07/03/2020 13:30",
+      "matricula": "PRGZI",
+      "posicion": "07",
+      "et": "7/3/2020 13:30",
+      "at": "7/3/2020 13:31",
+      "term": "A",
+      "sector": "",
+      "cinta": "5",
+      "lF": "007",
+      "ruta": "BSB",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "120"
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "AC",
       "vuelo": "092",
       "st": "07/03/2020 13:30",
@@ -1843,25 +1843,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "215"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7688",
-      "st": "07/03/2020 13:30",
-      "matricula": "PRGZI",
-      "posicion": "07",
-      "et": "7/3/2020 13:30",
-      "at": "7/3/2020 13:31",
-      "term": "A",
-      "sector": "",
-      "cinta": "5",
-      "lF": "007",
-      "ruta": "BSB",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "120"
     },
     {
       "tipo": "arribo",
@@ -3665,7 +3646,7 @@
       "puerta": "08",
       "ruta": "FRA",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3684,7 +3665,7 @@
       "puerta": "23",
       "ruta": "CWB",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3703,7 +3684,7 @@
       "puerta": "21",
       "ruta": "GIG",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3722,7 +3703,7 @@
       "puerta": "10",
       "ruta": "SCL",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4221,25 +4202,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "G3",
-      "vuelo": "7671",
-      "st": "07/03/2020 23:55",
-      "matricula": "PRGUR",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "068",
-      "chkTo": "074",
-      "puerta": "",
-      "ruta": "FOR",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1132",
       "st": "07/03/2020 23:55",
@@ -4272,6 +4234,25 @@
       "chkTo": "040",
       "puerta": "",
       "ruta": "MEX",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "G3",
+      "vuelo": "7671",
+      "st": "07/03/2020 23:55",
+      "matricula": "PRGUR",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "068",
+      "chkTo": "074",
+      "puerta": "",
+      "ruta": "FOR",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
