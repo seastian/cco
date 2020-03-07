@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/03/2020 03:22",
+  "lastUpdate": "07/03/2020 03:27",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -193,25 +193,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7471",
-      "st": "07/03/2020 06:45",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "REC",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "CM",
       "vuelo": "454",
       "st": "07/03/2020 07:06",
@@ -228,6 +209,25 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "138"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "G3",
+      "vuelo": "7471",
+      "st": "07/03/2020 06:45",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "REC",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -288,25 +288,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "4M",
-      "vuelo": "7821",
-      "st": "07/03/2020 07:25",
-      "matricula": "CCCXD",
-      "posicion": "",
-      "et": "7/3/2020 07:00",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "215"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1361",
       "st": "07/03/2020 07:10",
@@ -323,6 +304,25 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "4M",
+      "vuelo": "7821",
+      "st": "07/03/2020 07:25",
+      "matricula": "CCCXD",
+      "posicion": "",
+      "et": "7/3/2020 07:10",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "215"
     },
     {
       "tipo": "arribo",
