@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/03/2020 06:11",
+  "lastUpdate": "07/03/2020 06:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -160,7 +160,7 @@
       "st": "07/03/2020 07:25",
       "matricula": "CCCXD",
       "posicion": "08",
-      "et": "7/3/2020 07:10",
+      "et": "7/3/2020 07:05",
       "at": "",
       "term": "A",
       "sector": "",
@@ -3627,7 +3627,7 @@
       "puerta": "26",
       "ruta": "SLA",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3646,7 +3646,7 @@
       "puerta": "13",
       "ruta": "GRU",
       "via": "",
-      "remark": "PRE",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3665,7 +3665,7 @@
       "puerta": "27",
       "ruta": "MDZ",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
