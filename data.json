@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/03/2020 03:33",
+  "lastUpdate": "07/03/2020 03:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -293,7 +293,7 @@
       "st": "07/03/2020 07:10",
       "matricula": "LVCAD",
       "posicion": "",
-      "et": "7/3/2020 07:04",
+      "et": "7/3/2020 06:59",
       "at": "",
       "term": "A",
       "sector": "",
@@ -1257,25 +1257,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "NZ",
-      "vuelo": "30",
-      "st": "06/03/2020 16:00",
-      "matricula": "ZKOKB",
-      "posicion": "10",
-      "et": "6/3/2020 15:32",
-      "at": "6/3/2020 15:34",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "AKL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "279"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "4M",
       "vuelo": "7824",
       "st": "06/03/2020 15:48",
@@ -1314,25 +1295,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AU",
-      "vuelo": "2413",
-      "st": "06/03/2020 16:15",
-      "matricula": "LVGIQ",
-      "posicion": "25B",
-      "et": "6/3/2020 16:20",
-      "at": "6/3/2020 16:20",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "11",
-      "lF": "017",
-      "ruta": "MDZ",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1873",
       "st": "06/03/2020 16:20",
@@ -1349,6 +1311,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "135"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AU",
+      "vuelo": "2413",
+      "st": "06/03/2020 16:15",
+      "matricula": "LVGIQ",
+      "posicion": "25B",
+      "et": "6/3/2020 16:20",
+      "at": "6/3/2020 16:20",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "11",
+      "lF": "017",
+      "ruta": "MDZ",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -1485,25 +1466,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "4M",
-      "vuelo": "7505",
-      "st": "06/03/2020 19:30",
-      "matricula": "LVCQS",
-      "posicion": "03",
-      "et": "6/3/2020 19:05",
-      "at": "6/3/2020 19:08",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "11",
-      "lF": "018",
-      "ruta": "IGR",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "153"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "G3",
       "vuelo": "7684",
       "st": "06/03/2020 19:05",
@@ -1520,6 +1482,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "136"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "4M",
+      "vuelo": "7505",
+      "st": "06/03/2020 19:30",
+      "matricula": "LVCQS",
+      "posicion": "03",
+      "et": "6/3/2020 19:05",
+      "at": "6/3/2020 19:08",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "11",
+      "lF": "018",
+      "ruta": "IGR",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "153"
     },
     {
       "tipo": "arribo",
@@ -3589,7 +3570,7 @@
       "puerta": "01",
       "ruta": "LIM",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3608,7 +3589,7 @@
       "puerta": "03",
       "ruta": "LIM",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
