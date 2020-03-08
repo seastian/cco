@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/03/2020 02:17",
+  "lastUpdate": "08/03/2020 02:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3437,7 +3437,7 @@
       "puerta": "23",
       "ruta": "BPS",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
