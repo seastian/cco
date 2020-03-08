@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/03/2020 13:46",
+  "lastUpdate": "08/03/2020 13:51",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1326,6 +1326,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "ASU",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "G3",
+      "vuelo": "7690",
+      "st": "09/03/2020 01:50",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "FLN",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -3608,7 +3627,7 @@
       "puerta": "14",
       "ruta": "LHR",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3627,7 +3646,7 @@
       "puerta": "05",
       "ruta": "GIG",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3665,7 +3684,7 @@
       "puerta": "07",
       "ruta": "FLN",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
