@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/03/2020 15:42",
+  "lastUpdate": "08/03/2020 15:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3695,7 +3695,7 @@
       "matricula": "CFNNU",
       "posicion": "10",
       "et": "8/3/2020 15:40",
-      "at": "",
+      "at": "8/3/2020 15:43",
       "term": "A",
       "sector": "AP",
       "chkFrom": "061",
@@ -3703,7 +3703,7 @@
       "puerta": "10",
       "ruta": "YYZ",
       "via": "SCL",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3757,7 +3757,7 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "21",
+      "puerta": "23",
       "ruta": "SCL",
       "via": "",
       "remark": "PRE",
@@ -3779,7 +3779,7 @@
       "puerta": "07",
       "ruta": "GRU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
