@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/03/2020 13:40",
+  "lastUpdate": "08/03/2020 13:46",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -141,7 +141,7 @@
       "st": "08/03/2020 15:35",
       "matricula": "LVFQB",
       "posicion": "",
-      "et": "8/3/2020 15:18",
+      "et": "8/3/2020 15:16",
       "at": "",
       "term": "A",
       "sector": "",
@@ -3589,7 +3589,7 @@
       "puerta": "02",
       "ruta": "MAD",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3646,7 +3646,7 @@
       "puerta": "22",
       "ruta": "CDG",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
