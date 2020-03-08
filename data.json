@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/03/2020 13:08",
+  "lastUpdate": "08/03/2020 13:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2207,25 +2207,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "IB_",
-      "vuelo": "2601",
-      "st": "08/03/2020 11:05",
-      "matricula": "ECMOU",
-      "posicion": "14",
-      "et": "8/3/2020 10:50",
-      "at": "8/3/2020 10:52",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "BCN",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "262"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AA",
       "vuelo": "953",
       "st": "08/03/2020 10:43",
@@ -2242,6 +2223,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "205"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "IB_",
+      "vuelo": "2601",
+      "st": "08/03/2020 11:05",
+      "matricula": "ECMOU",
+      "posicion": "14",
+      "et": "8/3/2020 10:50",
+      "at": "8/3/2020 10:52",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "009",
+      "ruta": "BCN",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "262"
     },
     {
       "tipo": "arribo",
@@ -2394,6 +2394,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "102"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "G3",
+      "vuelo": "7682",
+      "st": "08/03/2020 13:40",
+      "matricula": "PRGZI",
+      "posicion": "07",
+      "et": "8/3/2020 13:37",
+      "at": "8/3/2020 13:14",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "108"
     },
     {
       "tipo": "partida",
@@ -3486,7 +3505,7 @@
       "matricula": "PRYRL",
       "posicion": "02",
       "et": "",
-      "at": "",
+      "at": "8/3/2020 13:11",
       "term": "A",
       "sector": "AP",
       "chkFrom": "075",
@@ -3494,7 +3513,7 @@
       "puerta": "01",
       "ruta": "VCP",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3589,7 +3608,7 @@
       "puerta": "02",
       "ruta": "MAD",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
