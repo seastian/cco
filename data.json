@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/03/2020 05:30",
+  "lastUpdate": "08/03/2020 05:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -19,25 +19,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "308"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7460",
-      "st": "08/03/2020 05:55",
-      "matricula": "PRGTC",
-      "posicion": "08",
-      "et": "8/3/2020 05:49",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "2",
-      "lF": "002",
-      "ruta": "NAT",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -65,7 +46,7 @@
       "st": "08/03/2020 07:08",
       "matricula": "N750AN",
       "posicion": "04",
-      "et": "8/3/2020 06:34",
+      "et": "8/3/2020 06:30",
       "at": "",
       "term": "A",
       "sector": "",
@@ -288,25 +269,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "UX",
-      "vuelo": "041",
-      "st": "08/03/2020 08:50",
-      "matricula": "ECNFM",
-      "posicion": "",
-      "et": "8/3/2020 08:45",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "296"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "IB",
       "vuelo": "6841",
       "st": "08/03/2020 08:35",
@@ -323,6 +285,25 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "331"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "UX",
+      "vuelo": "041",
+      "st": "08/03/2020 08:50",
+      "matricula": "ECNFM",
+      "posicion": "",
+      "et": "8/3/2020 08:45",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MAD",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "296"
     },
     {
       "tipo": "arribo",
@@ -1136,6 +1117,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "MVD",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AU",
+      "vuelo": "2413",
+      "st": "08/03/2020 16:15",
+      "matricula": "LVCHO",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MDZ",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -3304,7 +3304,7 @@
       "puerta": "02",
       "ruta": "PTY",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3361,7 +3361,7 @@
       "puerta": "19",
       "ruta": "POA",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3565,7 +3565,7 @@
       "at": "",
       "term": "A",
       "sector": "AP",
-      "chkFrom": "041",
+      "chkFrom": "040",
       "chkTo": "053",
       "puerta": "",
       "ruta": "LIM",
