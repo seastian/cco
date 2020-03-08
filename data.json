@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/03/2020 07:23",
+  "lastUpdate": "08/03/2020 07:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -160,7 +160,7 @@
       "st": "08/03/2020 09:00",
       "matricula": "PRMBO",
       "posicion": "",
-      "et": "8/3/2020 09:05",
+      "et": "8/3/2020 08:58",
       "at": "",
       "term": "A",
       "sector": "",
@@ -2175,14 +2175,14 @@
       "matricula": "CCBJA",
       "posicion": "06",
       "et": "",
-      "at": "",
+      "at": "8/3/2020 07:24",
       "term": "A",
       "sector": "",
       "cinta": "5",
       "lF": "004",
       "ruta": "LIM",
       "via": "",
-      "remark": "CON",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -3475,7 +3475,7 @@
       "puerta": "27",
       "ruta": "COR",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4078,7 +4078,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "201",
+      "chkFrom": "203",
       "chkTo": "210",
       "puerta": "17",
       "ruta": "FCO",
