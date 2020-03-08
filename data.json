@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/03/2020 17:50",
+  "lastUpdate": "08/03/2020 17:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3855,26 +3855,7 @@
       "puerta": "23",
       "ruta": "CWB",
       "via": "",
-      "remark": "ULT",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1290",
-      "st": "08/03/2020 18:15",
-      "matricula": "LVFWS",
-      "posicion": "15B",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "21",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "HOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3913,6 +3894,25 @@
       "ruta": "AEP",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1290",
+      "st": "08/03/2020 18:15",
+      "matricula": "LVFWS",
+      "posicion": "15B",
+      "et": "8/3/2020 18:30",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "21",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "EST",
       "sanidad": "NO"
     },
     {
