@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/03/2020 14:51",
+  "lastUpdate": "08/03/2020 14:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1269,6 +1269,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "VVI",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AD",
+      "vuelo": "9302",
+      "st": "09/03/2020 02:55",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "VCP",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -3760,7 +3779,7 @@
       "puerta": "02",
       "ruta": "SCL",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3779,7 +3798,7 @@
       "puerta": "10",
       "ruta": "YYZ",
       "via": "SCL",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
