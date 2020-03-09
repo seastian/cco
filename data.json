@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/03/2020 14:19",
+  "lastUpdate": "09/03/2020 14:24",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2472,6 +2472,25 @@
       "pax": ""
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "H2",
+      "vuelo": "507",
+      "st": "09/03/2020 14:47",
+      "matricula": "CCAIY",
+      "posicion": "04",
+      "et": "9/3/2020 14:25",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "5",
+      "lF": "005",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "116"
+    },
+    {
       "tipo": "partida",
       "aerolinea": "AOG",
       "vuelo": "102",
@@ -3722,7 +3741,7 @@
       "puerta": "07",
       "ruta": "GIG",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3817,7 +3836,7 @@
       "puerta": "01",
       "ruta": "FLN",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3874,7 +3893,7 @@
       "puerta": "04",
       "ruta": "VVI",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
