@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/03/2020 02:48",
+  "lastUpdate": "09/03/2020 02:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3950,7 +3950,7 @@
       "puerta": "16",
       "ruta": "PUJ",
       "via": "RES",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3969,7 +3969,7 @@
       "puerta": "15",
       "ruta": "GIG",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
