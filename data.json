@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/03/2020 07:44",
+  "lastUpdate": "09/03/2020 07:49",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3950,7 +3950,7 @@
       "puerta": "05",
       "ruta": "LIM",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -4007,7 +4007,7 @@
       "puerta": "24",
       "ruta": "IGR",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -5184,6 +5184,25 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "GRU",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AA",
+      "vuelo": "996",
+      "st": "09/03/2020 19:50",
+      "matricula": "N795AN",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "001",
+      "chkTo": "020",
+      "puerta": "",
+      "ruta": "DFW",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
