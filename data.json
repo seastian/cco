@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/03/2020 00:30",
+  "lastUpdate": "09/03/2020 00:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -160,7 +160,7 @@
       "st": "09/03/2020 04:00",
       "matricula": "",
       "posicion": "",
-      "et": "",
+      "et": "9/3/2020 03:47",
       "at": "",
       "term": "A",
       "sector": "",
@@ -168,9 +168,9 @@
       "lF": "",
       "ruta": "MCO",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "230"
     },
     {
       "tipo": "arribo",
@@ -2600,7 +2600,7 @@
       "lF": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "",
+      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
@@ -4026,7 +4026,7 @@
       "puerta": "12",
       "ruta": "BOG",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
