@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/03/2020 19:01",
+  "lastUpdate": "09/03/2020 19:06",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1086,22 +1086,22 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AV",
-      "vuelo": "087",
-      "st": "09/03/2020 05:30",
-      "matricula": "N973AV",
-      "posicion": "09",
-      "et": "9/3/2020 07:03",
-      "at": "9/3/2020 07:03",
+      "aerolinea": "CM",
+      "vuelo": "454",
+      "st": "10/03/2020 07:06",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "5",
-      "lF": "001",
-      "ruta": "BOG",
+      "cinta": "",
+      "lF": "",
+      "ruta": "PTY",
       "via": "",
-      "remark": "ATE",
+      "remark": "",
       "sanidad": "NO",
-      "pax": "200"
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -1865,25 +1865,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "OB",
-      "vuelo": "708",
-      "st": "09/03/2020 13:30",
-      "matricula": "CP3017",
-      "posicion": "05",
-      "et": "9/3/2020 13:40",
-      "at": "9/3/2020 13:41",
-      "term": "A",
-      "sector": "",
-      "cinta": "4",
-      "lF": "004",
-      "ruta": "VVI",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "218"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1787",
       "st": "09/03/2020 14:00",
@@ -2486,25 +2467,6 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "EPA",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AU",
-      "vuelo": "2472",
-      "st": "09/03/2020 06:40",
-      "matricula": "LVCHS",
-      "posicion": "22B",
-      "et": "",
-      "at": "9/3/2020 07:05",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "25",
-      "ruta": "TUC",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -3893,7 +3855,7 @@
       "puerta": "02",
       "ruta": "SCL",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
