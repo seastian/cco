@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/03/2020 01:47",
+  "lastUpdate": "09/03/2020 01:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3999,7 +3999,7 @@
       "matricula": "CUT1250",
       "posicion": "03",
       "et": "9/3/2020 01:10",
-      "at": "",
+      "at": "9/3/2020 01:52",
       "term": "A",
       "sector": "AP",
       "chkFrom": "082",
@@ -4007,7 +4007,7 @@
       "puerta": "02",
       "ruta": "HAV",
       "via": "CCC",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -4037,7 +4037,7 @@
       "matricula": "HP1838",
       "posicion": "06",
       "et": "",
-      "at": "",
+      "at": "9/3/2020 01:53",
       "term": "A",
       "sector": "AP",
       "chkFrom": "016",
@@ -4045,7 +4045,7 @@
       "puerta": "05",
       "ruta": "PTY",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
