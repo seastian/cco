@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/03/2020 01:41",
+  "lastUpdate": "09/03/2020 01:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -83,7 +83,7 @@
       "vuelo": "102",
       "st": "09/03/2020 01:30",
       "matricula": "CXCAR",
-      "posicion": "52B",
+      "posicion": "51A",
       "et": "9/3/2020 03:00",
       "at": "",
       "term": "TCA",
