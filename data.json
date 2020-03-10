@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/03/2020 22:30",
+  "lastUpdate": "09/03/2020 22:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -307,25 +307,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1301",
-      "st": "10/03/2020 04:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "10/3/2020 04:08",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "JFK",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "CM",
       "vuelo": "363",
       "st": "10/03/2020 04:08",
@@ -340,6 +321,25 @@
       "ruta": "PTY",
       "via": "",
       "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1301",
+      "st": "10/03/2020 04:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "10/3/2020 04:08",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "JFK",
+      "via": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -464,7 +464,7 @@
       "st": "10/03/2020 06:08",
       "matricula": "",
       "posicion": "",
-      "et": "",
+      "et": "10/3/2020 05:32",
       "at": "",
       "term": "A",
       "sector": "",
@@ -472,9 +472,9 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "208"
     },
     {
       "tipo": "arribo",
@@ -1121,44 +1121,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "4M",
-      "vuelo": "7813",
-      "st": "09/03/2020 10:33",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "455",
-      "st": "09/03/2020 10:48",
-      "matricula": "CCBGP",
-      "posicion": "16",
-      "et": "9/3/2020 10:40",
-      "at": "9/3/2020 10:33",
-      "term": "A",
-      "sector": "",
-      "cinta": "5",
-      "lF": "001",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "189"
     },
     {
       "tipo": "arribo",
@@ -3752,7 +3714,7 @@
       "matricula": "A6ECM",
       "posicion": "05",
       "et": "",
-      "at": "",
+      "at": "9/3/2020 22:32",
       "term": "A",
       "sector": "AP",
       "chkFrom": "027",
@@ -3760,7 +3722,7 @@
       "puerta": "04",
       "ruta": "DXB",
       "via": "GIG",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
