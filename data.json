@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/03/2020 03:04",
+  "lastUpdate": "10/03/2020 03:09",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1155,6 +1155,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "GIG",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1229",
+      "st": "10/03/2020 15:05",
+      "matricula": "LVCXT",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SSA",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -2394,25 +2413,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1272",
-      "st": "09/03/2020 14:45",
-      "matricula": "LVFVN",
-      "posicion": "15B",
-      "et": "",
-      "at": "9/3/2020 15:07",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "21",
-      "ruta": "FLN",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
@@ -3722,7 +3722,7 @@
       "puerta": "10",
       "ruta": "VCP",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
