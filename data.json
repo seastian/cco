@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/03/2020 12:38",
+  "lastUpdate": "10/03/2020 12:43",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3315,7 +3315,7 @@
       "matricula": "LVCTB",
       "posicion": "17B",
       "et": "10/3/2020 12:25",
-      "at": "",
+      "at": "10/3/2020 12:40",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3323,7 +3323,7 @@
       "puerta": "24",
       "ruta": "BRC",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
