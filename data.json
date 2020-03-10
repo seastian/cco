@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/03/2020 05:12",
+  "lastUpdate": "10/03/2020 05:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3600,7 +3600,7 @@
       "matricula": "LVCXT",
       "posicion": "72",
       "et": "",
-      "at": "",
+      "at": "10/3/2020 05:15",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3608,7 +3608,7 @@
       "puerta": "17",
       "ruta": "SSA",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3741,7 +3741,7 @@
       "puerta": "02",
       "ruta": "LIM",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
