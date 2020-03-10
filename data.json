@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/03/2020 01:52",
+  "lastUpdate": "10/03/2020 01:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3771,7 +3771,7 @@
       "matricula": "HP1848",
       "posicion": "07",
       "et": "",
-      "at": "",
+      "at": "10/3/2020 01:55",
       "term": "A",
       "sector": "AP",
       "chkFrom": "016",
@@ -3779,7 +3779,7 @@
       "puerta": "06",
       "ruta": "PTY",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3855,7 +3855,7 @@
       "puerta": "02",
       "ruta": "GIG",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
