@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/03/2020 12:32",
+  "lastUpdate": "10/03/2020 12:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1117,6 +1117,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "GRU",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "CM",
+      "vuelo": "279",
+      "st": "11/03/2020 00:34",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "PTY",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -3220,7 +3239,7 @@
       "matricula": "LVGGK",
       "posicion": "17A",
       "et": "",
-      "at": "",
+      "at": "10/3/2020 12:15",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3228,7 +3247,7 @@
       "puerta": "24",
       "ruta": "FTE",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3277,7 +3296,7 @@
       "matricula": "LVBHU",
       "posicion": "51A",
       "et": "",
-      "at": "",
+      "at": "10/3/2020 12:23",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3285,7 +3304,7 @@
       "puerta": "27",
       "ruta": "BRC",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3315,7 +3334,7 @@
       "matricula": "PTMXB",
       "posicion": "06",
       "et": "",
-      "at": "",
+      "at": "10/3/2020 12:31",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3323,7 +3342,7 @@
       "puerta": "05",
       "ruta": "GRU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3418,7 +3437,7 @@
       "puerta": "02",
       "ruta": "MAD",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
