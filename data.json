@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/03/2020 22:51",
+  "lastUpdate": "11/03/2020 22:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3841,25 +3841,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "EK",
-      "vuelo": "248",
-      "st": "11/03/2020 22:20",
-      "matricula": "A6ECE",
-      "posicion": "04",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "027",
-      "chkTo": "036",
-      "puerta": "03",
-      "ruta": "DXB",
-      "via": "GIG",
-      "remark": "CER",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AA",
       "vuelo": "954",
       "st": "11/03/2020 22:20",
@@ -3875,6 +3856,25 @@
       "ruta": "JFK",
       "via": "",
       "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "EK",
+      "vuelo": "248",
+      "st": "11/03/2020 22:20",
+      "matricula": "A6ECE",
+      "posicion": "04",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "027",
+      "chkTo": "036",
+      "puerta": "03",
+      "ruta": "DXB",
+      "via": "GIG",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3904,7 +3904,7 @@
       "matricula": "LVGIF",
       "posicion": "12",
       "et": "",
-      "at": "",
+      "at": "11/3/2020 22:55",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3912,7 +3912,7 @@
       "puerta": "16",
       "ruta": "FCO",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -4107,25 +4107,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AM",
-      "vuelo": "029",
-      "st": "11/03/2020 23:55",
-      "matricula": "XAADD",
-      "posicion": "05",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "034",
-      "chkTo": "040",
-      "puerta": "04",
-      "ruta": "MEX",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "PZ",
       "vuelo": "1310",
       "st": "11/03/2020 23:55",
@@ -4139,6 +4120,25 @@
       "chkTo": "053",
       "puerta": "05",
       "ruta": "ASU",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AM",
+      "vuelo": "029",
+      "st": "11/03/2020 23:55",
+      "matricula": "XAADD",
+      "posicion": "05",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "034",
+      "chkTo": "040",
+      "puerta": "04",
+      "ruta": "MEX",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -4235,7 +4235,7 @@
       "puerta": "01",
       "ruta": "BOG",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
