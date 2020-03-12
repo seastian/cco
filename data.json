@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/03/2020 04:04",
+  "lastUpdate": "12/03/2020 04:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2555,14 +2555,14 @@
       "matricula": "LVGKO",
       "posicion": "12",
       "et": "12/3/2020 04:02",
-      "at": "",
+      "at": "12/3/2020 04:09",
       "term": "A",
       "sector": "",
       "cinta": "7",
       "lF": "007",
       "ruta": "JFK",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "178"
     },
@@ -3860,25 +3860,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "4M",
-      "vuelo": "7900",
-      "st": "12/03/2020 04:20",
-      "matricula": "LVFUX",
-      "posicion": "06",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "05",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "G3",
       "vuelo": "7689",
       "st": "12/03/2020 04:40",
@@ -3989,6 +3970,25 @@
       "ruta": "GRU",
       "via": "",
       "remark": "CAN",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "4M",
+      "vuelo": "7900",
+      "st": "12/03/2020 04:20",
+      "matricula": "LVFUX",
+      "posicion": "06",
+      "et": "12/3/2020 05:45",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "05",
+      "ruta": "LIM",
+      "via": "",
+      "remark": "DEM",
       "sanidad": "NO"
     },
     {
