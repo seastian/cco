@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/03/2020 03:28",
+  "lastUpdate": "12/03/2020 03:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -5261,6 +5261,25 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AC",
+      "vuelo": "093",
+      "st": "12/03/2020 15:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "061",
+      "chkTo": "067",
+      "puerta": "",
+      "ruta": "YYZ",
+      "via": "SCL",
       "remark": "HOR",
       "sanidad": "NO"
     }
