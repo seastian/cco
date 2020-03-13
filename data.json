@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/03/2020 05:40",
+  "lastUpdate": "13/03/2020 05:45",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3703,7 +3703,7 @@
       "puerta": "",
       "ruta": "AEP",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -3737,7 +3737,7 @@
       "term": "A",
       "sector": "AP",
       "chkFrom": "001",
-      "chkTo": "020",
+      "chkTo": "005",
       "puerta": "",
       "ruta": "JFK",
       "via": "",
