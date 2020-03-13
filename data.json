@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/03/2020 03:48",
+  "lastUpdate": "13/03/2020 03:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2549,25 +2549,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1244",
-      "st": "12/03/2020 15:20",
-      "matricula": "LVFVN",
-      "posicion": "14A",
-      "et": "12/3/2020 15:40",
-      "at": "12/3/2020 15:50",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "18",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "JJ",
       "vuelo": "8011",
       "st": "12/03/2020 16:15",
@@ -3817,7 +3798,7 @@
       "puerta": "03",
       "ruta": "VVI",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4443,25 +4424,6 @@
       "chkTo": "081",
       "puerta": "",
       "ruta": "SCL",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1274",
-      "st": "13/03/2020 09:55",
-      "matricula": "LVGKT",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "FLN",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
