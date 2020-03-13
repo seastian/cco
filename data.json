@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/03/2020 13:30",
+  "lastUpdate": "13/03/2020 13:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -139,9 +139,9 @@
       "aerolinea": "H2",
       "vuelo": "507",
       "st": "13/03/2020 14:47",
-      "matricula": "",
+      "matricula": "CCAZK",
       "posicion": "",
-      "et": "",
+      "et": "13/3/2020 14:46",
       "at": "",
       "term": "A",
       "sector": "",
@@ -149,9 +149,9 @@
       "lF": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "128"
     },
     {
       "tipo": "arribo",
@@ -2346,14 +2346,14 @@
       "matricula": "PRMHX",
       "posicion": "07",
       "et": "13/3/2020 13:25",
-      "at": "",
+      "at": "13/3/2020 13:35",
       "term": "A",
       "sector": "",
       "cinta": "4",
       "lF": "004",
       "ruta": "FLN",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "161"
     },
@@ -3448,7 +3448,7 @@
       "matricula": "LVHQI",
       "posicion": "06",
       "et": "",
-      "at": "",
+      "at": "13/3/2020 13:30",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -3456,7 +3456,7 @@
       "puerta": "27",
       "ruta": "IGR",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3741,7 +3741,7 @@
       "puerta": "04",
       "ruta": "LHR",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3882,7 +3882,7 @@
       "aerolinea": "H2",
       "vuelo": "508",
       "st": "13/03/2020 15:22",
-      "matricula": "",
+      "matricula": "CCAZK",
       "posicion": "",
       "et": "",
       "at": "",
