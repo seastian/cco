@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/03/2020 00:51",
+  "lastUpdate": "13/03/2020 00:56",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2460,14 +2460,14 @@
       "matricula": "LVHFQ",
       "posicion": "52A",
       "et": "13/3/2020 00:50",
-      "at": "",
+      "at": "13/3/2020 00:56",
       "term": "C",
       "sector": "CAC",
       "cinta": "11",
       "lF": "",
       "ruta": "TUC",
       "via": "",
-      "remark": "DEM",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "188"
     },
