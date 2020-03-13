@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/03/2020 05:51",
+  "lastUpdate": "13/03/2020 05:56",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3798,7 +3798,7 @@
       "puerta": "13",
       "ruta": "ASU",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3855,7 +3855,7 @@
       "puerta": "",
       "ruta": "GRU",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3893,7 +3893,7 @@
       "puerta": "26",
       "ruta": "MDZ",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
