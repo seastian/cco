@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/03/2020 12:46",
+  "lastUpdate": "13/03/2020 12:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -41,6 +41,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "JJ",
+      "vuelo": "8042",
+      "st": "13/03/2020 13:35",
+      "matricula": "PRMHX",
+      "posicion": "07",
+      "et": "13/3/2020 13:25",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "4",
+      "lF": "004",
+      "ruta": "FLN",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "161"
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "AC",
       "vuelo": "092",
       "st": "13/03/2020 13:30",
@@ -57,25 +76,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "176"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8042",
-      "st": "13/03/2020 13:35",
-      "matricula": "PRMHX",
-      "posicion": "07",
-      "et": "13/3/2020 13:30",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "4",
-      "lF": "004",
-      "ruta": "FLN",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "161"
     },
     {
       "tipo": "arribo",
