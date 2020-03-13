@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/03/2020 05:06",
+  "lastUpdate": "13/03/2020 05:12",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1273,25 +1273,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "445",
-      "st": "12/03/2020 17:00",
-      "matricula": "CCBGI",
-      "posicion": "03",
-      "et": "12/3/2020 17:10",
-      "at": "12/3/2020 17:11",
-      "term": "A",
-      "sector": "",
-      "cinta": "4",
-      "lF": "004",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "203"
     },
     {
       "tipo": "arribo",
@@ -3855,7 +3836,7 @@
       "puerta": "17",
       "ruta": "POA",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3871,7 +3852,7 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "19",
+      "puerta": "13",
       "ruta": "ASU",
       "via": "",
       "remark": "HOR",
@@ -4002,7 +3983,7 @@
       "at": "",
       "term": "A",
       "sector": "AP",
-      "chkFrom": "041",
+      "chkFrom": "039",
       "chkTo": "053",
       "puerta": "01",
       "ruta": "SCL",
@@ -5108,6 +5089,25 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "ASU",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "4M",
+      "vuelo": "7506",
+      "st": "13/03/2020 17:10",
+      "matricula": "LVFUX",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "IGR",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
