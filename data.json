@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/03/2020 12:35",
+  "lastUpdate": "13/03/2020 12:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3562,7 +3562,7 @@
       "matricula": "LVGVB",
       "posicion": "72",
       "et": "13/3/2020 12:25",
-      "at": "",
+      "at": "13/3/2020 12:37",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3570,7 +3570,7 @@
       "puerta": "25",
       "ruta": "BRC",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3665,7 +3665,7 @@
       "puerta": "01",
       "ruta": "VCP",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -4586,14 +4586,14 @@
       "vuelo": "954",
       "st": "13/03/2020 22:20",
       "matricula": "N773AN",
-      "posicion": "13",
+      "posicion": "34",
       "et": "",
       "at": "",
       "term": "A",
       "sector": "AP",
       "chkFrom": "001",
       "chkTo": "020",
-      "puerta": "17",
+      "puerta": "",
       "ruta": "JFK",
       "via": "",
       "remark": "HOR",
