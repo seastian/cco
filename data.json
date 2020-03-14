@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/03/2020 17:32",
+  "lastUpdate": "14/03/2020 17:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1200,25 +1200,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "CM",
-      "vuelo": "454",
-      "st": "14/03/2020 07:06",
-      "matricula": "HP1842",
-      "posicion": "52B",
-      "et": "14/3/2020 06:58",
-      "at": "14/3/2020 06:57",
-      "term": "A",
-      "sector": "",
-      "cinta": "5",
-      "lF": "001",
-      "ruta": "PTY",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "KL",
       "vuelo": "701",
       "st": "14/03/2020 07:05",
@@ -1235,6 +1216,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "131"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "CM",
+      "vuelo": "454",
+      "st": "14/03/2020 07:06",
+      "matricula": "HP1842",
+      "posicion": "52B",
+      "et": "14/3/2020 06:58",
+      "at": "14/3/2020 06:57",
+      "term": "A",
+      "sector": "",
+      "cinta": "5",
+      "lF": "001",
+      "ruta": "PTY",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -1428,25 +1428,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AA",
-      "vuelo": "931",
-      "st": "14/03/2020 08:56",
-      "matricula": "N768AA",
-      "posicion": "06",
-      "et": "14/3/2020 08:40",
-      "at": "14/3/2020 08:41",
-      "term": "A",
-      "sector": "",
-      "cinta": "1",
-      "lF": "005",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "181"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "JJ",
       "vuelo": "8012",
       "st": "14/03/2020 09:00",
@@ -1463,6 +1444,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "132"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AA",
+      "vuelo": "931",
+      "st": "14/03/2020 08:56",
+      "matricula": "N768AA",
+      "posicion": "06",
+      "et": "14/3/2020 08:40",
+      "at": "14/3/2020 08:41",
+      "term": "A",
+      "sector": "",
+      "cinta": "1",
+      "lF": "005",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "181"
     },
     {
       "tipo": "arribo",
@@ -1656,25 +1656,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1269",
-      "st": "14/03/2020 09:55",
-      "matricula": "LVFVM",
-      "posicion": "71",
-      "et": "",
-      "at": "14/3/2020 09:49",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "CWB",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "40"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "JJ",
       "vuelo": "8008",
       "st": "14/03/2020 10:15",
@@ -1691,6 +1672,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "184"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1269",
+      "st": "14/03/2020 09:55",
+      "matricula": "LVFVM",
+      "posicion": "71",
+      "et": "",
+      "at": "14/3/2020 09:49",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "CWB",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "40"
     },
     {
       "tipo": "arribo",
@@ -2420,18 +2420,18 @@
       "vuelo": "5190",
       "st": "14/03/2020 17:30",
       "matricula": "LVHKN",
-      "posicion": "",
+      "posicion": "73",
       "et": "",
-      "at": "",
+      "at": "14/3/2020 17:33",
       "term": "C",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "12",
+      "lF": "018",
       "ruta": "AEP",
       "via": "",
-      "remark": "",
+      "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "135"
     },
     {
       "tipo": "partida",
@@ -3746,25 +3746,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "4M",
-      "vuelo": "7764",
-      "st": "14/03/2020 16:42",
-      "matricula": "LVGUS",
-      "posicion": "08",
-      "et": "14/3/2020 17:40",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "24",
-      "ruta": "BRC",
-      "via": "",
-      "remark": "BOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "G3",
       "vuelo": "7653",
       "st": "14/03/2020 17:15",
@@ -3779,7 +3760,7 @@
       "puerta": "01",
       "ruta": "GIG",
       "via": "",
-      "remark": "PRE",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3799,6 +3780,25 @@
       "ruta": "GIG",
       "via": "",
       "remark": "ULT",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "4M",
+      "vuelo": "7764",
+      "st": "14/03/2020 16:42",
+      "matricula": "LVGUS",
+      "posicion": "08",
+      "et": "14/3/2020 17:50",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "24",
+      "ruta": "BRC",
+      "via": "",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3855,7 +3855,7 @@
       "puerta": "05",
       "ruta": "VCP",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3874,7 +3874,7 @@
       "puerta": "14",
       "ruta": "FRA",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
