@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/03/2020 14:32",
+  "lastUpdate": "14/03/2020 14:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -83,7 +83,7 @@
       "vuelo": "702",
       "st": "14/03/2020 14:40",
       "matricula": "PHBHI",
-      "posicion": "",
+      "posicion": "14",
       "et": "14/3/2020 15:34",
       "at": "",
       "term": "A",
