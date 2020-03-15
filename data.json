@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/03/2020 05:05",
+  "lastUpdate": "15/03/2020 05:11",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1333,25 +1333,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "4M",
-      "vuelo": "7824",
-      "st": "14/03/2020 15:48",
-      "matricula": "CCCWF",
-      "posicion": "18",
-      "et": "14/3/2020 17:05",
-      "at": "14/3/2020 17:06",
-      "term": "A",
-      "sector": "",
-      "cinta": "4",
-      "lF": "004",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "190"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "G3",
       "vuelo": "7668",
       "st": "14/03/2020 17:35",
@@ -2071,6 +2052,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "128"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1821",
+      "st": "14/03/2020 23:15",
+      "matricula": "LVFQZ",
+      "posicion": "50A",
+      "et": "14/3/2020 22:50",
+      "at": "14/3/2020 22:52",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "11",
+      "lF": "017",
+      "ruta": "FTE",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "170"
     },
     {
       "tipo": "arribo",
@@ -3817,7 +3817,7 @@
       "puerta": "01",
       "ruta": "GRU",
       "via": "",
-      "remark": "PRE",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -5127,6 +5127,25 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "ASU",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1029",
+      "st": "15/03/2020 17:10",
+      "matricula": "LVCTC",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPC",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "AEP",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
