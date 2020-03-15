@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/03/2020 22:41",
+  "lastUpdate": "14/03/2020 22:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -159,7 +159,7 @@
       "vuelo": "7688",
       "st": "14/03/2020 13:30",
       "matricula": "PRGGK",
-      "posicion": "02",
+      "posicion": "09",
       "et": "15/3/2020 00:02",
       "at": "",
       "term": "A",
@@ -235,7 +235,7 @@
       "vuelo": "7670",
       "st": "15/03/2020 01:20",
       "matricula": "PRGTH",
-      "posicion": "",
+      "posicion": "02",
       "et": "15/3/2020 00:45",
       "at": "",
       "term": "A",
@@ -1124,25 +1124,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "IB_",
-      "vuelo": "2601",
-      "st": "14/03/2020 11:05",
-      "matricula": "ECMOU",
-      "posicion": "05",
-      "et": "14/3/2020 10:41",
-      "at": "14/3/2020 10:47",
-      "term": "A",
-      "sector": "",
-      "cinta": "6",
-      "lF": "001",
-      "ruta": "BCN",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "308"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "G3",
       "vuelo": "7650",
       "st": "14/03/2020 11:10",
@@ -1334,25 +1315,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "AR",
-      "vuelo": "1501",
-      "st": "14/03/2020 11:35",
-      "matricula": "LVCAP",
-      "posicion": "70",
-      "et": "14/3/2020 13:53",
-      "at": "14/3/2020 14:00",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "11",
-      "lF": "017",
-      "ruta": "COR",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "101"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
       "vuelo": "1241",
       "st": "14/03/2020 13:25",
       "matricula": "LVGVA",
@@ -1368,6 +1330,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "91"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1501",
+      "st": "14/03/2020 11:35",
+      "matricula": "LVCAP",
+      "posicion": "70",
+      "et": "14/3/2020 13:53",
+      "at": "14/3/2020 14:00",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "11",
+      "lF": "017",
+      "ruta": "COR",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "101"
     },
     {
       "tipo": "arribo",
@@ -1390,25 +1371,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "M3",
-      "vuelo": "8495",
-      "st": "14/03/2020 14:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "JJ",
       "vuelo": "8003",
       "st": "14/03/2020 14:15",
@@ -1425,6 +1387,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "132"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "M3",
+      "vuelo": "8495",
+      "st": "14/03/2020 14:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -2451,6 +2432,25 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "JJ",
+      "vuelo": "8014",
+      "st": "14/03/2020 23:00",
+      "matricula": "PRMHM",
+      "posicion": "07",
+      "et": "14/3/2020 22:50",
+      "at": "14/3/2020 22:47",
+      "term": "A",
+      "sector": "",
+      "cinta": "2",
+      "lF": "002",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "151"
     },
     {
       "tipo": "partida",
@@ -3969,7 +3969,7 @@
       "puerta": "22",
       "ruta": "CUN",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3988,7 +3988,7 @@
       "puerta": "04",
       "ruta": "DOH",
       "via": "GRU",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
