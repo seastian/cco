@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/03/2020 18:22",
+  "lastUpdate": "15/03/2020 18:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -273,7 +273,7 @@
       "vuelo": "1303",
       "st": "15/03/2020 19:30",
       "matricula": "LVFNI",
-      "posicion": "",
+      "posicion": "53",
       "et": "15/3/2020 20:50",
       "at": "",
       "term": "A",
@@ -1159,25 +1159,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1369",
-      "st": "15/03/2020 06:40",
-      "matricula": "LVFVN",
-      "posicion": "22A",
-      "et": "15/3/2020 06:26",
-      "at": "15/3/2020 06:25",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "008",
-      "ruta": "VVI",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "61"
     },
     {
       "tipo": "arribo",
@@ -3912,7 +3893,7 @@
       "puerta": "03",
       "ruta": "SCL",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
