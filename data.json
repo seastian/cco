@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/03/2020 00:51",
+  "lastUpdate": "15/03/2020 00:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2312,7 +2312,7 @@
       "term": "A",
       "sector": "",
       "cinta": "4",
-      "lF": "004",
+      "lF": "003",
       "ruta": "GRU",
       "via": "",
       "remark": "ATE",
@@ -2479,14 +2479,14 @@
       "matricula": "LVHKN",
       "posicion": "53A",
       "et": "15/3/2020 00:50",
-      "at": "",
+      "at": "15/3/2020 00:56",
       "term": "C",
       "sector": "CAC",
       "cinta": "11",
       "lF": "017",
       "ruta": "IGR",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
