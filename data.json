@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/03/2020 17:10",
+  "lastUpdate": "15/03/2020 17:15",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2350,7 +2350,7 @@
       "term": "A",
       "sector": "",
       "cinta": "9",
-      "lF": "010",
+      "lF": "009",
       "ruta": "AKL",
       "via": "",
       "remark": "ATE",
@@ -3923,7 +3923,7 @@
       "matricula": "CFIVW",
       "posicion": "03",
       "et": "15/3/2020 17:20",
-      "at": "",
+      "at": "15/3/2020 17:12",
       "term": "A",
       "sector": "AP",
       "chkFrom": "061",
@@ -3931,7 +3931,7 @@
       "puerta": "02",
       "ruta": "YYZ",
       "via": "SCL",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -4007,7 +4007,7 @@
       "puerta": "08",
       "ruta": "FRA",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -4240,25 +4240,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "101",
-      "st": "15/03/2020 20:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1290",
       "st": "15/03/2020 18:15",
@@ -4274,6 +4255,25 @@
       "ruta": "SCL",
       "via": "",
       "remark": "DEM",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "101",
+      "st": "15/03/2020 20:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     },
     {
