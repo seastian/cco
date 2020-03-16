@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/03/2020 17:53",
+  "lastUpdate": "16/03/2020 17:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -122,7 +122,7 @@
       "st": "16/03/2020 19:07",
       "matricula": "CCCYI",
       "posicion": "03",
-      "et": "16/3/2020 19:05",
+      "et": "16/3/2020 19:25",
       "at": "",
       "term": "A",
       "sector": "",
@@ -130,7 +130,7 @@
       "lF": "004",
       "ruta": "LIM",
       "via": "",
-      "remark": "EST",
+      "remark": "DEM",
       "sanidad": "NO",
       "pax": "138"
     },
@@ -3855,7 +3855,7 @@
       "puerta": "02",
       "ruta": "SCL",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
