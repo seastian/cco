@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/03/2020 01:41",
+  "lastUpdate": "16/03/2020 01:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2650,14 +2650,14 @@
       "matricula": "PRGTT",
       "posicion": "06",
       "et": "16/3/2020 01:34",
-      "at": "",
+      "at": "16/3/2020 01:45",
       "term": "A",
       "sector": "",
       "cinta": "3",
       "lF": "003",
       "ruta": "FLN",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "142"
     },
