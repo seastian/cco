@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/03/2020 14:49",
+  "lastUpdate": "16/03/2020 14:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1067,22 +1067,22 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "OB",
-      "vuelo": "700",
-      "st": "16/03/2020 02:45",
-      "matricula": "CP2554",
-      "posicion": "10",
-      "et": "16/3/2020 02:45",
-      "at": "16/3/2020 02:50",
+      "aerolinea": "CM",
+      "vuelo": "363",
+      "st": "16/03/2020 04:08",
+      "matricula": "HP1836",
+      "posicion": "11B",
+      "et": "16/3/2020 03:50",
+      "at": "16/3/2020 03:57",
       "term": "A",
       "sector": "",
-      "cinta": "6",
-      "lF": "010",
-      "ruta": "VVI",
+      "cinta": "1",
+      "lF": "001",
+      "ruta": "PTY",
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": "110"
+      "pax": "136"
     },
     {
       "tipo": "arribo",
@@ -1102,25 +1102,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "CM",
-      "vuelo": "363",
-      "st": "16/03/2020 04:08",
-      "matricula": "HP1836",
-      "posicion": "11B",
-      "et": "16/3/2020 03:50",
-      "at": "16/3/2020 03:57",
-      "term": "A",
-      "sector": "",
-      "cinta": "1",
-      "lF": "001",
-      "ruta": "PTY",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "136"
     },
     {
       "tipo": "arribo",
@@ -3252,25 +3233,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1254",
-      "st": "16/03/2020 11:15",
-      "matricula": "LVFUB",
-      "posicion": "70",
-      "et": "",
-      "at": "16/3/2020 11:37",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "17",
-      "ruta": "GIG",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "G3",
       "vuelo": "7453",
       "st": "16/03/2020 11:15",
@@ -3284,6 +3246,25 @@
       "chkTo": "074",
       "puerta": "07",
       "ruta": "GRU",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1254",
+      "st": "16/03/2020 11:15",
+      "matricula": "LVFUB",
+      "posicion": "70",
+      "et": "",
+      "at": "16/3/2020 11:37",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "17",
+      "ruta": "GIG",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -3600,7 +3581,7 @@
       "matricula": "ECNGT",
       "posicion": "03",
       "et": "",
-      "at": "",
+      "at": "16/3/2020 14:50",
       "term": "A",
       "sector": "AP",
       "chkFrom": "021",
@@ -3608,7 +3589,7 @@
       "puerta": "02",
       "ruta": "MAD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3703,7 +3684,7 @@
       "puerta": "06",
       "ruta": "GIG",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3722,7 +3703,7 @@
       "puerta": "04",
       "ruta": "BCN",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3760,7 +3741,7 @@
       "puerta": "05",
       "ruta": "VVI",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3779,7 +3760,7 @@
       "puerta": "18",
       "ruta": "GIG",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3855,7 +3836,7 @@
       "puerta": "22",
       "ruta": "YYZ",
       "via": "SCL",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -4042,7 +4023,7 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "13",
       "ruta": "POA",
       "via": "",
       "remark": "HOR",
@@ -4164,25 +4145,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1256",
-      "st": "16/03/2020 19:20",
-      "matricula": "LVFUB",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "GIG",
-      "via": "",
-      "remark": "REP",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "JJ",
       "vuelo": "8002",
       "st": "16/03/2020 19:20",
@@ -4198,6 +4160,25 @@
       "ruta": "GRU",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1256",
+      "st": "16/03/2020 19:20",
+      "matricula": "LVFUB",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "GIG",
+      "via": "",
+      "remark": "REP",
       "sanidad": "NO"
     },
     {
