@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/03/2020 16:31",
+  "lastUpdate": "17/03/2020 16:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -992,25 +992,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "AR",
-      "vuelo": "1305",
-      "st": "17/03/2020 04:49",
-      "matricula": "LVFNJ",
-      "posicion": "14",
-      "et": "17/3/2020 04:40",
-      "at": "17/3/2020 04:33",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "007",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "265"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
       "vuelo": "1141",
       "st": "17/03/2020 04:53",
       "matricula": "LVGIF",
@@ -1314,25 +1295,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8024",
-      "st": "17/03/2020 09:10",
-      "matricula": "PRMHA",
-      "posicion": "04",
-      "et": "17/3/2020 09:20",
-      "at": "17/3/2020 09:25",
-      "term": "A",
-      "sector": "",
-      "cinta": "4",
-      "lF": "004",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1269",
       "st": "17/03/2020 09:55",
@@ -1349,6 +1311,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "14"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "JJ",
+      "vuelo": "8024",
+      "st": "17/03/2020 09:10",
+      "matricula": "PRMHA",
+      "posicion": "04",
+      "et": "17/3/2020 09:20",
+      "at": "17/3/2020 09:25",
+      "term": "A",
+      "sector": "",
+      "cinta": "4",
+      "lF": "004",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -1428,25 +1409,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1261",
-      "st": "17/03/2020 10:25",
-      "matricula": "LVCAP",
-      "posicion": "22A",
-      "et": "17/3/2020 10:05",
-      "at": "17/3/2020 10:08",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "007",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "47"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "LA",
       "vuelo": "467",
       "st": "17/03/2020 10:23",
@@ -1463,6 +1425,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1261",
+      "st": "17/03/2020 10:25",
+      "matricula": "LVCAP",
+      "posicion": "22A",
+      "et": "17/3/2020 10:05",
+      "at": "17/3/2020 10:08",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "007",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "47"
     },
     {
       "tipo": "arribo",
@@ -2834,25 +2815,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "UX",
-      "vuelo": "042",
-      "st": "17/03/2020 13:25",
-      "matricula": "ECNCY",
-      "posicion": "03",
-      "et": "17/3/2020 14:00",
-      "at": "17/3/2020 14:05",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "054",
-      "chkTo": "060",
-      "puerta": "02",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "WG",
       "vuelo": "2502",
       "st": "17/03/2020 14:00",
@@ -2868,6 +2830,25 @@
       "ruta": "MIA",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UX",
+      "vuelo": "042",
+      "st": "17/03/2020 13:25",
+      "matricula": "ECNCY",
+      "posicion": "03",
+      "et": "17/3/2020 14:00",
+      "at": "17/3/2020 14:05",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "054",
+      "chkTo": "060",
+      "puerta": "02",
+      "ruta": "MAD",
+      "via": "",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3038,7 +3019,26 @@
       "puerta": "",
       "ruta": "GRU",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1286",
+      "st": "17/03/2020 16:15",
+      "matricula": "LVCAP",
+      "posicion": "14A",
+      "et": "",
+      "at": "17/3/2020 16:37",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "18",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3058,25 +3058,6 @@
       "ruta": "GRU",
       "via": "",
       "remark": "CAN",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1286",
-      "st": "17/03/2020 16:15",
-      "matricula": "LVCAP",
-      "posicion": "14A",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "18",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3106,7 +3087,7 @@
       "matricula": "PRGIU",
       "posicion": "10",
       "et": "",
-      "at": "",
+      "at": "17/3/2020 16:33",
       "term": "A",
       "sector": "AP",
       "chkFrom": "068",
@@ -3114,7 +3095,7 @@
       "puerta": "10",
       "ruta": "GRU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3171,7 +3152,7 @@
       "puerta": "12",
       "ruta": "BOG",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -3190,7 +3171,7 @@
       "puerta": "07",
       "ruta": "GRU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
