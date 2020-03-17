@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/03/2020 14:51",
+  "lastUpdate": "17/03/2020 14:56",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -42,6 +42,25 @@
     {
       "tipo": "arribo",
       "aerolinea": "AR",
+      "vuelo": "1529",
+      "st": "17/03/2020 15:40",
+      "matricula": "LVCAP",
+      "posicion": "",
+      "et": "17/3/2020 15:21",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "COR",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "70"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
       "vuelo": "1229",
       "st": "17/03/2020 15:05",
       "matricula": "LVGGK",
@@ -74,25 +93,6 @@
       "ruta": "SCL",
       "via": "",
       "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1529",
-      "st": "17/03/2020 15:40",
-      "matricula": "LVCAP",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "COR",
-      "via": "",
-      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
