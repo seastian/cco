@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/03/2020 15:33",
+  "lastUpdate": "17/03/2020 15:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3200,7 +3200,7 @@
       "st": "17/03/2020 15:20",
       "matricula": "LVCXS",
       "posicion": "70",
-      "et": "17/3/2020 15:40",
+      "et": "17/3/2020 15:50",
       "at": "",
       "term": "C",
       "sector": "CPI",
