@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/03/2020 08:14",
+  "lastUpdate": "17/03/2020 08:19",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1726,25 +1726,6 @@
       "lF": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "QR",
-      "vuelo": "8157",
-      "st": "17/03/2020 03:00",
-      "matricula": "A7BFM",
-      "posicion": "54",
-      "et": "17/3/2020 03:00",
-      "at": "17/3/2020 03:01",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "DOH",
-      "via": "GRU",
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
