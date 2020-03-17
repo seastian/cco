@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/03/2020 08:51",
+  "lastUpdate": "17/03/2020 08:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -126,8 +126,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "3",
+      "lF": "003",
       "ruta": "GRU",
       "via": "",
       "remark": "EST",
@@ -217,7 +217,7 @@
       "st": "17/03/2020 10:55",
       "matricula": "LVCXT",
       "posicion": "",
-      "et": "",
+      "et": "17/3/2020 10:59",
       "at": "",
       "term": "A",
       "sector": "",
@@ -225,9 +225,9 @@
       "lF": "",
       "ruta": "FLN",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "124"
     },
     {
       "tipo": "arribo",
@@ -2118,14 +2118,14 @@
       "matricula": "ECNCY",
       "posicion": "03",
       "et": "17/3/2020 08:48",
-      "at": "",
+      "at": "17/3/2020 08:54",
       "term": "A",
       "sector": "",
       "cinta": "9",
       "lF": "010",
       "ruta": "MAD",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "267"
     },
