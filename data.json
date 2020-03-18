@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/03/2020 12:27",
+  "lastUpdate": "18/03/2020 12:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2935,7 +2935,7 @@
       "matricula": "LVGUB",
       "posicion": "22A",
       "et": "",
-      "at": "",
+      "at": "18/3/2020 12:27",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -2943,7 +2943,7 @@
       "puerta": "26",
       "ruta": "BRC",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -2953,7 +2953,7 @@
       "st": "18/03/2020 11:15",
       "matricula": "LVFRQ",
       "posicion": "16B",
-      "et": "18/3/2020 12:30",
+      "et": "18/3/2020 12:45",
       "at": "",
       "term": "C",
       "sector": "CPI",
