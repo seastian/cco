@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/03/2020 03:33",
+  "lastUpdate": "18/03/2020 03:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -83,7 +83,7 @@
       "vuelo": "414",
       "st": "18/03/2020 05:12",
       "matricula": "N347UP",
-      "posicion": "",
+      "posicion": "54",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -3038,7 +3038,7 @@
       "puerta": "06",
       "ruta": "VVI",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
