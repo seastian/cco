@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/03/2020 16:20",
+  "lastUpdate": "18/03/2020 16:25",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -288,25 +288,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "ZP",
-      "vuelo": "818",
-      "st": "18/03/2020 20:40",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "CAN",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "EK",
       "vuelo": "247",
       "st": "18/03/2020 20:40",
@@ -321,6 +302,25 @@
       "ruta": "DXB",
       "via": "GIG",
       "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "ZP",
+      "vuelo": "818",
+      "st": "18/03/2020 20:40",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
     },
@@ -1012,7 +1012,7 @@
       "tipo": "arribo",
       "aerolinea": "AV",
       "vuelo": "965",
-      "st": "18/03/2020 04:25",
+      "st": "19/03/2020 04:25",
       "matricula": "",
       "posicion": "",
       "et": "",
@@ -1219,25 +1219,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1057",
-      "st": "18/03/2020 09:45",
-      "matricula": "LVFVN",
-      "posicion": "14A",
-      "et": "18/3/2020 09:00",
-      "at": "18/3/2020 09:09",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "AEP",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "JJ",
       "vuelo": "8012",
       "st": "18/03/2020 09:00",
@@ -1254,6 +1235,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "133"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1057",
+      "st": "18/03/2020 09:45",
+      "matricula": "LVFVN",
+      "posicion": "14A",
+      "et": "18/3/2020 09:00",
+      "at": "18/3/2020 09:09",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "AEP",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -3057,7 +3057,7 @@
       "puerta": "13",
       "ruta": "BOG",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3076,7 +3076,7 @@
       "puerta": "06",
       "ruta": "GRU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
