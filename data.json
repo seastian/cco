@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/03/2020 07:00",
+  "lastUpdate": "18/03/2020 07:05",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1985,14 +1985,14 @@
       "matricula": "LVCBT",
       "posicion": "72",
       "et": "18/3/2020 06:59",
-      "at": "",
+      "at": "18/3/2020 07:04",
       "term": "A",
       "sector": "",
       "cinta": "9",
       "lF": "007",
       "ruta": "BOG",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "124"
     },
@@ -2802,7 +2802,7 @@
       "matricula": "YV642T",
       "posicion": "02",
       "et": "18/3/2020 06:30",
-      "at": "",
+      "at": "18/3/2020 07:05",
       "term": "A",
       "sector": "AP",
       "chkFrom": "001",
@@ -2810,7 +2810,7 @@
       "puerta": "01",
       "ruta": "CCS",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -2981,7 +2981,7 @@
       "puerta": "04",
       "ruta": "GRU",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
