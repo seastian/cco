@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/03/2020 05:42",
+  "lastUpdate": "18/03/2020 05:48",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2981,7 +2981,7 @@
       "puerta": "10",
       "ruta": "GRU",
       "via": "",
-      "remark": "PRE",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
