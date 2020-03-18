@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/03/2020 04:30",
+  "lastUpdate": "18/03/2020 04:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2087,25 +2087,6 @@
       "chkTo": "240",
       "puerta": "18",
       "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "G3",
-      "vuelo": "7675",
-      "st": "17/03/2020 16:20",
-      "matricula": "PRGIU",
-      "posicion": "10",
-      "et": "",
-      "at": "17/3/2020 16:33",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "068",
-      "chkTo": "074",
-      "puerta": "10",
-      "ruta": "GRU",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
