@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/03/2020 01:47",
+  "lastUpdate": "18/03/2020 01:53",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2017,25 +2017,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "WG",
-      "vuelo": "2502",
-      "st": "17/03/2020 14:00",
-      "matricula": "N415JN",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "UX",
       "vuelo": "042",
       "st": "17/03/2020 13:25",
@@ -2051,6 +2032,25 @@
       "ruta": "MAD",
       "via": "",
       "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "WG",
+      "vuelo": "2502",
+      "st": "17/03/2020 14:00",
+      "matricula": "N415JN",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -2981,7 +2981,7 @@
       "puerta": "06",
       "ruta": "PTY",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
