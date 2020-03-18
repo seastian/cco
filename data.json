@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/03/2020 17:07",
+  "lastUpdate": "18/03/2020 17:12",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -50,8 +50,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "2",
+      "lF": "002",
       "ruta": "GRU",
       "via": "",
       "remark": "EST",
