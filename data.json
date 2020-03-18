@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/03/2020 10:35",
+  "lastUpdate": "18/03/2020 10:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3019,7 +3019,7 @@
       "puerta": "01",
       "ruta": "PTY",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3233,25 +3233,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "JJ",
-      "vuelo": "8043",
-      "st": "18/03/2020 14:30",
-      "matricula": "PRMBZ",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "",
-      "ruta": "FLN",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "OY",
       "vuelo": "WGN",
       "st": "18/03/2020 14:30",
@@ -3267,6 +3248,25 @@
       "ruta": "AEP",
       "via": "",
       "remark": "CAN",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "JJ",
+      "vuelo": "8043",
+      "st": "18/03/2020 14:30",
+      "matricula": "PRMBZ",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "FLN",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     },
     {
@@ -3651,25 +3651,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "JJ",
-      "vuelo": "8002",
-      "st": "18/03/2020 19:20",
-      "matricula": "PRMBX",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1256",
       "st": "18/03/2020 19:20",
@@ -3683,6 +3664,25 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "GIG",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "JJ",
+      "vuelo": "8002",
+      "st": "18/03/2020 19:20",
+      "matricula": "PRMBX",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "GRU",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -3874,6 +3874,25 @@
       "puerta": "",
       "ruta": "DXB",
       "via": "GIG",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "FO",
+      "vuelo": "5310",
+      "st": "18/03/2020 22:40",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "chkFrom": "083",
+      "chkTo": "085",
+      "puerta": "",
+      "ruta": "REL",
+      "via": "",
       "remark": "HOR",
       "sanidad": "NO"
     }
