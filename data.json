@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/03/2020 06:14",
+  "lastUpdate": "18/03/2020 06:19",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2826,10 +2826,10 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "21",
+      "puerta": "20",
       "ruta": "FLN",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -2848,7 +2848,7 @@
       "puerta": "01",
       "ruta": "CCS",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -2868,25 +2868,6 @@
       "ruta": "GRU",
       "via": "",
       "remark": "ULT",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1428",
-      "st": "18/03/2020 06:40",
-      "matricula": "LVBYY",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "SLA",
-      "via": "",
-      "remark": "CAN",
       "sanidad": "NO"
     },
     {
@@ -2929,6 +2910,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1428",
+      "st": "18/03/2020 06:40",
+      "matricula": "LVBYY",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "SLA",
+      "via": "",
+      "remark": "CAN",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "AU",
       "vuelo": "2462",
       "st": "18/03/2020 06:50",
@@ -2943,7 +2943,7 @@
       "puerta": "25",
       "ruta": "MDZ",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -2967,6 +2967,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "LA",
+      "vuelo": "468",
+      "st": "18/03/2020 07:00",
+      "matricula": "CCBAA",
+      "posicion": "04",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "03",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "BOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "AV",
       "vuelo": "088",
       "st": "18/03/2020 07:00",
@@ -2982,25 +3001,6 @@
       "ruta": "BOG",
       "via": "",
       "remark": "PRE",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LA",
-      "vuelo": "468",
-      "st": "18/03/2020 07:00",
-      "matricula": "CCBAA",
-      "posicion": "04",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "03",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "HOR",
       "sanidad": "NO"
     },
     {
@@ -3461,25 +3461,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AD",
-      "vuelo": "8767",
-      "st": "18/03/2020 13:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "076",
-      "chkTo": "078",
-      "puerta": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "OB",
       "vuelo": "709",
       "st": "18/03/2020 15:00",
@@ -3495,6 +3476,25 @@
       "ruta": "VVI",
       "via": "",
       "remark": "EST",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AD",
+      "vuelo": "8767",
+      "st": "18/03/2020 13:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "076",
+      "chkTo": "078",
+      "puerta": "",
+      "ruta": "VCP",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     },
     {
@@ -3671,10 +3671,10 @@
     {
       "tipo": "partida",
       "aerolinea": "JJ",
-      "vuelo": "9457",
+      "vuelo": "8011",
       "st": "18/03/2020 16:15",
-      "matricula": "PRMAK",
-      "posicion": "53A",
+      "matricula": "",
+      "posicion": "",
       "et": "",
       "at": "",
       "term": "A",
@@ -3690,10 +3690,10 @@
     {
       "tipo": "partida",
       "aerolinea": "JJ",
-      "vuelo": "8011",
+      "vuelo": "9457",
       "st": "18/03/2020 16:15",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "PRMAK",
+      "posicion": "53A",
       "et": "",
       "at": "",
       "term": "A",
@@ -3875,6 +3875,25 @@
       "ruta": "CWB",
       "via": "",
       "remark": "CAN",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1290",
+      "st": "18/03/2020 18:15",
+      "matricula": "LVFVM",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     }
   ]
