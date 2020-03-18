@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/03/2020 13:08",
+  "lastUpdate": "18/03/2020 13:13",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1276,25 +1276,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AV",
-      "vuelo": "217",
-      "st": "17/03/2020 22:20",
-      "matricula": "N818AV",
-      "posicion": "06",
-      "et": "",
-      "at": "18/3/2020 01:13",
-      "term": "A",
-      "sector": "",
-      "cinta": "6",
-      "lF": "010",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "91"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AD",
       "vuelo": "8762",
       "st": "18/03/2020 01:50",
@@ -1637,25 +1618,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8012",
-      "st": "18/03/2020 09:00",
-      "matricula": "PRMBS",
-      "posicion": "04",
-      "et": "18/3/2020 09:00",
-      "at": "18/3/2020 08:54",
-      "term": "A",
-      "sector": "",
-      "cinta": "5",
-      "lF": "005",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "133"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1057",
       "st": "18/03/2020 09:45",
@@ -1672,6 +1634,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "JJ",
+      "vuelo": "8012",
+      "st": "18/03/2020 09:00",
+      "matricula": "PRMBS",
+      "posicion": "04",
+      "et": "18/3/2020 09:00",
+      "at": "18/3/2020 08:54",
+      "term": "A",
+      "sector": "",
+      "cinta": "5",
+      "lF": "005",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "133"
     },
     {
       "tipo": "arribo",
@@ -1966,14 +1947,14 @@
       "matricula": "LVCXS",
       "posicion": "15B",
       "et": "18/3/2020 13:01",
-      "at": "",
+      "at": "18/3/2020 13:12",
       "term": "A",
       "sector": "",
       "cinta": "8",
       "lF": "008",
       "ruta": "GRU",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "144"
     },
@@ -2992,7 +2973,7 @@
       "matricula": "LVFRQ",
       "posicion": "16B",
       "et": "18/3/2020 12:39",
-      "at": "",
+      "at": "18/3/2020 13:09",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3000,7 +2981,7 @@
       "puerta": "23",
       "ruta": "GIG",
       "via": "",
-      "remark": "DEM",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3038,7 +3019,7 @@
       "puerta": "16",
       "ruta": "GRU",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3067,7 +3048,7 @@
       "st": "18/03/2020 15:00",
       "matricula": "CP3017",
       "posicion": "03",
-      "et": "18/3/2020 13:10",
+      "et": "18/3/2020 13:40",
       "at": "",
       "term": "A",
       "sector": "AP",
@@ -3076,7 +3057,7 @@
       "puerta": "02",
       "ruta": "VVI",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
