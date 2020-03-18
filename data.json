@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/03/2020 05:11",
+  "lastUpdate": "18/03/2020 05:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2068,25 +2068,6 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "FRA",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "JJ",
-      "vuelo": "8013",
-      "st": "17/03/2020 16:50",
-      "matricula": "PRMBS",
-      "posicion": "08",
-      "et": "",
-      "at": "17/3/2020 17:14",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "07",
-      "ruta": "GRU",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
