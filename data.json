@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "18/03/2020 10:46",
+  "lastUpdate": "18/03/2020 10:51",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1273",
-      "st": "18/03/2020 10:55",
-      "matricula": "LVGGK",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "FLN",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AU",
@@ -46,7 +27,7 @@
       "st": "18/03/2020 11:35",
       "matricula": "LVGUB",
       "posicion": "",
-      "et": "",
+      "et": "18/3/2020 11:25",
       "at": "",
       "term": "C",
       "sector": "CAC",
@@ -54,9 +35,9 @@
       "lF": "",
       "ruta": "COR",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "54"
     },
     {
       "tipo": "arribo",
@@ -76,6 +57,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1273",
+      "st": "18/03/2020 10:55",
+      "matricula": "LVGGK",
+      "posicion": "",
+      "et": "18/3/2020 11:43",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "FLN",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": "170"
     },
     {
       "tipo": "arribo",
@@ -122,7 +122,7 @@
       "st": "18/03/2020 13:25",
       "matricula": "LVCXS",
       "posicion": "",
-      "et": "",
+      "et": "18/3/2020 13:01",
       "at": "",
       "term": "A",
       "sector": "",
@@ -130,9 +130,28 @@
       "lF": "",
       "ruta": "GRU",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "144"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1879",
+      "st": "18/03/2020 13:30",
+      "matricula": "LVFVO",
+      "posicion": "",
+      "et": "18/3/2020 13:14",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "USH",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "170"
     },
     {
       "tipo": "arribo",
@@ -149,25 +168,6 @@
       "lF": "",
       "ruta": "YYZ",
       "via": "SCL",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1879",
-      "st": "18/03/2020 13:30",
-      "matricula": "LVFVO",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "USH",
-      "via": "",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
@@ -255,7 +255,7 @@
       "st": "18/03/2020 13:55",
       "matricula": "LVGVB",
       "posicion": "",
-      "et": "",
+      "et": "18/3/2020 13:53",
       "at": "",
       "term": "A",
       "sector": "",
@@ -263,9 +263,9 @@
       "lF": "",
       "ruta": "BPS",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "170"
     },
     {
       "tipo": "arribo",
@@ -2962,7 +2962,7 @@
       "puerta": "17",
       "ruta": "GIG",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3020,25 +3020,6 @@
       "ruta": "PTY",
       "via": "",
       "remark": "BOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1252",
-      "st": "18/03/2020 11:45",
-      "matricula": "LVGGK",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "HOR",
       "sanidad": "NO"
     },
     {
@@ -3134,6 +3115,25 @@
       "ruta": "MVD",
       "via": "",
       "remark": "CAN",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1252",
+      "st": "18/03/2020 11:45",
+      "matricula": "LVGGK",
+      "posicion": "",
+      "et": "18/3/2020 12:50",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "DEM",
       "sanidad": "NO"
     },
     {
