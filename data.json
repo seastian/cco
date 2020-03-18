@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/03/2020 12:37",
+  "lastUpdate": "18/03/2020 12:42",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -121,7 +121,7 @@
       "vuelo": "8003",
       "st": "18/03/2020 14:10",
       "matricula": "PRMHG",
-      "posicion": "08",
+      "posicion": "07",
       "et": "18/3/2020 13:40",
       "at": "",
       "term": "A",
@@ -2935,7 +2935,7 @@
       "matricula": "PTMXM",
       "posicion": "08",
       "et": "",
-      "at": "",
+      "at": "18/3/2020 12:40",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -2943,7 +2943,7 @@
       "puerta": "07",
       "ruta": "GRU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3019,7 +3019,7 @@
       "puerta": "16",
       "ruta": "GRU",
       "via": "",
-      "remark": "DEM",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3351,14 +3351,14 @@
       "vuelo": "8013",
       "st": "18/03/2020 16:50",
       "matricula": "PRMHG",
-      "posicion": "08",
+      "posicion": "07",
       "et": "",
       "at": "",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
       "chkTo": "053",
-      "puerta": "07",
+      "puerta": "06",
       "ruta": "GRU",
       "via": "",
       "remark": "HOR",
