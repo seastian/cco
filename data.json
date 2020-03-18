@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/03/2020 00:40",
+  "lastUpdate": "18/03/2020 00:45",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1941,25 +1941,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "JJ",
-      "vuelo": "8009",
-      "st": "17/03/2020 12:25",
-      "matricula": "PTMXC",
-      "posicion": "08",
-      "et": "",
-      "at": "17/3/2020 12:45",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "07",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AD",
       "vuelo": "8767",
       "st": "17/03/2020 13:00",
@@ -2208,25 +2189,6 @@
     {
       "tipo": "partida",
       "aerolinea": "JJ",
-      "vuelo": "8011",
-      "st": "17/03/2020 16:15",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "CAN",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "JJ",
       "vuelo": "9457",
       "st": "17/03/2020 16:15",
       "matricula": "PRMAZ",
@@ -2260,6 +2222,25 @@
       "ruta": "SCL",
       "via": "",
       "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "JJ",
+      "vuelo": "8011",
+      "st": "17/03/2020 16:15",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "CAN",
       "sanidad": "NO"
     },
     {
