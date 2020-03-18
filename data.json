@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/03/2020 10:30",
+  "lastUpdate": "18/03/2020 10:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1181,44 +1181,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1251",
-      "st": "17/03/2020 22:10",
-      "matricula": "LVGVB",
-      "posicion": "25B",
-      "et": "17/3/2020 22:21",
-      "at": "17/3/2020 22:34",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "008",
-      "ruta": "GIG",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "168"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "WJ",
-      "vuelo": "3481",
-      "st": "17/03/2020 21:35",
-      "matricula": "LVHEK",
-      "posicion": "56B",
-      "et": "17/3/2020 22:30",
-      "at": "17/3/2020 22:35",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "11",
-      "lF": "017",
-      "ruta": "SLA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "130"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "JJ",
       "vuelo": "8014",
       "st": "17/03/2020 23:00",
@@ -1371,25 +1333,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7452",
-      "st": "18/03/2020 00:25",
-      "matricula": "PRGUT",
-      "posicion": "09",
-      "et": "18/3/2020 00:30",
-      "at": "18/3/2020 00:17",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "008",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "CM",
       "vuelo": "279",
       "st": "18/03/2020 00:34",
@@ -1406,6 +1349,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "145"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "G3",
+      "vuelo": "7452",
+      "st": "18/03/2020 00:25",
+      "matricula": "PRGUT",
+      "posicion": "09",
+      "et": "18/3/2020 00:30",
+      "at": "18/3/2020 00:17",
+      "term": "A",
+      "sector": "",
+      "cinta": "8",
+      "lF": "008",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -2981,7 +2943,7 @@
       "puerta": "18",
       "ruta": "GIG",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
