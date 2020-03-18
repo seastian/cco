@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/03/2020 18:40",
+  "lastUpdate": "18/03/2020 18:45",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3304,7 +3304,7 @@
       "puerta": "",
       "ruta": "ROS",
       "via": "",
-      "remark": "HOR",
+      "remark": "CAN",
       "sanidad": "NO"
     },
     {
