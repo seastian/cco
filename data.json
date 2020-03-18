@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/03/2020 01:00",
+  "lastUpdate": "18/03/2020 01:06",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -646,25 +646,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1281",
-      "st": "17/03/2020 13:25",
-      "matricula": "LVCBT",
-      "posicion": "72",
-      "et": "17/3/2020 13:05",
-      "at": "17/3/2020 13:05",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "007",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "95"
     },
     {
       "tipo": "arribo",
@@ -1637,6 +1618,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "AV",
+      "vuelo": "217",
+      "st": "17/03/2020 22:20",
+      "matricula": "N818AV",
+      "posicion": "06",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "6",
+      "lF": "010",
+      "ruta": "BOG",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO",
+      "pax": "91"
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "LA",
       "vuelo": "469",
       "st": "17/03/2020 22:23",
@@ -1881,25 +1881,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AV",
-      "vuelo": "217",
-      "st": "17/03/2020 22:20",
-      "matricula": "N818AV",
-      "posicion": "06",
-      "et": "18/3/2020 00:50",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "6",
-      "lF": "010",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": "91"
     },
     {
       "tipo": "arribo",
