@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/03/2020 17:12",
+  "lastUpdate": "18/03/2020 17:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -57,25 +57,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "141"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8092",
-      "st": "18/03/2020 18:25",
-      "matricula": "PRMBX",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "GIG",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -150,6 +131,25 @@
       "ruta": "FTE",
       "via": "",
       "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "JJ",
+      "vuelo": "8092",
+      "st": "18/03/2020 18:25",
+      "matricula": "PRMBX",
+      "posicion": "",
+      "et": "18/3/2020 19:45",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "GIG",
+      "via": "",
+      "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
     },
@@ -757,7 +757,7 @@
       "lF": "",
       "ruta": "GRU",
       "via": "",
-      "remark": "",
+      "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
     },
@@ -3049,7 +3049,7 @@
       "matricula": "LVGOO",
       "posicion": "70",
       "et": "",
-      "at": "",
+      "at": "18/3/2020 17:16",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -3057,7 +3057,7 @@
       "puerta": "17",
       "ruta": "ASU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3271,25 +3271,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "JJ",
-      "vuelo": "8002",
-      "st": "18/03/2020 19:20",
-      "matricula": "PRMBX",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "040",
-      "chkTo": "053",
-      "puerta": "",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1248",
       "st": "18/03/2020 19:40",
@@ -3362,6 +3343,25 @@
       "ruta": "SCL",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "JJ",
+      "vuelo": "8002",
+      "st": "18/03/2020 19:20",
+      "matricula": "PRMBX",
+      "posicion": "",
+      "et": "18/3/2020 20:35",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "040",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "DEM",
       "sanidad": "NO"
     },
     {
