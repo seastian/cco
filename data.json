@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/03/2020 23:27",
+  "lastUpdate": "17/03/2020 23:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1922,25 +1922,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1254",
-      "st": "17/03/2020 11:15",
-      "matricula": "LVFRQ",
-      "posicion": "15B",
-      "et": "",
-      "at": "17/3/2020 11:31",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "21",
-      "ruta": "GIG",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "CM",
       "vuelo": "278",
       "st": "17/03/2020 11:38",
@@ -1998,25 +1979,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AU",
-      "vuelo": "2412",
-      "st": "17/03/2020 12:00",
-      "matricula": "LVGIK",
-      "posicion": "23B",
-      "et": "",
-      "at": "17/3/2020 12:13",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "24",
-      "ruta": "MDZ",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "LH",
       "vuelo": "8255",
       "st": "17/03/2020 12:00",
@@ -2030,6 +1992,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "FRA",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AU",
+      "vuelo": "2412",
+      "st": "17/03/2020 12:00",
+      "matricula": "LVGIK",
+      "posicion": "23B",
+      "et": "",
+      "at": "17/3/2020 12:13",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "24",
+      "ruta": "MDZ",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -2962,7 +2943,7 @@
       "puerta": "13",
       "ruta": "VVI",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
