@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/03/2020 13:42",
+  "lastUpdate": "19/03/2020 13:48",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -83,7 +83,7 @@
       "vuelo": "507",
       "st": "19/03/2020 14:47",
       "matricula": "CCAZI",
-      "posicion": "04",
+      "posicion": "03",
       "et": "19/3/2020 14:34",
       "at": "",
       "term": "A",
@@ -3323,7 +3323,7 @@
       "puerta": "02",
       "ruta": "VVI",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3522,14 +3522,14 @@
       "vuelo": "508",
       "st": "19/03/2020 15:22",
       "matricula": "CCAZI",
-      "posicion": "04",
+      "posicion": "03",
       "et": "",
       "at": "",
       "term": "A",
       "sector": "AP",
       "chkFrom": "001",
       "chkTo": "004",
-      "puerta": "03",
+      "puerta": "02",
       "ruta": "SCL",
       "via": "",
       "remark": "",
