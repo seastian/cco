@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/03/2020 13:53",
+  "lastUpdate": "19/03/2020 13:59",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2118,14 +2118,14 @@
       "matricula": "LVFVM",
       "posicion": "18B",
       "et": "19/3/2020 13:42",
-      "at": "",
+      "at": "19/3/2020 13:54",
       "term": "A",
       "sector": "",
       "cinta": "9",
       "lF": "008",
       "ruta": "GRU",
       "via": "",
-      "remark": "DEM",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "166"
     },
@@ -3323,7 +3323,7 @@
       "puerta": "03",
       "ruta": "GIG",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
