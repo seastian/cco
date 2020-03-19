@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/03/2020 20:00",
+  "lastUpdate": "19/03/2020 20:06",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -146,7 +146,7 @@
       "term": "A",
       "sector": "",
       "cinta": "6",
-      "lF": "007",
+      "lF": "006",
       "ruta": "DOH",
       "via": "GRU",
       "remark": "EST",
@@ -3494,7 +3494,7 @@
       "puerta": "12",
       "ruta": "SCL",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3529,7 +3529,7 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "23",
+      "puerta": "22",
       "ruta": "GIG",
       "via": "",
       "remark": "CER",
