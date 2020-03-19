@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/03/2020 00:15",
+  "lastUpdate": "19/03/2020 00:20",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -722,25 +722,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "OB",
-      "vuelo": "708",
-      "st": "18/03/2020 13:30",
-      "matricula": "CP3017",
-      "posicion": "03",
-      "et": "18/3/2020 12:10",
-      "at": "18/3/2020 12:16",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "010",
-      "ruta": "VVI",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "175"
     },
     {
       "tipo": "arribo",
@@ -2061,14 +2042,14 @@
       "matricula": "HP1846",
       "posicion": "06",
       "et": "19/3/2020 00:14",
-      "at": "",
+      "at": "19/3/2020 00:17",
       "term": "A",
       "sector": "",
       "cinta": "6",
       "lF": "010",
       "ruta": "PTY",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "147"
     },
