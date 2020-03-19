@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/03/2020 21:37",
+  "lastUpdate": "18/03/2020 21:42",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -255,7 +255,7 @@
       "st": "18/03/2020 23:15",
       "matricula": "LVGVB",
       "posicion": "",
-      "et": "",
+      "et": "18/3/2020 23:06",
       "at": "",
       "term": "A",
       "sector": "",
@@ -263,9 +263,9 @@
       "lF": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "127"
     },
     {
       "tipo": "arribo",
@@ -880,7 +880,7 @@
       "aerolinea": "LH",
       "vuelo": "8264",
       "st": "19/03/2020 09:35",
-      "matricula": "",
+      "matricula": "DALCC",
       "posicion": "",
       "et": "",
       "at": "",
@@ -2954,7 +2954,7 @@
       "matricula": "LVCIH",
       "posicion": "24A",
       "et": "",
-      "at": "",
+      "at": "18/3/2020 21:39",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -2962,7 +2962,7 @@
       "puerta": "",
       "ruta": "COR",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3029,7 +3029,7 @@
       "st": "18/03/2020 22:20",
       "matricula": "A6EGC",
       "posicion": "10",
-      "et": "",
+      "et": "18/3/2020 22:45",
       "at": "",
       "term": "A",
       "sector": "AP",
@@ -3038,7 +3038,7 @@
       "puerta": "10",
       "ruta": "DXB",
       "via": "GIG",
-      "remark": "HOR",
+      "remark": "DEM",
       "sanidad": "NO"
     },
     {
