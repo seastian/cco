@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/03/2020 11:22",
+  "lastUpdate": "19/03/2020 11:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -80,25 +80,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "AR",
-      "vuelo": "1241",
-      "st": "19/03/2020 13:25",
-      "matricula": "LVFVM",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
       "vuelo": "1281",
       "st": "19/03/2020 13:25",
       "matricula": "",
@@ -171,6 +152,25 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "154"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1241",
+      "st": "19/03/2020 13:25",
+      "matricula": "LVFVM",
+      "posicion": "",
+      "et": "19/3/2020 13:42",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": "166"
     },
     {
       "tipo": "arribo",
@@ -3215,6 +3215,25 @@
     {
       "tipo": "partida",
       "aerolinea": "G3",
+      "vuelo": "7453",
+      "st": "19/03/2020 11:15",
+      "matricula": "PRGZI",
+      "posicion": "03",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "068",
+      "chkTo": "074",
+      "puerta": "02",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "CER",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "G3",
       "vuelo": "7681",
       "st": "19/03/2020 05:40",
       "matricula": "PRGTG",
@@ -3229,25 +3248,6 @@
       "ruta": "GRU",
       "via": "",
       "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "G3",
-      "vuelo": "7453",
-      "st": "19/03/2020 11:15",
-      "matricula": "PRGZI",
-      "posicion": "03",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "068",
-      "chkTo": "074",
-      "puerta": "02",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3304,7 +3304,7 @@
       "puerta": "27",
       "ruta": "FTE",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
