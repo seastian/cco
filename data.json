@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/03/2020 02:38",
+  "lastUpdate": "19/03/2020 02:43",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2156,14 +2156,14 @@
       "matricula": "LVGGK",
       "posicion": "70",
       "et": "19/3/2020 02:32",
-      "at": "",
+      "at": "19/3/2020 02:39",
       "term": "A",
       "sector": "",
       "cinta": "8",
       "lF": "008",
       "ruta": "GRU",
       "via": "",
-      "remark": "DEM",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "166"
     },
@@ -3162,7 +3162,7 @@
       "st": "18/03/2020 23:55",
       "matricula": "PRMBQ",
       "posicion": "07",
-      "et": "19/3/2020 03:00",
+      "et": "19/3/2020 03:15",
       "at": "",
       "term": "A",
       "sector": "AP",
