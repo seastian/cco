@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/03/2020 01:04",
+  "lastUpdate": "20/03/2020 01:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -69,8 +69,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "2",
+      "lF": "002",
       "ruta": "FLN",
       "via": "",
       "remark": "DEM",
@@ -4050,25 +4050,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1364",
-      "st": "20/03/2020 09:00",
-      "matricula": "LVGKT",
-      "posicion": "TD1",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AM",
       "vuelo": "031",
       "st": "20/03/2020 09:25",
@@ -4316,25 +4297,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1698",
-      "st": "20/03/2020 12:25",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "BRC",
-      "via": "",
-      "remark": "CAN",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "JJ",
       "vuelo": "8009",
       "st": "20/03/2020 12:25",
@@ -4350,6 +4312,25 @@
       "ruta": "GRU",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1698",
+      "st": "20/03/2020 12:25",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "BRC",
+      "via": "",
+      "remark": "CAN",
       "sanidad": "NO"
     },
     {
@@ -4388,6 +4369,25 @@
       "ruta": "VCP",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1364",
+      "st": "20/03/2020 09:00",
+      "matricula": "LVGKT",
+      "posicion": "TD1",
+      "et": "20/3/2020 15:00",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "LIM",
+      "via": "",
+      "remark": "DEM",
       "sanidad": "NO"
     }
   ]
