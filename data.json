@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/03/2020 20:07",
+  "lastUpdate": "20/03/2020 20:12",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -311,7 +311,7 @@
       "vuelo": "015",
       "st": "20/03/2020 22:25",
       "matricula": "TCLJG",
-      "posicion": "",
+      "posicion": "03",
       "et": "20/3/2020 22:01",
       "at": "",
       "term": "A",
@@ -3816,6 +3816,25 @@
       "chkTo": "053",
       "puerta": "",
       "ruta": "GRU",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "G3",
+      "vuelo": "7649",
+      "st": "21/03/2020 08:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "068",
+      "chkTo": "074",
+      "puerta": "",
+      "ruta": "GIG",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
