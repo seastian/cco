@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/03/2020 02:49",
+  "lastUpdate": "20/03/2020 02:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -82,9 +82,9 @@
       "aerolinea": "5X",
       "vuelo": "412",
       "st": "20/03/2020 05:12",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
+      "matricula": "N347UP",
+      "posicion": "56",
+      "et": "20/3/2020 05:12",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -92,7 +92,7 @@
       "lF": "",
       "ruta": "MIA",
       "via": "SCL",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -1669,7 +1669,7 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "CON",
+      "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
     },
@@ -3471,7 +3471,7 @@
       "term": "A",
       "sector": "AP",
       "chkFrom": "016",
-      "chkTo": "021",
+      "chkTo": "022",
       "puerta": "07",
       "ruta": "PTY",
       "via": "",
