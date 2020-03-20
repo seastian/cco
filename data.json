@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/03/2020 04:06",
+  "lastUpdate": "20/03/2020 04:12",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -50,8 +50,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "1",
+      "lF": "001",
       "ruta": "BOG",
       "via": "",
       "remark": "EST",
@@ -2102,8 +2102,8 @@
       "at": "20/3/2020 02:49",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "9",
+      "lF": "010",
       "ruta": "GIG",
       "via": "",
       "remark": "ATE",
