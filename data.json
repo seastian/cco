@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/03/2020 08:51",
+  "lastUpdate": "20/03/2020 08:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -50,8 +50,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "4",
+      "lF": "004",
       "ruta": "GRU",
       "via": "",
       "remark": "EST",
@@ -3717,8 +3717,8 @@
       "at": "",
       "term": "A",
       "sector": "AP",
-      "chkFrom": "013",
-      "chkTo": "018",
+      "chkFrom": "007",
+      "chkTo": "012",
       "puerta": "",
       "ruta": "VVI",
       "via": "",
