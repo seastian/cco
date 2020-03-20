@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/03/2020 05:10",
+  "lastUpdate": "20/03/2020 05:15",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3120,25 +3120,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1326",
-      "st": "20/03/2020 03:15",
-      "matricula": "LVGKU",
-      "posicion": "16B",
-      "et": "",
-      "at": "20/3/2020 03:37",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "23",
-      "ruta": "PUJ",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "1324",
       "st": "20/03/2020 03:15",
       "matricula": "",
@@ -3153,6 +3134,25 @@
       "ruta": "PUJ",
       "via": "RES",
       "remark": "CAN",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1326",
+      "st": "20/03/2020 03:15",
+      "matricula": "LVGKU",
+      "posicion": "16B",
+      "et": "",
+      "at": "20/3/2020 03:37",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "23",
+      "ruta": "PUJ",
+      "via": "",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -3252,6 +3252,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "G3",
+      "vuelo": "7691",
+      "st": "20/03/2020 05:05",
+      "matricula": "PRGUR",
+      "posicion": "06",
+      "et": "20/3/2020 05:05",
+      "at": "20/3/2020 04:55",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "068",
+      "chkTo": "074",
+      "puerta": "05",
+      "ruta": "FLN",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1228",
       "st": "20/03/2020 05:05",
@@ -3267,25 +3286,6 @@
       "ruta": "SSA",
       "via": "",
       "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "G3",
-      "vuelo": "7691",
-      "st": "20/03/2020 05:05",
-      "matricula": "PRGUR",
-      "posicion": "06",
-      "et": "20/3/2020 05:05",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "068",
-      "chkTo": "074",
-      "puerta": "05",
-      "ruta": "FLN",
-      "via": "",
-      "remark": "ULT",
       "sanidad": "NO"
     },
     {
