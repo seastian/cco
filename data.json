@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/03/2020 21:04",
+  "lastUpdate": "19/03/2020 21:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1197,25 +1197,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "129"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "7680",
-      "st": "19/03/2020 09:30",
-      "matricula": "PRGZI",
-      "posicion": "03",
-      "et": "19/3/2020 09:25",
-      "at": "19/3/2020 09:08",
-      "term": "A",
-      "sector": "",
-      "cinta": "6",
-      "lF": "009",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "110"
     },
     {
       "tipo": "arribo",
