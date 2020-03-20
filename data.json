@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/03/2020 00:11",
+  "lastUpdate": "20/03/2020 00:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -64,7 +64,7 @@
       "vuelo": "9983",
       "st": "20/03/2020 00:40",
       "matricula": "LVBFO",
-      "posicion": "",
+      "posicion": "62A",
       "et": "",
       "at": "",
       "term": "A",
@@ -320,7 +320,7 @@
       "lF": "",
       "ruta": "LIM",
       "via": "",
-      "remark": "",
+      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
