@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/03/2020 07:22",
+  "lastUpdate": "20/03/2020 07:27",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -27,7 +27,7 @@
       "st": "20/03/2020 09:00",
       "matricula": "PRMHA",
       "posicion": "",
-      "et": "",
+      "et": "20/3/2020 09:00",
       "at": "",
       "term": "A",
       "sector": "",
@@ -35,9 +35,9 @@
       "lF": "",
       "ruta": "GRU",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "140"
     },
     {
       "tipo": "arribo",
@@ -3252,25 +3252,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AU",
-      "vuelo": "2926",
-      "st": "20/03/2020 07:00",
-      "matricula": "LVCHR",
-      "posicion": "25A",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "SSA",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AV",
       "vuelo": "088",
       "st": "20/03/2020 07:00",
@@ -3286,6 +3267,25 @@
       "ruta": "BOG",
       "via": "",
       "remark": "ULT",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AU",
+      "vuelo": "2926",
+      "st": "20/03/2020 07:00",
+      "matricula": "LVCHR",
+      "posicion": "25A",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "SSA",
+      "via": "",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -3472,7 +3472,7 @@
       "sector": "AP",
       "chkFrom": "041",
       "chkTo": "053",
-      "puerta": "",
+      "puerta": "05",
       "ruta": "SCL",
       "via": "",
       "remark": "HOR",
