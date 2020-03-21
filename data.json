@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/03/2020 12:50",
+  "lastUpdate": "21/03/2020 12:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1974,7 +1974,7 @@
       "puerta": "01",
       "ruta": "PTY",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
