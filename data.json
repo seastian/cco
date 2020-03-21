@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/03/2020 14:19",
+  "lastUpdate": "21/03/2020 14:25",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1917,7 +1917,7 @@
       "puerta": "02",
       "ruta": "FLN",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
