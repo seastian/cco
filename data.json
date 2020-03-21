@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/03/2020 07:48",
+  "lastUpdate": "21/03/2020 07:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -83,7 +83,7 @@
       "vuelo": "1106",
       "st": "21/03/2020 17:00",
       "matricula": "N542LA",
-      "posicion": "",
+      "posicion": "54",
       "et": "21/3/2020 09:50",
       "at": "",
       "term": "TCA",
@@ -2501,8 +2501,8 @@
       "at": "",
       "term": "A",
       "sector": "AP",
-      "chkFrom": "054",
-      "chkTo": "062",
+      "chkFrom": "038",
+      "chkTo": "039",
       "puerta": "10",
       "ruta": "BOG",
       "via": "",
@@ -2563,7 +2563,7 @@
       "puerta": "01",
       "ruta": "GRU",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -2758,25 +2758,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "G3",
-      "vuelo": "7702",
-      "st": "21/03/2020 12:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "068",
-      "chkTo": "074",
-      "puerta": "",
-      "ruta": "JPA",
-      "via": "",
-      "remark": "CAN",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AU",
       "vuelo": "2256",
       "st": "21/03/2020 12:00",
@@ -2792,6 +2773,25 @@
       "ruta": "GIG",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "G3",
+      "vuelo": "7702",
+      "st": "21/03/2020 12:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "068",
+      "chkTo": "074",
+      "puerta": "",
+      "ruta": "JPA",
+      "via": "",
+      "remark": "CAN",
       "sanidad": "NO"
     },
     {
@@ -3189,6 +3189,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MXP",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "G3",
+      "vuelo": "7685",
+      "st": "21/03/2020 19:55",
+      "matricula": "PRGTR",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "068",
+      "chkTo": "074",
+      "puerta": "",
+      "ruta": "GRU",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
