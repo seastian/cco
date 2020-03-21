@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/03/2020 09:46",
+  "lastUpdate": "21/03/2020 09:53",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -706,44 +706,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "H2",
-      "vuelo": "503",
-      "st": "20/03/2020 21:57",
-      "matricula": "CCAZL",
-      "posicion": "02",
-      "et": "20/3/2020 21:40",
-      "at": "20/3/2020 21:47",
-      "term": "A",
-      "sector": "",
-      "cinta": "1",
-      "lF": "001",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "42"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1251",
-      "st": "20/03/2020 22:10",
-      "matricula": "LVFQZ",
-      "posicion": "53A",
-      "et": "20/3/2020 21:50",
-      "at": "20/3/2020 21:50",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "010",
-      "ruta": "GIG",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "170"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AM",
       "vuelo": "030",
       "st": "20/03/2020 21:55",
@@ -1368,25 +1330,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "ZP",
-      "vuelo": "819",
-      "st": "20/03/2020 21:50",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "074",
-      "chkTo": "075",
-      "puerta": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "CAN",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
@@ -2202,7 +2145,7 @@
       "puerta": "05",
       "ruta": "GIG",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
