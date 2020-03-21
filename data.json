@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/03/2020 22:01",
+  "lastUpdate": "20/03/2020 22:06",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -103,7 +103,7 @@
       "st": "20/03/2020 23:00",
       "matricula": "PRMBQ",
       "posicion": "",
-      "et": "",
+      "et": "20/3/2020 22:50",
       "at": "",
       "term": "A",
       "sector": "",
@@ -111,7 +111,7 @@
       "lF": "",
       "ruta": "GRU",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -2981,7 +2981,7 @@
       "puerta": "01",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -3575,25 +3575,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AV",
-      "vuelo": "088",
-      "st": "21/03/2020 07:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "054",
-      "chkTo": "062",
-      "puerta": "",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1930",
       "st": "21/03/2020 07:00",
@@ -3605,6 +3586,25 @@
       "sector": "CPI",
       "chkFrom": "209",
       "chkTo": "240",
+      "puerta": "",
+      "ruta": "BOG",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AV",
+      "vuelo": "088",
+      "st": "21/03/2020 07:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "054",
+      "chkTo": "062",
       "puerta": "",
       "ruta": "BOG",
       "via": "",
