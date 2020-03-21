@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/03/2020 17:56",
+  "lastUpdate": "21/03/2020 18:03",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1675,25 +1675,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "4M",
-      "vuelo": "7908",
-      "st": "21/03/2020 15:00",
-      "matricula": "LVBFO",
-      "posicion": "17",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "",
-      "ruta": "BRC",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "OB",
       "vuelo": "709",
       "st": "21/03/2020 15:00",
@@ -1709,6 +1690,25 @@
       "ruta": "VVI",
       "via": "",
       "remark": "CAN",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "4M",
+      "vuelo": "7908",
+      "st": "21/03/2020 15:00",
+      "matricula": "LVBFO",
+      "posicion": "17",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "BRC",
+      "via": "",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -1852,7 +1852,7 @@
       "matricula": "PRYRY",
       "posicion": "02",
       "et": "",
-      "at": "",
+      "at": "21/3/2020 17:55",
       "term": "A",
       "sector": "AP",
       "chkFrom": "075",
@@ -1860,7 +1860,7 @@
       "puerta": "01",
       "ruta": "VCP",
       "via": "",
-      "remark": "BOR",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -1879,7 +1879,7 @@
       "puerta": "03",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
