@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/03/2020 00:43",
+  "lastUpdate": "21/03/2020 00:48",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -2933,14 +2933,14 @@
       "vuelo": "442",
       "st": "20/03/2020 20:20",
       "matricula": "CCBGO",
-      "posicion": "18",
+      "posicion": "04",
       "et": "21/3/2020 00:20",
       "at": "",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
       "chkTo": "053",
-      "puerta": "04",
+      "puerta": "03",
       "ruta": "SCL",
       "via": "",
       "remark": "DEM",
