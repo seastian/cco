@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/03/2020 16:07",
+  "lastUpdate": "21/03/2020 16:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -668,6 +668,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "CM",
+      "vuelo": "363",
+      "st": "22/03/2020 04:08",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "PTY",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1133",
       "st": "21/03/2020 04:20",
@@ -1190,8 +1209,8 @@
       "at": "21/3/2020 15:27",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "3",
+      "lF": "003",
       "ruta": "SCL",
       "via": "",
       "remark": "ATE",
@@ -1955,7 +1974,7 @@
       "puerta": "16",
       "ruta": "BOG",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
