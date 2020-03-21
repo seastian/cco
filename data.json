@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/03/2020 01:06",
+  "lastUpdate": "21/03/2020 01:13",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -3038,7 +3038,7 @@
       "puerta": "07",
       "ruta": "PTY",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -3138,25 +3138,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "G3",
-      "vuelo": "7689",
-      "st": "21/03/2020 04:40",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "068",
-      "chkTo": "074",
-      "puerta": "",
-      "ruta": "BSB",
-      "via": "",
-      "remark": "CAN",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1328",
       "st": "21/03/2020 04:40",
@@ -3172,6 +3153,25 @@
       "ruta": "PUJ",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "G3",
+      "vuelo": "7689",
+      "st": "21/03/2020 04:40",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "068",
+      "chkTo": "074",
+      "puerta": "",
+      "ruta": "BSB",
+      "via": "",
+      "remark": "CAN",
       "sanidad": "NO"
     },
     {
@@ -3575,25 +3575,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "G3",
-      "vuelo": "7702",
-      "st": "21/03/2020 12:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "068",
-      "chkTo": "074",
-      "puerta": "",
-      "ruta": "JPA",
-      "via": "",
-      "remark": "CAN",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AU",
       "vuelo": "2256",
       "st": "21/03/2020 12:00",
@@ -3609,6 +3590,25 @@
       "ruta": "GIG",
       "via": "",
       "remark": "",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "G3",
+      "vuelo": "7702",
+      "st": "21/03/2020 12:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "068",
+      "chkTo": "074",
+      "puerta": "",
+      "ruta": "JPA",
+      "via": "",
+      "remark": "CAN",
       "sanidad": "NO"
     },
     {
