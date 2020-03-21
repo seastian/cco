@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/03/2020 04:41",
+  "lastUpdate": "21/03/2020 04:48",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -589,25 +589,6 @@
       "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AD",
-      "vuelo": "8770",
-      "st": "20/03/2020 17:00",
-      "matricula": "PRYRA",
-      "posicion": "02",
-      "et": "20/3/2020 16:50",
-      "at": "20/3/2020 16:48",
-      "term": "A",
-      "sector": "",
-      "cinta": "6",
-      "lF": "009",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "175"
     },
     {
       "tipo": "arribo",
@@ -2734,7 +2715,7 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "VCP",
-      "remark": "EST",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -2772,7 +2753,7 @@
       "puerta": "07",
       "ruta": "PTY",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -2834,25 +2815,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "LA",
-      "vuelo": "468",
-      "st": "21/03/2020 07:00",
-      "matricula": "CCBAF",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AV",
       "vuelo": "088",
       "st": "21/03/2020 07:00",
@@ -2866,6 +2828,25 @@
       "chkTo": "062",
       "puerta": "10",
       "ruta": "BOG",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LA",
+      "vuelo": "468",
+      "st": "21/03/2020 07:00",
+      "matricula": "CCBAF",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "SCL",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -3398,6 +3379,25 @@
       "chkTo": "074",
       "puerta": "",
       "ruta": "GRU",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1360",
+      "st": "21/03/2020 16:45",
+      "matricula": "LVBZO",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "BOG",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
