@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/03/2020 23:38",
+  "lastUpdate": "20/03/2020 23:43",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1833,14 +1833,14 @@
       "matricula": "PRMBY",
       "posicion": "52B",
       "et": "20/3/2020 23:30",
-      "at": "",
+      "at": "20/3/2020 23:42",
       "term": "A",
       "sector": "",
       "cinta": "3",
       "lF": "003",
       "ruta": "GRU",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "157"
     },
