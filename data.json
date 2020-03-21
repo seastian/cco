@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/03/2020 15:40",
+  "lastUpdate": "21/03/2020 15:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1974,7 +1974,7 @@
       "puerta": "04",
       "ruta": "GRU",
       "via": "",
-      "remark": "PRE",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -2173,7 +2173,7 @@
       "vuelo": "7816",
       "st": "21/03/2020 21:12",
       "matricula": "LVBGI",
-      "posicion": "62A",
+      "posicion": "51A",
       "et": "",
       "at": "",
       "term": "A",
@@ -2302,25 +2302,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "JJ",
-      "vuelo": "H24",
-      "st": "21/03/2020 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "",
-      "ruta": "QTR",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "H24N",
       "st": "21/03/2020 23:59",
@@ -2351,6 +2332,25 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
+      "puerta": "",
+      "ruta": "QTR",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "JJ",
+      "vuelo": "H24",
+      "st": "21/03/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
       "puerta": "",
       "ruta": "QTR",
       "via": "",
