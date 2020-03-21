@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/03/2020 17:02",
+  "lastUpdate": "21/03/2020 17:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1219,25 +1219,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "G3",
-      "vuelo": "7691",
-      "st": "21/03/2020 05:05",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "068",
-      "chkTo": "074",
-      "puerta": "",
-      "ruta": "FLN",
-      "via": "",
-      "remark": "CAN",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "CM",
       "vuelo": "364",
       "st": "21/03/2020 05:26",
@@ -2121,8 +2102,8 @@
       "at": "",
       "term": "A",
       "sector": "AP",
-      "chkFrom": "",
-      "chkTo": "",
+      "chkFrom": "022",
+      "chkTo": "026",
       "puerta": "",
       "ruta": "MXP",
       "via": "",
