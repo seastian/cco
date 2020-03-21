@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/03/2020 00:28",
+  "lastUpdate": "21/03/2020 00:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -516,25 +516,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "OB",
-      "vuelo": "708",
-      "st": "20/03/2020 13:30",
-      "matricula": "CP3017",
-      "posicion": "03",
-      "et": "20/3/2020 12:35",
-      "at": "20/3/2020 12:30",
-      "term": "A",
-      "sector": "",
-      "cinta": "6",
-      "lF": "007",
-      "ruta": "VVI",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "142"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "JJ",
       "vuelo": "8042",
       "st": "20/03/2020 13:35",
@@ -549,6 +530,25 @@
       "ruta": "FLN",
       "via": "",
       "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1281",
+      "st": "20/03/2020 13:25",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
     },
@@ -570,25 +570,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "169"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1281",
-      "st": "20/03/2020 13:25",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "CAN",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
