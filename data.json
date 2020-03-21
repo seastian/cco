@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/03/2020 18:30",
+  "lastUpdate": "21/03/2020 18:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1219,25 +1219,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1930",
-      "st": "21/03/2020 07:00",
-      "matricula": "LVCAD",
-      "posicion": "51A",
-      "et": "",
-      "at": "21/3/2020 07:09",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "209",
-      "chkTo": "240",
-      "puerta": "17",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AV",
       "vuelo": "088",
       "st": "21/03/2020 07:00",
@@ -1250,6 +1231,25 @@
       "chkFrom": "038",
       "chkTo": "039",
       "puerta": "10",
+      "ruta": "BOG",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1930",
+      "st": "21/03/2020 07:00",
+      "matricula": "LVCAD",
+      "posicion": "51A",
+      "et": "",
+      "at": "21/3/2020 07:09",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "209",
+      "chkTo": "240",
+      "puerta": "17",
       "ruta": "BOG",
       "via": "",
       "remark": "PAR",
@@ -1523,25 +1523,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "CM",
-      "vuelo": "278",
-      "st": "21/03/2020 11:38",
-      "matricula": "HP1827",
-      "posicion": "02",
-      "et": "21/3/2020 13:00",
-      "at": "21/3/2020 13:35",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "013",
-      "chkTo": "018",
-      "puerta": "01",
-      "ruta": "PTY",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AD",
       "vuelo": "8767",
       "st": "21/03/2020 13:00",
@@ -1557,6 +1538,25 @@
       "ruta": "VCP",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "CM",
+      "vuelo": "278",
+      "st": "21/03/2020 11:38",
+      "matricula": "HP1827",
+      "posicion": "02",
+      "et": "21/3/2020 13:00",
+      "at": "21/3/2020 13:35",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "013",
+      "chkTo": "018",
+      "puerta": "01",
+      "ruta": "PTY",
+      "via": "",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -1852,7 +1852,7 @@
       "matricula": "CCBGE",
       "posicion": "04",
       "et": "",
-      "at": "",
+      "at": "21/3/2020 18:35",
       "term": "A",
       "sector": "AP",
       "chkFrom": "038",
@@ -1860,7 +1860,7 @@
       "puerta": "03",
       "ruta": "SCL",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -1898,7 +1898,7 @@
       "puerta": "07",
       "ruta": "GRU",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
