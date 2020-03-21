@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/03/2020 15:00",
+  "lastUpdate": "21/03/2020 15:06",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,8 +7,8 @@
       "vuelo": "7824",
       "st": "21/03/2020 15:48",
       "matricula": "LVBFO",
-      "posicion": "",
-      "et": "",
+      "posicion": "50A",
+      "et": "21/3/2020 15:30",
       "at": "",
       "term": "A",
       "sector": "",
@@ -16,9 +16,9 @@
       "lF": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "120"
     },
     {
       "tipo": "arribo",
@@ -1276,25 +1276,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1328",
-      "st": "21/03/2020 04:40",
-      "matricula": "LVFVH",
-      "posicion": "14",
-      "et": "",
-      "at": "21/3/2020 04:31",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "209",
-      "chkTo": "240",
-      "puerta": "19",
-      "ruta": "PUJ",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "G3",
       "vuelo": "7689",
       "st": "21/03/2020 04:40",
@@ -1310,6 +1291,25 @@
       "ruta": "BSB",
       "via": "",
       "remark": "CAN",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1328",
+      "st": "21/03/2020 04:40",
+      "matricula": "LVFVH",
+      "posicion": "14",
+      "et": "",
+      "at": "21/3/2020 04:31",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "209",
+      "chkTo": "240",
+      "puerta": "19",
+      "ruta": "PUJ",
+      "via": "",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -1409,25 +1409,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "LA",
-      "vuelo": "468",
-      "st": "21/03/2020 07:00",
-      "matricula": "CCBAF",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1930",
       "st": "21/03/2020 07:00",
@@ -1462,6 +1443,25 @@
       "ruta": "BOG",
       "via": "",
       "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LA",
+      "vuelo": "468",
+      "st": "21/03/2020 07:00",
+      "matricula": "CCBAF",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -1865,25 +1865,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "4M",
-      "vuelo": "7908",
-      "st": "21/03/2020 15:00",
-      "matricula": "LVBFO",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "",
-      "ruta": "BRC",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "OB",
       "vuelo": "709",
       "st": "21/03/2020 15:00",
@@ -1899,6 +1880,25 @@
       "ruta": "VVI",
       "via": "",
       "remark": "CAN",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "4M",
+      "vuelo": "7908",
+      "st": "21/03/2020 15:00",
+      "matricula": "LVBFO",
+      "posicion": "50A",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "BRC",
+      "via": "",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -1936,7 +1936,7 @@
       "puerta": "08",
       "ruta": "YYZ",
       "via": "SCL",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
