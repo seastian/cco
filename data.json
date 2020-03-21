@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/03/2020 20:52",
+  "lastUpdate": "21/03/2020 20:59",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -136,25 +136,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "4M",
-      "vuelo": "7909",
-      "st": "21/03/2020 19:40",
-      "matricula": "LVBFO",
-      "posicion": "",
-      "et": "21/3/2020 22:50",
-      "at": "",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "BRC",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": "13"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "JJ",
       "vuelo": "8014",
       "st": "21/03/2020 23:00",
@@ -171,6 +152,25 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "170"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "4M",
+      "vuelo": "7909",
+      "st": "21/03/2020 19:40",
+      "matricula": "LVBFO",
+      "posicion": "",
+      "et": "21/3/2020 22:50",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "BRC",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": "13"
     },
     {
       "tipo": "arribo",
@@ -338,6 +338,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "PTY",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1363",
+      "st": "22/03/2020 05:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "BOG",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -1803,7 +1822,7 @@
       "puerta": "18",
       "ruta": "ADD",
       "via": "GRU",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
