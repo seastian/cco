@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/03/2020 18:50",
+  "lastUpdate": "21/03/2020 18:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -38,25 +38,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "182"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "GQR",
-      "st": "21/03/2020 19:15",
-      "matricula": "LVGQR",
-      "posicion": "41",
-      "et": "",
-      "at": "",
-      "term": "FBO",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "FDO",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -1142,23 +1123,23 @@
       "pax": "88"
     },
     {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1240",
-      "st": "21/03/2020 06:40",
-      "matricula": "LVGKU",
-      "posicion": "12",
+      "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "GQR",
+      "st": "21/03/2020 19:15",
+      "matricula": "LVGQR",
+      "posicion": "41",
       "et": "",
-      "at": "21/3/2020 06:53",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "16",
-      "ruta": "GRU",
+      "at": "21/3/2020 18:55",
+      "term": "FBO",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "FDO",
       "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "0"
     },
     {
       "tipo": "partida",
