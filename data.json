@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/03/2020 03:10",
+  "lastUpdate": "21/03/2020 03:15",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -587,25 +587,6 @@
       "ruta": "GRU",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "4M",
-      "vuelo": "7901",
-      "st": "20/03/2020 15:15",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
     },
