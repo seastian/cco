@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/03/2020 20:16",
+  "lastUpdate": "22/03/2020 20:23",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -130,7 +130,7 @@
       "lF": "",
       "ruta": "GRU",
       "via": "",
-      "remark": "",
+      "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
     },
