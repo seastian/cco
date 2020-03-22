@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/03/2020 07:45",
+  "lastUpdate": "22/03/2020 07:51",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -782,25 +782,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "CM",
-      "vuelo": "1841",
-      "st": "21/03/2020 17:45",
-      "matricula": "HP1841",
-      "posicion": "06",
-      "et": "",
-      "at": "21/3/2020 19:47",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "05",
-      "ruta": "PTY",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "G3",
       "vuelo": "7685",
       "st": "21/03/2020 19:55",
@@ -972,6 +953,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "JJ",
+      "vuelo": "H24",
+      "st": "21/03/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "QTR",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "H24",
       "st": "21/03/2020 23:59",
@@ -1002,25 +1002,6 @@
       "sector": "CPI",
       "chkFrom": "209",
       "chkTo": "240",
-      "puerta": "",
-      "ruta": "QTR",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "JJ",
-      "vuelo": "H24",
-      "st": "21/03/2020 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
       "puerta": "",
       "ruta": "QTR",
       "via": "",
@@ -1309,7 +1290,7 @@
       "puerta": "03",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
