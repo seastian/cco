@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/03/2020 00:18",
+  "lastUpdate": "22/03/2020 00:25",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1352,25 +1352,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "SIN",
-      "vuelo": "0871",
-      "st": "21/03/2020 19:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MXP",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "JJ",
       "vuelo": "8002",
       "st": "21/03/2020 19:20",
@@ -1386,6 +1367,25 @@
       "ruta": "GRU",
       "via": "",
       "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "SIN",
+      "vuelo": "0871",
+      "st": "21/03/2020 19:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MXP",
+      "via": "",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -1618,6 +1618,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "JJ",
+      "vuelo": "8032",
+      "st": "22/03/2020 00:20",
+      "matricula": "PRMBR",
+      "posicion": "04",
+      "et": "22/3/2020 01:20",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "chkFrom": "068",
+      "chkTo": "074",
+      "puerta": "03",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "BOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1364",
       "st": "22/03/2020 11:10",
@@ -1633,25 +1652,6 @@
       "ruta": "LIM",
       "via": "",
       "remark": "EST",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "JJ",
-      "vuelo": "8032",
-      "st": "22/03/2020 00:20",
-      "matricula": "PRMBR",
-      "posicion": "04",
-      "et": "22/3/2020 01:20",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "chkFrom": "068",
-      "chkTo": "074",
-      "puerta": "03",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "DEM",
       "sanidad": "NO"
     },
     {
