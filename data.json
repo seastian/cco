@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/03/2020 03:38",
+  "lastUpdate": "22/03/2020 03:45",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1480,7 +1480,7 @@
       "puerta": "05",
       "ruta": "REC",
       "via": "",
-      "remark": "PRE",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
