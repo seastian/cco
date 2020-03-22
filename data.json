@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/03/2020 12:16",
+  "lastUpdate": "22/03/2020 12:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -33,7 +33,7 @@
       "sector": "",
       "cinta": "8",
       "lF": "008",
-      "ruta": "GIG",
+      "ruta": "GRU",
       "via": "",
       "remark": "DEM",
       "sanidad": "NO",
@@ -1269,7 +1269,7 @@
       "chkFrom": "068",
       "chkTo": "074",
       "puerta": "01",
-      "ruta": "GIG",
+      "ruta": "GRU",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
