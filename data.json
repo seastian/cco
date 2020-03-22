@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "22/03/2020 07:12",
+  "lastUpdate": "22/03/2020 07:18",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1361",
-      "st": "22/03/2020 07:10",
-      "matricula": "LVBZO",
-      "posicion": "16B",
-      "et": "22/3/2020 07:14",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "008",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "120"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "SIN",
@@ -779,6 +760,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "352"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1361",
+      "st": "22/03/2020 07:10",
+      "matricula": "LVBZO",
+      "posicion": "16B",
+      "et": "22/3/2020 07:14",
+      "at": "22/3/2020 07:15",
+      "term": "A",
+      "sector": "",
+      "cinta": "8",
+      "lF": "008",
+      "ruta": "BOG",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "120"
     },
     {
       "tipo": "partida",
