@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/03/2020 19:50",
+  "lastUpdate": "22/03/2020 19:56",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -45,7 +45,7 @@
       "vuelo": "773",
       "st": "22/03/2020 21:30",
       "matricula": "",
-      "posicion": "",
+      "posicion": "05",
       "et": "22/3/2020 21:15",
       "at": "",
       "term": "A",
@@ -1318,14 +1318,14 @@
       "vuelo": "774",
       "st": "22/03/2020 23:15",
       "matricula": "",
-      "posicion": "",
+      "posicion": "05",
       "et": "",
       "at": "",
       "term": "A",
       "sector": "AP",
       "chkFrom": "059",
       "chkTo": "067",
-      "puerta": "",
+      "puerta": "04",
       "ruta": "DOH",
       "via": "GRU",
       "remark": "HOR",
