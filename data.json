@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/03/2020 14:49",
+  "lastUpdate": "22/03/2020 14:56",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1239,25 +1239,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1362",
-      "st": "22/03/2020 14:45",
-      "matricula": "LVBZO",
-      "posicion": "16B",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "23",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "CER",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "1272",
       "st": "22/03/2020 14:45",
       "matricula": "LVGKT",
@@ -1270,6 +1251,25 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "FLN",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1362",
+      "st": "22/03/2020 14:45",
+      "matricula": "LVBZO",
+      "posicion": "16B",
+      "et": "",
+      "at": "22/3/2020 14:48",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "23",
+      "ruta": "BOG",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
