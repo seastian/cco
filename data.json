@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/03/2020 19:43",
+  "lastUpdate": "22/03/2020 19:50",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1276,10 +1276,10 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "JJ",
+      "aerolinea": "LA",
       "vuelo": "1107",
       "st": "22/03/2020 23:00",
-      "matricula": "CCBGJ",
+      "matricula": "",
       "posicion": "",
       "et": "",
       "at": "",
@@ -1295,10 +1295,10 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "LA",
+      "aerolinea": "JJ",
       "vuelo": "1107",
       "st": "22/03/2020 23:00",
-      "matricula": "",
+      "matricula": "CCBGJ",
       "posicion": "",
       "et": "",
       "at": "",
@@ -1352,6 +1352,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "JJ",
+      "vuelo": "H24",
+      "st": "22/03/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "QTR",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "H24",
       "st": "22/03/2020 23:59",
@@ -1382,25 +1401,6 @@
       "sector": "CPI",
       "chkFrom": "209",
       "chkTo": "240",
-      "puerta": "",
-      "ruta": "QTR",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "JJ",
-      "vuelo": "H24",
-      "st": "22/03/2020 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
       "puerta": "",
       "ruta": "QTR",
       "via": "",
@@ -1594,7 +1594,7 @@
       "puerta": "",
       "ruta": "GRU",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
