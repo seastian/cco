@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/03/2020 10:23",
+  "lastUpdate": "22/03/2020 10:29",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -772,7 +772,7 @@
       "at": "22/3/2020 09:44",
       "term": "A",
       "sector": "",
-      "cinta": "9",
+      "cinta": "8",
       "lF": "009",
       "ruta": "TFS",
       "via": "",
