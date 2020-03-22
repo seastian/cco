@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/03/2020 21:25",
+  "lastUpdate": "21/03/2020 21:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1371,25 +1371,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "OB",
-      "vuelo": "709",
-      "st": "21/03/2020 15:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "013",
-      "chkTo": "018",
-      "puerta": "",
-      "ruta": "VVI",
-      "via": "",
-      "remark": "CAN",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "4M",
       "vuelo": "7908",
       "st": "21/03/2020 15:00",
@@ -1405,6 +1386,25 @@
       "ruta": "BRC",
       "via": "",
       "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "OB",
+      "vuelo": "709",
+      "st": "21/03/2020 15:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "013",
+      "chkTo": "018",
+      "puerta": "",
+      "ruta": "VVI",
+      "via": "",
+      "remark": "CAN",
       "sanidad": "NO"
     },
     {
@@ -1670,7 +1670,7 @@
       "puerta": "",
       "ruta": "BRC",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -1700,7 +1700,7 @@
       "matricula": "ETASI",
       "posicion": "14",
       "et": "",
-      "at": "",
+      "at": "21/3/2020 21:22",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "201",
@@ -1708,7 +1708,7 @@
       "puerta": "18",
       "ruta": "ADD",
       "via": "GRU",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -1727,7 +1727,7 @@
       "puerta": "",
       "ruta": "BRC",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -1809,25 +1809,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24",
-      "st": "21/03/2020 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "QTR",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "H24N",
       "st": "21/03/2020 23:59",
       "matricula": "",
@@ -1857,6 +1838,25 @@
       "sector": "AP",
       "chkFrom": "041",
       "chkTo": "053",
+      "puerta": "",
+      "ruta": "QTR",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "H24",
+      "st": "21/03/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
       "via": "",
