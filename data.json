@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/03/2020 12:42",
+  "lastUpdate": "22/03/2020 12:48",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -54,7 +54,7 @@
       "lF": "",
       "ruta": "YYZ",
       "via": "SCL",
-      "remark": "",
+      "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
     },
