@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/03/2020 10:10",
+  "lastUpdate": "22/03/2020 10:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -345,6 +345,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "1105",
+      "st": "22/03/2020 22:00",
+      "matricula": "CCBGJ",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "AOG",
       "vuelo": "101",
       "st": "22/03/2020 22:00",
@@ -364,10 +383,10 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1105",
-      "st": "22/03/2020 22:00",
-      "matricula": "CCBGJ",
+      "aerolinea": "AR",
+      "vuelo": "1365",
+      "st": "22/03/2020 22:10",
+      "matricula": "",
       "posicion": "",
       "et": "",
       "at": "",
@@ -375,7 +394,7 @@
       "sector": "",
       "cinta": "",
       "lF": "",
-      "ruta": "SCL",
+      "ruta": "LIM",
       "via": "",
       "remark": "",
       "sanidad": "NO",
