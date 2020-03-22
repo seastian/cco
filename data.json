@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/03/2020 00:38",
+  "lastUpdate": "22/03/2020 00:45",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -232,25 +232,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "SIN",
-      "vuelo": "564",
-      "st": "22/03/2020 07:20",
-      "matricula": "INDMJ",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "TFS",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "SIN",
       "vuelo": "572",
       "st": "22/03/2020 05:20",
       "matricula": "EINEW",
@@ -266,6 +247,25 @@
       "remark": "DEM",
       "sanidad": "NO",
       "pax": "356"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "SIN",
+      "vuelo": "564",
+      "st": "22/03/2020 07:20",
+      "matricula": "INDMJ",
+      "posicion": "",
+      "et": "22/3/2020 09:26",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "TFS",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": "280"
     },
     {
       "tipo": "arribo",
@@ -988,25 +988,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "146"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "JJ",
-      "vuelo": "8009",
-      "st": "21/03/2020 12:25",
-      "matricula": "PTXPJ",
-      "posicion": "07",
-      "et": "",
-      "at": "21/3/2020 12:41",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "06",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
