@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/03/2020 15:09",
+  "lastUpdate": "22/03/2020 15:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -383,25 +383,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "CU",
-      "vuelo": "360",
-      "st": "22/03/2020 22:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "HAV",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "JJ",
       "vuelo": "8014",
       "st": "22/03/2020 23:00",
@@ -418,6 +399,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "CU",
+      "vuelo": "360",
+      "st": "22/03/2020 22:30",
+      "matricula": "CUT1250",
+      "posicion": "",
+      "et": "22/3/2020 23:05",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "HAV",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": "219"
     },
     {
       "tipo": "arribo",
@@ -1600,7 +1600,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24",
+      "vuelo": "H24N",
       "st": "22/03/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -1608,7 +1608,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "209",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -1638,7 +1638,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
+      "vuelo": "H24",
       "st": "22/03/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -1646,7 +1646,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -1659,9 +1659,9 @@
       "aerolinea": "CU",
       "vuelo": "361",
       "st": "23/03/2020 00:30",
-      "matricula": "",
+      "matricula": "CUT1250",
       "posicion": "",
-      "et": "",
+      "et": "23/3/2020 01:05",
       "at": "",
       "term": "A",
       "sector": "AP",
@@ -1670,7 +1670,7 @@
       "puerta": "",
       "ruta": "HAV",
       "via": "CCC",
-      "remark": "HOR",
+      "remark": "DEM",
       "sanidad": "NO"
     },
     {
