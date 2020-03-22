@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/03/2020 21:46",
+  "lastUpdate": "21/03/2020 21:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1352,25 +1352,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "4M",
-      "vuelo": "7908",
-      "st": "21/03/2020 15:00",
-      "matricula": "LVBFO",
-      "posicion": "17",
-      "et": "",
-      "at": "21/3/2020 18:20",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "",
-      "ruta": "BRC",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "OB",
       "vuelo": "709",
       "st": "21/03/2020 15:00",
@@ -1386,6 +1367,25 @@
       "ruta": "VVI",
       "via": "",
       "remark": "CAN",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "4M",
+      "vuelo": "7908",
+      "st": "21/03/2020 15:00",
+      "matricula": "LVBFO",
+      "posicion": "17",
+      "et": "",
+      "at": "21/3/2020 18:20",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "BRC",
+      "via": "",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -1643,7 +1643,7 @@
       "matricula": "LVGQR",
       "posicion": "41",
       "et": "",
-      "at": "",
+      "at": "21/3/2020 21:48",
       "term": "FBO",
       "sector": "",
       "chkFrom": "",
@@ -1651,7 +1651,7 @@
       "puerta": "",
       "ruta": "BRC",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
