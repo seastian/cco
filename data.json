@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/03/2020 12:22",
+  "lastUpdate": "22/03/2020 12:29",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -570,25 +570,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "CM",
-      "vuelo": "279",
-      "st": "22/03/2020 00:34",
-      "matricula": "HP1848",
-      "posicion": "08",
-      "et": "22/3/2020 00:30",
-      "at": "22/3/2020 00:27",
-      "term": "A",
-      "sector": "",
-      "cinta": "4",
-      "lF": "004",
-      "ruta": "PTY",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "146"
     },
     {
       "tipo": "arribo",
