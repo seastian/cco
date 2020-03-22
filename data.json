@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/03/2020 08:18",
+  "lastUpdate": "22/03/2020 08:24",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1252,7 +1252,7 @@
       "puerta": "03",
       "ruta": "SCL",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -1271,7 +1271,7 @@
       "puerta": "02",
       "ruta": "BOG",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -1562,7 +1562,7 @@
     {
       "tipo": "partida",
       "aerolinea": "LA",
-      "vuelo": "7708",
+      "vuelo": "1108",
       "st": "22/03/2020 20:05",
       "matricula": "CCBGL",
       "posicion": "",
@@ -1581,7 +1581,7 @@
     {
       "tipo": "partida",
       "aerolinea": "LA",
-      "vuelo": "1108",
+      "vuelo": "7708",
       "st": "22/03/2020 20:05",
       "matricula": "CCBGL",
       "posicion": "",
