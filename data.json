@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/03/2020 13:48",
+  "lastUpdate": "22/03/2020 13:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1206,7 +1206,7 @@
       "matricula": "CXCLS",
       "posicion": "60",
       "et": "",
-      "at": "",
+      "at": "22/3/2020 13:54",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -1214,7 +1214,7 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -1290,7 +1290,7 @@
       "puerta": "03",
       "ruta": "MAD",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
