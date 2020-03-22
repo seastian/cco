@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/03/2020 02:18",
+  "lastUpdate": "22/03/2020 02:25",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -54,7 +54,7 @@
       "lF": "",
       "ruta": "PTY",
       "via": "",
-      "remark": "",
+      "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
     },
@@ -149,7 +149,7 @@
       "lF": "",
       "ruta": "PTY",
       "via": "",
-      "remark": "",
+      "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
     },
@@ -1499,7 +1499,7 @@
       "puerta": "06",
       "ruta": "GIG",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -1675,25 +1675,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "LA",
-      "vuelo": "468",
-      "st": "22/03/2020 07:00",
-      "matricula": "PRTYU",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1930",
       "st": "22/03/2020 07:00",
@@ -1707,6 +1688,25 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "BOG",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LA",
+      "vuelo": "468",
+      "st": "22/03/2020 07:00",
+      "matricula": "PRTYU",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "SCL",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -1822,7 +1822,7 @@
       "puerta": "",
       "ruta": "PTY",
       "via": "",
-      "remark": "HOR",
+      "remark": "CAN",
       "sanidad": "NO"
     },
     {
@@ -1865,25 +1865,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "424",
-      "st": "22/03/2020 13:00",
-      "matricula": "CXCLS",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "GG",
       "vuelo": "550",
       "st": "22/03/2020 13:00",
@@ -1897,6 +1878,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MIA",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "424",
+      "st": "22/03/2020 13:00",
+      "matricula": "CXCLS",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -1935,6 +1935,25 @@
       "chkTo": "074",
       "puerta": "",
       "ruta": "GIG",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "IB",
+      "vuelo": "6848",
+      "st": "22/03/2020 14:20",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "021",
+      "chkTo": "026",
+      "puerta": "",
+      "ruta": "MAD",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
