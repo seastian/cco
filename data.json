@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/03/2020 18:50",
+  "lastUpdate": "22/03/2020 18:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -121,7 +121,7 @@
       "vuelo": "1931",
       "st": "22/03/2020 21:20",
       "matricula": "LVCAD",
-      "posicion": "",
+      "posicion": "52A",
       "et": "22/3/2020 20:45",
       "at": "",
       "term": "A",
