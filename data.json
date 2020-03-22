@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/03/2020 20:10",
+  "lastUpdate": "22/03/2020 20:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -37,7 +37,7 @@
       "via": "GRU",
       "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "240"
     },
     {
       "tipo": "arribo",
@@ -605,7 +605,7 @@
       "lF": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "CON",
+      "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
     },
@@ -820,25 +820,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AV",
-      "vuelo": "088",
-      "st": "22/03/2020 07:30",
-      "matricula": "N804AV",
-      "posicion": "09",
-      "et": "",
-      "at": "22/3/2020 08:13",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "054",
-      "chkTo": "060",
-      "puerta": "09",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "4M",
       "vuelo": "7827",
       "st": "22/03/2020 08:35",
@@ -1030,25 +1011,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1272",
-      "st": "22/03/2020 14:45",
-      "matricula": "LVGKT",
-      "posicion": "73",
-      "et": "",
-      "at": "22/3/2020 14:45",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "FLN",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "1362",
       "st": "22/03/2020 14:45",
       "matricula": "LVBZO",
@@ -1061,6 +1023,25 @@
       "chkTo": "240",
       "puerta": "23",
       "ruta": "BOG",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1272",
+      "st": "22/03/2020 14:45",
+      "matricula": "LVGKT",
+      "posicion": "73",
+      "et": "",
+      "at": "22/3/2020 14:45",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "FLN",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -1176,7 +1157,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "CON",
+      "remark": "CAN",
       "sanidad": "NO"
     },
     {
