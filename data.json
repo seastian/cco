@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/03/2020 12:02",
+  "lastUpdate": "22/03/2020 12:09",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -551,25 +551,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "4M",
-      "vuelo": "7812",
-      "st": "21/03/2020 23:30",
-      "matricula": "CCCWV",
-      "posicion": "03",
-      "et": "22/3/2020 00:02",
-      "at": "22/3/2020 00:07",
-      "term": "A",
-      "sector": "",
-      "cinta": "5",
-      "lF": "006",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "230"
     },
     {
       "tipo": "arribo",
@@ -1206,7 +1187,7 @@
       "matricula": "LVGVA",
       "posicion": "72",
       "et": "",
-      "at": "",
+      "at": "22/3/2020 12:04",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -1214,7 +1195,7 @@
       "puerta": "",
       "ruta": "GIG",
       "via": "",
-      "remark": "CON",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
