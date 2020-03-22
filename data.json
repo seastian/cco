@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "22/03/2020 04:39",
+  "lastUpdate": "22/03/2020 04:45",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AD",
-      "vuelo": "9770",
-      "st": "22/03/2020 05:00",
-      "matricula": "PRYRY",
-      "posicion": "04",
-      "et": "22/3/2020 04:45",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "1",
-      "lF": "001",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "170"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AR",
@@ -285,25 +266,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "445",
-      "st": "21/03/2020 17:00",
-      "matricula": "CCBGE",
-      "posicion": "04",
-      "et": "21/3/2020 16:40",
-      "at": "21/3/2020 16:45",
-      "term": "A",
-      "sector": "",
-      "cinta": "4",
-      "lF": "003",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "154"
     },
     {
       "tipo": "arribo",
@@ -912,6 +874,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "150"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AD",
+      "vuelo": "9770",
+      "st": "22/03/2020 05:00",
+      "matricula": "PRYRY",
+      "posicion": "04",
+      "et": "22/3/2020 04:45",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "1",
+      "lF": "001",
+      "ruta": "VCP",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "170"
     },
     {
       "tipo": "partida",
@@ -1841,6 +1822,25 @@
       "puerta": "",
       "ruta": "YYZ",
       "via": "SCL",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1360",
+      "st": "22/03/2020 16:45",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "BOG",
+      "via": "",
       "remark": "HOR",
       "sanidad": "NO"
     }
