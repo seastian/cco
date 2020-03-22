@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/03/2020 22:05",
+  "lastUpdate": "21/03/2020 22:12",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1076,8 +1076,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "1",
-      "lF": "002",
+      "cinta": "8",
+      "lF": "008",
       "ruta": "FRA",
       "via": "",
       "remark": "EST",
