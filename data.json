@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/03/2020 06:45",
+  "lastUpdate": "22/03/2020 06:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -266,25 +266,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AU",
-      "vuelo": "2257",
-      "st": "21/03/2020 19:05",
-      "matricula": "LVCMA",
-      "posicion": "23A",
-      "et": "21/3/2020 18:44",
-      "at": "21/3/2020 18:47",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "007",
-      "ruta": "GIG",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "88"
     },
     {
       "tipo": "arribo",
@@ -1347,7 +1328,7 @@
       "puerta": "04",
       "ruta": "SCL",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -1375,14 +1356,14 @@
       "vuelo": "7827",
       "st": "22/03/2020 08:35",
       "matricula": "LVBFO",
-      "posicion": "52A",
+      "posicion": "04",
       "et": "",
       "at": "",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
       "chkTo": "053",
-      "puerta": "12",
+      "puerta": "03",
       "ruta": "SCL",
       "via": "",
       "remark": "HOR",
