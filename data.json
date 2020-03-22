@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/03/2020 20:50",
+  "lastUpdate": "22/03/2020 20:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -73,25 +73,6 @@
       "lF": "",
       "ruta": "LIM",
       "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "TK",
-      "vuelo": "015",
-      "st": "22/03/2020 22:20",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "IST",
-      "via": "GRU",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
@@ -1157,7 +1138,7 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "DEM",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
