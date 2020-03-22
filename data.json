@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/03/2020 11:49",
+  "lastUpdate": "22/03/2020 11:56",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -840,25 +840,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1302",
-      "st": "21/03/2020 23:50",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "209",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "CAN",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "H24",
       "st": "21/03/2020 23:59",
       "matricula": "",
@@ -1505,7 +1486,7 @@
     {
       "tipo": "partida",
       "aerolinea": "LA",
-      "vuelo": "1108",
+      "vuelo": "7708",
       "st": "22/03/2020 20:05",
       "matricula": "CCBGL",
       "posicion": "",
@@ -1524,7 +1505,7 @@
     {
       "tipo": "partida",
       "aerolinea": "LA",
-      "vuelo": "7708",
+      "vuelo": "1108",
       "st": "22/03/2020 20:05",
       "matricula": "CCBGL",
       "posicion": "",
@@ -1707,6 +1688,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "ASU",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1132",
+      "st": "22/03/2020 23:55",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "MAD",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
