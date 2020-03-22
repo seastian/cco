@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/03/2020 01:11",
+  "lastUpdate": "22/03/2020 01:18",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1675,6 +1675,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "G3",
+      "vuelo": "9249",
+      "st": "22/03/2020 02:40",
+      "matricula": "PRGTG",
+      "posicion": "",
+      "et": "22/3/2020 02:40",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "068",
+      "chkTo": "074",
+      "puerta": "",
+      "ruta": "GIG",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "JJ",
       "vuelo": "8122",
       "st": "22/03/2020 03:40",
@@ -1766,25 +1785,6 @@
       "ruta": "PTY",
       "via": "",
       "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "G3",
-      "vuelo": "9249",
-      "st": "22/03/2020 02:40",
-      "matricula": "PRGTG",
-      "posicion": "",
-      "et": "22/3/2020 05:40",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "068",
-      "chkTo": "074",
-      "puerta": "",
-      "ruta": "GIG",
-      "via": "",
-      "remark": "DEM",
       "sanidad": "NO"
     },
     {
