@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "22/03/2020 05:05",
+  "lastUpdate": "22/03/2020 05:12",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1363",
-      "st": "22/03/2020 05:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "LA",
@@ -893,6 +874,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "170"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1363",
+      "st": "22/03/2020 05:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "BOG",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "partida",
