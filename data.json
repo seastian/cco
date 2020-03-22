@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/03/2020 08:37",
+  "lastUpdate": "22/03/2020 08:44",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -301,6 +301,25 @@
       "lF": "",
       "ruta": "FLN",
       "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "EK",
+      "vuelo": "247",
+      "st": "22/03/2020 20:40",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "DXB",
+      "via": "GIG",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
