@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/03/2020 07:58",
+  "lastUpdate": "22/03/2020 08:04",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1271,7 +1271,7 @@
       "puerta": "03",
       "ruta": "SCL",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -1448,25 +1448,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1272",
-      "st": "22/03/2020 14:45",
-      "matricula": "LVGKT",
-      "posicion": "73",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "FLN",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "1362",
       "st": "22/03/2020 14:45",
       "matricula": "LVBZO",
@@ -1479,6 +1460,25 @@
       "chkTo": "240",
       "puerta": "23",
       "ruta": "BOG",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1272",
+      "st": "22/03/2020 14:45",
+      "matricula": "LVGKT",
+      "posicion": "73",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "FLN",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -1576,6 +1576,44 @@
       "ruta": "MIA",
       "via": "",
       "remark": "DEM",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LA",
+      "vuelo": "7708",
+      "st": "22/03/2020 20:05",
+      "matricula": "CCBGL",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LA",
+      "vuelo": "1108",
+      "st": "22/03/2020 20:05",
+      "matricula": "CCBGL",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     }
   ]
