@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/03/2020 23:45",
+  "lastUpdate": "21/03/2020 23:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1023,28 +1023,9 @@
       "lF": "",
       "ruta": "VCP",
       "via": "",
-      "remark": "",
+      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1106",
-      "st": "21/03/2020 18:10",
-      "matricula": "N542LA",
-      "posicion": "54",
-      "et": "21/3/2020 11:30",
-      "at": "21/3/2020 11:46",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
@@ -1638,25 +1619,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1364",
-      "st": "22/03/2020 11:10",
-      "matricula": "LVFQZ",
-      "posicion": "53A",
-      "et": "22/3/2020 11:40",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "1302",
       "st": "21/03/2020 23:50",
       "matricula": "",
@@ -1671,6 +1633,25 @@
       "ruta": "MIA",
       "via": "",
       "remark": "CAN",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1364",
+      "st": "22/03/2020 11:10",
+      "matricula": "LVFQZ",
+      "posicion": "53A",
+      "et": "22/3/2020 11:40",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "LIM",
+      "via": "",
+      "remark": "EST",
       "sanidad": "NO"
     },
     {
