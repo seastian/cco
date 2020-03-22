@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/03/2020 08:31",
+  "lastUpdate": "22/03/2020 08:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -304,25 +304,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "IB",
-      "vuelo": "6845",
-      "st": "21/03/2020 20:20",
-      "matricula": "ECMYX",
-      "posicion": "18",
-      "et": "21/3/2020 20:28",
-      "at": "21/3/2020 20:33",
-      "term": "A",
-      "sector": "",
-      "cinta": "3",
-      "lF": "003",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "294"
     },
     {
       "tipo": "arribo",
@@ -915,25 +896,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "H24N",
-      "st": "21/03/2020 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "209",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "QTR",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "JJ",
       "vuelo": "H24",
       "st": "21/03/2020 23:59",
@@ -963,6 +925,25 @@
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "QTR",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "H24N",
+      "st": "21/03/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "209",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -1244,7 +1225,7 @@
       "matricula": "LVBFO",
       "posicion": "04",
       "et": "",
-      "at": "",
+      "at": "22/3/2020 08:33",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -1252,7 +1233,7 @@
       "puerta": "03",
       "ruta": "SCL",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -1562,7 +1543,7 @@
     {
       "tipo": "partida",
       "aerolinea": "LA",
-      "vuelo": "7708",
+      "vuelo": "1108",
       "st": "22/03/2020 20:05",
       "matricula": "CCBGL",
       "posicion": "",
@@ -1581,7 +1562,7 @@
     {
       "tipo": "partida",
       "aerolinea": "LA",
-      "vuelo": "1108",
+      "vuelo": "7708",
       "st": "22/03/2020 20:05",
       "matricula": "CCBGL",
       "posicion": "",
