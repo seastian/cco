@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/03/2020 08:24",
+  "lastUpdate": "22/03/2020 08:31",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1429,25 +1429,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1362",
-      "st": "22/03/2020 14:45",
-      "matricula": "LVBZO",
-      "posicion": "16B",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "23",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "1272",
       "st": "22/03/2020 14:45",
       "matricula": "LVGKT",
@@ -1460,6 +1441,25 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "FLN",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1362",
+      "st": "22/03/2020 14:45",
+      "matricula": "LVBZO",
+      "posicion": "16B",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "23",
+      "ruta": "BOG",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -1562,7 +1562,7 @@
     {
       "tipo": "partida",
       "aerolinea": "LA",
-      "vuelo": "1108",
+      "vuelo": "7708",
       "st": "22/03/2020 20:05",
       "matricula": "CCBGL",
       "posicion": "",
@@ -1581,7 +1581,7 @@
     {
       "tipo": "partida",
       "aerolinea": "LA",
-      "vuelo": "7708",
+      "vuelo": "1108",
       "st": "22/03/2020 20:05",
       "matricula": "CCBGL",
       "posicion": "",
@@ -1593,6 +1593,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "SCL",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "101",
+      "st": "22/03/2020 20:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "ASU",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
