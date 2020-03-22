@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/03/2020 03:25",
+  "lastUpdate": "22/03/2020 03:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -285,25 +285,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "4M",
-      "vuelo": "7824",
-      "st": "21/03/2020 15:48",
-      "matricula": "LVBFO",
-      "posicion": "17",
-      "et": "21/3/2020 15:30",
-      "at": "21/3/2020 15:27",
-      "term": "A",
-      "sector": "",
-      "cinta": "3",
-      "lF": "003",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "120"
     },
     {
       "tipo": "arribo",
@@ -1518,7 +1499,7 @@
       "puerta": "01",
       "ruta": "SSA",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -1904,6 +1885,25 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
+      "vuelo": "1362",
+      "st": "22/03/2020 14:45",
+      "matricula": "LVBZO",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "BOG",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
       "vuelo": "1272",
       "st": "22/03/2020 14:45",
       "matricula": "LVGKT",
@@ -1922,20 +1922,20 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1362",
-      "st": "22/03/2020 14:45",
-      "matricula": "LVBZO",
+      "aerolinea": "AC",
+      "vuelo": "093",
+      "st": "22/03/2020 15:30",
+      "matricula": "",
       "posicion": "",
       "et": "",
       "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "061",
+      "chkTo": "067",
       "puerta": "",
-      "ruta": "BOG",
-      "via": "",
+      "ruta": "YYZ",
+      "via": "SCL",
       "remark": "HOR",
       "sanidad": "NO"
     }
