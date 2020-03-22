@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/03/2020 06:25",
+  "lastUpdate": "22/03/2020 06:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -224,6 +224,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "GIG",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AOG",
+      "vuelo": "101",
+      "st": "22/03/2020 18:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MVD",
       "via": "",
       "remark": "",
       "sanidad": "NO",
