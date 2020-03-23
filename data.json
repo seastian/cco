@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "23/03/2020 18:56",
+  "lastUpdate": "23/03/2020 19:02",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1365Z",
-      "st": "23/03/2020 19:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AR",
@@ -610,6 +591,25 @@
       "pax": ""
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1365Z",
+      "st": "23/03/2020 19:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "LIM",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
       "tipo": "partida",
       "aerolinea": "SIN",
       "vuelo": "571",
@@ -1081,7 +1081,7 @@
       "puerta": "",
       "ruta": "POA",
       "via": "",
-      "remark": "DEM",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -1336,7 +1336,7 @@
       "aerolinea": "JJ",
       "vuelo": "9453",
       "st": "24/03/2020 03:30",
-      "matricula": "",
+      "matricula": "PTMUD",
       "posicion": "",
       "et": "",
       "at": "",
