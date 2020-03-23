@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/03/2020 07:16",
+  "lastUpdate": "23/03/2020 07:23",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,7 +7,7 @@
       "vuelo": "6685",
       "st": "23/03/2020 06:00",
       "matricula": "ECLZO",
-      "posicion": "",
+      "posicion": "04",
       "et": "23/3/2020 08:00",
       "at": "",
       "term": "A",
@@ -304,25 +304,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1273",
-      "st": "22/03/2020 19:40",
-      "matricula": "LVGKT",
-      "posicion": "15B",
-      "et": "22/3/2020 19:17",
-      "at": "22/3/2020 19:19",
-      "term": "A",
-      "sector": "",
-      "cinta": "6",
-      "lF": "007",
-      "ruta": "FLN",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "168"
     },
     {
       "tipo": "arribo",
