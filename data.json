@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "23/03/2020 15:47",
+  "lastUpdate": "23/03/2020 15:53",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1273",
-      "st": "23/03/2020 16:00",
-      "matricula": "LVGKT",
-      "posicion": "53A",
-      "et": "23/3/2020 15:54",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "007",
-      "ruta": "FLN",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "170"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "LA",
@@ -705,6 +686,25 @@
       "pax": ""
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1273",
+      "st": "23/03/2020 16:00",
+      "matricula": "LVGKT",
+      "posicion": "53A",
+      "et": "23/3/2020 15:54",
+      "at": "23/3/2020 15:47",
+      "term": "A",
+      "sector": "",
+      "cinta": "7",
+      "lF": "007",
+      "ruta": "FLN",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "170"
+    },
+    {
       "tipo": "partida",
       "aerolinea": "ES",
       "vuelo": "8568",
@@ -1176,7 +1176,7 @@
       "puerta": "04",
       "ruta": "SCL",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
