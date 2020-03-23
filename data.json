@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/03/2020 16:39",
+  "lastUpdate": "23/03/2020 16:46",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -26,7 +26,7 @@
       "vuelo": "1365",
       "st": "23/03/2020 16:11",
       "matricula": "LVGGK",
-      "posicion": "",
+      "posicion": "16B",
       "et": "23/3/2020 17:43",
       "at": "",
       "term": "A",
@@ -94,7 +94,7 @@
       "via": "",
       "remark": "EST",
       "sanidad": "NO",
-      "pax": "162"
+      "pax": "80"
     },
     {
       "tipo": "arribo",
@@ -307,6 +307,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1305",
+      "st": "24/03/2020 04:40",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "AOG",
       "vuelo": "102",
       "st": "23/03/2020 03:30",
@@ -319,25 +338,6 @@
       "cinta": "",
       "lF": "",
       "ruta": "ASU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "MAX",
-      "st": "23/03/2020 04:20",
-      "matricula": "CXMAX",
-      "posicion": "59",
-      "et": "",
-      "at": "23/3/2020 04:45",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MVD",
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
@@ -1185,7 +1185,7 @@
       "vuelo": "534",
       "st": "23/03/2020 16:00",
       "matricula": "FAU534",
-      "posicion": "",
+      "posicion": "45",
       "et": "",
       "at": "",
       "term": "FBO",
@@ -1195,7 +1195,7 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -1299,7 +1299,7 @@
       "vuelo": "417",
       "st": "23/03/2020 20:15",
       "matricula": "N347UP",
-      "posicion": "34",
+      "posicion": "56",
       "et": "",
       "at": "",
       "term": "TCA",
