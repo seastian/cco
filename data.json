@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/03/2020 00:51",
+  "lastUpdate": "23/03/2020 00:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -63,7 +63,7 @@
       "aerolinea": "LA",
       "vuelo": "469",
       "st": "23/03/2020 04:00",
-      "matricula": "",
+      "matricula": "CCBGC",
       "posicion": "",
       "et": "",
       "at": "",
@@ -1621,7 +1621,7 @@
       "aerolinea": "LA",
       "vuelo": "468",
       "st": "23/03/2020 07:00",
-      "matricula": "",
+      "matricula": "CCBGC",
       "posicion": "",
       "et": "",
       "at": "",
