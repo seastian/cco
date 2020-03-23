@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/03/2020 23:24",
+  "lastUpdate": "22/03/2020 23:31",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1295,6 +1295,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "101",
+      "st": "22/03/2020 23:30",
+      "matricula": "CXCAR",
+      "posicion": "55A",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "EK",
       "vuelo": "248",
       "st": "22/03/2020 22:20",
@@ -1348,25 +1367,6 @@
       "ruta": "MXP",
       "via": "",
       "remark": "DEM",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "101",
-      "st": "22/03/2020 23:30",
-      "matricula": "CXCAR",
-      "posicion": "55A",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "HOR",
       "sanidad": "NO"
     },
     {
@@ -1458,7 +1458,7 @@
       "sector": "AP",
       "chkFrom": "083",
       "chkTo": "088",
-      "puerta": "09",
+      "puerta": "08",
       "ruta": "HAV",
       "via": "CCC",
       "remark": "DEM",
