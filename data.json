@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/03/2020 15:40",
+  "lastUpdate": "23/03/2020 15:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1167,7 +1167,7 @@
       "st": "23/03/2020 15:30",
       "matricula": "CCBGC",
       "posicion": "05",
-      "et": "",
+      "et": "23/3/2020 15:45",
       "at": "",
       "term": "A",
       "sector": "",
