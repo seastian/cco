@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "23/03/2020 19:15",
+  "lastUpdate": "23/03/2020 19:22",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1367",
-      "st": "23/03/2020 23:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "23/3/2020 19:20",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "80"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AR",
@@ -608,6 +589,25 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1367",
+      "st": "23/03/2020 23:10",
+      "matricula": "LVGVC",
+      "posicion": "53A",
+      "et": "23/3/2020 19:20",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "6",
+      "lF": "007",
+      "ruta": "LIM",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "80"
     },
     {
       "tipo": "partida",
