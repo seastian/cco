@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/03/2020 22:51",
+  "lastUpdate": "22/03/2020 22:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -38,25 +38,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "CU",
-      "vuelo": "360",
-      "st": "22/03/2020 22:30",
-      "matricula": "CUT1250",
-      "posicion": "09",
-      "et": "22/3/2020 23:05",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "008",
-      "ruta": "HAV",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": "219"
     },
     {
       "tipo": "arribo",
@@ -838,6 +819,25 @@
       "pax": ""
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "CU",
+      "vuelo": "360",
+      "st": "22/03/2020 22:30",
+      "matricula": "CUT1250",
+      "posicion": "09",
+      "et": "22/3/2020 23:05",
+      "at": "22/3/2020 22:55",
+      "term": "A",
+      "sector": "",
+      "cinta": "8",
+      "lF": "008",
+      "ruta": "HAV",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "219"
+    },
+    {
       "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1250",
@@ -1233,7 +1233,7 @@
       "puerta": "10",
       "ruta": "DXB",
       "via": "GIG",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
