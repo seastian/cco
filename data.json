@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/03/2020 12:25",
+  "lastUpdate": "23/03/2020 12:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -12,8 +12,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "9",
-      "lF": "009",
+      "cinta": "7",
+      "lF": "007",
       "ruta": "GIG",
       "via": "",
       "remark": "EST",
@@ -321,25 +321,6 @@
       "ruta": "MIA",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "102",
-      "st": "23/03/2020 00:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
