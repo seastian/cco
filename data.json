@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/03/2020 21:37",
+  "lastUpdate": "22/03/2020 21:44",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -380,25 +380,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "277"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "SIN",
-      "vuelo": "564",
-      "st": "22/03/2020 07:20",
-      "matricula": "INDMJ",
-      "posicion": "10",
-      "et": "",
-      "at": "22/3/2020 09:44",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "009",
-      "ruta": "TFS",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "280"
     },
     {
       "tipo": "arribo",
