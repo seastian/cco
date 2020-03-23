@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/03/2020 20:46",
+  "lastUpdate": "23/03/2020 20:53",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -624,25 +624,6 @@
       "chkTo": "026",
       "puerta": "14",
       "ruta": "MXP",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "JJ",
-      "vuelo": "9515",
-      "st": "23/03/2020 07:30",
-      "matricula": "PTMUB",
-      "posicion": "06",
-      "et": "23/3/2020 09:00",
-      "at": "23/3/2020 08:51",
-      "term": "A",
-      "sector": "",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "05",
-      "ruta": "GRU",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -1298,8 +1279,8 @@
       "aerolinea": "AR",
       "vuelo": "1228",
       "st": "24/03/2020 08:20",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "LVGGK",
+      "posicion": "25B",
       "et": "",
       "at": "",
       "term": "C",
