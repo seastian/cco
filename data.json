@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/03/2020 02:50",
+  "lastUpdate": "23/03/2020 02:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -27,7 +27,7 @@
       "st": "23/03/2020 04:00",
       "matricula": "CCBGC",
       "posicion": "",
-      "et": "",
+      "et": "23/3/2020 04:00",
       "at": "",
       "term": "A",
       "sector": "",
@@ -35,9 +35,9 @@
       "lF": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "307"
     },
     {
       "tipo": "arribo",
