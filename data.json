@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/03/2020 10:14",
+  "lastUpdate": "23/03/2020 10:21",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1575,6 +1575,25 @@
       "puerta": "",
       "ruta": "ADD",
       "via": "GRU",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "EK",
+      "vuelo": "248",
+      "st": "23/03/2020 22:20",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "027",
+      "chkTo": "034",
+      "puerta": "",
+      "ruta": "DXB",
+      "via": "GIG",
       "remark": "HOR",
       "sanidad": "NO"
     },
