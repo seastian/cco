@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/03/2020 02:44",
+  "lastUpdate": "23/03/2020 02:50",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -915,44 +915,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1362",
-      "st": "22/03/2020 14:45",
-      "matricula": "LVBZO",
-      "posicion": "16B",
-      "et": "",
-      "at": "22/3/2020 14:48",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "23",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1272",
-      "st": "22/03/2020 14:45",
-      "matricula": "LVGKT",
-      "posicion": "73",
-      "et": "",
-      "at": "22/3/2020 14:45",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "FLN",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "PRV",
       "vuelo": "550",
       "st": "22/03/2020 15:10",
@@ -1087,7 +1049,7 @@
     {
       "tipo": "partida",
       "aerolinea": "LA",
-      "vuelo": "1108",
+      "vuelo": "7708",
       "st": "22/03/2020 20:05",
       "matricula": "CCBGL",
       "posicion": "",
@@ -1106,7 +1068,7 @@
     {
       "tipo": "partida",
       "aerolinea": "LA",
-      "vuelo": "7708",
+      "vuelo": "1108",
       "st": "22/03/2020 20:05",
       "matricula": "CCBGL",
       "posicion": "",
