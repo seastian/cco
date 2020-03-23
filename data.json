@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/03/2020 03:10",
+  "lastUpdate": "23/03/2020 03:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -26,7 +26,7 @@
       "vuelo": "469",
       "st": "23/03/2020 04:00",
       "matricula": "CCBGC",
-      "posicion": "",
+      "posicion": "03",
       "et": "23/3/2020 04:00",
       "at": "",
       "term": "A",
@@ -1527,14 +1527,14 @@
       "vuelo": "468",
       "st": "23/03/2020 07:00",
       "matricula": "CCBGC",
-      "posicion": "",
+      "posicion": "03",
       "et": "",
       "at": "",
       "term": "A",
       "sector": "",
       "chkFrom": "",
       "chkTo": "",
-      "puerta": "",
+      "puerta": "02",
       "ruta": "SCL",
       "via": "",
       "remark": "HOR",
