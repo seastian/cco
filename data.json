@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/03/2020 09:55",
+  "lastUpdate": "23/03/2020 10:01",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -307,6 +307,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "UC",
+      "vuelo": "1109",
+      "st": "23/03/2020 22:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "CAN",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "LA",
       "vuelo": "1105",
       "st": "22/03/2020 22:00",
@@ -323,25 +342,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "304"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "101",
-      "st": "22/03/2020 22:00",
-      "matricula": "CXCAR",
-      "posicion": "55A",
-      "et": "",
-      "at": "22/3/2020 22:01",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
