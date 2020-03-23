@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/03/2020 15:08",
+  "lastUpdate": "23/03/2020 15:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -160,7 +160,7 @@
       "st": "23/03/2020 19:10",
       "matricula": "LVGIF",
       "posicion": "",
-      "et": "",
+      "et": "23/3/2020 19:44",
       "at": "",
       "term": "A",
       "sector": "",
@@ -168,9 +168,9 @@
       "lF": "",
       "ruta": "CUN",
       "via": "",
-      "remark": "",
+      "remark": "DEM",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "267"
     },
     {
       "tipo": "arribo",
@@ -678,7 +678,7 @@
       "term": "A",
       "sector": "",
       "cinta": "9",
-      "lF": "001",
+      "lF": "002",
       "ruta": "SCL",
       "via": "",
       "remark": "ATE",
