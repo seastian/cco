@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/03/2020 21:31",
+  "lastUpdate": "22/03/2020 21:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -159,7 +159,7 @@
       "vuelo": "7812",
       "st": "22/03/2020 23:30",
       "matricula": "CCCWV",
-      "posicion": "",
+      "posicion": "04",
       "et": "23/3/2020 00:01",
       "at": "",
       "term": "A",
