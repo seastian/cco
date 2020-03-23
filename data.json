@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/03/2020 18:43",
+  "lastUpdate": "23/03/2020 18:49",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -323,25 +323,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "116"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1361",
-      "st": "23/03/2020 07:15",
-      "matricula": "LVCAP",
-      "posicion": "52B",
-      "et": "23/3/2020 06:45",
-      "at": "23/3/2020 06:43",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "008",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "120"
     },
     {
       "tipo": "arribo",
