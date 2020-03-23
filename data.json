@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/03/2020 16:26",
+  "lastUpdate": "23/03/2020 16:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -338,25 +338,6 @@
       "cinta": "",
       "lF": "",
       "ruta": "ASU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "314",
-      "st": "23/03/2020 04:00",
-      "matricula": "CXMAS",
-      "posicion": "60",
-      "et": "",
-      "at": "23/3/2020 04:33",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MVD",
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
@@ -1391,8 +1372,8 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1132",
-      "st": "23/03/2020 23:55",
+      "vuelo": "H24",
+      "st": "23/03/2020 23:59",
       "matricula": "",
       "posicion": "",
       "et": "",
@@ -1402,7 +1383,7 @@
       "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
-      "ruta": "MAD",
+      "ruta": "QTR",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -1448,8 +1429,8 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24",
-      "st": "23/03/2020 23:59",
+      "vuelo": "1132",
+      "st": "24/03/2020 01:25",
       "matricula": "",
       "posicion": "",
       "et": "",
@@ -1459,7 +1440,7 @@
       "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
-      "ruta": "QTR",
+      "ruta": "MAD",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
