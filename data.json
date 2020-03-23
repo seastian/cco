@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/03/2020 13:56",
+  "lastUpdate": "23/03/2020 14:03",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -65,7 +65,7 @@
       "st": "23/03/2020 16:00",
       "matricula": "LVGKT",
       "posicion": "",
-      "et": "",
+      "et": "23/3/2020 15:54",
       "at": "",
       "term": "A",
       "sector": "",
@@ -73,9 +73,9 @@
       "lF": "",
       "ruta": "FLN",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "170"
     },
     {
       "tipo": "arribo",
@@ -1460,6 +1460,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "SCL",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "GG",
+      "vuelo": "550",
+      "st": "24/03/2020 02:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
