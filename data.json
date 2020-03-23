@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "23/03/2020 20:14",
+  "lastUpdate": "23/03/2020 20:20",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "ET",
-      "vuelo": "506",
-      "st": "23/03/2020 19:55",
-      "matricula": "ETASI",
-      "posicion": "10",
-      "et": "23/3/2020 20:15",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "010",
-      "ruta": "ADD",
-      "via": "GRU",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": "268"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "EK",
@@ -247,25 +228,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "SIN",
-      "vuelo": "6685",
-      "st": "23/03/2020 06:00",
-      "matricula": "ECLZO",
-      "posicion": "04",
-      "et": "",
-      "at": "23/3/2020 08:16",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "010",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "116"
     },
     {
       "tipo": "arribo",
@@ -608,6 +570,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "267"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "ET",
+      "vuelo": "506",
+      "st": "23/03/2020 19:55",
+      "matricula": "ETASI",
+      "posicion": "10",
+      "et": "23/3/2020 20:15",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "010",
+      "ruta": "ADD",
+      "via": "GRU",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": "268"
     },
     {
       "tipo": "partida",
@@ -1043,7 +1024,7 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "BOG",
-      "remark": "EST",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -1054,7 +1035,7 @@
       "matricula": "N347UP",
       "posicion": "56",
       "et": "",
-      "at": "",
+      "at": "23/3/2020 20:20",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -1062,7 +1043,7 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "VCP",
-      "remark": "HOR",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -1219,25 +1200,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AD",
-      "vuelo": "9773",
-      "st": "24/03/2020 02:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "075",
-      "chkTo": "081",
-      "puerta": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "GG",
       "vuelo": "550",
       "st": "24/03/2020 02:00",
@@ -1251,6 +1213,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MIA",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AD",
+      "vuelo": "9773",
+      "st": "24/03/2020 02:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "075",
+      "chkTo": "081",
+      "puerta": "",
+      "ruta": "VCP",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -1329,6 +1310,25 @@
       "ruta": "MAD",
       "via": "",
       "remark": "DEM",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1228",
+      "st": "24/03/2020 08:20",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "BPS",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     }
   ]
