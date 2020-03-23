@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/03/2020 12:38",
+  "lastUpdate": "23/03/2020 12:45",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -44,7 +44,7 @@
       "aerolinea": "AC",
       "vuelo": "092",
       "st": "23/03/2020 14:00",
-      "matricula": "",
+      "matricula": "CFKAU",
       "posicion": "",
       "et": "",
       "at": "",
@@ -1222,7 +1222,7 @@
       "aerolinea": "AC",
       "vuelo": "093",
       "st": "23/03/2020 15:40",
-      "matricula": "",
+      "matricula": "CFKAU",
       "posicion": "",
       "et": "",
       "at": "",
