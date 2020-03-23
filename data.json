@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/03/2020 20:20",
+  "lastUpdate": "23/03/2020 20:27",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -579,14 +579,14 @@
       "matricula": "ETASI",
       "posicion": "10",
       "et": "23/3/2020 20:15",
-      "at": "",
+      "at": "23/3/2020 20:24",
       "term": "A",
       "sector": "",
       "cinta": "9",
       "lF": "010",
       "ruta": "ADD",
       "via": "GRU",
-      "remark": "DEM",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "268"
     },
