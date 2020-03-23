@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/03/2020 16:59",
+  "lastUpdate": "23/03/2020 17:05",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -915,6 +915,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "SIN",
+      "vuelo": "565",
+      "st": "23/03/2020 04:00",
+      "matricula": "INDMJ",
+      "posicion": "11",
+      "et": "23/3/2020 09:00",
+      "at": "23/3/2020 11:03",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "022",
+      "chkTo": "026",
+      "puerta": "14",
+      "ruta": "MXP",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "JJ",
       "vuelo": "9515",
       "st": "23/03/2020 07:30",
@@ -949,25 +968,6 @@
       "ruta": "LIM",
       "via": "",
       "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "SIN",
-      "vuelo": "565",
-      "st": "23/03/2020 04:00",
-      "matricula": "INDMJ",
-      "posicion": "11",
-      "et": "23/3/2020 09:00",
-      "at": "23/3/2020 11:03",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "022",
-      "chkTo": "026",
-      "puerta": "14",
-      "ruta": "MXP",
-      "via": "",
-      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -1219,6 +1219,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "FAE",
+      "vuelo": "550",
+      "st": "23/03/2020 17:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "M3",
       "vuelo": "8473",
       "st": "23/03/2020 15:30",
@@ -1234,25 +1253,6 @@
       "ruta": "POA",
       "via": "",
       "remark": "DEM",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "FAE",
-      "vuelo": "550",
-      "st": "23/03/2020 17:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "HOR",
       "sanidad": "NO"
     },
     {
