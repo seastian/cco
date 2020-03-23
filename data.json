@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/03/2020 11:20",
+  "lastUpdate": "23/03/2020 11:27",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1306,7 +1306,7 @@
       "sector": "AP",
       "chkFrom": "",
       "chkTo": "",
-      "puerta": "05",
+      "puerta": "",
       "ruta": "PTY",
       "via": "",
       "remark": "DEM",
