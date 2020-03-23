@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/03/2020 14:48",
+  "lastUpdate": "23/03/2020 14:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -27,7 +27,7 @@
       "st": "23/03/2020 15:00",
       "matricula": "FAU534",
       "posicion": "45",
-      "et": "",
+      "et": "23/3/2020 15:15",
       "at": "",
       "term": "FBO",
       "sector": "",
@@ -35,7 +35,7 @@
       "lF": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": "6"
     },
@@ -678,7 +678,7 @@
       "term": "A",
       "sector": "",
       "cinta": "9",
-      "lF": "009",
+      "lF": "001",
       "ruta": "SCL",
       "via": "",
       "remark": "ATE",
