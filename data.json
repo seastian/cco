@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/03/2020 23:18",
+  "lastUpdate": "22/03/2020 23:24",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -845,14 +845,14 @@
       "matricula": "LVGKO",
       "posicion": "16",
       "et": "22/3/2020 23:16",
-      "at": "",
+      "at": "22/3/2020 23:20",
       "term": "C",
       "sector": "CAC",
       "cinta": "11",
       "lF": "017",
       "ruta": "COR",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "245"
     },
@@ -1575,7 +1575,7 @@
       "puerta": "",
       "ruta": "CCS",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
