@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/03/2020 18:10",
+  "lastUpdate": "23/03/2020 18:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -63,9 +63,9 @@
       "aerolinea": "ET",
       "vuelo": "506",
       "st": "23/03/2020 19:55",
-      "matricula": "",
+      "matricula": "ETASI",
       "posicion": "",
-      "et": "",
+      "et": "23/3/2020 20:15",
       "at": "",
       "term": "A",
       "sector": "",
@@ -73,9 +73,9 @@
       "lF": "",
       "ruta": "ADD",
       "via": "GRU",
-      "remark": "",
+      "remark": "DEM",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "268"
     },
     {
       "tipo": "arribo",
@@ -342,25 +342,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "120"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LH",
-      "vuelo": "8264",
-      "st": "23/03/2020 07:20",
-      "matricula": "DALCI",
-      "posicion": "54",
-      "et": "",
-      "at": "23/3/2020 06:17",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "FRA",
-      "via": "MVD",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -646,25 +627,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "315",
-      "st": "23/03/2020 06:00",
-      "matricula": "CXMAS",
-      "posicion": "60",
-      "et": "",
-      "at": "23/3/2020 06:15",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
@@ -1222,7 +1184,7 @@
       "aerolinea": "ET",
       "vuelo": "507",
       "st": "23/03/2020 21:20",
-      "matricula": "",
+      "matricula": "ETASI",
       "posicion": "",
       "et": "",
       "at": "",
