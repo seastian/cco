@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/03/2020 08:09",
+  "lastUpdate": "23/03/2020 08:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -706,6 +706,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "SIN",
+      "vuelo": "6685",
+      "st": "23/03/2020 06:00",
+      "matricula": "ECLZO",
+      "posicion": "04",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "7",
+      "lF": "010",
+      "ruta": "MAD",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO",
+      "pax": "116"
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "AOG",
       "vuelo": "103",
       "st": "23/03/2020 06:30",
@@ -760,25 +779,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "SIN",
-      "vuelo": "6685",
-      "st": "23/03/2020 06:00",
-      "matricula": "ECLZO",
-      "posicion": "04",
-      "et": "23/3/2020 08:00",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "010",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": "116"
     },
     {
       "tipo": "partida",
@@ -1632,6 +1632,25 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "BOG",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "5X",
+      "vuelo": "417",
+      "st": "23/03/2020 20:15",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
+      "via": "VCP",
       "remark": "HOR",
       "sanidad": "NO"
     }
