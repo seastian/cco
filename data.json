@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/03/2020 05:30",
+  "lastUpdate": "23/03/2020 05:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -107,8 +107,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "7",
+      "lF": "010",
       "ruta": "MAD",
       "via": "",
       "remark": "DEM",
@@ -126,8 +126,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "9",
+      "lF": "009",
       "ruta": "CDG",
       "via": "",
       "remark": "EST",
@@ -874,25 +874,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "414"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AV",
-      "vuelo": "5064",
-      "st": "22/03/2020 17:38",
-      "matricula": "N342AV",
-      "posicion": "10",
-      "et": "",
-      "at": "22/3/2020 17:35",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "021",
-      "chkTo": "026",
-      "puerta": "10",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
