@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/03/2020 22:24",
+  "lastUpdate": "22/03/2020 22:31",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1290,7 +1290,7 @@
       "puerta": "04",
       "ruta": "DOH",
       "via": "GRU",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
