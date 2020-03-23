@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/03/2020 04:23",
+  "lastUpdate": "23/03/2020 04:30",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1390,6 +1390,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "103",
+      "st": "23/03/2020 04:30",
+      "matricula": "CXCAR",
+      "posicion": "55A",
+      "et": "23/3/2020 06:00",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "SIN",
       "vuelo": "571",
       "st": "22/03/2020 23:00",
@@ -1481,25 +1500,6 @@
       "ruta": "CCS",
       "via": "",
       "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "103",
-      "st": "23/03/2020 04:30",
-      "matricula": "CXCAR",
-      "posicion": "55A",
-      "et": "23/3/2020 06:00",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "DEM",
       "sanidad": "NO"
     },
     {
@@ -1619,25 +1619,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1364",
-      "st": "23/03/2020 09:00",
-      "matricula": "LVGGK",
-      "posicion": "25B",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "1304",
       "st": "23/03/2020 08:30",
       "matricula": "LVGKO",
@@ -1652,6 +1633,25 @@
       "ruta": "MIA",
       "via": "",
       "remark": "DEM",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1364",
+      "st": "23/03/2020 09:00",
+      "matricula": "LVGGK",
+      "posicion": "25B",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "LIM",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     },
     {
