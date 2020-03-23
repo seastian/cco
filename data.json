@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/03/2020 06:50",
+  "lastUpdate": "23/03/2020 06:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1257,25 +1257,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "TK",
-      "vuelo": "016",
-      "st": "22/03/2020 23:45",
-      "matricula": "TCLJG",
-      "posicion": "05",
-      "et": "23/3/2020 06:30",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "075",
-      "chkTo": "081",
-      "puerta": "04",
-      "ruta": "IST",
-      "via": "GRU",
-      "remark": "DEM",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "SIN",
       "vuelo": "571",
       "st": "22/03/2020 23:00",
@@ -1329,6 +1310,25 @@
       "ruta": "GRU",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "TK",
+      "vuelo": "016",
+      "st": "22/03/2020 23:45",
+      "matricula": "TCLJG",
+      "posicion": "05",
+      "et": "23/3/2020 07:45",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "075",
+      "chkTo": "081",
+      "puerta": "04",
+      "ruta": "IST",
+      "via": "GRU",
+      "remark": "DEM",
       "sanidad": "NO"
     },
     {
