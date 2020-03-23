@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "23/03/2020 17:44",
+  "lastUpdate": "23/03/2020 17:51",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "QT",
-      "vuelo": "4099",
-      "st": "23/03/2020 17:45",
-      "matricula": "N335QT",
-      "posicion": "54",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "BOG",
-      "remark": "CON",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AR",
@@ -630,6 +611,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "QT",
+      "vuelo": "4099",
+      "st": "23/03/2020 17:45",
+      "matricula": "N335QT",
+      "posicion": "54",
+      "et": "",
+      "at": "23/3/2020 17:45",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "BOG",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "M3",
       "vuelo": "8473",
       "st": "23/03/2020 14:00",
@@ -646,25 +646,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "ES",
-      "vuelo": "8568",
-      "st": "23/03/2020 05:50",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "001",
-      "chkTo": "006",
-      "puerta": "",
-      "ruta": "CCS",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
