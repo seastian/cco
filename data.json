@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "23/03/2020 07:56",
+  "lastUpdate": "23/03/2020 08:03",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "SIN",
-      "vuelo": "6685",
-      "st": "23/03/2020 06:00",
-      "matricula": "ECLZO",
-      "posicion": "04",
-      "et": "23/3/2020 08:00",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "010",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": "116"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AF",
@@ -136,6 +117,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "M3",
+      "vuelo": "8473",
+      "st": "23/03/2020 14:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "LA",
       "vuelo": "1105",
       "st": "23/03/2020 14:00",
@@ -168,25 +168,6 @@
       "lF": "",
       "ruta": "YYZ",
       "via": "SCL",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "M3",
-      "vuelo": "8473",
-      "st": "23/03/2020 14:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
@@ -800,6 +781,25 @@
       "pax": ""
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "SIN",
+      "vuelo": "6685",
+      "st": "23/03/2020 06:00",
+      "matricula": "ECLZO",
+      "posicion": "04",
+      "et": "23/3/2020 08:00",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "7",
+      "lF": "010",
+      "ruta": "MAD",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": "116"
+    },
+    {
       "tipo": "partida",
       "aerolinea": "GG",
       "vuelo": "550",
@@ -1328,7 +1328,7 @@
       "puerta": "05",
       "ruta": "GRU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
