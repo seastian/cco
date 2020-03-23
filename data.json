@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/03/2020 17:57",
+  "lastUpdate": "23/03/2020 18:04",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1157,7 +1157,7 @@
       "puerta": "10",
       "ruta": "YYZ",
       "via": "SCL",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
