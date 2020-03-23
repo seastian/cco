@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/03/2020 16:46",
+  "lastUpdate": "23/03/2020 16:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1518,6 +1518,25 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "QR",
+      "vuelo": "8157",
+      "st": "24/03/2020 04:50",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "DOH",
+      "via": "UIO",
       "remark": "HOR",
       "sanidad": "NO"
     },
