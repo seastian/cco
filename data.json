@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/03/2020 20:40",
+  "lastUpdate": "23/03/2020 20:46",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -158,7 +158,7 @@
       "aerolinea": "AR",
       "vuelo": "1133",
       "st": "24/03/2020 04:20",
-      "matricula": "",
+      "matricula": "LVFVH",
       "posicion": "",
       "et": "",
       "at": "",
@@ -177,7 +177,7 @@
       "aerolinea": "AR",
       "vuelo": "1305",
       "st": "24/03/2020 04:40",
-      "matricula": "",
+      "matricula": "LVGKO",
       "posicion": "",
       "et": "",
       "at": "",
