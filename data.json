@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/03/2020 21:04",
+  "lastUpdate": "22/03/2020 21:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -98,25 +98,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "CU",
-      "vuelo": "360",
-      "st": "22/03/2020 22:30",
-      "matricula": "CUT1250",
-      "posicion": "09",
-      "et": "22/3/2020 23:05",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "HAV",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": "219"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "GTI",
       "vuelo": "033",
       "st": "22/03/2020 23:05",
@@ -133,6 +114,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "CU",
+      "vuelo": "360",
+      "st": "22/03/2020 22:30",
+      "matricula": "CUT1250",
+      "posicion": "09",
+      "et": "22/3/2020 23:05",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "HAV",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": "219"
     },
     {
       "tipo": "arribo",
@@ -380,6 +380,25 @@
       "remark": "DEM",
       "sanidad": "NO",
       "pax": "116"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AF",
+      "vuelo": "228",
+      "st": "23/03/2020 09:40",
+      "matricula": "FHRBH",
+      "posicion": "",
+      "et": "23/3/2020 09:07",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "CDG",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "277"
     },
     {
       "tipo": "arribo",
