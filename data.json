@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/03/2020 16:52",
+  "lastUpdate": "23/03/2020 16:59",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -697,7 +697,7 @@
       "term": "A",
       "sector": "",
       "cinta": "1",
-      "lF": "001",
+      "lF": "002",
       "ruta": "SCL",
       "via": "",
       "remark": "ATE",
