@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/03/2020 08:42",
+  "lastUpdate": "23/03/2020 08:49",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -25,9 +25,9 @@
       "aerolinea": "CM",
       "vuelo": "4279",
       "st": "23/03/2020 10:16",
-      "matricula": "",
+      "matricula": "HP1853",
       "posicion": "",
-      "et": "",
+      "et": "23/3/2020 10:10",
       "at": "",
       "term": "A",
       "sector": "",
@@ -35,9 +35,9 @@
       "lF": "",
       "ruta": "PTY",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "145"
     },
     {
       "tipo": "arribo",
@@ -63,9 +63,9 @@
       "aerolinea": "CM",
       "vuelo": "4363",
       "st": "23/03/2020 11:16",
-      "matricula": "",
+      "matricula": "HP1715",
       "posicion": "",
-      "et": "",
+      "et": "23/3/2020 11:05",
       "at": "",
       "term": "A",
       "sector": "",
@@ -73,18 +73,18 @@
       "lF": "",
       "ruta": "PTY",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "127"
     },
     {
       "tipo": "arribo",
       "aerolinea": "CM",
       "vuelo": "4454",
       "st": "23/03/2020 12:16",
-      "matricula": "",
+      "matricula": "HP1856",
       "posicion": "",
-      "et": "",
+      "et": "23/3/2020 12:05",
       "at": "",
       "term": "A",
       "sector": "",
@@ -92,9 +92,9 @@
       "lF": "",
       "ruta": "PTY",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "140"
     },
     {
       "tipo": "arribo",
@@ -323,25 +323,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1931",
-      "st": "22/03/2020 21:20",
-      "matricula": "LVCAD",
-      "posicion": "18",
-      "et": "22/3/2020 20:45",
-      "at": "22/3/2020 20:47",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "007",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "120"
     },
     {
       "tipo": "arribo",
