@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/03/2020 17:12",
+  "lastUpdate": "23/03/2020 17:18",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -263,7 +263,7 @@
       "lF": "",
       "ruta": "SID",
       "via": "",
-      "remark": "",
+      "remark": "HOR",
       "sanidad": "NO",
       "pax": "0"
     },
@@ -1168,7 +1168,7 @@
       "matricula": "FAU534",
       "posicion": "45",
       "et": "",
-      "at": "",
+      "at": "23/3/2020 17:10",
       "term": "FBO",
       "sector": "",
       "chkFrom": "",
@@ -1176,7 +1176,7 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
