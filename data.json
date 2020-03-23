@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/03/2020 01:44",
+  "lastUpdate": "23/03/2020 01:51",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1676,25 +1676,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1304",
-      "st": "23/03/2020 08:30",
-      "matricula": "LVGKO",
-      "posicion": "16",
-      "et": "23/3/2020 09:00",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "209",
-      "chkTo": "240",
-      "puerta": "22",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "1364",
       "st": "23/03/2020 09:00",
       "matricula": "LVGGK",
@@ -1709,6 +1690,25 @@
       "ruta": "LIM",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1304",
+      "st": "23/03/2020 08:30",
+      "matricula": "LVGKO",
+      "posicion": "16",
+      "et": "23/3/2020 09:00",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "209",
+      "chkTo": "240",
+      "puerta": "22",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "DEM",
       "sanidad": "NO"
     },
     {
@@ -1840,6 +1840,25 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "LIM",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "G3",
+      "vuelo": "9245",
+      "st": "23/03/2020 13:45",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "068",
+      "chkTo": "074",
+      "puerta": "",
+      "ruta": "GIG",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
