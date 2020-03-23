@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/03/2020 08:16",
+  "lastUpdate": "23/03/2020 08:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -712,14 +712,14 @@
       "matricula": "ECLZO",
       "posicion": "04",
       "et": "",
-      "at": "",
+      "at": "23/3/2020 08:16",
       "term": "A",
       "sector": "",
       "cinta": "7",
       "lF": "010",
       "ruta": "MAD",
       "via": "",
-      "remark": "CON",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "116"
     },
@@ -1257,25 +1257,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "JJ",
-      "vuelo": "9515",
-      "st": "23/03/2020 07:30",
-      "matricula": "PTMUB",
-      "posicion": "06",
-      "et": "23/3/2020 08:00",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "05",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ULT",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "SIN",
       "vuelo": "573",
       "st": "23/03/2020 01:00",
@@ -1291,6 +1272,25 @@
       "ruta": "MXP",
       "via": "",
       "remark": "DEM",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "JJ",
+      "vuelo": "9515",
+      "st": "23/03/2020 07:30",
+      "matricula": "PTMUB",
+      "posicion": "06",
+      "et": "23/3/2020 09:00",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "05",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
