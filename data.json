@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/03/2020 03:43",
+  "lastUpdate": "23/03/2020 03:50",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -380,25 +380,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AV",
-      "vuelo": "5063",
-      "st": "22/03/2020 16:08",
-      "matricula": "N342AV",
-      "posicion": "10",
-      "et": "22/3/2020 15:55",
-      "at": "22/3/2020 15:49",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "242"
     },
     {
       "tipo": "arribo",
