@@ -1,13 +1,13 @@
 {
-  "lastUpdate": "23/03/2020 23:09",
+  "lastUpdate": "23/03/2020 23:15",
   "vuelos": [
     {
       "tipo": "arribo",
       "aerolinea": "M3",
       "vuelo": "8490",
       "st": "23/03/2020 23:45",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "PRACO",
+      "posicion": "54",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -190,25 +190,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "CM",
-      "vuelo": "4363",
-      "st": "23/03/2020 11:16",
-      "matricula": "HP1715",
-      "posicion": "17A",
-      "et": "23/3/2020 11:05",
-      "at": "23/3/2020 11:10",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "007",
-      "ruta": "PTY",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "127"
     },
     {
       "tipo": "arribo",
@@ -901,7 +882,7 @@
       "st": "23/03/2020 22:20",
       "matricula": "A6EWC",
       "posicion": "09",
-      "et": "23/3/2020 23:15",
+      "et": "23/3/2020 23:20",
       "at": "",
       "term": "A",
       "sector": "AP",
