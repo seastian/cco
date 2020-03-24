@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/03/2020 14:37",
+  "lastUpdate": "24/03/2020 14:44",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -27,7 +27,7 @@
       "st": "24/03/2020 19:10",
       "matricula": "LVGGK",
       "posicion": "",
-      "et": "24/3/2020 18:52",
+      "et": "24/3/2020 19:09",
       "at": "",
       "term": "A",
       "sector": "",
@@ -114,25 +114,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "411"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "QR",
-      "vuelo": "8157",
-      "st": "24/03/2020 03:00",
-      "matricula": "A7BFU",
-      "posicion": "54",
-      "et": "24/3/2020 02:45",
-      "at": "24/3/2020 02:39",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "DOH",
-      "via": "GRU",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
