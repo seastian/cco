@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/03/2020 18:02",
+  "lastUpdate": "24/03/2020 18:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -13,7 +13,7 @@
       "term": "A",
       "sector": "",
       "cinta": "8",
-      "lF": "008",
+      "lF": "010",
       "ruta": "SSA",
       "via": "",
       "remark": "EST",
