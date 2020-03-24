@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/03/2020 13:01",
+  "lastUpdate": "24/03/2020 13:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -587,7 +587,7 @@
       "puerta": "10",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -668,25 +668,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "PRV",
-      "vuelo": "JLC",
-      "st": "24/03/2020 23:59",
-      "matricula": "HBJLC",
-      "posicion": "45",
-      "et": "24/3/2020 23:15",
-      "at": "",
-      "term": "FBO",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SID",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "QR",
       "vuelo": "774",
       "st": "24/03/2020 23:15",
@@ -702,6 +683,25 @@
       "ruta": "DOH",
       "via": "GRU",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "PRV",
+      "vuelo": "JLC",
+      "st": "24/03/2020 23:59",
+      "matricula": "HBJLC",
+      "posicion": "45",
+      "et": "24/3/2020 23:15",
+      "at": "",
+      "term": "FBO",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SID",
+      "via": "",
+      "remark": "EST",
       "sanidad": "NO"
     },
     {
