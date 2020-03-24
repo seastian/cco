@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/03/2020 23:47",
+  "lastUpdate": "23/03/2020 23:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -915,25 +915,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1108",
-      "st": "23/03/2020 23:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "CAN",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "EK",
       "vuelo": "248",
       "st": "23/03/2020 22:20",
@@ -949,6 +930,25 @@
       "ruta": "DXB",
       "via": "GIG",
       "remark": "CER",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1108",
+      "st": "23/03/2020 23:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "LIM",
+      "via": "",
+      "remark": "CAN",
       "sanidad": "NO"
     },
     {
