@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/03/2020 03:45",
+  "lastUpdate": "24/03/2020 03:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -171,25 +171,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1273",
-      "st": "23/03/2020 16:00",
-      "matricula": "LVGKT",
-      "posicion": "53A",
-      "et": "23/3/2020 15:54",
-      "at": "23/3/2020 15:47",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "007",
-      "ruta": "FLN",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "170"
     },
     {
       "tipo": "arribo",
