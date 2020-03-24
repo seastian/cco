@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/03/2020 09:50",
+  "lastUpdate": "24/03/2020 09:56",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,8 +7,8 @@
       "vuelo": "6912",
       "st": "24/03/2020 11:05",
       "matricula": "PHCKB",
-      "posicion": "",
-      "et": "",
+      "posicion": "54",
+      "et": "24/3/2020 10:40",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -16,7 +16,7 @@
       "lF": "",
       "ruta": "AMS",
       "via": "VCP",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -748,7 +748,7 @@
       "vuelo": "6912",
       "st": "24/03/2020 13:50",
       "matricula": "PHCKB",
-      "posicion": "",
+      "posicion": "54",
       "et": "",
       "at": "",
       "term": "TCA",
