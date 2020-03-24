@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "23/03/2020 22:56",
+  "lastUpdate": "23/03/2020 23:02",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "GG",
-      "vuelo": "551",
-      "st": "23/03/2020 23:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "M3",
@@ -553,6 +534,25 @@
       "pax": ""
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "GG",
+      "vuelo": "551",
+      "st": "23/03/2020 23:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
       "tipo": "partida",
       "aerolinea": "SIN",
       "vuelo": "565",
@@ -920,7 +920,7 @@
       "st": "23/03/2020 22:20",
       "matricula": "A6EWC",
       "posicion": "09",
-      "et": "23/3/2020 23:05",
+      "et": "23/3/2020 23:15",
       "at": "",
       "term": "A",
       "sector": "AP",
@@ -929,7 +929,7 @@
       "puerta": "09",
       "ruta": "DXB",
       "via": "GIG",
-      "remark": "DEM",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
