@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/03/2020 23:15",
+  "lastUpdate": "23/03/2020 23:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1086,25 +1086,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "JJ",
-      "vuelo": "9453",
-      "st": "24/03/2020 03:30",
-      "matricula": "PTMUD",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "QR",
       "vuelo": "8157",
       "st": "24/03/2020 04:50",
@@ -1120,6 +1101,25 @@
       "ruta": "DOH",
       "via": "UIO",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "JJ",
+      "vuelo": "9453",
+      "st": "24/03/2020 03:30",
+      "matricula": "PTMUD",
+      "posicion": "",
+      "et": "24/3/2020 05:30",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "DEM",
       "sanidad": "NO"
     },
     {
