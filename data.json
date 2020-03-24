@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/03/2020 03:58",
+  "lastUpdate": "24/03/2020 04:05",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -494,25 +494,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "255"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LA",
-      "vuelo": "1104",
-      "st": "23/03/2020 15:30",
-      "matricula": "CCBGC",
-      "posicion": "05",
-      "et": "23/3/2020 15:45",
-      "at": "23/3/2020 16:05",
-      "term": "A",
-      "sector": "",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "04",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
