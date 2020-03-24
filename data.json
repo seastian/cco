@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/03/2020 01:50",
+  "lastUpdate": "24/03/2020 01:56",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -84,7 +84,7 @@
       "st": "24/03/2020 02:00",
       "matricula": "PTMUD",
       "posicion": "10",
-      "et": "24/3/2020 04:30",
+      "et": "24/3/2020 04:10",
       "at": "",
       "term": "A",
       "sector": "",
@@ -94,7 +94,7 @@
       "via": "",
       "remark": "DEM",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "411"
     },
     {
       "tipo": "arribo",
@@ -207,25 +207,6 @@
       "ruta": "SCL",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1105",
-      "st": "23/03/2020 14:00",
-      "matricula": "CCBGC",
-      "posicion": "05",
-      "et": "23/3/2020 14:00",
-      "at": "23/3/2020 13:52",
-      "term": "A",
-      "sector": "",
-      "cinta": "5",
-      "lF": "002",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
