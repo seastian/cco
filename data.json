@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/03/2020 23:22",
+  "lastUpdate": "23/03/2020 23:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -60,25 +60,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "9452",
-      "st": "24/03/2020 02:00",
-      "matricula": "PTMUD",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "PRV",
       "vuelo": "JLC",
       "st": "24/03/2020 02:10",
@@ -133,6 +114,25 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "255"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "JJ",
+      "vuelo": "9452",
+      "st": "24/03/2020 02:00",
+      "matricula": "PTMUD",
+      "posicion": "",
+      "et": "24/3/2020 04:30",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -882,7 +882,7 @@
       "st": "23/03/2020 22:20",
       "matricula": "A6EWC",
       "posicion": "09",
-      "et": "23/3/2020 23:20",
+      "et": "23/3/2020 23:30",
       "at": "",
       "term": "A",
       "sector": "AP",
