@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/03/2020 15:22",
+  "lastUpdate": "24/03/2020 15:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -95,25 +95,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "411"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1133",
-      "st": "24/03/2020 04:20",
-      "matricula": "LVFVH",
-      "posicion": "18",
-      "et": "24/3/2020 03:20",
-      "at": "24/3/2020 03:25",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "009",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "255"
     },
     {
       "tipo": "arribo",
