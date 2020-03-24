@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/03/2020 21:38",
+  "lastUpdate": "23/03/2020 21:45",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1232,6 +1232,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "VCP",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1304",
+      "st": "24/03/2020 09:40",
+      "matricula": "LVGKO",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "209",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "MIA",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
