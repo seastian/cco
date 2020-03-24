@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/03/2020 14:12",
+  "lastUpdate": "24/03/2020 14:18",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -27,7 +27,7 @@
       "st": "24/03/2020 19:10",
       "matricula": "LVGGK",
       "posicion": "",
-      "et": "",
+      "et": "24/3/2020 18:52",
       "at": "",
       "term": "A",
       "sector": "",
@@ -35,9 +35,9 @@
       "lF": "",
       "ruta": "SSA",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "160"
     },
     {
       "tipo": "arribo",
