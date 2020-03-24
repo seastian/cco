@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/03/2020 21:12",
+  "lastUpdate": "23/03/2020 21:19",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -160,7 +160,7 @@
       "st": "24/03/2020 04:20",
       "matricula": "LVFVH",
       "posicion": "",
-      "et": "",
+      "et": "24/3/2020 03:20",
       "at": "",
       "term": "A",
       "sector": "",
@@ -168,9 +168,9 @@
       "lF": "",
       "ruta": "MAD",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "255"
     },
     {
       "tipo": "arribo",
@@ -179,7 +179,7 @@
       "st": "24/03/2020 04:40",
       "matricula": "LVGKO",
       "posicion": "",
-      "et": "",
+      "et": "24/3/2020 04:39",
       "at": "",
       "term": "A",
       "sector": "",
@@ -187,9 +187,9 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "258"
     },
     {
       "tipo": "arribo",
@@ -209,25 +209,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AF",
-      "vuelo": "228",
-      "st": "23/03/2020 09:40",
-      "matricula": "FHRBH",
-      "posicion": "14",
-      "et": "23/3/2020 09:07",
-      "at": "23/3/2020 09:13",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "CDG",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "277"
     },
     {
       "tipo": "arribo",
