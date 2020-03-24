@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/03/2020 20:41",
+  "lastUpdate": "24/03/2020 20:48",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -18,7 +18,7 @@
       "via": "GRU",
       "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "235"
     },
     {
       "tipo": "arribo",
