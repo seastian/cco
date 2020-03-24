@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/03/2020 02:22",
+  "lastUpdate": "24/03/2020 02:29",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -551,25 +551,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "0"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AF",
-      "vuelo": "229",
-      "st": "23/03/2020 14:20",
-      "matricula": "FHRBC",
-      "posicion": "16",
-      "et": "",
-      "at": "23/3/2020 14:26",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "211",
-      "chkTo": "220",
-      "puerta": "22",
-      "ruta": "CDG",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
