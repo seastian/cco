@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "24/03/2020 03:20",
+  "lastUpdate": "24/03/2020 03:26",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1133",
-      "st": "24/03/2020 04:20",
-      "matricula": "LVFVH",
-      "posicion": "18",
-      "et": "24/3/2020 03:20",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "009",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "255"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "JJ",
@@ -551,6 +532,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "115"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1133",
+      "st": "24/03/2020 04:20",
+      "matricula": "LVFVH",
+      "posicion": "18",
+      "et": "24/3/2020 03:20",
+      "at": "24/3/2020 03:25",
+      "term": "A",
+      "sector": "",
+      "cinta": "8",
+      "lF": "009",
+      "ruta": "MAD",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "255"
     },
     {
       "tipo": "partida",
