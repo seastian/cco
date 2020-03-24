@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/03/2020 14:31",
+  "lastUpdate": "24/03/2020 14:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -114,25 +114,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "411"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "JLC",
-      "st": "24/03/2020 02:10",
-      "matricula": "HBJLC",
-      "posicion": "45",
-      "et": "",
-      "at": "24/3/2020 02:36",
-      "term": "FBO",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SID",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
