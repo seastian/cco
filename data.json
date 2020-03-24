@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/03/2020 07:48",
+  "lastUpdate": "24/03/2020 07:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -478,25 +478,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "JJ",
-      "vuelo": "H24",
-      "st": "23/03/2020 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "",
-      "ruta": "QTR",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "H24",
       "st": "23/03/2020 23:59",
@@ -508,6 +489,25 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
+      "puerta": "",
+      "ruta": "QTR",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "JJ",
+      "vuelo": "H24",
+      "st": "23/03/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
       "puerta": "",
       "ruta": "QTR",
       "via": "",
@@ -674,7 +674,7 @@
       "matricula": "ECLZO",
       "posicion": "55",
       "et": "23/3/2020 07:30",
-      "at": "",
+      "at": "23/3/2020 07:51",
       "term": "A",
       "sector": "AP",
       "chkFrom": "",
@@ -682,7 +682,7 @@
       "puerta": "",
       "ruta": "MAD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
