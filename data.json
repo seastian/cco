@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/03/2020 06:57",
+  "lastUpdate": "24/03/2020 07:04",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -112,25 +112,6 @@
       "ruta": "SCL",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1365Z",
-      "st": "23/03/2020 19:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
