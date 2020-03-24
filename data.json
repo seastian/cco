@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "24/03/2020 00:32",
+  "lastUpdate": "24/03/2020 00:39",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AD",
-      "vuelo": "9772",
-      "st": "24/03/2020 01:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": "0"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "PRV",
@@ -57,6 +38,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AD",
+      "vuelo": "9772",
+      "st": "24/03/2020 01:00",
+      "matricula": "PRYYD",
+      "posicion": "",
+      "et": "24/3/2020 03:05",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "VCP",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": "115"
     },
     {
       "tipo": "arribo",
@@ -1068,9 +1068,9 @@
     {
       "tipo": "partida",
       "aerolinea": "AD",
-      "vuelo": "9773",
+      "vuelo": "9373",
       "st": "24/03/2020 02:00",
-      "matricula": "",
+      "matricula": "PRYYD",
       "posicion": "",
       "et": "",
       "at": "",
@@ -1101,6 +1101,25 @@
       "ruta": "SCL",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AD",
+      "vuelo": "9773",
+      "st": "24/03/2020 02:00",
+      "matricula": "PRYYD",
+      "posicion": "",
+      "et": "24/3/2020 03:45",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "075",
+      "chkTo": "081",
+      "puerta": "",
+      "ruta": "VCP",
+      "via": "",
+      "remark": "DEM",
       "sanidad": "NO"
     },
     {
