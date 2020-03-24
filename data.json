@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/03/2020 11:45",
+  "lastUpdate": "24/03/2020 11:51",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -12,8 +12,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "9",
+      "lF": "009",
       "ruta": "GIG",
       "via": "",
       "remark": "EST",
@@ -332,14 +332,14 @@
       "matricula": "CCBGE",
       "posicion": "10",
       "et": "24/3/2020 11:40",
-      "at": "",
+      "at": "24/3/2020 11:46",
       "term": "A",
       "sector": "",
       "cinta": "8",
       "lF": "008",
       "ruta": "SCL",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "306"
     },
