@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/03/2020 11:06",
+  "lastUpdate": "24/03/2020 11:13",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -63,9 +63,9 @@
       "aerolinea": "G3",
       "vuelo": "9244",
       "st": "24/03/2020 14:00",
-      "matricula": "",
+      "matricula": "PRGUJ",
       "posicion": "",
-      "et": "",
+      "et": "24/3/2020 13:55",
       "at": "",
       "term": "A",
       "sector": "",
@@ -73,9 +73,9 @@
       "lF": "",
       "ruta": "GIG",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "184"
     },
     {
       "tipo": "arribo",
@@ -728,7 +728,7 @@
       "aerolinea": "G3",
       "vuelo": "9247",
       "st": "24/03/2020 14:45",
-      "matricula": "",
+      "matricula": "PRGUJ",
       "posicion": "",
       "et": "",
       "at": "",
@@ -757,6 +757,25 @@
       "chkTo": "053",
       "puerta": "",
       "ruta": "SCL",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1370",
+      "st": "24/03/2020 23:10",
+      "matricula": "LVGKP",
+      "posicion": "33",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "CUN",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
