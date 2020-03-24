@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/03/2020 00:52",
+  "lastUpdate": "24/03/2020 00:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -209,25 +209,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "G3",
-      "vuelo": "9242",
-      "st": "23/03/2020 13:05",
-      "matricula": "PRGGL",
-      "posicion": "08",
-      "et": "23/3/2020 13:00",
-      "at": "23/3/2020 12:54",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "007",
-      "ruta": "GIG",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "157"
     },
     {
       "tipo": "arribo",
@@ -539,7 +520,7 @@
       "vuelo": "8490",
       "st": "23/03/2020 23:45",
       "matricula": "PRACO",
-      "posicion": "54",
+      "posicion": "",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -1071,7 +1052,7 @@
       "vuelo": "8490",
       "st": "24/03/2020 02:10",
       "matricula": "PRACO",
-      "posicion": "54",
+      "posicion": "",
       "et": "",
       "at": "",
       "term": "TCA",
