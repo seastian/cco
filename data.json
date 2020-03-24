@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/03/2020 05:34",
+  "lastUpdate": "24/03/2020 05:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -136,25 +136,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1365",
-      "st": "23/03/2020 16:11",
-      "matricula": "LVFQZ",
-      "posicion": "16B",
-      "et": "23/3/2020 17:43",
-      "at": "23/3/2020 17:40",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "007",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "170"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "QT",
       "vuelo": "4099",
       "st": "23/03/2020 17:45",
@@ -168,25 +149,6 @@
       "lF": "",
       "ruta": "MIA",
       "via": "BOG",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "M3",
-      "vuelo": "8473",
-      "st": "23/03/2020 14:00",
-      "matricula": "PRABB",
-      "posicion": "55",
-      "et": "23/3/2020 18:00",
-      "at": "23/3/2020 17:38",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
