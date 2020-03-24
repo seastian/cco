@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/03/2020 19:50",
+  "lastUpdate": "24/03/2020 19:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -269,25 +269,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "SIN",
-      "vuelo": "6685",
-      "st": "23/03/2020 20:30",
-      "matricula": "ECLZO",
-      "posicion": "55",
-      "et": "23/3/2020 07:30",
-      "at": "23/3/2020 07:51",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1228",
       "st": "24/03/2020 08:20",
@@ -525,7 +506,7 @@
       "at": "",
       "term": "A",
       "sector": "AP",
-      "chkFrom": "076",
+      "chkFrom": "075",
       "chkTo": "081",
       "puerta": "",
       "ruta": "IST",
