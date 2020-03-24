@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/03/2020 22:36",
+  "lastUpdate": "23/03/2020 22:43",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -551,25 +551,6 @@
       "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "SIN",
-      "vuelo": "573",
-      "st": "23/03/2020 01:00",
-      "matricula": "EINEW",
-      "posicion": "10",
-      "et": "23/3/2020 08:00",
-      "at": "23/3/2020 10:37",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "022",
-      "chkTo": "026",
-      "puerta": "10",
-      "ruta": "MXP",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
