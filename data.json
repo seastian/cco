@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/03/2020 10:15",
+  "lastUpdate": "24/03/2020 10:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -65,7 +65,7 @@
       "st": "24/03/2020 12:00",
       "matricula": "CCBGE",
       "posicion": "",
-      "et": "",
+      "et": "24/3/2020 11:40",
       "at": "",
       "term": "A",
       "sector": "",
@@ -73,9 +73,9 @@
       "lF": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "306"
     },
     {
       "tipo": "arribo",
@@ -636,7 +636,7 @@
       "matricula": "LVGKO",
       "posicion": "14",
       "et": "",
-      "at": "",
+      "at": "24/3/2020 10:22",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "209",
@@ -644,7 +644,7 @@
       "puerta": "18",
       "ruta": "MIA",
       "via": "",
-      "remark": "CON",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
