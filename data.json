@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/03/2020 14:56",
+  "lastUpdate": "24/03/2020 15:03",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -95,25 +95,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "411"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AD",
-      "vuelo": "9772",
-      "st": "24/03/2020 01:00",
-      "matricula": "PRYYD",
-      "posicion": "02",
-      "et": "24/3/2020 03:05",
-      "at": "24/3/2020 03:03",
-      "term": "A",
-      "sector": "",
-      "cinta": "6",
-      "lF": "007",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "115"
     },
     {
       "tipo": "arribo",
