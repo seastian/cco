@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/03/2020 17:17",
+  "lastUpdate": "24/03/2020 17:23",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -92,6 +92,44 @@
       "lF": "",
       "ruta": "MIA",
       "via": "SCL",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1305",
+      "st": "25/03/2020 05:20",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "QR",
+      "vuelo": "8155",
+      "st": "25/03/2020 05:20",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "DOH",
+      "via": "GRU",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
@@ -228,25 +266,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "QR",
-      "vuelo": "8157",
-      "st": "24/03/2020 04:50",
-      "matricula": "A7BFU",
-      "posicion": "54",
-      "et": "24/3/2020 05:20",
-      "at": "24/3/2020 05:20",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "DOH",
-      "via": "UIO",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
