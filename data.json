@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/03/2020 04:30",
+  "lastUpdate": "24/03/2020 04:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -408,14 +408,14 @@
       "matricula": "PTMUD",
       "posicion": "10",
       "et": "",
-      "at": "",
+      "at": "24/3/2020 04:15",
       "term": "A",
       "sector": "",
       "cinta": "9",
       "lF": "010",
       "ruta": "GRU",
       "via": "",
-      "remark": "CON",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "411"
     },
@@ -649,25 +649,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "EK",
-      "vuelo": "248",
-      "st": "23/03/2020 22:20",
-      "matricula": "A6EWC",
-      "posicion": "09",
-      "et": "23/3/2020 23:30",
-      "at": "23/3/2020 23:39",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "027",
-      "chkTo": "035",
-      "puerta": "09",
-      "ruta": "DXB",
-      "via": "GIG",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "UC",
       "vuelo": "1108",
       "st": "23/03/2020 23:30",
@@ -683,6 +664,25 @@
       "ruta": "LIM",
       "via": "",
       "remark": "CAN",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "EK",
+      "vuelo": "248",
+      "st": "23/03/2020 22:20",
+      "matricula": "A6EWC",
+      "posicion": "09",
+      "et": "23/3/2020 23:30",
+      "at": "23/3/2020 23:39",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "027",
+      "chkTo": "035",
+      "puerta": "09",
+      "ruta": "DXB",
+      "via": "GIG",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -826,7 +826,7 @@
       "matricula": "PRYYD",
       "posicion": "02",
       "et": "24/3/2020 04:00",
-      "at": "",
+      "at": "24/3/2020 04:30",
       "term": "A",
       "sector": "AP",
       "chkFrom": "075",
@@ -834,7 +834,7 @@
       "puerta": "01",
       "ruta": "VCP",
       "via": "",
-      "remark": "DEM",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
