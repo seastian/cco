@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/03/2020 09:37",
+  "lastUpdate": "24/03/2020 09:43",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -241,7 +241,7 @@
       "term": "A",
       "sector": "",
       "cinta": "9",
-      "lF": "009",
+      "lF": "002",
       "ruta": "GRU",
       "via": "",
       "remark": "ATE",
@@ -682,6 +682,25 @@
       "puerta": "18",
       "ruta": "MIA",
       "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "500",
+      "st": "24/03/2020 12:00",
+      "matricula": "CXLSS",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "ASU",
+      "via": "",
       "remark": "HOR",
       "sanidad": "NO"
     },
@@ -700,25 +719,6 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MVD",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "500",
-      "st": "24/03/2020 12:00",
-      "matricula": "CXLSS",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "ASU",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
