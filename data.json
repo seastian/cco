@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/03/2020 06:06",
+  "lastUpdate": "24/03/2020 06:13",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -435,25 +435,6 @@
       "puerta": "04",
       "ruta": "SCL",
       "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AC",
-      "vuelo": "093",
-      "st": "23/03/2020 15:40",
-      "matricula": "CFKAU",
-      "posicion": "10",
-      "et": "23/3/2020 18:00",
-      "at": "23/3/2020 18:12",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "061",
-      "chkTo": "067",
-      "puerta": "10",
-      "ruta": "YYZ",
-      "via": "SCL",
       "remark": "PAR",
       "sanidad": "NO"
     },
