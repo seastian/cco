@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/03/2020 22:04",
+  "lastUpdate": "23/03/2020 22:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -190,25 +190,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "CM",
-      "vuelo": "4279",
-      "st": "23/03/2020 10:16",
-      "matricula": "HP1853",
-      "posicion": "02",
-      "et": "23/3/2020 10:10",
-      "at": "23/3/2020 10:09",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "008",
-      "ruta": "PTY",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "145"
     },
     {
       "tipo": "arribo",
@@ -948,7 +929,7 @@
       "puerta": "10",
       "ruta": "ADD",
       "via": "GRU",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -977,7 +958,7 @@
       "st": "23/03/2020 22:20",
       "matricula": "A6EWC",
       "posicion": "09",
-      "et": "",
+      "et": "23/3/2020 23:05",
       "at": "",
       "term": "A",
       "sector": "AP",
@@ -986,7 +967,7 @@
       "puerta": "09",
       "ruta": "DXB",
       "via": "GIG",
-      "remark": "HOR",
+      "remark": "DEM",
       "sanidad": "NO"
     },
     {
@@ -1105,25 +1086,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "GG",
-      "vuelo": "550",
-      "st": "24/03/2020 02:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AD",
       "vuelo": "9773",
       "st": "24/03/2020 02:00",
@@ -1137,6 +1099,25 @@
       "chkTo": "081",
       "puerta": "",
       "ruta": "VCP",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "GG",
+      "vuelo": "550",
+      "st": "24/03/2020 02:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
