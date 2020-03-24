@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/03/2020 13:08",
+  "lastUpdate": "24/03/2020 13:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -536,25 +536,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AOG",
-      "vuelo": "500",
-      "st": "24/03/2020 12:00",
-      "matricula": "CXLSS",
-      "posicion": "60",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
       "vuelo": "424",
       "st": "24/03/2020 12:00",
       "matricula": "CXCLS",
@@ -573,6 +554,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "500",
+      "st": "24/03/2020 12:00",
+      "matricula": "CXLSS",
+      "posicion": "60",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "CER",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "LA",
       "vuelo": "1104",
       "st": "24/03/2020 13:30",
@@ -587,7 +587,7 @@
       "puerta": "10",
       "ruta": "SCL",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
