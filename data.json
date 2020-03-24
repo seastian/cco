@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/03/2020 15:09",
+  "lastUpdate": "24/03/2020 15:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -492,7 +492,7 @@
       "puerta": "07",
       "ruta": "GIG",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
