@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/03/2020 17:30",
+  "lastUpdate": "24/03/2020 17:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -624,6 +624,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "SCL",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1324",
+      "st": "25/03/2020 05:35",
+      "matricula": "LVFVH",
+      "posicion": "M12",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "PUJ",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
