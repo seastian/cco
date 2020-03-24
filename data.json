@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/03/2020 02:41",
+  "lastUpdate": "24/03/2020 02:48",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1100,6 +1100,25 @@
       "puerta": "",
       "ruta": "AMS",
       "via": "UIO",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "G3",
+      "vuelo": "9247",
+      "st": "24/03/2020 14:45",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "068",
+      "chkTo": "074",
+      "puerta": "",
+      "ruta": "GIG",
+      "via": "",
       "remark": "HOR",
       "sanidad": "NO"
     }
