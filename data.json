@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/03/2020 13:14",
+  "lastUpdate": "24/03/2020 13:21",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -63,7 +63,7 @@
       "aerolinea": "QR",
       "vuelo": "773",
       "st": "24/03/2020 21:30",
-      "matricula": "",
+      "matricula": "A7BBI",
       "posicion": "",
       "et": "",
       "at": "",
@@ -82,7 +82,7 @@
       "aerolinea": "TK",
       "vuelo": "015",
       "st": "24/03/2020 22:30",
-      "matricula": "",
+      "matricula": "TCLJE",
       "posicion": "",
       "et": "",
       "at": "",
@@ -587,7 +587,7 @@
       "puerta": "10",
       "ruta": "SCL",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -671,7 +671,7 @@
       "aerolinea": "QR",
       "vuelo": "774",
       "st": "24/03/2020 23:15",
-      "matricula": "",
+      "matricula": "A7BBI",
       "posicion": "",
       "et": "",
       "at": "",
@@ -709,7 +709,7 @@
       "aerolinea": "TK",
       "vuelo": "016",
       "st": "24/03/2020 23:45",
-      "matricula": "",
+      "matricula": "TCLJE",
       "posicion": "",
       "et": "",
       "at": "",
