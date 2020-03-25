@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "24/03/2020 23:47",
+  "lastUpdate": "24/03/2020 23:53",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "M3",
-      "vuelo": "8492",
-      "st": "24/03/2020 23:45",
-      "matricula": "PRABD",
-      "posicion": "54",
-      "et": "24/3/2020 23:50",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AR",
@@ -209,6 +190,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "280"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "M3",
+      "vuelo": "8492",
+      "st": "24/03/2020 23:45",
+      "matricula": "PRABD",
+      "posicion": "54",
+      "et": "24/3/2020 23:50",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "VCP",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "partida",
