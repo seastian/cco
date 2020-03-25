@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "24/03/2020 21:13",
+  "lastUpdate": "24/03/2020 21:20",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "QR",
-      "vuelo": "773",
-      "st": "24/03/2020 21:30",
-      "matricula": "A7BBI",
-      "posicion": "03",
-      "et": "24/3/2020 21:20",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "DOH",
-      "via": "GRU",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "235"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "TK",
@@ -45,8 +26,8 @@
       "vuelo": "8492",
       "st": "24/03/2020 23:45",
       "matricula": "PRABD",
-      "posicion": "",
-      "et": "",
+      "posicion": "54",
+      "et": "24/3/2020 23:50",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -54,7 +35,7 @@
       "lF": "",
       "ruta": "VCP",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -266,6 +247,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "160"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "QR",
+      "vuelo": "773",
+      "st": "24/03/2020 21:30",
+      "matricula": "A7BBI",
+      "posicion": "03",
+      "et": "24/3/2020 21:20",
+      "at": "24/3/2020 21:15",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "009",
+      "ruta": "DOH",
+      "via": "GRU",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "235"
     },
     {
       "tipo": "partida",
