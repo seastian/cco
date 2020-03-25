@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/03/2020 23:15",
+  "lastUpdate": "24/03/2020 23:21",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -539,14 +539,14 @@
       "vuelo": "1324",
       "st": "25/03/2020 05:35",
       "matricula": "LVFVH",
-      "posicion": "M12",
+      "posicion": "13",
       "et": "",
       "at": "",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "17",
       "ruta": "PUJ",
       "via": "",
       "remark": "HOR",
