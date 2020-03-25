@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/03/2020 23:53",
+  "lastUpdate": "25/03/2020 00:00",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -213,25 +213,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AOG",
-      "vuelo": "500",
-      "st": "24/03/2020 12:00",
-      "matricula": "CXLSS",
-      "posicion": "60",
-      "et": "",
-      "at": "24/3/2020 13:21",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
       "vuelo": "424",
       "st": "24/03/2020 12:00",
       "matricula": "CXCLS",
@@ -244,6 +225,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MVD",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "500",
+      "st": "24/03/2020 12:00",
+      "matricula": "CXLSS",
+      "posicion": "60",
+      "et": "",
+      "at": "24/3/2020 13:21",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "ASU",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -397,7 +397,7 @@
       "puerta": "03",
       "ruta": "IST",
       "via": "GRU",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -416,7 +416,7 @@
       "puerta": "",
       "ruta": "QTR",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -435,7 +435,7 @@
       "puerta": "",
       "ruta": "QTR",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -454,7 +454,7 @@
       "puerta": "",
       "ruta": "QTR",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
