@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/03/2020 22:30",
+  "lastUpdate": "24/03/2020 22:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -93,25 +93,6 @@
       "ruta": "MIA",
       "via": "",
       "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "MP",
-      "vuelo": "6912",
-      "st": "24/03/2020 11:05",
-      "matricula": "PHCKB",
-      "posicion": "54",
-      "et": "24/3/2020 10:40",
-      "at": "24/3/2020 10:32",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "AMS",
-      "via": "VCP",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -402,25 +383,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "QR",
-      "vuelo": "774",
-      "st": "24/03/2020 23:15",
-      "matricula": "A7BBI",
-      "posicion": "03",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "061",
-      "chkTo": "067",
-      "puerta": "02",
-      "ruta": "DOH",
-      "via": "GRU",
-      "remark": "PRE",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "PRV",
       "vuelo": "JLC",
       "st": "24/03/2020 23:59",
@@ -436,6 +398,25 @@
       "ruta": "SID",
       "via": "",
       "remark": "EST",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "QR",
+      "vuelo": "774",
+      "st": "24/03/2020 23:15",
+      "matricula": "A7BBI",
+      "posicion": "03",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "061",
+      "chkTo": "067",
+      "puerta": "02",
+      "ruta": "DOH",
+      "via": "GRU",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
