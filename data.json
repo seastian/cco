@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/03/2020 11:11",
+  "lastUpdate": "25/03/2020 11:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -720,6 +720,25 @@
       "puerta": "16",
       "ruta": "MIA",
       "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "QR",
+      "vuelo": "774",
+      "st": "25/03/2020 23:15",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "061",
+      "chkTo": "067",
+      "puerta": "",
+      "ruta": "DOH",
+      "via": "GRU",
       "remark": "HOR",
       "sanidad": "NO"
     }
