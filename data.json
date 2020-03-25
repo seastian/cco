@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/03/2020 14:54",
+  "lastUpdate": "25/03/2020 15:01",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -92,7 +92,7 @@
       "lF": "",
       "ruta": "PUJ",
       "via": "",
-      "remark": "",
+      "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
     },
