@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/03/2020 13:25",
+  "lastUpdate": "25/03/2020 13:31",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -416,7 +416,7 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -446,7 +446,7 @@
       "matricula": "PTMUB",
       "posicion": "10",
       "et": "25/3/2020 13:15",
-      "at": "",
+      "at": "25/3/2020 13:27",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -454,7 +454,7 @@
       "puerta": "10",
       "ruta": "GRU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -473,7 +473,7 @@
       "puerta": "09",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -669,6 +669,25 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
+      "vuelo": "H24",
+      "st": "25/03/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "QTR",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
       "vuelo": "H24N",
       "st": "25/03/2020 23:59",
       "matricula": "",
@@ -706,19 +725,19 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "H24",
-      "st": "25/03/2020 23:59",
+      "aerolinea": "AOG",
+      "vuelo": "101",
+      "st": "26/03/2020 01:30",
       "matricula": "",
       "posicion": "",
       "et": "",
       "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
       "puerta": "",
-      "ruta": "QTR",
+      "ruta": "ASU",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
