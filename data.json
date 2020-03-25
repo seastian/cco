@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/03/2020 03:18",
+  "lastUpdate": "25/03/2020 03:24",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -25,9 +25,9 @@
       "aerolinea": "5X",
       "vuelo": "414",
       "st": "25/03/2020 05:12",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
+      "matricula": "N350UP",
+      "posicion": "54",
+      "et": "25/3/2020 04:46",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -35,7 +35,7 @@
       "lF": "",
       "ruta": "MIA",
       "via": "SCL",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -443,8 +443,8 @@
       "aerolinea": "5X",
       "vuelo": "415",
       "st": "25/03/2020 06:55",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "N350UP",
+      "posicion": "54",
       "et": "",
       "at": "",
       "term": "TCA",
