@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/03/2020 12:53",
+  "lastUpdate": "25/03/2020 12:59",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -464,7 +464,7 @@
       "st": "25/03/2020 12:30",
       "matricula": "PTMUB",
       "posicion": "10",
-      "et": "25/3/2020 12:50",
+      "et": "25/3/2020 13:00",
       "at": "",
       "term": "A",
       "sector": "AP",
