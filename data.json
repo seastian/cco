@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/03/2020 07:08",
+  "lastUpdate": "25/03/2020 07:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -110,6 +110,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "MIA",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1371",
+      "st": "25/03/2020 19:10",
+      "matricula": "LVGKP",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "CUN",
       "via": "",
       "remark": "",
       "sanidad": "NO",
