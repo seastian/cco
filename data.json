@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/03/2020 22:56",
+  "lastUpdate": "24/03/2020 23:02",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -93,6 +93,25 @@
       "ruta": "MIA",
       "via": "",
       "remark": "EST",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "JJ",
+      "vuelo": "9512",
+      "st": "25/03/2020 11:00",
+      "matricula": "",
+      "posicion": "10",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
