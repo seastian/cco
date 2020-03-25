@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/03/2020 20:46",
+  "lastUpdate": "25/03/2020 20:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -323,25 +323,6 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1324",
-      "st": "25/03/2020 05:35",
-      "matricula": "LVFVH",
-      "posicion": "13",
-      "et": "25/3/2020 07:35",
-      "at": "25/3/2020 08:49",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "17",
-      "ruta": "PUJ",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
