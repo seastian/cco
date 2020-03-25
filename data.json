@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/03/2020 17:47",
+  "lastUpdate": "25/03/2020 17:53",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -188,25 +188,6 @@
       "ruta": "ASU",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1305",
-      "st": "25/03/2020 05:20",
-      "matricula": "LVGKO",
-      "posicion": "17",
-      "et": "25/3/2020 05:35",
-      "at": "25/3/2020 05:48",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
