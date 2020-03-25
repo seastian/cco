@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/03/2020 16:43",
+  "lastUpdate": "25/03/2020 16:49",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -150,25 +150,6 @@
       "ruta": "VCP",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "5X",
-      "vuelo": "414",
-      "st": "25/03/2020 05:12",
-      "matricula": "N350UP",
-      "posicion": "54",
-      "et": "25/3/2020 04:46",
-      "at": "25/3/2020 04:49",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "SCL",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
