@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/03/2020 14:29",
+  "lastUpdate": "25/03/2020 14:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -473,7 +473,7 @@
       "puerta": "18",
       "ruta": "CDG",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
