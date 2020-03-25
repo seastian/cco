@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/03/2020 22:11",
+  "lastUpdate": "24/03/2020 22:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -46,7 +46,7 @@
       "st": "25/03/2020 04:20",
       "matricula": "LVGIF",
       "posicion": "",
-      "et": "",
+      "et": "25/3/2020 03:43",
       "at": "",
       "term": "A",
       "sector": "",
@@ -54,7 +54,7 @@
       "lF": "",
       "ruta": "MAD",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
