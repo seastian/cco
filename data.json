@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/03/2020 08:37",
+  "lastUpdate": "25/03/2020 08:44",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -102,8 +102,8 @@
       "vuelo": "033",
       "st": "25/03/2020 17:00",
       "matricula": "N859GT",
-      "posicion": "",
-      "et": "",
+      "posicion": "54",
+      "et": "25/3/2020 16:50",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -111,7 +111,7 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -653,7 +653,7 @@
       "vuelo": "033",
       "st": "25/03/2020 18:50",
       "matricula": "N859GT",
-      "posicion": "",
+      "posicion": "54",
       "et": "",
       "at": "",
       "term": "TCA",
