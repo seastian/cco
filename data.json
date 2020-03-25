@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/03/2020 16:17",
+  "lastUpdate": "25/03/2020 16:24",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -691,14 +691,14 @@
       "vuelo": "1132",
       "st": "25/03/2020 23:55",
       "matricula": "LVGIF",
-      "posicion": "34",
+      "posicion": "14",
       "et": "26/3/2020 01:25",
       "at": "",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "19",
       "ruta": "MAD",
       "via": "",
       "remark": "DEM",
