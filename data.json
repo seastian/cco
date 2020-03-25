@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "25/03/2020 03:37",
+  "lastUpdate": "25/03/2020 03:43",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1133",
-      "st": "25/03/2020 04:20",
-      "matricula": "LVGIF",
-      "posicion": "18",
-      "et": "25/3/2020 03:43",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "007",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "5X",
@@ -245,6 +226,25 @@
       "ruta": "VCP",
       "via": "",
       "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1133",
+      "st": "25/03/2020 04:20",
+      "matricula": "LVGIF",
+      "posicion": "18",
+      "et": "25/3/2020 03:43",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "8",
+      "lF": "007",
+      "ruta": "MAD",
+      "via": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
