@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/03/2020 18:25",
+  "lastUpdate": "25/03/2020 18:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -188,25 +188,6 @@
       "ruta": "ASU",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "QR",
-      "vuelo": "8155",
-      "st": "25/03/2020 05:20",
-      "matricula": "A7BFG",
-      "posicion": "56",
-      "et": "25/3/2020 06:30",
-      "at": "25/3/2020 06:28",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "DOH",
-      "via": "GRU",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
