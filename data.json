@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/03/2020 23:02",
+  "lastUpdate": "24/03/2020 23:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -389,7 +389,7 @@
       "matricula": "LVGKP",
       "posicion": "15",
       "et": "",
-      "at": "",
+      "at": "24/3/2020 23:02",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -397,7 +397,7 @@
       "puerta": "20",
       "ruta": "CUN",
       "via": "",
-      "remark": "HOR",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -416,7 +416,7 @@
       "puerta": "",
       "ruta": "SID",
       "via": "",
-      "remark": "EST",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -435,7 +435,7 @@
       "puerta": "02",
       "ruta": "DOH",
       "via": "GRU",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
