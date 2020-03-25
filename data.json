@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/03/2020 13:50",
+  "lastUpdate": "25/03/2020 13:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -464,7 +464,7 @@
       "st": "25/03/2020 13:30",
       "matricula": "CCBGD",
       "posicion": "09",
-      "et": "",
+      "et": "25/3/2020 14:30",
       "at": "",
       "term": "A",
       "sector": "",
@@ -473,7 +473,7 @@
       "puerta": "09",
       "ruta": "SCL",
       "via": "",
-      "remark": "CON",
+      "remark": "DEM",
       "sanidad": "NO"
     },
     {
