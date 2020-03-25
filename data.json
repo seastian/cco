@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/03/2020 03:24",
+  "lastUpdate": "25/03/2020 03:31",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -586,6 +586,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "VCP",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1272",
+      "st": "25/03/2020 15:30",
+      "matricula": "LVGGK",
+      "posicion": "25B",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "FLN",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
