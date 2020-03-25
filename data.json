@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/03/2020 23:28",
+  "lastUpdate": "24/03/2020 23:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -402,6 +402,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "PRV",
+      "vuelo": "JLC",
+      "st": "24/03/2020 23:59",
+      "matricula": "HBJLC",
+      "posicion": "45",
+      "et": "24/3/2020 23:15",
+      "at": "24/3/2020 23:20",
+      "term": "FBO",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SID",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "QR",
       "vuelo": "774",
       "st": "24/03/2020 23:15",
@@ -417,25 +436,6 @@
       "ruta": "DOH",
       "via": "GRU",
       "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "PRV",
-      "vuelo": "JLC",
-      "st": "24/03/2020 23:59",
-      "matricula": "HBJLC",
-      "posicion": "45",
-      "et": "24/3/2020 23:15",
-      "at": "",
-      "term": "FBO",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SID",
-      "via": "",
-      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -460,7 +460,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
+      "vuelo": "H24",
       "st": "24/03/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -468,7 +468,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -498,7 +498,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24",
+      "vuelo": "H24N",
       "st": "24/03/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -506,7 +506,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "209",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
