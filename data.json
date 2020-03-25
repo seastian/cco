@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/03/2020 04:47",
+  "lastUpdate": "25/03/2020 04:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -237,14 +237,14 @@
       "matricula": "N350UP",
       "posicion": "54",
       "et": "25/3/2020 04:46",
-      "at": "",
+      "at": "25/3/2020 04:49",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "MIA",
       "via": "SCL",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
