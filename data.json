@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "25/03/2020 06:23",
+  "lastUpdate": "25/03/2020 06:30",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "QR",
-      "vuelo": "8155",
-      "st": "25/03/2020 05:20",
-      "matricula": "A7BFG",
-      "posicion": "56",
-      "et": "25/3/2020 06:30",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "DOH",
-      "via": "GRU",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "JJ",
@@ -263,6 +244,25 @@
       "lF": "009",
       "ruta": "MIA",
       "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "QR",
+      "vuelo": "8155",
+      "st": "25/03/2020 05:20",
+      "matricula": "A7BFG",
+      "posicion": "56",
+      "et": "25/3/2020 06:30",
+      "at": "25/3/2020 06:28",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "DOH",
+      "via": "GRU",
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
