@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/03/2020 08:05",
+  "lastUpdate": "25/03/2020 08:12",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -129,6 +129,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "CUN",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1273",
+      "st": "25/03/2020 20:10",
+      "matricula": "LVGGK",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "FLN",
       "via": "",
       "remark": "",
       "sanidad": "NO",
