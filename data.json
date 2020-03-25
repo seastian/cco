@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/03/2020 12:40",
+  "lastUpdate": "25/03/2020 12:46",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -46,7 +46,7 @@
       "st": "25/03/2020 19:10",
       "matricula": "LVGKP",
       "posicion": "",
-      "et": "",
+      "et": "25/3/2020 18:46",
       "at": "",
       "term": "A",
       "sector": "",
@@ -54,9 +54,9 @@
       "lF": "",
       "ruta": "CUN",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "267"
     },
     {
       "tipo": "arribo",
@@ -422,25 +422,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AOG",
-      "vuelo": "424",
-      "st": "25/03/2020 12:00",
-      "matricula": "CXCLS",
-      "posicion": "58",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
       "vuelo": "500",
       "st": "25/03/2020 12:00",
       "matricula": "CXLSS",
@@ -459,12 +440,31 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "424",
+      "st": "25/03/2020 12:00",
+      "matricula": "CXCLS",
+      "posicion": "58",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "JJ",
       "vuelo": "9515",
       "st": "25/03/2020 12:30",
       "matricula": "PTMUB",
       "posicion": "10",
-      "et": "",
+      "et": "25/3/2020 12:50",
       "at": "",
       "term": "A",
       "sector": "AP",
@@ -473,7 +473,7 @@
       "puerta": "10",
       "ruta": "GRU",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
