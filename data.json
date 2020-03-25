@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/03/2020 23:21",
+  "lastUpdate": "24/03/2020 23:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -408,7 +408,7 @@
       "matricula": "A7BBI",
       "posicion": "03",
       "et": "",
-      "at": "",
+      "at": "24/3/2020 23:26",
       "term": "A",
       "sector": "AP",
       "chkFrom": "061",
@@ -416,7 +416,7 @@
       "puerta": "02",
       "ruta": "DOH",
       "via": "GRU",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
