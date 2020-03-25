@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "25/03/2020 10:45",
+  "lastUpdate": "25/03/2020 10:51",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "9512",
-      "st": "25/03/2020 11:00",
-      "matricula": "PTMUB",
-      "posicion": "10",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "008",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO",
-      "pax": "404"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AOG",
@@ -306,6 +287,25 @@
       "pax": ""
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "JJ",
+      "vuelo": "9512",
+      "st": "25/03/2020 11:00",
+      "matricula": "PTMUB",
+      "posicion": "10",
+      "et": "",
+      "at": "25/3/2020 10:48",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "008",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "404"
+    },
+    {
       "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1370",
@@ -555,7 +555,7 @@
     {
       "tipo": "partida",
       "aerolinea": "JJ",
-      "vuelo": "9513",
+      "vuelo": "9515",
       "st": "25/03/2020 12:30",
       "matricula": "PTMUB",
       "posicion": "10",
