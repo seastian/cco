@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/03/2020 09:09",
+  "lastUpdate": "25/03/2020 09:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -209,25 +209,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "QR",
-      "vuelo": "773",
-      "st": "24/03/2020 21:30",
-      "matricula": "A7BBI",
-      "posicion": "03",
-      "et": "24/3/2020 21:20",
-      "at": "24/3/2020 21:15",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "DOH",
-      "via": "GRU",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "235"
     },
     {
       "tipo": "arribo",
