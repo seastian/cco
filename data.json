@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/03/2020 18:51",
+  "lastUpdate": "25/03/2020 18:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -346,25 +346,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AOG",
-      "vuelo": "500",
-      "st": "25/03/2020 12:00",
-      "matricula": "CXLSS",
-      "posicion": "60",
-      "et": "",
-      "at": "25/3/2020 13:09",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
       "vuelo": "424",
       "st": "25/03/2020 12:00",
       "matricula": "CXCLS",
@@ -377,6 +358,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MVD",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "500",
+      "st": "25/03/2020 12:00",
+      "matricula": "CXLSS",
+      "posicion": "60",
+      "et": "",
+      "at": "25/3/2020 13:09",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "ASU",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -503,7 +503,7 @@
       "matricula": "N859GT",
       "posicion": "54",
       "et": "",
-      "at": "",
+      "at": "25/3/2020 18:53",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -511,7 +511,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -720,6 +720,25 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "5X",
+      "vuelo": "411",
+      "st": "26/03/2020 06:55",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
+      "via": "VCP",
       "remark": "HOR",
       "sanidad": "NO"
     }
