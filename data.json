@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/03/2020 15:33",
+  "lastUpdate": "25/03/2020 15:39",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -497,6 +497,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "LA",
+      "vuelo": "1104",
+      "st": "25/03/2020 13:30",
+      "matricula": "CCBGD",
+      "posicion": "09",
+      "et": "25/3/2020 15:30",
+      "at": "25/3/2020 15:39",
+      "term": "A",
+      "sector": "",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "09",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1272",
       "st": "25/03/2020 15:30",
@@ -512,25 +531,6 @@
       "ruta": "FLN",
       "via": "",
       "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LA",
-      "vuelo": "1104",
-      "st": "25/03/2020 13:30",
-      "matricula": "CCBGD",
-      "posicion": "09",
-      "et": "25/3/2020 15:30",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "09",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "CER",
       "sanidad": "NO"
     },
     {
