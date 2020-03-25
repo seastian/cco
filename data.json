@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/03/2020 04:03",
+  "lastUpdate": "25/03/2020 04:09",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -421,25 +421,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1324",
-      "st": "25/03/2020 05:35",
-      "matricula": "LVFVH",
-      "posicion": "13",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "17",
-      "ruta": "PUJ",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "5X",
       "vuelo": "415",
       "st": "25/03/2020 06:55",
@@ -474,6 +455,25 @@
       "ruta": "DOH",
       "via": "UIO",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1324",
+      "st": "25/03/2020 05:35",
+      "matricula": "LVFVH",
+      "posicion": "13",
+      "et": "25/3/2020 07:35",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "17",
+      "ruta": "PUJ",
+      "via": "",
+      "remark": "DEM",
       "sanidad": "NO"
     },
     {
