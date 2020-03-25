@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/03/2020 01:36",
+  "lastUpdate": "25/03/2020 01:42",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -282,25 +282,6 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LA",
-      "vuelo": "1104",
-      "st": "24/03/2020 13:30",
-      "matricula": "CCBGE",
-      "posicion": "10",
-      "et": "",
-      "at": "24/3/2020 13:42",
-      "term": "A",
-      "sector": "",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "10",
-      "ruta": "SCL",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
