@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/03/2020 19:42",
+  "lastUpdate": "25/03/2020 19:48",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,7 +7,7 @@
       "vuelo": "1273",
       "st": "25/03/2020 20:10",
       "matricula": "LVGGK",
-      "posicion": "",
+      "posicion": "15B",
       "et": "25/3/2020 20:08",
       "at": "",
       "term": "A",
