@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/03/2020 00:57",
+  "lastUpdate": "25/03/2020 01:04",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -530,7 +530,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "EST",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
