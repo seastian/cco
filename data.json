@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/03/2020 03:31",
+  "lastUpdate": "25/03/2020 03:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,7 +7,7 @@
       "vuelo": "1133",
       "st": "25/03/2020 04:20",
       "matricula": "LVGIF",
-      "posicion": "14",
+      "posicion": "18",
       "et": "25/3/2020 03:43",
       "at": "",
       "term": "A",
