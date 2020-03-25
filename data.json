@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/03/2020 00:00",
+  "lastUpdate": "25/03/2020 00:06",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -91,6 +91,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "GRU",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "1105",
+      "st": "25/03/2020 12:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -198,7 +217,7 @@
       "st": "24/03/2020 23:45",
       "matricula": "PRABD",
       "posicion": "54",
-      "et": "24/3/2020 23:50",
+      "et": "",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -206,7 +225,7 @@
       "lF": "",
       "ruta": "VCP",
       "via": "",
-      "remark": "EST",
+      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
