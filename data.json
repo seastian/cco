@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/03/2020 18:32",
+  "lastUpdate": "25/03/2020 18:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -88,8 +88,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "9",
+      "lF": "009",
       "ruta": "PUJ",
       "via": "",
       "remark": "DEM",
