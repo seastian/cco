@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/03/2020 10:26",
+  "lastUpdate": "25/03/2020 10:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -664,6 +664,25 @@
       "ruta": "SCL",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1103",
+      "st": "25/03/2020 22:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "CAN",
       "sanidad": "NO"
     }
   ]
