@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/03/2020 02:14",
+  "lastUpdate": "25/03/2020 02:20",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -586,6 +586,25 @@
       "chkTo": "053",
       "puerta": "",
       "ruta": "SCL",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AF",
+      "vuelo": "229",
+      "st": "25/03/2020 14:20",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "211",
+      "chkTo": "218",
+      "puerta": "",
+      "ruta": "CDG",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
