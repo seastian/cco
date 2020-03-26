@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/03/2020 01:59",
+  "lastUpdate": "26/03/2020 02:05",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -137,8 +137,8 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "8491",
-      "st": "25/03/2020 14:00",
+      "vuelo": "8493",
+      "st": "26/03/2020 14:00",
       "matricula": "",
       "posicion": "",
       "et": "",
@@ -149,7 +149,7 @@
       "lF": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "CON",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
@@ -682,7 +682,7 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -782,25 +782,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "PRV",
-      "vuelo": "CTA",
-      "st": "26/03/2020 12:00",
-      "matricula": "T7CTA",
-      "posicion": "36B",
-      "et": "",
-      "at": "",
-      "term": "FBO",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "--I",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AOG",
       "vuelo": "500",
       "st": "26/03/2020 12:00",
@@ -814,6 +795,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "ASU",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "PRV",
+      "vuelo": "CTA",
+      "st": "26/03/2020 12:00",
+      "matricula": "T7CTA",
+      "posicion": "36B",
+      "et": "",
+      "at": "",
+      "term": "FBO",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "--I",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
