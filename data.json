@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/03/2020 16:34",
+  "lastUpdate": "26/03/2020 16:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -158,7 +158,7 @@
       "aerolinea": "AR",
       "vuelo": "1133",
       "st": "27/03/2020 04:20",
-      "matricula": "",
+      "matricula": "LVGIF",
       "posicion": "",
       "et": "",
       "at": "",
