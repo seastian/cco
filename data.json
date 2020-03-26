@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/03/2020 12:18",
+  "lastUpdate": "26/03/2020 12:25",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -521,7 +521,7 @@
       "st": "26/03/2020 12:30",
       "matricula": "PTMUE",
       "posicion": "03",
-      "et": "",
+      "et": "26/3/2020 13:30",
       "at": "",
       "term": "A",
       "sector": "",
