@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/03/2020 13:16",
+  "lastUpdate": "26/03/2020 13:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -536,7 +536,7 @@
     {
       "tipo": "partida",
       "aerolinea": "2D",
-      "vuelo": "94341",
+      "vuelo": "9341",
       "st": "26/03/2020 21:00",
       "matricula": "",
       "posicion": "",
