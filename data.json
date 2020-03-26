@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/03/2020 13:10",
+  "lastUpdate": "26/03/2020 13:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -269,25 +269,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "M3",
-      "vuelo": "8492",
-      "st": "26/03/2020 02:00",
-      "matricula": "PRABD",
-      "posicion": "54",
-      "et": "26/3/2020 01:07",
-      "at": "26/3/2020 01:13",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1132",
       "st": "25/03/2020 23:55",
@@ -530,7 +511,7 @@
       "puerta": "03",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -548,6 +529,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "VCP",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "2D",
+      "vuelo": "94341",
+      "st": "26/03/2020 21:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
