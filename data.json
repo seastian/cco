@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/03/2020 22:34",
+  "lastUpdate": "25/03/2020 22:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -83,7 +83,7 @@
       "vuelo": "1325",
       "st": "25/03/2020 20:45",
       "matricula": "LVFVH",
-      "posicion": "",
+      "posicion": "12",
       "et": "26/3/2020 00:48",
       "at": "",
       "term": "A",
