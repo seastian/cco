@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/03/2020 00:55",
+  "lastUpdate": "26/03/2020 01:01",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -804,15 +804,15 @@
       "aerolinea": "AR",
       "vuelo": "1304",
       "st": "26/03/2020 08:30",
-      "matricula": "LVGKP",
-      "posicion": "13",
+      "matricula": "LVFVH",
+      "posicion": "12",
       "et": "26/3/2020 11:40",
       "at": "",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "209",
       "chkTo": "240",
-      "puerta": "17",
+      "puerta": "16",
       "ruta": "MIA",
       "via": "",
       "remark": "DEM",
