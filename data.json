@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/03/2020 06:53",
+  "lastUpdate": "26/03/2020 06:59",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -326,25 +326,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1302",
-      "st": "25/03/2020 23:00",
-      "matricula": "LVGKO",
-      "posicion": "12",
-      "et": "",
-      "at": "25/3/2020 22:49",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "209",
-      "chkTo": "240",
-      "puerta": "16",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "GTI",
       "vuelo": "033",
       "st": "25/03/2020 23:00",
@@ -360,6 +341,25 @@
       "ruta": "SCL",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1302",
+      "st": "25/03/2020 23:00",
+      "matricula": "LVGKO",
+      "posicion": "12",
+      "et": "",
+      "at": "25/3/2020 22:49",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "209",
+      "chkTo": "240",
+      "puerta": "16",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -384,7 +384,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24",
+      "vuelo": "H24N",
       "st": "25/03/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -392,7 +392,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "209",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -422,7 +422,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
+      "vuelo": "H24",
       "st": "25/03/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -430,7 +430,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -478,25 +478,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "101",
-      "st": "26/03/2020 01:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AMS",
       "vuelo": "7119",
       "st": "26/03/2020 01:30",
@@ -512,6 +493,25 @@
       "ruta": "MVD",
       "via": "",
       "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "101",
+      "st": "26/03/2020 01:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -549,7 +549,7 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "VCP",
-      "remark": "HOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
