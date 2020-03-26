@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/03/2020 23:00",
+  "lastUpdate": "25/03/2020 23:06",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -339,7 +339,7 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "",
+      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
@@ -568,7 +568,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
