@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/03/2020 05:55",
+  "lastUpdate": "26/03/2020 06:02",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -611,25 +611,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "LH",
-      "vuelo": "8265",
-      "st": "26/03/2020 09:15",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "FRA",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1304",
       "st": "26/03/2020 08:30",
@@ -721,6 +702,25 @@
       "ruta": "GRU",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LH",
+      "vuelo": "8265",
+      "st": "26/03/2020 09:15",
+      "matricula": "",
+      "posicion": "",
+      "et": "26/3/2020 12:55",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "FRA",
+      "via": "",
+      "remark": "DEM",
       "sanidad": "NO"
     },
     {
