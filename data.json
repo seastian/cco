@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/03/2020 16:02",
+  "lastUpdate": "26/03/2020 16:09",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -614,8 +614,8 @@
       "aerolinea": "AR",
       "vuelo": "1370",
       "st": "27/03/2020 02:00",
-      "matricula": "LVFNI",
-      "posicion": "M08",
+      "matricula": "LVGKP",
+      "posicion": "M07",
       "et": "",
       "at": "",
       "term": "C",
