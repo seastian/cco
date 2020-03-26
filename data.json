@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/03/2020 12:31",
+  "lastUpdate": "26/03/2020 12:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -459,25 +459,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "PRV",
-      "vuelo": "CTA",
-      "st": "26/03/2020 12:00",
-      "matricula": "T7CTA",
-      "posicion": "36B",
-      "et": "",
-      "at": "",
-      "term": "FBO",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "--I",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AOG",
       "vuelo": "500",
       "st": "26/03/2020 12:00",
@@ -491,6 +472,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "ASU",
+      "via": "",
+      "remark": "CER",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "PRV",
+      "vuelo": "CTA",
+      "st": "26/03/2020 12:00",
+      "matricula": "T7CTA",
+      "posicion": "36B",
+      "et": "",
+      "at": "",
+      "term": "FBO",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "--I",
       "via": "",
       "remark": "CON",
       "sanidad": "NO"
