@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "26/03/2020 13:54",
+  "lastUpdate": "26/03/2020 14:01",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "M3",
-      "vuelo": "8493",
-      "st": "26/03/2020 14:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "QT",
@@ -268,23 +249,23 @@
       "pax": "304"
     },
     {
-      "tipo": "partida",
-      "aerolinea": "GG",
-      "vuelo": "550",
-      "st": "26/03/2020 02:00",
+      "tipo": "arribo",
+      "aerolinea": "M3",
+      "vuelo": "8493",
+      "st": "26/03/2020 14:00",
       "matricula": "",
       "posicion": "",
       "et": "",
       "at": "",
       "term": "TCA",
       "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MIA",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
       "via": "",
       "remark": "CON",
-      "sanidad": "NO"
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "partida",
@@ -435,7 +416,7 @@
       "puerta": "03",
       "ruta": "SCL",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
