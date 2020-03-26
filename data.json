@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/03/2020 12:50",
+  "lastUpdate": "26/03/2020 12:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -133,25 +133,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1325",
-      "st": "25/03/2020 20:45",
-      "matricula": "LVFVH",
-      "posicion": "12",
-      "et": "26/3/2020 00:48",
-      "at": "26/3/2020 00:54",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "PUJ",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "243"
     },
     {
       "tipo": "arribo",
@@ -459,6 +440,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "424",
+      "st": "26/03/2020 12:00",
+      "matricula": "CXCLS",
+      "posicion": "60",
+      "et": "",
+      "at": "26/3/2020 12:54",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "PRV",
       "vuelo": "CTA",
       "st": "26/03/2020 12:00",
@@ -474,25 +474,6 @@
       "ruta": "--I",
       "via": "",
       "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "424",
-      "st": "26/03/2020 12:00",
-      "matricula": "CXCLS",
-      "posicion": "60",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "CER",
       "sanidad": "NO"
     },
     {
