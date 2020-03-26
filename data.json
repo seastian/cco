@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "25/03/2020 23:13",
+  "lastUpdate": "25/03/2020 23:19",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AMS",
-      "vuelo": "8119",
-      "st": "25/03/2020 23:30",
-      "matricula": "CXMAS",
-      "posicion": "57",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AOG",
@@ -340,6 +321,25 @@
       "ruta": "MIA",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AMS",
+      "vuelo": "8119",
+      "st": "25/03/2020 23:30",
+      "matricula": "CXMAS",
+      "posicion": "57",
+      "et": "",
+      "at": "25/3/2020 23:14",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
