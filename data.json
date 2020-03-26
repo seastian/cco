@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/03/2020 08:22",
+  "lastUpdate": "26/03/2020 08:29",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -8,7 +8,7 @@
       "st": "26/03/2020 11:00",
       "matricula": "",
       "posicion": "",
-      "et": "",
+      "et": "26/3/2020 10:30",
       "at": "",
       "term": "A",
       "sector": "",
@@ -16,9 +16,9 @@
       "lF": "",
       "ruta": "GRU",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "367"
     },
     {
       "tipo": "arribo",
