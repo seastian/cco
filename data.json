@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/03/2020 21:28",
+  "lastUpdate": "26/03/2020 21:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -738,6 +738,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "BOG",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "2D",
+      "vuelo": "888",
+      "st": "27/03/2020 09:30",
+      "matricula": "N700KW",
+      "posicion": "08",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "062",
+      "chkTo": "067",
+      "puerta": "07",
+      "ruta": "MIA",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
