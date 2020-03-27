@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/03/2020 02:28",
+  "lastUpdate": "27/03/2020 02:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -45,7 +45,7 @@
       "vuelo": "412",
       "st": "27/03/2020 05:12",
       "matricula": "N304UP",
-      "posicion": "",
+      "posicion": "54",
       "et": "27/3/2020 05:12",
       "at": "",
       "term": "TCA",
