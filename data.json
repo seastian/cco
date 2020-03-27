@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "27/03/2020 03:26",
+  "lastUpdate": "27/03/2020 03:32",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1133",
-      "st": "27/03/2020 04:20",
-      "matricula": "LVGIF",
-      "posicion": "14",
-      "et": "27/3/2020 03:30",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "261"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "5X",
@@ -323,6 +304,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1133",
+      "st": "27/03/2020 04:20",
+      "matricula": "LVGIF",
+      "posicion": "14",
+      "et": "27/3/2020 03:30",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "",
+      "ruta": "MAD",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "261"
     },
     {
       "tipo": "partida",
