@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/03/2020 12:23",
+  "lastUpdate": "27/03/2020 12:29",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -313,14 +313,14 @@
       "matricula": "CXLSS",
       "posicion": "58",
       "et": "",
-      "at": "",
+      "at": "27/3/2020 11:35",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "CON",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
