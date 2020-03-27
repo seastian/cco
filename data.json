@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/03/2020 21:41",
+  "lastUpdate": "26/03/2020 21:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -45,7 +45,7 @@
       "vuelo": "9360",
       "st": "26/03/2020 22:30",
       "matricula": "T1250",
-      "posicion": "",
+      "posicion": "09",
       "et": "27/3/2020 01:05",
       "at": "",
       "term": "A",
@@ -691,14 +691,14 @@
       "vuelo": "9361",
       "st": "27/03/2020 00:30",
       "matricula": "T1250",
-      "posicion": "",
+      "posicion": "09",
       "et": "27/3/2020 03:00",
       "at": "",
       "term": "A",
       "sector": "AP",
       "chkFrom": "083",
       "chkTo": "088",
-      "puerta": "",
+      "puerta": "09",
       "ruta": "HAV",
       "via": "CCC",
       "remark": "DEM",
