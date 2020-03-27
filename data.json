@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "27/03/2020 18:52",
+  "lastUpdate": "27/03/2020 18:59",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "521",
-      "st": "27/03/2020 19:00",
-      "matricula": "CXLSS",
-      "posicion": "57",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AOG",
@@ -190,6 +171,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "258"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AOG",
+      "vuelo": "521",
+      "st": "27/03/2020 19:00",
+      "matricula": "CXLSS",
+      "posicion": "57",
+      "et": "",
+      "at": "27/3/2020 18:53",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "partida",
