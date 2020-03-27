@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/03/2020 23:23",
+  "lastUpdate": "26/03/2020 23:29",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -17,25 +17,6 @@
       "ruta": "MVD",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "M3",
-      "vuelo": "8494",
-      "st": "26/03/2020 23:45",
-      "matricula": "PRABD",
-      "posicion": "54",
-      "et": "26/3/2020 23:44",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -174,25 +155,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "501",
-      "st": "26/03/2020 11:30",
-      "matricula": "CXLSS",
-      "posicion": "59",
-      "et": "",
-      "at": "26/3/2020 11:28",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "LA",
       "vuelo": "1105",
       "st": "26/03/2020 12:00",
@@ -321,6 +283,25 @@
       "ruta": "MIA",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "M3",
+      "vuelo": "8494",
+      "st": "26/03/2020 23:45",
+      "matricula": "PRABD",
+      "posicion": "54",
+      "et": "26/3/2020 23:44",
+      "at": "26/3/2020 23:29",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "VCP",
+      "via": "",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -511,7 +492,7 @@
       "puerta": "02",
       "ruta": "SCL",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
