@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/03/2020 16:45",
+  "lastUpdate": "27/03/2020 16:51",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -228,25 +228,6 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "QR",
-      "vuelo": "8157",
-      "st": "27/03/2020 05:20",
-      "matricula": "A7BFL",
-      "posicion": "56",
-      "et": "",
-      "at": "27/3/2020 04:50",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "UIO",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
