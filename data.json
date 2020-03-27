@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/03/2020 10:40",
+  "lastUpdate": "27/03/2020 10:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -339,25 +339,6 @@
       "chkTo": "053",
       "puerta": "02",
       "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1302",
-      "st": "26/03/2020 22:30",
-      "matricula": "LVGKO",
-      "posicion": "14",
-      "et": "",
-      "at": "26/3/2020 22:42",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "209",
-      "chkTo": "240",
-      "puerta": "19",
-      "ruta": "MIA",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
