@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/03/2020 06:31",
+  "lastUpdate": "27/03/2020 06:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -95,25 +95,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1303",
-      "st": "26/03/2020 19:30",
-      "matricula": "LVGKO",
-      "posicion": "14",
-      "et": "26/3/2020 18:40",
-      "at": "26/3/2020 18:33",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "258"
     },
     {
       "tipo": "arribo",
