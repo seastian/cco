@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/03/2020 05:53",
+  "lastUpdate": "27/03/2020 05:59",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -12,8 +12,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "9",
+      "lF": "009",
       "ruta": "MIA",
       "via": "",
       "remark": "EST",
