@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/03/2020 03:32",
+  "lastUpdate": "27/03/2020 03:39",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -313,14 +313,14 @@
       "matricula": "LVGIF",
       "posicion": "14",
       "et": "27/3/2020 03:30",
-      "at": "",
+      "at": "27/3/2020 03:34",
       "term": "A",
       "sector": "",
       "cinta": "9",
       "lF": "",
       "ruta": "MAD",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "261"
     },
