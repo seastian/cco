@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "27/03/2020 05:15",
+  "lastUpdate": "27/03/2020 05:21",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AV",
-      "vuelo": "273",
-      "st": "27/03/2020 05:20",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AR",
@@ -340,6 +321,25 @@
       "ruta": "MIA",
       "via": "SCL",
       "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AV",
+      "vuelo": "273",
+      "st": "27/03/2020 05:20",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "BOG",
+      "via": "",
+      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
