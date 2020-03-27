@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/03/2020 13:27",
+  "lastUpdate": "27/03/2020 13:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -150,25 +150,6 @@
       "ruta": "VCP",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1104",
-      "st": "27/03/2020 01:05",
-      "matricula": "N532LA",
-      "posicion": "54",
-      "et": "27/3/2020 01:45",
-      "at": "27/3/2020 01:28",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
