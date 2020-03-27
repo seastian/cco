@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/03/2020 09:37",
+  "lastUpdate": "27/03/2020 09:43",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -114,25 +114,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1103",
-      "st": "26/03/2020 20:10",
-      "matricula": "CCBHE",
-      "posicion": "03",
-      "et": "26/3/2020 21:40",
-      "at": "26/3/2020 21:39",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "123"
     },
     {
       "tipo": "arribo",
