@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/03/2020 06:19",
+  "lastUpdate": "27/03/2020 06:25",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -150,25 +150,6 @@
       "ruta": "BOG",
       "via": "",
       "remark": "CON",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "2D",
-      "vuelo": "9340",
-      "st": "26/03/2020 19:30",
-      "matricula": "N700KW",
-      "posicion": "08",
-      "et": "",
-      "at": "26/3/2020 18:25",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
