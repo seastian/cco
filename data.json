@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/03/2020 19:31",
+  "lastUpdate": "27/03/2020 19:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -26,7 +26,7 @@
       "vuelo": "1371",
       "st": "27/03/2020 21:10",
       "matricula": "LVGKP",
-      "posicion": "",
+      "posicion": "13",
       "et": "27/3/2020 21:10",
       "at": "",
       "term": "A",
