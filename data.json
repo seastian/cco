@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/03/2020 06:38",
+  "lastUpdate": "27/03/2020 06:44",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -313,14 +313,14 @@
       "matricula": "LVFVH",
       "posicion": "13",
       "et": "27/3/2020 06:30",
-      "at": "",
+      "at": "27/3/2020 06:43",
       "term": "A",
       "sector": "",
       "cinta": "9",
       "lF": "009",
       "ruta": "MIA",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "257"
     },
