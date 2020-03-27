@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/03/2020 13:33",
+  "lastUpdate": "27/03/2020 13:39",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -50,8 +50,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "9",
+      "lF": "009",
       "ruta": "MIA",
       "via": "",
       "remark": "EST",
@@ -288,25 +288,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AMS",
-      "vuelo": "7119",
-      "st": "27/03/2020 01:30",
-      "matricula": "CXMAS",
-      "posicion": "60",
-      "et": "",
-      "at": "27/3/2020 01:35",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1370",
       "st": "27/03/2020 02:00",
@@ -416,7 +397,7 @@
       "puerta": "07",
       "ruta": "MIA",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
