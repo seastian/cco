@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/03/2020 12:42",
+  "lastUpdate": "27/03/2020 12:48",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -479,25 +479,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AOG",
-      "vuelo": "500",
-      "st": "27/03/2020 12:00",
-      "matricula": "CXLSS",
-      "posicion": "58",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "CER",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
       "vuelo": "424",
       "st": "27/03/2020 12:00",
       "matricula": "CXCLS",
@@ -512,6 +493,25 @@
       "ruta": "MVD",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "500",
+      "st": "27/03/2020 12:00",
+      "matricula": "CXLSS",
+      "posicion": "58",
+      "et": "",
+      "at": "27/3/2020 12:42",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
