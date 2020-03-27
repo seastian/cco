@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/03/2020 09:30",
+  "lastUpdate": "27/03/2020 09:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -383,25 +383,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "H24",
-      "st": "26/03/2020 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "QTR",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "JJ",
       "vuelo": "H24",
       "st": "26/03/2020 23:59",
@@ -413,6 +394,25 @@
       "sector": "AP",
       "chkFrom": "041",
       "chkTo": "053",
+      "puerta": "",
+      "ruta": "QTR",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "H24",
+      "st": "26/03/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
       "via": "",
@@ -568,7 +568,7 @@
       "puerta": "07",
       "ruta": "MIA",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
