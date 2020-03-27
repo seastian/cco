@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/03/2020 15:09",
+  "lastUpdate": "27/03/2020 15:15",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -88,8 +88,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "9",
+      "lF": "009",
       "ruta": "CUN",
       "via": "",
       "remark": "EST",
@@ -269,25 +269,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "CU",
-      "vuelo": "9361",
-      "st": "27/03/2020 00:30",
-      "matricula": "T1250",
-      "posicion": "09",
-      "et": "27/3/2020 03:00",
-      "at": "27/3/2020 03:11",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "083",
-      "chkTo": "088",
-      "puerta": "09",
-      "ruta": "HAV",
-      "via": "CCC",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "QR",
       "vuelo": "8157",
       "st": "27/03/2020 05:20",
@@ -397,7 +378,7 @@
       "puerta": "",
       "ruta": "VCP",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
