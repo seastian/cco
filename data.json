@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/03/2020 14:11",
+  "lastUpdate": "27/03/2020 14:18",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -285,25 +285,6 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1370",
-      "st": "27/03/2020 02:00",
-      "matricula": "LVGKP",
-      "posicion": "15",
-      "et": "",
-      "at": "27/3/2020 02:13",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "20",
-      "ruta": "CUN",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
