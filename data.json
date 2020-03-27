@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/03/2020 13:01",
+  "lastUpdate": "27/03/2020 13:07",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -46,7 +46,7 @@
       "st": "27/03/2020 18:10",
       "matricula": "LVGKO",
       "posicion": "",
-      "et": "",
+      "et": "27/3/2020 17:38",
       "at": "",
       "term": "A",
       "sector": "",
@@ -54,9 +54,9 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "258"
     },
     {
       "tipo": "arribo",
@@ -465,7 +465,7 @@
       "matricula": "CXCLS",
       "posicion": "60",
       "et": "",
-      "at": "",
+      "at": "27/3/2020 13:06",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -473,7 +473,7 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
