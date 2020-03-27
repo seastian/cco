@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "27/03/2020 01:24",
+  "lastUpdate": "27/03/2020 01:31",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1104",
-      "st": "27/03/2020 01:05",
-      "matricula": "N532LA",
-      "posicion": "54",
-      "et": "27/3/2020 01:45",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "QR",
@@ -46,7 +27,7 @@
       "st": "27/03/2020 04:20",
       "matricula": "LVGIF",
       "posicion": "14",
-      "et": "",
+      "et": "27/3/2020 03:30",
       "at": "",
       "term": "A",
       "sector": "",
@@ -54,9 +35,9 @@
       "lF": "",
       "ruta": "MAD",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "261"
     },
     {
       "tipo": "arribo",
@@ -103,7 +84,7 @@
       "st": "27/03/2020 07:20",
       "matricula": "LVFVH",
       "posicion": "",
-      "et": "",
+      "et": "27/3/2020 06:30",
       "at": "",
       "term": "A",
       "sector": "",
@@ -111,9 +92,9 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "257"
     },
     {
       "tipo": "arribo",
@@ -325,6 +306,25 @@
       "pax": "211"
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "UC",
+      "vuelo": "1104",
+      "st": "27/03/2020 01:05",
+      "matricula": "N532LA",
+      "posicion": "54",
+      "et": "27/3/2020 01:45",
+      "at": "27/3/2020 01:28",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
       "tipo": "partida",
       "aerolinea": "LA",
       "vuelo": "1104",
@@ -516,6 +516,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "AMS",
+      "vuelo": "7119",
+      "st": "27/03/2020 01:30",
+      "matricula": "CXMAS",
+      "posicion": "60",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "CER",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "UC",
       "vuelo": "1104",
       "st": "26/03/2020 23:50",
@@ -550,25 +569,6 @@
       "ruta": "HAV",
       "via": "CCC",
       "remark": "DEM",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AMS",
-      "vuelo": "7119",
-      "st": "27/03/2020 01:30",
-      "matricula": "CXMAS",
-      "posicion": "60",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "HOR",
       "sanidad": "NO"
     },
     {
