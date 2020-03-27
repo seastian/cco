@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/03/2020 23:49",
+  "lastUpdate": "26/03/2020 23:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -171,25 +171,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1105",
-      "st": "26/03/2020 12:00",
-      "matricula": "CCBGD",
-      "posicion": "04",
-      "et": "26/3/2020 11:47",
-      "at": "26/3/2020 11:49",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "003",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "304"
     },
     {
       "tipo": "arribo",
@@ -554,6 +535,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1104",
+      "st": "26/03/2020 23:50",
+      "matricula": "N532LA",
+      "posicion": "",
+      "et": "27/3/2020 03:00",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "H24N",
       "st": "26/03/2020 23:59",
@@ -682,25 +682,6 @@
       "puerta": "09",
       "ruta": "HAV",
       "via": "CCC",
-      "remark": "DEM",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1104",
-      "st": "26/03/2020 23:50",
-      "matricula": "N532LA",
-      "posicion": "",
-      "et": "27/3/2020 03:00",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
       "remark": "DEM",
       "sanidad": "NO"
     },
