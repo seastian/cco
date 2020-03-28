@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/03/2020 14:34",
+  "lastUpdate": "28/03/2020 14:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -150,7 +150,7 @@
       "puerta": "23",
       "ruta": "GRU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
