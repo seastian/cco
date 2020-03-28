@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "28/03/2020 09:28",
+  "lastUpdate": "28/03/2020 09:34",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AF",
-      "vuelo": "388V",
-      "st": "28/03/2020 09:40",
-      "matricula": "FGZNG",
-      "posicion": "14",
-      "et": "28/3/2020 09:30",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "CDG",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "M3",
@@ -131,6 +112,25 @@
       "ruta": "VCP",
       "via": "",
       "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AF",
+      "vuelo": "388V",
+      "st": "28/03/2020 09:40",
+      "matricula": "FGZNG",
+      "posicion": "14",
+      "et": "28/3/2020 09:30",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "CDG",
+      "via": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
