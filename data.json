@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/03/2020 01:03",
+  "lastUpdate": "28/03/2020 01:09",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -206,25 +206,6 @@
       "chkTo": "067",
       "puerta": "07",
       "ruta": "MIA",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "424",
-      "st": "27/03/2020 12:00",
-      "matricula": "CXCLS",
-      "posicion": "60",
-      "et": "",
-      "at": "27/3/2020 13:06",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
