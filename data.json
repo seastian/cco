@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/03/2020 14:02",
+  "lastUpdate": "28/03/2020 14:09",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -123,7 +123,7 @@
       "matricula": "LVGKU",
       "posicion": "15B",
       "et": "",
-      "at": "",
+      "at": "28/3/2020 14:04",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -131,7 +131,7 @@
       "puerta": "20",
       "ruta": "GRU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
