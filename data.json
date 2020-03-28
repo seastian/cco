@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/03/2020 09:40",
+  "lastUpdate": "28/03/2020 09:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -123,14 +123,14 @@
       "matricula": "FGZNG",
       "posicion": "14",
       "et": "28/3/2020 09:30",
-      "at": "",
+      "at": "28/3/2020 09:43",
       "term": "A",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "CDG",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
