@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/03/2020 15:51",
+  "lastUpdate": "28/03/2020 15:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -174,25 +174,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1254Q",
-      "st": "28/03/2020 15:00",
-      "matricula": "LVFVO",
-      "posicion": "50A",
-      "et": "",
-      "at": "",
-      "term": "",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "13",
-      "ruta": "EZE",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "M3",
       "vuelo": "8495",
       "st": "28/03/2020 15:10",
@@ -208,6 +189,25 @@
       "ruta": "VCP",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1254Q",
+      "st": "28/03/2020 15:00",
+      "matricula": "LVFVO",
+      "posicion": "50A",
+      "et": "28/3/2020 16:30",
+      "at": "",
+      "term": "",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "19",
+      "ruta": "EZE",
+      "via": "",
+      "remark": "DEM",
       "sanidad": "NO"
     },
     {
