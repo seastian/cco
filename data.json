@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/03/2020 23:34",
+  "lastUpdate": "27/03/2020 23:40",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -17,25 +17,6 @@
       "ruta": "CDG",
       "via": "",
       "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "501",
-      "st": "27/03/2020 11:30",
-      "matricula": "CXLSS",
-      "posicion": "58",
-      "et": "",
-      "at": "27/3/2020 11:35",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
