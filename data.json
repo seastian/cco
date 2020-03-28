@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/03/2020 10:57",
+  "lastUpdate": "28/03/2020 11:03",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -55,25 +55,6 @@
       "ruta": "GRU",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "GG",
-      "vuelo": "551",
-      "st": "27/03/2020 23:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
