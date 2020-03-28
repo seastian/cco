@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/03/2020 04:53",
+  "lastUpdate": "28/03/2020 04:59",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -370,7 +370,7 @@
       "matricula": "N304UP",
       "posicion": "56",
       "et": "",
-      "at": "",
+      "at": "28/3/2020 04:58",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -378,7 +378,7 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "VCP",
-      "remark": "HOR",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
