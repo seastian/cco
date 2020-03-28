@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/03/2020 01:22",
+  "lastUpdate": "28/03/2020 01:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -370,7 +370,7 @@
       "matricula": "CXMAS",
       "posicion": "57",
       "et": "",
-      "at": "",
+      "at": "28/3/2020 01:23",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -378,7 +378,7 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "HOR",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
