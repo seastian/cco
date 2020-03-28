@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/03/2020 16:48",
+  "lastUpdate": "28/03/2020 16:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -199,7 +199,7 @@
       "matricula": "LVGGK",
       "posicion": "25B",
       "et": "28/3/2020 16:30",
-      "at": "",
+      "at": "28/3/2020 16:51",
       "term": "",
       "sector": "",
       "chkFrom": "",
@@ -207,7 +207,7 @@
       "puerta": "19",
       "ruta": "EZE",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
