@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/03/2020 15:00",
+  "lastUpdate": "28/03/2020 15:06",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -142,7 +142,7 @@
       "matricula": "LVFVO",
       "posicion": "16B",
       "et": "",
-      "at": "",
+      "at": "28/3/2020 15:03",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -150,7 +150,7 @@
       "puerta": "23",
       "ruta": "GRU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
