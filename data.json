@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/03/2020 00:37",
+  "lastUpdate": "28/03/2020 00:44",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -206,25 +206,6 @@
       "chkTo": "067",
       "puerta": "07",
       "ruta": "MIA",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "500",
-      "st": "27/03/2020 12:00",
-      "matricula": "CXLSS",
-      "posicion": "58",
-      "et": "",
-      "at": "27/3/2020 12:42",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "ASU",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
