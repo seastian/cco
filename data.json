@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/03/2020 06:48",
+  "lastUpdate": "28/03/2020 06:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -36,25 +36,6 @@
       "ruta": "SCL",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "521",
-      "st": "27/03/2020 19:00",
-      "matricula": "CXLSS",
-      "posicion": "57",
-      "et": "",
-      "at": "27/3/2020 18:53",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
