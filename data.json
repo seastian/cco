@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/03/2020 15:57",
+  "lastUpdate": "28/03/2020 16:04",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -25,7 +25,7 @@
       "aerolinea": "AR",
       "vuelo": "1255",
       "st": "28/03/2020 20:50",
-      "matricula": "LVFVO",
+      "matricula": "LVGGK",
       "posicion": "",
       "et": "",
       "at": "",
@@ -196,8 +196,8 @@
       "aerolinea": "AR",
       "vuelo": "1254Q",
       "st": "28/03/2020 15:00",
-      "matricula": "LVFVO",
-      "posicion": "50A",
+      "matricula": "LVGGK",
+      "posicion": "25B",
       "et": "28/3/2020 16:30",
       "at": "",
       "term": "",
