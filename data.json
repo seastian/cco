@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/03/2020 15:13",
+  "lastUpdate": "28/03/2020 15:19",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -97,6 +97,25 @@
       "pax": ""
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1254Q",
+      "st": "28/03/2020 15:00",
+      "matricula": "LVFVO",
+      "posicion": "50A",
+      "et": "",
+      "at": "",
+      "term": "",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "EZE",
+      "via": "",
+      "remark": "QRF",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
       "tipo": "partida",
       "aerolinea": "5X",
       "vuelo": "413",
@@ -151,6 +170,25 @@
       "ruta": "GRU",
       "via": "",
       "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1254Q",
+      "st": "28/03/2020 15:00",
+      "matricula": "LVFVO",
+      "posicion": "50A",
+      "et": "",
+      "at": "",
+      "term": "",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "EZE",
+      "via": "",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
