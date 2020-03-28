@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/03/2020 06:54",
+  "lastUpdate": "28/03/2020 07:01",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,7 +7,7 @@
       "vuelo": "388V",
       "st": "28/03/2020 09:40",
       "matricula": "FGZNG",
-      "posicion": "",
+      "posicion": "14",
       "et": "28/3/2020 09:30",
       "at": "",
       "term": "A",
