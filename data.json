@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/03/2020 02:58",
+  "lastUpdate": "28/03/2020 03:04",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -407,6 +407,25 @@
       "st": "28/03/2020 14:00",
       "matricula": "LVGKU",
       "posicion": "TG6",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1254",
+      "st": "28/03/2020 15:00",
+      "matricula": "LVFVO",
+      "posicion": "TG1",
       "et": "",
       "at": "",
       "term": "C",
