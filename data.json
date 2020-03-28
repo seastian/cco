@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/03/2020 17:59",
+  "lastUpdate": "28/03/2020 18:05",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -53,6 +53,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "VCP",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "DL",
+      "vuelo": "8834",
+      "st": "29/03/2020 06:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "ATL",
       "via": "",
       "remark": "",
       "sanidad": "NO",
