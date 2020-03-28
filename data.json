@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/03/2020 13:11",
+  "lastUpdate": "28/03/2020 13:18",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -166,7 +166,7 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "21",
+      "puerta": "20",
       "ruta": "GRU",
       "via": "",
       "remark": "HOR",
