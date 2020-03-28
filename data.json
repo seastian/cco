@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/03/2020 15:38",
+  "lastUpdate": "28/03/2020 15:44",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -185,7 +185,7 @@
       "sector": "",
       "chkFrom": "",
       "chkTo": "",
-      "puerta": "",
+      "puerta": "13",
       "ruta": "EZE",
       "via": "",
       "remark": "CON",
