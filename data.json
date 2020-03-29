@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/03/2020 19:42",
+  "lastUpdate": "29/03/2020 19:49",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -131,25 +131,6 @@
       "ruta": "FRA",
       "via": "MVD",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "DL",
-      "vuelo": "8835",
-      "st": "29/03/2020 07:00",
-      "matricula": "N701DN",
-      "posicion": "15",
-      "et": "29/3/2020 07:52",
-      "at": "29/3/2020 07:46",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "ATL",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -294,7 +275,7 @@
       "matricula": "CXCAR",
       "posicion": "54B",
       "et": "",
-      "at": "",
+      "at": "29/3/2020 19:47",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -302,7 +283,7 @@
       "puerta": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "HOR",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
