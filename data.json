@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "29/03/2020 19:36",
+  "lastUpdate": "29/03/2020 19:42",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "WK",
-      "vuelo": "2090",
-      "st": "29/03/2020 19:05",
-      "matricula": "HBJME",
-      "posicion": "09",
-      "et": "29/3/2020 19:44",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "ZRH",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": "207"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "GTI",
@@ -247,6 +228,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "WK",
+      "vuelo": "2090",
+      "st": "29/03/2020 19:05",
+      "matricula": "HBJME",
+      "posicion": "09",
+      "et": "29/3/2020 19:44",
+      "at": "29/3/2020 19:37",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "009",
+      "ruta": "ZRH",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "207"
     },
     {
       "tipo": "partida",
