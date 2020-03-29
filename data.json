@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "29/03/2020 09:54",
+  "lastUpdate": "29/03/2020 10:01",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "DL",
-      "vuelo": "8837",
-      "st": "29/03/2020 10:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "ATL",
-      "via": "",
-      "remark": "CAN",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AOG",
@@ -169,6 +150,25 @@
       "ruta": "FRA",
       "via": "",
       "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "DL",
+      "vuelo": "8837",
+      "st": "29/03/2020 10:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "ATL",
+      "via": "",
+      "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
     },
