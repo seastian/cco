@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/03/2020 20:58",
+  "lastUpdate": "28/03/2020 21:04",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -74,6 +74,25 @@
       "ruta": "ATL",
       "via": "",
       "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "DL",
+      "vuelo": "8836",
+      "st": "29/03/2020 09:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "ATL",
+      "via": "",
+      "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
     },
