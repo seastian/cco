@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/03/2020 02:59",
+  "lastUpdate": "29/03/2020 03:05",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -171,25 +171,6 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1254",
-      "st": "28/03/2020 15:00",
-      "matricula": "LVFVO",
-      "posicion": "16B",
-      "et": "",
-      "at": "28/3/2020 15:03",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "23",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
