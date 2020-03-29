@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/03/2020 14:16",
+  "lastUpdate": "29/03/2020 14:23",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -92,6 +92,25 @@
       "lF": "",
       "ruta": "ASU",
       "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "5X",
+      "vuelo": "416",
+      "st": "30/03/2020 02:19",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "SCL",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
@@ -226,7 +245,7 @@
       "puerta": "14",
       "ruta": "CDG",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
