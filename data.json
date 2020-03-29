@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/03/2020 14:55",
+  "lastUpdate": "29/03/2020 15:01",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -26,13 +26,13 @@
       "vuelo": "2090",
       "st": "29/03/2020 19:05",
       "matricula": "HBJME",
-      "posicion": "",
+      "posicion": "09",
       "et": "29/3/2020 19:44",
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "9",
+      "lF": "009",
       "ruta": "ZRH",
       "via": "",
       "remark": "DEM",
