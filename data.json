@@ -1,13 +1,13 @@
 {
-  "lastUpdate": "29/03/2020 05:07",
+  "lastUpdate": "29/03/2020 05:13",
   "vuelos": [
     {
       "tipo": "arribo",
       "aerolinea": "DL",
       "vuelo": "8834",
       "st": "29/03/2020 06:00",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "N863DA",
+      "posicion": "14",
       "et": "",
       "at": "",
       "term": "A",
@@ -25,8 +25,8 @@
       "aerolinea": "DL",
       "vuelo": "8835",
       "st": "29/03/2020 07:00",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "N701DN",
+      "posicion": "15",
       "et": "",
       "at": "",
       "term": "A",
