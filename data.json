@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/03/2020 19:17",
+  "lastUpdate": "29/03/2020 19:23",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -130,6 +130,25 @@
       "lF": "",
       "ruta": "FRA",
       "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LH",
+      "vuelo": "8264",
+      "st": "30/03/2020 07:20",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "FRA",
+      "via": "MVD",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
