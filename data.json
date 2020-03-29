@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/03/2020 21:42",
+  "lastUpdate": "28/03/2020 21:49",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -93,25 +93,6 @@
       "ruta": "ATL",
       "via": "",
       "remark": "CAN",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AF",
-      "vuelo": "388V",
-      "st": "28/03/2020 09:40",
-      "matricula": "FGZNG",
-      "posicion": "14",
-      "et": "28/3/2020 09:30",
-      "at": "28/3/2020 09:43",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "",
-      "ruta": "CDG",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
