@@ -1,12 +1,12 @@
 {
-  "lastUpdate": "29/03/2020 10:39",
+  "lastUpdate": "29/03/2020 10:46",
   "vuelos": [
     {
       "tipo": "arribo",
       "aerolinea": "AOG",
       "vuelo": "101",
       "st": "29/03/2020 18:30",
-      "matricula": "",
+      "matricula": "CXCAR",
       "posicion": "",
       "et": "",
       "at": "",
@@ -291,7 +291,7 @@
       "aerolinea": "AOG",
       "vuelo": "101",
       "st": "29/03/2020 20:30",
-      "matricula": "",
+      "matricula": "CXCAR",
       "posicion": "",
       "et": "",
       "at": "",
