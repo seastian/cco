@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/03/2020 03:24",
+  "lastUpdate": "29/03/2020 03:31",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -93,25 +93,6 @@
       "ruta": "ATL",
       "via": "",
       "remark": "CAN",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1254Q",
-      "st": "28/03/2020 15:00",
-      "matricula": "LVFVO",
-      "posicion": "50A",
-      "et": "",
-      "at": "28/3/2020 15:29",
-      "term": "",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "EZE",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
