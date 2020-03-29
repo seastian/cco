@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/03/2020 08:25",
+  "lastUpdate": "29/03/2020 08:31",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -301,6 +301,25 @@
       "chkTo": "218",
       "puerta": "",
       "ruta": "CDG",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "101",
+      "st": "29/03/2020 20:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "ASU",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
