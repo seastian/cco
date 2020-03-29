@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/03/2020 15:01",
+  "lastUpdate": "29/03/2020 15:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -237,7 +237,7 @@
       "matricula": "FGZNG",
       "posicion": "11",
       "et": "",
-      "at": "",
+      "at": "29/3/2020 15:03",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "207",
@@ -245,7 +245,7 @@
       "puerta": "14",
       "ruta": "CDG",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
