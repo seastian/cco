@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "29/03/2020 06:17",
+  "lastUpdate": "29/03/2020 06:23",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "DL",
-      "vuelo": "8834",
-      "st": "29/03/2020 06:00",
-      "matricula": "N863DA",
-      "posicion": "14",
-      "et": "29/3/2020 06:20",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "ATL",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "DL",
@@ -150,6 +131,25 @@
       "ruta": "VCP",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "DL",
+      "vuelo": "8834",
+      "st": "29/03/2020 06:00",
+      "matricula": "N863DA",
+      "posicion": "14",
+      "et": "29/3/2020 06:20",
+      "at": "29/3/2020 06:17",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "ATL",
+      "via": "",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
