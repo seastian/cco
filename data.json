@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/03/2020 01:58",
+  "lastUpdate": "29/03/2020 02:04",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -98,25 +98,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "M3",
-      "vuelo": "8495",
-      "st": "28/03/2020 14:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1254Q",
       "st": "28/03/2020 15:00",
@@ -190,25 +171,6 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1252",
-      "st": "28/03/2020 14:00",
-      "matricula": "LVGKU",
-      "posicion": "15B",
-      "et": "",
-      "at": "28/3/2020 14:04",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "20",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
