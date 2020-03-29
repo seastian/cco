@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/03/2020 13:25",
+  "lastUpdate": "29/03/2020 13:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -270,7 +270,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24",
+      "vuelo": "H24N",
       "st": "29/03/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -278,7 +278,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "209",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -308,7 +308,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
+      "vuelo": "H24",
       "st": "29/03/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -316,7 +316,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -329,6 +329,25 @@
       "aerolinea": "GTI",
       "vuelo": "033",
       "st": "30/03/2020 01:15",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1101",
+      "st": "30/03/2020 01:30",
       "matricula": "",
       "posicion": "",
       "et": "",
