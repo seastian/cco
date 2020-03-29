@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/03/2020 05:32",
+  "lastUpdate": "29/03/2020 05:39",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -8,7 +8,7 @@
       "st": "29/03/2020 06:00",
       "matricula": "N863DA",
       "posicion": "14",
-      "et": "",
+      "et": "29/3/2020 06:20",
       "at": "",
       "term": "A",
       "sector": "",
@@ -16,7 +16,7 @@
       "lF": "",
       "ruta": "ATL",
       "via": "",
-      "remark": "",
+      "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
     },
@@ -27,7 +27,7 @@
       "st": "29/03/2020 07:00",
       "matricula": "N701DN",
       "posicion": "15",
-      "et": "",
+      "et": "29/3/2020 07:52",
       "at": "",
       "term": "A",
       "sector": "",
@@ -35,7 +35,7 @@
       "lF": "",
       "ruta": "ATL",
       "via": "",
-      "remark": "",
+      "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
     },
