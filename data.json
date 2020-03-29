@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "29/03/2020 09:03",
+  "lastUpdate": "29/03/2020 09:10",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "LH",
-      "vuelo": "8266",
-      "st": "29/03/2020 09:55",
-      "matricula": "DALCI",
-      "posicion": "56",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "FRA",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "DL",
@@ -169,6 +150,25 @@
       "ruta": "ATL",
       "via": "",
       "remark": "CAN",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LH",
+      "vuelo": "8266",
+      "st": "29/03/2020 09:55",
+      "matricula": "DALCI",
+      "posicion": "56",
+      "et": "",
+      "at": "29/3/2020 09:08",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "FRA",
+      "via": "",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
