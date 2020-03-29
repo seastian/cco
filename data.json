@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/03/2020 04:48",
+  "lastUpdate": "29/03/2020 04:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -152,25 +152,6 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1254Q",
-      "st": "28/03/2020 15:00",
-      "matricula": "LVGGK",
-      "posicion": "25B",
-      "et": "28/3/2020 16:30",
-      "at": "28/3/2020 16:51",
-      "term": "",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "19",
-      "ruta": "EZE",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
