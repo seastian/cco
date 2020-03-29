@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/03/2020 21:49",
+  "lastUpdate": "28/03/2020 21:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -93,6 +93,25 @@
       "ruta": "ATL",
       "via": "",
       "remark": "CAN",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LH",
+      "vuelo": "8266",
+      "st": "29/03/2020 09:55",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "FRA",
+      "via": "",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
