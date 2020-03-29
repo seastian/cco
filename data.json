@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/03/2020 02:17",
+  "lastUpdate": "29/03/2020 02:23",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -320,6 +320,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "FRA",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AF",
+      "vuelo": "4193",
+      "st": "29/03/2020 14:21",
+      "matricula": "FGZNG",
+      "posicion": "61",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "211",
+      "chkTo": "218",
+      "puerta": "",
+      "ruta": "CDG",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
