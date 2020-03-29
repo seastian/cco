@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/03/2020 21:55",
+  "lastUpdate": "28/03/2020 22:01",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -112,6 +112,25 @@
       "ruta": "FRA",
       "via": "",
       "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "DL",
+      "vuelo": "8837",
+      "st": "29/03/2020 10:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "ATL",
+      "via": "",
+      "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
     },
