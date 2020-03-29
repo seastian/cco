@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/03/2020 11:30",
+  "lastUpdate": "29/03/2020 11:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -273,14 +273,14 @@
       "vuelo": "4193",
       "st": "29/03/2020 14:21",
       "matricula": "FGZNG",
-      "posicion": "61",
+      "posicion": "11",
       "et": "",
       "at": "",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "207",
       "chkTo": "220",
-      "puerta": "",
+      "puerta": "14",
       "ruta": "CDG",
       "via": "",
       "remark": "HOR",
