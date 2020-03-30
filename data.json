@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "30/03/2020 08:23",
+  "lastUpdate": "30/03/2020 08:29",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AF",
-      "vuelo": "380V",
-      "st": "30/03/2020 09:40",
-      "matricula": "FGZNN",
-      "posicion": "11",
-      "et": "30/3/2020 08:30",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "CDG",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "GTI",
@@ -226,6 +207,25 @@
       "ruta": "FRA",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AF",
+      "vuelo": "380V",
+      "st": "30/03/2020 09:40",
+      "matricula": "FGZNN",
+      "posicion": "11",
+      "et": "30/3/2020 08:30",
+      "at": "30/3/2020 08:27",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "CDG",
+      "via": "",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
