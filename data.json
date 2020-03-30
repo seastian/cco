@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/03/2020 20:25",
+  "lastUpdate": "30/03/2020 20:31",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -131,25 +131,6 @@
       "ruta": "SCL",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AF",
-      "vuelo": "380V",
-      "st": "30/03/2020 09:40",
-      "matricula": "FGZNN",
-      "posicion": "11",
-      "et": "30/3/2020 08:30",
-      "at": "30/3/2020 08:27",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "CDG",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
