@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/03/2020 05:49",
+  "lastUpdate": "30/03/2020 05:56",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -64,7 +64,7 @@
       "vuelo": "380V",
       "st": "30/03/2020 09:40",
       "matricula": "FGZNN",
-      "posicion": "",
+      "posicion": "11",
       "et": "30/3/2020 08:30",
       "at": "",
       "term": "A",
@@ -375,7 +375,7 @@
       "sector": "CPI",
       "chkFrom": "207",
       "chkTo": "214",
-      "puerta": "19",
+      "puerta": "18",
       "ruta": "ATL",
       "via": "SCL",
       "remark": "HOR",
