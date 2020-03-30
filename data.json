@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/03/2020 06:02",
+  "lastUpdate": "30/03/2020 06:09",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -83,7 +83,7 @@
       "vuelo": "033",
       "st": "30/03/2020 09:30",
       "matricula": "N859GT",
-      "posicion": "",
+      "posicion": "55",
       "et": "30/3/2020 08:45",
       "at": "",
       "term": "TCA",
@@ -112,25 +112,6 @@
       "ruta": "MIA",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "101",
-      "st": "29/03/2020 18:30",
-      "matricula": "CXCAR",
-      "posicion": "54B",
-      "et": "",
-      "at": "29/3/2020 18:04",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -482,7 +463,7 @@
       "vuelo": "033",
       "st": "30/03/2020 11:30",
       "matricula": "N859GT",
-      "posicion": "",
+      "posicion": "55",
       "et": "30/3/2020 11:15",
       "at": "",
       "term": "TCA",
