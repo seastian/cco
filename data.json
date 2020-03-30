@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/03/2020 08:10",
+  "lastUpdate": "30/03/2020 08:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -232,7 +232,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
+      "vuelo": "H24",
       "st": "29/03/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -240,7 +240,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -251,7 +251,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24",
+      "vuelo": "H24N",
       "st": "29/03/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -259,7 +259,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "209",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -351,7 +351,7 @@
       "matricula": "N863DA",
       "posicion": "14",
       "et": "",
-      "at": "",
+      "at": "30/3/2020 08:16",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "207",
@@ -359,7 +359,7 @@
       "puerta": "18",
       "ruta": "ATL",
       "via": "SCL",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -389,7 +389,7 @@
       "matricula": "DALCK",
       "posicion": "54",
       "et": "",
-      "at": "",
+      "at": "30/3/2020 08:16",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -397,7 +397,7 @@
       "puerta": "",
       "ruta": "FRA",
       "via": "",
-      "remark": "HOR",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -549,6 +549,25 @@
       "puerta": "",
       "ruta": "BOG",
       "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "5X",
+      "vuelo": "417",
+      "st": "30/03/2020 20:15",
+      "matricula": "N342UP",
+      "posicion": "33",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
+      "via": "VCP",
       "remark": "HOR",
       "sanidad": "NO"
     }
