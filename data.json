@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/03/2020 08:55",
+  "lastUpdate": "30/03/2020 09:01",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -435,7 +435,7 @@
       "puerta": "20",
       "ruta": "ATL",
       "via": "SCL",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
