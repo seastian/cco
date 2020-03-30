@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/03/2020 15:12",
+  "lastUpdate": "30/03/2020 15:18",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -484,7 +484,7 @@
       "matricula": "LVIVC",
       "posicion": "41",
       "et": "",
-      "at": "",
+      "at": "30/3/2020 15:14",
       "term": "FBO",
       "sector": "",
       "chkFrom": "",
@@ -492,7 +492,7 @@
       "puerta": "",
       "ruta": "CRD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
