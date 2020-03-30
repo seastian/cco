@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/03/2020 07:45",
+  "lastUpdate": "30/03/2020 07:51",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -72,6 +72,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "BOG",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LH",
+      "vuelo": "348",
+      "st": "30/03/2020 19:45",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "FRA",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -209,25 +228,6 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "101",
-      "st": "29/03/2020 20:30",
-      "matricula": "CXCAR",
-      "posicion": "54B",
-      "et": "",
-      "at": "29/3/2020 19:47",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
