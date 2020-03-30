@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/03/2020 18:24",
+  "lastUpdate": "30/03/2020 18:30",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -150,44 +150,6 @@
       "ruta": "SCL",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LH",
-      "vuelo": "8264",
-      "st": "30/03/2020 07:20",
-      "matricula": "DALCK",
-      "posicion": "54",
-      "et": "30/3/2020 06:30",
-      "at": "30/3/2020 06:28",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "FRA",
-      "via": "MVD",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "103",
-      "st": "30/03/2020 06:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
