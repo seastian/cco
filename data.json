@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/03/2020 22:03",
+  "lastUpdate": "29/03/2020 22:09",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -44,9 +44,9 @@
       "aerolinea": "5X",
       "vuelo": "416",
       "st": "30/03/2020 02:19",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
+      "matricula": "N342UP",
+      "posicion": "54",
+      "et": "30/3/2020 00:59",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -54,7 +54,7 @@
       "lF": "",
       "ruta": "MIA",
       "via": "SCL",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
