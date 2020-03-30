@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/03/2020 15:44",
+  "lastUpdate": "30/03/2020 15:50",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -45,7 +45,7 @@
       "vuelo": "348",
       "st": "30/03/2020 19:45",
       "matricula": "DABYL",
-      "posicion": "",
+      "posicion": "09",
       "et": "30/3/2020 20:15",
       "at": "",
       "term": "A",
