@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/03/2020 12:00",
+  "lastUpdate": "30/03/2020 12:07",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -44,7 +44,7 @@
       "aerolinea": "LH",
       "vuelo": "348",
       "st": "30/03/2020 19:45",
-      "matricula": "",
+      "matricula": "DABYL",
       "posicion": "",
       "et": "30/3/2020 20:15",
       "at": "",
@@ -56,7 +56,7 @@
       "via": "",
       "remark": "DEM",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "323"
     },
     {
       "tipo": "arribo",
