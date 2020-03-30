@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/03/2020 10:24",
+  "lastUpdate": "30/03/2020 10:31",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -53,6 +53,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "FRA",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "FAE",
+      "vuelo": "3527",
+      "st": "30/03/2020 22:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "LIM",
       "via": "",
       "remark": "",
       "sanidad": "NO",
