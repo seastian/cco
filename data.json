@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/03/2020 03:29",
+  "lastUpdate": "30/03/2020 03:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -529,6 +529,25 @@
       "chkTo": "067",
       "puerta": "09",
       "ruta": "ZRH",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "8473",
+      "st": "30/03/2020 15:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "POA",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
