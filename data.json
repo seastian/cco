@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/03/2020 07:57",
+  "lastUpdate": "30/03/2020 08:04",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -529,6 +529,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "POA",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "QT",
+      "vuelo": "4078",
+      "st": "30/03/2020 20:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "BOG",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
