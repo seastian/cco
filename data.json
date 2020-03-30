@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/03/2020 12:19",
+  "lastUpdate": "30/03/2020 12:26",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -169,25 +169,6 @@
       "ruta": "ASU",
       "via": "",
       "remark": "CON",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "5X",
-      "vuelo": "416",
-      "st": "30/03/2020 02:19",
-      "matricula": "N342UP",
-      "posicion": "54",
-      "et": "30/3/2020 00:59",
-      "at": "30/3/2020 00:20",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "SCL",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
