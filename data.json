@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/03/2020 16:48",
+  "lastUpdate": "30/03/2020 16:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -12,8 +12,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "9",
+      "lF": "009",
       "ruta": "HUX",
       "via": "",
       "remark": "EST",
