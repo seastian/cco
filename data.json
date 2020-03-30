@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/03/2020 19:28",
+  "lastUpdate": "30/03/2020 19:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -303,25 +303,6 @@
       "ruta": "ATL",
       "via": "SCL",
       "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "103",
-      "st": "30/03/2020 07:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "CON",
       "sanidad": "NO"
     },
     {
