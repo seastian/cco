@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/03/2020 15:18",
+  "lastUpdate": "30/03/2020 15:25",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -503,7 +503,7 @@
       "matricula": "HBJME",
       "posicion": "09",
       "et": "",
-      "at": "",
+      "at": "30/3/2020 15:19",
       "term": "A",
       "sector": "AP",
       "chkFrom": "061",
@@ -511,7 +511,7 @@
       "puerta": "08",
       "ruta": "ZRH",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
