@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/03/2020 08:48",
+  "lastUpdate": "30/03/2020 08:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,7 +7,7 @@
       "vuelo": "1109",
       "st": "30/03/2020 09:55",
       "matricula": "N540LA",
-      "posicion": "",
+      "posicion": "54",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -498,7 +498,7 @@
     {
       "tipo": "partida",
       "aerolinea": "UC",
-      "vuelo": "1130",
+      "vuelo": "1108",
       "st": "30/03/2020 11:30",
       "matricula": "N540LA",
       "posicion": "",
@@ -546,7 +546,7 @@
       "sector": "AP",
       "chkFrom": "062",
       "chkTo": "067",
-      "puerta": "09",
+      "puerta": "08",
       "ruta": "ZRH",
       "via": "",
       "remark": "HOR",
