@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/03/2020 10:18",
+  "lastUpdate": "30/03/2020 10:24",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -167,25 +167,6 @@
       "cinta": "",
       "lF": "",
       "ruta": "SCL",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LH",
-      "vuelo": "8264",
-      "st": "30/03/2020 06:45",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "FRA",
       "via": "",
       "remark": "CON",
       "sanidad": "NO",
@@ -436,25 +417,6 @@
       "ruta": "ATL",
       "via": "SCL",
       "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LH",
-      "vuelo": "8265",
-      "st": "30/03/2020 09:20",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "FRA",
-      "via": "",
-      "remark": "CON",
       "sanidad": "NO"
     },
     {
