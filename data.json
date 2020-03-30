@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/03/2020 20:44",
+  "lastUpdate": "30/03/2020 20:51",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -131,25 +131,6 @@
       "ruta": "SCL",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "GTI",
-      "vuelo": "033",
-      "st": "30/03/2020 09:30",
-      "matricula": "N859GT",
-      "posicion": "55",
-      "et": "30/3/2020 08:45",
-      "at": "30/3/2020 08:46",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
