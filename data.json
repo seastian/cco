@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/03/2020 21:25",
+  "lastUpdate": "29/03/2020 21:31",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -131,6 +131,25 @@
       "ruta": "CDG",
       "via": "",
       "remark": "EST",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "GTI",
+      "vuelo": "033",
+      "st": "30/03/2020 09:30",
+      "matricula": "N859GT",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
