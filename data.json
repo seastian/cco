@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/03/2020 04:07",
+  "lastUpdate": "30/03/2020 04:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -218,14 +218,14 @@
       "matricula": "CXMAS",
       "posicion": "55A",
       "et": "",
-      "at": "",
+      "at": "30/3/2020 04:09",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "CON",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
