@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/03/2020 14:53",
+  "lastUpdate": "30/03/2020 14:59",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -299,11 +299,11 @@
       "sector": "",
       "cinta": "",
       "lF": "",
-      "ruta": "BRC",
-      "via": "",
+      "ruta": "CRD",
+      "via": "BHI",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "1"
     },
     {
       "tipo": "partida",
@@ -539,7 +539,7 @@
       "vuelo": "417",
       "st": "30/03/2020 20:15",
       "matricula": "N342UP",
-      "posicion": "33",
+      "posicion": "54",
       "et": "",
       "at": "",
       "term": "TCA",
