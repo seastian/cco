@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/03/2020 13:30",
+  "lastUpdate": "30/03/2020 13:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -57,6 +57,25 @@
       "remark": "DEM",
       "sanidad": "NO",
       "pax": "323"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "JWC",
+      "st": "30/03/2020 21:20",
+      "matricula": "HBJWC",
+      "posicion": "37",
+      "et": "",
+      "at": "",
+      "term": "FBO",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "NAT",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO",
+      "pax": "0"
     },
     {
       "tipo": "arribo",
