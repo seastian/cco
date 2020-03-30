@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/03/2020 12:07",
+  "lastUpdate": "30/03/2020 12:13",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -131,25 +131,6 @@
       "ruta": "VCP",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1101",
-      "st": "30/03/2020 00:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
