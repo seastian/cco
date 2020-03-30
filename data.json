@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/03/2020 16:41",
+  "lastUpdate": "30/03/2020 16:48",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -664,6 +664,25 @@
       "ruta": "SCL",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "QR",
+      "vuelo": "8157",
+      "st": "31/03/2020 04:45",
+      "matricula": "A7BFE",
+      "posicion": "",
+      "et": "31/3/2020 07:10",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "DOH",
+      "via": "UIO",
+      "remark": "DEM",
       "sanidad": "NO"
     }
   ]
