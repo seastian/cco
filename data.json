@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/03/2020 12:17",
+  "lastUpdate": "31/03/2020 12:24",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -34,6 +34,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "VCP",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LO",
+      "vuelo": "8551",
+      "st": "01/04/2020 00:20",
+      "matricula": "SPLSB",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "WAW",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -294,7 +313,7 @@
       "matricula": "CXLSS",
       "posicion": "60",
       "et": "",
-      "at": "",
+      "at": "31/3/2020 12:17",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -302,7 +321,7 @@
       "puerta": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
