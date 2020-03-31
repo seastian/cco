@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/03/2020 23:24",
+  "lastUpdate": "30/03/2020 23:30",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -111,6 +111,44 @@
       "lF": "",
       "ruta": "AMS",
       "via": "VCP",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AOG",
+      "vuelo": "501",
+      "st": "31/03/2020 11:30",
+      "matricula": "CXLSS",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AOG",
+      "vuelo": "423",
+      "st": "31/03/2020 11:30",
+      "matricula": "CXCLS",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MVD",
+      "via": "",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
