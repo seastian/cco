@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/03/2020 12:43",
+  "lastUpdate": "31/03/2020 12:49",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -308,25 +308,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AOG",
-      "vuelo": "500",
-      "st": "31/03/2020 12:00",
-      "matricula": "CXLSS",
-      "posicion": "60",
-      "et": "",
-      "at": "31/3/2020 12:17",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
       "vuelo": "424",
       "st": "31/03/2020 12:00",
       "matricula": "CXCLS",
@@ -345,13 +326,32 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "500",
+      "st": "31/03/2020 12:00",
+      "matricula": "CXLSS",
+      "posicion": "60",
+      "et": "",
+      "at": "31/3/2020 12:17",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "MP",
       "vuelo": "6912",
       "st": "31/03/2020 12:05",
       "matricula": "PHCKA",
       "posicion": "54",
       "et": "31/3/2020 12:40",
-      "at": "",
+      "at": "31/3/2020 12:45",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -359,7 +359,7 @@
       "puerta": "",
       "ruta": "AMS",
       "via": "UIO",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
