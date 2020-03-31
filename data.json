@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/03/2020 02:10",
+  "lastUpdate": "31/03/2020 02:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -307,25 +307,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "PRV",
-      "vuelo": "IVC",
-      "st": "30/03/2020 15:00",
-      "matricula": "LVIVC",
-      "posicion": "41",
-      "et": "",
-      "at": "30/3/2020 15:14",
-      "term": "FBO",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "CRD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "WK",
       "vuelo": "2091",
       "st": "30/03/2020 15:00",
@@ -339,6 +320,25 @@
       "chkTo": "067",
       "puerta": "08",
       "ruta": "ZRH",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "PRV",
+      "vuelo": "IVC",
+      "st": "30/03/2020 15:00",
+      "matricula": "LVIVC",
+      "posicion": "41",
+      "et": "",
+      "at": "30/3/2020 15:14",
+      "term": "FBO",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "CRD",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -422,7 +422,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24",
+      "vuelo": "H24N",
       "st": "30/03/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -430,7 +430,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "209",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -460,7 +460,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
+      "vuelo": "H24",
       "st": "30/03/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -468,7 +468,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -530,7 +530,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
