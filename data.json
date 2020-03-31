@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "31/03/2020 11:45",
+  "lastUpdate": "31/03/2020 11:52",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "FWT",
-      "st": "31/03/2020 12:00",
-      "matricula": "LVFWT",
-      "posicion": "40",
-      "et": "",
-      "at": "",
-      "term": "FBO",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "CPC",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO",
-      "pax": "5"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "OS",
@@ -190,6 +171,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "FWT",
+      "st": "31/03/2020 12:00",
+      "matricula": "LVFWT",
+      "posicion": "40",
+      "et": "",
+      "at": "31/3/2020 11:44",
+      "term": "FBO",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "CPC",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "5"
     },
     {
       "tipo": "partida",
