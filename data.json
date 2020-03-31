@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/03/2020 08:21",
+  "lastUpdate": "31/03/2020 08:27",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -95,25 +95,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LH",
-      "vuelo": "348",
-      "st": "30/03/2020 19:45",
-      "matricula": "DABYL",
-      "posicion": "09",
-      "et": "30/3/2020 20:15",
-      "at": "30/3/2020 20:22",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "FRA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "323"
     },
     {
       "tipo": "arribo",
@@ -256,14 +237,14 @@
       "matricula": "CXCLS",
       "posicion": "59",
       "et": "",
-      "at": "",
+      "at": "31/3/2020 08:22",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "CON",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
