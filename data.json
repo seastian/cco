@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/03/2020 04:05",
+  "lastUpdate": "31/03/2020 04:12",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -133,25 +133,6 @@
       "remark": "HOR",
       "sanidad": "NO",
       "pax": "5"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "QT",
-      "vuelo": "4099",
-      "st": "30/03/2020 18:30",
-      "matricula": "N332QT",
-      "posicion": "56",
-      "et": "30/3/2020 16:10",
-      "at": "30/3/2020 16:11",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
