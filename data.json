@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/03/2020 07:11",
+  "lastUpdate": "31/03/2020 07:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -114,25 +114,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "FAE",
-      "vuelo": "3527",
-      "st": "30/03/2020 22:30",
-      "matricula": "FAM3527",
-      "posicion": "17B",
-      "et": "30/3/2020 19:20",
-      "at": "30/3/2020 19:17",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "008",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "148"
     },
     {
       "tipo": "arribo",
