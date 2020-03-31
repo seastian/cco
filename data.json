@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/03/2020 06:51",
+  "lastUpdate": "31/03/2020 06:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -605,6 +605,25 @@
       "chkTo": "218",
       "puerta": "14",
       "ruta": "CDG",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "OS",
+      "vuelo": "1030",
+      "st": "31/03/2020 18:55",
+      "matricula": "",
+      "posicion": "05",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "062",
+      "chkTo": "071",
+      "puerta": "04",
+      "ruta": "VIE",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
