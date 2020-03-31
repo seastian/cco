@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/03/2020 05:48",
+  "lastUpdate": "31/03/2020 05:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -114,25 +114,6 @@
       "remark": "HOR",
       "sanidad": "NO",
       "pax": "5"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "FAE",
-      "vuelo": "3528",
-      "st": "30/03/2020 23:00",
-      "matricula": "FAM3528",
-      "posicion": "17A",
-      "et": "30/3/2020 18:00",
-      "at": "30/3/2020 17:51",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "HUX",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "153"
     },
     {
       "tipo": "arribo",
