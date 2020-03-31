@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/03/2020 09:12",
+  "lastUpdate": "31/03/2020 09:18",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -93,25 +93,6 @@
       "ruta": "SCL",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1101",
-      "st": "30/03/2020 21:20",
-      "matricula": "CCCZZ",
-      "posicion": "54",
-      "et": "",
-      "at": "30/3/2020 21:16",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -408,7 +389,7 @@
       "matricula": "CXCLS",
       "posicion": "59",
       "et": "",
-      "at": "",
+      "at": "31/3/2020 09:14",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -416,7 +397,7 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "CON",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
