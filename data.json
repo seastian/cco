@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "31/03/2020 09:44",
+  "lastUpdate": "31/03/2020 09:50",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "MP",
-      "vuelo": "6912",
-      "st": "31/03/2020 10:05",
-      "matricula": "PHCKA",
-      "posicion": "54",
-      "et": "31/3/2020 09:50",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "AMS",
-      "via": "VCP",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AOG",
@@ -95,25 +76,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "JWC",
-      "st": "30/03/2020 21:20",
-      "matricula": "HBJWC",
-      "posicion": "37",
-      "et": "30/3/2020 21:40",
-      "at": "30/3/2020 21:45",
-      "term": "FBO",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "NAT",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -225,6 +187,25 @@
       "lF": "",
       "ruta": "MVD",
       "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "MP",
+      "vuelo": "6912",
+      "st": "31/03/2020 10:05",
+      "matricula": "PHCKA",
+      "posicion": "54",
+      "et": "31/3/2020 09:50",
+      "at": "31/3/2020 09:46",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "AMS",
+      "via": "VCP",
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
