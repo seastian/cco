@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/03/2020 19:06",
+  "lastUpdate": "31/03/2020 19:13",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -388,7 +388,7 @@
       "st": "31/03/2020 18:55",
       "matricula": "OELPA",
       "posicion": "05",
-      "et": "",
+      "et": "31/3/2020 20:30",
       "at": "",
       "term": "A",
       "sector": "AP",
@@ -397,7 +397,7 @@
       "puerta": "04",
       "ruta": "VIE",
       "via": "",
-      "remark": "CON",
+      "remark": "DEM",
       "sanidad": "NO"
     },
     {
