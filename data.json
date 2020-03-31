@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/03/2020 02:16",
+  "lastUpdate": "31/03/2020 02:23",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -662,6 +662,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "FDO",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AF",
+      "vuelo": "4081",
+      "st": "31/03/2020 14:20",
+      "matricula": "FGZNN",
+      "posicion": "11",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "211",
+      "chkTo": "218",
+      "puerta": "14",
+      "ruta": "CDG",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
