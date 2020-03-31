@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/03/2020 09:25",
+  "lastUpdate": "31/03/2020 09:31",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -416,6 +416,25 @@
       "puerta": "",
       "ruta": "VCP",
       "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "424",
+      "st": "31/03/2020 12:00",
+      "matricula": "CXCLS",
+      "posicion": "59",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
+      "via": "",
       "remark": "HOR",
       "sanidad": "NO"
     },
@@ -434,25 +453,6 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "ASU",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "424",
-      "st": "31/03/2020 12:00",
-      "matricula": "CXCLS",
-      "posicion": "59",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
