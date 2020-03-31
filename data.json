@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/03/2020 11:39",
+  "lastUpdate": "31/03/2020 11:45",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -42,8 +42,8 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "8490",
-      "st": "30/03/2020 23:45",
+      "vuelo": "8492",
+      "st": "31/03/2020 23:45",
       "matricula": "",
       "posicion": "",
       "et": "",
@@ -54,7 +54,7 @@
       "lF": "",
       "ruta": "VCP",
       "via": "",
-      "remark": "CON",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
