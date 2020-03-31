@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/03/2020 09:57",
+  "lastUpdate": "31/03/2020 10:03",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -487,8 +487,8 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "211",
-      "chkTo": "218",
+      "chkFrom": "201",
+      "chkTo": "220",
       "puerta": "14",
       "ruta": "CDG",
       "via": "",
