@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "31/03/2020 05:35",
+  "lastUpdate": "31/03/2020 05:41",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "QR",
-      "vuelo": "8157",
-      "st": "31/03/2020 03:00",
-      "matricula": "A7BFE",
-      "posicion": "54",
-      "et": "31/3/2020 05:42",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "DOH",
-      "via": "GRU",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "M3",
@@ -283,6 +264,25 @@
       "ruta": "MIA",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "QR",
+      "vuelo": "8157",
+      "st": "31/03/2020 03:00",
+      "matricula": "A7BFE",
+      "posicion": "54",
+      "et": "31/3/2020 05:42",
+      "at": "31/3/2020 05:37",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "DOH",
+      "via": "GRU",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
