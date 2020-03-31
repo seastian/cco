@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/03/2020 00:02",
+  "lastUpdate": "31/03/2020 00:09",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -682,6 +682,25 @@
       "puerta": "",
       "ruta": "ASU",
       "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "MP",
+      "vuelo": "6912",
+      "st": "31/03/2020 12:05",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "AMS",
+      "via": "UIO",
       "remark": "HOR",
       "sanidad": "NO"
     }
