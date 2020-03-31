@@ -1,12 +1,12 @@
 {
-  "lastUpdate": "31/03/2020 19:45",
+  "lastUpdate": "31/03/2020 19:51",
   "vuelos": [
     {
       "tipo": "arribo",
       "aerolinea": "M3",
       "vuelo": "8492",
       "st": "31/03/2020 23:45",
-      "matricula": "",
+      "matricula": "PRABB",
       "posicion": "",
       "et": "",
       "at": "",
