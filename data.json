@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/03/2020 20:23",
+  "lastUpdate": "31/03/2020 20:29",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -340,7 +340,7 @@
       "puerta": "04",
       "ruta": "VIE",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -359,7 +359,7 @@
       "puerta": "04",
       "ruta": "VIE",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
