@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/03/2020 12:56",
+  "lastUpdate": "31/03/2020 13:02",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -370,7 +370,7 @@
       "matricula": "LVFWT",
       "posicion": "40",
       "et": "",
-      "at": "",
+      "at": "31/3/2020 12:45",
       "term": "FBO",
       "sector": "",
       "chkFrom": "",
@@ -378,7 +378,7 @@
       "puerta": "",
       "ruta": "FDO",
       "via": "",
-      "remark": "HOR",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -441,7 +441,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24",
+      "vuelo": "H24N",
       "st": "31/03/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -449,7 +449,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "209",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -460,7 +460,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
+      "vuelo": "H24",
       "st": "31/03/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -468,7 +468,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
