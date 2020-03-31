@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/03/2020 07:49",
+  "lastUpdate": "31/03/2020 07:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -25,9 +25,9 @@
       "aerolinea": "MP",
       "vuelo": "6912",
       "st": "31/03/2020 10:05",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
+      "matricula": "PHCKA",
+      "posicion": "54",
+      "et": "31/3/2020 09:50",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -35,7 +35,7 @@
       "lF": "",
       "ruta": "AMS",
       "via": "VCP",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -500,9 +500,9 @@
       "aerolinea": "MP",
       "vuelo": "6912",
       "st": "31/03/2020 12:05",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
+      "matricula": "PHCKA",
+      "posicion": "54",
+      "et": "31/3/2020 12:40",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -511,7 +511,7 @@
       "puerta": "",
       "ruta": "AMS",
       "via": "UIO",
-      "remark": "HOR",
+      "remark": "DEM",
       "sanidad": "NO"
     },
     {
