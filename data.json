@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/03/2020 01:51",
+  "lastUpdate": "31/03/2020 01:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -133,25 +133,6 @@
       "remark": "HOR",
       "sanidad": "NO",
       "pax": "5"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "IVC",
-      "st": "30/03/2020 14:00",
-      "matricula": "LVIVC",
-      "posicion": "41",
-      "et": "",
-      "at": "30/3/2020 13:56",
-      "term": "FBO",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "CRD",
-      "via": "BHI",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "1"
     },
     {
       "tipo": "arribo",
