@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/03/2020 17:30",
+  "lastUpdate": "31/03/2020 17:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -8,7 +8,7 @@
       "st": "31/03/2020 17:55",
       "matricula": "OELPA",
       "posicion": "05",
-      "et": "",
+      "et": "31/3/2020 19:26",
       "at": "",
       "term": "A",
       "sector": "",
@@ -16,7 +16,7 @@
       "lF": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "",
+      "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
     },
@@ -112,25 +112,6 @@
       "ruta": "MIA",
       "via": "SCL",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "QR",
-      "vuelo": "8157",
-      "st": "31/03/2020 03:00",
-      "matricula": "A7BFE",
-      "posicion": "54",
-      "et": "31/3/2020 05:42",
-      "at": "31/3/2020 05:37",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "DOH",
-      "via": "GRU",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
