@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/03/2020 15:29",
+  "lastUpdate": "31/03/2020 15:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -383,7 +383,7 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "OS",
+      "aerolinea": "LH",
       "vuelo": "1030",
       "st": "31/03/2020 18:55",
       "matricula": "OELPA",
@@ -402,7 +402,7 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "LH",
+      "aerolinea": "OS",
       "vuelo": "1030",
       "st": "31/03/2020 18:55",
       "matricula": "OELPA",
@@ -491,6 +491,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "SCL",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1404",
+      "st": "01/04/2020 03:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "LAX",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
