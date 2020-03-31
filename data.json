@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/03/2020 20:10",
+  "lastUpdate": "31/03/2020 20:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -26,7 +26,7 @@
       "vuelo": "8551",
       "st": "01/04/2020 00:20",
       "matricula": "SPLSD",
-      "posicion": "",
+      "posicion": "10",
       "et": "",
       "at": "",
       "term": "A",
