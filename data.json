@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/04/2020 06:04",
+  "lastUpdate": "01/04/2020 06:11",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -321,7 +321,7 @@
       "puerta": "",
       "ruta": "DOH",
       "via": "UIO",
-      "remark": "DEM",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
