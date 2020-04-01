@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/04/2020 18:44",
+  "lastUpdate": "01/04/2020 18:51",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -313,7 +313,7 @@
       "matricula": "SPLSD",
       "posicion": "10",
       "et": "1/4/2020 17:20",
-      "at": "",
+      "at": "1/4/2020 18:51",
       "term": "A",
       "sector": "AP",
       "chkFrom": "001",
@@ -321,7 +321,7 @@
       "puerta": "10",
       "ruta": "WAW",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
