@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/04/2020 15:07",
+  "lastUpdate": "01/04/2020 15:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -364,6 +364,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "8491",
+      "st": "01/04/2020 15:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "VCP",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "LO",
       "vuelo": "8552",
       "st": "01/04/2020 14:20",
@@ -379,25 +398,6 @@
       "ruta": "WAW",
       "via": "",
       "remark": "DEM",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "M3",
-      "vuelo": "8491",
-      "st": "01/04/2020 15:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "HOR",
       "sanidad": "NO"
     },
     {
