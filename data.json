@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/04/2020 03:44",
+  "lastUpdate": "01/04/2020 03:50",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -160,15 +160,15 @@
       "st": "01/04/2020 03:00",
       "matricula": "A7BFU",
       "posicion": "54",
-      "et": "1/4/2020 03:30",
-      "at": "",
+      "et": "",
+      "at": "1/4/2020 03:47",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "DOH",
       "via": "GRU",
-      "remark": "DEM",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
     },
