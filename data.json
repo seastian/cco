@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/04/2020 12:28",
+  "lastUpdate": "01/04/2020 12:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -359,7 +359,7 @@
       "puerta": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -370,7 +370,7 @@
       "matricula": "CXCLS",
       "posicion": "54B",
       "et": "",
-      "at": "",
+      "at": "1/4/2020 12:31",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -378,7 +378,7 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -478,6 +478,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "H24N",
+      "st": "01/04/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "209",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "QTR",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "JJ",
       "vuelo": "H24",
       "st": "01/04/2020 23:59",
@@ -497,19 +516,19 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "H24N",
-      "st": "01/04/2020 23:59",
+      "aerolinea": "CU",
+      "vuelo": "9361",
+      "st": "02/04/2020 00:30",
       "matricula": "",
       "posicion": "",
       "et": "",
       "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "209",
-      "chkTo": "240",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "083",
+      "chkTo": "088",
       "puerta": "",
-      "ruta": "QTR",
+      "ruta": "HAV",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
