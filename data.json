@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/04/2020 08:12",
+  "lastUpdate": "01/04/2020 08:18",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -402,25 +402,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "LO",
-      "vuelo": "8552",
-      "st": "01/04/2020 14:20",
-      "matricula": "SPLSD",
-      "posicion": "10",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "076",
-      "chkTo": "081",
-      "puerta": "10",
-      "ruta": "WAW",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "M3",
       "vuelo": "8491",
       "st": "01/04/2020 15:10",
@@ -436,6 +417,25 @@
       "ruta": "VCP",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LO",
+      "vuelo": "8552",
+      "st": "01/04/2020 14:20",
+      "matricula": "SPLSD",
+      "posicion": "10",
+      "et": "1/4/2020 17:20",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "076",
+      "chkTo": "081",
+      "puerta": "10",
+      "ruta": "WAW",
+      "via": "",
+      "remark": "DEM",
       "sanidad": "NO"
     }
   ]
