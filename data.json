@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "01/04/2020 04:41",
+  "lastUpdate": "01/04/2020 04:47",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "5X",
-      "vuelo": "414",
-      "st": "01/04/2020 05:12",
-      "matricula": "N340UP",
-      "posicion": "56",
-      "et": "1/4/2020 04:43",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "SCL",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AOG",
@@ -171,6 +152,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "5X",
+      "vuelo": "414",
+      "st": "01/04/2020 05:12",
+      "matricula": "N340UP",
+      "posicion": "56",
+      "et": "1/4/2020 04:43",
+      "at": "1/4/2020 04:43",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "SCL",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "partida",
