@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/04/2020 00:57",
+  "lastUpdate": "01/04/2020 01:04",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -61,25 +61,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "AOG",
-      "vuelo": "423",
-      "st": "01/04/2020 11:30",
-      "matricula": "CXCLS",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AOG",
       "vuelo": "501",
       "st": "01/04/2020 11:30",
       "matricula": "CXLSS",
@@ -91,6 +72,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "ASU",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AOG",
+      "vuelo": "423",
+      "st": "01/04/2020 11:30",
+      "matricula": "CXCLS",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MVD",
       "via": "",
       "remark": "",
       "sanidad": "NO",
