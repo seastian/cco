@@ -1,12 +1,12 @@
 {
-  "lastUpdate": "01/04/2020 18:25",
+  "lastUpdate": "01/04/2020 18:32",
   "vuelos": [
     {
       "tipo": "arribo",
       "aerolinea": "LP",
       "vuelo": "2531",
       "st": "01/04/2020 20:40",
-      "matricula": "",
+      "matricula": "CCBFG",
       "posicion": "",
       "et": "",
       "at": "",
@@ -18,7 +18,7 @@
       "via": "IQQ",
       "remark": "",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "156"
     },
     {
       "tipo": "arribo",
@@ -44,7 +44,7 @@
       "aerolinea": "M3",
       "vuelo": "8492",
       "st": "01/04/2020 23:45",
-      "matricula": "",
+      "matricula": "PRACO",
       "posicion": "",
       "et": "",
       "at": "",
@@ -445,7 +445,7 @@
       "st": "02/04/2020 02:00",
       "matricula": "PRACO",
       "posicion": "",
-      "et": "",
+      "et": "2/4/2020 01:07",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -454,7 +454,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "EST",
       "sanidad": "NO"
     },
     {
