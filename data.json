@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/04/2020 08:25",
+  "lastUpdate": "01/04/2020 08:31",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -436,6 +436,25 @@
       "ruta": "WAW",
       "via": "",
       "remark": "DEM",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LH",
+      "vuelo": "349",
+      "st": "01/04/2020 20:30",
+      "matricula": "DABYL",
+      "posicion": "09",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "027",
+      "chkTo": "040",
+      "puerta": "09",
+      "ruta": "FRA",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     }
   ]
