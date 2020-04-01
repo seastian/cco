@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/04/2020 15:46",
+  "lastUpdate": "01/04/2020 15:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -114,25 +114,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "QR",
-      "vuelo": "8155",
-      "st": "01/04/2020 03:00",
-      "matricula": "A7BFU",
-      "posicion": "54",
-      "et": "",
-      "at": "1/4/2020 03:47",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "DOH",
-      "via": "GRU",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
