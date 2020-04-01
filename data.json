@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/03/2020 22:24",
+  "lastUpdate": "31/03/2020 22:31",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -474,6 +474,25 @@
       "ruta": "GYE",
       "via": "",
       "remark": "DEM",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "PRV",
+      "vuelo": "JWC",
+      "st": "01/04/2020 10:30",
+      "matricula": "HBJWC",
+      "posicion": "37",
+      "et": "",
+      "at": "",
+      "term": "FBO",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "NAT",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     }
   ]
