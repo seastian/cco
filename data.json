@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/04/2020 19:04",
+  "lastUpdate": "01/04/2020 19:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -13,7 +13,7 @@
       "term": "A",
       "sector": "",
       "cinta": "8",
-      "lF": "",
+      "lF": "007",
       "ruta": "CUZ",
       "via": "IQQ",
       "remark": "EST",
