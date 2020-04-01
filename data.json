@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/04/2020 00:00",
+  "lastUpdate": "01/04/2020 00:06",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -168,25 +168,6 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "ASU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "424",
-      "st": "31/03/2020 12:00",
-      "matricula": "CXCLS",
-      "posicion": "59",
-      "et": "",
-      "at": "31/3/2020 12:02",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
