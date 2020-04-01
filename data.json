@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/04/2020 20:08",
+  "lastUpdate": "01/04/2020 20:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -193,25 +193,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "PRV",
-      "vuelo": "JWC",
-      "st": "01/04/2020 10:30",
-      "matricula": "HBJWC",
-      "posicion": "37",
-      "et": "",
-      "at": "1/4/2020 11:05",
-      "term": "FBO",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "NAT",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "FAE",
       "vuelo": "3527",
       "st": "01/04/2020 08:00",
@@ -225,6 +206,25 @@
       "chkTo": "206",
       "puerta": "12",
       "ruta": "GYE",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "PRV",
+      "vuelo": "JWC",
+      "st": "01/04/2020 10:30",
+      "matricula": "HBJWC",
+      "posicion": "37",
+      "et": "",
+      "at": "1/4/2020 11:05",
+      "term": "FBO",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "NAT",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -351,7 +351,7 @@
       "matricula": "DABYL",
       "posicion": "09",
       "et": "",
-      "at": "",
+      "at": "1/4/2020 20:13",
       "term": "A",
       "sector": "AP",
       "chkFrom": "027",
@@ -359,7 +359,7 @@
       "puerta": "08",
       "ruta": "FRA",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
