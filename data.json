@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/04/2020 18:57",
+  "lastUpdate": "01/04/2020 19:04",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,16 +7,16 @@
       "vuelo": "2531",
       "st": "01/04/2020 20:40",
       "matricula": "CCBFG",
-      "posicion": "",
-      "et": "",
+      "posicion": "02",
+      "et": "1/4/2020 20:15",
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
+      "cinta": "8",
       "lF": "",
       "ruta": "CUZ",
       "via": "IQQ",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": "156"
     },
