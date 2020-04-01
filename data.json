@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/03/2020 23:15",
+  "lastUpdate": "31/03/2020 23:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -74,25 +74,6 @@
       "ruta": "MIA",
       "via": "SCL",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "501",
-      "st": "31/03/2020 11:30",
-      "matricula": "CXLSS",
-      "posicion": "60",
-      "et": "",
-      "at": "31/3/2020 11:22",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
