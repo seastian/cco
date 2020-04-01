@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/04/2020 16:37",
+  "lastUpdate": "01/04/2020 16:43",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -112,25 +112,6 @@
       "ruta": "FRA",
       "via": "MVD",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "5X",
-      "vuelo": "414",
-      "st": "01/04/2020 05:12",
-      "matricula": "N340UP",
-      "posicion": "56",
-      "et": "1/4/2020 04:43",
-      "at": "1/4/2020 04:43",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "SCL",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
