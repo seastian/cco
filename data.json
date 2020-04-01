@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/04/2020 06:49",
+  "lastUpdate": "01/04/2020 06:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -208,25 +208,6 @@
       "ruta": "VIE",
       "via": "",
       "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LH",
-      "vuelo": "1030",
-      "st": "31/03/2020 18:55",
-      "matricula": "OELPA",
-      "posicion": "05",
-      "et": "31/3/2020 20:30",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "059",
-      "chkTo": "067",
-      "puerta": "04",
-      "ruta": "VIE",
-      "via": "",
-      "remark": "CER",
       "sanidad": "NO"
     },
     {
