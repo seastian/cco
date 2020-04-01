@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/04/2020 06:17",
+  "lastUpdate": "01/04/2020 06:23",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -356,7 +356,7 @@
       "sector": "CPI",
       "chkFrom": "201",
       "chkTo": "206",
-      "puerta": "",
+      "puerta": "12",
       "ruta": "GYE",
       "via": "",
       "remark": "DEM",
@@ -375,7 +375,7 @@
       "sector": "CPI",
       "chkFrom": "201",
       "chkTo": "206",
-      "puerta": "",
+      "puerta": "13",
       "ruta": "LIM",
       "via": "",
       "remark": "DEM",
