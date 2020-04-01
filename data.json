@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/04/2020 02:40",
+  "lastUpdate": "01/04/2020 02:46",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -187,25 +187,6 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AF",
-      "vuelo": "4081",
-      "st": "31/03/2020 14:20",
-      "matricula": "FGZNN",
-      "posicion": "11",
-      "et": "",
-      "at": "31/3/2020 14:41",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "201",
-      "chkTo": "220",
-      "puerta": "14",
-      "ruta": "CDG",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
