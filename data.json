@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/04/2020 17:15",
+  "lastUpdate": "01/04/2020 17:21",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -93,6 +93,25 @@
       "ruta": "FRA",
       "via": "MVD",
       "remark": "EST",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "5X",
+      "vuelo": "410",
+      "st": "02/04/2020 05:20",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "SCL",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
