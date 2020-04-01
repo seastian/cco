@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/04/2020 18:32",
+  "lastUpdate": "01/04/2020 18:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -190,25 +190,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "5X",
-      "vuelo": "415",
-      "st": "01/04/2020 06:55",
-      "matricula": "N340UP",
-      "posicion": "56",
-      "et": "",
-      "at": "1/4/2020 06:38",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MIA",
-      "via": "VCP",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
