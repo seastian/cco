@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/04/2020 06:11",
+  "lastUpdate": "01/04/2020 06:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -313,7 +313,7 @@
       "matricula": "A7BFU",
       "posicion": "54",
       "et": "1/4/2020 05:20",
-      "at": "",
+      "at": "1/4/2020 06:12",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -321,7 +321,7 @@
       "puerta": "",
       "ruta": "DOH",
       "via": "UIO",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
