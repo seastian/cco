@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/04/2020 03:37",
+  "lastUpdate": "01/04/2020 03:44",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -8,7 +8,7 @@
       "st": "01/04/2020 05:12",
       "matricula": "N340UP",
       "posicion": "56",
-      "et": "",
+      "et": "1/4/2020 04:43",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -16,7 +16,7 @@
       "lF": "",
       "ruta": "MIA",
       "via": "SCL",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
