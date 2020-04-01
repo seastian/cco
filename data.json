@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/04/2020 18:38",
+  "lastUpdate": "01/04/2020 18:44",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -321,7 +321,7 @@
       "puerta": "10",
       "ruta": "WAW",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -332,7 +332,7 @@
       "matricula": "N859GT",
       "posicion": "55",
       "et": "1/4/2020 18:40",
-      "at": "",
+      "at": "1/4/2020 18:42",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -340,7 +340,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -356,7 +356,7 @@
       "sector": "AP",
       "chkFrom": "027",
       "chkTo": "040",
-      "puerta": "09",
+      "puerta": "08",
       "ruta": "FRA",
       "via": "",
       "remark": "HOR",
