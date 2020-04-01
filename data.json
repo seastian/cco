@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/04/2020 05:32",
+  "lastUpdate": "01/04/2020 05:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -454,7 +454,7 @@
       "puerta": "10",
       "ruta": "WAW",
       "via": "",
-      "remark": "",
+      "remark": "HOR",
       "sanidad": "NO"
     },
     {
