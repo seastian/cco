@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/04/2020 18:06",
+  "lastUpdate": "01/04/2020 18:13",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -190,25 +190,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "QR",
-      "vuelo": "8155",
-      "st": "01/04/2020 04:45",
-      "matricula": "A7BFU",
-      "posicion": "54",
-      "et": "1/4/2020 05:20",
-      "at": "1/4/2020 06:12",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "DOH",
-      "via": "UIO",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
