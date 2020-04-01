@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/04/2020 17:34",
+  "lastUpdate": "01/04/2020 17:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -16,25 +16,6 @@
       "lF": "",
       "ruta": "CUZ",
       "via": "IQQ",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "CU",
-      "vuelo": "9360",
-      "st": "01/04/2020 22:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "HAV",
-      "via": "",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
@@ -95,6 +76,25 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "CU",
+      "vuelo": "9360",
+      "st": "01/04/2020 22:30",
+      "matricula": "T1250",
+      "posicion": "",
+      "et": "2/4/2020 01:25",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "HAV",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": "207"
     },
     {
       "tipo": "arribo",
@@ -462,7 +462,7 @@
       "aerolinea": "CU",
       "vuelo": "9361",
       "st": "02/04/2020 00:30",
-      "matricula": "",
+      "matricula": "T1250",
       "posicion": "",
       "et": "",
       "at": "",
