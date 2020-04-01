@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/03/2020 21:20",
+  "lastUpdate": "31/03/2020 21:27",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,8 +7,8 @@
       "vuelo": "8492",
       "st": "31/03/2020 23:45",
       "matricula": "PRABB",
-      "posicion": "",
-      "et": "",
+      "posicion": "54",
+      "et": "31/3/2020 23:50",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -16,7 +16,7 @@
       "lF": "",
       "ruta": "VCP",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -349,7 +349,7 @@
       "vuelo": "8492",
       "st": "01/04/2020 02:10",
       "matricula": "PRABB",
-      "posicion": "",
+      "posicion": "54",
       "et": "1/4/2020 01:07",
       "at": "",
       "term": "TCA",
