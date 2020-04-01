@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/04/2020 10:52",
+  "lastUpdate": "01/04/2020 10:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -340,7 +340,7 @@
       "puerta": "",
       "ruta": "NAT",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -351,7 +351,7 @@
       "matricula": "FAM3527",
       "posicion": "17B",
       "et": "1/4/2020 10:30",
-      "at": "",
+      "at": "1/4/2020 10:52",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "201",
@@ -359,7 +359,7 @@
       "puerta": "12",
       "ruta": "GYE",
       "via": "",
-      "remark": "DEM",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
