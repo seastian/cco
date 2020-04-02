@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "02/04/2020 01:14",
+  "lastUpdate": "02/04/2020 01:21",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "CU",
-      "vuelo": "9360",
-      "st": "01/04/2020 22:30",
-      "matricula": "T1250",
-      "posicion": "05",
-      "et": "2/4/2020 01:25",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "HAV",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": "207"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "5X",
@@ -209,6 +190,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "CU",
+      "vuelo": "9360",
+      "st": "01/04/2020 22:30",
+      "matricula": "T1250",
+      "posicion": "05",
+      "et": "2/4/2020 01:25",
+      "at": "2/4/2020 01:20",
+      "term": "A",
+      "sector": "",
+      "cinta": "3",
+      "lF": "001",
+      "ruta": "HAV",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "207"
     },
     {
       "tipo": "partida",
