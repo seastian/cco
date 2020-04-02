@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/04/2020 16:54",
+  "lastUpdate": "02/04/2020 17:00",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -149,6 +149,25 @@
       "lF": "",
       "ruta": "DOH",
       "via": "GRU",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "WG",
+      "vuelo": "2101",
+      "st": "03/04/2020 05:00",
+      "matricula": "N415JN",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "MVD",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
