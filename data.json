@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/04/2020 09:52",
+  "lastUpdate": "02/04/2020 09:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -512,6 +512,25 @@
       "ruta": "VCP",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LH",
+      "vuelo": "8267",
+      "st": "02/04/2020 21:55",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "FRA",
+      "via": "VCP",
+      "remark": "",
       "sanidad": "NO"
     }
   ]
