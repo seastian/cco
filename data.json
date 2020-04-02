@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/04/2020 10:11",
+  "lastUpdate": "02/04/2020 10:18",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,8 +7,8 @@
       "vuelo": "423",
       "st": "02/04/2020 11:30",
       "matricula": "CXCLS",
-      "posicion": "59",
-      "et": "",
+      "posicion": "54B",
+      "et": "2/4/2020 11:30",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -16,7 +16,7 @@
       "lF": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -26,8 +26,8 @@
       "vuelo": "501",
       "st": "02/04/2020 11:30",
       "matricula": "CXLSS",
-      "posicion": "57",
-      "et": "",
+      "posicion": "54A",
+      "et": "2/4/2020 11:30",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -35,7 +35,7 @@
       "lF": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -454,7 +454,7 @@
       "puerta": "01",
       "ruta": "LIM",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -463,7 +463,7 @@
       "vuelo": "500",
       "st": "02/04/2020 12:30",
       "matricula": "CXLSS",
-      "posicion": "57",
+      "posicion": "54A",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -482,7 +482,7 @@
       "vuelo": "424",
       "st": "02/04/2020 13:00",
       "matricula": "CXCLS",
-      "posicion": "59",
+      "posicion": "54B",
       "et": "",
       "at": "",
       "term": "TCA",
