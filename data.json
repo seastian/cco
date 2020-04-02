@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/04/2020 01:27",
+  "lastUpdate": "02/04/2020 01:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -364,6 +364,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "AMS",
+      "vuelo": "7119",
+      "st": "02/04/2020 01:30",
+      "matricula": "CXMAS",
+      "posicion": "60",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "CU",
       "vuelo": "9361",
       "st": "02/04/2020 00:30",
@@ -379,25 +398,6 @@
       "ruta": "HAV",
       "via": "",
       "remark": "DEM",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AMS",
-      "vuelo": "7119",
-      "st": "02/04/2020 01:30",
-      "matricula": "CXMAS",
-      "posicion": "60",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "HOR",
       "sanidad": "NO"
     },
     {
