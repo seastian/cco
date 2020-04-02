@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/04/2020 03:41",
+  "lastUpdate": "02/04/2020 03:48",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -427,7 +427,7 @@
       "matricula": "T1250",
       "posicion": "05",
       "et": "2/4/2020 03:25",
-      "at": "",
+      "at": "2/4/2020 03:47",
       "term": "A",
       "sector": "AP",
       "chkFrom": "083",
@@ -435,7 +435,7 @@
       "puerta": "04",
       "ruta": "HAV",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
