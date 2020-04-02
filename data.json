@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/04/2020 00:36",
+  "lastUpdate": "02/04/2020 00:42",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -209,25 +209,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "500",
-      "st": "01/04/2020 12:00",
-      "matricula": "CXLSS",
-      "posicion": "54A",
-      "et": "",
-      "at": "1/4/2020 12:37",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
