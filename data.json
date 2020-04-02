@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/04/2020 06:28",
+  "lastUpdate": "02/04/2020 06:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -427,7 +427,7 @@
       "matricula": "N332UP",
       "posicion": "55",
       "et": "",
-      "at": "",
+      "at": "2/4/2020 06:33",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -435,7 +435,7 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "VCP",
-      "remark": "HOR",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
