@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/04/2020 15:43",
+  "lastUpdate": "02/04/2020 15:50",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -266,25 +266,6 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "CU",
-      "vuelo": "9361",
-      "st": "02/04/2020 00:30",
-      "matricula": "T1250",
-      "posicion": "05",
-      "et": "2/4/2020 03:25",
-      "at": "2/4/2020 03:47",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "083",
-      "chkTo": "089",
-      "puerta": "04",
-      "ruta": "HAV",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
