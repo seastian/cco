@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/04/2020 10:24",
+  "lastUpdate": "02/04/2020 10:30",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -139,6 +139,25 @@
       "aerolinea": "UC",
       "vuelo": "1405",
       "st": "02/04/2020 22:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "UC",
+      "vuelo": "1104",
+      "st": "02/04/2020 22:30",
       "matricula": "",
       "posicion": "",
       "et": "",
