@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/04/2020 04:07",
+  "lastUpdate": "02/04/2020 04:13",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -441,10 +441,29 @@
     {
       "tipo": "partida",
       "aerolinea": "5X",
-      "vuelo": "411",
+      "vuelo": "414",
       "st": "02/04/2020 06:55",
       "matricula": "N332UP",
-      "posicion": "55",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
+      "via": "VCP",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "5X",
+      "vuelo": "411",
+      "st": "02/04/2020 06:55",
+      "matricula": "",
+      "posicion": "",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -517,7 +536,7 @@
     {
       "tipo": "partida",
       "aerolinea": "M3",
-      "vuelo": "8493",
+      "vuelo": "8440",
       "st": "02/04/2020 15:10",
       "matricula": "",
       "posicion": "",
@@ -536,7 +555,7 @@
     {
       "tipo": "partida",
       "aerolinea": "M3",
-      "vuelo": "8440",
+      "vuelo": "8493",
       "st": "02/04/2020 15:10",
       "matricula": "",
       "posicion": "",
