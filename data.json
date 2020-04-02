@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/04/2020 08:16",
+  "lastUpdate": "02/04/2020 08:23",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -133,25 +133,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LP",
-      "vuelo": "2531",
-      "st": "01/04/2020 20:40",
-      "matricula": "CCBFG",
-      "posicion": "02",
-      "et": "1/4/2020 20:15",
-      "at": "1/4/2020 20:17",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "007",
-      "ruta": "CUZ",
-      "via": "IQQ",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "156"
     },
     {
       "tipo": "arribo",
