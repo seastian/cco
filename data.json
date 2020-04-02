@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/04/2020 06:47",
+  "lastUpdate": "02/04/2020 06:53",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -228,25 +228,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LO",
-      "vuelo": "8552",
-      "st": "01/04/2020 14:20",
-      "matricula": "SPLSD",
-      "posicion": "10",
-      "et": "1/4/2020 17:20",
-      "at": "1/4/2020 18:51",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "001",
-      "chkTo": "006",
-      "puerta": "10",
-      "ruta": "WAW",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
