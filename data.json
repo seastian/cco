@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/04/2020 10:56",
+  "lastUpdate": "02/04/2020 11:02",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -169,25 +169,6 @@
       "ruta": "MIA",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "GG",
-      "vuelo": "551",
-      "st": "01/04/2020 23:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
