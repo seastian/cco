@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/04/2020 09:46",
+  "lastUpdate": "02/04/2020 09:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -426,7 +426,7 @@
       "st": "02/04/2020 10:00",
       "matricula": "CCBFG",
       "posicion": "02",
-      "et": "",
+      "et": "2/4/2020 10:15",
       "at": "",
       "term": "A",
       "sector": "",
@@ -435,7 +435,7 @@
       "puerta": "01",
       "ruta": "LIM",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
