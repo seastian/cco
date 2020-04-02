@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/04/2020 10:05",
+  "lastUpdate": "02/04/2020 10:11",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -445,7 +445,7 @@
       "st": "02/04/2020 10:00",
       "matricula": "CCBFG",
       "posicion": "02",
-      "et": "2/4/2020 10:15",
+      "et": "2/4/2020 10:35",
       "at": "",
       "term": "A",
       "sector": "",
