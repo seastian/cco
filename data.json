@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/04/2020 16:41",
+  "lastUpdate": "02/04/2020 16:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -492,6 +492,25 @@
       "puerta": "",
       "ruta": "BOG",
       "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "QR",
+      "vuelo": "8312",
+      "st": "03/04/2020 04:45",
+      "matricula": "A7BFH",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "DOH",
+      "via": "UIO",
       "remark": "HOR",
       "sanidad": "NO"
     }
