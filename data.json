@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/04/2020 14:59",
+  "lastUpdate": "02/04/2020 15:05",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -149,6 +149,25 @@
       "lF": "",
       "ruta": "BOG",
       "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "QR",
+      "vuelo": "8157",
+      "st": "03/04/2020 03:00",
+      "matricula": "A7BFH",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "DOH",
+      "via": "GRU",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
