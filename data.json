@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/04/2020 13:42",
+  "lastUpdate": "02/04/2020 13:48",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -359,7 +359,7 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
