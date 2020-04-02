@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "02/04/2020 19:46",
+  "lastUpdate": "02/04/2020 19:52",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "2D",
-      "vuelo": "889",
-      "st": "02/04/2020 20:40",
-      "matricula": "N700KW",
-      "posicion": "09",
-      "et": "2/4/2020 19:50",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "136"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "IB",
@@ -304,6 +285,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "2D",
+      "vuelo": "889",
+      "st": "02/04/2020 20:40",
+      "matricula": "N700KW",
+      "posicion": "09",
+      "et": "2/4/2020 19:50",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "009",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "136"
     },
     {
       "tipo": "partida",
