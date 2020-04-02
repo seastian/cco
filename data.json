@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/04/2020 13:16",
+  "lastUpdate": "02/04/2020 13:23",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -152,25 +152,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "CU",
-      "vuelo": "9360",
-      "st": "01/04/2020 22:30",
-      "matricula": "T1250",
-      "posicion": "05",
-      "et": "2/4/2020 01:25",
-      "at": "2/4/2020 01:20",
-      "term": "A",
-      "sector": "",
-      "cinta": "3",
-      "lF": "001",
-      "ruta": "HAV",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "207"
     },
     {
       "tipo": "arribo",
@@ -359,7 +340,7 @@
       "puerta": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
