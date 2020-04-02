@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/04/2020 11:34",
+  "lastUpdate": "02/04/2020 11:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -136,25 +136,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "LH",
-      "vuelo": "8264",
-      "st": "02/04/2020 00:40",
-      "matricula": "DALCI",
-      "posicion": "54",
-      "et": "1/4/2020 23:43",
-      "at": "1/4/2020 23:39",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "FRA",
-      "via": "MVD",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AMS",
       "vuelo": "8119",
       "st": "02/04/2020 00:05",
@@ -237,14 +218,14 @@
       "matricula": "CXLSS",
       "posicion": "54A",
       "et": "2/4/2020 11:30",
-      "at": "",
+      "at": "2/4/2020 11:40",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
