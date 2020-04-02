@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/04/2020 17:57",
+  "lastUpdate": "02/04/2020 18:04",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -205,6 +205,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "BOG",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "DL",
+      "vuelo": " 8834",
+      "st": "03/04/2020 06:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "ATL",
       "via": "",
       "remark": "",
       "sanidad": "NO",
