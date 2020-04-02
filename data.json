@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/04/2020 21:56",
+  "lastUpdate": "01/04/2020 22:03",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -511,6 +511,25 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "VCP",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LP",
+      "vuelo": "2524",
+      "st": "02/04/2020 10:00",
+      "matricula": "CCBFG",
+      "posicion": "02",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "01",
+      "ruta": "LIM",
+      "via": "",
       "remark": "HOR",
       "sanidad": "NO"
     }
