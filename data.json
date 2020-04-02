@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/04/2020 14:20",
+  "lastUpdate": "02/04/2020 14:27",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -63,7 +63,7 @@
       "aerolinea": "LH",
       "vuelo": "8266",
       "st": "02/04/2020 20:10",
-      "matricula": "",
+      "matricula": "DALCK",
       "posicion": "",
       "et": "",
       "at": "",
@@ -250,25 +250,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "LH",
-      "vuelo": "8265",
-      "st": "02/04/2020 02:10",
-      "matricula": "DALCI",
-      "posicion": "54",
-      "et": "",
-      "at": "2/4/2020 02:24",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "FRA",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "CU",
       "vuelo": "9361",
       "st": "02/04/2020 00:30",
@@ -405,7 +386,7 @@
       "aerolinea": "LH",
       "vuelo": "8267",
       "st": "02/04/2020 21:55",
-      "matricula": "",
+      "matricula": "DALCK",
       "posicion": "",
       "et": "",
       "at": "",
