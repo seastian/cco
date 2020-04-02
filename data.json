@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/04/2020 04:33",
+  "lastUpdate": "02/04/2020 04:39",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -444,7 +444,7 @@
       "vuelo": "414",
       "st": "02/04/2020 06:55",
       "matricula": "N332UP",
-      "posicion": "",
+      "posicion": "55",
       "et": "",
       "at": "",
       "term": "TCA",
