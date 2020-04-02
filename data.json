@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "02/04/2020 15:50",
+  "lastUpdate": "02/04/2020 15:56",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "2D",
-      "vuelo": "9340",
-      "st": "02/04/2020 18:47",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "2D",
