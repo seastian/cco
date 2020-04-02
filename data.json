@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/04/2020 12:57",
+  "lastUpdate": "02/04/2020 13:04",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -397,13 +397,13 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
       "tipo": "partida",
       "aerolinea": "M3",
-      "vuelo": "8440",
+      "vuelo": "8493",
       "st": "02/04/2020 15:10",
       "matricula": "",
       "posicion": "",
@@ -422,7 +422,7 @@
     {
       "tipo": "partida",
       "aerolinea": "M3",
-      "vuelo": "8493",
+      "vuelo": "8440",
       "st": "02/04/2020 15:10",
       "matricula": "",
       "posicion": "",
