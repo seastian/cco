@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/04/2020 23:19",
+  "lastUpdate": "01/04/2020 23:26",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -209,25 +209,6 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "FAE",
-      "vuelo": "3528",
-      "st": "01/04/2020 08:00",
-      "matricula": "FAM3528",
-      "posicion": "17A",
-      "et": "1/4/2020 10:45",
-      "at": "1/4/2020 11:22",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "201",
-      "chkTo": "206",
-      "puerta": "13",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
