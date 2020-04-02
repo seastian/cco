@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/04/2020 17:19",
+  "lastUpdate": "02/04/2020 17:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -187,6 +187,25 @@
       "lF": "",
       "ruta": "MIA",
       "via": "SCL",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AV",
+      "vuelo": "273",
+      "st": "03/04/2020 05:20",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "BOG",
+      "via": "",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
