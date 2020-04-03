@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/04/2020 02:54",
+  "lastUpdate": "03/04/2020 03:00",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -22,6 +22,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "5X",
+      "vuelo": "412",
+      "st": "03/04/2020 05:12",
+      "matricula": "N347UP",
+      "posicion": "56",
+      "et": "3/4/2020 04:12",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "SCL",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "QT",
       "vuelo": "4099",
       "st": "03/04/2020 02:30",
@@ -36,25 +55,6 @@
       "ruta": "BOG",
       "via": "",
       "remark": "DEM",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "5X",
-      "vuelo": "412",
-      "st": "03/04/2020 05:12",
-      "matricula": "N347UP",
-      "posicion": "56",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "SCL",
-      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
