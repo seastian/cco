@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/04/2020 22:45",
+  "lastUpdate": "02/04/2020 22:51",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -326,25 +326,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "LP",
-      "vuelo": "2524",
-      "st": "02/04/2020 10:00",
-      "matricula": "CCBFG",
-      "posicion": "02",
-      "et": "2/4/2020 10:35",
-      "at": "2/4/2020 10:48",
-      "term": "A",
-      "sector": "",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "01",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AOG",
       "vuelo": "500",
       "st": "02/04/2020 12:30",
@@ -384,7 +365,7 @@
     {
       "tipo": "partida",
       "aerolinea": "M3",
-      "vuelo": "8440",
+      "vuelo": "8493",
       "st": "02/04/2020 15:10",
       "matricula": "",
       "posicion": "",
@@ -403,7 +384,7 @@
     {
       "tipo": "partida",
       "aerolinea": "M3",
-      "vuelo": "8493",
+      "vuelo": "8440",
       "st": "02/04/2020 15:10",
       "matricula": "",
       "posicion": "",
