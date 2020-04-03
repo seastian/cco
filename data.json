@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/04/2020 19:37",
+  "lastUpdate": "03/04/2020 19:44",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -384,7 +384,7 @@
     {
       "tipo": "partida",
       "aerolinea": "M3",
-      "vuelo": "8495",
+      "vuelo": "8450",
       "st": "03/04/2020 15:10",
       "matricula": "",
       "posicion": "",
@@ -403,7 +403,7 @@
     {
       "tipo": "partida",
       "aerolinea": "M3",
-      "vuelo": "8450",
+      "vuelo": "8495",
       "st": "03/04/2020 15:10",
       "matricula": "",
       "posicion": "",
@@ -454,7 +454,7 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "DEM",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
