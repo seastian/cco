@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/04/2020 00:40",
+  "lastUpdate": "03/04/2020 00:46",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -41,29 +41,10 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "WG",
-      "vuelo": "2101",
-      "st": "03/04/2020 05:00",
-      "matricula": "N415JN",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "MVD",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "5X",
       "vuelo": "412",
       "st": "03/04/2020 05:12",
-      "matricula": "",
+      "matricula": "N347UP",
       "posicion": "",
       "et": "",
       "at": "",
@@ -673,7 +654,7 @@
       "st": "03/04/2020 08:00",
       "matricula": "N415JN",
       "posicion": "",
-      "et": "3/4/2020 17:00",
+      "et": "3/4/2020 16:30",
       "at": "",
       "term": "TCA",
       "sector": "",
