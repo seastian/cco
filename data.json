@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/04/2020 19:50",
+  "lastUpdate": "03/04/2020 19:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,7 +7,7 @@
       "vuelo": "421",
       "st": "03/04/2020 21:00",
       "matricula": "CXCLS",
-      "posicion": "",
+      "posicion": "55A",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -288,25 +288,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "QT",
-      "vuelo": "4078",
-      "st": "03/04/2020 04:00",
-      "matricula": "N335QT",
-      "posicion": "54",
-      "et": "3/4/2020 06:15",
-      "at": "3/4/2020 07:55",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "2D",
       "vuelo": "888",
       "st": "03/04/2020 11:30",
@@ -482,7 +463,7 @@
       "vuelo": "526",
       "st": "03/04/2020 22:00",
       "matricula": "CXCLS",
-      "posicion": "",
+      "posicion": "55A",
       "et": "",
       "at": "",
       "term": "TCA",
