@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/04/2020 12:49",
+  "lastUpdate": "03/04/2020 12:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -332,14 +332,14 @@
       "matricula": "CCCZZ",
       "posicion": "56",
       "et": "",
-      "at": "",
+      "at": "3/4/2020 12:54",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "CON",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
