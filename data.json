@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/04/2020 11:45",
+  "lastUpdate": "03/04/2020 11:51",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -175,6 +175,25 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
+      "vuelo": "8496",
+      "st": "03/04/2020 23:45",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "VCP",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "M3",
       "vuelo": "8494",
       "st": "02/04/2020 23:45",
       "matricula": "PRABB",
@@ -342,25 +361,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1104",
-      "st": "02/04/2020 23:50",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
