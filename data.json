@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/04/2020 03:52",
+  "lastUpdate": "03/04/2020 03:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -643,6 +643,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "VCP",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "IB",
+      "vuelo": "6856",
+      "st": "03/04/2020 15:55",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "021",
+      "chkTo": "026",
+      "puerta": "",
+      "ruta": "MAD",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
