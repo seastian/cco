@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/04/2020 13:40",
+  "lastUpdate": "03/04/2020 13:46",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -361,25 +361,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AMS",
-      "vuelo": "7119",
-      "st": "03/04/2020 01:30",
-      "matricula": "CXMAS",
-      "posicion": "57",
-      "et": "",
-      "at": "3/4/2020 01:42",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
