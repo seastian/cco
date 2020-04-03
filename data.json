@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/04/2020 00:59",
+  "lastUpdate": "03/04/2020 01:06",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -645,6 +645,25 @@
       "ruta": "MIA",
       "via": "",
       "remark": "DEM",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "424",
+      "st": "03/04/2020 13:00",
+      "matricula": "CXCLS",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     },
     {
