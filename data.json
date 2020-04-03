@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/04/2020 18:02",
+  "lastUpdate": "03/04/2020 18:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -720,6 +720,25 @@
       "puerta": "",
       "ruta": "LAX",
       "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "5X",
+      "vuelo": "413",
+      "st": "04/04/2020 06:05",
+      "matricula": "N347UP",
+      "posicion": "61",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
+      "via": "VCP",
       "remark": "HOR",
       "sanidad": "NO"
     }
