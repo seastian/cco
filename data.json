@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/04/2020 05:53",
+  "lastUpdate": "03/04/2020 06:00",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -8,7 +8,7 @@
       "st": "03/04/2020 06:00",
       "matricula": "",
       "posicion": "",
-      "et": "",
+      "et": "3/4/2020 06:11",
       "at": "",
       "term": "A",
       "sector": "",
@@ -16,9 +16,9 @@
       "lF": "",
       "ruta": "ATL",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -27,7 +27,7 @@
       "st": "03/04/2020 08:00",
       "matricula": "",
       "posicion": "",
-      "et": "",
+      "et": "3/4/2020 07:15",
       "at": "",
       "term": "A",
       "sector": "",
@@ -35,9 +35,9 @@
       "lF": "",
       "ruta": "ATL",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
