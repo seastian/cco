@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/04/2020 11:06",
+  "lastUpdate": "03/04/2020 11:13",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -26,7 +26,7 @@
       "vuelo": "1105",
       "st": "03/04/2020 12:40",
       "matricula": "CCCZZ",
-      "posicion": "",
+      "posicion": "56",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -615,7 +615,7 @@
       "vuelo": "1105",
       "st": "03/04/2020 14:00",
       "matricula": "CCCZZ",
-      "posicion": "",
+      "posicion": "56",
       "et": "",
       "at": "",
       "term": "TCA",
