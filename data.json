@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/04/2020 16:07",
+  "lastUpdate": "03/04/2020 16:13",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -187,25 +187,6 @@
       "lF": "",
       "ruta": "BOG",
       "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "5X",
-      "vuelo": "412",
-      "st": "03/04/2020 05:12",
-      "matricula": "N347UP",
-      "posicion": "56",
-      "et": "3/4/2020 04:12",
-      "at": "3/4/2020 04:09",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "SCL",
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
