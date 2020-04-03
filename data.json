@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/04/2020 19:18",
+  "lastUpdate": "03/04/2020 19:25",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -275,14 +275,14 @@
       "matricula": "CXLSS",
       "posicion": "55A",
       "et": "",
-      "at": "",
+      "at": "3/4/2020 19:24",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "CON",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -303,25 +303,6 @@
       "ruta": "BOG",
       "via": "",
       "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AV",
-      "vuelo": "272",
-      "st": "03/04/2020 07:20",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -403,7 +384,7 @@
     {
       "tipo": "partida",
       "aerolinea": "M3",
-      "vuelo": "8450",
+      "vuelo": "8495",
       "st": "03/04/2020 15:10",
       "matricula": "",
       "posicion": "",
@@ -422,7 +403,7 @@
     {
       "tipo": "partida",
       "aerolinea": "M3",
-      "vuelo": "8495",
+      "vuelo": "8450",
       "st": "03/04/2020 15:10",
       "matricula": "",
       "posicion": "",
