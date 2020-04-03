@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/04/2020 20:16",
+  "lastUpdate": "03/04/2020 20:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -45,7 +45,7 @@
       "vuelo": "340",
       "st": "03/04/2020 21:45",
       "matricula": "DABYK",
-      "posicion": "09",
+      "posicion": "16",
       "et": "3/4/2020 22:08",
       "at": "",
       "term": "A",
