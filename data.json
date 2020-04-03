@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/04/2020 06:19",
+  "lastUpdate": "03/04/2020 06:25",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -332,14 +332,14 @@
       "matricula": "N860DA",
       "posicion": "14",
       "et": "3/4/2020 06:11",
-      "at": "",
+      "at": "3/4/2020 06:20",
       "term": "A",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "ATL",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
     },
