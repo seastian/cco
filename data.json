@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/04/2020 06:57",
+  "lastUpdate": "03/04/2020 07:03",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -112,6 +112,25 @@
       "ruta": "MIA",
       "via": "MVD",
       "remark": "DEM",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AOG",
+      "vuelo": "502",
+      "st": "03/04/2020 19:00",
+      "matricula": "CXLSS",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
