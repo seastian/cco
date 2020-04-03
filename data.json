@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/04/2020 00:27",
+  "lastUpdate": "03/04/2020 00:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -624,6 +624,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "BOG",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "500",
+      "st": "03/04/2020 12:30",
+      "matricula": "CXLSS",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "ASU",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
