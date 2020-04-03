@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/04/2020 18:40",
+  "lastUpdate": "03/04/2020 18:46",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -92,7 +92,7 @@
       "lF": "",
       "ruta": "USH",
       "via": "",
-      "remark": "HOR",
+      "remark": "DEM",
       "sanidad": "NO",
       "pax": "16"
     },
