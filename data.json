@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "03/04/2020 06:06",
+  "lastUpdate": "03/04/2020 06:12",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "DL",
-      "vuelo": " 8834",
-      "st": "03/04/2020 06:00",
-      "matricula": "N860DA",
-      "posicion": "14",
-      "et": "3/4/2020 06:11",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "ATL",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "0"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "DL",
@@ -342,6 +323,25 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "DL",
+      "vuelo": " 8834",
+      "st": "03/04/2020 06:00",
+      "matricula": "N860DA",
+      "posicion": "14",
+      "et": "3/4/2020 06:11",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "ATL",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "0"
     },
     {
       "tipo": "partida",
