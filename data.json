@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/04/2020 19:57",
+  "lastUpdate": "03/04/2020 20:03",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -46,7 +46,7 @@
       "st": "03/04/2020 21:45",
       "matricula": "DABYK",
       "posicion": "09",
-      "et": "3/4/2020 22:00",
+      "et": "3/4/2020 22:08",
       "at": "",
       "term": "A",
       "sector": "",
@@ -54,9 +54,9 @@
       "lF": "009",
       "ruta": "FRA",
       "via": "",
-      "remark": "EST",
+      "remark": "DEM",
       "sanidad": "NO",
-      "pax": "334"
+      "pax": "336"
     },
     {
       "tipo": "arribo",
@@ -365,7 +365,7 @@
     {
       "tipo": "partida",
       "aerolinea": "M3",
-      "vuelo": "8450",
+      "vuelo": "8495",
       "st": "03/04/2020 15:10",
       "matricula": "",
       "posicion": "",
@@ -384,7 +384,7 @@
     {
       "tipo": "partida",
       "aerolinea": "M3",
-      "vuelo": "8495",
+      "vuelo": "8450",
       "st": "03/04/2020 15:10",
       "matricula": "",
       "posicion": "",
@@ -427,7 +427,7 @@
       "matricula": "N415JN",
       "posicion": "54",
       "et": "3/4/2020 16:30",
-      "at": "",
+      "at": "3/4/2020 19:55",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -435,7 +435,7 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -446,7 +446,7 @@
       "matricula": "CXLSS",
       "posicion": "55A",
       "et": "",
-      "at": "",
+      "at": "3/4/2020 19:57",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -454,7 +454,7 @@
       "puerta": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "HOR",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -516,25 +516,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "JJ",
-      "vuelo": "H24",
-      "st": "03/04/2020 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "",
-      "ruta": "QTR",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "H24",
       "st": "03/04/2020 23:59",
@@ -546,6 +527,25 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
+      "puerta": "",
+      "ruta": "QTR",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "JJ",
+      "vuelo": "H24",
+      "st": "03/04/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
       "puerta": "",
       "ruta": "QTR",
       "via": "",
@@ -644,6 +644,25 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "VCP",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "DL",
+      "vuelo": "8873",
+      "st": "04/04/2020 08:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "207",
+      "chkTo": "214",
+      "puerta": "",
+      "ruta": "ATL",
+      "via": "SCL",
       "remark": "HOR",
       "sanidad": "NO"
     }
