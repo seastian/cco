@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/04/2020 19:06",
+  "lastUpdate": "03/04/2020 19:12",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -292,7 +292,7 @@
       "vuelo": "502",
       "st": "03/04/2020 19:00",
       "matricula": "CXLSS",
-      "posicion": "",
+      "posicion": "55A",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -501,7 +501,7 @@
       "vuelo": "426",
       "st": "03/04/2020 20:00",
       "matricula": "CXLSS",
-      "posicion": "",
+      "posicion": "55A",
       "et": "",
       "at": "",
       "term": "TCA",
