@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/04/2020 21:07",
+  "lastUpdate": "03/04/2020 21:13",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -83,7 +83,7 @@
       "vuelo": "948P",
       "st": "03/04/2020 23:30",
       "matricula": "ECMRM",
-      "posicion": "09",
+      "posicion": "11",
       "et": "4/4/2020 00:05",
       "at": "",
       "term": "A",
@@ -275,14 +275,14 @@
       "matricula": "CXCLS",
       "posicion": "55A",
       "et": "",
-      "at": "",
+      "at": "3/4/2020 21:10",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "CON",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
