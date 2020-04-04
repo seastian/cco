@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/04/2020 17:59",
+  "lastUpdate": "04/04/2020 18:05",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -137,7 +137,7 @@
     {
       "tipo": "partida",
       "aerolinea": "M3",
-      "vuelo": "8495",
+      "vuelo": "8498",
       "st": "04/04/2020 15:10",
       "matricula": "",
       "posicion": "",
@@ -156,7 +156,7 @@
     {
       "tipo": "partida",
       "aerolinea": "M3",
-      "vuelo": "8498",
+      "vuelo": "8495",
       "st": "04/04/2020 15:10",
       "matricula": "",
       "posicion": "",
@@ -188,7 +188,7 @@
       "puerta": "09",
       "ruta": "MAD",
       "via": "CDG",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
