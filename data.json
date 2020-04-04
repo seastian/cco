@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/04/2020 00:57",
+  "lastUpdate": "04/04/2020 01:03",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -577,7 +577,7 @@
       "vuelo": "413",
       "st": "04/04/2020 06:05",
       "matricula": "N347UP",
-      "posicion": "61",
+      "posicion": "55",
       "et": "",
       "at": "",
       "term": "TCA",
