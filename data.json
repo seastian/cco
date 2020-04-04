@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/04/2020 12:40",
+  "lastUpdate": "04/04/2020 12:46",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -36,25 +36,6 @@
       "ruta": "VCP",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "9452",
-      "st": "04/04/2020 18:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
     },
@@ -308,7 +289,7 @@
     {
       "tipo": "partida",
       "aerolinea": "M3",
-      "vuelo": "8498",
+      "vuelo": "8495",
       "st": "04/04/2020 15:10",
       "matricula": "",
       "posicion": "",
@@ -327,7 +308,7 @@
     {
       "tipo": "partida",
       "aerolinea": "M3",
-      "vuelo": "8495",
+      "vuelo": "8498",
       "st": "04/04/2020 15:10",
       "matricula": "",
       "posicion": "",
@@ -360,25 +341,6 @@
       "ruta": "MAD",
       "via": "CDG",
       "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "JJ",
-      "vuelo": "9453",
-      "st": "04/04/2020 19:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "CAN",
       "sanidad": "NO"
     },
     {
@@ -422,7 +384,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24",
+      "vuelo": "H24N",
       "st": "04/04/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -430,7 +392,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "209",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -441,7 +403,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
+      "vuelo": "H24",
       "st": "04/04/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -449,7 +411,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
