@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/04/2020 06:55",
+  "lastUpdate": "04/04/2020 07:01",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -588,6 +588,25 @@
       "ruta": "MAD",
       "via": "CDG",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "JJ",
+      "vuelo": "9453",
+      "st": "04/04/2020 19:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "CAN",
       "sanidad": "NO"
     }
   ]
