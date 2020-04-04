@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/04/2020 18:57",
+  "lastUpdate": "04/04/2020 19:03",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -188,7 +188,7 @@
       "puerta": "09",
       "ruta": "MAD",
       "via": "CDG",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
