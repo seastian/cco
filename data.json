@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/04/2020 22:17",
+  "lastUpdate": "03/04/2020 22:24",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -45,7 +45,7 @@
       "vuelo": "948P",
       "st": "03/04/2020 23:30",
       "matricula": "ECMRM",
-      "posicion": "",
+      "posicion": "09",
       "et": "4/4/2020 00:05",
       "at": "",
       "term": "A",
