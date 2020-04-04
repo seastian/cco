@@ -1,14 +1,14 @@
 {
-  "lastUpdate": "04/04/2020 17:02",
+  "lastUpdate": "04/04/2020 17:08",
   "vuelos": [
     {
       "tipo": "arribo",
       "aerolinea": "AC",
       "vuelo": "7052",
       "st": "04/04/2020 19:40",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
+      "matricula": "CFIVR",
+      "posicion": "10",
+      "et": "4/4/2020 19:15",
       "at": "",
       "term": "A",
       "sector": "",
@@ -16,9 +16,9 @@
       "lF": "",
       "ruta": "YYZ",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
