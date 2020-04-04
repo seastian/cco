@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/04/2020 19:28",
+  "lastUpdate": "04/04/2020 19:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -137,7 +137,7 @@
     {
       "tipo": "partida",
       "aerolinea": "M3",
-      "vuelo": "8498",
+      "vuelo": "8495",
       "st": "04/04/2020 15:10",
       "matricula": "",
       "posicion": "",
@@ -156,7 +156,7 @@
     {
       "tipo": "partida",
       "aerolinea": "M3",
-      "vuelo": "8495",
+      "vuelo": "8498",
       "st": "04/04/2020 15:10",
       "matricula": "",
       "posicion": "",
@@ -180,7 +180,7 @@
       "matricula": "ECMRM",
       "posicion": "09",
       "et": "",
-      "at": "",
+      "at": "4/4/2020 19:20",
       "term": "A",
       "sector": "AP",
       "chkFrom": "001",
@@ -188,7 +188,7 @@
       "puerta": "09",
       "ruta": "MAD",
       "via": "CDG",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -207,7 +207,7 @@
       "puerta": "22",
       "ruta": "FRA",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -231,25 +231,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "H24",
-      "st": "04/04/2020 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "QTR",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "JJ",
       "vuelo": "H24",
       "st": "04/04/2020 23:59",
@@ -261,6 +242,25 @@
       "sector": "AP",
       "chkFrom": "041",
       "chkTo": "053",
+      "puerta": "",
+      "ruta": "QTR",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "H24",
+      "st": "04/04/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
       "via": "",
