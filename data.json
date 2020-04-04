@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/04/2020 10:06",
+  "lastUpdate": "04/04/2020 10:13",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -76,25 +76,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LH",
-      "vuelo": "340",
-      "st": "03/04/2020 21:45",
-      "matricula": "DABYK",
-      "posicion": "16",
-      "et": "3/4/2020 22:08",
-      "at": "3/4/2020 22:07",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "FRA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "336"
     },
     {
       "tipo": "arribo",
