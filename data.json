@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/04/2020 00:25",
+  "lastUpdate": "04/04/2020 00:31",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -327,7 +327,7 @@
     {
       "tipo": "partida",
       "aerolinea": "M3",
-      "vuelo": "8495",
+      "vuelo": "8450",
       "st": "03/04/2020 15:10",
       "matricula": "",
       "posicion": "",
@@ -346,7 +346,7 @@
     {
       "tipo": "partida",
       "aerolinea": "M3",
-      "vuelo": "8450",
+      "vuelo": "8495",
       "st": "03/04/2020 15:10",
       "matricula": "",
       "posicion": "",
@@ -516,6 +516,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "PRV",
+      "vuelo": "VDJ",
+      "st": "04/04/2020 00:30",
+      "matricula": "LVVDJ",
+      "posicion": "37",
+      "et": "4/4/2020 02:00",
+      "at": "",
+      "term": "FBO",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "FDO",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "M3",
       "vuelo": "8496",
       "st": "04/04/2020 02:10",
@@ -550,25 +569,6 @@
       "ruta": "MVD",
       "via": "",
       "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "PRV",
-      "vuelo": "VDJ",
-      "st": "04/04/2020 00:30",
-      "matricula": "LVVDJ",
-      "posicion": "37",
-      "et": "4/4/2020 02:00",
-      "at": "",
-      "term": "FBO",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "FDO",
-      "via": "",
-      "remark": "DEM",
       "sanidad": "NO"
     },
     {
