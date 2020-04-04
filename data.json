@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/04/2020 13:31",
+  "lastUpdate": "04/04/2020 13:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -114,44 +114,6 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "M3",
-      "vuelo": "8496",
-      "st": "04/04/2020 02:10",
-      "matricula": "PRACO",
-      "posicion": "54",
-      "et": "4/4/2020 01:07",
-      "at": "4/4/2020 01:35",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AMS",
-      "vuelo": "7119",
-      "st": "04/04/2020 01:30",
-      "matricula": "CXMAS",
-      "posicion": "57",
-      "et": "",
-      "at": "4/4/2020 01:37",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
