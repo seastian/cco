@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/04/2020 19:16",
+  "lastUpdate": "04/04/2020 19:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -85,14 +85,14 @@
       "matricula": "CFIVR",
       "posicion": "10",
       "et": "4/4/2020 19:15",
-      "at": "",
+      "at": "4/4/2020 19:16",
       "term": "A",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "YYZ",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
     },
