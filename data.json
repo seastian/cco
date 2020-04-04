@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/04/2020 05:06",
+  "lastUpdate": "04/04/2020 05:12",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -307,25 +307,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "JJ",
-      "vuelo": "H24",
-      "st": "03/04/2020 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "",
-      "ruta": "QTR",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "H24",
       "st": "03/04/2020 23:59",
@@ -356,6 +337,25 @@
       "sector": "CPI",
       "chkFrom": "209",
       "chkTo": "240",
+      "puerta": "",
+      "ruta": "QTR",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "JJ",
+      "vuelo": "H24",
+      "st": "03/04/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
       "puerta": "",
       "ruta": "QTR",
       "via": "",
@@ -465,7 +465,7 @@
       "matricula": "N347UP",
       "posicion": "55",
       "et": "",
-      "at": "",
+      "at": "4/4/2020 05:09",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -473,7 +473,7 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "VCP",
-      "remark": "HOR",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
