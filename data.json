@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/04/2020 02:01",
+  "lastUpdate": "04/04/2020 02:07",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -36,25 +36,6 @@
       "ruta": "SCL",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "WG",
-      "vuelo": "2101",
-      "st": "03/04/2020 05:00",
-      "matricula": "N415JN",
-      "posicion": "54",
-      "et": "3/4/2020 14:30",
-      "at": "3/4/2020 14:04",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "MVD",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
