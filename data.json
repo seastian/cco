@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/04/2020 12:08",
+  "lastUpdate": "04/04/2020 12:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -112,25 +112,6 @@
       "ruta": "BOG",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "EB",
-      "vuelo": "948P",
-      "st": "03/04/2020 23:30",
-      "matricula": "ECMRM",
-      "posicion": "09",
-      "et": "4/4/2020 00:05",
-      "at": "4/4/2020 00:14",
-      "term": "A",
-      "sector": "AP",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
