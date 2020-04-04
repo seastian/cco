@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/04/2020 15:26",
+  "lastUpdate": "04/04/2020 15:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -98,25 +98,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1406",
-      "st": "04/04/2020 03:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "LAX",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "5X",
       "vuelo": "413",
       "st": "04/04/2020 06:05",
@@ -175,7 +156,7 @@
     {
       "tipo": "partida",
       "aerolinea": "M3",
-      "vuelo": "8498",
+      "vuelo": "8495",
       "st": "04/04/2020 15:10",
       "matricula": "",
       "posicion": "",
@@ -194,7 +175,7 @@
     {
       "tipo": "partida",
       "aerolinea": "M3",
-      "vuelo": "8495",
+      "vuelo": "8498",
       "st": "04/04/2020 15:10",
       "matricula": "",
       "posicion": "",
