@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/04/2020 08:24",
+  "lastUpdate": "04/04/2020 08:30",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -569,6 +569,25 @@
       "ruta": "GRU",
       "via": "",
       "remark": "CAN",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LH",
+      "vuelo": "345",
+      "st": "04/04/2020 20:30",
+      "matricula": "DABYK",
+      "posicion": "16",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "027",
+      "chkTo": "040",
+      "puerta": "22",
+      "ruta": "FRA",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     }
   ]
