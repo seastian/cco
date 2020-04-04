@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "04/04/2020 00:50",
+  "lastUpdate": "04/04/2020 00:57",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "VDJ",
-      "st": "03/04/2020 23:00",
-      "matricula": "LVVDJ",
-      "posicion": "37",
-      "et": "4/4/2020 01:00",
-      "at": "",
-      "term": "FBO",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "USH",
-      "via": "CRD",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": "16"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "UC",
@@ -36,25 +17,6 @@
       "ruta": "MIA",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1105",
-      "st": "03/04/2020 12:40",
-      "matricula": "CCCZZ",
-      "posicion": "56",
-      "et": "",
-      "at": "3/4/2020 12:54",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -266,6 +228,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "VDJ",
+      "st": "03/04/2020 23:00",
+      "matricula": "LVVDJ",
+      "posicion": "37",
+      "et": "4/4/2020 01:00",
+      "at": "4/4/2020 00:52",
+      "term": "FBO",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "USH",
+      "via": "CRD",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "16"
     },
     {
       "tipo": "partida",
