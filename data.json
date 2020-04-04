@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/04/2020 01:29",
+  "lastUpdate": "04/04/2020 01:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -289,7 +289,7 @@
     {
       "tipo": "partida",
       "aerolinea": "M3",
-      "vuelo": "8495",
+      "vuelo": "8450",
       "st": "03/04/2020 15:10",
       "matricula": "",
       "posicion": "",
@@ -308,7 +308,7 @@
     {
       "tipo": "partida",
       "aerolinea": "M3",
-      "vuelo": "8450",
+      "vuelo": "8495",
       "st": "03/04/2020 15:10",
       "matricula": "",
       "posicion": "",
@@ -422,7 +422,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24",
+      "vuelo": "H24N",
       "st": "03/04/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -430,7 +430,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "209",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -441,7 +441,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
+      "vuelo": "H24",
       "st": "03/04/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -449,7 +449,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -478,32 +478,13 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "PRV",
-      "vuelo": "VDJ",
-      "st": "04/04/2020 00:30",
-      "matricula": "TEMP3",
-      "posicion": "37",
-      "et": "4/4/2020 02:00",
-      "at": "",
-      "term": "FBO",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "FDO",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "M3",
       "vuelo": "8496",
       "st": "04/04/2020 02:10",
       "matricula": "PRACO",
       "posicion": "54",
       "et": "4/4/2020 01:07",
-      "at": "",
+      "at": "4/4/2020 01:35",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -511,7 +492,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "EST",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -530,7 +511,26 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "HOR",
+      "remark": "CER",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "PRV",
+      "vuelo": "VDJ",
+      "st": "04/04/2020 00:30",
+      "matricula": "TEMP3",
+      "posicion": "37",
+      "et": "4/4/2020 02:00",
+      "at": "",
+      "term": "FBO",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "FDO",
+      "via": "",
+      "remark": "DEM",
       "sanidad": "NO"
     },
     {
