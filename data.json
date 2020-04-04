@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/04/2020 00:12",
+  "lastUpdate": "04/04/2020 00:19",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -256,14 +256,14 @@
       "matricula": "ECMRM",
       "posicion": "09",
       "et": "4/4/2020 00:05",
-      "at": "",
+      "at": "4/4/2020 00:14",
       "term": "A",
       "sector": "AP",
       "cinta": "",
       "lF": "",
       "ruta": "MAD",
       "via": "",
-      "remark": "DEM",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
