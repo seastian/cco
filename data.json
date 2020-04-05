@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/04/2020 18:35",
+  "lastUpdate": "05/04/2020 18:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -168,6 +168,25 @@
       "lF": "",
       "ruta": "SCL",
       "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LH",
+      "vuelo": "8264",
+      "st": "06/04/2020 06:40",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "FRA",
+      "via": "MVD",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
