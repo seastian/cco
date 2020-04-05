@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/04/2020 08:28",
+  "lastUpdate": "05/04/2020 08:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -341,6 +341,25 @@
       "ruta": "MAO",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "101",
+      "st": "05/04/2020 20:30",
+      "matricula": "CXCAR",
+      "posicion": "",
+      "et": "5/4/2020 19:30",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "EST",
       "sanidad": "NO"
     }
   ]
