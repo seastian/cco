@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/04/2020 18:54",
+  "lastUpdate": "05/04/2020 19:00",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -25,7 +25,7 @@
       "aerolinea": "LH",
       "vuelo": "9910",
       "st": "05/04/2020 19:45",
-      "matricula": "",
+      "matricula": "DABYL",
       "posicion": "09",
       "et": "",
       "at": "",
