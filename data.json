@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/04/2020 18:15",
+  "lastUpdate": "05/04/2020 18:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -218,14 +218,14 @@
       "matricula": "N336QT",
       "posicion": "55",
       "et": "5/4/2020 18:15",
-      "at": "",
+      "at": "5/4/2020 18:17",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
