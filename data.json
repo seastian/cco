@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/04/2020 11:07",
+  "lastUpdate": "05/04/2020 11:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -434,6 +434,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "SCL",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1370",
+      "st": "05/04/2020 23:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "CUN",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
