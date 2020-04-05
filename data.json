@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/04/2020 04:57",
+  "lastUpdate": "05/04/2020 05:03",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -237,7 +237,7 @@
       "matricula": "N331QT",
       "posicion": "54",
       "et": "",
-      "at": "",
+      "at": "5/4/2020 04:58",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -245,7 +245,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
