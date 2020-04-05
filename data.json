@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/04/2020 21:43",
+  "lastUpdate": "04/04/2020 21:49",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -95,25 +95,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "DL",
-      "vuelo": "8874",
-      "st": "04/04/2020 10:00",
-      "matricula": "N867DA",
-      "posicion": "15",
-      "et": "",
-      "at": "4/4/2020 09:48",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "207",
-      "chkTo": "214",
-      "puerta": "20",
-      "ruta": "SLC",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
