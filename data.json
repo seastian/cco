@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "05/04/2020 07:43",
+  "lastUpdate": "05/04/2020 07:49",
   "vuelos": [
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "9831",
+      "vuelo": "8472",
       "st": "05/04/2020 14:00",
       "matricula": "",
       "posicion": "",
@@ -23,7 +23,7 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "8472",
+      "vuelo": "9831",
       "st": "05/04/2020 14:00",
       "matricula": "",
       "posicion": "",
@@ -72,6 +72,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "ASU",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LH",
+      "vuelo": "9910",
+      "st": "05/04/2020 19:45",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "FRA",
       "via": "",
       "remark": "",
       "sanidad": "NO",
