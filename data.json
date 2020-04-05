@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/04/2020 08:21",
+  "lastUpdate": "05/04/2020 08:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -91,25 +91,6 @@
       "cinta": "",
       "lF": "",
       "ruta": "FRA",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "IB",
-      "vuelo": "6841",
-      "st": "05/04/2020 19:55",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MAD",
       "via": "",
       "remark": "",
       "sanidad": "NO",
