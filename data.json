@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/04/2020 09:51",
+  "lastUpdate": "05/04/2020 09:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -377,6 +377,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "BOG",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "GTI",
+      "vuelo": "033",
+      "st": "05/04/2020 21:55",
+      "matricula": "N859GT",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
