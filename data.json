@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/04/2020 15:29",
+  "lastUpdate": "05/04/2020 15:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -188,25 +188,6 @@
       "ruta": "MIA",
       "via": "SCL",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "QT",
-      "vuelo": "4099",
-      "st": "04/04/2020 23:45",
-      "matricula": "N331QT",
-      "posicion": "54",
-      "et": "5/4/2020 03:30",
-      "at": "5/4/2020 03:33",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
