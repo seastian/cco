@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/04/2020 09:00",
+  "lastUpdate": "05/04/2020 09:06",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -302,7 +302,7 @@
       "puerta": "10",
       "ruta": "YYZ",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
