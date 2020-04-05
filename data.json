@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/04/2020 23:57",
+  "lastUpdate": "05/04/2020 00:03",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -99,7 +99,7 @@
     {
       "tipo": "partida",
       "aerolinea": "M3",
-      "vuelo": "8498",
+      "vuelo": "8495",
       "st": "04/04/2020 15:10",
       "matricula": "",
       "posicion": "",
@@ -118,7 +118,7 @@
     {
       "tipo": "partida",
       "aerolinea": "M3",
-      "vuelo": "8495",
+      "vuelo": "8498",
       "st": "04/04/2020 15:10",
       "matricula": "",
       "posicion": "",
@@ -175,7 +175,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
+      "vuelo": "H24",
       "st": "04/04/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -183,12 +183,12 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -207,13 +207,13 @@
       "puerta": "",
       "ruta": "QTR",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24",
+      "vuelo": "H24N",
       "st": "04/04/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -221,12 +221,12 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "209",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
