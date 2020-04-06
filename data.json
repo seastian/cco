@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "05/04/2020 21:59",
+  "lastUpdate": "05/04/2020 22:05",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1407",
-      "st": "05/04/2020 22:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "GTI",
@@ -156,7 +137,7 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "8472",
+      "vuelo": "9831",
       "st": "05/04/2020 14:00",
       "matricula": "",
       "posicion": "",
@@ -175,7 +156,7 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "9831",
+      "vuelo": "8472",
       "st": "05/04/2020 14:00",
       "matricula": "",
       "posicion": "",
@@ -287,6 +268,25 @@
       "pax": ""
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "UC",
+      "vuelo": "1407",
+      "st": "05/04/2020 22:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
       "tipo": "partida",
       "aerolinea": "AC",
       "vuelo": "2017",
@@ -308,25 +308,6 @@
     {
       "tipo": "partida",
       "aerolinea": "M3",
-      "vuelo": "9832",
-      "st": "05/04/2020 15:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MAO",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "M3",
       "vuelo": "8472",
       "st": "05/04/2020 15:10",
       "matricula": "",
@@ -339,6 +320,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "VCP",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "9832",
+      "st": "05/04/2020 15:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MAO",
       "via": "",
       "remark": "CON",
       "sanidad": "NO"
@@ -397,7 +397,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
