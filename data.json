@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/04/2020 07:41",
+  "lastUpdate": "06/04/2020 07:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -150,25 +150,6 @@
       "ruta": "ASU",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LH",
-      "vuelo": "9910",
-      "st": "05/04/2020 19:45",
-      "matricula": "DABYL",
-      "posicion": "09",
-      "et": "",
-      "at": "5/4/2020 19:42",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "FRA",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
