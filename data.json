@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/04/2020 03:51",
+  "lastUpdate": "06/04/2020 03:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -624,6 +624,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "POA",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "IB",
+      "vuelo": "6856",
+      "st": "06/04/2020 15:55",
+      "matricula": "ECLEU",
+      "posicion": "03",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "021",
+      "chkTo": "026",
+      "puerta": "02",
+      "ruta": "MAD",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
