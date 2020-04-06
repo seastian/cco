@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/04/2020 07:54",
+  "lastUpdate": "06/04/2020 08:00",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -700,6 +700,44 @@
       "chkTo": "026",
       "puerta": "02",
       "ruta": "MAD",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "424",
+      "st": "06/04/2020 20:00",
+      "matricula": "CXCLS",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "500",
+      "st": "06/04/2020 20:00",
+      "matricula": "CXLSS",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "ASU",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
