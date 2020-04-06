@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/04/2020 08:13",
+  "lastUpdate": "06/04/2020 08:19",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -720,6 +720,25 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "5X",
+      "vuelo": "417",
+      "st": "06/04/2020 20:15",
+      "matricula": "N308UP",
+      "posicion": "33",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
+      "via": "VCP",
       "remark": "HOR",
       "sanidad": "NO"
     }
