@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/04/2020 22:18",
+  "lastUpdate": "05/04/2020 22:25",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -285,25 +285,6 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AC",
-      "vuelo": "2017",
-      "st": "05/04/2020 10:00",
-      "matricula": "CFIVR",
-      "posicion": "10",
-      "et": "",
-      "at": "5/4/2020 10:23",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "061",
-      "chkTo": "067",
-      "puerta": "10",
-      "ruta": "YYZ",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
