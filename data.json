@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/04/2020 08:26",
+  "lastUpdate": "06/04/2020 08:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -739,6 +739,25 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "VCP",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LH",
+      "vuelo": "345",
+      "st": "06/04/2020 20:30",
+      "matricula": "DABYL",
+      "posicion": "09",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "027",
+      "chkTo": "040",
+      "puerta": "09",
+      "ruta": "FRA",
+      "via": "",
       "remark": "HOR",
       "sanidad": "NO"
     }
