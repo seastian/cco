@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/04/2020 14:26",
+  "lastUpdate": "07/04/2020 14:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -435,7 +435,7 @@
       "puerta": "18",
       "ruta": "AMS",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
