@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "07/04/2020 10:28",
+  "lastUpdate": "07/04/2020 10:34",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "GQN",
-      "st": "07/04/2020 10:30",
-      "matricula": "LVGQN",
-      "posicion": "40",
-      "et": "",
-      "at": "7/4/2020 10:30",
-      "term": "FBO",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "CPC",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "3"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AOG",
@@ -268,6 +249,25 @@
       "pax": ""
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "GQN",
+      "st": "07/04/2020 10:30",
+      "matricula": "TEMP3",
+      "posicion": "40",
+      "et": "",
+      "at": "7/4/2020 10:30",
+      "term": "FBO",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "CPC",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "3"
+    },
+    {
       "tipo": "partida",
       "aerolinea": "UC",
       "vuelo": "1108",
@@ -443,7 +443,7 @@
       "aerolinea": "PRV",
       "vuelo": "GQN",
       "st": "07/04/2020 11:00",
-      "matricula": "LVGQN",
+      "matricula": "TEMP3",
       "posicion": "40",
       "et": "",
       "at": "",
