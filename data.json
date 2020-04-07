@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/04/2020 19:20",
+  "lastUpdate": "07/04/2020 19:27",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -273,7 +273,7 @@
       "vuelo": "502",
       "st": "07/04/2020 19:00",
       "matricula": "CXLSS",
-      "posicion": "",
+      "posicion": "54A",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -416,7 +416,7 @@
       "puerta": "",
       "ruta": "DOH",
       "via": "GRU",
-      "remark": "DEM",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -425,7 +425,7 @@
       "vuelo": "426",
       "st": "07/04/2020 20:00",
       "matricula": "CXLSS",
-      "posicion": "",
+      "posicion": "54A",
       "et": "",
       "at": "",
       "term": "TCA",
