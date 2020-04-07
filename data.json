@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/04/2020 15:16",
+  "lastUpdate": "07/04/2020 15:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -45,8 +45,8 @@
       "vuelo": "1325",
       "st": "07/04/2020 20:45",
       "matricula": "LVGIF",
-      "posicion": "",
-      "et": "",
+      "posicion": "12",
+      "et": "7/4/2020 20:40",
       "at": "",
       "term": "A",
       "sector": "",
@@ -54,7 +54,7 @@
       "lF": "",
       "ruta": "PUJ",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
