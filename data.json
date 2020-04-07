@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/04/2020 16:25",
+  "lastUpdate": "07/04/2020 16:31",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -266,25 +266,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1324",
-      "st": "07/04/2020 04:00",
-      "matricula": "LVGIF",
-      "posicion": "12",
-      "et": "",
-      "at": "7/4/2020 04:28",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "16",
-      "ruta": "PUJ",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
