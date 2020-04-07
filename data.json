@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/04/2020 10:59",
+  "lastUpdate": "07/04/2020 11:06",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -253,7 +253,7 @@
       "aerolinea": "PRV",
       "vuelo": "GQN",
       "st": "07/04/2020 10:30",
-      "matricula": "TEMP3",
+      "matricula": "LVGQN",
       "posicion": "40",
       "et": "",
       "at": "7/4/2020 10:30",
@@ -266,25 +266,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "3"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "H24",
-      "st": "06/04/2020 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "QTR",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
@@ -317,6 +298,25 @@
       "term": "C",
       "sector": "CPI",
       "chkFrom": "209",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "QTR",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "H24",
+      "st": "06/04/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -424,7 +424,7 @@
       "aerolinea": "PRV",
       "vuelo": "GQN",
       "st": "07/04/2020 11:00",
-      "matricula": "TEMP3",
+      "matricula": "LVGQN",
       "posicion": "40",
       "et": "",
       "at": "",
@@ -435,7 +435,7 @@
       "puerta": "",
       "ruta": "AEP",
       "via": "",
-      "remark": "HOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
