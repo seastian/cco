@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/04/2020 13:55",
+  "lastUpdate": "07/04/2020 14:01",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -130,6 +130,25 @@
       "lF": "",
       "ruta": "MIA",
       "via": "MVD",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "UC",
+      "vuelo": "1403",
+      "st": "08/04/2020 02:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
