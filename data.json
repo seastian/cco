@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/04/2020 14:07",
+  "lastUpdate": "07/04/2020 14:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -435,7 +435,7 @@
       "puerta": "18",
       "ruta": "AMS",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -567,6 +567,25 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "8492",
+      "st": "08/04/2020 02:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
