@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/04/2020 14:57",
+  "lastUpdate": "07/04/2020 15:04",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -567,6 +567,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "SCL",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "WG",
+      "vuelo": "2501",
+      "st": "08/04/2020 03:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
