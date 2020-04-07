@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/04/2020 13:17",
+  "lastUpdate": "07/04/2020 13:23",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -269,25 +269,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "M3",
-      "vuelo": "8490",
-      "st": "07/04/2020 02:10",
-      "matricula": "PRABD",
-      "posicion": "54",
-      "et": "7/4/2020 01:07",
-      "at": "7/4/2020 01:22",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1324",
       "st": "07/04/2020 04:00",
@@ -397,7 +378,7 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
