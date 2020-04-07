@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/04/2020 17:46",
+  "lastUpdate": "07/04/2020 17:53",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -41,25 +41,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1325",
-      "st": "07/04/2020 20:45",
-      "matricula": "LVGIF",
-      "posicion": "12",
-      "et": "7/4/2020 20:40",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "PUJ",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "IB",
       "vuelo": "6845",
       "st": "07/04/2020 20:25",
@@ -76,6 +57,25 @@
       "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1325",
+      "st": "07/04/2020 20:45",
+      "matricula": "LVGIF",
+      "posicion": "12",
+      "et": "7/4/2020 21:05",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "PUJ",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": "243"
     },
     {
       "tipo": "arribo",
