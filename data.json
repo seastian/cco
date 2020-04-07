@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/04/2020 12:27",
+  "lastUpdate": "07/04/2020 12:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -364,25 +364,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "MP",
-      "vuelo": "6912",
-      "st": "07/04/2020 12:05",
-      "matricula": "PHCKB",
-      "posicion": "56",
-      "et": "7/4/2020 12:40",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "AMS",
-      "via": "UIO",
-      "remark": "CER",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AOG",
       "vuelo": "500",
       "st": "07/04/2020 12:30",
@@ -397,7 +378,26 @@
       "puerta": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "MP",
+      "vuelo": "6912",
+      "st": "07/04/2020 12:05",
+      "matricula": "PHCKB",
+      "posicion": "56",
+      "et": "7/4/2020 12:40",
+      "at": "7/4/2020 12:27",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "AMS",
+      "via": "UIO",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
