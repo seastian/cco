@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/04/2020 10:22",
+  "lastUpdate": "07/04/2020 10:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -9,14 +9,14 @@
       "matricula": "LVGQN",
       "posicion": "40",
       "et": "",
-      "at": "",
+      "at": "7/4/2020 10:30",
       "term": "FBO",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "CPC",
       "via": "",
-      "remark": "CON",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "3"
     },
