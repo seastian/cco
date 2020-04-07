@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/04/2020 12:58",
+  "lastUpdate": "07/04/2020 13:05",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -111,6 +111,25 @@
       "lF": "",
       "ruta": "VCP",
       "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "WG",
+      "vuelo": "2501",
+      "st": "08/04/2020 01:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "MVD",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
@@ -346,25 +365,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AOG",
-      "vuelo": "500",
-      "st": "07/04/2020 12:30",
-      "matricula": "CXLSS",
-      "posicion": "54A",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
       "vuelo": "424",
       "st": "07/04/2020 12:30",
       "matricula": "CXCLS",
@@ -379,6 +379,25 @@
       "ruta": "MVD",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "500",
+      "st": "07/04/2020 12:30",
+      "matricula": "CXLSS",
+      "posicion": "54A",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -413,7 +432,7 @@
       "sector": "CPI",
       "chkFrom": "201",
       "chkTo": "220",
-      "puerta": "19",
+      "puerta": "18",
       "ruta": "AMS",
       "via": "",
       "remark": "HOR",
