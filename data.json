@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/04/2020 09:13",
+  "lastUpdate": "08/04/2020 09:19",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -114,25 +114,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1325",
-      "st": "07/04/2020 20:45",
-      "matricula": "LVGIF",
-      "posicion": "12",
-      "et": "7/4/2020 21:05",
-      "at": "7/4/2020 21:14",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "008",
-      "ruta": "PUJ",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "243"
     },
     {
       "tipo": "arribo",
