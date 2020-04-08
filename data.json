@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/04/2020 16:26",
+  "lastUpdate": "08/04/2020 16:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -389,7 +389,7 @@
       "matricula": "ECMNL",
       "posicion": "10",
       "et": "",
-      "at": "",
+      "at": "8/4/2020 16:31",
       "term": "A",
       "sector": "AP",
       "chkFrom": "020",
@@ -397,7 +397,7 @@
       "puerta": "10",
       "ruta": "MAD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
