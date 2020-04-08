@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "08/04/2020 04:50",
+  "lastUpdate": "08/04/2020 04:56",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "5X",
-      "vuelo": "414",
-      "st": "08/04/2020 05:12",
-      "matricula": "N308UP",
-      "posicion": "55",
-      "et": "8/4/2020 04:56",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "SCL",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AZ",
@@ -264,6 +245,25 @@
       "ruta": "MIA",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "5X",
+      "vuelo": "414",
+      "st": "08/04/2020 05:12",
+      "matricula": "N308UP",
+      "posicion": "55",
+      "et": "8/4/2020 04:56",
+      "at": "8/4/2020 04:54",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "SCL",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
