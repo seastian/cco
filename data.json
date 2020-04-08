@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/04/2020 12:59",
+  "lastUpdate": "08/04/2020 13:05",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -150,25 +150,6 @@
       "ruta": "VCP",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "WG",
-      "vuelo": "2501",
-      "st": "08/04/2020 01:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "MVD",
-      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
@@ -408,7 +389,7 @@
       "matricula": "A7BFD",
       "posicion": "54",
       "et": "",
-      "at": "",
+      "at": "8/4/2020 13:00",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -416,7 +397,7 @@
       "puerta": "",
       "ruta": "UIO",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
