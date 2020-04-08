@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/04/2020 16:45",
+  "lastUpdate": "08/04/2020 16:51",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -63,9 +63,9 @@
       "aerolinea": "LH",
       "vuelo": "8264",
       "st": "08/04/2020 22:45",
-      "matricula": "",
+      "matricula": "DALCK",
       "posicion": "",
-      "et": "",
+      "et": "8/4/2020 22:00",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -73,7 +73,7 @@
       "lF": "",
       "ruta": "FRA",
       "via": "MVD",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -519,7 +519,7 @@
       "aerolinea": "LH",
       "vuelo": "8265",
       "st": "09/04/2020 00:15",
-      "matricula": "",
+      "matricula": "DALCK",
       "posicion": "",
       "et": "",
       "at": "",
