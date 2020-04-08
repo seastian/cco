@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/04/2020 00:27",
+  "lastUpdate": "08/04/2020 00:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -549,6 +549,44 @@
       "puerta": "",
       "ruta": "DOH",
       "via": "UIO",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "QR",
+      "vuelo": "8155",
+      "st": "08/04/2020 12:30",
+      "matricula": "A7BFD",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "UIO",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "424",
+      "st": "08/04/2020 12:30",
+      "matricula": "CXCLS",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
+      "via": "",
       "remark": "HOR",
       "sanidad": "NO"
     }
