@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/04/2020 08:04",
+  "lastUpdate": "08/04/2020 08:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -26,7 +26,7 @@
       "vuelo": "8194",
       "st": "08/04/2020 11:00",
       "matricula": "A7BFD",
-      "posicion": "",
+      "posicion": "54",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -247,25 +247,6 @@
       "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "426",
-      "st": "07/04/2020 20:00",
-      "matricula": "CXLSS",
-      "posicion": "54A",
-      "et": "",
-      "at": "7/4/2020 20:10",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
@@ -501,7 +482,7 @@
       "vuelo": "8155",
       "st": "08/04/2020 12:30",
       "matricula": "A7BFD",
-      "posicion": "",
+      "posicion": "54",
       "et": "",
       "at": "",
       "term": "TCA",
