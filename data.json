@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/04/2020 09:19",
+  "lastUpdate": "08/04/2020 09:26",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -110,6 +110,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "MIA",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1361",
+      "st": "08/04/2020 21:25",
+      "matricula": "LVGIF",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "BOG",
       "via": "",
       "remark": "",
       "sanidad": "NO",
