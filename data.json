@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/04/2020 12:53",
+  "lastUpdate": "08/04/2020 12:59",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -288,25 +288,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "M3",
-      "vuelo": "8492",
-      "st": "08/04/2020 02:10",
-      "matricula": "PRACO",
-      "posicion": "55",
-      "et": "8/4/2020 01:07",
-      "at": "8/4/2020 00:56",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "WG",
       "vuelo": "2501",
       "st": "08/04/2020 03:00",
@@ -402,25 +383,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "QR",
-      "vuelo": "8155",
-      "st": "08/04/2020 12:30",
-      "matricula": "A7BFD",
-      "posicion": "54",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "UIO",
-      "via": "",
-      "remark": "CER",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AOG",
       "vuelo": "424",
       "st": "08/04/2020 12:30",
@@ -436,6 +398,25 @@
       "ruta": "MVD",
       "via": "",
       "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "QR",
+      "vuelo": "8155",
+      "st": "08/04/2020 12:30",
+      "matricula": "A7BFD",
+      "posicion": "54",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "UIO",
+      "via": "",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
