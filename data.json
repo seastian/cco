@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/04/2020 14:58",
+  "lastUpdate": "08/04/2020 15:04",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -247,25 +247,6 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "WG",
-      "vuelo": "2501",
-      "st": "08/04/2020 03:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
