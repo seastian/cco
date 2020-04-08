@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/04/2020 16:07",
+  "lastUpdate": "08/04/2020 16:13",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -397,7 +397,7 @@
       "puerta": "10",
       "ruta": "MAD",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
