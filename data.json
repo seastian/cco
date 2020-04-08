@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/04/2020 16:01",
+  "lastUpdate": "08/04/2020 16:07",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -46,7 +46,7 @@
       "st": "08/04/2020 21:25",
       "matricula": "LVGIF",
       "posicion": "",
-      "et": "",
+      "et": "8/4/2020 21:19",
       "at": "",
       "term": "A",
       "sector": "",
@@ -54,9 +54,9 @@
       "lF": "",
       "ruta": "BOG",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "240"
     },
     {
       "tipo": "arribo",
