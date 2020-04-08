@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/04/2020 10:29",
+  "lastUpdate": "08/04/2020 10:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -540,6 +540,25 @@
       "st": "08/04/2020 18:40",
       "matricula": "N859GT",
       "posicion": "55",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1103",
+      "st": "08/04/2020 22:30",
+      "matricula": "",
+      "posicion": "",
       "et": "",
       "at": "",
       "term": "TCA",
