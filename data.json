@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/04/2020 13:43",
+  "lastUpdate": "08/04/2020 13:49",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -364,25 +364,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "QR",
-      "vuelo": "8155",
-      "st": "08/04/2020 12:30",
-      "matricula": "A7BFD",
-      "posicion": "54",
-      "et": "",
-      "at": "8/4/2020 13:00",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "UIO",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AOG",
       "vuelo": "424",
       "st": "08/04/2020 12:30",
@@ -402,13 +383,32 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "QR",
+      "vuelo": "8155",
+      "st": "08/04/2020 12:30",
+      "matricula": "A7BFD",
+      "posicion": "54",
+      "et": "",
+      "at": "8/4/2020 13:00",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "UIO",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "AF",
       "vuelo": "4191",
       "st": "08/04/2020 13:30",
       "matricula": "FGSQT",
       "posicion": "15",
       "et": "",
-      "at": "",
+      "at": "8/4/2020 13:45",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "201",
@@ -416,7 +416,7 @@
       "puerta": "20",
       "ruta": "CDG",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
