@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/04/2020 22:59",
+  "lastUpdate": "07/04/2020 23:06",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -111,6 +111,25 @@
       "lF": "",
       "ruta": "DOH",
       "via": "GRU",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "QR",
+      "vuelo": "8194",
+      "st": "08/04/2020 11:00",
+      "matricula": "A7BFD",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
