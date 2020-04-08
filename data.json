@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/04/2020 01:23",
+  "lastUpdate": "08/04/2020 01:30",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -247,25 +247,6 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "424",
-      "st": "07/04/2020 12:30",
-      "matricula": "CXCLS",
-      "posicion": "54B",
-      "et": "",
-      "at": "7/4/2020 13:30",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
@@ -567,6 +548,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MVD",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AF",
+      "vuelo": "229",
+      "st": "08/04/2020 13:30",
+      "matricula": "FGSQT",
+      "posicion": "15",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "201",
+      "chkTo": "220",
+      "puerta": "20",
+      "ruta": "CDG",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
