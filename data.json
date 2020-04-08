@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/04/2020 08:48",
+  "lastUpdate": "08/04/2020 08:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -8,7 +8,7 @@
       "st": "08/04/2020 11:00",
       "matricula": "A7BFD",
       "posicion": "54",
-      "et": "",
+      "et": "8/4/2020 10:41",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -16,7 +16,7 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
