@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/04/2020 20:30",
+  "lastUpdate": "08/04/2020 20:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -137,25 +137,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "QR",
-      "vuelo": "8155",
-      "st": "08/04/2020 08:35",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "DOH",
-      "via": "GRU",
-      "remark": "CON",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "QR",
       "vuelo": "8194",
       "st": "08/04/2020 11:00",
       "matricula": "A7BFD",
@@ -244,7 +225,7 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "",
+      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
