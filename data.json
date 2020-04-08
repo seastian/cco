@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/04/2020 18:06",
+  "lastUpdate": "08/04/2020 18:12",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -45,7 +45,7 @@
       "vuelo": "1361",
       "st": "08/04/2020 21:25",
       "matricula": "LVGIF",
-      "posicion": "",
+      "posicion": "15",
       "et": "8/4/2020 21:19",
       "at": "",
       "term": "A",
