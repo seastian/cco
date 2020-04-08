@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "08/04/2020 00:58",
+  "lastUpdate": "08/04/2020 01:05",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "WG",
-      "vuelo": "2501",
-      "st": "08/04/2020 01:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "MVD",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "UC",
@@ -249,6 +230,25 @@
       "pax": ""
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "WG",
+      "vuelo": "2501",
+      "st": "08/04/2020 01:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "MVD",
+      "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
       "tipo": "partida",
       "aerolinea": "AOG",
       "vuelo": "424",
@@ -446,7 +446,7 @@
       "matricula": "PRACO",
       "posicion": "55",
       "et": "8/4/2020 01:07",
-      "at": "",
+      "at": "8/4/2020 00:56",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -454,7 +454,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
