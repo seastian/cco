@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "08/04/2020 10:35",
+  "lastUpdate": "08/04/2020 10:41",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "QR",
-      "vuelo": "8194",
-      "st": "08/04/2020 11:00",
-      "matricula": "A7BFD",
-      "posicion": "54",
-      "et": "8/4/2020 10:41",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AOG",
@@ -245,6 +226,25 @@
       "ruta": "DOH",
       "via": "GRU",
       "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "QR",
+      "vuelo": "8194",
+      "st": "08/04/2020 11:00",
+      "matricula": "A7BFD",
+      "posicion": "54",
+      "et": "8/4/2020 10:41",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
