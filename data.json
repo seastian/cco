@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/04/2020 08:10",
+  "lastUpdate": "08/04/2020 08:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -45,7 +45,7 @@
       "vuelo": "423",
       "st": "08/04/2020 11:30",
       "matricula": "CXCLS",
-      "posicion": "",
+      "posicion": "57",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -83,8 +83,8 @@
       "vuelo": "033",
       "st": "08/04/2020 17:00",
       "matricula": "N859GT",
-      "posicion": "",
-      "et": "",
+      "posicion": "55",
+      "et": "8/4/2020 16:30",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -92,7 +92,7 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -463,7 +463,7 @@
       "vuelo": "424",
       "st": "08/04/2020 12:30",
       "matricula": "CXCLS",
-      "posicion": "",
+      "posicion": "57",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -558,7 +558,7 @@
       "vuelo": "033",
       "st": "08/04/2020 18:40",
       "matricula": "N859GT",
-      "posicion": "",
+      "posicion": "55",
       "et": "",
       "at": "",
       "term": "TCA",
