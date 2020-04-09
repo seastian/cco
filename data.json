@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/04/2020 18:45",
+  "lastUpdate": "09/04/2020 18:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -140,6 +140,25 @@
       "vuelo": "4551",
       "st": "10/04/2020 06:00",
       "matricula": "N904AR",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "UC",
+      "vuelo": "1105",
+      "st": "10/04/2020 06:50",
+      "matricula": "CCCZZ",
       "posicion": "",
       "et": "",
       "at": "",
