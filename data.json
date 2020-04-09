@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/04/2020 00:28",
+  "lastUpdate": "09/04/2020 00:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -539,6 +539,25 @@
       "vuelo": "102",
       "st": "09/04/2020 07:30",
       "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "CAN",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "424",
+      "st": "09/04/2020 12:30",
+      "matricula": "CXCLS",
       "posicion": "",
       "et": "",
       "at": "",
