@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "08/04/2020 21:39",
+  "lastUpdate": "08/04/2020 21:45",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "LH",
-      "vuelo": "8264",
-      "st": "08/04/2020 22:45",
-      "matricula": "DALCK",
-      "posicion": "54",
-      "et": "8/4/2020 21:42",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "FRA",
-      "via": "MVD",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AOG",
@@ -247,6 +228,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "230"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LH",
+      "vuelo": "8264",
+      "st": "08/04/2020 22:45",
+      "matricula": "DALCK",
+      "posicion": "54",
+      "et": "8/4/2020 21:42",
+      "at": "8/4/2020 21:41",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "FRA",
+      "via": "MVD",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "partida",
