@@ -1,13 +1,13 @@
 {
-  "lastUpdate": "09/04/2020 00:53",
+  "lastUpdate": "09/04/2020 01:00",
   "vuelos": [
     {
       "tipo": "arribo",
       "aerolinea": "5X",
       "vuelo": "410",
       "st": "09/04/2020 05:20",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "N347UP",
+      "posicion": "54",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -231,25 +231,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "QR",
-      "vuelo": "8155",
-      "st": "08/04/2020 12:30",
-      "matricula": "A7BFD",
-      "posicion": "54",
-      "et": "",
-      "at": "8/4/2020 13:00",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "UIO",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AF",
       "vuelo": "4191",
       "st": "08/04/2020 13:30",
@@ -454,7 +435,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "EST",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -519,8 +500,8 @@
       "aerolinea": "5X",
       "vuelo": "411",
       "st": "09/04/2020 06:55",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "N347UP",
+      "posicion": "54",
       "et": "",
       "at": "",
       "term": "TCA",
