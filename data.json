@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/04/2020 17:55",
+  "lastUpdate": "09/04/2020 18:01",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -129,6 +129,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "BOG",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "CWC",
+      "vuelo": "4551",
+      "st": "10/04/2020 06:00",
+      "matricula": "N904AR",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
       "via": "",
       "remark": "",
       "sanidad": "NO",
