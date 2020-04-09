@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/04/2020 12:24",
+  "lastUpdate": "09/04/2020 12:30",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -155,25 +155,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "LH",
-      "vuelo": "8265",
-      "st": "09/04/2020 00:15",
-      "matricula": "DALCK",
-      "posicion": "54",
-      "et": "",
-      "at": "9/4/2020 00:27",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "FRA",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "M3",
       "vuelo": "8492",
       "st": "09/04/2020 02:00",
@@ -187,6 +168,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "SCL",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AMS",
+      "vuelo": "7119",
+      "st": "09/04/2020 01:30",
+      "matricula": "CXMAS",
+      "posicion": "57",
+      "et": "",
+      "at": "9/4/2020 01:20",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -208,25 +208,6 @@
       "ruta": "ASU",
       "via": "",
       "remark": "CAN",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AMS",
-      "vuelo": "7119",
-      "st": "09/04/2020 01:30",
-      "matricula": "CXMAS",
-      "posicion": "57",
-      "et": "",
-      "at": "9/4/2020 01:20",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
       "sanidad": "NO"
     },
     {
