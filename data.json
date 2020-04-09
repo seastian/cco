@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/04/2020 01:44",
+  "lastUpdate": "09/04/2020 01:50",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -228,25 +228,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AF",
-      "vuelo": "4191",
-      "st": "08/04/2020 13:30",
-      "matricula": "FGSQT",
-      "posicion": "15",
-      "et": "",
-      "at": "8/4/2020 13:45",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "201",
-      "chkTo": "220",
-      "puerta": "20",
-      "ruta": "CDG",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
