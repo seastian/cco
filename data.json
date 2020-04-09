@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/04/2020 14:29",
+  "lastUpdate": "09/04/2020 14:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -53,6 +53,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "VCP",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "QT",
+      "vuelo": "4099",
+      "st": "10/04/2020 02:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "BOG",
       "via": "",
       "remark": "",
       "sanidad": "NO",
