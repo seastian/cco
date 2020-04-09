@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/04/2020 13:01",
+  "lastUpdate": "09/04/2020 13:07",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -155,21 +155,21 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "M3",
-      "vuelo": "8492",
-      "st": "09/04/2020 02:00",
-      "matricula": "PRABD",
-      "posicion": "56",
-      "et": "9/4/2020 01:07",
-      "at": "9/4/2020 01:02",
+      "aerolinea": "AOG",
+      "vuelo": "101",
+      "st": "09/04/2020 01:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
       "chkTo": "",
       "puerta": "",
-      "ruta": "SCL",
+      "ruta": "ASU",
       "via": "",
-      "remark": "PAR",
+      "remark": "CAN",
       "sanidad": "NO"
     },
     {
@@ -189,25 +189,6 @@
       "ruta": "MVD",
       "via": "",
       "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "101",
-      "st": "09/04/2020 01:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "CAN",
       "sanidad": "NO"
     },
     {
