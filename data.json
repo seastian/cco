@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/04/2020 10:24",
+  "lastUpdate": "09/04/2020 10:31",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -63,6 +63,25 @@
       "aerolinea": "UC",
       "vuelo": "1405",
       "st": "09/04/2020 22:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "UC",
+      "vuelo": "1104",
+      "st": "09/04/2020 22:30",
       "matricula": "",
       "posicion": "",
       "et": "",
@@ -171,25 +190,6 @@
       "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1103",
-      "st": "08/04/2020 22:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
