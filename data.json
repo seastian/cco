@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/04/2020 18:39",
+  "lastUpdate": "09/04/2020 18:45",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -209,25 +209,6 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "5X",
-      "vuelo": "411",
-      "st": "09/04/2020 06:55",
-      "matricula": "N347UP",
-      "posicion": "54",
-      "et": "",
-      "at": "9/4/2020 06:42",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MIA",
-      "via": "VCP",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
