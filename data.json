@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/04/2020 11:46",
+  "lastUpdate": "09/04/2020 11:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -415,6 +415,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "LAX",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1104",
+      "st": "09/04/2020 23:50",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
