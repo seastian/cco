@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/04/2020 16:27",
+  "lastUpdate": "09/04/2020 16:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -93,25 +93,6 @@
       "ruta": "DOH",
       "via": "GRU",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "5X",
-      "vuelo": "410",
-      "st": "09/04/2020 05:20",
-      "matricula": "N347UP",
-      "posicion": "54",
-      "et": "",
-      "at": "9/4/2020 04:33",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "SCL",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
