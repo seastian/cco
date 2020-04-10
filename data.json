@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/04/2020 14:05",
+  "lastUpdate": "10/04/2020 14:11",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -288,25 +288,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "M3",
-      "vuelo": "8494",
-      "st": "10/04/2020 02:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "QR",
       "vuelo": "8157",
       "st": "10/04/2020 04:45",
@@ -569,6 +550,25 @@
       "ruta": "QTR",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "8496",
+      "st": "11/04/2020 02:10",
+      "matricula": "PRABD",
+      "posicion": "",
+      "et": "11/4/2020 01:07",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "EST",
       "sanidad": "NO"
     }
   ]
