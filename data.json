@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/04/2020 21:09",
+  "lastUpdate": "09/04/2020 21:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -321,7 +321,7 @@
       "puerta": "",
       "ruta": "BOG",
       "via": "",
-      "remark": "EST",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
