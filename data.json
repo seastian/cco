@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/04/2020 01:26",
+  "lastUpdate": "10/04/2020 01:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -8,7 +8,7 @@
       "st": "10/04/2020 03:00",
       "matricula": "A7BFN",
       "posicion": "55",
-      "et": "",
+      "et": "10/4/2020 02:35",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -16,7 +16,7 @@
       "lF": "",
       "ruta": "DOH",
       "via": "GRU",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
