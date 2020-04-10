@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/04/2020 20:52",
+  "lastUpdate": "10/04/2020 20:59",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -171,25 +171,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "161"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "CWC",
-      "vuelo": "4550",
-      "st": "10/04/2020 08:00",
-      "matricula": "N904AR",
-      "posicion": "55",
-      "et": "",
-      "at": "10/4/2020 08:55",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
