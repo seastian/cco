@@ -1,13 +1,13 @@
 {
-  "lastUpdate": "10/04/2020 00:42",
+  "lastUpdate": "10/04/2020 00:49",
   "vuelos": [
     {
       "tipo": "arribo",
       "aerolinea": "QR",
       "vuelo": "8157",
       "st": "10/04/2020 03:00",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "A7BFN",
+      "posicion": "55",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -424,8 +424,8 @@
       "aerolinea": "QR",
       "vuelo": "8157",
       "st": "10/04/2020 04:45",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "A7BFN",
+      "posicion": "55",
       "et": "",
       "at": "",
       "term": "TCA",
