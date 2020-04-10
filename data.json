@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/04/2020 11:41",
+  "lastUpdate": "10/04/2020 11:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -99,9 +99,9 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "8494",
-      "st": "09/04/2020 23:45",
-      "matricula": "",
+      "vuelo": "8496",
+      "st": "10/04/2020 23:45",
+      "matricula": "PRABD",
       "posicion": "",
       "et": "",
       "at": "",
@@ -111,7 +111,7 @@
       "lF": "",
       "ruta": "VCP",
       "via": "",
-      "remark": "CON",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
