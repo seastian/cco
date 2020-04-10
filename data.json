@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/04/2020 07:30",
+  "lastUpdate": "10/04/2020 07:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -74,25 +74,6 @@
       "ruta": "MIA",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "QT",
-      "vuelo": "4099",
-      "st": "10/04/2020 02:30",
-      "matricula": "N332QT",
-      "posicion": "54",
-      "et": "9/4/2020 19:30",
-      "at": "9/4/2020 19:31",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
