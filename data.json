@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/04/2020 21:28",
+  "lastUpdate": "09/04/2020 21:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -313,7 +313,7 @@
       "matricula": "N332QT",
       "posicion": "54",
       "et": "9/4/2020 22:30",
-      "at": "",
+      "at": "9/4/2020 21:29",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -321,7 +321,7 @@
       "puerta": "",
       "ruta": "BOG",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
