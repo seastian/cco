@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/04/2020 19:12",
+  "lastUpdate": "10/04/2020 19:18",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,7 +7,7 @@
       "vuelo": "1107",
       "st": "10/04/2020 21:30",
       "matricula": "CCBHE",
-      "posicion": "",
+      "posicion": "02",
       "et": "",
       "at": "",
       "term": "A",
@@ -330,14 +330,14 @@
       "vuelo": "9954",
       "st": "10/04/2020 22:50",
       "matricula": "CCBHE",
-      "posicion": "",
+      "posicion": "02",
       "et": "",
       "at": "",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
       "chkTo": "053",
-      "puerta": "",
+      "puerta": "01",
       "ruta": "SCL",
       "via": "",
       "remark": "HOR",
