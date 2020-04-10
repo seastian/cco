@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/04/2020 19:25",
+  "lastUpdate": "10/04/2020 19:31",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -12,7 +12,7 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "3",
+      "cinta": "9",
       "lF": "003",
       "ruta": "SJO",
       "via": "IQQ",
@@ -93,25 +93,6 @@
       "ruta": "MIA",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1105",
-      "st": "10/04/2020 06:50",
-      "matricula": "CCCZZ",
-      "posicion": "54",
-      "et": "10/4/2020 07:40",
-      "at": "10/4/2020 07:25",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
