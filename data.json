@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/04/2020 20:46",
+  "lastUpdate": "10/04/2020 20:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -290,6 +290,25 @@
       "tipo": "partida",
       "aerolinea": "LA",
       "vuelo": "9954",
+      "st": "10/04/2020 22:50",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "REP",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LA",
+      "vuelo": "1106",
       "st": "10/04/2020 22:50",
       "matricula": "CCBHE",
       "posicion": "09",
