@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/04/2020 18:34",
+  "lastUpdate": "10/04/2020 18:40",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -12,8 +12,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "3",
+      "lF": "003",
       "ruta": "SJO",
       "via": "IQQ",
       "remark": "",
@@ -45,7 +45,7 @@
       "vuelo": "8496",
       "st": "10/04/2020 23:45",
       "matricula": "PRABD",
-      "posicion": "",
+      "posicion": "55",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -425,7 +425,7 @@
       "vuelo": "8496",
       "st": "11/04/2020 02:10",
       "matricula": "PRABD",
-      "posicion": "",
+      "posicion": "55",
       "et": "11/4/2020 01:07",
       "at": "",
       "term": "TCA",
