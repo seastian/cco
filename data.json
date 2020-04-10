@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/04/2020 02:17",
+  "lastUpdate": "10/04/2020 02:23",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -41,25 +41,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "5X",
-      "vuelo": "412",
-      "st": "10/04/2020 05:12",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "SCL",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AV",
       "vuelo": "273",
       "st": "10/04/2020 05:20",
@@ -74,6 +55,25 @@
       "ruta": "BOG",
       "via": "",
       "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "5X",
+      "vuelo": "412",
+      "st": "10/04/2020 05:12",
+      "matricula": "N350UP",
+      "posicion": "56",
+      "et": "10/4/2020 05:24",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "SCL",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
