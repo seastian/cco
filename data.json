@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/04/2020 16:29",
+  "lastUpdate": "10/04/2020 16:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -112,25 +112,6 @@
       "ruta": "MIA",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "5X",
-      "vuelo": "412",
-      "st": "10/04/2020 05:12",
-      "matricula": "N350UP",
-      "posicion": "56",
-      "et": "10/4/2020 04:30",
-      "at": "10/4/2020 04:32",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "SCL",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
