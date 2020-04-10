@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/04/2020 15:51",
+  "lastUpdate": "10/04/2020 15:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -82,9 +82,9 @@
       "aerolinea": "CU",
       "vuelo": "9360",
       "st": "11/04/2020 00:30",
-      "matricula": "",
+      "matricula": "T1250",
       "posicion": "",
-      "et": "",
+      "et": "11/4/2020 00:05",
       "at": "",
       "term": "A",
       "sector": "",
@@ -92,9 +92,9 @@
       "lF": "",
       "ruta": "HAV",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "203"
     },
     {
       "tipo": "arribo",
@@ -538,7 +538,7 @@
       "aerolinea": "CU",
       "vuelo": "9361",
       "st": "11/04/2020 02:30",
-      "matricula": "",
+      "matricula": "T1250",
       "posicion": "",
       "et": "",
       "at": "",
