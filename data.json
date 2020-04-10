@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/04/2020 10:32",
+  "lastUpdate": "10/04/2020 10:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -445,8 +445,8 @@
       "st": "10/04/2020 08:00",
       "matricula": "CCCZZ",
       "posicion": "54",
-      "et": "10/4/2020 08:50",
-      "at": "",
+      "et": "10/4/2020 09:00",
+      "at": "10/4/2020 09:16",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -454,7 +454,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "DEM",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
