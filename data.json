@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/04/2020 18:40",
+  "lastUpdate": "10/04/2020 18:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -18,7 +18,7 @@
       "via": "IQQ",
       "remark": "",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "161"
     },
     {
       "tipo": "arribo",
