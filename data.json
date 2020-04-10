@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/04/2020 09:29",
+  "lastUpdate": "10/04/2020 09:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -73,6 +73,25 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "1107",
+      "st": "10/04/2020 21:30",
+      "matricula": "CCBHE",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SJO",
+      "via": "IQQ",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
