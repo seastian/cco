@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/04/2020 21:11",
+  "lastUpdate": "10/04/2020 21:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -27,7 +27,7 @@
       "st": "10/04/2020 23:45",
       "matricula": "PRABD",
       "posicion": "55",
-      "et": "",
+      "et": "10/4/2020 23:55",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -35,7 +35,7 @@
       "lF": "",
       "ruta": "VCP",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -171,25 +171,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "161"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1105",
-      "st": "10/04/2020 08:00",
-      "matricula": "CCCZZ",
-      "posicion": "54",
-      "et": "10/4/2020 09:00",
-      "at": "10/4/2020 09:16",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
@@ -388,7 +369,7 @@
       "st": "11/04/2020 02:10",
       "matricula": "PRABD",
       "posicion": "55",
-      "et": "11/4/2020 01:07",
+      "et": "11/4/2020 01:00",
       "at": "",
       "term": "TCA",
       "sector": "",
