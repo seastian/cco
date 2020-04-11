@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/04/2020 20:27",
+  "lastUpdate": "11/04/2020 20:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -19,6 +19,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "FAE",
+      "vuelo": "592",
+      "st": "12/04/2020 08:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": "35"
     },
     {
       "tipo": "arribo",
