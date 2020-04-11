@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/04/2020 17:00",
+  "lastUpdate": "11/04/2020 17:06",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -12,8 +12,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "9",
+      "lF": "009",
       "ruta": "GYE",
       "via": "",
       "remark": "EST",
@@ -149,7 +149,7 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "",
+      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
