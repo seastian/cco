@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/04/2020 18:59",
+  "lastUpdate": "11/04/2020 19:05",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -339,6 +339,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "SCL",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1910",
+      "st": "12/04/2020 07:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "UIO",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
