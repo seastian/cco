@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/04/2020 09:49",
+  "lastUpdate": "11/04/2020 09:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -474,6 +474,25 @@
       "ruta": "SCL",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "ET",
+      "vuelo": "507",
+      "st": "11/04/2020 21:55",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "201",
+      "chkTo": "206",
+      "puerta": "",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "",
       "sanidad": "NO"
     }
   ]
