@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/04/2020 19:37",
+  "lastUpdate": "11/04/2020 19:43",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -142,14 +142,14 @@
       "matricula": "N330QT",
       "posicion": "55",
       "et": "11/4/2020 19:35",
-      "at": "",
+      "at": "11/4/2020 19:42",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "BOG",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
