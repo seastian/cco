@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/04/2020 23:48",
+  "lastUpdate": "10/04/2020 23:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -12,8 +12,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "3",
-      "lF": "001",
+      "cinta": "9",
+      "lF": "007",
       "ruta": "HAV",
       "via": "",
       "remark": "EST",
