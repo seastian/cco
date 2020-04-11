@@ -1,6 +1,25 @@
 {
-  "lastUpdate": "10/04/2020 22:01",
+  "lastUpdate": "10/04/2020 22:07",
   "vuelos": [
+    {
+      "tipo": "arribo",
+      "aerolinea": "AMS",
+      "vuelo": "8119",
+      "st": "10/04/2020 23:45",
+      "matricula": "CXMAS",
+      "posicion": "60",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
     {
       "tipo": "arribo",
       "aerolinea": "M3",
@@ -283,7 +302,7 @@
       "puerta": "09",
       "ruta": "SCL",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -379,6 +398,25 @@
       "ruta": "SCL",
       "via": "",
       "remark": "EST",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AMS",
+      "vuelo": "7119",
+      "st": "11/04/2020 01:30",
+      "matricula": "CXMAS",
+      "posicion": "60",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     },
     {
