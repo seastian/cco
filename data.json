@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/04/2020 07:43",
+  "lastUpdate": "11/04/2020 07:50",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -76,25 +76,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1107",
-      "st": "10/04/2020 21:30",
-      "matricula": "CCBHE",
-      "posicion": "09",
-      "et": "10/4/2020 19:55",
-      "at": "10/4/2020 19:49",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "003",
-      "ruta": "SJO",
-      "via": "IQQ",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "161"
     },
     {
       "tipo": "arribo",
