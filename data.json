@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "11/04/2020 19:30",
+  "lastUpdate": "11/04/2020 19:37",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "QT",
-      "vuelo": "4099",
-      "st": "11/04/2020 23:45",
-      "matricula": "N330QT",
-      "posicion": "55",
-      "et": "11/4/2020 19:35",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "IB",
@@ -152,6 +133,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "148"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "QT",
+      "vuelo": "4099",
+      "st": "11/04/2020 23:45",
+      "matricula": "N330QT",
+      "posicion": "55",
+      "et": "11/4/2020 19:35",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "BOG",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "partida",
