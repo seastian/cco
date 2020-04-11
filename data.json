@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/04/2020 08:21",
+  "lastUpdate": "11/04/2020 08:27",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -93,6 +93,25 @@
       "ruta": "MAD",
       "via": "",
       "remark": "DEM",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "ET",
+      "vuelo": "506",
+      "st": "11/04/2020 20:25",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
