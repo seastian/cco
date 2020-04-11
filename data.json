@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/04/2020 05:13",
+  "lastUpdate": "11/04/2020 05:19",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -389,7 +389,7 @@
       "matricula": "N350UP",
       "posicion": "56",
       "et": "11/4/2020 05:00",
-      "at": "",
+      "at": "11/4/2020 05:15",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -397,7 +397,7 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "VCP",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
