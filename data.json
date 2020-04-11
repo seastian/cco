@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/04/2020 08:15",
+  "lastUpdate": "11/04/2020 08:21",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -74,6 +74,25 @@
       "ruta": "GYE",
       "via": "",
       "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "IB",
+      "vuelo": "6847",
+      "st": "11/04/2020 19:40",
+      "matricula": "ECMNL",
+      "posicion": "",
+      "et": "11/4/2020 20:18",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MAD",
+      "via": "",
+      "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
     },
