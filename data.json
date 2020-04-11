@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/04/2020 18:21",
+  "lastUpdate": "11/04/2020 18:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -142,14 +142,14 @@
       "matricula": "FAM3527",
       "posicion": "10",
       "et": "11/4/2020 18:20",
-      "at": "",
+      "at": "11/4/2020 18:22",
       "term": "A",
       "sector": "",
       "cinta": "9",
       "lF": "009",
       "ruta": "GYE",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "148"
     },
