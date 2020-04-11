@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/04/2020 18:09",
+  "lastUpdate": "11/04/2020 18:15",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -156,25 +156,6 @@
     {
       "tipo": "partida",
       "aerolinea": "M3",
-      "vuelo": "8498",
-      "st": "11/04/2020 15:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "M3",
       "vuelo": "8495",
       "st": "11/04/2020 15:10",
       "matricula": "",
@@ -187,6 +168,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "VCP",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "8498",
+      "st": "11/04/2020 15:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
       "via": "",
       "remark": "CON",
       "sanidad": "NO"
@@ -207,7 +207,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
