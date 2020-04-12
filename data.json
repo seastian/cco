@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/04/2020 03:01",
+  "lastUpdate": "12/04/2020 03:07",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -411,7 +411,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "219",
       "chkTo": "240",
       "puerta": "16",
       "ruta": "UIO",
