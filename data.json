@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/04/2020 07:12",
+  "lastUpdate": "12/04/2020 07:18",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -378,7 +378,7 @@
       "puerta": "16",
       "ruta": "UIO",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
