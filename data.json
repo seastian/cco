@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/04/2020 06:40",
+  "lastUpdate": "12/04/2020 06:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -251,7 +251,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24",
+      "vuelo": "H24N",
       "st": "11/04/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -259,7 +259,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "209",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -270,7 +270,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
+      "vuelo": "H24",
       "st": "11/04/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -278,7 +278,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -359,7 +359,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -378,7 +378,7 @@
       "puerta": "16",
       "ruta": "UIO",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
