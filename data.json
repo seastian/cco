@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/04/2020 18:53",
+  "lastUpdate": "12/04/2020 18:59",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -304,25 +304,6 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1107",
-      "st": "12/04/2020 05:00",
-      "matricula": "N540LA",
-      "posicion": "55",
-      "et": "",
-      "at": "12/4/2020 06:58",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
