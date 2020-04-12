@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/04/2020 08:52",
+  "lastUpdate": "12/04/2020 08:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -161,14 +161,14 @@
       "matricula": "FAU592",
       "posicion": "17A",
       "et": "",
-      "at": "",
+      "at": "12/4/2020 08:54",
       "term": "A",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "CON",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "35"
     },
