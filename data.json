@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/04/2020 17:12",
+  "lastUpdate": "12/04/2020 17:19",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -56,7 +56,7 @@
       "via": "",
       "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "220"
     },
     {
       "tipo": "arribo",
@@ -168,6 +168,25 @@
       "lF": "",
       "ruta": "MIA",
       "via": "SCL",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "QT",
+      "vuelo": "4088",
+      "st": "13/04/2020 05:15",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "ASU",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
