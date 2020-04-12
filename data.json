@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/04/2020 18:15",
+  "lastUpdate": "12/04/2020 18:21",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -26,13 +26,13 @@
       "vuelo": "1911",
       "st": "12/04/2020 20:50",
       "matricula": "",
-      "posicion": "",
+      "posicion": "12",
       "et": "12/4/2020 20:43",
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "9",
+      "lF": "009",
       "ruta": "UIO",
       "via": "",
       "remark": "EST",
