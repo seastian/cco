@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/04/2020 14:05",
+  "lastUpdate": "12/04/2020 14:11",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -247,25 +247,6 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "M3",
-      "vuelo": "8496",
-      "st": "12/04/2020 02:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
