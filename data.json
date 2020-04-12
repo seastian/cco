@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/04/2020 00:18",
+  "lastUpdate": "12/04/2020 00:25",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -368,14 +368,14 @@
       "vuelo": "1910",
       "st": "12/04/2020 07:00",
       "matricula": "LVFVH",
-      "posicion": "M07",
+      "posicion": "12",
       "et": "",
       "at": "",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "16",
       "ruta": "UIO",
       "via": "",
       "remark": "HOR",
