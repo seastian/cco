@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "12/04/2020 03:45",
+  "lastUpdate": "12/04/2020 03:51",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1107",
-      "st": "12/04/2020 03:50",
-      "matricula": "N540LA",
-      "posicion": "55",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "MVD",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "FAE",
@@ -42,7 +23,7 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "8472",
+      "vuelo": "9831",
       "st": "12/04/2020 14:00",
       "matricula": "",
       "posicion": "",
@@ -61,7 +42,7 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "9831",
+      "vuelo": "8472",
       "st": "12/04/2020 14:00",
       "matricula": "",
       "posicion": "",
@@ -187,6 +168,25 @@
       "lF": "",
       "ruta": "VCP",
       "via": "",
+      "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "UC",
+      "vuelo": "1107",
+      "st": "12/04/2020 03:50",
+      "matricula": "N540LA",
+      "posicion": "55",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "MVD",
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
