@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/04/2020 19:36",
+  "lastUpdate": "12/04/2020 19:43",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -304,25 +304,6 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1910",
-      "st": "12/04/2020 07:00",
-      "matricula": "LVFVH",
-      "posicion": "12",
-      "et": "",
-      "at": "12/4/2020 07:38",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "219",
-      "chkTo": "240",
-      "puerta": "16",
-      "ruta": "UIO",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
