@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/04/2020 08:08",
+  "lastUpdate": "12/04/2020 08:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,7 +7,7 @@
       "vuelo": "592",
       "st": "12/04/2020 08:30",
       "matricula": "",
-      "posicion": "",
+      "posicion": "17A",
       "et": "",
       "at": "",
       "term": "A",
@@ -368,7 +368,7 @@
       "vuelo": "592",
       "st": "12/04/2020 09:30",
       "matricula": "",
-      "posicion": "",
+      "posicion": "17A",
       "et": "",
       "at": "",
       "term": "A",
