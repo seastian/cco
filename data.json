@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/04/2020 15:45",
+  "lastUpdate": "12/04/2020 15:51",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -369,7 +369,7 @@
       "st": "12/04/2020 15:40",
       "matricula": "ECMNL",
       "posicion": "09",
-      "et": "",
+      "et": "12/4/2020 16:25",
       "at": "",
       "term": "A",
       "sector": "AP",
