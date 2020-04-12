@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/04/2020 16:22",
+  "lastUpdate": "12/04/2020 16:29",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -327,25 +327,6 @@
     {
       "tipo": "partida",
       "aerolinea": "M3",
-      "vuelo": "8472",
-      "st": "12/04/2020 15:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "M3",
       "vuelo": "9832",
       "st": "12/04/2020 15:10",
       "matricula": "",
@@ -364,13 +345,32 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "8472",
+      "st": "12/04/2020 15:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "IB",
       "vuelo": "6846",
       "st": "12/04/2020 15:40",
       "matricula": "ECMNL",
       "posicion": "09",
       "et": "12/4/2020 16:25",
-      "at": "",
+      "at": "12/4/2020 16:28",
       "term": "A",
       "sector": "AP",
       "chkFrom": "027",
@@ -378,7 +378,7 @@
       "puerta": "08",
       "ruta": "MAD",
       "via": "",
-      "remark": "ULT",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
