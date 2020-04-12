@@ -1,12 +1,12 @@
 {
-  "lastUpdate": "12/04/2020 08:14",
+  "lastUpdate": "12/04/2020 08:20",
   "vuelos": [
     {
       "tipo": "arribo",
       "aerolinea": "FAE",
       "vuelo": "592",
       "st": "12/04/2020 08:30",
-      "matricula": "",
+      "matricula": "FAU592",
       "posicion": "17A",
       "et": "",
       "at": "",
@@ -112,25 +112,6 @@
       "ruta": "MVD",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "IB",
-      "vuelo": "6847",
-      "st": "11/04/2020 19:40",
-      "matricula": "ECMNL",
-      "posicion": "09",
-      "et": "11/4/2020 20:18",
-      "at": "11/4/2020 20:16",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
