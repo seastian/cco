@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "12/04/2020 20:39",
+  "lastUpdate": "12/04/2020 20:45",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1911",
-      "st": "12/04/2020 20:50",
-      "matricula": "LVFVH",
-      "posicion": "12",
-      "et": "12/4/2020 20:43",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "UIO",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "220"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "UC",
@@ -213,7 +194,7 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "8472",
+      "vuelo": "9831",
       "st": "12/04/2020 14:00",
       "matricula": "",
       "posicion": "",
@@ -232,7 +213,7 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "9831",
+      "vuelo": "8472",
       "st": "12/04/2020 14:00",
       "matricula": "",
       "posicion": "",
@@ -304,6 +285,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1911",
+      "st": "12/04/2020 20:50",
+      "matricula": "LVFVH",
+      "posicion": "12",
+      "et": "12/4/2020 20:43",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "009",
+      "ruta": "UIO",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "220"
     },
     {
       "tipo": "partida",
