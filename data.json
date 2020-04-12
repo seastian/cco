@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/04/2020 16:41",
+  "lastUpdate": "12/04/2020 16:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -538,8 +538,8 @@
       "aerolinea": "4M",
       "vuelo": "9982",
       "st": "13/04/2020 00:50",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "CCCWV",
+      "posicion": "65",
       "et": "",
       "at": "",
       "term": "A",
