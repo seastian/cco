@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/04/2020 12:50",
+  "lastUpdate": "12/04/2020 12:56",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -548,6 +548,25 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "4M",
+      "vuelo": "9982",
+      "st": "13/04/2020 00:50",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "CUN",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
