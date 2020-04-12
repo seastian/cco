@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "12/04/2020 10:07",
+  "lastUpdate": "12/04/2020 10:13",
   "vuelos": [
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "9831",
+      "vuelo": "8472",
       "st": "12/04/2020 14:00",
       "matricula": "",
       "posicion": "",
@@ -23,7 +23,7 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "8472",
+      "vuelo": "9831",
       "st": "12/04/2020 14:00",
       "matricula": "",
       "posicion": "",
@@ -121,6 +121,25 @@
       "vuelo": "1407",
       "st": "12/04/2020 22:00",
       "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "GTI",
+      "vuelo": "033",
+      "st": "12/04/2020 22:10",
+      "matricula": "N859GT",
       "posicion": "",
       "et": "",
       "at": "",
