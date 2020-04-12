@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/04/2020 14:55",
+  "lastUpdate": "12/04/2020 15:01",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -375,10 +375,10 @@
       "sector": "AP",
       "chkFrom": "027",
       "chkTo": "032",
-      "puerta": "09",
+      "puerta": "08",
       "ruta": "MAD",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
