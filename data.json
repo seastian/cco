@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/04/2020 17:06",
+  "lastUpdate": "12/04/2020 17:12",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -169,25 +169,6 @@
       "ruta": "MIA",
       "via": "SCL",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1107",
-      "st": "12/04/2020 03:50",
-      "matricula": "N540LA",
-      "posicion": "55",
-      "et": "",
-      "at": "12/4/2020 05:09",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "MVD",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
