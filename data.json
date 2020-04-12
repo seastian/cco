@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/04/2020 01:58",
+  "lastUpdate": "12/04/2020 02:05",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -23,8 +23,8 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "8498",
-      "st": "11/04/2020 14:00",
+      "vuelo": "9831",
+      "st": "12/04/2020 14:00",
       "matricula": "",
       "posicion": "",
       "et": "",
@@ -35,15 +35,15 @@
       "lF": "",
       "ruta": "VCP",
       "via": "",
-      "remark": "CON",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "8495",
-      "st": "11/04/2020 14:00",
+      "vuelo": "8472",
+      "st": "12/04/2020 14:00",
       "matricula": "",
       "posicion": "",
       "et": "",
@@ -52,9 +52,9 @@
       "sector": "",
       "cinta": "",
       "lF": "",
-      "ruta": "SCL",
+      "ruta": "VCP",
       "via": "",
-      "remark": "CON",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
