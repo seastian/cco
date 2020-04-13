@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/04/2020 07:24",
+  "lastUpdate": "13/04/2020 07:30",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -535,25 +535,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "QT",
-      "vuelo": "4078",
-      "st": "13/04/2020 07:15",
-      "matricula": "N336QT",
-      "posicion": "54",
-      "et": "13/4/2020 08:45",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AOG",
       "vuelo": "103",
       "st": "13/04/2020 07:30",
@@ -569,6 +550,25 @@
       "ruta": "MVD",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "QT",
+      "vuelo": "4078",
+      "st": "13/04/2020 07:15",
+      "matricula": "N336QT",
+      "posicion": "54",
+      "et": "13/4/2020 08:45",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "BOG",
+      "via": "",
+      "remark": "DEM",
       "sanidad": "NO"
     },
     {
