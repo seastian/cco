@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/04/2020 00:50",
+  "lastUpdate": "13/04/2020 00:56",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -530,7 +530,7 @@
       "puerta": "02",
       "ruta": "CUN",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
