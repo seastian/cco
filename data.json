@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/04/2020 14:36",
+  "lastUpdate": "13/04/2020 14:42",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -44,9 +44,9 @@
       "aerolinea": "4M",
       "vuelo": "7911",
       "st": "13/04/2020 20:00",
-      "matricula": "",
+      "matricula": "CCCWV",
       "posicion": "",
-      "et": "",
+      "et": "13/4/2020 21:15",
       "at": "",
       "term": "A",
       "sector": "",
@@ -54,9 +54,9 @@
       "lF": "",
       "ruta": "CUN",
       "via": "",
-      "remark": "",
+      "remark": "DEM",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "228"
     },
     {
       "tipo": "arribo",
