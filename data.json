@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/04/2020 08:27",
+  "lastUpdate": "13/04/2020 08:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -309,25 +309,6 @@
       "tipo": "partida",
       "aerolinea": "AOG",
       "vuelo": "101",
-      "st": "12/04/2020 20:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "101",
       "st": "12/04/2020 19:30",
       "matricula": "CXCAR",
       "posicion": "54A",
@@ -560,7 +541,7 @@
       "matricula": "FAM3527",
       "posicion": "10",
       "et": "",
-      "at": "",
+      "at": "13/4/2020 08:27",
       "term": "A",
       "sector": "AP",
       "chkFrom": "027",
@@ -568,7 +549,7 @@
       "puerta": "10",
       "ruta": "SCL",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
