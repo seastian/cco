@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/04/2020 04:10",
+  "lastUpdate": "13/04/2020 04:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -44,7 +44,7 @@
       "aerolinea": "LH",
       "vuelo": "8264",
       "st": "13/04/2020 06:40",
-      "matricula": "",
+      "matricula": "DALCI",
       "posicion": "",
       "et": "",
       "at": "",
@@ -633,9 +633,9 @@
       "aerolinea": "LH",
       "vuelo": "8265",
       "st": "13/04/2020 08:10",
-      "matricula": "",
+      "matricula": "DALCI",
       "posicion": "",
-      "et": "",
+      "et": "13/4/2020 09:20",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -644,7 +644,7 @@
       "puerta": "",
       "ruta": "FRA",
       "via": "",
-      "remark": "HOR",
+      "remark": "DEM",
       "sanidad": "NO"
     },
     {
