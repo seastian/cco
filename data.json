@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/04/2020 09:48",
+  "lastUpdate": "13/04/2020 09:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,7 +7,7 @@
       "vuelo": "1407",
       "st": "13/04/2020 11:20",
       "matricula": "N536LA",
-      "posicion": "",
+      "posicion": "56",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -577,7 +577,7 @@
       "vuelo": "1408",
       "st": "13/04/2020 12:30",
       "matricula": "N536LA",
-      "posicion": "",
+      "posicion": "56",
       "et": "",
       "at": "",
       "term": "TCA",
