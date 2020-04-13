@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/04/2020 13:46",
+  "lastUpdate": "13/04/2020 13:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -44,7 +44,7 @@
       "aerolinea": "AOG",
       "vuelo": "421",
       "st": "13/04/2020 19:00",
-      "matricula": "CXLSS",
+      "matricula": "",
       "posicion": "",
       "et": "",
       "at": "",
@@ -63,7 +63,7 @@
       "aerolinea": "AOG",
       "vuelo": "423",
       "st": "13/04/2020 19:00",
-      "matricula": "CXCLS",
+      "matricula": "",
       "posicion": "",
       "et": "",
       "at": "",
