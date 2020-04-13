@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/04/2020 08:52",
+  "lastUpdate": "13/04/2020 08:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -95,25 +95,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1911",
-      "st": "12/04/2020 20:50",
-      "matricula": "LVFVH",
-      "posicion": "12",
-      "et": "12/4/2020 20:43",
-      "at": "12/4/2020 20:55",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "UIO",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "220"
     },
     {
       "tipo": "arribo",
@@ -364,25 +345,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "JJ",
-      "vuelo": "H24",
-      "st": "12/04/2020 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "",
-      "ruta": "QTR",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "H24",
       "st": "12/04/2020 23:59",
@@ -394,6 +356,25 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
+      "puerta": "",
+      "ruta": "QTR",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "JJ",
+      "vuelo": "H24",
+      "st": "12/04/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
       "puerta": "",
       "ruta": "QTR",
       "via": "",
@@ -560,7 +541,7 @@
       "matricula": "N336QT",
       "posicion": "54",
       "et": "13/4/2020 08:45",
-      "at": "",
+      "at": "13/4/2020 08:45",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -568,7 +549,7 @@
       "puerta": "",
       "ruta": "BOG",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
