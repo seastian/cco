@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "13/04/2020 11:10",
+  "lastUpdate": "13/04/2020 11:16",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1407",
-      "st": "13/04/2020 11:20",
-      "matricula": "N536LA",
-      "posicion": "56",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "M3",
@@ -263,6 +244,25 @@
       "lF": "",
       "ruta": "FRA",
       "via": "MVD",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "UC",
+      "vuelo": "1407",
+      "st": "13/04/2020 11:20",
+      "matricula": "N536LA",
+      "posicion": "56",
+      "et": "",
+      "at": "13/4/2020 11:11",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
+      "via": "",
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
