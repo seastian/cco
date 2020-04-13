@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/04/2020 21:17",
+  "lastUpdate": "12/04/2020 21:23",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -8,25 +8,6 @@
       "st": "12/04/2020 22:00",
       "matricula": "",
       "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "GTI",
-      "vuelo": "033",
-      "st": "12/04/2020 22:10",
-      "matricula": "N859GT",
-      "posicion": "55",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -285,6 +266,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "220"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "GTI",
+      "vuelo": "033",
+      "st": "12/04/2020 22:10",
+      "matricula": "N859GT",
+      "posicion": "55",
+      "et": "",
+      "at": "12/4/2020 21:18",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "partida",
