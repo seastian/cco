@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/04/2020 12:44",
+  "lastUpdate": "13/04/2020 12:50",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -427,7 +427,7 @@
       "matricula": "N536LA",
       "posicion": "56",
       "et": "",
-      "at": "",
+      "at": "13/4/2020 12:43",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -435,7 +435,7 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "CON",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
