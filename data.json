@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/04/2020 06:22",
+  "lastUpdate": "13/04/2020 06:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -256,14 +256,14 @@
       "matricula": "N336QT",
       "posicion": "54",
       "et": "13/4/2020 06:15",
-      "at": "",
+      "at": "13/4/2020 06:25",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "MIA",
       "via": "ASU",
-      "remark": "DEM",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
