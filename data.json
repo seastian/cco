@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/04/2020 22:00",
+  "lastUpdate": "12/04/2020 22:07",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -263,7 +263,7 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "",
+      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
@@ -408,7 +408,7 @@
       "matricula": "CXCAR",
       "posicion": "54A",
       "et": "12/4/2020 22:00",
-      "at": "",
+      "at": "12/4/2020 22:01",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -416,7 +416,7 @@
       "puerta": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
