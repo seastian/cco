@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/04/2020 08:14",
+  "lastUpdate": "13/04/2020 08:20",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -598,7 +598,7 @@
       "matricula": "DALCI",
       "posicion": "56",
       "et": "13/4/2020 09:20",
-      "at": "",
+      "at": "13/4/2020 08:12",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -606,7 +606,7 @@
       "puerta": "",
       "ruta": "FRA",
       "via": "",
-      "remark": "DEM",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -683,6 +683,25 @@
       "ruta": "MVD",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "5X",
+      "vuelo": "417",
+      "st": "13/04/2020 20:15",
+      "matricula": "N350UP",
+      "posicion": "55",
+      "et": "13/4/2020 20:20",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
+      "via": "VCP",
+      "remark": "EST",
       "sanidad": "NO"
     }
   ]
