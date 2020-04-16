@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/04/2020 16:10",
+  "lastUpdate": "16/04/2020 16:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -304,25 +304,6 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1324",
-      "st": "16/04/2020 04:00",
-      "matricula": "LVGKP",
-      "posicion": "13",
-      "et": "",
-      "at": "16/4/2020 04:11",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "16",
-      "ruta": "PUJ",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
