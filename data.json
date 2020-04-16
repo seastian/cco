@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/04/2020 17:00",
+  "lastUpdate": "16/04/2020 17:06",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -37,7 +37,7 @@
       "via": "",
       "remark": "DEM",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "243"
     },
     {
       "tipo": "arribo",
@@ -587,6 +587,25 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
+      "remark": "EST",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "GG",
+      "vuelo": "4520",
+      "st": "17/04/2020 05:00",
+      "matricula": "N904AR",
+      "posicion": "",
+      "et": "17/4/2020 03:00",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
+      "via": "MVD",
       "remark": "EST",
       "sanidad": "NO"
     },
