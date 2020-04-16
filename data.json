@@ -1,6 +1,25 @@
 {
-  "lastUpdate": "16/04/2020 19:05",
+  "lastUpdate": "16/04/2020 19:11",
   "vuelos": [
+    {
+      "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "FWT",
+      "st": "16/04/2020 20:00",
+      "matricula": "LVFWT",
+      "posicion": "41",
+      "et": "16/4/2020 19:20",
+      "at": "",
+      "term": "FBO",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "PMY",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "4"
+    },
     {
       "tipo": "arribo",
       "aerolinea": "QT",
@@ -19,25 +38,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "FWT",
-      "st": "16/04/2020 20:00",
-      "matricula": "LVFWT",
-      "posicion": "40",
-      "et": "",
-      "at": "",
-      "term": "FBO",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "PMY",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO",
-      "pax": "4"
     },
     {
       "tipo": "arribo",
@@ -482,8 +482,8 @@
       "vuelo": "FWT",
       "st": "16/04/2020 21:00",
       "matricula": "LVFWT",
-      "posicion": "40",
-      "et": "",
+      "posicion": "41",
+      "et": "16/4/2020 20:00",
       "at": "",
       "term": "FBO",
       "sector": "",
@@ -492,7 +492,7 @@
       "puerta": "",
       "ruta": "FDO",
       "via": "",
-      "remark": "HOR",
+      "remark": "EST",
       "sanidad": "NO"
     },
     {
@@ -536,7 +536,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
+      "vuelo": "H24",
       "st": "16/04/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -544,7 +544,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -555,7 +555,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24",
+      "vuelo": "H24N",
       "st": "16/04/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -563,7 +563,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "209",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
