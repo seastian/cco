@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/04/2020 18:15",
+  "lastUpdate": "16/04/2020 18:21",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -492,7 +492,7 @@
       "puerta": "",
       "ruta": "LAX",
       "via": "",
-      "remark": "EST",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
