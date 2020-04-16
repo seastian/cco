@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/04/2020 17:18",
+  "lastUpdate": "16/04/2020 17:25",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -193,9 +193,9 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "5X",
-      "vuelo": "410",
-      "st": "16/04/2020 05:20",
+      "aerolinea": "AV",
+      "vuelo": "273",
+      "st": "17/04/2020 05:20",
       "matricula": "",
       "posicion": "",
       "et": "",
@@ -204,9 +204,9 @@
       "sector": "",
       "cinta": "",
       "lF": "",
-      "ruta": "MIA",
-      "via": "SCL",
-      "remark": "CAN",
+      "ruta": "BOG",
+      "via": "",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
