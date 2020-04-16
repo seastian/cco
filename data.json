@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/04/2020 17:06",
+  "lastUpdate": "16/04/2020 17:12",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -150,6 +150,25 @@
       "ruta": "DOH",
       "via": "GRU",
       "remark": "CAN",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "5X",
+      "vuelo": "412",
+      "st": "17/04/2020 05:12",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "SCL",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
