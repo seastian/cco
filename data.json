@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/04/2020 17:25",
+  "lastUpdate": "16/04/2020 17:31",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -207,25 +207,6 @@
       "ruta": "BOG",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "102",
-      "st": "16/04/2020 05:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
