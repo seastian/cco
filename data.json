@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/04/2020 16:41",
+  "lastUpdate": "16/04/2020 16:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -607,6 +607,25 @@
       "ruta": "BOG",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "QR",
+      "vuelo": "8157",
+      "st": "17/04/2020 04:45",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "DOH",
+      "via": "UIO",
+      "remark": "CAN",
       "sanidad": "NO"
     }
   ]
