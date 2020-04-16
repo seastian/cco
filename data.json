@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/04/2020 18:02",
+  "lastUpdate": "16/04/2020 18:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -45,7 +45,7 @@
       "vuelo": "344",
       "st": "16/04/2020 21:45",
       "matricula": "DABVR",
-      "posicion": "",
+      "posicion": "09",
       "et": "",
       "at": "",
       "term": "A",
