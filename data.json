@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/04/2020 14:29",
+  "lastUpdate": "16/04/2020 14:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -110,6 +110,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "VCP",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "QT",
+      "vuelo": "4099",
+      "st": "17/04/2020 02:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "BOG",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -413,7 +432,7 @@
       "sector": "AP",
       "chkFrom": "027",
       "chkTo": "032",
-      "puerta": "09",
+      "puerta": "08",
       "ruta": "MAD",
       "via": "",
       "remark": "HOR",
