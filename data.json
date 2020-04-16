@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/04/2020 15:01",
+  "lastUpdate": "16/04/2020 15:07",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -27,7 +27,7 @@
       "st": "16/04/2020 20:45",
       "matricula": "",
       "posicion": "",
-      "et": "",
+      "et": "16/4/2020 21:45",
       "at": "",
       "term": "A",
       "sector": "",
@@ -35,7 +35,7 @@
       "lF": "",
       "ruta": "PUJ",
       "via": "",
-      "remark": "",
+      "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
     },
