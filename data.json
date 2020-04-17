@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/04/2020 12:55",
+  "lastUpdate": "17/04/2020 13:01",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -345,25 +345,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "M3",
-      "vuelo": "8494",
-      "st": "17/04/2020 02:10",
-      "matricula": "PRACO",
-      "posicion": "55",
-      "et": "17/4/2020 01:00",
-      "at": "17/4/2020 01:00",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AMS",
       "vuelo": "7119",
       "st": "17/04/2020 01:30",
@@ -652,8 +633,8 @@
       "aerolinea": "AR",
       "vuelo": "1302",
       "st": "17/04/2020 23:00",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "LVFVI",
+      "posicion": "M01",
       "et": "",
       "at": "",
       "term": "C",
