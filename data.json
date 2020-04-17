@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/04/2020 21:16",
+  "lastUpdate": "16/04/2020 21:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -498,7 +498,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24",
+      "vuelo": "H24N",
       "st": "16/04/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -506,7 +506,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "209",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -536,7 +536,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
+      "vuelo": "H24",
       "st": "16/04/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -544,7 +544,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -624,6 +624,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "BOG",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AA",
+      "vuelo": "9437",
+      "st": "17/04/2020 09:20",
+      "matricula": "N724AN",
+      "posicion": "50",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "DFW",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
