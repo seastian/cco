@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/04/2020 19:23",
+  "lastUpdate": "17/04/2020 19:30",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -302,6 +302,25 @@
       "ruta": "ASU",
       "via": "",
       "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "2D",
+      "vuelo": "9303",
+      "st": "17/04/2020 21:20",
+      "matricula": "N703KW",
+      "posicion": "11",
+      "et": "17/4/2020 19:30",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
