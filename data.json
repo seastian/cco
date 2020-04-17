@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/04/2020 15:32",
+  "lastUpdate": "17/04/2020 15:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -519,15 +519,15 @@
       "aerolinea": "AR",
       "vuelo": "1070",
       "st": "17/04/2020 18:30",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "LVFVH",
+      "posicion": "12",
       "et": "",
       "at": "",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
       "chkTo": "",
-      "puerta": "",
+      "puerta": "16",
       "ruta": "PVG",
       "via": "AKL",
       "remark": "HOR",
