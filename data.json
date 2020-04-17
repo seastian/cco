@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/04/2020 00:36",
+  "lastUpdate": "17/04/2020 00:42",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -345,25 +345,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "424",
-      "st": "16/04/2020 12:00",
-      "matricula": "CXLSS",
-      "posicion": "60",
-      "et": "",
-      "at": "16/4/2020 12:37",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "M3",
       "vuelo": "8493",
       "st": "16/04/2020 15:10",
@@ -554,6 +535,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "GG",
+      "vuelo": "4520",
+      "st": "17/04/2020 05:00",
+      "matricula": "N904AR",
+      "posicion": "54",
+      "et": "17/4/2020 03:00",
+      "at": "17/4/2020 00:42",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
+      "via": "MVD",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "M3",
       "vuelo": "8494",
       "st": "17/04/2020 02:10",
@@ -588,25 +588,6 @@
       "ruta": "MVD",
       "via": "",
       "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "GG",
-      "vuelo": "4520",
-      "st": "17/04/2020 05:00",
-      "matricula": "N904AR",
-      "posicion": "54",
-      "et": "17/4/2020 03:00",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MIA",
-      "via": "MVD",
-      "remark": "CER",
       "sanidad": "NO"
     },
     {
