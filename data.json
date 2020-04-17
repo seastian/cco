@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/04/2020 21:10",
+  "lastUpdate": "16/04/2020 21:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -446,7 +446,7 @@
       "matricula": "LVFWT",
       "posicion": "41",
       "et": "16/4/2020 20:00",
-      "at": "",
+      "at": "16/4/2020 21:05",
       "term": "FBO",
       "sector": "",
       "chkFrom": "",
@@ -454,7 +454,7 @@
       "puerta": "",
       "ruta": "FDO",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
