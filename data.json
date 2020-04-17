@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/04/2020 09:03",
+  "lastUpdate": "17/04/2020 09:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -380,25 +380,6 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "PRV",
-      "vuelo": "FWT",
-      "st": "16/04/2020 21:00",
-      "matricula": "LVFWT",
-      "posicion": "41",
-      "et": "16/4/2020 20:00",
-      "at": "16/4/2020 21:05",
-      "term": "FBO",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "FDO",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
