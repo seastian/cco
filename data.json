@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/04/2020 10:06",
+  "lastUpdate": "17/04/2020 10:12",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -421,25 +421,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "QT",
-      "vuelo": "4078",
-      "st": "17/04/2020 04:00",
-      "matricula": "N336QT",
-      "posicion": "56",
-      "et": "16/4/2020 22:30",
-      "at": "16/4/2020 22:10",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "UC",
       "vuelo": "1104",
       "st": "16/04/2020 23:50",
@@ -460,7 +441,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24",
+      "vuelo": "H24N",
       "st": "16/04/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -468,7 +449,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "209",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -479,7 +460,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
+      "vuelo": "H24",
       "st": "16/04/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -487,7 +468,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
