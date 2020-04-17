@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/04/2020 18:02",
+  "lastUpdate": "17/04/2020 18:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -721,6 +721,25 @@
       "ruta": "LAX",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "5X",
+      "vuelo": "413",
+      "st": "18/04/2020 06:05",
+      "matricula": "N301UP",
+      "posicion": "55",
+      "et": "18/4/2020 05:30",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
+      "via": "VCP",
+      "remark": "EST",
       "sanidad": "NO"
     }
   ]
