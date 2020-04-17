@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/04/2020 10:25",
+  "lastUpdate": "17/04/2020 10:31",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -245,25 +245,6 @@
       "ruta": "MIA",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1104",
-      "st": "16/04/2020 22:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
@@ -593,7 +574,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AOG",
-      "vuelo": "423",
+      "vuelo": "500",
       "st": "17/04/2020 12:30",
       "matricula": "CXCLS",
       "posicion": "",
@@ -631,25 +612,6 @@
     {
       "tipo": "partida",
       "aerolinea": "M3",
-      "vuelo": "8450",
-      "st": "17/04/2020 15:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "M3",
       "vuelo": "8495",
       "st": "17/04/2020 15:10",
       "matricula": "",
@@ -662,6 +624,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "VCP",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "8450",
+      "st": "17/04/2020 15:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
