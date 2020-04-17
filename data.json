@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/04/2020 12:49",
+  "lastUpdate": "17/04/2020 12:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -45,7 +45,7 @@
       "vuelo": "1145",
       "st": "17/04/2020 14:40",
       "matricula": "CCBGB",
-      "posicion": "05",
+      "posicion": "10",
       "et": "17/4/2020 14:50",
       "at": "",
       "term": "A",
@@ -767,14 +767,14 @@
       "vuelo": "1146",
       "st": "17/04/2020 17:20",
       "matricula": "CCBGB",
-      "posicion": "05",
+      "posicion": "10",
       "et": "17/4/2020 18:20",
       "at": "",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
       "chkTo": "053",
-      "puerta": "04",
+      "puerta": "10",
       "ruta": "SCL",
       "via": "",
       "remark": "DEM",
