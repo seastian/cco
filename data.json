@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/04/2020 17:12",
+  "lastUpdate": "17/04/2020 17:18",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -149,6 +149,25 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1071",
+      "st": "18/04/2020 05:15",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "PVG",
+      "via": "AKL",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
