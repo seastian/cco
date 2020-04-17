@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/04/2020 11:21",
+  "lastUpdate": "17/04/2020 11:27",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -231,25 +231,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AMS",
-      "vuelo": "8119",
-      "st": "16/04/2020 23:30",
-      "matricula": "CXMAS",
-      "posicion": "57",
-      "et": "",
-      "at": "16/4/2020 23:26",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "M3",
       "vuelo": "8494",
       "st": "16/04/2020 23:45",
@@ -351,14 +332,14 @@
       "matricula": "N797AN",
       "posicion": "50",
       "et": "17/4/2020 11:20",
-      "at": "",
+      "at": "17/4/2020 11:23",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "DEM",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
