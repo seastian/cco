@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/04/2020 10:18",
+  "lastUpdate": "17/04/2020 10:25",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -245,25 +245,6 @@
       "ruta": "MIA",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LH",
-      "vuelo": "344",
-      "st": "16/04/2020 21:45",
-      "matricula": "DABVR",
-      "posicion": "09",
-      "et": "",
-      "at": "16/4/2020 22:23",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "FRA",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
