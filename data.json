@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/04/2020 20:07",
+  "lastUpdate": "17/04/2020 20:13",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -511,7 +511,7 @@
       "puerta": "08",
       "ruta": "FRA",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
