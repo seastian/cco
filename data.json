@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/04/2020 22:19",
+  "lastUpdate": "16/04/2020 22:25",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -294,14 +294,14 @@
       "matricula": "DABVR",
       "posicion": "09",
       "et": "",
-      "at": "",
+      "at": "16/4/2020 22:23",
       "term": "A",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "FRA",
       "via": "",
-      "remark": "CON",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
