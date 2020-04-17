@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/04/2020 12:24",
+  "lastUpdate": "17/04/2020 12:30",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -46,7 +46,7 @@
       "st": "17/04/2020 14:40",
       "matricula": "",
       "posicion": "",
-      "et": "",
+      "et": "17/4/2020 15:10",
       "at": "",
       "term": "A",
       "sector": "",
@@ -54,9 +54,9 @@
       "lF": "",
       "ruta": "SYD",
       "via": "",
-      "remark": "",
+      "remark": "DEM",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "288"
     },
     {
       "tipo": "arribo",
@@ -484,7 +484,7 @@
       "matricula": "CXCLS",
       "posicion": "54A",
       "et": "",
-      "at": "",
+      "at": "17/4/2020 12:25",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -492,7 +492,7 @@
       "puerta": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "HOR",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
