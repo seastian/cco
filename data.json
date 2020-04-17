@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/04/2020 20:45",
+  "lastUpdate": "17/04/2020 20:51",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -484,7 +484,7 @@
       "matricula": "DABVR",
       "posicion": "09",
       "et": "",
-      "at": "",
+      "at": "17/4/2020 20:49",
       "term": "A",
       "sector": "AP",
       "chkFrom": "027",
@@ -492,7 +492,7 @@
       "puerta": "08",
       "ruta": "FRA",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
