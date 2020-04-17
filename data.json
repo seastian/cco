@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/04/2020 11:40",
+  "lastUpdate": "17/04/2020 11:46",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -193,6 +193,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "M3",
+      "vuelo": "8496",
+      "st": "17/04/2020 23:45",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "VCP",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "QR",
       "vuelo": "8157",
       "st": "17/04/2020 03:00",
@@ -313,14 +332,14 @@
       "matricula": "CXLSS",
       "posicion": "56B",
       "et": "",
-      "at": "",
+      "at": "17/4/2020 11:41",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "CON",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
