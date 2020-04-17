@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/04/2020 21:54",
+  "lastUpdate": "16/04/2020 22:00",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -313,14 +313,14 @@
       "matricula": "LVGKP",
       "posicion": "13",
       "et": "16/4/2020 21:45",
-      "at": "",
+      "at": "16/4/2020 21:57",
       "term": "A",
       "sector": "",
       "cinta": "8",
       "lF": "009",
       "ruta": "PUJ",
       "via": "",
-      "remark": "DEM",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "243"
     },
