@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "18/04/2020 09:22",
+  "lastUpdate": "18/04/2020 09:28",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AA",
-      "vuelo": "9436",
-      "st": "18/04/2020 09:20",
-      "matricula": "N772AN",
-      "posicion": "50",
-      "et": "18/4/2020 09:25",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "DFW",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "LA",
@@ -266,6 +247,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AA",
+      "vuelo": "9436",
+      "st": "18/04/2020 09:20",
+      "matricula": "N772AN",
+      "posicion": "50",
+      "et": "18/4/2020 09:25",
+      "at": "18/4/2020 09:24",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "DFW",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "partida",
