@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/04/2020 13:07",
+  "lastUpdate": "18/04/2020 13:13",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -340,7 +340,7 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
