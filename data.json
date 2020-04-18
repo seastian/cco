@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/04/2020 14:59",
+  "lastUpdate": "18/04/2020 15:06",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -332,7 +332,7 @@
       "matricula": "LVCTK",
       "posicion": "40",
       "et": "",
-      "at": "",
+      "at": "18/4/2020 15:03",
       "term": "FBO",
       "sector": "",
       "chkFrom": "",
@@ -340,7 +340,7 @@
       "puerta": "",
       "ruta": "AEP",
       "via": "",
-      "remark": "CON",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
