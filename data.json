@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/04/2020 03:25",
+  "lastUpdate": "18/04/2020 03:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -573,6 +573,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1406",
+      "st": "18/04/2020 03:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "LAX",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "LA",
       "vuelo": "1146",
       "st": "17/04/2020 17:20",
@@ -588,25 +607,6 @@
       "ruta": "SCL",
       "via": "",
       "remark": "DEM",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1406",
-      "st": "18/04/2020 03:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "LAX",
-      "via": "",
-      "remark": "HOR",
       "sanidad": "NO"
     },
     {
