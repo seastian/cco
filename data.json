@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/04/2020 18:45",
+  "lastUpdate": "18/04/2020 18:51",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -31,7 +31,7 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "7",
+      "cinta": "8",
       "lF": "010",
       "ruta": "ZRH",
       "via": "UIO",
