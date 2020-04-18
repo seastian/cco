@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/04/2020 05:18",
+  "lastUpdate": "18/04/2020 05:24",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -611,25 +611,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "LA",
-      "vuelo": "1146",
-      "st": "17/04/2020 17:20",
-      "matricula": "CCBGB",
-      "posicion": "10",
-      "et": "17/4/2020 18:20",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "10",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "5X",
       "vuelo": "413",
       "st": "18/04/2020 06:05",
@@ -644,7 +625,7 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "VCP",
-      "remark": "EST",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
