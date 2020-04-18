@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/04/2020 13:32",
+  "lastUpdate": "18/04/2020 13:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -449,8 +449,8 @@
       "at": "",
       "term": "A",
       "sector": "AP",
-      "chkFrom": "",
-      "chkTo": "",
+      "chkFrom": "062",
+      "chkTo": "067",
       "puerta": "",
       "ruta": "ZRH",
       "via": "",
