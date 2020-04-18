@@ -1,13 +1,13 @@
 {
-  "lastUpdate": "18/04/2020 15:37",
+  "lastUpdate": "18/04/2020 15:43",
   "vuelos": [
     {
       "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1303",
       "st": "18/04/2020 19:30",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "LVFVI",
+      "posicion": "14",
       "et": "18/4/2020 19:14",
       "at": "",
       "term": "A",
