@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/04/2020 17:42",
+  "lastUpdate": "18/04/2020 17:48",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -91,6 +91,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "VCP",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AA",
+      "vuelo": "9434",
+      "st": "19/04/2020 05:47",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
       "via": "",
       "remark": "",
       "sanidad": "NO",
