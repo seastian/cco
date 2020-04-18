@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/04/2020 14:22",
+  "lastUpdate": "18/04/2020 14:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -26,7 +26,7 @@
       "vuelo": "2097",
       "st": "18/04/2020 16:40",
       "matricula": "HBJMF",
-      "posicion": "",
+      "posicion": "16",
       "et": "18/4/2020 19:30",
       "at": "",
       "term": "A",
@@ -37,7 +37,7 @@
       "via": "UIO",
       "remark": "DEM",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "98"
     },
     {
       "tipo": "arribo",
@@ -406,14 +406,14 @@
       "vuelo": "2097",
       "st": "18/04/2020 18:10",
       "matricula": "HBJMF",
-      "posicion": "",
+      "posicion": "16",
       "et": "18/4/2020 21:00",
       "at": "",
       "term": "A",
       "sector": "AP",
       "chkFrom": "062",
       "chkTo": "067",
-      "puerta": "",
+      "puerta": "22",
       "ruta": "ZRH",
       "via": "",
       "remark": "DEM",
