@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/04/2020 22:50",
+  "lastUpdate": "17/04/2020 22:56",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -46,7 +46,7 @@
       "st": "18/04/2020 05:15",
       "matricula": "",
       "posicion": "",
-      "et": "",
+      "et": "18/4/2020 07:40",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -54,9 +54,9 @@
       "lF": "",
       "ruta": "PVG",
       "via": "AKL",
-      "remark": "",
+      "remark": "DEM",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -587,7 +587,7 @@
       "puerta": "19",
       "ruta": "MIA",
       "via": "",
-      "remark": "PRE",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -630,25 +630,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "H24",
-      "st": "17/04/2020 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "QTR",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "JJ",
       "vuelo": "H24",
       "st": "17/04/2020 23:59",
@@ -660,6 +641,25 @@
       "sector": "AP",
       "chkFrom": "041",
       "chkTo": "053",
+      "puerta": "",
+      "ruta": "QTR",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "H24",
+      "st": "17/04/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
       "via": "",
