@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/04/2020 13:19",
+  "lastUpdate": "18/04/2020 13:26",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -84,7 +84,7 @@
       "st": "18/04/2020 19:30",
       "matricula": "",
       "posicion": "",
-      "et": "",
+      "et": "18/4/2020 19:14",
       "at": "",
       "term": "A",
       "sector": "",
@@ -92,9 +92,9 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "243"
     },
     {
       "tipo": "arribo",
