@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/04/2020 14:28",
+  "lastUpdate": "18/04/2020 14:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -340,7 +340,7 @@
       "puerta": "",
       "ruta": "AEP",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -351,7 +351,7 @@
       "matricula": "CCBGG",
       "posicion": "09",
       "et": "",
-      "at": "",
+      "at": "18/4/2020 14:34",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -359,7 +359,7 @@
       "puerta": "09",
       "ruta": "MIA",
       "via": "",
-      "remark": "HOR",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
