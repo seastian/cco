@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/04/2020 21:16",
+  "lastUpdate": "17/04/2020 21:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -92,6 +92,25 @@
       "lF": "",
       "ruta": "PVG",
       "via": "AKL",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AA",
+      "vuelo": "9436",
+      "st": "18/04/2020 09:20",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "DFW",
+      "via": "",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
@@ -304,25 +323,6 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AA",
-      "vuelo": "9437",
-      "st": "17/04/2020 09:20",
-      "matricula": "N724AN",
-      "posicion": "50",
-      "et": "",
-      "at": "17/4/2020 09:20",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "DFW",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
