@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/04/2020 05:24",
+  "lastUpdate": "18/04/2020 05:30",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -617,7 +617,7 @@
       "matricula": "N301UP",
       "posicion": "55",
       "et": "18/4/2020 05:30",
-      "at": "",
+      "at": "18/4/2020 05:26",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -625,7 +625,7 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "VCP",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -707,25 +707,6 @@
     {
       "tipo": "partida",
       "aerolinea": "M3",
-      "vuelo": "8498",
-      "st": "18/04/2020 15:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "M3",
       "vuelo": "8495",
       "st": "18/04/2020 15:10",
       "matricula": "",
@@ -738,6 +719,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "VCP",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "8498",
+      "st": "18/04/2020 15:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
