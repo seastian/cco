@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/04/2020 19:41",
+  "lastUpdate": "18/04/2020 19:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -76,25 +76,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1071",
-      "st": "18/04/2020 05:15",
-      "matricula": "LVGIF",
-      "posicion": "18",
-      "et": "18/4/2020 07:40",
-      "at": "18/4/2020 07:45",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "PVG",
-      "via": "AKL",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
