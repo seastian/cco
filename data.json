@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/04/2020 09:28",
+  "lastUpdate": "18/04/2020 09:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -133,25 +133,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1148",
-      "st": "17/04/2020 21:50",
-      "matricula": "CCBGI",
-      "posicion": "54",
-      "et": "17/4/2020 21:40",
-      "at": "17/4/2020 21:33",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -346,7 +327,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
+      "vuelo": "H24",
       "st": "17/04/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -354,7 +335,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -365,7 +346,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24",
+      "vuelo": "H24N",
       "st": "17/04/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -373,7 +354,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "209",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -484,7 +465,7 @@
       "matricula": "N797AN",
       "posicion": "50",
       "et": "",
-      "at": "",
+      "at": "18/4/2020 09:29",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -492,7 +473,7 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
