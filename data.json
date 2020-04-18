@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/04/2020 05:37",
+  "lastUpdate": "18/04/2020 05:43",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -152,25 +152,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "GVT",
-      "st": "17/04/2020 18:30",
-      "matricula": "LVGVT",
-      "posicion": "41",
-      "et": "",
-      "at": "17/4/2020 17:42",
-      "term": "FBO",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "CPC",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "2"
     },
     {
       "tipo": "arribo",
