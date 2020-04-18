@@ -1,12 +1,12 @@
 {
-  "lastUpdate": "18/04/2020 08:19",
+  "lastUpdate": "18/04/2020 08:25",
   "vuelos": [
     {
       "tipo": "arribo",
       "aerolinea": "AA",
       "vuelo": "9436",
       "st": "18/04/2020 09:20",
-      "matricula": "",
+      "matricula": "N772AN",
       "posicion": "50",
       "et": "18/4/2020 09:25",
       "at": "",
