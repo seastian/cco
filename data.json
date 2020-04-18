@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/04/2020 15:43",
+  "lastUpdate": "18/04/2020 15:50",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -12,8 +12,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "9",
+      "lF": "007",
       "ruta": "MIA",
       "via": "",
       "remark": "EST",
@@ -31,8 +31,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "4",
+      "lF": "004",
       "ruta": "ZRH",
       "via": "UIO",
       "remark": "DEM",
