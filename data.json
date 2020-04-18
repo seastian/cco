@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/04/2020 07:04",
+  "lastUpdate": "18/04/2020 07:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,7 +7,7 @@
       "vuelo": "1071",
       "st": "18/04/2020 05:15",
       "matricula": "LVGIF",
-      "posicion": "",
+      "posicion": "18",
       "et": "18/4/2020 07:40",
       "at": "",
       "term": "TCA",
@@ -150,25 +150,6 @@
       "ruta": "MIA",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "502",
-      "st": "17/04/2020 19:00",
-      "matricula": "CXCLS",
-      "posicion": "56B",
-      "et": "17/4/2020 19:20",
-      "at": "17/4/2020 19:08",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
