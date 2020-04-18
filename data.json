@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/04/2020 08:13",
+  "lastUpdate": "18/04/2020 08:19",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,8 +7,8 @@
       "vuelo": "9436",
       "st": "18/04/2020 09:20",
       "matricula": "",
-      "posicion": "",
-      "et": "",
+      "posicion": "50",
+      "et": "18/4/2020 09:25",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -16,7 +16,7 @@
       "lF": "",
       "ruta": "DFW",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
