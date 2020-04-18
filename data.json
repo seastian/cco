@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/04/2020 06:33",
+  "lastUpdate": "18/04/2020 06:39",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -321,25 +321,6 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1070",
-      "st": "17/04/2020 18:30",
-      "matricula": "LVFVH",
-      "posicion": "12",
-      "et": "",
-      "at": "17/4/2020 18:37",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "16",
-      "ruta": "PVG",
-      "via": "AKL",
       "remark": "PAR",
       "sanidad": "NO"
     },
