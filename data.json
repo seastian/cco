@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/04/2020 04:34",
+  "lastUpdate": "18/04/2020 04:40",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -111,6 +111,25 @@
       "lF": "",
       "ruta": "SCL",
       "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "WK",
+      "vuelo": "2097",
+      "st": "18/04/2020 16:40",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "ZRH",
+      "via": "UIO",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
