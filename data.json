@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/04/2020 13:13",
+  "lastUpdate": "18/04/2020 13:19",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -237,14 +237,14 @@
       "matricula": "LVCTK",
       "posicion": "40",
       "et": "",
-      "at": "",
+      "at": "18/4/2020 13:00",
       "term": "FBO",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "NQN",
       "via": "",
-      "remark": "HOR",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "1"
     },
