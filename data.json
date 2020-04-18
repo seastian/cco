@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/04/2020 21:47",
+  "lastUpdate": "17/04/2020 21:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -497,6 +497,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "526",
+      "st": "17/04/2020 22:00",
+      "matricula": "CXLSS",
+      "posicion": "56B",
+      "et": "",
+      "at": "17/4/2020 21:47",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "LA",
       "vuelo": "1146",
       "st": "17/04/2020 17:20",
@@ -531,25 +550,6 @@
       "ruta": "SCL",
       "via": "",
       "remark": "EST",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "526",
-      "st": "17/04/2020 22:00",
-      "matricula": "CXLSS",
-      "posicion": "56B",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "HOR",
       "sanidad": "NO"
     },
     {
