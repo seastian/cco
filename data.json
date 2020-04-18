@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/04/2020 08:44",
+  "lastUpdate": "18/04/2020 08:50",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -301,25 +301,6 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LH",
-      "vuelo": "345",
-      "st": "17/04/2020 20:30",
-      "matricula": "DABVR",
-      "posicion": "09",
-      "et": "",
-      "at": "17/4/2020 20:49",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "027",
-      "chkTo": "040",
-      "puerta": "08",
-      "ruta": "FRA",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
