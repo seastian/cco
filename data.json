@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/04/2020 11:52",
+  "lastUpdate": "18/04/2020 11:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,7 +7,7 @@
       "vuelo": "1144",
       "st": "18/04/2020 12:30",
       "matricula": "CCBGG",
-      "posicion": "",
+      "posicion": "09",
       "et": "18/4/2020 12:45",
       "at": "",
       "term": "TCA",
@@ -482,14 +482,14 @@
       "vuelo": "1148",
       "st": "18/04/2020 14:40",
       "matricula": "CCBGG",
-      "posicion": "",
+      "posicion": "09",
       "et": "",
       "at": "",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
       "chkTo": "",
-      "puerta": "",
+      "puerta": "09",
       "ruta": "MIA",
       "via": "",
       "remark": "HOR",
