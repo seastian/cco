@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/04/2020 08:57",
+  "lastUpdate": "18/04/2020 09:03",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -511,7 +511,7 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -611,25 +611,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "WK",
-      "vuelo": "2097",
-      "st": "18/04/2020 18:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "ZRH",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "UC",
       "vuelo": "1106",
       "st": "18/04/2020 18:10",
@@ -643,6 +624,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "SCL",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "WK",
+      "vuelo": "2097",
+      "st": "18/04/2020 18:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "ZRH",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
