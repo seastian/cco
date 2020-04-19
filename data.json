@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/04/2020 07:17",
+  "lastUpdate": "19/04/2020 07:23",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -117,25 +117,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1303",
-      "st": "18/04/2020 19:30",
-      "matricula": "LVFVI",
-      "posicion": "14",
-      "et": "18/4/2020 19:14",
-      "at": "18/4/2020 19:18",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "007",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "243"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "UC",
       "vuelo": "1106",
       "st": "18/04/2020 17:00",
@@ -190,25 +171,6 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LA",
-      "vuelo": "1146",
-      "st": "18/04/2020 19:05",
-      "matricula": "CCBGB",
-      "posicion": "10",
-      "et": "",
-      "at": "18/4/2020 19:22",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "10",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
