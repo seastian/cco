@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/04/2020 18:01",
+  "lastUpdate": "19/04/2020 18:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -46,7 +46,7 @@
       "st": "19/04/2020 20:00",
       "matricula": "LVBFO",
       "posicion": "",
-      "et": "",
+      "et": "19/4/2020 20:20",
       "at": "",
       "term": "A",
       "sector": "",
@@ -54,7 +54,7 @@
       "lF": "",
       "ruta": "GRU",
       "via": "",
-      "remark": "",
+      "remark": "DEM",
       "sanidad": "NO",
       "pax": "0"
     },
