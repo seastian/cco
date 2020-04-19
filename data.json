@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/04/2020 18:51",
+  "lastUpdate": "19/04/2020 18:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -12,8 +12,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "4",
-      "lF": "004",
+      "cinta": "9",
+      "lF": "009",
       "ruta": "CUZ",
       "via": "IQQ",
       "remark": "EST",
@@ -31,8 +31,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "3",
-      "lF": "003",
+      "cinta": "8",
+      "lF": "008",
       "ruta": "PIU",
       "via": "",
       "remark": "DEM",
@@ -69,8 +69,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "3",
-      "lF": "003",
+      "cinta": "8",
+      "lF": "009",
       "ruta": "PIU",
       "via": "",
       "remark": "EST",
@@ -522,7 +522,7 @@
       "matricula": "CXCAR",
       "posicion": "50B",
       "et": "19/4/2020 19:30",
-      "at": "",
+      "at": "19/4/2020 18:53",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -530,7 +530,7 @@
       "puerta": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
