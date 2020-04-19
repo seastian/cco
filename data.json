@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "19/04/2020 20:38",
+  "lastUpdate": "19/04/2020 20:44",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "2528",
-      "st": "19/04/2020 20:35",
-      "matricula": "CCBCD",
-      "posicion": "06",
-      "et": "19/4/2020 20:40",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "009",
-      "ruta": "PIU",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "92"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "LA",
@@ -380,6 +361,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "2528",
+      "st": "19/04/2020 20:35",
+      "matricula": "CCBCD",
+      "posicion": "10",
+      "et": "19/4/2020 20:40",
+      "at": "19/4/2020 20:44",
+      "term": "A",
+      "sector": "",
+      "cinta": "8",
+      "lF": "009",
+      "ruta": "PIU",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "92"
     },
     {
       "tipo": "partida",
