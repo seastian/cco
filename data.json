@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/04/2020 08:57",
+  "lastUpdate": "19/04/2020 09:03",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -130,6 +130,25 @@
       "lF": "",
       "ruta": "PIU",
       "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LP",
+      "vuelo": "2535",
+      "st": "19/04/2020 21:01",
+      "matricula": "CCBHA",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "CUZ",
+      "via": "IQQ",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
