@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/04/2020 09:53",
+  "lastUpdate": "19/04/2020 09:59",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -169,25 +169,6 @@
       "ruta": "SCL",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1106",
-      "st": "18/04/2020 17:00",
-      "matricula": "CCCZZ",
-      "posicion": "54",
-      "et": "18/4/2020 22:00",
-      "at": "18/4/2020 21:57",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
