@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/04/2020 09:59",
+  "lastUpdate": "19/04/2020 10:06",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -174,6 +174,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "UC",
+      "vuelo": "1407",
+      "st": "19/04/2020 22:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "LA",
       "vuelo": "1108",
       "st": "18/04/2020 21:50",
@@ -228,25 +247,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "WK",
-      "vuelo": "2097",
-      "st": "18/04/2020 18:10",
-      "matricula": "HBJMF",
-      "posicion": "16",
-      "et": "18/4/2020 22:30",
-      "at": "18/4/2020 22:06",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "062",
-      "chkTo": "067",
-      "puerta": "22",
-      "ruta": "ZRH",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
@@ -403,7 +403,7 @@
     {
       "tipo": "partida",
       "aerolinea": "4M",
-      "vuelo": "7908",
+      "vuelo": "7808",
       "st": "19/04/2020 13:00",
       "matricula": "LVBFO",
       "posicion": "05",
