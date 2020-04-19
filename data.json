@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/04/2020 17:55",
+  "lastUpdate": "19/04/2020 18:01",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,7 +7,7 @@
       "vuelo": "2535",
       "st": "19/04/2020 21:01",
       "matricula": "CCBHA",
-      "posicion": "",
+      "posicion": "08",
       "et": "19/4/2020 19:20",
       "at": "",
       "term": "A",
