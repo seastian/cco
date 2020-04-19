@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/04/2020 18:08",
+  "lastUpdate": "19/04/2020 18:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -12,8 +12,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "4",
+      "lF": "004",
       "ruta": "CUZ",
       "via": "IQQ",
       "remark": "EST",
@@ -31,8 +31,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "3",
+      "lF": "003",
       "ruta": "PIU",
       "via": "",
       "remark": "DEM",
@@ -69,8 +69,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "3",
+      "lF": "003",
       "ruta": "PIU",
       "via": "",
       "remark": "EST",
@@ -473,7 +473,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
