@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "19/04/2020 09:22",
+  "lastUpdate": "19/04/2020 09:28",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AA",
-      "vuelo": "9434",
-      "st": "19/04/2020 05:47",
-      "matricula": "N797AN",
-      "posicion": "56",
-      "et": "19/4/2020 09:25",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": "0"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "M3",
@@ -209,6 +190,25 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AA",
+      "vuelo": "9434",
+      "st": "19/04/2020 05:47",
+      "matricula": "N797AN",
+      "posicion": "56",
+      "et": "19/4/2020 09:25",
+      "at": "19/4/2020 09:24",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "0"
     },
     {
       "tipo": "partida",
