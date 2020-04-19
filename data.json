@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/04/2020 09:34",
+  "lastUpdate": "19/04/2020 09:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -91,6 +91,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "PIU",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "4M",
+      "vuelo": "7959",
+      "st": "19/04/2020 20:00",
+      "matricula": "LVBFO",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "GRU",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -379,6 +398,25 @@
       "ruta": "MIA",
       "via": "",
       "remark": "DEM",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "4M",
+      "vuelo": "7908",
+      "st": "19/04/2020 13:00",
+      "matricula": "LVBFO",
+      "posicion": "64A",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     },
     {
