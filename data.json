@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/04/2020 12:30",
+  "lastUpdate": "19/04/2020 12:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -288,25 +288,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "LA",
-      "vuelo": "1108",
-      "st": "19/04/2020 00:00",
-      "matricula": "CCBGA",
-      "posicion": "55",
-      "et": "",
-      "at": "19/4/2020 00:31",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "M3",
       "vuelo": "8496",
       "st": "19/04/2020 02:10",
@@ -327,25 +308,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AA",
-      "vuelo": "9435",
-      "st": "19/04/2020 07:00",
-      "matricula": "N772AN",
-      "posicion": "",
-      "et": "19/4/2020 09:20",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AA",
       "vuelo": "9437",
       "st": "19/04/2020 09:20",
       "matricula": "N772AN",
@@ -360,6 +322,25 @@
       "ruta": "MIA",
       "via": "",
       "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AA",
+      "vuelo": "9435",
+      "st": "19/04/2020 07:00",
+      "matricula": "N772AN",
+      "posicion": "",
+      "et": "19/4/2020 09:20",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "DEM",
       "sanidad": "NO"
     },
     {
