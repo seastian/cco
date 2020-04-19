@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/04/2020 19:48",
+  "lastUpdate": "19/04/2020 19:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -64,7 +64,7 @@
       "vuelo": "033",
       "st": "19/04/2020 23:05",
       "matricula": "N859GT",
-      "posicion": "",
+      "posicion": "55",
       "et": "19/4/2020 22:00",
       "at": "",
       "term": "TCA",
@@ -615,7 +615,7 @@
       "vuelo": "033",
       "st": "20/04/2020 01:15",
       "matricula": "N859GT",
-      "posicion": "",
+      "posicion": "55",
       "et": "20/4/2020 00:25",
       "at": "",
       "term": "TCA",
