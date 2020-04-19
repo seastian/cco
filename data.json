@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/04/2020 08:32",
+  "lastUpdate": "19/04/2020 08:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -102,6 +102,25 @@
       "vuelo": "2524",
       "st": "19/04/2020 18:35",
       "matricula": "CCBCE",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "PIU",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "2528",
+      "st": "19/04/2020 20:35",
+      "matricula": "CCBCD",
       "posicion": "",
       "et": "",
       "at": "",
