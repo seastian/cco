@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "18/04/2020 21:59",
+  "lastUpdate": "18/04/2020 22:05",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1108",
-      "st": "18/04/2020 21:50",
-      "matricula": "CCBGA",
-      "posicion": "55",
-      "et": "18/4/2020 22:00",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "0"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "M3",
@@ -190,6 +171,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "98"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "1108",
+      "st": "18/04/2020 21:50",
+      "matricula": "CCBGA",
+      "posicion": "55",
+      "et": "18/4/2020 22:00",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "0"
     },
     {
       "tipo": "arribo",
