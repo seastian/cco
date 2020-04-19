@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/04/2020 16:21",
+  "lastUpdate": "19/04/2020 16:27",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -22,11 +22,30 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "2528",
+      "st": "19/04/2020 20:35",
+      "matricula": "CCBCD",
+      "posicion": "06",
+      "et": "19/4/2020 17:50",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "PIU",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "92"
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "AOG",
       "vuelo": "101",
       "st": "19/04/2020 18:30",
       "matricula": "CXCAR",
-      "posicion": "",
+      "posicion": "50B",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -45,8 +64,8 @@
       "vuelo": "2524",
       "st": "19/04/2020 18:35",
       "matricula": "CCBCE",
-      "posicion": "",
-      "et": "",
+      "posicion": "05",
+      "et": "19/4/2020 19:20",
       "at": "",
       "term": "A",
       "sector": "",
@@ -54,9 +73,9 @@
       "lF": "",
       "ruta": "PIU",
       "via": "",
-      "remark": "",
+      "remark": "DEM",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "109"
     },
     {
       "tipo": "arribo",
@@ -76,25 +95,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": "0"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "2528",
-      "st": "19/04/2020 20:35",
-      "matricula": "CCBCD",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "PIU",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -444,7 +444,7 @@
       "vuelo": "101",
       "st": "19/04/2020 20:30",
       "matricula": "CXCAR",
-      "posicion": "",
+      "posicion": "50B",
       "et": "",
       "at": "",
       "term": "TCA",
