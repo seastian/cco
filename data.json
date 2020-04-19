@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/04/2020 16:52",
+  "lastUpdate": "19/04/2020 16:59",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -445,7 +445,7 @@
       "st": "19/04/2020 20:30",
       "matricula": "CXCAR",
       "posicion": "50B",
-      "et": "",
+      "et": "19/4/2020 19:30",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -454,7 +454,7 @@
       "puerta": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "HOR",
+      "remark": "EST",
       "sanidad": "NO"
     },
     {
@@ -472,6 +472,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "LAX",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "H24N",
+      "st": "19/04/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "209",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "QTR",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -507,25 +526,6 @@
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "QTR",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "H24N",
-      "st": "19/04/2020 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "209",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
