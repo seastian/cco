@@ -1,6 +1,25 @@
 {
-  "lastUpdate": "19/04/2020 19:35",
+  "lastUpdate": "19/04/2020 19:42",
   "vuelos": [
+    {
+      "tipo": "arribo",
+      "aerolinea": "LP",
+      "vuelo": "2535",
+      "st": "19/04/2020 21:01",
+      "matricula": "CCBHA",
+      "posicion": "08",
+      "et": "19/4/2020 19:45",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "009",
+      "ruta": "CUZ",
+      "via": "IQQ",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "155"
+    },
     {
       "tipo": "arribo",
       "aerolinea": "4M",
@@ -380,25 +399,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "109"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LP",
-      "vuelo": "2535",
-      "st": "19/04/2020 21:01",
-      "matricula": "CCBHA",
-      "posicion": "08",
-      "et": "19/4/2020 19:20",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "CUZ",
-      "via": "IQQ",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "155"
     },
     {
       "tipo": "partida",
