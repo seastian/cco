@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "18/04/2020 21:53",
+  "lastUpdate": "18/04/2020 21:59",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1106",
-      "st": "18/04/2020 17:00",
-      "matricula": "CCCZZ",
-      "posicion": "54",
-      "et": "18/4/2020 22:00",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "LA",
@@ -211,6 +192,25 @@
       "pax": "98"
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "UC",
+      "vuelo": "1106",
+      "st": "18/04/2020 17:00",
+      "matricula": "CCCZZ",
+      "posicion": "54",
+      "et": "18/4/2020 22:00",
+      "at": "18/4/2020 21:57",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
       "tipo": "partida",
       "aerolinea": "2D",
       "vuelo": "888",
@@ -359,7 +359,7 @@
       "puerta": "22",
       "ruta": "ZRH",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
