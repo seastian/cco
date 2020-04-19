@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/04/2020 03:00",
+  "lastUpdate": "19/04/2020 03:06",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -152,25 +152,6 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "PRV",
-      "vuelo": "CTK",
-      "st": "18/04/2020 14:30",
-      "matricula": "LVCTK",
-      "posicion": "40",
-      "et": "",
-      "at": "18/4/2020 15:03",
-      "term": "FBO",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "AEP",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
