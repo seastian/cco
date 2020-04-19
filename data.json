@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/04/2020 18:45",
+  "lastUpdate": "19/04/2020 18:51",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -530,7 +530,7 @@
       "puerta": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "EST",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
