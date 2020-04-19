@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/04/2020 22:05",
+  "lastUpdate": "18/04/2020 22:12",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -180,14 +180,14 @@
       "matricula": "CCBGA",
       "posicion": "55",
       "et": "18/4/2020 22:00",
-      "at": "",
+      "at": "18/4/2020 22:11",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
     },
@@ -351,7 +351,7 @@
       "matricula": "HBJMF",
       "posicion": "16",
       "et": "18/4/2020 22:30",
-      "at": "",
+      "at": "18/4/2020 22:06",
       "term": "A",
       "sector": "AP",
       "chkFrom": "062",
@@ -359,7 +359,7 @@
       "puerta": "22",
       "ruta": "ZRH",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
