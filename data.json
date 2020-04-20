@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/04/2020 22:43",
+  "lastUpdate": "19/04/2020 22:49",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -17,6 +17,25 @@
       "ruta": "MIA",
       "via": "",
       "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "5X",
+      "vuelo": "416",
+      "st": "20/04/2020 02:19",
+      "matricula": "N361UP",
+      "posicion": "54",
+      "et": "20/4/2020 00:10",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "SCL",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -54,25 +73,6 @@
       "lF": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "5X",
-      "vuelo": "416",
-      "st": "20/04/2020 02:19",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "SCL",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
