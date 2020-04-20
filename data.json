@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/04/2020 20:57",
+  "lastUpdate": "19/04/2020 21:03",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -207,6 +207,25 @@
       "ruta": "FRA",
       "via": "MVD",
       "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1071",
+      "st": "20/04/2020 05:15",
+      "matricula": "",
+      "posicion": "",
+      "et": "20/4/2020 08:58",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "PVG",
+      "via": "AKL",
+      "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
     },
