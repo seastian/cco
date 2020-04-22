@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/04/2020 19:16",
+  "lastUpdate": "22/04/2020 19:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -45,7 +45,7 @@
       "vuelo": "1148",
       "st": "22/04/2020 21:50",
       "matricula": "CCBGB",
-      "posicion": "",
+      "posicion": "51",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -159,7 +159,7 @@
       "vuelo": "1075",
       "st": "23/04/2020 05:15",
       "matricula": "",
-      "posicion": "",
+      "posicion": "50",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -539,7 +539,7 @@
       "vuelo": "1148",
       "st": "23/04/2020 00:00",
       "matricula": "CCBGB",
-      "posicion": "",
+      "posicion": "51",
       "et": "",
       "at": "",
       "term": "TCA",
