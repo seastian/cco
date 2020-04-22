@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/04/2020 18:44",
+  "lastUpdate": "22/04/2020 18:51",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -225,6 +225,25 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LH",
+      "vuelo": "8264",
+      "st": "23/04/2020 06:45",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "FRA",
+      "via": "MVD",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
