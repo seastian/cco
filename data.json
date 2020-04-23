@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "22/04/2020 22:49",
+  "lastUpdate": "22/04/2020 22:55",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "CM",
-      "vuelo": "4454",
-      "st": "22/04/2020 22:14",
-      "matricula": "HP1715",
-      "posicion": "09",
-      "et": "22/4/2020 22:55",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "PTY",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": "165"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AOG",
@@ -380,6 +361,25 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "CM",
+      "vuelo": "4454",
+      "st": "22/04/2020 22:14",
+      "matricula": "HP1715",
+      "posicion": "09",
+      "et": "22/4/2020 22:55",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "009",
+      "ruta": "PTY",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": "165"
     },
     {
       "tipo": "partida",
