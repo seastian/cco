@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/04/2020 11:02",
+  "lastUpdate": "23/04/2020 11:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -228,25 +228,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "CM",
-      "vuelo": "4454",
-      "st": "22/04/2020 22:14",
-      "matricula": "HP1715",
-      "posicion": "09",
-      "et": "22/4/2020 22:55",
-      "at": "22/4/2020 23:02",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "PTY",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "165"
     },
     {
       "tipo": "arribo",
