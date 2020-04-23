@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/04/2020 13:44",
+  "lastUpdate": "23/04/2020 13:51",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -52,7 +52,7 @@
       "sector": "",
       "cinta": "",
       "lF": "",
-      "ruta": "MIA",
+      "ruta": "SCL",
       "via": "",
       "remark": "EST",
       "sanidad": "NO",
@@ -623,7 +623,7 @@
       "chkFrom": "",
       "chkTo": "",
       "puerta": "",
-      "ruta": "LAX",
+      "ruta": "MIA",
       "via": "",
       "remark": "EST",
       "sanidad": "NO"
