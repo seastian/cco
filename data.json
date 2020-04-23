@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/04/2020 15:50",
+  "lastUpdate": "23/04/2020 15:56",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -617,7 +617,7 @@
       "matricula": "N538LA",
       "posicion": "54",
       "et": "23/4/2020 15:45",
-      "at": "",
+      "at": "23/4/2020 15:51",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -625,7 +625,7 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -710,14 +710,14 @@
       "vuelo": "1076",
       "st": "23/04/2020 22:30",
       "matricula": "LVGIF",
-      "posicion": "M11",
+      "posicion": "15",
       "et": "",
       "at": "",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
       "chkTo": "",
-      "puerta": "",
+      "puerta": "20",
       "ruta": "PVG",
       "via": "AKL",
       "remark": "HOR",
