@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/04/2020 13:26",
+  "lastUpdate": "23/04/2020 13:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -398,25 +398,6 @@
       "ruta": "SCL",
       "via": "",
       "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "101",
-      "st": "23/04/2020 01:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "CON",
       "sanidad": "NO"
     },
     {
