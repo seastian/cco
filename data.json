@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/04/2020 01:06",
+  "lastUpdate": "23/04/2020 01:13",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -408,7 +408,7 @@
       "matricula": "N859GT",
       "posicion": "55",
       "et": "22/4/2020 22:30",
-      "at": "",
+      "at": "23/4/2020 01:09",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -416,7 +416,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
