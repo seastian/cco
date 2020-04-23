@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/04/2020 10:43",
+  "lastUpdate": "23/04/2020 10:49",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -231,20 +231,20 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "LH",
-      "vuelo": "8264",
-      "st": "22/04/2020 22:45",
+      "aerolinea": "CM",
+      "vuelo": "4279",
+      "st": "23/04/2020 22:45",
       "matricula": "",
       "posicion": "",
       "et": "",
       "at": "",
-      "term": "TCA",
+      "term": "A",
       "sector": "",
       "cinta": "",
       "lF": "",
-      "ruta": "FRA",
-      "via": "MVD",
-      "remark": "CON",
+      "ruta": "PTY",
+      "via": "",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
