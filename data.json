@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/04/2020 18:51",
+  "lastUpdate": "23/04/2020 18:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -475,25 +475,6 @@
       "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "5X",
-      "vuelo": "411",
-      "st": "23/04/2020 06:55",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MIA",
-      "via": "VCP",
-      "remark": "CAN",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
