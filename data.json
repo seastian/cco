@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/04/2020 14:34",
+  "lastUpdate": "23/04/2020 14:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -522,7 +522,7 @@
       "matricula": "CXCLS",
       "posicion": "59",
       "et": "",
-      "at": "",
+      "at": "23/4/2020 14:39",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -530,7 +530,7 @@
       "puerta": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
