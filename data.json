@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "22/04/2020 23:33",
+  "lastUpdate": "22/04/2020 23:39",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "M3",
-      "vuelo": "8492",
-      "st": "22/04/2020 23:45",
-      "matricula": "PRABD",
-      "posicion": "54",
-      "et": "22/4/2020 23:40",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "5X",
@@ -340,6 +321,25 @@
       "ruta": "MVD",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "M3",
+      "vuelo": "8492",
+      "st": "22/04/2020 23:45",
+      "matricula": "PRABD",
+      "posicion": "54",
+      "et": "22/4/2020 23:40",
+      "at": "22/4/2020 23:38",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "VCP",
+      "via": "",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
