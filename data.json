@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/04/2020 08:12",
+  "lastUpdate": "23/04/2020 08:19",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -535,25 +535,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "M3",
-      "vuelo": "8492",
-      "st": "23/04/2020 02:00",
-      "matricula": "PRABD",
-      "posicion": "54",
-      "et": "23/4/2020 01:00",
-      "at": "23/4/2020 05:26",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "GG",
       "vuelo": "4550",
       "st": "23/04/2020 01:00",
@@ -569,6 +550,25 @@
       "ruta": "MIA",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "8492",
+      "st": "23/04/2020 02:00",
+      "matricula": "PRABD",
+      "posicion": "54",
+      "et": "23/4/2020 01:00",
+      "at": "23/4/2020 05:26",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -668,6 +668,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "LH",
+      "vuelo": "8265",
+      "st": "23/04/2020 08:15",
+      "matricula": "DALCB",
+      "posicion": "55",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "FRA",
+      "via": "VCP",
+      "remark": "CER",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "AA",
       "vuelo": "9435",
       "st": "23/04/2020 07:00",
@@ -683,25 +702,6 @@
       "ruta": "MIA",
       "via": "",
       "remark": "DEM",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LH",
-      "vuelo": "8265",
-      "st": "23/04/2020 08:15",
-      "matricula": "DALCB",
-      "posicion": "55",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "FRA",
-      "via": "VCP",
-      "remark": "HOR",
       "sanidad": "NO"
     },
     {
