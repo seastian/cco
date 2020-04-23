@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/04/2020 17:30",
+  "lastUpdate": "23/04/2020 17:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -37,7 +37,7 @@
       "via": "",
       "remark": "EST",
       "sanidad": "NO",
-      "pax": "241"
+      "pax": "125"
     },
     {
       "tipo": "arribo",
@@ -133,25 +133,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1075",
-      "st": "23/04/2020 05:15",
-      "matricula": "LVFVI",
-      "posicion": "50",
-      "et": "23/4/2020 05:21",
-      "at": "23/4/2020 05:32",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "PVG",
-      "via": "AKL",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -251,25 +232,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "8493",
-      "st": "23/04/2020 14:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "M3",
       "vuelo": "8440",
       "st": "23/04/2020 14:00",
       "matricula": "",
@@ -281,6 +243,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "VCP",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "M3",
+      "vuelo": "8493",
+      "st": "23/04/2020 14:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
       "via": "",
       "remark": "CON",
       "sanidad": "NO",
