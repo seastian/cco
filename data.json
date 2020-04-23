@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/04/2020 23:01",
+  "lastUpdate": "22/04/2020 23:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -370,14 +370,14 @@
       "matricula": "HP1715",
       "posicion": "09",
       "et": "22/4/2020 22:55",
-      "at": "",
+      "at": "22/4/2020 23:02",
       "term": "A",
       "sector": "",
       "cinta": "9",
       "lF": "009",
       "ruta": "PTY",
       "via": "",
-      "remark": "DEM",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "165"
     },
