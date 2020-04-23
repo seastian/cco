@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/04/2020 05:05",
+  "lastUpdate": "23/04/2020 05:11",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -159,6 +159,25 @@
       "vuelo": "1139",
       "st": "23/04/2020 15:10",
       "matricula": "CCBGP",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "1145",
+      "st": "23/04/2020 17:10",
+      "matricula": "CCBGM",
       "posicion": "",
       "et": "",
       "at": "",
@@ -795,6 +814,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "VCP",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LA",
+      "vuelo": "1139",
+      "st": "23/04/2020 17:10",
+      "matricula": "CCBGP",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
