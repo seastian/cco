@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/04/2020 20:56",
+  "lastUpdate": "22/04/2020 21:02",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -206,6 +206,25 @@
       "lF": "",
       "ruta": "FRA",
       "via": "MVD",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "8J",
+      "vuelo": "752",
+      "st": "23/04/2020 09:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "CBB",
+      "via": "",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
