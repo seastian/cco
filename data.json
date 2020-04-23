@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/04/2020 07:47",
+  "lastUpdate": "23/04/2020 07:53",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -833,6 +833,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "SCL",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LA",
+      "vuelo": "1142",
+      "st": "23/04/2020 19:50",
+      "matricula": "CCBGE",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
