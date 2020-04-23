@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/04/2020 03:56",
+  "lastUpdate": "23/04/2020 04:02",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -644,7 +644,7 @@
       "puerta": "",
       "ruta": "PUJ",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
