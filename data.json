@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/04/2020 16:21",
+  "lastUpdate": "23/04/2020 16:27",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -396,25 +396,6 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1324",
-      "st": "23/04/2020 04:00",
-      "matricula": "LVGKP",
-      "posicion": "13",
-      "et": "",
-      "at": "23/4/2020 04:23",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "17",
-      "ruta": "PUJ",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
