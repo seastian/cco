@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/04/2020 14:47",
+  "lastUpdate": "23/04/2020 14:53",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -35,7 +35,7 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "",
+      "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
     },
@@ -54,7 +54,7 @@
       "lF": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "",
+      "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
     },
@@ -65,7 +65,7 @@
       "st": "23/04/2020 20:45",
       "matricula": "LVGKP",
       "posicion": "",
-      "et": "",
+      "et": "23/4/2020 20:36",
       "at": "",
       "term": "A",
       "sector": "",
@@ -73,9 +73,9 @@
       "lF": "",
       "ruta": "PUJ",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "241"
     },
     {
       "tipo": "arribo",
@@ -541,7 +541,7 @@
       "matricula": "CXLSS",
       "posicion": "60",
       "et": "",
-      "at": "",
+      "at": "23/4/2020 14:51",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -549,7 +549,7 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -682,7 +682,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "CAN",
       "sanidad": "NO"
     },
     {
@@ -701,7 +701,7 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "HOR",
+      "remark": "CAN",
       "sanidad": "NO"
     },
     {
@@ -763,25 +763,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "JJ",
-      "vuelo": "H24",
-      "st": "23/04/2020 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "",
-      "ruta": "QTR",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "H24N",
       "st": "23/04/2020 23:59",
@@ -820,6 +801,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "JJ",
+      "vuelo": "H24",
+      "st": "23/04/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "QTR",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "LA",
       "vuelo": "1144",
       "st": "24/04/2020 00:00",
@@ -834,7 +834,7 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "HOR",
+      "remark": "CAN",
       "sanidad": "NO"
     },
     {
