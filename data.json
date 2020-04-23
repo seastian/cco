@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/04/2020 09:28",
+  "lastUpdate": "23/04/2020 09:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -754,7 +754,7 @@
       "term": "C",
       "sector": "CPI",
       "chkFrom": "201",
-      "chkTo": "210",
+      "chkTo": "212",
       "puerta": "20",
       "ruta": "FCO",
       "via": "",
