@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/04/2020 21:34",
+  "lastUpdate": "22/04/2020 21:40",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -64,7 +64,7 @@
       "vuelo": "4454",
       "st": "22/04/2020 22:14",
       "matricula": "HP1715",
-      "posicion": "08",
+      "posicion": "09",
       "et": "22/4/2020 22:55",
       "at": "",
       "term": "A",
@@ -482,14 +482,14 @@
       "vuelo": "1801",
       "st": "22/04/2020 23:14",
       "matricula": "HP1715",
-      "posicion": "08",
+      "posicion": "09",
       "et": "",
       "at": "",
       "term": "A",
       "sector": "AP",
       "chkFrom": "",
       "chkTo": "",
-      "puerta": "07",
+      "puerta": "09",
       "ruta": "PTY",
       "via": "",
       "remark": "HOR",
