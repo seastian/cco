@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/04/2020 06:32",
+  "lastUpdate": "23/04/2020 06:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -114,25 +114,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1371",
-      "st": "22/04/2020 19:10",
-      "matricula": "LVGKP",
-      "posicion": "13",
-      "et": "22/4/2020 18:25",
-      "at": "22/4/2020 18:36",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "CUN",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "241"
     },
     {
       "tipo": "arribo",
