@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/04/2020 18:07",
+  "lastUpdate": "23/04/2020 18:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -87,12 +87,12 @@
       "et": "",
       "at": "",
       "term": "C",
-      "sector": "",
+      "sector": "CAC",
       "cinta": "",
       "lF": "",
       "ruta": "MDZ",
       "via": "",
-      "remark": "",
+      "remark": "HOR",
       "sanidad": "NO",
       "pax": "15"
     },
