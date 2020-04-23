@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/04/2020 17:42",
+  "lastUpdate": "23/04/2020 17:49",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -117,20 +117,20 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "LH",
-      "vuelo": "8264",
-      "st": "23/04/2020 06:45",
-      "matricula": "DALCB",
-      "posicion": "55",
-      "et": "23/4/2020 05:50",
-      "at": "23/4/2020 05:44",
+      "aerolinea": "AA",
+      "vuelo": "9434",
+      "st": "24/04/2020 05:47",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
-      "ruta": "FRA",
-      "via": "MVD",
-      "remark": "ATE",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
