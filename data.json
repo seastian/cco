@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "23/04/2020 08:19",
+  "lastUpdate": "23/04/2020 08:25",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AA",
-      "vuelo": "9434",
-      "st": "23/04/2020 05:47",
-      "matricula": "N725AN",
-      "posicion": "10",
-      "et": "23/4/2020 08:28",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "8J",
@@ -363,6 +344,25 @@
       "pax": ""
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "AA",
+      "vuelo": "9434",
+      "st": "23/04/2020 05:47",
+      "matricula": "N725AN",
+      "posicion": "10",
+      "et": "23/4/2020 08:28",
+      "at": "23/4/2020 08:23",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
       "tipo": "partida",
       "aerolinea": "LA",
       "vuelo": "1147",
@@ -674,7 +674,7 @@
       "matricula": "DALCB",
       "posicion": "55",
       "et": "",
-      "at": "",
+      "at": "23/4/2020 08:18",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -682,7 +682,7 @@
       "puerta": "",
       "ruta": "FRA",
       "via": "VCP",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
