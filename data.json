@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/04/2020 11:32",
+  "lastUpdate": "24/04/2020 11:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -569,25 +569,6 @@
       "ruta": "MIA",
       "via": "",
       "remark": "CAN",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LA",
-      "vuelo": "1145",
-      "st": "24/04/2020 00:00",
-      "matricula": "CCBGM",
-      "posicion": "55",
-      "et": "",
-      "at": "23/4/2020 23:32",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
       "sanidad": "NO"
     },
     {
