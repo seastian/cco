@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/04/2020 18:01",
+  "lastUpdate": "24/04/2020 18:07",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -783,7 +783,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24",
+      "vuelo": "H24N",
       "st": "24/04/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -791,7 +791,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "209",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -821,7 +821,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
+      "vuelo": "H24",
       "st": "24/04/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -829,7 +829,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -891,6 +891,25 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "5X",
+      "vuelo": "413",
+      "st": "25/04/2020 06:05",
+      "matricula": "N355UP",
+      "posicion": "61",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
+      "via": "VCP",
       "remark": "HOR",
       "sanidad": "NO"
     }
