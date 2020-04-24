@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/04/2020 19:47",
+  "lastUpdate": "24/04/2020 19:53",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -102,7 +102,7 @@
       "vuelo": "ZEB",
       "st": "24/04/2020 22:10",
       "matricula": "LVZEB",
-      "posicion": "45",
+      "posicion": "37",
       "et": "",
       "at": "",
       "term": "C",
@@ -140,7 +140,7 @@
       "vuelo": "BGR",
       "st": "24/04/2020 22:20",
       "matricula": "LVBGR",
-      "posicion": "37",
+      "posicion": "45",
       "et": "",
       "at": "",
       "term": "C",
