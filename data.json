@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/04/2020 20:18",
+  "lastUpdate": "24/04/2020 20:25",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,7 +7,7 @@
       "vuelo": "421",
       "st": "24/04/2020 20:30",
       "matricula": "CXCLS",
-      "posicion": "50A",
+      "posicion": "51A",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -27,7 +27,7 @@
       "st": "24/04/2020 21:20",
       "matricula": "CCBGE",
       "posicion": "",
-      "et": "",
+      "et": "24/4/2020 21:00",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -35,7 +35,7 @@
       "lF": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -729,7 +729,7 @@
       "vuelo": "526",
       "st": "24/04/2020 22:00",
       "matricula": "CXCLS",
-      "posicion": "50A",
+      "posicion": "51A",
       "et": "",
       "at": "",
       "term": "TCA",
