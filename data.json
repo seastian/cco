@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/04/2020 16:33",
+  "lastUpdate": "24/04/2020 16:39",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -712,7 +712,7 @@
       "matricula": "N532LA",
       "posicion": "56",
       "et": "",
-      "at": "",
+      "at": "24/4/2020 16:23",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -720,7 +720,7 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
