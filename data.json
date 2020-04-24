@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/04/2020 11:51",
+  "lastUpdate": "24/04/2020 11:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -285,44 +285,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "M3",
-      "vuelo": "8494",
-      "st": "23/04/2020 23:45",
-      "matricula": "PRACO",
-      "posicion": "56",
-      "et": "23/4/2020 23:44",
-      "at": "23/4/2020 23:57",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "YIC",
-      "st": "23/04/2020 22:20",
-      "matricula": "LVYIC",
-      "posicion": "45",
-      "et": "23/4/2020 23:56",
-      "at": "23/4/2020 23:53",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MDZ",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "12"
     },
     {
       "tipo": "arribo",
@@ -701,7 +663,7 @@
       "puerta": "",
       "ruta": "FDO",
       "via": "",
-      "remark": "DEM",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
