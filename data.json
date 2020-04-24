@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/04/2020 12:22",
+  "lastUpdate": "24/04/2020 12:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -426,7 +426,7 @@
       "st": "24/04/2020 12:00",
       "matricula": "VHZNI",
       "posicion": "10",
-      "et": "24/4/2020 12:10",
+      "et": "",
       "at": "",
       "term": "A",
       "sector": "",
@@ -434,7 +434,7 @@
       "lF": "009",
       "ruta": "MEL",
       "via": "",
-      "remark": "EST",
+      "remark": "CON",
       "sanidad": "NO",
       "pax": "65"
     },
@@ -643,25 +643,6 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "CM",
-      "vuelo": "1715",
-      "st": "24/04/2020 23:06",
-      "matricula": "HP1853",
-      "posicion": "11B",
-      "et": "",
-      "at": "25/4/2020 00:27",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "15",
-      "ruta": "PTY",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
