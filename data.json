@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/04/2020 16:14",
+  "lastUpdate": "24/04/2020 16:20",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -25,9 +25,9 @@
       "aerolinea": "AZ",
       "vuelo": "8011",
       "st": "24/04/2020 17:05",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
+      "matricula": "EIISD",
+      "posicion": "13",
+      "et": "24/4/2020 17:50",
       "at": "",
       "term": "A",
       "sector": "",
@@ -35,9 +35,9 @@
       "lF": "",
       "ruta": "FCO",
       "via": "",
-      "remark": "",
+      "remark": "DEM",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
