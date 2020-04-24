@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/04/2020 14:59",
+  "lastUpdate": "24/04/2020 15:05",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -649,6 +649,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "LA",
+      "vuelo": "1147",
+      "st": "24/04/2020 15:00",
+      "matricula": "CCBGI",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "M3",
       "vuelo": "8496",
       "st": "25/04/2020 02:10",
@@ -664,25 +683,6 @@
       "ruta": "SCL",
       "via": "",
       "remark": "EST",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LA",
-      "vuelo": "1147",
-      "st": "24/04/2020 15:00",
-      "matricula": "CCBGI",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "HOR",
       "sanidad": "NO"
     },
     {
