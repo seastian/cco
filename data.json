@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/04/2020 04:03",
+  "lastUpdate": "25/04/2020 04:09",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -459,25 +459,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AV",
-      "vuelo": "290",
-      "st": "24/04/2020 17:36",
-      "matricula": "N793AV",
-      "posicion": "54",
-      "et": "",
-      "at": "24/4/2020 16:07",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AOG",
       "vuelo": "426",
       "st": "24/04/2020 20:00",
@@ -796,7 +777,7 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
