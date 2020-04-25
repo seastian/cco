@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/04/2020 20:19",
+  "lastUpdate": "25/04/2020 20:26",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -27,7 +27,7 @@
       "st": "25/04/2020 22:14",
       "matricula": "HP1853",
       "posicion": "",
-      "et": "",
+      "et": "25/4/2020 22:00",
       "at": "",
       "term": "A",
       "sector": "",
@@ -35,9 +35,9 @@
       "lF": "",
       "ruta": "PTY",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "150"
     },
     {
       "tipo": "arribo",
