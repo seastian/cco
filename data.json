@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/04/2020 10:25",
+  "lastUpdate": "25/04/2020 10:31",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -155,25 +155,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "CM",
-      "vuelo": "4005",
-      "st": "24/04/2020 22:06",
-      "matricula": "HP1715",
-      "posicion": "16B",
-      "et": "24/4/2020 22:24",
-      "at": "24/4/2020 22:27",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "PTY",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "157"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AMS",
       "vuelo": "8119",
       "st": "24/04/2020 23:20",
@@ -212,25 +193,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "ZEB",
-      "st": "24/04/2020 22:10",
-      "matricula": "LVZEB",
-      "posicion": "37",
-      "et": "24/4/2020 23:40",
-      "at": "24/4/2020 23:42",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SLA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AMS",
       "vuelo": "8919",
       "st": "24/04/2020 23:40",
@@ -247,6 +209,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "ZEB",
+      "st": "24/04/2020 22:10",
+      "matricula": "LVZEB",
+      "posicion": "37",
+      "et": "24/4/2020 23:40",
+      "at": "24/4/2020 23:42",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SLA",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "0"
     },
     {
       "tipo": "arribo",
