@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/04/2020 09:47",
+  "lastUpdate": "25/04/2020 09:53",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -117,20 +117,20 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "2D",
-      "vuelo": "9303",
-      "st": "24/04/2020 21:20",
-      "matricula": "N700KW",
-      "posicion": "08",
+      "aerolinea": "LA",
+      "vuelo": "1114",
+      "st": "25/04/2020 21:50",
+      "matricula": "CCBGA",
+      "posicion": "",
       "et": "",
-      "at": "24/4/2020 21:50",
-      "term": "A",
+      "at": "",
+      "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
-      "ruta": "MIA",
+      "ruta": "SCL",
       "via": "",
-      "remark": "ATE",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
