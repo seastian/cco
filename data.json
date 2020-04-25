@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/04/2020 20:38",
+  "lastUpdate": "25/04/2020 20:44",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -8,7 +8,7 @@
       "st": "25/04/2020 21:50",
       "matricula": "CCBGA",
       "posicion": "54",
-      "et": "",
+      "et": "25/4/2020 21:30",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -16,9 +16,9 @@
       "lF": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
