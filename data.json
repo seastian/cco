@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/04/2020 10:12",
+  "lastUpdate": "25/04/2020 10:19",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -129,6 +129,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "SCL",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "CM",
+      "vuelo": "4454",
+      "st": "25/04/2020 22:14",
+      "matricula": "HP1853",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "PTY",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -712,7 +731,7 @@
       "matricula": "PTXPN",
       "posicion": "06",
       "et": "25/4/2020 09:45",
-      "at": "",
+      "at": "25/4/2020 10:13",
       "term": "A",
       "sector": "AP",
       "chkFrom": "034",
@@ -720,7 +739,7 @@
       "puerta": "05",
       "ruta": "GRU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
