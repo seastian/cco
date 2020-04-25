@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/04/2020 04:09",
+  "lastUpdate": "25/04/2020 04:15",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -769,7 +769,7 @@
       "matricula": "CCBGL",
       "posicion": "51",
       "et": "",
-      "at": "",
+      "at": "25/4/2020 04:12",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -777,7 +777,7 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
