@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/04/2020 12:05",
+  "lastUpdate": "25/04/2020 12:11",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -301,25 +301,6 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "CM",
-      "vuelo": "1715",
-      "st": "24/04/2020 23:59",
-      "matricula": "HP1715",
-      "posicion": "16B",
-      "et": "",
-      "at": "25/4/2020 00:10",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "23",
-      "ruta": "PTY",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
