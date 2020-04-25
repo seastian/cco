@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/04/2020 00:16",
+  "lastUpdate": "25/04/2020 00:23",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -26,7 +26,7 @@
       "vuelo": "1110",
       "st": "25/04/2020 01:50",
       "matricula": "CCBGL",
-      "posicion": "",
+      "posicion": "51",
       "et": "25/4/2020 01:28",
       "at": "",
       "term": "TCA",
@@ -919,7 +919,7 @@
       "vuelo": "1110",
       "st": "25/04/2020 04:00",
       "matricula": "CCBGL",
-      "posicion": "",
+      "posicion": "51",
       "et": "",
       "at": "",
       "term": "TCA",
