@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/04/2020 11:34",
+  "lastUpdate": "25/04/2020 11:40",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -150,25 +150,6 @@
       "ruta": "PTY",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "M3",
-      "vuelo": "8496",
-      "st": "24/04/2020 23:45",
-      "matricula": "PRABD",
-      "posicion": "54",
-      "et": "24/4/2020 23:35",
-      "at": "24/4/2020 23:38",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -701,7 +682,7 @@
       "puerta": "17",
       "ruta": "FCO",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
