@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/04/2020 14:23",
+  "lastUpdate": "25/04/2020 14:29",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -454,7 +454,7 @@
       "puerta": "10",
       "ruta": "MEL",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
