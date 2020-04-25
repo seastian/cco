@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/04/2020 21:46",
+  "lastUpdate": "24/04/2020 21:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -83,7 +83,7 @@
       "vuelo": "4005",
       "st": "24/04/2020 22:06",
       "matricula": "HP1715",
-      "posicion": "",
+      "posicion": "16B",
       "et": "24/4/2020 22:24",
       "at": "",
       "term": "A",
@@ -503,14 +503,14 @@
       "matricula": "N700KW",
       "posicion": "08",
       "et": "",
-      "at": "",
+      "at": "24/4/2020 21:50",
       "term": "A",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "CON",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
