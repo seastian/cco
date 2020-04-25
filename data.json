@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/04/2020 07:04",
+  "lastUpdate": "25/04/2020 07:11",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -768,7 +768,7 @@
       "st": "25/04/2020 07:00",
       "matricula": "LVBFO",
       "posicion": "09",
-      "et": "",
+      "et": "25/4/2020 07:20",
       "at": "",
       "term": "A",
       "sector": "AP",
@@ -791,7 +791,7 @@
       "at": "",
       "term": "A",
       "sector": "AP",
-      "chkFrom": "041",
+      "chkFrom": "034",
       "chkTo": "053",
       "puerta": "06",
       "ruta": "GRU",
