@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "24/04/2020 23:51",
+  "lastUpdate": "24/04/2020 23:58",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "VDJ",
-      "st": "24/04/2020 22:20",
-      "matricula": "LVVDJ",
-      "posicion": "44",
-      "et": "24/4/2020 23:59",
-      "at": "",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SLA",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": "12"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "PRV",
@@ -477,6 +458,25 @@
       "pax": ""
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "VDJ",
+      "st": "24/04/2020 22:20",
+      "matricula": "LVVDJ",
+      "posicion": "44",
+      "et": "24/4/2020 23:59",
+      "at": "24/4/2020 23:55",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SLA",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "12"
+    },
+    {
       "tipo": "partida",
       "aerolinea": "PRV",
       "vuelo": "YIC",
@@ -691,7 +691,7 @@
       "vuelo": "ZEB",
       "st": "24/04/2020 23:00",
       "matricula": "LVZEB",
-      "posicion": "45",
+      "posicion": "37",
       "et": "",
       "at": "",
       "term": "FBO",
