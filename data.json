@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/04/2020 08:44",
+  "lastUpdate": "25/04/2020 08:51",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -796,7 +796,7 @@
       "puerta": "05",
       "ruta": "GRU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -830,7 +830,7 @@
       "term": "C",
       "sector": "CPI",
       "chkFrom": "201",
-      "chkTo": "210",
+      "chkTo": "212",
       "puerta": "17",
       "ruta": "FCO",
       "via": "",
