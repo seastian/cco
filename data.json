@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/04/2020 12:11",
+  "lastUpdate": "25/04/2020 12:18",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,7 +7,7 @@
       "vuelo": "7965",
       "st": "25/04/2020 12:00",
       "matricula": "LVBFO",
-      "posicion": "",
+      "posicion": "50A",
       "et": "25/4/2020 13:00",
       "at": "",
       "term": "A",
@@ -18,7 +18,7 @@
       "via": "",
       "remark": "DEM",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
