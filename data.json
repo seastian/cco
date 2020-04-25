@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/04/2020 13:52",
+  "lastUpdate": "25/04/2020 13:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -288,25 +288,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AMS",
-      "vuelo": "7919",
-      "st": "25/04/2020 02:30",
-      "matricula": "CXMAX",
-      "posicion": "58",
-      "et": "",
-      "at": "25/4/2020 01:52",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "PRV",
       "vuelo": "ZEB",
       "st": "24/04/2020 23:00",
@@ -465,7 +446,7 @@
       "matricula": "N700KW",
       "posicion": "08",
       "et": "",
-      "at": "",
+      "at": "25/4/2020 13:54",
       "term": "A",
       "sector": "AP",
       "chkFrom": "062",
@@ -473,7 +454,7 @@
       "puerta": "07",
       "ruta": "MIA",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
