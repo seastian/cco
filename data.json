@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "24/04/2020 21:15",
+  "lastUpdate": "24/04/2020 21:21",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "2D",
-      "vuelo": "9303",
-      "st": "24/04/2020 21:20",
-      "matricula": "N700KW",
-      "posicion": "08",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "UC",
@@ -511,6 +492,25 @@
       "ruta": "SCL",
       "via": "",
       "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "2D",
+      "vuelo": "9303",
+      "st": "24/04/2020 21:20",
+      "matricula": "N700KW",
+      "posicion": "08",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
