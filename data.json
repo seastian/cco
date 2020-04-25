@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/04/2020 02:41",
+  "lastUpdate": "25/04/2020 02:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -93,25 +93,6 @@
       "ruta": "VCP",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1407",
-      "st": "24/04/2020 15:11",
-      "matricula": "N532LA",
-      "posicion": "56",
-      "et": "24/4/2020 14:57",
-      "at": "24/4/2020 14:46",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
