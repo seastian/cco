@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/04/2020 12:24",
+  "lastUpdate": "25/04/2020 12:30",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -568,7 +568,7 @@
       "puerta": "17",
       "ruta": "FCO",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
