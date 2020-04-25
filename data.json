@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "25/04/2020 07:54",
+  "lastUpdate": "25/04/2020 08:01",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "9452",
-      "st": "25/04/2020 09:00",
-      "matricula": "PTXPN",
-      "posicion": "07",
-      "et": "25/4/2020 08:00",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "007",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "2"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AA",
@@ -401,6 +382,25 @@
       "pax": ""
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "JJ",
+      "vuelo": "9452",
+      "st": "25/04/2020 09:00",
+      "matricula": "PTXPN",
+      "posicion": "07",
+      "et": "25/4/2020 08:00",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "8",
+      "lF": "007",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "2"
+    },
+    {
       "tipo": "partida",
       "aerolinea": "M3",
       "vuelo": "8496",
@@ -769,7 +769,7 @@
       "matricula": "LVBFO",
       "posicion": "09",
       "et": "25/4/2020 07:30",
-      "at": "",
+      "at": "25/4/2020 07:59",
       "term": "A",
       "sector": "AP",
       "chkFrom": "034",
@@ -777,7 +777,7 @@
       "puerta": "09",
       "ruta": "SCL",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
