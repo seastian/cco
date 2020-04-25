@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/04/2020 04:47",
+  "lastUpdate": "25/04/2020 04:53",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -786,7 +786,7 @@
       "vuelo": "7964",
       "st": "25/04/2020 07:00",
       "matricula": "LVBFO",
-      "posicion": "",
+      "posicion": "63B",
       "et": "",
       "at": "",
       "term": "A",
@@ -897,25 +897,6 @@
     {
       "tipo": "partida",
       "aerolinea": "M3",
-      "vuelo": "8498",
-      "st": "25/04/2020 15:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "M3",
       "vuelo": "8495",
       "st": "25/04/2020 15:10",
       "matricula": "",
@@ -928,6 +909,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "VCP",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "8498",
+      "st": "25/04/2020 15:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
