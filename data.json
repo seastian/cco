@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/04/2020 02:22",
+  "lastUpdate": "25/04/2020 02:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -712,7 +712,7 @@
       "matricula": "LVVDJ",
       "posicion": "44",
       "et": "25/4/2020 02:00",
-      "at": "",
+      "at": "25/4/2020 02:21",
       "term": "FBO",
       "sector": "",
       "chkFrom": "",
@@ -720,7 +720,7 @@
       "puerta": "",
       "ruta": "FDO",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -758,7 +758,7 @@
       "puerta": "",
       "ruta": "FDO",
       "via": "",
-      "remark": "DEM",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
