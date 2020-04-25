@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/04/2020 00:35",
+  "lastUpdate": "25/04/2020 00:42",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -114,25 +114,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "QF",
-      "vuelo": "7027",
-      "st": "24/04/2020 12:00",
-      "matricula": "VHZNI",
-      "posicion": "10",
-      "et": "",
-      "at": "24/4/2020 12:37",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "MEL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "65"
     },
     {
       "tipo": "arribo",
@@ -465,14 +446,14 @@
       "matricula": "LVBGR",
       "posicion": "45",
       "et": "25/4/2020 00:30",
-      "at": "",
+      "at": "25/4/2020 00:35",
       "term": "C",
       "sector": "CAC",
       "cinta": "",
       "lF": "",
       "ruta": "SLA",
       "via": "",
-      "remark": "DEM",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "15"
     },
