@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/04/2020 00:10",
+  "lastUpdate": "25/04/2020 00:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -27,7 +27,7 @@
       "st": "25/04/2020 01:50",
       "matricula": "CCBGL",
       "posicion": "",
-      "et": "",
+      "et": "25/4/2020 01:28",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -35,9 +35,9 @@
       "lF": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -731,7 +731,7 @@
       "matricula": "HP1715",
       "posicion": "16B",
       "et": "",
-      "at": "",
+      "at": "25/4/2020 00:10",
       "term": "A",
       "sector": "AP",
       "chkFrom": "",
@@ -739,7 +739,7 @@
       "puerta": "23",
       "ruta": "PTY",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -938,7 +938,7 @@
       "vuelo": "413",
       "st": "25/04/2020 06:05",
       "matricula": "N355UP",
-      "posicion": "61",
+      "posicion": "55",
       "et": "",
       "at": "",
       "term": "TCA",
