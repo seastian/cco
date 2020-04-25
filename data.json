@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/04/2020 15:26",
+  "lastUpdate": "25/04/2020 15:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -209,25 +209,6 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1406",
-      "st": "25/04/2020 03:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "LAX",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
