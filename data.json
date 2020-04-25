@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/04/2020 15:19",
+  "lastUpdate": "25/04/2020 15:26",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -595,8 +595,8 @@
       "aerolinea": "AR",
       "vuelo": "1132",
       "st": "26/04/2020 01:25",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "LVFVH",
+      "posicion": "TG1",
       "et": "",
       "at": "",
       "term": "C",
