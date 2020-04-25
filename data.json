@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/04/2020 14:17",
+  "lastUpdate": "25/04/2020 14:23",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -228,25 +228,6 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "PRV",
-      "vuelo": "VDJ",
-      "st": "24/04/2020 23:20",
-      "matricula": "LVVDJ",
-      "posicion": "44",
-      "et": "25/4/2020 02:00",
-      "at": "25/4/2020 02:21",
-      "term": "FBO",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "FDO",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
