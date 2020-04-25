@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "24/04/2020 22:24",
+  "lastUpdate": "24/04/2020 22:30",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "CM",
-      "vuelo": "4005",
-      "st": "24/04/2020 22:06",
-      "matricula": "HP1715",
-      "posicion": "16B",
-      "et": "24/4/2020 22:24",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "PTY",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": "157"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "M3",
@@ -133,25 +114,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "YIC",
-      "st": "24/04/2020 05:20",
-      "matricula": "LVYIC",
-      "posicion": "45",
-      "et": "24/4/2020 10:15",
-      "at": "24/4/2020 10:25",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "NQN",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "10"
     },
     {
       "tipo": "arribo",
@@ -494,6 +456,25 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": "12"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "CM",
+      "vuelo": "4005",
+      "st": "24/04/2020 22:06",
+      "matricula": "HP1715",
+      "posicion": "16B",
+      "et": "24/4/2020 22:24",
+      "at": "24/4/2020 22:27",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "009",
+      "ruta": "PTY",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "157"
     },
     {
       "tipo": "partida",
