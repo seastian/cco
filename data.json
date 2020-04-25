@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/04/2020 15:13",
+  "lastUpdate": "25/04/2020 15:19",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -209,25 +209,6 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "PRV",
-      "vuelo": "ZEB",
-      "st": "24/04/2020 23:00",
-      "matricula": "LVZEB",
-      "posicion": "37",
-      "et": "25/4/2020 02:45",
-      "at": "25/4/2020 03:14",
-      "term": "FBO",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "FDO",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
