@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/04/2020 09:03",
+  "lastUpdate": "25/04/2020 09:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -129,25 +129,6 @@
       "cinta": "",
       "lF": "",
       "ruta": "MVD",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1136",
-      "st": "24/04/2020 21:20",
-      "matricula": "CCBGE",
-      "posicion": "55",
-      "et": "24/4/2020 21:00",
-      "at": "24/4/2020 21:07",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
