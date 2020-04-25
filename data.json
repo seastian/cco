@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/04/2020 14:04",
+  "lastUpdate": "25/04/2020 14:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -681,6 +681,25 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "MAD",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "8496",
+      "st": "26/04/2020 02:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
