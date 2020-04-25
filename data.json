@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/04/2020 09:10",
+  "lastUpdate": "25/04/2020 09:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -8,7 +8,7 @@
       "st": "25/04/2020 12:00",
       "matricula": "LVBFO",
       "posicion": "",
-      "et": "",
+      "et": "25/4/2020 13:00",
       "at": "",
       "term": "A",
       "sector": "",
@@ -16,7 +16,7 @@
       "lF": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "",
+      "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
     },
