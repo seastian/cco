@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/04/2020 13:08",
+  "lastUpdate": "25/04/2020 13:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -541,7 +541,7 @@
       "matricula": "EIISD",
       "posicion": "13",
       "et": "",
-      "at": "",
+      "at": "25/4/2020 13:12",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "201",
@@ -549,7 +549,7 @@
       "puerta": "17",
       "ruta": "FCO",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
