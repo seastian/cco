@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/04/2020 07:17",
+  "lastUpdate": "25/04/2020 07:23",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -768,7 +768,7 @@
       "st": "25/04/2020 07:00",
       "matricula": "LVBFO",
       "posicion": "09",
-      "et": "25/4/2020 07:20",
+      "et": "25/4/2020 07:30",
       "at": "",
       "term": "A",
       "sector": "AP",
