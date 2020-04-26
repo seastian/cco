@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/04/2020 15:13",
+  "lastUpdate": "26/04/2020 15:19",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -171,25 +171,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1233",
-      "st": "26/04/2020 04:10",
-      "matricula": "CCBGL",
-      "posicion": "54",
-      "et": "26/4/2020 03:10",
-      "at": "26/4/2020 03:15",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
