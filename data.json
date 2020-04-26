@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "26/04/2020 11:46",
+  "lastUpdate": "26/04/2020 11:52",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1077",
-      "st": "26/04/2020 10:15",
-      "matricula": "LVGIF",
-      "posicion": "50",
-      "et": "26/4/2020 12:06",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "PVG",
-      "via": "AKL",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": "0"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "M3",
@@ -209,6 +190,25 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1077",
+      "st": "26/04/2020 10:15",
+      "matricula": "LVGIF",
+      "posicion": "50",
+      "et": "26/4/2020 12:06",
+      "at": "26/4/2020 11:51",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "PVG",
+      "via": "AKL",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "0"
     },
     {
       "tipo": "partida",
