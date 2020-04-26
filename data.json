@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/04/2020 06:20",
+  "lastUpdate": "26/04/2020 06:27",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -76,25 +76,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1116",
-      "st": "25/04/2020 18:50",
-      "matricula": "CCBGB",
-      "posicion": "54",
-      "et": "25/4/2020 18:30",
-      "at": "25/4/2020 18:24",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
