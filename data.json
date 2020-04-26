@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/04/2020 09:09",
+  "lastUpdate": "26/04/2020 09:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,7 +7,7 @@
       "vuelo": "1077",
       "st": "26/04/2020 10:15",
       "matricula": "",
-      "posicion": "",
+      "posicion": "56",
       "et": "26/4/2020 12:06",
       "at": "",
       "term": "TCA",
@@ -95,6 +95,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "IB",
+      "vuelo": "6847",
+      "st": "26/04/2020 21:40",
+      "matricula": "ECMUD",
+      "posicion": "",
+      "et": "26/4/2020 21:12",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MAD",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "258"
     },
     {
       "tipo": "arribo",
@@ -370,7 +389,7 @@
       "matricula": "N723AN",
       "posicion": "51",
       "et": "26/4/2020 09:20",
-      "at": "",
+      "at": "26/4/2020 09:15",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -378,7 +397,7 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
