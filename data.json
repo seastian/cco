@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/04/2020 22:12",
+  "lastUpdate": "25/04/2020 22:18",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -54,6 +54,25 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1077",
+      "st": "26/04/2020 10:15",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "PVG",
+      "via": "AKL",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
@@ -212,25 +231,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "JJ",
-      "vuelo": "9453",
-      "st": "25/04/2020 09:00",
-      "matricula": "PTXPN",
-      "posicion": "06",
-      "et": "25/4/2020 09:45",
-      "at": "25/4/2020 10:13",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "034",
-      "chkTo": "053",
-      "puerta": "05",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "2D",
       "vuelo": "888",
       "st": "25/04/2020 11:30",
@@ -369,7 +369,7 @@
       "st": "25/04/2020 21:40",
       "matricula": "CCBGD",
       "posicion": "09",
-      "et": "",
+      "et": "25/4/2020 22:30",
       "at": "",
       "term": "A",
       "sector": "AP",
