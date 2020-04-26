@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "25/04/2020 22:00",
+  "lastUpdate": "25/04/2020 22:06",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "CM",
-      "vuelo": "4454",
-      "st": "25/04/2020 22:14",
-      "matricula": "HP1853",
-      "posicion": "10",
-      "et": "25/4/2020 22:00",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "PTY",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "150"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "M3",
@@ -209,6 +190,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "CM",
+      "vuelo": "4454",
+      "st": "25/04/2020 22:14",
+      "matricula": "HP1853",
+      "posicion": "10",
+      "et": "25/4/2020 22:00",
+      "at": "25/4/2020 21:59",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "009",
+      "ruta": "PTY",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "150"
     },
     {
       "tipo": "partida",
