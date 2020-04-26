@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/04/2020 22:56",
+  "lastUpdate": "25/04/2020 23:02",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -370,7 +370,7 @@
       "matricula": "CCBGD",
       "posicion": "09",
       "et": "25/4/2020 22:30",
-      "at": "",
+      "at": "25/4/2020 22:58",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -378,7 +378,7 @@
       "puerta": "09",
       "ruta": "SCL",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
