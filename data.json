@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/04/2020 04:59",
+  "lastUpdate": "26/04/2020 05:05",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -80,8 +80,8 @@
     {
       "tipo": "arribo",
       "aerolinea": "UC",
-      "vuelo": "1106",
-      "st": "25/04/2020 17:00",
+      "vuelo": "1107",
+      "st": "26/04/2020 17:00",
       "matricula": "",
       "posicion": "",
       "et": "",
@@ -92,7 +92,7 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "CON",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
@@ -327,7 +327,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
+      "vuelo": "H24",
       "st": "25/04/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -335,7 +335,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -346,7 +346,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24",
+      "vuelo": "H24N",
       "st": "25/04/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -354,7 +354,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "209",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -408,7 +408,7 @@
       "matricula": "CCBGL",
       "posicion": "54",
       "et": "",
-      "at": "",
+      "at": "26/4/2020 05:04",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -416,7 +416,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
