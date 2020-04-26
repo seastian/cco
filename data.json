@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/04/2020 11:02",
+  "lastUpdate": "26/04/2020 11:09",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -23,7 +23,7 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "9831",
+      "vuelo": "8472",
       "st": "26/04/2020 14:00",
       "matricula": "",
       "posicion": "",
@@ -42,7 +42,7 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "8472",
+      "vuelo": "9831",
       "st": "26/04/2020 14:00",
       "matricula": "",
       "posicion": "",
@@ -148,6 +148,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "SCL",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "GTI",
+      "vuelo": "033",
+      "st": "26/04/2020 23:05",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
       "via": "",
       "remark": "",
       "sanidad": "NO",
