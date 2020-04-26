@@ -1,13 +1,13 @@
 {
-  "lastUpdate": "26/04/2020 09:16",
+  "lastUpdate": "26/04/2020 09:22",
   "vuelos": [
     {
       "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1077",
       "st": "26/04/2020 10:15",
-      "matricula": "",
-      "posicion": "56",
+      "matricula": "LVGIF",
+      "posicion": "50",
       "et": "26/4/2020 12:06",
       "at": "",
       "term": "TCA",
