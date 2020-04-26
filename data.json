@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/04/2020 12:49",
+  "lastUpdate": "26/04/2020 12:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -405,8 +405,8 @@
       "aerolinea": "AR",
       "vuelo": "1340",
       "st": "26/04/2020 23:30",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "LVGKT",
+      "posicion": "M15",
       "et": "",
       "at": "",
       "term": "C",
@@ -491,6 +491,25 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LA",
+      "vuelo": "1134",
+      "st": "27/04/2020 00:50",
+      "matricula": "CCBGI",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
