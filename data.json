@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/04/2020 03:13",
+  "lastUpdate": "26/04/2020 03:19",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -199,14 +199,14 @@
       "matricula": "CCBGL",
       "posicion": "54",
       "et": "26/4/2020 03:10",
-      "at": "",
+      "at": "26/4/2020 03:15",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
     },
