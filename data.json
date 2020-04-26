@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/04/2020 18:39",
+  "lastUpdate": "26/04/2020 18:46",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,7 +7,7 @@
       "vuelo": "033",
       "st": "26/04/2020 23:05",
       "matricula": "N859GT",
-      "posicion": "",
+      "posicion": "55",
       "et": "26/4/2020 20:50",
       "at": "",
       "term": "TCA",
@@ -225,6 +225,25 @@
       "lF": "",
       "ruta": "SCL",
       "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LH",
+      "vuelo": "8264",
+      "st": "27/04/2020 06:40",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "FRA",
+      "via": "MVD",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
