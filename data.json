@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/04/2020 01:51",
+  "lastUpdate": "26/04/2020 01:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -209,25 +209,6 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "2D",
-      "vuelo": "888",
-      "st": "25/04/2020 11:30",
-      "matricula": "N700KW",
-      "posicion": "08",
-      "et": "",
-      "at": "25/4/2020 13:54",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "062",
-      "chkTo": "067",
-      "puerta": "07",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
