@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/04/2020 00:49",
+  "lastUpdate": "26/04/2020 00:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -46,7 +46,7 @@
       "st": "26/04/2020 10:15",
       "matricula": "",
       "posicion": "",
-      "et": "",
+      "et": "26/4/2020 12:06",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -54,9 +54,9 @@
       "lF": "",
       "ruta": "PVG",
       "via": "AKL",
-      "remark": "",
+      "remark": "DEM",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
