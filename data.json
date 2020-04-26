@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/04/2020 01:08",
+  "lastUpdate": "26/04/2020 01:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -225,25 +225,6 @@
       "chkTo": "067",
       "puerta": "07",
       "ruta": "MIA",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AZ",
-      "vuelo": "681",
-      "st": "25/04/2020 13:00",
-      "matricula": "EIISD",
-      "posicion": "13",
-      "et": "",
-      "at": "25/4/2020 13:12",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "201",
-      "chkTo": "212",
-      "puerta": "17",
-      "ruta": "FCO",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
