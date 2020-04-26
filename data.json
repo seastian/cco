@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/04/2020 16:03",
+  "lastUpdate": "26/04/2020 16:09",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -186,6 +186,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "MAD",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1341",
+      "st": "27/04/2020 04:05",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "ASU",
       "via": "",
       "remark": "",
       "sanidad": "NO",
