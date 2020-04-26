@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/04/2020 18:21",
+  "lastUpdate": "26/04/2020 18:27",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -26,13 +26,13 @@
       "vuelo": "6847",
       "st": "26/04/2020 21:40",
       "matricula": "ECMUD",
-      "posicion": "",
+      "posicion": "09",
       "et": "26/4/2020 21:12",
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "9",
+      "lF": "009",
       "ruta": "MAD",
       "via": "",
       "remark": "EST",
