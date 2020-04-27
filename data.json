@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "27/04/2020 00:11",
+  "lastUpdate": "27/04/2020 00:17",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "5X",
-      "vuelo": "416",
-      "st": "27/04/2020 02:19",
-      "matricula": "N324UP",
-      "posicion": "55",
-      "et": "27/4/2020 00:13",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "SCL",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "LA",
@@ -340,6 +321,25 @@
       "ruta": "MIA",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "5X",
+      "vuelo": "416",
+      "st": "27/04/2020 02:19",
+      "matricula": "N324UP",
+      "posicion": "55",
+      "et": "27/4/2020 00:13",
+      "at": "27/4/2020 00:12",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "SCL",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
