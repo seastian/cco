@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/04/2020 15:44",
+  "lastUpdate": "27/04/2020 15:50",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -465,7 +465,7 @@
       "matricula": "ECMUD",
       "posicion": "09",
       "et": "",
-      "at": "",
+      "at": "27/4/2020 15:49",
       "term": "A",
       "sector": "AP",
       "chkFrom": "027",
@@ -473,7 +473,7 @@
       "puerta": "08",
       "ruta": "MAD",
       "via": "ASU",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -492,7 +492,7 @@
       "puerta": "",
       "ruta": "BOG",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
