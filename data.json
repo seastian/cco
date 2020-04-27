@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/04/2020 23:09",
+  "lastUpdate": "26/04/2020 23:15",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -332,14 +332,14 @@
       "matricula": "CXCAR",
       "posicion": "51A",
       "et": "26/4/2020 23:00",
-      "at": "",
+      "at": "26/4/2020 23:09",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
