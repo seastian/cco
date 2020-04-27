@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/04/2020 09:16",
+  "lastUpdate": "27/04/2020 09:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -634,14 +634,14 @@
       "vuelo": "9983",
       "st": "27/04/2020 11:30",
       "matricula": "LVBGI",
-      "posicion": "63C",
+      "posicion": "08",
       "et": "",
       "at": "",
       "term": "A",
       "sector": "AP",
       "chkFrom": "",
       "chkTo": "",
-      "puerta": "",
+      "puerta": "07",
       "ruta": "AEP",
       "via": "",
       "remark": "HOR",
