@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/04/2020 00:24",
+  "lastUpdate": "27/04/2020 00:30",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -702,6 +702,25 @@
       "ruta": "MVD",
       "via": "",
       "remark": "CAN",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1382",
+      "st": "27/04/2020 12:30",
+      "matricula": "LVGVB",
+      "posicion": "70",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     }
   ]
