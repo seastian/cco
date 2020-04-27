@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/04/2020 04:40",
+  "lastUpdate": "27/04/2020 04:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -26,8 +26,8 @@
       "vuelo": "1341",
       "st": "27/04/2020 06:05",
       "matricula": "LVGKT",
-      "posicion": "",
-      "et": "",
+      "posicion": "15B",
+      "et": "27/4/2020 05:50",
       "at": "",
       "term": "A",
       "sector": "",
@@ -35,9 +35,9 @@
       "lF": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "141"
     },
     {
       "tipo": "arribo",
