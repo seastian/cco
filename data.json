@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/04/2020 10:12",
+  "lastUpdate": "27/04/2020 10:18",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -634,14 +634,14 @@
       "vuelo": "1382",
       "st": "27/04/2020 12:30",
       "matricula": "LVGVB",
-      "posicion": "70",
+      "posicion": "16B",
       "et": "",
       "at": "",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "23",
       "ruta": "MVD",
       "via": "",
       "remark": "HOR",
