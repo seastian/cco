@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/04/2020 00:36",
+  "lastUpdate": "27/04/2020 00:42",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -541,7 +541,7 @@
       "matricula": "CXCAR",
       "posicion": "51A",
       "et": "27/4/2020 00:30",
-      "at": "",
+      "at": "27/4/2020 00:41",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -549,7 +549,7 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "EST",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
