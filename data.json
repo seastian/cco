@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "27/04/2020 14:41",
+  "lastUpdate": "27/04/2020 14:48",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "4M",
-      "vuelo": "9982",
-      "st": "27/04/2020 15:00",
-      "matricula": "LVBSJ",
-      "posicion": "08",
-      "et": "27/4/2020 14:45",
-      "at": "",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "AEP",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AR",
@@ -321,6 +302,25 @@
       "ruta": "MIA",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "4M",
+      "vuelo": "9982",
+      "st": "27/04/2020 15:00",
+      "matricula": "LVBSJ",
+      "posicion": "08",
+      "et": "27/4/2020 14:45",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "AEP",
+      "via": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
