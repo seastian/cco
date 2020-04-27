@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/04/2020 04:28",
+  "lastUpdate": "27/04/2020 04:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -63,7 +63,7 @@
       "aerolinea": "LH",
       "vuelo": "8264",
       "st": "27/04/2020 06:40",
-      "matricula": "",
+      "matricula": "DALCC",
       "posicion": "",
       "et": "",
       "at": "",
@@ -671,7 +671,7 @@
       "aerolinea": "LH",
       "vuelo": "8265",
       "st": "27/04/2020 08:10",
-      "matricula": "",
+      "matricula": "DALCC",
       "posicion": "",
       "et": "",
       "at": "",
