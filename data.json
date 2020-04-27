@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/04/2020 03:38",
+  "lastUpdate": "27/04/2020 03:44",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -758,6 +758,25 @@
       "puerta": "",
       "ruta": "POA",
       "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "IB",
+      "vuelo": "6846",
+      "st": "27/04/2020 15:40",
+      "matricula": "ECMUD",
+      "posicion": "09",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "09",
+      "ruta": "MAD",
+      "via": "ASU",
       "remark": "HOR",
       "sanidad": "NO"
     }
