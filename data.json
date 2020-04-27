@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/04/2020 23:27",
+  "lastUpdate": "26/04/2020 23:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -150,6 +150,25 @@
       "ruta": "FRA",
       "via": "MVD",
       "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1381",
+      "st": "27/04/2020 11:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
     },
@@ -435,7 +454,7 @@
       "puerta": "",
       "ruta": "LAX",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
