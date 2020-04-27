@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/04/2020 03:44",
+  "lastUpdate": "27/04/2020 03:50",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -777,6 +777,25 @@
       "puerta": "09",
       "ruta": "MAD",
       "via": "ASU",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "QT",
+      "vuelo": "4078",
+      "st": "27/04/2020 15:45",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "BOG",
+      "via": "",
       "remark": "HOR",
       "sanidad": "NO"
     }
