@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/04/2020 17:55",
+  "lastUpdate": "27/04/2020 18:02",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,7 +7,7 @@
       "vuelo": "1145",
       "st": "27/04/2020 18:25",
       "matricula": "CCBGJ",
-      "posicion": "",
+      "posicion": "51",
       "et": "27/4/2020 18:15",
       "at": "",
       "term": "TCA",
@@ -171,25 +171,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "141"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LH",
-      "vuelo": "8264",
-      "st": "27/04/2020 06:40",
-      "matricula": "DALCC",
-      "posicion": "54",
-      "et": "27/4/2020 05:54",
-      "at": "27/4/2020 06:00",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "FRA",
-      "via": "MVD",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -558,7 +539,7 @@
       "vuelo": "1145",
       "st": "27/04/2020 20:25",
       "matricula": "CCBGJ",
-      "posicion": "",
+      "posicion": "51",
       "et": "",
       "at": "",
       "term": "TCA",
