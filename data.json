@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/04/2020 23:46",
+  "lastUpdate": "26/04/2020 23:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -64,7 +64,7 @@
       "vuelo": "1133",
       "st": "27/04/2020 04:00",
       "matricula": "LVFVH",
-      "posicion": "",
+      "posicion": "14",
       "et": "27/4/2020 03:20",
       "at": "",
       "term": "A",
@@ -171,25 +171,6 @@
       "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1077",
-      "st": "26/04/2020 10:15",
-      "matricula": "LVGIF",
-      "posicion": "50",
-      "et": "26/4/2020 12:06",
-      "at": "26/4/2020 11:51",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "PVG",
-      "via": "AKL",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
