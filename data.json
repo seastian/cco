@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/04/2020 14:23",
+  "lastUpdate": "27/04/2020 14:29",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -8,7 +8,7 @@
       "st": "27/04/2020 15:00",
       "matricula": "LVGVB",
       "posicion": "",
-      "et": "",
+      "et": "27/4/2020 14:49",
       "at": "",
       "term": "A",
       "sector": "",
@@ -16,9 +16,9 @@
       "lF": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "159"
     },
     {
       "tipo": "arribo",
@@ -27,7 +27,7 @@
       "st": "27/04/2020 15:00",
       "matricula": "LVBSJ",
       "posicion": "",
-      "et": "",
+      "et": "27/4/2020 15:00",
       "at": "",
       "term": "C",
       "sector": "CAC",
@@ -35,7 +35,7 @@
       "lF": "",
       "ruta": "AEP",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
