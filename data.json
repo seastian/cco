@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/04/2020 12:55",
+  "lastUpdate": "27/04/2020 13:01",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -719,6 +719,25 @@
       "chkTo": "053",
       "puerta": "",
       "ruta": "QTR",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "8490",
+      "st": "28/04/2020 01:00",
+      "matricula": "PRABD",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
