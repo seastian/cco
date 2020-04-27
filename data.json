@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/04/2020 22:25",
+  "lastUpdate": "26/04/2020 22:31",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -63,9 +63,9 @@
       "aerolinea": "5X",
       "vuelo": "416",
       "st": "27/04/2020 02:19",
-      "matricula": "",
+      "matricula": "N324UP",
       "posicion": "",
-      "et": "",
+      "et": "27/4/2020 00:59",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -73,7 +73,7 @@
       "lF": "",
       "ruta": "MIA",
       "via": "SCL",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
