@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/04/2020 10:37",
+  "lastUpdate": "27/04/2020 10:43",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -131,25 +131,6 @@
       "ruta": "MIA",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1134",
-      "st": "26/04/2020 22:56",
-      "matricula": "CCBGI",
-      "posicion": "54",
-      "et": "26/4/2020 22:40",
-      "at": "26/4/2020 22:42",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
