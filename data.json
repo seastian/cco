@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "26/04/2020 22:56",
+  "lastUpdate": "26/04/2020 23:02",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "102",
-      "st": "27/04/2020 00:30",
-      "matricula": "CXCAR",
-      "posicion": "51A",
-      "et": "26/4/2020 23:00",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "UC",
@@ -194,7 +175,7 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "9831",
+      "vuelo": "8472",
       "st": "26/04/2020 14:00",
       "matricula": "",
       "posicion": "",
@@ -213,7 +194,7 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "8472",
+      "vuelo": "9831",
       "st": "26/04/2020 14:00",
       "matricula": "",
       "posicion": "",
@@ -340,6 +321,25 @@
       "ruta": "SCL",
       "via": "",
       "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AOG",
+      "vuelo": "102",
+      "st": "27/04/2020 00:30",
+      "matricula": "CXCAR",
+      "posicion": "51A",
+      "et": "26/4/2020 23:00",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
