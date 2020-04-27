@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/04/2020 04:53",
+  "lastUpdate": "27/04/2020 04:59",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -31,8 +31,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "9",
+      "lF": "009",
       "ruta": "ASU",
       "via": "",
       "remark": "EST",
@@ -64,7 +64,7 @@
       "vuelo": "8264",
       "st": "27/04/2020 06:40",
       "matricula": "DALCC",
-      "posicion": "",
+      "posicion": "54",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -672,7 +672,7 @@
       "vuelo": "8265",
       "st": "27/04/2020 08:10",
       "matricula": "DALCC",
-      "posicion": "",
+      "posicion": "54",
       "et": "",
       "at": "",
       "term": "TCA",
