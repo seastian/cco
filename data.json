@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/04/2020 08:13",
+  "lastUpdate": "27/04/2020 08:19",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -758,6 +758,25 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "5X",
+      "vuelo": "417",
+      "st": "27/04/2020 20:15",
+      "matricula": "N324UP",
+      "posicion": "61",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
+      "via": "VCP",
       "remark": "HOR",
       "sanidad": "NO"
     }
