@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/04/2020 21:16",
+  "lastUpdate": "26/04/2020 21:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -167,6 +167,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "MIA",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1341",
+      "st": "27/04/2020 06:05",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "ASU",
       "via": "",
       "remark": "",
       "sanidad": "NO",
