@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/04/2020 02:35",
+  "lastUpdate": "27/04/2020 02:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -351,14 +351,14 @@
       "matricula": "CCBGL",
       "posicion": "54",
       "et": "27/4/2020 02:35",
-      "at": "",
+      "at": "27/4/2020 02:38",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
