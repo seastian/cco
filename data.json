@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/04/2020 08:19",
+  "lastUpdate": "27/04/2020 08:26",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -777,6 +777,25 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "VCP",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LA",
+      "vuelo": "1145",
+      "st": "27/04/2020 20:25",
+      "matricula": "CCBGJ",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
       "remark": "HOR",
       "sanidad": "NO"
     }
