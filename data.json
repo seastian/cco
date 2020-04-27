@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/04/2020 06:02",
+  "lastUpdate": "27/04/2020 06:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -112,25 +112,6 @@
       "ruta": "MVD",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "101",
-      "st": "26/04/2020 18:30",
-      "matricula": "CXCAR",
-      "posicion": "51A",
-      "et": "",
-      "at": "26/4/2020 18:04",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -332,14 +313,14 @@
       "matricula": "LVGKT",
       "posicion": "15B",
       "et": "27/4/2020 05:50",
-      "at": "",
+      "at": "27/4/2020 06:04",
       "term": "A",
       "sector": "",
       "cinta": "9",
       "lF": "009",
       "ruta": "ASU",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "141"
     },
