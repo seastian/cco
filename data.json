@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/04/2020 11:08",
+  "lastUpdate": "27/04/2020 11:15",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -131,25 +131,6 @@
       "ruta": "MIA",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "102",
-      "st": "27/04/2020 00:30",
-      "matricula": "CXCAR",
-      "posicion": "51A",
-      "et": "26/4/2020 23:00",
-      "at": "26/4/2020 23:09",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
