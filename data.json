@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/04/2020 00:17",
+  "lastUpdate": "27/04/2020 00:24",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -473,26 +473,7 @@
       "puerta": "21",
       "ruta": "ASU",
       "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "JJ",
-      "vuelo": "H24",
-      "st": "26/04/2020 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "",
-      "ruta": "QTR",
-      "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -527,6 +508,25 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
+      "puerta": "",
+      "ruta": "QTR",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "JJ",
+      "vuelo": "H24",
+      "st": "26/04/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
       "puerta": "",
       "ruta": "QTR",
       "via": "",
