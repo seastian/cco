@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/04/2020 01:20",
+  "lastUpdate": "27/04/2020 01:26",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -8,7 +8,7 @@
       "st": "27/04/2020 02:50",
       "matricula": "",
       "posicion": "",
-      "et": "",
+      "et": "27/4/2020 02:41",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -16,7 +16,7 @@
       "lF": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
