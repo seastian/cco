@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/04/2020 12:30",
+  "lastUpdate": "27/04/2020 12:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -326,25 +326,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1340",
-      "st": "26/04/2020 23:55",
-      "matricula": "LVGKT",
-      "posicion": "15B",
-      "et": "",
-      "at": "27/4/2020 00:31",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "21",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AOG",
       "vuelo": "103",
       "st": "27/04/2020 07:30",
@@ -549,7 +530,7 @@
       "puerta": "23",
       "ruta": "MVD",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
