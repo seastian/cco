@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/04/2020 09:41",
+  "lastUpdate": "27/04/2020 09:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -114,25 +114,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "IB",
-      "vuelo": "6847",
-      "st": "26/04/2020 21:40",
-      "matricula": "ECMUD",
-      "posicion": "09",
-      "et": "",
-      "at": "26/4/2020 21:41",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "258"
     },
     {
       "tipo": "arribo",
