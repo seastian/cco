@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/04/2020 12:49",
+  "lastUpdate": "27/04/2020 12:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -492,7 +492,7 @@
       "puerta": "07",
       "ruta": "AEP",
       "via": "",
-      "remark": "DEM",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
