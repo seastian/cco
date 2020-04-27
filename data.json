@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/04/2020 18:02",
+  "lastUpdate": "27/04/2020 18:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -152,25 +152,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1341",
-      "st": "27/04/2020 06:05",
-      "matricula": "LVGKT",
-      "posicion": "15B",
-      "et": "27/4/2020 05:50",
-      "at": "27/4/2020 06:04",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "141"
     },
     {
       "tipo": "arribo",
