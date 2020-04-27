@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/04/2020 12:42",
+  "lastUpdate": "27/04/2020 12:49",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -323,25 +323,6 @@
       "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LA",
-      "vuelo": "1134",
-      "st": "27/04/2020 00:50",
-      "matricula": "CCBGI",
-      "posicion": "54",
-      "et": "",
-      "at": "27/4/2020 00:48",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
