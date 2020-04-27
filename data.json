@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/04/2020 13:45",
+  "lastUpdate": "27/04/2020 13:51",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -339,7 +339,7 @@
       "lF": "",
       "ruta": "BOG",
       "via": "",
-      "remark": "",
+      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
