@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/04/2020 21:47",
+  "lastUpdate": "26/04/2020 21:53",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -25,7 +25,7 @@
       "aerolinea": "LA",
       "vuelo": "1134",
       "st": "26/04/2020 22:56",
-      "matricula": "",
+      "matricula": "CCBGI",
       "posicion": "",
       "et": "",
       "at": "",
@@ -538,7 +538,7 @@
       "aerolinea": "LA",
       "vuelo": "1134",
       "st": "27/04/2020 00:50",
-      "matricula": "",
+      "matricula": "CCBGI",
       "posicion": "",
       "et": "",
       "at": "",
