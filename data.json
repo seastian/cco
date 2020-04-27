@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/04/2020 05:24",
+  "lastUpdate": "27/04/2020 05:30",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -41,6 +41,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "LH",
+      "vuelo": "8264",
+      "st": "27/04/2020 06:40",
+      "matricula": "DALCC",
+      "posicion": "54",
+      "et": "27/4/2020 05:54",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "FRA",
+      "via": "MVD",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "AOG",
       "vuelo": "103",
       "st": "27/04/2020 06:30",
@@ -54,25 +73,6 @@
       "lF": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LH",
-      "vuelo": "8264",
-      "st": "27/04/2020 06:40",
-      "matricula": "DALCC",
-      "posicion": "54",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "FRA",
-      "via": "MVD",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
