@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/04/2020 18:08",
+  "lastUpdate": "27/04/2020 18:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -148,6 +148,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "MIA",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "1135",
+      "st": "28/04/2020 06:10",
+      "matricula": "CCBGG",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MEX",
       "via": "",
       "remark": "",
       "sanidad": "NO",
