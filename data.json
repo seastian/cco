@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/04/2020 09:03",
+  "lastUpdate": "28/04/2020 09:09",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -446,7 +446,7 @@
       "matricula": "CCBGG",
       "posicion": "15",
       "et": "28/4/2020 08:40",
-      "at": "",
+      "at": "28/4/2020 09:04",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -454,7 +454,7 @@
       "puerta": "20",
       "ruta": "SCL",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
