@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/04/2020 02:10",
+  "lastUpdate": "28/04/2020 02:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -644,7 +644,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -655,7 +655,7 @@
       "matricula": "CXMAS",
       "posicion": "51A",
       "et": "",
-      "at": "",
+      "at": "28/4/2020 02:12",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -663,7 +663,7 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "HOR",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
