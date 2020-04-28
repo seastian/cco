@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/04/2020 11:34",
+  "lastUpdate": "28/04/2020 11:40",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -519,8 +519,8 @@
       "aerolinea": "AR",
       "vuelo": "1078",
       "st": "28/04/2020 22:30",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "LVFVI",
+      "posicion": "M18",
       "et": "",
       "at": "",
       "term": "TCA",
