@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/04/2020 00:05",
+  "lastUpdate": "28/04/2020 00:11",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -17,25 +17,6 @@
       "ruta": "MIA",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "M3",
-      "vuelo": "8490",
-      "st": "27/04/2020 23:44",
-      "matricula": "PRABD",
-      "posicion": "55",
-      "et": "28/4/2020 00:20",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
     },
@@ -397,6 +378,25 @@
       "ruta": "VCP",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "M3",
+      "vuelo": "8490",
+      "st": "27/04/2020 23:44",
+      "matricula": "PRABD",
+      "posicion": "55",
+      "et": "28/4/2020 00:20",
+      "at": "28/4/2020 00:07",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "VCP",
+      "via": "",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
