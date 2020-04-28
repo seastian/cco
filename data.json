@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/04/2020 13:26",
+  "lastUpdate": "28/04/2020 13:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -284,25 +284,6 @@
       "ruta": "SCL",
       "via": "",
       "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1102",
-      "st": "28/04/2020 01:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "CON",
       "sanidad": "NO"
     },
     {
