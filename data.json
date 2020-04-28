@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/04/2020 22:19",
+  "lastUpdate": "27/04/2020 22:25",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -758,6 +758,25 @@
       "puerta": "",
       "ruta": "VCP",
       "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "QR",
+      "vuelo": "8157",
+      "st": "28/04/2020 10:25",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "DOH",
+      "via": "UIO",
       "remark": "HOR",
       "sanidad": "NO"
     }
