@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/04/2020 19:48",
+  "lastUpdate": "28/04/2020 19:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -26,7 +26,7 @@
       "vuelo": "ZEB",
       "st": "28/04/2020 20:45",
       "matricula": "LVZEB",
-      "posicion": "37",
+      "posicion": "45",
       "et": "28/4/2020 20:05",
       "at": "",
       "term": "FBO",
@@ -45,7 +45,7 @@
       "vuelo": "BGR",
       "st": "28/04/2020 21:10",
       "matricula": "LVBGR",
-      "posicion": "45",
+      "posicion": "37",
       "et": "",
       "at": "",
       "term": "FBO",
