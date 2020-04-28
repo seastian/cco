@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/04/2020 12:30",
+  "lastUpdate": "28/04/2020 12:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -346,25 +346,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AOG",
-      "vuelo": "500",
-      "st": "28/04/2020 12:30",
-      "matricula": "CXLSS",
-      "posicion": "52B",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
       "vuelo": "424",
       "st": "28/04/2020 12:30",
       "matricula": "CXCLS",
@@ -378,7 +359,26 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "500",
+      "st": "28/04/2020 12:30",
+      "matricula": "CXLSS",
+      "posicion": "52B",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -389,7 +389,7 @@
       "matricula": "PHCKC",
       "posicion": "54",
       "et": "28/4/2020 12:40",
-      "at": "",
+      "at": "28/4/2020 12:30",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -397,7 +397,7 @@
       "puerta": "",
       "ruta": "AMS",
       "via": "UIO",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
