@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/04/2020 02:04",
+  "lastUpdate": "28/04/2020 02:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -535,6 +535,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "JJ",
+      "vuelo": "H24",
+      "st": "27/04/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "QTR",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "H24",
       "st": "27/04/2020 23:59",
@@ -573,32 +592,13 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "JJ",
-      "vuelo": "H24",
-      "st": "27/04/2020 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "",
-      "ruta": "QTR",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "M3",
       "vuelo": "8490",
       "st": "28/04/2020 01:00",
       "matricula": "PRABD",
       "posicion": "55",
       "et": "",
-      "at": "",
+      "at": "28/4/2020 02:07",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -606,7 +606,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
