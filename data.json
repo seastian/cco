@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "28/04/2020 06:33",
+  "lastUpdate": "28/04/2020 06:39",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1135",
-      "st": "28/04/2020 06:10",
-      "matricula": "CCBGG",
-      "posicion": "15",
-      "et": "28/4/2020 06:35",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "MEX",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": "274"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "QR",
@@ -112,25 +93,6 @@
       "ruta": "ASU",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1101",
-      "st": "27/04/2020 18:35",
-      "matricula": "CCCZZ",
-      "posicion": "56",
-      "et": "",
-      "at": "27/4/2020 18:34",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -266,6 +228,25 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "1135",
+      "st": "28/04/2020 06:10",
+      "matricula": "CCBGG",
+      "posicion": "15",
+      "et": "28/4/2020 06:35",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "009",
+      "ruta": "MEX",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": "274"
     },
     {
       "tipo": "partida",
