@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/04/2020 05:30",
+  "lastUpdate": "28/04/2020 05:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -45,13 +45,13 @@
       "vuelo": "1135",
       "st": "28/04/2020 06:10",
       "matricula": "CCBGG",
-      "posicion": "",
+      "posicion": "15",
       "et": "28/4/2020 06:25",
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "9",
+      "lF": "009",
       "ruta": "MEX",
       "via": "",
       "remark": "EST",
