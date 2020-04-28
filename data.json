@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/04/2020 08:51",
+  "lastUpdate": "28/04/2020 08:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -241,7 +241,7 @@
       "term": "A",
       "sector": "",
       "cinta": "9",
-      "lF": "009",
+      "lF": "008",
       "ruta": "MEX",
       "via": "",
       "remark": "ATE",
