@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/04/2020 23:52",
+  "lastUpdate": "27/04/2020 23:59",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -60,25 +60,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1135",
-      "st": "28/04/2020 06:10",
-      "matricula": "CCBGG",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MEX",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": "274"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "M3",
       "vuelo": "8491",
       "st": "28/04/2020 06:20",
@@ -95,6 +76,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "1135",
+      "st": "28/04/2020 06:10",
+      "matricula": "CCBGG",
+      "posicion": "",
+      "et": "28/4/2020 07:16",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MEX",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": "274"
     },
     {
       "tipo": "arribo",
