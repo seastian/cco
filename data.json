@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/04/2020 16:34",
+  "lastUpdate": "28/04/2020 16:40",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -702,6 +702,25 @@
       "ruta": "LAX",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LH",
+      "vuelo": "8267",
+      "st": "29/04/2020 04:40",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "FRA",
+      "via": "DSS",
+      "remark": "",
       "sanidad": "NO"
     }
   ]
