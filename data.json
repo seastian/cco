@@ -1,6 +1,25 @@
 {
-  "lastUpdate": "28/04/2020 13:01",
+  "lastUpdate": "28/04/2020 13:08",
   "vuelos": [
+    {
+      "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "VDJ",
+      "st": "28/04/2020 21:00",
+      "matricula": "LVVDJ",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "COR",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO",
+      "pax": "13"
+    },
     {
       "tipo": "arribo",
       "aerolinea": "2D",
@@ -417,6 +436,25 @@
       "ruta": "DOH",
       "via": "UIO",
       "remark": "CER",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "PRV",
+      "vuelo": "VDJ",
+      "st": "28/04/2020 22:00",
+      "matricula": "LVVDJ",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "FBO",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "FDO",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     },
     {
