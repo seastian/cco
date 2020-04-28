@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/04/2020 22:56",
+  "lastUpdate": "27/04/2020 23:02",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -815,6 +815,25 @@
       "puerta": "",
       "ruta": "DOH",
       "via": "UIO",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "8J",
+      "vuelo": "753",
+      "st": "28/04/2020 11:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "VVI",
+      "via": "",
       "remark": "HOR",
       "sanidad": "NO"
     }
