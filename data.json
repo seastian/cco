@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/04/2020 14:41",
+  "lastUpdate": "28/04/2020 14:48",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -64,7 +64,7 @@
       "vuelo": "889",
       "st": "28/04/2020 21:20",
       "matricula": "N700KW",
-      "posicion": "",
+      "posicion": "15",
       "et": "",
       "at": "",
       "term": "A",
