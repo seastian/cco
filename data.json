@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/04/2020 21:10",
+  "lastUpdate": "27/04/2020 21:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -149,6 +149,25 @@
       "lF": "",
       "ruta": "DOH",
       "via": "GRU",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "8J",
+      "vuelo": "752",
+      "st": "28/04/2020 09:15",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "CBB",
+      "via": "",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
