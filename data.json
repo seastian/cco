@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/04/2020 02:48",
+  "lastUpdate": "28/04/2020 02:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -152,25 +152,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1383",
-      "st": "27/04/2020 15:00",
-      "matricula": "LVGVB",
-      "posicion": "14A",
-      "et": "27/4/2020 14:49",
-      "at": "27/4/2020 14:53",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "159"
     },
     {
       "tipo": "arribo",
