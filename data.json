@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/04/2020 18:46",
+  "lastUpdate": "28/04/2020 18:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -266,25 +266,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1135",
-      "st": "28/04/2020 06:10",
-      "matricula": "CCBGG",
-      "posicion": "15",
-      "et": "28/4/2020 06:35",
-      "at": "28/4/2020 06:46",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "004",
-      "ruta": "MEX",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "274"
     },
     {
       "tipo": "arribo",
