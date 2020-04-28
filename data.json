@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/04/2020 14:29",
+  "lastUpdate": "28/04/2020 14:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -585,7 +585,7 @@
       "chkFrom": "",
       "chkTo": "",
       "puerta": "",
-      "ruta": "MIA",
+      "ruta": "SCL",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
