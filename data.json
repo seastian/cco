@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/04/2020 02:35",
+  "lastUpdate": "28/04/2020 02:42",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -150,25 +150,6 @@
       "ruta": "ASU",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "4M",
-      "vuelo": "9982",
-      "st": "27/04/2020 15:00",
-      "matricula": "LVBSJ",
-      "posicion": "08",
-      "et": "27/4/2020 14:45",
-      "at": "27/4/2020 14:37",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "AEP",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
