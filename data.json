@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/04/2020 20:32",
+  "lastUpdate": "28/04/2020 20:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -615,14 +615,14 @@
       "vuelo": "1136",
       "st": "29/04/2020 00:00",
       "matricula": "CCBGB",
-      "posicion": "",
+      "posicion": "10",
       "et": "",
       "at": "",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
       "chkTo": "",
-      "puerta": "",
+      "puerta": "10",
       "ruta": "SCL",
       "via": "",
       "remark": "HOR",
