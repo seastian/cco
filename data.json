@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/04/2020 20:26",
+  "lastUpdate": "28/04/2020 20:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,7 +7,7 @@
       "vuelo": "1107",
       "st": "28/04/2020 22:00",
       "matricula": "CCBGB",
-      "posicion": "",
+      "posicion": "10",
       "et": "28/4/2020 21:00",
       "at": "",
       "term": "TCA",
