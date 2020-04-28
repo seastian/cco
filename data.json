@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/04/2020 18:39",
+  "lastUpdate": "28/04/2020 18:46",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -244,6 +244,25 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "QR",
+      "vuelo": "8308",
+      "st": "29/04/2020 06:40",
+      "matricula": "A7BFQ",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "DOH",
+      "via": "BSL",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
