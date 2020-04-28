@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/04/2020 11:40",
+  "lastUpdate": "28/04/2020 11:46",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -61,9 +61,9 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "8490",
-      "st": "27/04/2020 23:45",
-      "matricula": "",
+      "vuelo": "8492",
+      "st": "28/04/2020 23:45",
+      "matricula": "PRABD",
       "posicion": "",
       "et": "",
       "at": "",
@@ -73,7 +73,7 @@
       "lF": "",
       "ruta": "VCP",
       "via": "",
-      "remark": "CON",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
