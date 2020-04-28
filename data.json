@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/04/2020 16:28",
+  "lastUpdate": "28/04/2020 16:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -65,17 +65,17 @@
       "st": "28/04/2020 21:20",
       "matricula": "N700KW",
       "posicion": "15",
-      "et": "",
+      "et": "28/4/2020 21:40",
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "9",
+      "lF": "009",
       "ruta": "MIA",
       "via": "",
-      "remark": "",
+      "remark": "DEM",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "239"
     },
     {
       "tipo": "arribo",
