@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/04/2020 18:52",
+  "lastUpdate": "28/04/2020 18:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -721,6 +721,25 @@
       "ruta": "FRA",
       "via": "DSS",
       "remark": "",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "5X",
+      "vuelo": "415",
+      "st": "29/04/2020 06:55",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
+      "via": "VCP",
+      "remark": "HOR",
       "sanidad": "NO"
     }
   ]
