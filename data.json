@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/04/2020 12:55",
+  "lastUpdate": "28/04/2020 13:01",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -378,7 +378,7 @@
       "puerta": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -416,7 +416,7 @@
       "puerta": "",
       "ruta": "DOH",
       "via": "UIO",
-      "remark": "DEM",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
