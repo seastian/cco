@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/04/2020 04:09",
+  "lastUpdate": "28/04/2020 04:15",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -46,7 +46,7 @@
       "st": "28/04/2020 06:10",
       "matricula": "CCBGG",
       "posicion": "",
-      "et": "28/4/2020 07:16",
+      "et": "28/4/2020 06:25",
       "at": "",
       "term": "A",
       "sector": "",
@@ -54,7 +54,7 @@
       "lF": "",
       "ruta": "MEX",
       "via": "",
-      "remark": "DEM",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": "274"
     },
