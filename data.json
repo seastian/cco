@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/04/2020 16:47",
+  "lastUpdate": "28/04/2020 16:53",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -539,14 +539,14 @@
       "vuelo": "1078",
       "st": "28/04/2020 22:30",
       "matricula": "LVFVI",
-      "posicion": "M18",
+      "posicion": "14",
       "et": "",
       "at": "",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
       "chkTo": "",
-      "puerta": "",
+      "puerta": "19",
       "ruta": "PVG",
       "via": "AKL",
       "remark": "",
