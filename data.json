@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/04/2020 13:14",
+  "lastUpdate": "28/04/2020 13:20",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -408,7 +408,7 @@
       "matricula": "CXLSS",
       "posicion": "52B",
       "et": "",
-      "at": "",
+      "at": "28/4/2020 13:16",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -416,7 +416,7 @@
       "puerta": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -435,7 +435,7 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
