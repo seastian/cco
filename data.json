@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/04/2020 06:20",
+  "lastUpdate": "28/04/2020 06:27",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -129,25 +129,6 @@
       "cinta": "",
       "lF": "",
       "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "QT",
-      "vuelo": "4099",
-      "st": "27/04/2020 18:30",
-      "matricula": "N335QT",
-      "posicion": "54",
-      "et": "",
-      "at": "27/4/2020 18:26",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "BOG",
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
@@ -301,7 +282,7 @@
       "lF": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "",
+      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
