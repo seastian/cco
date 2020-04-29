@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/04/2020 08:13",
+  "lastUpdate": "29/04/2020 08:20",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -171,25 +171,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "VDJ",
-      "st": "28/04/2020 21:00",
-      "matricula": "LVVDJ",
-      "posicion": "44",
-      "et": "",
-      "at": "28/4/2020 20:16",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "COR",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "13"
     },
     {
       "tipo": "arribo",
