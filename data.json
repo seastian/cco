@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/04/2020 20:57",
+  "lastUpdate": "28/04/2020 21:03",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -10,8 +10,8 @@
       "posicion": "37",
       "et": "",
       "at": "",
-      "term": "FBO",
-      "sector": "",
+      "term": "C",
+      "sector": "CAC",
       "cinta": "",
       "lF": "",
       "ruta": "SLA",
@@ -314,8 +314,8 @@
       "posicion": "44",
       "et": "",
       "at": "28/4/2020 20:16",
-      "term": "FBO",
-      "sector": "",
+      "term": "C",
+      "sector": "CAC",
       "cinta": "",
       "lF": "",
       "ruta": "COR",
