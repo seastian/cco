@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/04/2020 07:49",
+  "lastUpdate": "29/04/2020 07:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -712,7 +712,7 @@
       "matricula": "N324UP",
       "posicion": "55",
       "et": "",
-      "at": "",
+      "at": "29/4/2020 07:51",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -720,7 +720,7 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "VCP",
-      "remark": "CON",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
