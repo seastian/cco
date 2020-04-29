@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "29/04/2020 03:32",
+  "lastUpdate": "29/04/2020 03:38",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "LH",
-      "vuelo": "8266",
-      "st": "29/04/2020 02:40",
-      "matricula": "DALCC",
-      "posicion": "54",
-      "et": "29/4/2020 03:45",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "FRA",
-      "via": "VCP",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "BA",
@@ -359,6 +340,25 @@
       "ruta": "MIA",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LH",
+      "vuelo": "8266",
+      "st": "29/04/2020 02:40",
+      "matricula": "DALCC",
+      "posicion": "54",
+      "et": "29/4/2020 03:45",
+      "at": "29/4/2020 03:35",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "FRA",
+      "via": "VCP",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
