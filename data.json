@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/04/2020 08:57",
+  "lastUpdate": "29/04/2020 09:04",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -516,25 +516,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "JJ",
-      "vuelo": "H24",
-      "st": "28/04/2020 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "",
-      "ruta": "QTR",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "H24",
       "st": "28/04/2020 23:59",
@@ -546,6 +527,25 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
+      "puerta": "",
+      "ruta": "QTR",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "JJ",
+      "vuelo": "H24",
+      "st": "28/04/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
       "puerta": "",
       "ruta": "QTR",
       "via": "",
@@ -731,7 +731,7 @@
       "matricula": "A7BFQ",
       "posicion": "54",
       "et": "",
-      "at": "",
+      "at": "29/4/2020 09:01",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -739,7 +739,7 @@
       "puerta": "",
       "ruta": "DOH",
       "via": "GRU",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
