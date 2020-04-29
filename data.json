@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/04/2020 07:17",
+  "lastUpdate": "29/04/2020 07:24",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -852,6 +852,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "VCP",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "PRV",
+      "vuelo": "ZEB",
+      "st": "29/04/2020 19:20",
+      "matricula": "LVZEB",
+      "posicion": "44",
+      "et": "",
+      "at": "",
+      "term": "FBO",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "FDO",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
