@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/04/2020 07:24",
+  "lastUpdate": "29/04/2020 07:30",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -863,6 +863,25 @@
       "st": "29/04/2020 19:20",
       "matricula": "LVZEB",
       "posicion": "44",
+      "et": "",
+      "at": "",
+      "term": "FBO",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "FDO",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "PRV",
+      "vuelo": "VDJ",
+      "st": "29/04/2020 19:30",
+      "matricula": "LVVDJ",
+      "posicion": "",
       "et": "",
       "at": "",
       "term": "FBO",
