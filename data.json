@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/04/2020 23:15",
+  "lastUpdate": "28/04/2020 23:21",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -446,7 +446,7 @@
       "matricula": "LVBGR",
       "posicion": "37",
       "et": "28/4/2020 22:55",
-      "at": "",
+      "at": "28/4/2020 23:17",
       "term": "FBO",
       "sector": "",
       "chkFrom": "",
@@ -454,7 +454,7 @@
       "puerta": "",
       "ruta": "FDO",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
