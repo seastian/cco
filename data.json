@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/04/2020 10:44",
+  "lastUpdate": "29/04/2020 10:50",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -193,6 +193,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "1145",
+      "st": "29/04/2020 22:00",
+      "matricula": "CCBGP",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1303",
       "st": "29/04/2020 22:00",
@@ -212,10 +231,10 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1145",
-      "st": "29/04/2020 22:00",
-      "matricula": "CCBGP",
+      "aerolinea": "LH",
+      "vuelo": "8264",
+      "st": "29/04/2020 22:45",
+      "matricula": "",
       "posicion": "",
       "et": "",
       "at": "",
@@ -223,8 +242,8 @@
       "sector": "",
       "cinta": "",
       "lF": "",
-      "ruta": "SCL",
-      "via": "",
+      "ruta": "FRA",
+      "via": "MVD",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
