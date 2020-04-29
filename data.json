@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/04/2020 03:07",
+  "lastUpdate": "29/04/2020 03:13",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -37,7 +37,7 @@
       "via": "",
       "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -758,6 +758,25 @@
       "puerta": "",
       "ruta": "UIO",
       "via": "UIO",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "8491",
+      "st": "29/04/2020 15:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "VCP",
+      "via": "",
       "remark": "HOR",
       "sanidad": "NO"
     }
