@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/04/2020 16:47",
+  "lastUpdate": "29/04/2020 16:53",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,7 +7,7 @@
       "vuelo": "680",
       "st": "29/04/2020 17:05",
       "matricula": "EIISD",
-      "posicion": "",
+      "posicion": "09",
       "et": "29/4/2020 17:38",
       "at": "",
       "term": "A",
