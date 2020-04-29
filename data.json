@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "29/04/2020 06:27",
+  "lastUpdate": "29/04/2020 06:33",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "QR",
-      "vuelo": "8308",
-      "st": "29/04/2020 06:40",
-      "matricula": "A7BFQ",
-      "posicion": "54",
-      "et": "29/4/2020 06:30",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "DOH",
-      "via": "BSL",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AOG",
@@ -420,6 +401,25 @@
       "pax": ""
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "QR",
+      "vuelo": "8308",
+      "st": "29/04/2020 06:40",
+      "matricula": "A7BFQ",
+      "posicion": "54",
+      "et": "29/4/2020 06:30",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "DOH",
+      "via": "BSL",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
       "tipo": "partida",
       "aerolinea": "PRV",
       "vuelo": "VDJ",
@@ -536,7 +536,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
+      "vuelo": "H24",
       "st": "28/04/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -544,7 +544,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -555,7 +555,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24",
+      "vuelo": "H24N",
       "st": "28/04/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -563,7 +563,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "209",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -674,7 +674,7 @@
       "matricula": "DALCC",
       "posicion": "54",
       "et": "29/4/2020 05:55",
-      "at": "",
+      "at": "29/4/2020 06:32",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -682,7 +682,7 @@
       "puerta": "",
       "ruta": "FRA",
       "via": "DSS",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
