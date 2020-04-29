@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "29/04/2020 17:31",
+  "lastUpdate": "29/04/2020 17:37",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AZ",
-      "vuelo": "680",
-      "st": "29/04/2020 17:05",
-      "matricula": "EIISD",
-      "posicion": "09",
-      "et": "29/4/2020 17:38",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "FCO",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": "130"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "PRV",
@@ -361,6 +342,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AZ",
+      "vuelo": "680",
+      "st": "29/04/2020 17:05",
+      "matricula": "EIISD",
+      "posicion": "09",
+      "et": "29/4/2020 17:38",
+      "at": "29/4/2020 17:32",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "009",
+      "ruta": "FCO",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "130"
     },
     {
       "tipo": "partida",
