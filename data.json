@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/04/2020 18:46",
+  "lastUpdate": "29/04/2020 18:53",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -194,25 +194,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "QR",
-      "vuelo": "8308",
-      "st": "29/04/2020 06:40",
-      "matricula": "A7BFQ",
-      "posicion": "54",
-      "et": "",
-      "at": "29/4/2020 06:47",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "DOH",
-      "via": "BSL",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "QR",
       "vuelo": "8155",
       "st": "29/04/2020 11:35",
       "matricula": "A7BFB",
@@ -232,25 +213,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "AOG",
-      "vuelo": "501",
-      "st": "29/04/2020 11:30",
-      "matricula": "CXLSS",
-      "posicion": "50A",
-      "et": "",
-      "at": "29/4/2020 11:37",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AOG",
       "vuelo": "423",
       "st": "29/04/2020 11:30",
       "matricula": "CXCLS",
@@ -262,6 +224,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "MVD",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AOG",
+      "vuelo": "501",
+      "st": "29/04/2020 11:30",
+      "matricula": "CXLSS",
+      "posicion": "50A",
+      "et": "",
+      "at": "29/4/2020 11:37",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "ASU",
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
@@ -568,7 +549,7 @@
       "puerta": "",
       "ruta": "FDO",
       "via": "",
-      "remark": "EST",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
