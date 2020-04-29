@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/04/2020 06:46",
+  "lastUpdate": "29/04/2020 06:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -408,14 +408,14 @@
       "matricula": "A7BFQ",
       "posicion": "54",
       "et": "",
-      "at": "",
+      "at": "29/4/2020 06:47",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "DOH",
       "via": "BSL",
-      "remark": "CON",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
