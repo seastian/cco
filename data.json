@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/04/2020 22:31",
+  "lastUpdate": "28/04/2020 22:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -440,12 +440,31 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1078",
+      "st": "28/04/2020 22:30",
+      "matricula": "LVFVI",
+      "posicion": "14",
+      "et": "",
+      "at": "28/4/2020 22:33",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "19",
+      "ruta": "PVG",
+      "via": "AKL",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "PRV",
       "vuelo": "BGR",
       "st": "28/04/2020 22:10",
       "matricula": "LVAMS",
       "posicion": "37",
-      "et": "",
+      "et": "28/4/2020 22:55",
       "at": "",
       "term": "FBO",
       "sector": "",
@@ -454,26 +473,7 @@
       "puerta": "",
       "ruta": "FDO",
       "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1078",
-      "st": "28/04/2020 22:30",
-      "matricula": "LVFVI",
-      "posicion": "14",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "19",
-      "ruta": "PVG",
-      "via": "AKL",
-      "remark": "CER",
+      "remark": "DEM",
       "sanidad": "NO"
     },
     {
