@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/04/2020 06:08",
+  "lastUpdate": "29/04/2020 06:15",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -114,6 +114,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "ZEB",
+      "st": "29/04/2020 18:10",
+      "matricula": "LVZEB",
+      "posicion": "44",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "NQN",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": "0"
     },
     {
       "tipo": "arribo",
