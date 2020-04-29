@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/04/2020 23:53",
+  "lastUpdate": "28/04/2020 23:59",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -194,25 +194,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "AOG",
-      "vuelo": "501",
-      "st": "28/04/2020 11:30",
-      "matricula": "CXLSS",
-      "posicion": "52B",
-      "et": "",
-      "at": "28/4/2020 11:55",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AOG",
       "vuelo": "423",
       "st": "28/04/2020 11:30",
       "matricula": "CXCLS",
@@ -250,25 +231,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "VDJ",
-      "st": "28/04/2020 21:00",
-      "matricula": "LVVDJ",
-      "posicion": "44",
-      "et": "",
-      "at": "28/4/2020 20:16",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "COR",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "13"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "LA",
       "vuelo": "1107",
       "st": "28/04/2020 22:00",
@@ -285,6 +247,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "VDJ",
+      "st": "28/04/2020 21:00",
+      "matricula": "LVVDJ",
+      "posicion": "44",
+      "et": "",
+      "at": "28/4/2020 20:16",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "COR",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "13"
     },
     {
       "tipo": "arribo",
