@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/04/2020 18:53",
+  "lastUpdate": "29/04/2020 18:59",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -592,6 +592,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "JJ",
+      "vuelo": "H24",
+      "st": "29/04/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "QTR",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "H24N",
       "st": "29/04/2020 23:59",
@@ -622,25 +641,6 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
-      "ruta": "QTR",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "JJ",
-      "vuelo": "H24",
-      "st": "29/04/2020 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
       "puerta": "",
       "ruta": "QTR",
       "via": "",
@@ -740,6 +740,25 @@
       "ruta": "LHR",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "5X",
+      "vuelo": "411",
+      "st": "30/04/2020 06:55",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
+      "via": "VCP",
+      "remark": "CAN",
       "sanidad": "NO"
     }
   ]
