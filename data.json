@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/04/2020 18:15",
+  "lastUpdate": "29/04/2020 18:21",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -331,15 +331,15 @@
       "st": "29/04/2020 18:10",
       "matricula": "LVZEB",
       "posicion": "44",
-      "et": "",
-      "at": "",
+      "et": "29/4/2020 18:15",
+      "at": "29/4/2020 18:18",
       "term": "C",
       "sector": "CAC",
       "cinta": "",
       "lF": "",
       "ruta": "NQN",
       "via": "",
-      "remark": "CON",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
     },
