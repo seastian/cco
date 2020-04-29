@@ -1,14 +1,14 @@
 {
-  "lastUpdate": "29/04/2020 16:35",
+  "lastUpdate": "29/04/2020 16:41",
   "vuelos": [
     {
       "tipo": "arribo",
       "aerolinea": "AZ",
       "vuelo": "680",
       "st": "29/04/2020 17:05",
-      "matricula": "",
+      "matricula": "EIISD",
       "posicion": "",
-      "et": "",
+      "et": "29/4/2020 17:38",
       "at": "",
       "term": "A",
       "sector": "",
@@ -16,9 +16,9 @@
       "lF": "",
       "ruta": "FCO",
       "via": "",
-      "remark": "",
+      "remark": "DEM",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "130"
     },
     {
       "tipo": "arribo",
