@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/04/2020 18:27",
+  "lastUpdate": "29/04/2020 18:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -361,25 +361,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "18"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LH",
-      "vuelo": "8267",
-      "st": "29/04/2020 04:40",
-      "matricula": "DALCC",
-      "posicion": "54",
-      "et": "29/4/2020 05:55",
-      "at": "29/4/2020 06:32",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "FRA",
-      "via": "DSS",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
