@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/04/2020 23:09",
+  "lastUpdate": "28/04/2020 23:15",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -253,7 +253,7 @@
       "aerolinea": "PRV",
       "vuelo": "BGR",
       "st": "28/04/2020 21:10",
-      "matricula": "LVAMS",
+      "matricula": "LVBGR",
       "posicion": "37",
       "et": "",
       "at": "28/4/2020 22:07",
@@ -443,7 +443,7 @@
       "aerolinea": "PRV",
       "vuelo": "BGR",
       "st": "28/04/2020 22:10",
-      "matricula": "LVAMS",
+      "matricula": "LVBGR",
       "posicion": "37",
       "et": "28/4/2020 22:55",
       "at": "",
@@ -454,7 +454,7 @@
       "puerta": "",
       "ruta": "FDO",
       "via": "",
-      "remark": "DEM",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
