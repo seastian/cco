@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/04/2020 04:16",
+  "lastUpdate": "29/04/2020 04:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -45,7 +45,7 @@
       "vuelo": "8308",
       "st": "29/04/2020 06:40",
       "matricula": "A7BFQ",
-      "posicion": "55",
+      "posicion": "54",
       "et": "29/4/2020 06:30",
       "at": "",
       "term": "TCA",
@@ -634,7 +634,7 @@
       "vuelo": "415",
       "st": "29/04/2020 06:55",
       "matricula": "N324UP",
-      "posicion": "56",
+      "posicion": "55",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -672,7 +672,7 @@
       "vuelo": "8308",
       "st": "29/04/2020 08:40",
       "matricula": "A7BFQ",
-      "posicion": "55",
+      "posicion": "54",
       "et": "",
       "at": "",
       "term": "TCA",
