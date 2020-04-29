@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/04/2020 20:08",
+  "lastUpdate": "29/04/2020 20:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -64,13 +64,13 @@
       "vuelo": "1303",
       "st": "29/04/2020 22:00",
       "matricula": "LVGKP",
-      "posicion": "",
+      "posicion": "14",
       "et": "29/4/2020 22:58",
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "9",
+      "lF": "010",
       "ruta": "MIA",
       "via": "",
       "remark": "DEM",
