@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/04/2020 02:17",
+  "lastUpdate": "29/04/2020 02:23",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -579,7 +579,7 @@
       "matricula": "LVGKP",
       "posicion": "12",
       "et": "",
-      "at": "",
+      "at": "29/4/2020 02:18",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -587,7 +587,7 @@
       "puerta": "16",
       "ruta": "MIA",
       "via": "",
-      "remark": "HOR",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
