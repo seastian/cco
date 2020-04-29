@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/04/2020 10:06",
+  "lastUpdate": "29/04/2020 10:13",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -228,25 +228,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "BGR",
-      "st": "28/04/2020 21:10",
-      "matricula": "LVBGR",
-      "posicion": "37",
-      "et": "",
-      "at": "28/4/2020 22:07",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SLA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "7"
     },
     {
       "tipo": "arribo",
