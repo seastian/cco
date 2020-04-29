@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/04/2020 15:51",
+  "lastUpdate": "29/04/2020 15:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -209,25 +209,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "BA",
-      "vuelo": "245F",
-      "st": "29/04/2020 04:20",
-      "matricula": "GZBKS",
-      "posicion": "05",
-      "et": "29/4/2020 03:59",
-      "at": "29/4/2020 03:57",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "5",
-      "lF": "",
-      "ruta": "LHR",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
