@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "28/04/2020 21:10",
+  "lastUpdate": "28/04/2020 21:16",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "BGR",
-      "st": "28/04/2020 21:10",
-      "matricula": "LVBGR",
-      "posicion": "37",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SLA",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO",
-      "pax": "7"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "2D",
@@ -344,6 +325,25 @@
       "pax": "0"
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "BGR",
+      "st": "28/04/2020 21:10",
+      "matricula": "LVBGR",
+      "posicion": "37",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SLA",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO",
+      "pax": "7"
+    },
+    {
       "tipo": "partida",
       "aerolinea": "M3",
       "vuelo": "8491",
@@ -446,7 +446,7 @@
       "matricula": "LVVDJ",
       "posicion": "44",
       "et": "28/4/2020 21:00",
-      "at": "",
+      "at": "28/4/2020 21:13",
       "term": "FBO",
       "sector": "",
       "chkFrom": "",
@@ -454,7 +454,7 @@
       "puerta": "",
       "ruta": "FDO",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -536,7 +536,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
+      "vuelo": "H24",
       "st": "28/04/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -544,7 +544,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -574,7 +574,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24",
+      "vuelo": "H24N",
       "st": "28/04/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -582,7 +582,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "209",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
