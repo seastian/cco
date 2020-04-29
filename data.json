@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/04/2020 17:44",
+  "lastUpdate": "29/04/2020 17:50",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -45,13 +45,13 @@
       "vuelo": "9978",
       "st": "29/04/2020 19:16",
       "matricula": "N183AM",
-      "posicion": "",
+      "posicion": "10",
       "et": "29/4/2020 18:51",
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "8",
+      "lF": "009",
       "ruta": "MEX",
       "via": "",
       "remark": "EST",
@@ -214,7 +214,7 @@
       "tipo": "arribo",
       "aerolinea": "AA",
       "vuelo": "9434",
-      "st": "29/04/2020 05:47",
+      "st": "30/04/2020 05:47",
       "matricula": "",
       "posicion": "",
       "et": "",
@@ -225,7 +225,7 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "CON",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
