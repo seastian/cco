@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/04/2020 21:41",
+  "lastUpdate": "28/04/2020 21:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -427,7 +427,7 @@
       "matricula": "LVZEB",
       "posicion": "45",
       "et": "28/4/2020 21:15",
-      "at": "28/4/2020 21:35",
+      "at": "28/4/2020 21:30",
       "term": "FBO",
       "sector": "",
       "chkFrom": "",
