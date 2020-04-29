@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/04/2020 16:16",
+  "lastUpdate": "29/04/2020 16:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -719,6 +719,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "SCL",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "BA",
+      "vuelo": "244F",
+      "st": "30/04/2020 04:20",
+      "matricula": "GZBKS",
+      "posicion": "05",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "04",
+      "ruta": "LHR",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
