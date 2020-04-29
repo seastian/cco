@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/04/2020 18:59",
+  "lastUpdate": "29/04/2020 19:05",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -383,25 +383,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AA",
-      "vuelo": "9435",
-      "st": "29/04/2020 07:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "QR",
       "vuelo": "8308",
       "st": "29/04/2020 08:40",
@@ -541,7 +522,7 @@
       "matricula": "LVVDJ",
       "posicion": "45",
       "et": "29/4/2020 19:00",
-      "at": "",
+      "at": "29/4/2020 18:58",
       "term": "FBO",
       "sector": "",
       "chkFrom": "",
@@ -549,7 +530,7 @@
       "puerta": "",
       "ruta": "FDO",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -612,7 +593,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
+      "vuelo": "H24",
       "st": "29/04/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -620,7 +601,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -631,7 +612,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24",
+      "vuelo": "H24N",
       "st": "29/04/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -639,7 +620,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "209",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -759,6 +740,25 @@
       "ruta": "MIA",
       "via": "VCP",
       "remark": "CAN",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AA",
+      "vuelo": "9435",
+      "st": "30/04/2020 07:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     }
   ]
