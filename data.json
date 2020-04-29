@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/04/2020 01:33",
+  "lastUpdate": "29/04/2020 01:39",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -720,6 +720,25 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "QR",
+      "vuelo": "8155",
+      "st": "29/04/2020 13:35",
+      "matricula": "A7BFB",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "UIO",
+      "via": "UIO",
       "remark": "HOR",
       "sanidad": "NO"
     }
