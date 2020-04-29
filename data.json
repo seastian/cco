@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/04/2020 04:22",
+  "lastUpdate": "29/04/2020 04:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,7 +7,7 @@
       "vuelo": "414",
       "st": "29/04/2020 05:12",
       "matricula": "N324UP",
-      "posicion": "56",
+      "posicion": "55",
       "et": "29/4/2020 05:06",
       "at": "",
       "term": "TCA",
