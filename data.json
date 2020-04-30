@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/04/2020 18:16",
+  "lastUpdate": "30/04/2020 18:23",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -45,7 +45,7 @@
       "vuelo": "502",
       "st": "30/04/2020 19:00",
       "matricula": "CXCLS",
-      "posicion": "57",
+      "posicion": "50A",
       "et": "30/4/2020 19:10",
       "at": "",
       "term": "TCA",
@@ -64,7 +64,7 @@
       "vuelo": "421",
       "st": "30/04/2020 21:00",
       "matricula": "CXLSS",
-      "posicion": "59",
+      "posicion": "50A",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -653,7 +653,7 @@
       "vuelo": "426",
       "st": "30/04/2020 20:00",
       "matricula": "CXCLS",
-      "posicion": "57",
+      "posicion": "50A",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -672,7 +672,7 @@
       "vuelo": "526",
       "st": "30/04/2020 22:00",
       "matricula": "CXLSS",
-      "posicion": "59",
+      "posicion": "50A",
       "et": "",
       "at": "",
       "term": "TCA",
