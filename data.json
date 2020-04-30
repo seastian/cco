@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/04/2020 12:00",
+  "lastUpdate": "30/04/2020 12:06",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -245,25 +245,6 @@
       "ruta": "VCP",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AMS",
-      "vuelo": "8919",
-      "st": "30/04/2020 00:00",
-      "matricula": "CXMAX",
-      "posicion": "52B",
-      "et": "",
-      "at": "30/4/2020 00:00",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
