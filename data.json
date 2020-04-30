@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/04/2020 01:02",
+  "lastUpdate": "30/04/2020 01:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -397,25 +397,6 @@
       "puerta": "20",
       "ruta": "MIA",
       "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "QR",
-      "vuelo": "8155",
-      "st": "29/04/2020 13:35",
-      "matricula": "A7BFB",
-      "posicion": "55",
-      "et": "",
-      "at": "29/4/2020 13:08",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "UIO",
-      "via": "UIO",
       "remark": "PAR",
       "sanidad": "NO"
     },
