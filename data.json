@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/04/2020 11:10",
+  "lastUpdate": "30/04/2020 11:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -493,25 +493,6 @@
       "ruta": "QTR",
       "via": "",
       "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LA",
-      "vuelo": "1135",
-      "st": "30/04/2020 00:00",
-      "matricula": "CCBGP",
-      "posicion": "54",
-      "et": "",
-      "at": "29/4/2020 23:15",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "PAR",
       "sanidad": "NO"
     },
     {
