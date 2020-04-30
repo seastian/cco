@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/04/2020 00:56",
+  "lastUpdate": "30/04/2020 01:02",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -814,6 +814,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MVD",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AZ",
+      "vuelo": "681",
+      "st": "30/04/2020 13:00",
+      "matricula": "EIISD",
+      "posicion": "09",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "201",
+      "chkTo": "212",
+      "puerta": "09",
+      "ruta": "FCO",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
