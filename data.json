@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/04/2020 04:10",
+  "lastUpdate": "30/04/2020 04:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -150,25 +150,6 @@
       "ruta": "VCP",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "GTI",
-      "vuelo": "033",
-      "st": "29/04/2020 20:45",
-      "matricula": "N859GT",
-      "posicion": "55",
-      "et": "29/4/2020 16:30",
-      "at": "29/4/2020 16:13",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
