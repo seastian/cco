@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/04/2020 10:07",
+  "lastUpdate": "30/04/2020 10:13",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -729,7 +729,7 @@
       "vuelo": "N11GW",
       "st": "30/04/2020 11:00",
       "matricula": "N11GW",
-      "posicion": "",
+      "posicion": "56B",
       "et": "",
       "at": "",
       "term": "TCA",
