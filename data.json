@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/04/2020 20:15",
+  "lastUpdate": "30/04/2020 20:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -193,25 +193,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AA",
-      "vuelo": "9434",
-      "st": "30/04/2020 05:47",
-      "matricula": "N719AN",
-      "posicion": "51",
-      "et": "30/4/2020 08:20",
-      "at": "30/4/2020 08:17",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "PRV",
       "vuelo": "N11GW",
       "st": "30/04/2020 10:00",
@@ -345,25 +326,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "502",
-      "st": "30/04/2020 19:00",
-      "matricula": "CXCLS",
-      "posicion": "50A",
-      "et": "30/4/2020 19:10",
-      "at": "30/4/2020 19:10",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "PRV",
       "vuelo": "VDJ",
       "st": "30/04/2020 18:10",
@@ -380,6 +342,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "12"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AOG",
+      "vuelo": "502",
+      "st": "30/04/2020 19:00",
+      "matricula": "CXCLS",
+      "posicion": "50A",
+      "et": "30/4/2020 19:10",
+      "at": "30/4/2020 19:10",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "partida",
