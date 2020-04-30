@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/04/2020 10:13",
+  "lastUpdate": "30/04/2020 10:20",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -949,6 +949,25 @@
       "ruta": "MVD",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AM",
+      "vuelo": "9979",
+      "st": "30/04/2020 22:16",
+      "matricula": "N183AM",
+      "posicion": "64",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "034",
+      "chkTo": "040",
+      "puerta": "",
+      "ruta": "MEX",
+      "via": "",
+      "remark": "",
       "sanidad": "NO"
     }
   ]
