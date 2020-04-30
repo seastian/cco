@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/04/2020 09:48",
+  "lastUpdate": "30/04/2020 09:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -187,6 +187,25 @@
       "lF": "",
       "ruta": "MVD",
       "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "P5",
+      "vuelo": "7643",
+      "st": "30/04/2020 21:52",
+      "matricula": "HP1532",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "BOG",
+      "via": "CLO",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
