@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/04/2020 13:16",
+  "lastUpdate": "30/04/2020 13:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -380,25 +380,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "M3",
-      "vuelo": "8492",
-      "st": "30/04/2020 02:00",
-      "matricula": "PRABB",
-      "posicion": "55",
-      "et": "30/4/2020 01:07",
-      "at": "30/4/2020 01:19",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
