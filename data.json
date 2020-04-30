@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/04/2020 20:34",
+  "lastUpdate": "30/04/2020 20:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -691,14 +691,14 @@
       "vuelo": "1132",
       "st": "30/04/2020 23:55",
       "matricula": "LVFVH",
-      "posicion": "M11",
+      "posicion": "14",
       "et": "",
       "at": "",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "19",
       "ruta": "MAD",
       "via": "",
       "remark": "HOR",
