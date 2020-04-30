@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/04/2020 20:58",
+  "lastUpdate": "29/04/2020 21:04",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -361,25 +361,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "QR",
-      "vuelo": "8308",
-      "st": "29/04/2020 08:40",
-      "matricula": "A7BFQ",
-      "posicion": "54",
-      "et": "",
-      "at": "29/4/2020 09:01",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "DOH",
-      "via": "GRU",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
