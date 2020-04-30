@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/04/2020 06:03",
+  "lastUpdate": "30/04/2020 06:09",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -114,25 +114,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "VDJ",
-      "st": "29/04/2020 18:20",
-      "matricula": "LVVDJ",
-      "posicion": "45",
-      "et": "",
-      "at": "29/4/2020 18:08",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "NQN",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "18"
     },
     {
       "tipo": "arribo",
