@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/04/2020 06:22",
+  "lastUpdate": "30/04/2020 06:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -380,25 +380,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "GTI",
-      "vuelo": "33",
-      "st": "29/04/2020 18:30",
-      "matricula": "N859GT",
-      "posicion": "55",
-      "et": "",
-      "at": "29/4/2020 18:24",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
