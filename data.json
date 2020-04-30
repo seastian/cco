@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/04/2020 08:27",
+  "lastUpdate": "30/04/2020 08:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -150,44 +150,6 @@
       "ruta": "ASU",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1103",
-      "st": "29/04/2020 20:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1145",
-      "st": "29/04/2020 22:00",
-      "matricula": "CCBGP",
-      "posicion": "54",
-      "et": "",
-      "at": "29/4/2020 20:32",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
