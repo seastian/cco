@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/04/2020 12:13",
+  "lastUpdate": "30/04/2020 12:19",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -380,25 +380,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LH",
-      "vuelo": "8265",
-      "st": "30/04/2020 00:15",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "FRA",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
