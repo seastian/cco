@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/04/2020 17:07",
+  "lastUpdate": "30/04/2020 17:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -187,6 +187,25 @@
       "lF": "",
       "ruta": "VCP",
       "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "5X",
+      "vuelo": "412",
+      "st": "01/05/2020 05:12",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "SCL",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
