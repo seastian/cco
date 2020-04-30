@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/04/2020 13:09",
+  "lastUpdate": "30/04/2020 13:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -574,25 +574,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AOG",
-      "vuelo": "424",
-      "st": "30/04/2020 12:30",
-      "matricula": "CXLSS",
-      "posicion": "54A",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
       "vuelo": "500",
       "st": "30/04/2020 12:30",
       "matricula": "CXCLS",
@@ -605,6 +586,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "ASU",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "424",
+      "st": "30/04/2020 12:30",
+      "matricula": "CXLSS",
+      "posicion": "54A",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
       "via": "",
       "remark": "CON",
       "sanidad": "NO"
@@ -625,7 +625,7 @@
       "puerta": "08",
       "ruta": "FCO",
       "via": "",
-      "remark": "DEM",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
