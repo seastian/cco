@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/04/2020 04:29",
+  "lastUpdate": "30/04/2020 04:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -459,25 +459,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "JJ",
-      "vuelo": "H24",
-      "st": "29/04/2020 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "",
-      "ruta": "QTR",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "H24",
       "st": "29/04/2020 23:59",
@@ -508,6 +489,25 @@
       "sector": "CPI",
       "chkFrom": "209",
       "chkTo": "240",
+      "puerta": "",
+      "ruta": "QTR",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "JJ",
+      "vuelo": "H24",
+      "st": "29/04/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
       "puerta": "",
       "ruta": "QTR",
       "via": "",
@@ -636,7 +636,7 @@
       "matricula": "GZBKS",
       "posicion": "05",
       "et": "",
-      "at": "",
+      "at": "30/4/2020 04:30",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -644,7 +644,7 @@
       "puerta": "04",
       "ruta": "LHR",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
