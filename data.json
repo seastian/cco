@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/04/2020 18:35",
+  "lastUpdate": "30/04/2020 18:42",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -19,25 +19,6 @@
       "remark": "DEM",
       "sanidad": "NO",
       "pax": "2"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "VDJ",
-      "st": "30/04/2020 18:10",
-      "matricula": "LVVDJ",
-      "posicion": "45",
-      "et": "30/4/2020 19:10",
-      "at": "",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "REL",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": "12"
     },
     {
       "tipo": "arribo",
@@ -98,25 +79,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1137",
-      "st": "30/04/2020 22:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "CAN",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "UC",
       "vuelo": "1405",
       "st": "30/04/2020 22:00",
@@ -131,6 +93,25 @@
       "ruta": "MIA",
       "via": "",
       "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "1137",
+      "st": "30/04/2020 22:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
     },
@@ -380,6 +361,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "VDJ",
+      "st": "30/04/2020 18:10",
+      "matricula": "LVVDJ",
+      "posicion": "45",
+      "et": "30/4/2020 19:10",
+      "at": "30/4/2020 18:25",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "REL",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "12"
     },
     {
       "tipo": "partida",
