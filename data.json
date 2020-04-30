@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/04/2020 13:41",
+  "lastUpdate": "30/04/2020 13:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -384,25 +384,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AMS",
-      "vuelo": "7119",
-      "st": "30/04/2020 01:45",
-      "matricula": "CXMAS",
-      "posicion": "51A",
-      "et": "",
-      "at": "30/4/2020 01:47",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AMS",
       "vuelo": "7919",
       "st": "30/04/2020 02:30",
       "matricula": "CXMAX",
@@ -587,7 +568,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -606,7 +587,7 @@
       "puerta": "08",
       "ruta": "FCO",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
