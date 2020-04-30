@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/04/2020 22:32",
+  "lastUpdate": "29/04/2020 22:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -596,7 +596,7 @@
       "vuelo": "1135",
       "st": "30/04/2020 00:00",
       "matricula": "CCBGP",
-      "posicion": "",
+      "posicion": "54",
       "et": "",
       "at": "",
       "term": "TCA",
