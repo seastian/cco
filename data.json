@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/04/2020 07:43",
+  "lastUpdate": "30/04/2020 07:49",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -402,6 +402,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "H24",
+      "st": "29/04/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "QTR",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "JJ",
       "vuelo": "H24",
       "st": "29/04/2020 23:59",
@@ -431,25 +450,6 @@
       "term": "C",
       "sector": "CPI",
       "chkFrom": "209",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "QTR",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "H24",
-      "st": "29/04/2020 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -655,7 +655,7 @@
       "matricula": "DALCD",
       "posicion": "54",
       "et": "",
-      "at": "",
+      "at": "30/4/2020 07:44",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -663,7 +663,7 @@
       "puerta": "",
       "ruta": "FRA",
       "via": "VCP",
-      "remark": "HOR",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
