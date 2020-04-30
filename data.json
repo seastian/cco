@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/04/2020 10:32",
+  "lastUpdate": "30/04/2020 10:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -968,6 +968,25 @@
       "ruta": "MEX",
       "via": "",
       "remark": "",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "P5",
+      "vuelo": "7653",
+      "st": "30/04/2020 22:37",
+      "matricula": "HP1532",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "BOG",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     }
   ]
