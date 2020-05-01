@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/05/2020 17:15",
+  "lastUpdate": "01/05/2020 17:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -131,25 +131,6 @@
       "ruta": "LIM",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AV",
-      "vuelo": "273",
-      "st": "01/05/2020 05:20",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
@@ -389,7 +370,7 @@
       "matricula": "N904AR",
       "posicion": "54",
       "et": "1/5/2020 16:20",
-      "at": "",
+      "at": "1/5/2020 16:45",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -397,7 +378,7 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "MVD",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
