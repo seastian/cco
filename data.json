@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/05/2020 12:52",
+  "lastUpdate": "01/05/2020 12:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -294,14 +294,14 @@
       "matricula": "N974AV",
       "posicion": "03",
       "et": "1/5/2020 12:46",
-      "at": "",
+      "at": "1/5/2020 12:54",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "BOG",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
