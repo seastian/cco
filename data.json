@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/05/2020 04:44",
+  "lastUpdate": "01/05/2020 04:50",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -150,25 +150,6 @@
       "ruta": "SCL",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1137",
-      "st": "30/04/2020 16:50",
-      "matricula": "CCBGB",
-      "posicion": "55",
-      "et": "30/4/2020 16:40",
-      "at": "30/4/2020 16:45",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
