@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "01/05/2020 14:20",
+  "lastUpdate": "01/05/2020 14:26",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "GG",
-      "vuelo": "4551",
-      "st": "01/05/2020 09:00",
-      "matricula": "N904AR",
-      "posicion": "54",
-      "et": "1/5/2020 14:20",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "MVD",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "UC",
@@ -321,6 +302,25 @@
       "ruta": "SCL",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "GG",
+      "vuelo": "4551",
+      "st": "01/05/2020 09:00",
+      "matricula": "N904AR",
+      "posicion": "54",
+      "et": "1/5/2020 14:20",
+      "at": "1/5/2020 14:24",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "MVD",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
