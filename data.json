@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/05/2020 06:30",
+  "lastUpdate": "01/05/2020 06:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,7 +7,7 @@
       "vuelo": "4551",
       "st": "01/05/2020 09:00",
       "matricula": "N904AR",
-      "posicion": "",
+      "posicion": "54",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -26,7 +26,7 @@
       "vuelo": "4144",
       "st": "01/05/2020 08:40",
       "matricula": "FGZNL",
-      "posicion": "",
+      "posicion": "14",
       "et": "1/5/2020 09:04",
       "at": "",
       "term": "A",
@@ -748,7 +748,7 @@
       "vuelo": "4550",
       "st": "01/05/2020 11:00",
       "matricula": "N904AR",
-      "posicion": "",
+      "posicion": "54",
       "et": "1/5/2020 14:30",
       "at": "",
       "term": "TCA",
