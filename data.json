@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/05/2020 12:33",
+  "lastUpdate": "01/05/2020 12:40",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -304,25 +304,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "P5",
-      "vuelo": "7653",
-      "st": "30/04/2020 22:37",
-      "matricula": "HP1532",
-      "posicion": "09",
-      "et": "30/4/2020 23:45",
-      "at": "1/5/2020 00:35",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "09",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
