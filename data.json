@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "01/05/2020 12:02",
+  "lastUpdate": "01/05/2020 12:08",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AF",
-      "vuelo": "4144",
-      "st": "01/05/2020 08:40",
-      "matricula": "FGZNL",
-      "posicion": "14",
-      "et": "1/5/2020 12:05",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "CDG",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": "397"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AR",
@@ -306,6 +287,25 @@
       "pax": ""
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "AF",
+      "vuelo": "4144",
+      "st": "01/05/2020 08:40",
+      "matricula": "FGZNL",
+      "posicion": "14",
+      "et": "1/5/2020 12:05",
+      "at": "1/5/2020 12:05",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "CDG",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "397"
+    },
+    {
       "tipo": "partida",
       "aerolinea": "P5",
       "vuelo": "7653",
@@ -320,25 +320,6 @@
       "chkTo": "",
       "puerta": "09",
       "ruta": "BOG",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1132",
-      "st": "30/04/2020 23:55",
-      "matricula": "LVFVH",
-      "posicion": "14",
-      "et": "",
-      "at": "1/5/2020 00:03",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "19",
-      "ruta": "MAD",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
