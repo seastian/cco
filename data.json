@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/05/2020 11:18",
+  "lastUpdate": "01/05/2020 11:25",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -27,7 +27,7 @@
       "st": "01/05/2020 10:15",
       "matricula": "LVFVI",
       "posicion": "50",
-      "et": "1/5/2020 12:51",
+      "et": "1/5/2020 12:10",
       "at": "",
       "term": "TCA",
       "sector": "",
