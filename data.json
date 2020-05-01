@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/05/2020 02:01",
+  "lastUpdate": "01/05/2020 02:07",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -361,25 +361,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "157"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AZ",
-      "vuelo": "681",
-      "st": "30/04/2020 13:00",
-      "matricula": "EIISD",
-      "posicion": "09",
-      "et": "30/4/2020 14:00",
-      "at": "30/4/2020 14:06",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "201",
-      "chkTo": "212",
-      "puerta": "08",
-      "ruta": "FCO",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
