@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/05/2020 09:19",
+  "lastUpdate": "01/05/2020 09:26",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -350,7 +350,7 @@
       "st": "01/05/2020 08:40",
       "matricula": "FGZNL",
       "posicion": "14",
-      "et": "1/5/2020 09:04",
+      "et": "",
       "at": "",
       "term": "A",
       "sector": "",
@@ -358,7 +358,7 @@
       "lF": "",
       "ruta": "CDG",
       "via": "",
-      "remark": "DEM",
+      "remark": "CON",
       "sanidad": "NO",
       "pax": "397"
     },
