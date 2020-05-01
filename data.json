@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/05/2020 19:14",
+  "lastUpdate": "01/05/2020 19:20",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -323,25 +323,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "225"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AV",
-      "vuelo": "272",
-      "st": "01/05/2020 07:20",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
