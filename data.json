@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/04/2020 22:15",
+  "lastUpdate": "30/04/2020 22:21",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -171,6 +171,25 @@
       "remark": "DEM",
       "sanidad": "NO",
       "pax": "397"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1079",
+      "st": "01/05/2020 10:15",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "PVG",
+      "via": "AKL",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -536,12 +555,12 @@
     {
       "tipo": "partida",
       "aerolinea": "PRV",
-      "vuelo": "VDJ",
+      "vuelo": "ZEB",
       "st": "30/04/2020 19:20",
-      "matricula": "LVVDJ",
-      "posicion": "45",
+      "matricula": "LVZEB",
+      "posicion": "44",
       "et": "",
-      "at": "30/4/2020 19:46",
+      "at": "30/4/2020 20:15",
       "term": "FBO",
       "sector": "",
       "chkFrom": "",
@@ -555,12 +574,12 @@
     {
       "tipo": "partida",
       "aerolinea": "PRV",
-      "vuelo": "ZEB",
+      "vuelo": "VDJ",
       "st": "30/04/2020 19:20",
-      "matricula": "LVZEB",
-      "posicion": "44",
+      "matricula": "LVVDJ",
+      "posicion": "45",
       "et": "",
-      "at": "30/4/2020 20:15",
+      "at": "30/4/2020 19:46",
       "term": "FBO",
       "sector": "",
       "chkFrom": "",
