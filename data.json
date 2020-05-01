@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "01/05/2020 12:40",
+  "lastUpdate": "01/05/2020 12:46",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AV",
-      "vuelo": "291",
-      "st": "01/05/2020 13:36",
-      "matricula": "N974AV",
-      "posicion": "03",
-      "et": "1/5/2020 12:46",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "M3",
@@ -304,6 +285,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AV",
+      "vuelo": "291",
+      "st": "01/05/2020 13:36",
+      "matricula": "N974AV",
+      "posicion": "03",
+      "et": "1/5/2020 12:46",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "BOG",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "partida",
