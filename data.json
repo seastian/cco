@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/05/2020 03:54",
+  "lastUpdate": "01/05/2020 04:00",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -8,7 +8,7 @@
       "st": "01/05/2020 05:12",
       "matricula": "N347UP",
       "posicion": "55",
-      "et": "",
+      "et": "1/5/2020 05:09",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -16,7 +16,7 @@
       "lF": "",
       "ruta": "MIA",
       "via": "SCL",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
