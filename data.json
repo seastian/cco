@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "01/05/2020 09:01",
+  "lastUpdate": "01/05/2020 09:07",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AF",
-      "vuelo": "4144",
-      "st": "01/05/2020 08:40",
-      "matricula": "FGZNL",
-      "posicion": "14",
-      "et": "1/5/2020 09:04",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "CDG",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": "397"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AR",
@@ -361,6 +342,25 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AF",
+      "vuelo": "4144",
+      "st": "01/05/2020 08:40",
+      "matricula": "FGZNL",
+      "posicion": "14",
+      "et": "1/5/2020 09:04",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "CDG",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": "397"
     },
     {
       "tipo": "partida",
