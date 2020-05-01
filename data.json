@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/05/2020 20:29",
+  "lastUpdate": "01/05/2020 20:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -624,6 +624,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MIA",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LA",
+      "vuelo": "1130",
+      "st": "02/05/2020 08:30",
+      "matricula": "CCBGF",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
