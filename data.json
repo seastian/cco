@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "01/05/2020 12:21",
+  "lastUpdate": "01/05/2020 12:27",
   "vuelos": [
     {
       "tipo": "arribo",
       "aerolinea": "AV",
-      "vuelo": "290",
+      "vuelo": "291",
       "st": "01/05/2020 13:36",
       "matricula": "N974AV",
       "posicion": "03",
@@ -278,8 +278,8 @@
       "at": "1/5/2020 12:05",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "9",
+      "lF": "010",
       "ruta": "CDG",
       "via": "",
       "remark": "ATE",
@@ -441,7 +441,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AV",
-      "vuelo": "291",
+      "vuelo": "290",
       "st": "01/05/2020 16:36",
       "matricula": "N974AV",
       "posicion": "03",
