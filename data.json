@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/05/2020 10:41",
+  "lastUpdate": "01/05/2020 10:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -209,25 +209,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "P5",
-      "vuelo": "7643",
-      "st": "30/04/2020 21:52",
-      "matricula": "HP1532",
-      "posicion": "09",
-      "et": "30/4/2020 22:43",
-      "at": "30/4/2020 22:46",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "BOG",
-      "via": "CLO",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "176"
     },
     {
       "tipo": "arribo",
