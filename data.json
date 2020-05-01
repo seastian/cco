@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/05/2020 00:58",
+  "lastUpdate": "01/05/2020 01:04",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -120,9 +120,9 @@
       "aerolinea": "AR",
       "vuelo": "1079",
       "st": "01/05/2020 10:15",
-      "matricula": "",
+      "matricula": "LVFVI",
       "posicion": "",
-      "et": "",
+      "et": "1/5/2020 12:51",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -130,9 +130,9 @@
       "lF": "",
       "ruta": "PVG",
       "via": "AKL",
-      "remark": "",
+      "remark": "DEM",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
