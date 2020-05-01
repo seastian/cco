@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/04/2020 21:18",
+  "lastUpdate": "30/04/2020 21:24",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -653,14 +653,14 @@
       "vuelo": "7952",
       "st": "30/04/2020 23:00",
       "matricula": "CCCWV",
-      "posicion": "62",
+      "posicion": "06",
       "et": "",
       "at": "",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
       "chkTo": "",
-      "puerta": "",
+      "puerta": "05",
       "ruta": "MIA",
       "via": "",
       "remark": "HOR",
