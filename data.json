@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/04/2020 23:36",
+  "lastUpdate": "30/04/2020 23:42",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -380,25 +380,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "157"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "PRV",
-      "vuelo": "N11GW",
-      "st": "30/04/2020 11:00",
-      "matricula": "N11GW",
-      "posicion": "56B",
-      "et": "",
-      "at": "30/4/2020 11:38",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "BCT",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
