@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/05/2020 16:13",
+  "lastUpdate": "01/05/2020 16:19",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -342,25 +342,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "M3",
-      "vuelo": "8494",
-      "st": "01/05/2020 02:10",
-      "matricula": "PRABD",
-      "posicion": "54",
-      "et": "1/5/2020 03:40",
-      "at": "1/5/2020 04:13",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
