@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/05/2020 13:30",
+  "lastUpdate": "01/05/2020 13:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -304,25 +304,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "CM",
-      "vuelo": "1715",
-      "st": "30/04/2020 23:45",
-      "matricula": "HP1853",
-      "posicion": "10",
-      "et": "1/5/2020 00:00",
-      "at": "1/5/2020 01:36",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "10",
-      "ruta": "PTY",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
