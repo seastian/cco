@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/05/2020 10:09",
+  "lastUpdate": "01/05/2020 10:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -193,20 +193,20 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "421",
-      "st": "30/04/2020 21:00",
-      "matricula": "CXLSS",
-      "posicion": "50A",
+      "aerolinea": "TK",
+      "vuelo": "6169",
+      "st": "01/05/2020 22:10",
+      "matricula": "",
+      "posicion": "",
       "et": "",
-      "at": "30/4/2020 22:13",
+      "at": "",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "ATE",
+      "ruta": "IST",
+      "via": "GRU",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
