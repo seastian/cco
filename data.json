@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/05/2020 13:05",
+  "lastUpdate": "01/05/2020 13:11",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -569,6 +569,25 @@
       "ruta": "QTR",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "TK",
+      "vuelo": "6170",
+      "st": "02/05/2020 01:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "IST",
+      "via": "GRU",
+      "remark": "",
       "sanidad": "NO"
     }
   ]
