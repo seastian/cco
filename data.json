@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/05/2020 09:26",
+  "lastUpdate": "01/05/2020 09:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -636,7 +636,7 @@
       "matricula": "N719AN",
       "posicion": "51",
       "et": "1/5/2020 09:20",
-      "at": "",
+      "at": "1/5/2020 09:30",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -644,7 +644,7 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
