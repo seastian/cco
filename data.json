@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/05/2020 11:31",
+  "lastUpdate": "01/05/2020 11:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -117,25 +117,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "4M",
-      "vuelo": "7921",
-      "st": "01/05/2020 17:00",
-      "matricula": "CCCWV",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "M3",
       "vuelo": "8450",
       "st": "01/05/2020 17:00",
@@ -169,6 +150,25 @@
       "ruta": "AMS",
       "via": "",
       "remark": "CAN",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "4M",
+      "vuelo": "7921",
+      "st": "01/05/2020 17:00",
+      "matricula": "CCCWV",
+      "posicion": "",
+      "et": "1/5/2020 19:14",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
     },
