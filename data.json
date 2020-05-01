@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/05/2020 15:48",
+  "lastUpdate": "01/05/2020 15:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -167,6 +167,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "MAD",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LP",
+      "vuelo": "2490",
+      "st": "02/05/2020 03:50",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "LIM",
       "via": "",
       "remark": "",
       "sanidad": "NO",
