@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/05/2020 00:52",
+  "lastUpdate": "02/05/2020 00:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -93,25 +93,6 @@
       "ruta": "MIA",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AV",
-      "vuelo": "291",
-      "st": "01/05/2020 13:36",
-      "matricula": "N974AV",
-      "posicion": "03",
-      "et": "1/5/2020 12:46",
-      "at": "1/5/2020 12:54",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -497,6 +478,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "TK",
+      "vuelo": "6170",
+      "st": "02/05/2020 01:10",
+      "matricula": "TCJJT",
+      "posicion": "50",
+      "et": "",
+      "at": "2/5/2020 00:53",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "10",
+      "ruta": "IST",
+      "via": "GRU",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "M3",
       "vuelo": "8496",
       "st": "02/05/2020 02:10",
@@ -512,25 +512,6 @@
       "ruta": "SCL",
       "via": "",
       "remark": "EST",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "TK",
-      "vuelo": "6170",
-      "st": "02/05/2020 01:10",
-      "matricula": "TCJJT",
-      "posicion": "50",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "10",
-      "ruta": "IST",
-      "via": "GRU",
-      "remark": "",
       "sanidad": "NO"
     },
     {
