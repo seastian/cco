@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/05/2020 05:09",
+  "lastUpdate": "02/05/2020 05:15",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -93,25 +93,6 @@
       "ruta": "MIA",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "KL",
-      "vuelo": "701",
-      "st": "01/05/2020 17:15",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "AMS",
-      "via": "",
-      "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
     },
