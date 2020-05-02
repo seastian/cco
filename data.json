@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/05/2020 16:38",
+  "lastUpdate": "02/05/2020 16:44",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -218,7 +218,7 @@
       "matricula": "N783AV",
       "posicion": "03",
       "et": "",
-      "at": "",
+      "at": "2/5/2020 16:42",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -226,7 +226,7 @@
       "puerta": "02",
       "ruta": "BOG",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
