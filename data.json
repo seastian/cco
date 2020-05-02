@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/05/2020 23:12",
+  "lastUpdate": "01/05/2020 23:18",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -332,14 +332,14 @@
       "matricula": "TCJJT",
       "posicion": "50",
       "et": "1/5/2020 23:08",
-      "at": "",
+      "at": "1/5/2020 23:15",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "IST",
       "via": "GRU",
-      "remark": "DEM",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
     },
