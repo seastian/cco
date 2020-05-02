@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/05/2020 00:02",
+  "lastUpdate": "02/05/2020 00:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -44,9 +44,9 @@
       "aerolinea": "LP",
       "vuelo": "2490",
       "st": "02/05/2020 03:50",
-      "matricula": "",
+      "matricula": "CCBHC",
       "posicion": "",
-      "et": "",
+      "et": "2/5/2020 02:59",
       "at": "",
       "term": "A",
       "sector": "",
@@ -54,9 +54,9 @@
       "lF": "",
       "ruta": "LIM",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "138"
     },
     {
       "tipo": "arribo",
@@ -95,25 +95,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AF",
-      "vuelo": "4144",
-      "st": "01/05/2020 08:40",
-      "matricula": "FGZNL",
-      "posicion": "14",
-      "et": "1/5/2020 12:05",
-      "at": "1/5/2020 12:05",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "010",
-      "ruta": "CDG",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "397"
     },
     {
       "tipo": "arribo",
@@ -193,25 +174,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1105",
-      "st": "01/05/2020 17:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "M3",
       "vuelo": "8450",
       "st": "01/05/2020 17:00",
@@ -224,6 +186,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "VCP",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "UC",
+      "vuelo": "1105",
+      "st": "01/05/2020 17:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
       "via": "",
       "remark": "CON",
       "sanidad": "NO",
@@ -473,7 +454,7 @@
       "puerta": "17",
       "ruta": "BCN",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
