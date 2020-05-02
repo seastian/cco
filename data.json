@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/05/2020 02:14",
+  "lastUpdate": "02/05/2020 02:20",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -275,14 +275,14 @@
       "matricula": "LVFVH",
       "posicion": "15",
       "et": "2/5/2020 02:11",
-      "at": "",
+      "at": "2/5/2020 02:18",
       "term": "A",
       "sector": "",
       "cinta": "9",
       "lF": "009",
       "ruta": "MAD",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "243"
     },
