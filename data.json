@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/05/2020 21:13",
+  "lastUpdate": "01/05/2020 21:19",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -26,7 +26,7 @@
       "vuelo": "6169",
       "st": "01/05/2020 22:10",
       "matricula": "TCJJT",
-      "posicion": "10",
+      "posicion": "50",
       "et": "1/5/2020 23:08",
       "at": "",
       "term": "TCA",
@@ -317,7 +317,7 @@
       "term": "A",
       "sector": "",
       "cinta": "9",
-      "lF": "009",
+      "lF": "005",
       "ruta": "MIA",
       "via": "",
       "remark": "ATE",
@@ -539,7 +539,7 @@
       "vuelo": "6170",
       "st": "02/05/2020 01:10",
       "matricula": "TCJJT",
-      "posicion": "10",
+      "posicion": "50",
       "et": "",
       "at": "",
       "term": "TCA",
