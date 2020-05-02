@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/05/2020 11:12",
+  "lastUpdate": "02/05/2020 11:19",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -57,25 +57,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "TK",
-      "vuelo": "6169",
-      "st": "01/05/2020 22:10",
-      "matricula": "TCJJT",
-      "posicion": "50",
-      "et": "1/5/2020 23:08",
-      "at": "1/5/2020 23:15",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "IST",
-      "via": "GRU",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
