@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/05/2020 07:02",
+  "lastUpdate": "02/05/2020 07:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -76,25 +76,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "4M",
-      "vuelo": "7921",
-      "st": "01/05/2020 17:00",
-      "matricula": "CCCWV",
-      "posicion": "09",
-      "et": "1/5/2020 19:10",
-      "at": "1/5/2020 19:08",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "005",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "225"
     },
     {
       "tipo": "arribo",
