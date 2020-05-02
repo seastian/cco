@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "01/05/2020 23:18",
+  "lastUpdate": "01/05/2020 23:25",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AMS",
-      "vuelo": "8119",
-      "st": "01/05/2020 23:35",
-      "matricula": "CXMAS",
-      "posicion": "51A",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "M3",
@@ -342,6 +323,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AMS",
+      "vuelo": "8119",
+      "st": "01/05/2020 23:35",
+      "matricula": "CXMAS",
+      "posicion": "51A",
+      "et": "",
+      "at": "1/5/2020 23:23",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "partida",
