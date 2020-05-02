@@ -1,6 +1,25 @@
 {
-  "lastUpdate": "02/05/2020 06:43",
+  "lastUpdate": "02/05/2020 06:49",
   "vuelos": [
+    {
+      "tipo": "arribo",
+      "aerolinea": "AA",
+      "vuelo": "9434",
+      "st": "02/05/2020 05:47",
+      "matricula": "N734AR",
+      "posicion": "51",
+      "et": "2/5/2020 08:10",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": ""
+    },
     {
       "tipo": "arribo",
       "aerolinea": "AV",
@@ -230,25 +249,6 @@
       "pax": ""
     },
     {
-      "tipo": "arribo",
-      "aerolinea": "AA",
-      "vuelo": "9434",
-      "st": "02/05/2020 05:47",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
       "tipo": "partida",
       "aerolinea": "UC",
       "vuelo": "1408",
@@ -443,7 +443,7 @@
       "aerolinea": "AA",
       "vuelo": "9435",
       "st": "02/05/2020 07:00",
-      "matricula": "",
+      "matricula": "N734AR",
       "posicion": "",
       "et": "",
       "at": "",
