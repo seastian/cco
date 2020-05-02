@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/05/2020 15:23",
+  "lastUpdate": "02/05/2020 15:29",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -57,6 +57,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1161",
+      "st": "03/05/2020 03:45",
+      "matricula": "LVGIF",
+      "posicion": "13",
+      "et": "3/5/2020 03:26",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "BCN",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "263"
     },
     {
       "tipo": "arribo",
