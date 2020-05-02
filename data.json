@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/05/2020 19:45",
+  "lastUpdate": "02/05/2020 19:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -152,25 +152,6 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LA",
-      "vuelo": "1130",
-      "st": "02/05/2020 08:30",
-      "matricula": "CCBGF",
-      "posicion": "10",
-      "et": "",
-      "at": "2/5/2020 07:48",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "10",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
