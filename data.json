@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "02/05/2020 02:07",
+  "lastUpdate": "02/05/2020 02:14",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1133",
-      "st": "02/05/2020 02:50",
-      "matricula": "LVFVH",
-      "posicion": "15",
-      "et": "2/5/2020 02:11",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "243"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "LP",
@@ -285,6 +266,25 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1133",
+      "st": "02/05/2020 02:50",
+      "matricula": "LVFVH",
+      "posicion": "15",
+      "et": "2/5/2020 02:11",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "009",
+      "ruta": "MAD",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "243"
     },
     {
       "tipo": "partida",
