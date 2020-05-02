@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/05/2020 12:09",
+  "lastUpdate": "02/05/2020 12:15",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -152,25 +152,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1160",
-      "st": "01/05/2020 23:55",
-      "matricula": "LVGIF",
-      "posicion": "13",
-      "et": "",
-      "at": "2/5/2020 00:12",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "17",
-      "ruta": "BCN",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
