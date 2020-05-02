@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/05/2020 17:40",
+  "lastUpdate": "02/05/2020 17:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -38,25 +38,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "263"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1130",
-      "st": "02/05/2020 06:30",
-      "matricula": "CCBGF",
-      "posicion": "10",
-      "et": "2/5/2020 05:40",
-      "at": "2/5/2020 05:46",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
