@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/05/2020 11:44",
+  "lastUpdate": "02/05/2020 11:50",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -55,25 +55,6 @@
       "ruta": "MIA",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "M3",
-      "vuelo": "8496",
-      "st": "01/05/2020 23:45",
-      "matricula": "PRABB",
-      "posicion": "54",
-      "et": "1/5/2020 23:40",
-      "at": "1/5/2020 23:44",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
