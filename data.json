@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/05/2020 14:58",
+  "lastUpdate": "02/05/2020 15:04",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -41,22 +41,22 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "LP",
-      "vuelo": "2490",
-      "st": "02/05/2020 03:50",
-      "matricula": "CCBHC",
-      "posicion": "16B",
-      "et": "2/5/2020 02:59",
-      "at": "2/5/2020 02:58",
-      "term": "A",
+      "aerolinea": "AOG",
+      "vuelo": "101",
+      "st": "02/05/2020 18:00",
+      "matricula": "CXCAR",
+      "posicion": "55A",
+      "et": "",
+      "at": "",
+      "term": "TCA",
       "sector": "",
-      "cinta": "8",
-      "lF": "007",
-      "ruta": "LIM",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MVD",
       "via": "",
-      "remark": "ATE",
+      "remark": "",
       "sanidad": "NO",
-      "pax": "138"
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -263,6 +263,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MIA",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "101",
+      "st": "02/05/2020 19:30",
+      "matricula": "CXCAR",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "ASU",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
