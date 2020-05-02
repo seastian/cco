@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/05/2020 23:50",
+  "lastUpdate": "01/05/2020 23:56",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -473,7 +473,7 @@
       "puerta": "17",
       "ruta": "BCN",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
