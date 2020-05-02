@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "01/05/2020 23:37",
+  "lastUpdate": "01/05/2020 23:43",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "M3",
-      "vuelo": "8496",
-      "st": "01/05/2020 23:45",
-      "matricula": "PRABB",
-      "posicion": "54",
-      "et": "1/5/2020 23:40",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "UC",
@@ -340,6 +321,25 @@
       "ruta": "MVD",
       "via": "",
       "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "M3",
+      "vuelo": "8496",
+      "st": "01/05/2020 23:45",
+      "matricula": "PRABB",
+      "posicion": "54",
+      "et": "1/5/2020 23:40",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "VCP",
+      "via": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
