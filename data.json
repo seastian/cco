@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/05/2020 20:04",
+  "lastUpdate": "02/05/2020 20:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -55,25 +55,6 @@
       "ruta": "BOG",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AA",
-      "vuelo": "9434",
-      "st": "02/05/2020 05:47",
-      "matricula": "N734AR",
-      "posicion": "51",
-      "et": "2/5/2020 08:05",
-      "at": "2/5/2020 08:05",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
