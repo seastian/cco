@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/05/2020 12:53",
+  "lastUpdate": "02/05/2020 12:59",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -169,25 +169,6 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "TK",
-      "vuelo": "6170",
-      "st": "02/05/2020 01:10",
-      "matricula": "TCJJT",
-      "posicion": "50",
-      "et": "",
-      "at": "2/5/2020 00:53",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "10",
-      "ruta": "IST",
-      "via": "GRU",
       "remark": "PAR",
       "sanidad": "NO"
     },
