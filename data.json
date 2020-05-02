@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/05/2020 04:32",
+  "lastUpdate": "02/05/2020 04:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -588,6 +588,25 @@
       "ruta": "AMS",
       "via": "",
       "remark": "CAN",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AV",
+      "vuelo": "290",
+      "st": "02/05/2020 16:36",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "BOG",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     }
   ]
