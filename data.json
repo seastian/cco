@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/05/2020 03:35",
+  "lastUpdate": "02/05/2020 03:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -283,25 +283,6 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "MVD",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AV",
-      "vuelo": "290",
-      "st": "01/05/2020 16:36",
-      "matricula": "N974AV",
-      "posicion": "03",
-      "et": "",
-      "at": "1/5/2020 15:39",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "02",
-      "ruta": "BOG",
-      "via": "",
       "remark": "PAR",
       "sanidad": "NO"
     },
