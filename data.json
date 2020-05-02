@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/05/2020 23:31",
+  "lastUpdate": "01/05/2020 23:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -454,7 +454,7 @@
       "puerta": "",
       "ruta": "LAX",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -615,7 +615,7 @@
       "vuelo": "413",
       "st": "02/05/2020 06:05",
       "matricula": "N347UP",
-      "posicion": "33",
+      "posicion": "55",
       "et": "2/5/2020 05:30",
       "at": "",
       "term": "TCA",
