@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/05/2020 09:38",
+  "lastUpdate": "03/05/2020 09:44",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -275,7 +275,7 @@
       "matricula": "N734AR",
       "posicion": "51",
       "et": "3/5/2020 09:20",
-      "at": "",
+      "at": "3/5/2020 09:25",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -283,7 +283,7 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -302,7 +302,7 @@
       "puerta": "15",
       "ruta": "LIM",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
