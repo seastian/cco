@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/05/2020 13:04",
+  "lastUpdate": "03/05/2020 13:11",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -481,8 +481,8 @@
       "aerolinea": "AR",
       "vuelo": "1370",
       "st": "03/05/2020 23:50",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "LVGKP",
+      "posicion": "M15",
       "et": "",
       "at": "",
       "term": "C",
