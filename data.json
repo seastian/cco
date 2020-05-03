@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/05/2020 06:05",
+  "lastUpdate": "03/05/2020 06:12",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -152,25 +152,6 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1106",
-      "st": "02/05/2020 18:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
@@ -396,6 +377,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MIA",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1107",
+      "st": "03/05/2020 18:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
