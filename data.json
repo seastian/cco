@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/05/2020 06:37",
+  "lastUpdate": "03/05/2020 06:43",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -161,14 +161,14 @@
       "matricula": "CCCOU",
       "posicion": "09",
       "et": "3/5/2020 06:30",
-      "at": "",
+      "at": "3/5/2020 06:36",
       "term": "A",
       "sector": "",
       "cinta": "8",
       "lF": "007",
       "ruta": "BOG",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "138"
     },
