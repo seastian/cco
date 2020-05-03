@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/05/2020 00:58",
+  "lastUpdate": "03/05/2020 01:05",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -360,6 +360,25 @@
       "ruta": "SCL",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AF",
+      "vuelo": "4147",
+      "st": "03/05/2020 13:00",
+      "matricula": "FGZNL",
+      "posicion": "14",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "211",
+      "chkTo": "218",
+      "puerta": "19",
+      "ruta": "CDG",
+      "via": "",
+      "remark": "",
       "sanidad": "NO"
     }
   ]
