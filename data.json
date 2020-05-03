@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/05/2020 02:58",
+  "lastUpdate": "03/05/2020 03:04",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -171,25 +171,6 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "KL",
-      "vuelo": "702",
-      "st": "02/05/2020 15:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "AMS",
-      "via": "",
-      "remark": "CAN",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
