@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/05/2020 12:52",
+  "lastUpdate": "03/05/2020 12:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -350,7 +350,7 @@
       "st": "03/05/2020 13:00",
       "matricula": "FGZNL",
       "posicion": "14",
-      "et": "",
+      "et": "3/5/2020 13:30",
       "at": "",
       "term": "C",
       "sector": "CPI",
