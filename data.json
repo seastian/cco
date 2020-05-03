@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/05/2020 17:46",
+  "lastUpdate": "03/05/2020 17:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -119,7 +119,7 @@
       "tipo": "arribo",
       "aerolinea": "AA",
       "vuelo": "9434",
-      "st": "03/05/2020 05:47",
+      "st": "04/05/2020 05:47",
       "matricula": "",
       "posicion": "",
       "et": "",
@@ -130,7 +130,7 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "CON",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
