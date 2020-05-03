@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/05/2020 19:58",
+  "lastUpdate": "03/05/2020 20:04",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -26,7 +26,7 @@
       "vuelo": "033",
       "st": "03/05/2020 23:05",
       "matricula": "N859GT",
-      "posicion": "",
+      "posicion": "54",
       "et": "4/5/2020 00:05",
       "at": "",
       "term": "TCA",
@@ -266,25 +266,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "4C",
-      "vuelo": "9974",
-      "st": "03/05/2020 08:00",
-      "matricula": "CCCOU",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "040",
-      "chkTo": "053",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
@@ -596,7 +577,7 @@
       "vuelo": "033",
       "st": "04/05/2020 01:15",
       "matricula": "N859GT",
-      "posicion": "",
+      "posicion": "54",
       "et": "4/5/2020 02:10",
       "at": "",
       "term": "TCA",
