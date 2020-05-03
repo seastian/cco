@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/05/2020 05:21",
+  "lastUpdate": "03/05/2020 05:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -26,18 +26,18 @@
       "vuelo": "4461",
       "st": "03/05/2020 07:00",
       "matricula": "CCCOU",
-      "posicion": "",
-      "et": "",
+      "posicion": "09",
+      "et": "3/5/2020 06:30",
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "8",
+      "lF": "007",
       "ruta": "BOG",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "138"
     },
     {
       "tipo": "arribo",
@@ -292,14 +292,14 @@
       "vuelo": "9974",
       "st": "03/05/2020 08:00",
       "matricula": "CCCOU",
-      "posicion": "",
+      "posicion": "09",
       "et": "",
       "at": "",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
       "chkTo": "053",
-      "puerta": "",
+      "puerta": "09",
       "ruta": "SCL",
       "via": "",
       "remark": "",
