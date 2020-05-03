@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/05/2020 00:27",
+  "lastUpdate": "03/05/2020 00:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -74,25 +74,6 @@
       "ruta": "MIA",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AV",
-      "vuelo": "291",
-      "st": "02/05/2020 13:36",
-      "matricula": "N783AV",
-      "posicion": "03",
-      "et": "2/5/2020 12:30",
-      "at": "2/5/2020 12:33",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
