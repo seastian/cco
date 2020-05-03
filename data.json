@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/05/2020 16:31",
+  "lastUpdate": "03/05/2020 16:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -443,8 +443,8 @@
       "aerolinea": "4M",
       "vuelo": "7920",
       "st": "03/05/2020 23:00",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "CCCWV",
+      "posicion": "62",
       "et": "",
       "at": "",
       "term": "A",
