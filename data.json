@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "03/05/2020 03:23",
+  "lastUpdate": "03/05/2020 03:29",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1161",
-      "st": "03/05/2020 03:45",
-      "matricula": "LVGIF",
-      "posicion": "13",
-      "et": "3/5/2020 03:26",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "010",
-      "ruta": "BCN",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "263"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AA",
@@ -80,7 +61,7 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "8472",
+      "vuelo": "9831",
       "st": "03/05/2020 14:00",
       "matricula": "",
       "posicion": "",
@@ -99,7 +80,7 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "9831",
+      "vuelo": "8472",
       "st": "03/05/2020 14:00",
       "matricula": "",
       "posicion": "",
@@ -171,6 +152,25 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1161",
+      "st": "03/05/2020 03:45",
+      "matricula": "LVGIF",
+      "posicion": "13",
+      "et": "3/5/2020 03:26",
+      "at": "3/5/2020 03:28",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "010",
+      "ruta": "BCN",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "263"
     },
     {
       "tipo": "partida",
