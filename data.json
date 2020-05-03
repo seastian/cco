@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/05/2020 03:54",
+  "lastUpdate": "03/05/2020 04:00",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -112,25 +112,6 @@
       "ruta": "AKL",
       "via": "",
       "remark": "CAN",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "M3",
-      "vuelo": "8498",
-      "st": "02/05/2020 16:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
