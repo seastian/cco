@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "03/05/2020 05:46",
+  "lastUpdate": "03/05/2020 05:53",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AA",
-      "vuelo": "9434",
-      "st": "03/05/2020 05:47",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "4C",
@@ -171,6 +152,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "263"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AA",
+      "vuelo": "9434",
+      "st": "03/05/2020 05:47",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "partida",
