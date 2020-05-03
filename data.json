@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/05/2020 09:26",
+  "lastUpdate": "03/05/2020 09:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -302,7 +302,7 @@
       "puerta": "15",
       "ruta": "LIM",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
