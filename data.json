@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/05/2020 09:07",
+  "lastUpdate": "03/05/2020 09:13",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -256,7 +256,7 @@
       "matricula": "CCCOU",
       "posicion": "09",
       "et": "3/5/2020 08:30",
-      "at": "",
+      "at": "3/5/2020 08:58",
       "term": "A",
       "sector": "AP",
       "chkFrom": "040",
@@ -264,7 +264,7 @@
       "puerta": "09",
       "ruta": "SCL",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -283,7 +283,7 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "DEM",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
