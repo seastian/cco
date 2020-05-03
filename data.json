@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/05/2020 15:53",
+  "lastUpdate": "03/05/2020 16:00",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -65,7 +65,7 @@
       "st": "03/05/2020 23:05",
       "matricula": "N859GT",
       "posicion": "",
-      "et": "",
+      "et": "4/5/2020 00:05",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -73,7 +73,7 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "",
+      "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
     },
@@ -498,7 +498,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24",
+      "vuelo": "H24N",
       "st": "03/05/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -506,7 +506,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "209",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -517,7 +517,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
+      "vuelo": "H24",
       "st": "03/05/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -525,7 +525,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -554,9 +554,9 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "GTI",
-      "vuelo": "033",
-      "st": "04/05/2020 01:15",
+      "aerolinea": "UC",
+      "vuelo": "1101",
+      "st": "04/05/2020 01:30",
       "matricula": "",
       "posicion": "",
       "et": "",
@@ -573,12 +573,12 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1101",
-      "st": "04/05/2020 01:30",
-      "matricula": "",
+      "aerolinea": "GTI",
+      "vuelo": "033",
+      "st": "04/05/2020 01:15",
+      "matricula": "N859GT",
       "posicion": "",
-      "et": "",
+      "et": "4/5/2020 02:10",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -587,7 +587,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "DEM",
       "sanidad": "NO"
     },
     {
