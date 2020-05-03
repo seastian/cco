@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/05/2020 12:08",
+  "lastUpdate": "03/05/2020 12:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -121,6 +121,25 @@
       "vuelo": "033",
       "st": "03/05/2020 23:05",
       "matricula": "N859GT",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "UC",
+      "vuelo": "1101",
+      "st": "04/05/2020 00:10",
+      "matricula": "",
       "posicion": "",
       "et": "",
       "at": "",
