@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "03/05/2020 16:56",
+  "lastUpdate": "03/05/2020 17:02",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1107",
-      "st": "03/05/2020 17:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AOG",
@@ -245,6 +226,25 @@
       "ruta": "AKL",
       "via": "",
       "remark": "CAN",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "UC",
+      "vuelo": "1107",
+      "st": "03/05/2020 17:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
