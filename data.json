@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/05/2020 21:57",
+  "lastUpdate": "02/05/2020 22:03",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -250,25 +250,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "H24N",
-      "st": "02/05/2020 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "209",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "QTR",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "JJ",
       "vuelo": "H24",
       "st": "02/05/2020 23:59",
@@ -280,6 +261,25 @@
       "sector": "AP",
       "chkFrom": "041",
       "chkTo": "053",
+      "puerta": "",
+      "ruta": "QTR",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "H24N",
+      "st": "02/05/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "209",
+      "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
       "via": "",
@@ -341,6 +341,25 @@
       "ruta": "MIA",
       "via": "",
       "remark": "DEM",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LP",
+      "vuelo": "9958",
+      "st": "03/05/2020 10:00",
+      "matricula": "CCBHC",
+      "posicion": "11B",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "15",
+      "ruta": "LIM",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     }
   ]
