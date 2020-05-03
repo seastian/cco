@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/05/2020 09:32",
+  "lastUpdate": "03/05/2020 09:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -302,7 +302,7 @@
       "puerta": "15",
       "ruta": "LIM",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -335,7 +335,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "211",
+      "chkFrom": "203",
       "chkTo": "218",
       "puerta": "19",
       "ruta": "CDG",
