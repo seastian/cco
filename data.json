@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/05/2020 18:55",
+  "lastUpdate": "03/05/2020 19:01",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -624,6 +624,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "ASU",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AA",
+      "vuelo": "9435",
+      "st": "04/05/2020 07:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
