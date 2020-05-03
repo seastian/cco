@@ -1,13 +1,13 @@
 {
-  "lastUpdate": "03/05/2020 17:40",
+  "lastUpdate": "03/05/2020 17:46",
   "vuelos": [
     {
       "tipo": "arribo",
       "aerolinea": "AOG",
       "vuelo": "101",
       "st": "03/05/2020 18:30",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "CXCAR",
+      "posicion": "54A",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -424,8 +424,8 @@
       "aerolinea": "AOG",
       "vuelo": "101",
       "st": "03/05/2020 20:30",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "CXCAR",
+      "posicion": "54A",
       "et": "",
       "at": "",
       "term": "TCA",
