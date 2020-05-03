@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/05/2020 07:52",
+  "lastUpdate": "03/05/2020 07:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -250,25 +250,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "LA",
-      "vuelo": "9974",
-      "st": "03/05/2020 08:00",
-      "matricula": "CCCOU",
-      "posicion": "09",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "040",
-      "chkTo": "053",
-      "puerta": "09",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "4C",
       "vuelo": "9974",
       "st": "03/05/2020 08:00",
@@ -284,6 +265,25 @@
       "ruta": "SCL",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LA",
+      "vuelo": "9974",
+      "st": "03/05/2020 08:00",
+      "matricula": "CCCOU",
+      "posicion": "09",
+      "et": "3/5/2020 08:30",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "040",
+      "chkTo": "053",
+      "puerta": "09",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
