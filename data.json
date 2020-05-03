@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/05/2020 12:27",
+  "lastUpdate": "03/05/2020 12:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -148,6 +148,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "MIA",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AOG",
+      "vuelo": "102",
+      "st": "04/05/2020 00:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "ASU",
       "via": "",
       "remark": "",
       "sanidad": "NO",
