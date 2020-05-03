@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/05/2020 07:08",
+  "lastUpdate": "03/05/2020 07:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -299,7 +299,7 @@
       "sector": "AP",
       "chkFrom": "040",
       "chkTo": "053",
-      "puerta": "09",
+      "puerta": "08",
       "ruta": "SCL",
       "via": "",
       "remark": "HOR",
