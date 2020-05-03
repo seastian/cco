@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/05/2020 21:26",
+  "lastUpdate": "02/05/2020 21:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -53,6 +53,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "BOG",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "1121",
+      "st": "03/05/2020 09:30",
+      "matricula": "CCBGA",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
       "via": "",
       "remark": "",
       "sanidad": "NO",
