@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/05/2020 07:39",
+  "lastUpdate": "03/05/2020 07:45",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -13,7 +13,7 @@
       "term": "TCA",
       "sector": "",
       "cinta": "",
-      "lF": "",
+      "lF": "008",
       "ruta": "MIA",
       "via": "",
       "remark": "",
