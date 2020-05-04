@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/05/2020 23:12",
+  "lastUpdate": "03/05/2020 23:18",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -63,9 +63,9 @@
       "aerolinea": "5X",
       "vuelo": "416",
       "st": "04/05/2020 02:19",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
+      "matricula": "N334UP",
+      "posicion": "55",
+      "et": "4/5/2020 01:12",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -73,7 +73,7 @@
       "lF": "",
       "ruta": "MIA",
       "via": "SCL",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -346,25 +346,6 @@
     {
       "tipo": "partida",
       "aerolinea": "M3",
-      "vuelo": "8472",
-      "st": "03/05/2020 15:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "M3",
       "vuelo": "9832",
       "st": "03/05/2020 15:10",
       "matricula": "",
@@ -377,6 +358,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MAO",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "8472",
+      "st": "03/05/2020 15:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
       "via": "",
       "remark": "CON",
       "sanidad": "NO"
@@ -427,7 +427,7 @@
       "matricula": "CCCWV",
       "posicion": "10",
       "et": "",
-      "at": "",
+      "at": "3/5/2020 23:14",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -435,7 +435,7 @@
       "puerta": "10",
       "ruta": "MIA",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
