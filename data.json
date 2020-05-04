@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/05/2020 06:24",
+  "lastUpdate": "04/05/2020 06:30",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -302,6 +302,25 @@
       "ruta": "MIA",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AOG",
+      "vuelo": "103",
+      "st": "04/05/2020 06:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
