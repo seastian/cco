@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/05/2020 10:15",
+  "lastUpdate": "04/05/2020 10:21",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -74,25 +74,6 @@
       "ruta": "MIA",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "EK",
-      "vuelo": "2651",
-      "st": "04/05/2020 17:35",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "DXB",
-      "via": "",
-      "remark": "NOP",
       "sanidad": "NO",
       "pax": ""
     },
