@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/05/2020 20:54",
+  "lastUpdate": "03/05/2020 21:00",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -247,25 +247,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LA",
-      "vuelo": "9974",
-      "st": "03/05/2020 08:00",
-      "matricula": "CCCOU",
-      "posicion": "09",
-      "et": "3/5/2020 08:30",
-      "at": "3/5/2020 08:58",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "040",
-      "chkTo": "053",
-      "puerta": "09",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
