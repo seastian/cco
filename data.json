@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/05/2020 12:08",
+  "lastUpdate": "04/05/2020 12:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -194,8 +194,8 @@
     {
       "tipo": "arribo",
       "aerolinea": "UC",
-      "vuelo": "1101",
-      "st": "04/05/2020 00:10",
+      "vuelo": "1102",
+      "st": "05/05/2020 00:10",
       "matricula": "",
       "posicion": "",
       "et": "",
@@ -206,7 +206,7 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "CON",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
@@ -478,25 +478,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "8J",
-      "vuelo": "753",
-      "st": "04/05/2020 11:00",
-      "matricula": "CP2889",
-      "posicion": "50A",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "070",
-      "chkTo": "073",
-      "puerta": "12",
-      "ruta": "VVI",
-      "via": "",
-      "remark": "CER",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "NZ",
       "vuelo": "6031",
       "st": "04/05/2020 11:00",
@@ -512,6 +493,25 @@
       "ruta": "AKL",
       "via": "",
       "remark": "CAN",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "8J",
+      "vuelo": "753",
+      "st": "04/05/2020 11:00",
+      "matricula": "CP2889",
+      "posicion": "50A",
+      "et": "",
+      "at": "4/5/2020 12:13",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "070",
+      "chkTo": "073",
+      "puerta": "12",
+      "ruta": "VVI",
+      "via": "",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
