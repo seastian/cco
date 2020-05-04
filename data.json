@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/05/2020 15:03",
+  "lastUpdate": "04/05/2020 15:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -83,7 +83,7 @@
       "vuelo": "ZEB",
       "st": "04/05/2020 19:20",
       "matricula": "LVZEB",
-      "posicion": "",
+      "posicion": "45",
       "et": "",
       "at": "",
       "term": "C",
@@ -102,7 +102,7 @@
       "vuelo": "VDJ",
       "st": "04/05/2020 19:20",
       "matricula": "LVVDJ",
-      "posicion": "",
+      "posicion": "44",
       "et": "",
       "at": "",
       "term": "C",
@@ -140,7 +140,7 @@
       "vuelo": "ZEB",
       "st": "04/05/2020 23:30",
       "matricula": "LVZEB",
-      "posicion": "",
+      "posicion": "45",
       "et": "",
       "at": "",
       "term": "C",
@@ -159,7 +159,7 @@
       "vuelo": "VDJ",
       "st": "04/05/2020 23:30",
       "matricula": "LVVDJ",
-      "posicion": "",
+      "posicion": "44",
       "et": "",
       "at": "",
       "term": "C",
