@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/05/2020 12:58",
+  "lastUpdate": "04/05/2020 13:04",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -345,25 +345,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "103",
-      "st": "04/05/2020 00:30",
-      "matricula": "CXCAR",
-      "posicion": "56B",
-      "et": "4/5/2020 01:00",
-      "at": "4/5/2020 01:01",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "UC",
       "vuelo": "1101",
       "st": "04/05/2020 01:30",
@@ -478,25 +459,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "NZ",
-      "vuelo": "6031",
-      "st": "04/05/2020 11:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "AKL",
-      "via": "",
-      "remark": "CAN",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "8J",
       "vuelo": "753",
       "st": "04/05/2020 11:00",
@@ -512,6 +474,25 @@
       "ruta": "VVI",
       "via": "",
       "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "NZ",
+      "vuelo": "6031",
+      "st": "04/05/2020 11:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "AKL",
+      "via": "",
+      "remark": "CAN",
       "sanidad": "NO"
     },
     {
