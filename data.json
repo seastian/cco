@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/05/2020 02:07",
+  "lastUpdate": "04/05/2020 02:13",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -308,25 +308,6 @@
     {
       "tipo": "partida",
       "aerolinea": "M3",
-      "vuelo": "8472",
-      "st": "03/05/2020 15:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "M3",
       "vuelo": "9832",
       "st": "03/05/2020 15:10",
       "matricula": "",
@@ -339,6 +320,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MAO",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "8472",
+      "st": "03/05/2020 15:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
       "via": "",
       "remark": "CON",
       "sanidad": "NO"
@@ -460,7 +460,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24",
+      "vuelo": "H24N",
       "st": "03/05/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -468,7 +468,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "209",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -479,7 +479,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
+      "vuelo": "H24",
       "st": "03/05/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -487,7 +487,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -549,7 +549,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "DEM",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
