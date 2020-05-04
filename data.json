@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/05/2020 04:56",
+  "lastUpdate": "04/05/2020 05:02",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -136,20 +136,20 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1107",
-      "st": "03/05/2020 17:00",
+      "aerolinea": "4M",
+      "vuelo": "7921",
+      "st": "04/05/2020 17:00",
       "matricula": "",
       "posicion": "",
       "et": "",
       "at": "",
-      "term": "TCA",
+      "term": "A",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "CON",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
