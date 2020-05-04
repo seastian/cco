@@ -1,14 +1,14 @@
 {
-  "lastUpdate": "04/05/2020 07:51",
+  "lastUpdate": "04/05/2020 07:57",
   "vuelos": [
     {
       "tipo": "arribo",
       "aerolinea": "8J",
       "vuelo": "752",
       "st": "04/05/2020 09:15",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
+      "matricula": "CP2889",
+      "posicion": "50A",
+      "et": "4/5/2020 10:00",
       "at": "",
       "term": "A",
       "sector": "",
@@ -16,7 +16,7 @@
       "lF": "",
       "ruta": "CBB",
       "via": "",
-      "remark": "",
+      "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
     },
@@ -614,8 +614,8 @@
       "aerolinea": "8J",
       "vuelo": "753",
       "st": "04/05/2020 11:00",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "CP2889",
+      "posicion": "50A",
       "et": "",
       "at": "",
       "term": "A",
