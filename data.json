@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "04/05/2020 19:20",
+  "lastUpdate": "04/05/2020 19:27",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "4M",
-      "vuelo": "7921",
-      "st": "04/05/2020 17:00",
-      "matricula": "CCCWV",
-      "posicion": "10",
-      "et": "4/5/2020 19:25",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "007",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": "220"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "UC",
@@ -380,6 +361,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "246"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "4M",
+      "vuelo": "7921",
+      "st": "04/05/2020 17:00",
+      "matricula": "CCCWV",
+      "posicion": "10",
+      "et": "4/5/2020 19:25",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "007",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": "220"
     },
     {
       "tipo": "partida",
