@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/05/2020 05:52",
+  "lastUpdate": "04/05/2020 05:59",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -136,20 +136,20 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "101",
-      "st": "03/05/2020 18:30",
-      "matricula": "CXCAR",
-      "posicion": "54A",
+      "aerolinea": "CM",
+      "vuelo": "4011",
+      "st": "04/05/2020 17:57",
+      "matricula": "HP1853",
+      "posicion": "",
       "et": "",
-      "at": "3/5/2020 17:56",
-      "term": "TCA",
+      "at": "",
+      "term": "A",
       "sector": "",
       "cinta": "",
       "lF": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "ATE",
+      "ruta": "SJO",
+      "via": "PTY",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
