@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "04/05/2020 05:27",
+  "lastUpdate": "04/05/2020 05:34",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "LH",
-      "vuelo": "8264",
-      "st": "04/05/2020 06:40",
-      "matricula": "DALCK",
-      "posicion": "54",
-      "et": "4/5/2020 05:30",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "FRA",
-      "via": "MVD",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AA",
@@ -282,6 +263,25 @@
       "lF": "",
       "ruta": "MIA",
       "via": "SCL",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LH",
+      "vuelo": "8264",
+      "st": "04/05/2020 06:40",
+      "matricula": "DALCK",
+      "posicion": "54",
+      "et": "4/5/2020 05:30",
+      "at": "4/5/2020 05:29",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "FRA",
+      "via": "MVD",
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
