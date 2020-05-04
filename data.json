@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/05/2020 08:54",
+  "lastUpdate": "04/05/2020 09:00",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -402,25 +402,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "JJ",
-      "vuelo": "H24",
-      "st": "03/05/2020 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "",
-      "ruta": "QTR",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "H24",
       "st": "03/05/2020 23:59",
@@ -451,6 +432,25 @@
       "sector": "CPI",
       "chkFrom": "209",
       "chkTo": "240",
+      "puerta": "",
+      "ruta": "QTR",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "JJ",
+      "vuelo": "H24",
+      "st": "03/05/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
       "puerta": "",
       "ruta": "QTR",
       "via": "",
@@ -579,7 +579,7 @@
       "matricula": "DALCK",
       "posicion": "54",
       "et": "",
-      "at": "",
+      "at": "4/5/2020 08:54",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -587,7 +587,7 @@
       "puerta": "",
       "ruta": "FRA",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
