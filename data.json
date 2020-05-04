@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/05/2020 22:22",
+  "lastUpdate": "03/05/2020 22:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -285,25 +285,6 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LP",
-      "vuelo": "9958",
-      "st": "03/05/2020 10:00",
-      "matricula": "CCBHC",
-      "posicion": "11B",
-      "et": "",
-      "at": "3/5/2020 10:27",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "15",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
