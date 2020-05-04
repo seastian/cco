@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/05/2020 18:05",
+  "lastUpdate": "04/05/2020 18:11",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -64,7 +64,7 @@
       "vuelo": "7921",
       "st": "04/05/2020 17:00",
       "matricula": "CCCWV",
-      "posicion": "",
+      "posicion": "10",
       "et": "4/5/2020 19:25",
       "at": "",
       "term": "A",
