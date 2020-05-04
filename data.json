@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/05/2020 11:11",
+  "lastUpdate": "04/05/2020 11:18",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -304,25 +304,6 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "4M",
-      "vuelo": "7920",
-      "st": "03/05/2020 23:00",
-      "matricula": "CCCWV",
-      "posicion": "10",
-      "et": "",
-      "at": "3/5/2020 23:14",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "10",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
