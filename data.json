@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "04/05/2020 18:24",
+  "lastUpdate": "04/05/2020 18:30",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1371",
-      "st": "04/05/2020 19:10",
-      "matricula": "LVGKP",
-      "posicion": "12",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "008",
-      "ruta": "CUN",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO",
-      "pax": "246"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "PRV",
@@ -250,25 +231,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "103",
-      "st": "04/05/2020 06:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "8J",
       "vuelo": "752",
       "st": "04/05/2020 09:15",
@@ -399,6 +361,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1371",
+      "st": "04/05/2020 19:10",
+      "matricula": "LVGKP",
+      "posicion": "12",
+      "et": "",
+      "at": "4/5/2020 18:30",
+      "term": "A",
+      "sector": "",
+      "cinta": "8",
+      "lF": "008",
+      "ruta": "CUN",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "246"
     },
     {
       "tipo": "partida",
