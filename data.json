@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/05/2020 20:42",
+  "lastUpdate": "04/05/2020 20:48",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -326,6 +326,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "VDJ",
+      "st": "04/05/2020 19:20",
+      "matricula": "LVVDJ",
+      "posicion": "44",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MDZ",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO",
+      "pax": "15"
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "4M",
       "vuelo": "7921",
       "st": "04/05/2020 17:00",
@@ -361,25 +380,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "VDJ",
-      "st": "04/05/2020 19:20",
-      "matricula": "LVVDJ",
-      "posicion": "44",
-      "et": "4/5/2020 20:30",
-      "at": "",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MDZ",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": "15"
     },
     {
       "tipo": "partida",
