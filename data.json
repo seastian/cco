@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/05/2020 01:11",
+  "lastUpdate": "04/05/2020 01:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -535,25 +535,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1101",
-      "st": "04/05/2020 01:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "GTI",
       "vuelo": "033",
       "st": "04/05/2020 01:15",
@@ -569,6 +550,25 @@
       "ruta": "SCL",
       "via": "",
       "remark": "DEM",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1101",
+      "st": "04/05/2020 01:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     },
     {
