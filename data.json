@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/05/2020 17:03",
+  "lastUpdate": "04/05/2020 17:09",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -60,6 +60,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "UC",
+      "vuelo": "1107",
+      "st": "04/05/2020 18:20",
+      "matricula": "N536LA",
+      "posicion": "56",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "ASU",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "PRV",
       "vuelo": "ZEB",
       "st": "04/05/2020 19:20",
@@ -114,6 +133,25 @@
       "remark": "DEM",
       "sanidad": "NO",
       "pax": "220"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "UC",
+      "vuelo": "1101",
+      "st": "04/05/2020 19:54",
+      "matricula": "CCCZZ",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "ASU",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -535,6 +573,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1107",
+      "st": "04/05/2020 19:40",
+      "matricula": "N536LA",
+      "posicion": "56",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "5X",
       "vuelo": "417",
       "st": "04/05/2020 20:15",
@@ -607,6 +664,25 @@
       "ruta": "BOG",
       "via": "",
       "remark": "EST",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1101",
+      "st": "04/05/2020 21:10",
+      "matricula": "CCCZZ",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     },
     {
