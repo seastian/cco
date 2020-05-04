@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/05/2020 16:44",
+  "lastUpdate": "04/05/2020 16:50",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -555,25 +555,6 @@
     {
       "tipo": "partida",
       "aerolinea": "PRV",
-      "vuelo": "VDJ",
-      "st": "04/05/2020 20:20",
-      "matricula": "LVVDJ",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "FBO",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "ROS",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "PRV",
       "vuelo": "ZEB",
       "st": "04/05/2020 20:20",
       "matricula": "LVZEB",
@@ -586,6 +567,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "SVO",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "PRV",
+      "vuelo": "VDJ",
+      "st": "04/05/2020 20:20",
+      "matricula": "LVVDJ",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "FBO",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "ROS",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -777,6 +777,25 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "QR",
+      "vuelo": "8157",
+      "st": "05/05/2020 04:45",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "DOH",
+      "via": "UIO",
       "remark": "HOR",
       "sanidad": "NO"
     }
