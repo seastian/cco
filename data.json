@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/05/2020 17:28",
+  "lastUpdate": "04/05/2020 17:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -264,25 +264,6 @@
       "ruta": "DOH",
       "via": "GRU",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LH",
-      "vuelo": "8264",
-      "st": "04/05/2020 06:40",
-      "matricula": "DALCK",
-      "posicion": "54",
-      "et": "4/5/2020 05:30",
-      "at": "4/5/2020 05:29",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "FRA",
-      "via": "MVD",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
