@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "04/05/2020 00:46",
+  "lastUpdate": "04/05/2020 00:52",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "5X",
-      "vuelo": "416",
-      "st": "04/05/2020 02:19",
-      "matricula": "N334UP",
-      "posicion": "55",
-      "et": "4/5/2020 01:53",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "SCL",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AA",
@@ -302,6 +283,25 @@
       "ruta": "ASU",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "5X",
+      "vuelo": "416",
+      "st": "04/05/2020 02:19",
+      "matricula": "N334UP",
+      "posicion": "55",
+      "et": "4/5/2020 01:53",
+      "at": "4/5/2020 00:50",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "SCL",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
