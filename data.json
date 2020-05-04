@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/05/2020 21:19",
+  "lastUpdate": "03/05/2020 21:25",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -266,25 +266,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AA",
-      "vuelo": "9435",
-      "st": "03/05/2020 07:00",
-      "matricula": "N734AR",
-      "posicion": "51",
-      "et": "3/5/2020 09:20",
-      "at": "3/5/2020 09:25",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
