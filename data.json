@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/05/2020 16:12",
+  "lastUpdate": "04/05/2020 16:19",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,8 +7,8 @@
       "vuelo": "4011",
       "st": "04/05/2020 17:57",
       "matricula": "HP1853",
-      "posicion": "",
-      "et": "",
+      "posicion": "09",
+      "et": "4/5/2020 17:55",
       "at": "",
       "term": "A",
       "sector": "",
@@ -16,7 +16,7 @@
       "lF": "",
       "ruta": "SJO",
       "via": "PTY",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -27,7 +27,7 @@
       "st": "04/05/2020 19:10",
       "matricula": "LVGKP",
       "posicion": "12",
-      "et": "",
+      "et": "4/5/2020 18:05",
       "at": "",
       "term": "A",
       "sector": "",
@@ -35,9 +35,9 @@
       "lF": "",
       "ruta": "CUN",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "246"
     },
     {
       "tipo": "arribo",
@@ -101,7 +101,7 @@
       "aerolinea": "4M",
       "vuelo": "7921",
       "st": "04/05/2020 17:00",
-      "matricula": "",
+      "matricula": "CCCWV",
       "posicion": "",
       "et": "4/5/2020 19:25",
       "at": "",
@@ -520,14 +520,14 @@
       "vuelo": "1853",
       "st": "04/05/2020 18:57",
       "matricula": "HP1853",
-      "posicion": "",
+      "posicion": "09",
       "et": "",
       "at": "",
       "term": "A",
       "sector": "AP",
       "chkFrom": "",
       "chkTo": "",
-      "puerta": "",
+      "puerta": "09",
       "ruta": "PTY",
       "via": "",
       "remark": "HOR",
