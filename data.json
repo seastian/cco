@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/05/2020 05:02",
+  "lastUpdate": "04/05/2020 05:09",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -44,8 +44,8 @@
       "aerolinea": "LH",
       "vuelo": "8264",
       "st": "04/05/2020 06:40",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "DALCK",
+      "posicion": "54",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -557,8 +557,8 @@
       "aerolinea": "LH",
       "vuelo": "8265",
       "st": "04/05/2020 08:10",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "DALCK",
+      "posicion": "54",
       "et": "",
       "at": "",
       "term": "TCA",
