@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/05/2020 23:24",
+  "lastUpdate": "03/05/2020 23:31",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -65,7 +65,7 @@
       "st": "04/05/2020 02:19",
       "matricula": "N334UP",
       "posicion": "55",
-      "et": "4/5/2020 01:12",
+      "et": "4/5/2020 01:53",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -668,25 +668,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "8J",
-      "vuelo": "753",
-      "st": "04/05/2020 11:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "070",
-      "chkTo": "073",
-      "puerta": "",
-      "ruta": "VVI",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "NZ",
       "vuelo": "6031",
       "st": "04/05/2020 11:00",
@@ -702,6 +683,25 @@
       "ruta": "AKL",
       "via": "",
       "remark": "CAN",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "8J",
+      "vuelo": "753",
+      "st": "04/05/2020 11:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "070",
+      "chkTo": "073",
+      "puerta": "",
+      "ruta": "VVI",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     }
   ]
