@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/05/2020 02:52",
+  "lastUpdate": "05/05/2020 02:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -8,7 +8,7 @@
       "st": "05/05/2020 03:00",
       "matricula": "A7BFF",
       "posicion": "56",
-      "et": "",
+      "et": "5/5/2020 04:55",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -768,7 +768,7 @@
       "st": "05/05/2020 04:45",
       "matricula": "A7BFF",
       "posicion": "56",
-      "et": "5/5/2020 06:20",
+      "et": "5/5/2020 06:40",
       "at": "",
       "term": "TCA",
       "sector": "",
