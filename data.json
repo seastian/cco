@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/05/2020 02:33",
+  "lastUpdate": "05/05/2020 02:39",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -370,14 +370,14 @@
       "matricula": "LVVDJ",
       "posicion": "44",
       "et": "5/5/2020 02:30",
-      "at": "",
+      "at": "5/5/2020 02:30",
       "term": "C",
       "sector": "CAC",
       "cinta": "",
       "lF": "",
       "ruta": "ROS",
       "via": "",
-      "remark": "DEM",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "11"
     },
