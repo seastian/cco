@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/05/2020 21:45",
+  "lastUpdate": "04/05/2020 21:51",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -155,25 +155,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "8J",
-      "vuelo": "752",
-      "st": "04/05/2020 09:15",
-      "matricula": "CP2889",
-      "posicion": "50A",
-      "et": "4/5/2020 10:00",
-      "at": "4/5/2020 09:47",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "CBB",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "UC",
       "vuelo": "1400",
       "st": "04/05/2020 11:00",
@@ -308,25 +289,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "PRV",
-      "vuelo": "VDJ",
-      "st": "04/05/2020 19:20",
-      "matricula": "LVVDJ",
-      "posicion": "44",
-      "et": "",
-      "at": "4/5/2020 21:03",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MDZ",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "15"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "PRV",
       "vuelo": "ZEB",
       "st": "04/05/2020 19:20",
       "matricula": "LVZEB",
@@ -342,6 +304,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "4"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "VDJ",
+      "st": "04/05/2020 19:20",
+      "matricula": "LVVDJ",
+      "posicion": "44",
+      "et": "",
+      "at": "4/5/2020 21:03",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MDZ",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "15"
     },
     {
       "tipo": "arribo",
