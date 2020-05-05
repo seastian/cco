@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/05/2020 06:06",
+  "lastUpdate": "05/05/2020 06:12",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -909,6 +909,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "EZE",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "8420",
+      "st": "05/05/2020 18:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
