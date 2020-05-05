@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/05/2020 22:29",
+  "lastUpdate": "04/05/2020 22:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -549,7 +549,7 @@
       "puerta": "",
       "ruta": "SVO",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -568,7 +568,7 @@
       "puerta": "",
       "ruta": "ROS",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -625,7 +625,7 @@
       "puerta": "22",
       "ruta": "PVG",
       "via": "AKL",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -650,7 +650,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24",
+      "vuelo": "H24N",
       "st": "04/05/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -658,7 +658,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "209",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -669,7 +669,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
+      "vuelo": "H24",
       "st": "04/05/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -677,7 +677,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
