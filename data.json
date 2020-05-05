@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/05/2020 03:23",
+  "lastUpdate": "05/05/2020 03:29",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -731,7 +731,7 @@
       "matricula": "LVZEB",
       "posicion": "45",
       "et": "5/5/2020 03:30",
-      "at": "",
+      "at": "5/5/2020 03:23",
       "term": "FBO",
       "sector": "",
       "chkFrom": "",
@@ -739,7 +739,7 @@
       "puerta": "",
       "ruta": "FDO",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -758,7 +758,7 @@
       "puerta": "",
       "ruta": "FDO",
       "via": "",
-      "remark": "DEM",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
