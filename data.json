@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "05/05/2020 02:27",
+  "lastUpdate": "05/05/2020 02:33",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "VDJ",
-      "st": "04/05/2020 23:30",
-      "matricula": "LVVDJ",
-      "posicion": "44",
-      "et": "5/5/2020 02:30",
-      "at": "",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "ROS",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": "11"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "QR",
@@ -380,6 +361,25 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "VDJ",
+      "st": "04/05/2020 23:30",
+      "matricula": "LVVDJ",
+      "posicion": "44",
+      "et": "5/5/2020 02:30",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "ROS",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": "11"
     },
     {
       "tipo": "arribo",
