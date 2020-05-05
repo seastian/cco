@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/05/2020 23:50",
+  "lastUpdate": "04/05/2020 23:56",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -560,7 +560,7 @@
       "matricula": "LVVDJ",
       "posicion": "44",
       "et": "",
-      "at": "",
+      "at": "4/5/2020 23:53",
       "term": "FBO",
       "sector": "",
       "chkFrom": "",
@@ -568,7 +568,7 @@
       "puerta": "",
       "ruta": "ROS",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
