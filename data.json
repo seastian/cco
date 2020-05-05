@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/05/2020 00:02",
+  "lastUpdate": "05/05/2020 00:09",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -873,6 +873,25 @@
       "ruta": "VCP",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "MP",
+      "vuelo": "6912",
+      "st": "05/05/2020 12:05",
+      "matricula": "PHCKB",
+      "posicion": "",
+      "et": "5/5/2020 12:40",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "AMS",
+      "via": "UIO",
+      "remark": "DEM",
       "sanidad": "NO"
     }
   ]
