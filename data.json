@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "05/05/2020 05:41",
+  "lastUpdate": "05/05/2020 05:47",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AA",
-      "vuelo": "9434",
-      "st": "05/05/2020 05:47",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "M3",
@@ -190,25 +171,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "CM",
-      "vuelo": "4011",
-      "st": "04/05/2020 17:57",
-      "matricula": "HP1853",
-      "posicion": "09",
-      "et": "4/5/2020 17:45",
-      "at": "4/5/2020 17:43",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "SJO",
-      "via": "PTY",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "147"
     },
     {
       "tipo": "arribo",
@@ -473,6 +435,25 @@
       "ruta": "DOH",
       "via": "GRU",
       "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AA",
+      "vuelo": "9434",
+      "st": "05/05/2020 05:47",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
