@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/05/2020 22:35",
+  "lastUpdate": "04/05/2020 22:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -33,7 +33,7 @@
       "sector": "CAC",
       "cinta": "",
       "lF": "",
-      "ruta": "ROS",
+      "ruta": "SVJ",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -541,15 +541,15 @@
       "matricula": "LVZEB",
       "posicion": "45",
       "et": "",
-      "at": "",
+      "at": "4/5/2020 22:35",
       "term": "FBO",
       "sector": "",
       "chkFrom": "",
       "chkTo": "",
       "puerta": "",
-      "ruta": "SVO",
+      "ruta": "SVJ",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
