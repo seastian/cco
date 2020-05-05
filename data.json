@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/05/2020 22:47",
+  "lastUpdate": "04/05/2020 22:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -617,7 +617,7 @@
       "matricula": "LVFVH",
       "posicion": "16",
       "et": "",
-      "at": "",
+      "at": "4/5/2020 22:51",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "",
@@ -625,7 +625,7 @@
       "puerta": "22",
       "ruta": "PVG",
       "via": "AKL",
-      "remark": "CON",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
