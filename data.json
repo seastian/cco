@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/05/2020 02:14",
+  "lastUpdate": "05/05/2020 02:20",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -19,25 +19,6 @@
       "remark": "DEM",
       "sanidad": "NO",
       "pax": "11"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "ZEB",
-      "st": "04/05/2020 23:30",
-      "matricula": "LVZEB",
-      "posicion": "45",
-      "et": "5/5/2020 02:30",
-      "at": "",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SVJ",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": "4"
     },
     {
       "tipo": "arribo",
@@ -251,25 +232,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "PRV",
-      "vuelo": "VDJ",
-      "st": "04/05/2020 19:20",
-      "matricula": "LVVDJ",
-      "posicion": "44",
-      "et": "",
-      "at": "4/5/2020 21:03",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MDZ",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "15"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "PRV",
       "vuelo": "ZEB",
       "st": "04/05/2020 19:20",
       "matricula": "LVZEB",
@@ -285,6 +247,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "4"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "VDJ",
+      "st": "04/05/2020 19:20",
+      "matricula": "LVVDJ",
+      "posicion": "44",
+      "et": "",
+      "at": "4/5/2020 21:03",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MDZ",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "15"
     },
     {
       "tipo": "arribo",
@@ -399,6 +380,25 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "ZEB",
+      "st": "04/05/2020 23:30",
+      "matricula": "LVZEB",
+      "posicion": "45",
+      "et": "5/5/2020 02:30",
+      "at": "5/5/2020 02:16",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SVJ",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "4"
     },
     {
       "tipo": "partida",
