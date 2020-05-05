@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/05/2020 21:13",
+  "lastUpdate": "04/05/2020 21:19",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -326,6 +326,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "ZEB",
+      "st": "04/05/2020 19:20",
+      "matricula": "LVZEB",
+      "posicion": "45",
+      "et": "",
+      "at": "4/5/2020 21:16",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "COR",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "4"
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "4M",
       "vuelo": "7921",
       "st": "04/05/2020 17:00",
@@ -361,25 +380,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "ZEB",
-      "st": "04/05/2020 19:20",
-      "matricula": "LVZEB",
-      "posicion": "45",
-      "et": "4/5/2020 21:00",
-      "at": "",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "COR",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": "4"
     },
     {
       "tipo": "partida",
