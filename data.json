@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "04/05/2020 23:44",
+  "lastUpdate": "04/05/2020 23:50",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "M3",
-      "vuelo": "8490",
-      "st": "04/05/2020 23:45",
-      "matricula": "PRABB",
-      "posicion": "54",
-      "et": "4/5/2020 23:50",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "UC",
@@ -418,6 +399,25 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": "11"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "M3",
+      "vuelo": "8490",
+      "st": "04/05/2020 23:45",
+      "matricula": "PRABB",
+      "posicion": "54",
+      "et": "4/5/2020 23:50",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "VCP",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "partida",
