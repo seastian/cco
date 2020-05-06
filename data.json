@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/05/2020 13:32",
+  "lastUpdate": "06/05/2020 13:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -465,14 +465,14 @@
       "matricula": "LVCPL",
       "posicion": "51A",
       "et": "",
-      "at": "",
+      "at": "6/5/2020 13:32",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "AEP",
       "via": "",
-      "remark": "CON",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
