@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/05/2020 11:50",
+  "lastUpdate": "06/05/2020 11:56",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -478,25 +478,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "JJ",
-      "vuelo": "H24",
-      "st": "05/05/2020 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "",
-      "ruta": "QTR",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "H24",
       "st": "05/05/2020 23:59",
@@ -527,6 +508,25 @@
       "sector": "CPI",
       "chkFrom": "209",
       "chkTo": "240",
+      "puerta": "",
+      "ruta": "QTR",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "JJ",
+      "vuelo": "H24",
+      "st": "05/05/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
       "puerta": "",
       "ruta": "QTR",
       "via": "",
@@ -712,7 +712,7 @@
       "matricula": "LVGGK",
       "posicion": "14A",
       "et": "",
-      "at": "",
+      "at": "6/5/2020 11:55",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -720,7 +720,7 @@
       "puerta": "18",
       "ruta": "GIG",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
