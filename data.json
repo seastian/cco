@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/05/2020 10:08",
+  "lastUpdate": "06/05/2020 10:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -285,25 +285,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "6"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "TK",
-      "vuelo": "6169",
-      "st": "05/05/2020 22:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "IST",
-      "via": "GRU",
-      "remark": "CON",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
