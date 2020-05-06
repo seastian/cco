@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/05/2020 17:16",
+  "lastUpdate": "06/05/2020 17:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -206,6 +206,25 @@
       "lF": "",
       "ruta": "LHR",
       "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "5X",
+      "vuelo": "410",
+      "st": "07/05/2020 05:20",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "SCL",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
