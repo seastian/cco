@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/05/2020 08:29",
+  "lastUpdate": "06/05/2020 08:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -224,6 +224,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "GIG",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "UC",
+      "vuelo": "1103",
+      "st": "06/05/2020 20:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
       "via": "",
       "remark": "",
       "sanidad": "NO",
