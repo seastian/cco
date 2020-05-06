@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/05/2020 16:25",
+  "lastUpdate": "06/05/2020 16:31",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -805,14 +805,14 @@
       "vuelo": "1082",
       "st": "06/05/2020 23:10",
       "matricula": "LVFVI",
-      "posicion": "M11",
+      "posicion": "14",
       "et": "",
       "at": "",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "19",
       "ruta": "PVG",
       "via": "AKL",
       "remark": "HOR",
