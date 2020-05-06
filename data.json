@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/05/2020 10:01",
+  "lastUpdate": "06/05/2020 10:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -8,7 +8,7 @@
       "st": "06/05/2020 11:00",
       "matricula": "OKTSE",
       "posicion": "08",
-      "et": "",
+      "et": "6/5/2020 10:20",
       "at": "",
       "term": "A",
       "sector": "",
@@ -16,7 +16,7 @@
       "lF": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
