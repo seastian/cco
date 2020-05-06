@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/05/2020 15:40",
+  "lastUpdate": "06/05/2020 15:46",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -701,7 +701,7 @@
       "puerta": "",
       "ruta": "DXB",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
