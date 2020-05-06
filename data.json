@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/05/2020 15:14",
+  "lastUpdate": "06/05/2020 15:21",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -440,6 +440,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "438RV",
+      "st": "06/05/2020 14:25",
+      "matricula": "N438RV",
+      "posicion": "41",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "ANF",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO",
+      "pax": "7"
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "JJ",
       "vuelo": "9540",
       "st": "06/05/2020 15:00",
@@ -456,25 +475,6 @@
       "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "438RV",
-      "st": "06/05/2020 14:25",
-      "matricula": "N438RV",
-      "posicion": "41",
-      "et": "6/5/2020 15:00",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "ANF",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": "7"
     },
     {
       "tipo": "partida",
