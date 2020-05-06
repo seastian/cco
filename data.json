@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/05/2020 10:46",
+  "lastUpdate": "06/05/2020 10:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -474,25 +474,6 @@
       "ruta": "LHR",
       "via": "",
       "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1130Q",
-      "st": "05/05/2020 22:50",
-      "matricula": "LVGIF",
-      "posicion": "13",
-      "et": "",
-      "at": "",
-      "term": "",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "17",
-      "ruta": "EZE",
-      "via": "",
-      "remark": "CON",
       "sanidad": "NO"
     },
     {
