@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/05/2020 18:26",
+  "lastUpdate": "06/05/2020 18:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -456,25 +456,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LH",
-      "vuelo": "8267",
-      "st": "06/05/2020 05:55",
-      "matricula": "DALCD",
-      "posicion": "55",
-      "et": "",
-      "at": "6/5/2020 06:29",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "FRA",
-      "via": "VCP",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
