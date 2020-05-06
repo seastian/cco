@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/05/2020 19:24",
+  "lastUpdate": "06/05/2020 19:30",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -928,6 +928,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MIA",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "102",
+      "st": "07/05/2020 07:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
