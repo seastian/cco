@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/05/2020 16:18",
+  "lastUpdate": "06/05/2020 16:25",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -693,7 +693,7 @@
       "matricula": "A6EQA",
       "posicion": "54",
       "et": "",
-      "at": "",
+      "at": "6/5/2020 16:20",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -701,7 +701,7 @@
       "puerta": "",
       "ruta": "DXB",
       "via": "",
-      "remark": "CON",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
