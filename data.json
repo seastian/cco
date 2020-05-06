@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/05/2020 17:54",
+  "lastUpdate": "06/05/2020 18:00",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -64,7 +64,7 @@
       "vuelo": "771",
       "st": "06/05/2020 21:20",
       "matricula": "ECNEI",
-      "posicion": "",
+      "posicion": "10",
       "et": "6/5/2020 21:46",
       "at": "",
       "term": "TCA",
