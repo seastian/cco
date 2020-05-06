@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/05/2020 11:31",
+  "lastUpdate": "06/05/2020 11:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -288,25 +288,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "M3",
-      "vuelo": "8492",
-      "st": "05/05/2020 23:45",
-      "matricula": "PRACO",
-      "posicion": "55",
-      "et": "5/5/2020 23:35",
-      "at": "5/5/2020 23:32",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AMS",
       "vuelo": "8119",
       "st": "05/05/2020 23:45",
@@ -441,6 +422,25 @@
     {
       "tipo": "arribo",
       "aerolinea": "AOG",
+      "vuelo": "501",
+      "st": "06/05/2020 11:30",
+      "matricula": "CXLSS",
+      "posicion": "50B",
+      "et": "",
+      "at": "6/5/2020 11:36",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AOG",
       "vuelo": "423",
       "st": "06/05/2020 11:30",
       "matricula": "CXCLS",
@@ -454,25 +454,6 @@
       "ruta": "MVD",
       "via": "",
       "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "501",
-      "st": "06/05/2020 11:30",
-      "matricula": "CXLSS",
-      "posicion": "50B",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
@@ -739,7 +720,7 @@
       "puerta": "18",
       "ruta": "GIG",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
