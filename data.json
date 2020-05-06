@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/05/2020 19:17",
+  "lastUpdate": "06/05/2020 19:24",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -674,7 +674,7 @@
       "matricula": "PRPSE",
       "posicion": "45",
       "et": "",
-      "at": "",
+      "at": "6/5/2020 19:17",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "",
@@ -682,7 +682,7 @@
       "puerta": "",
       "ruta": "EWR",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
