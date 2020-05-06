@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/05/2020 18:00",
+  "lastUpdate": "06/05/2020 18:07",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -465,14 +465,14 @@
       "matricula": "PRPSE",
       "posicion": "45",
       "et": "",
-      "at": "",
+      "at": "6/5/2020 18:01",
       "term": "A",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "FLN",
       "via": "",
-      "remark": "HOR",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
     },
