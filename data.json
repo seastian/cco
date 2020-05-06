@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/05/2020 15:08",
+  "lastUpdate": "06/05/2020 15:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -474,7 +474,7 @@
       "via": "",
       "remark": "DEM",
       "sanidad": "NO",
-      "pax": "4"
+      "pax": "7"
     },
     {
       "tipo": "partida",
@@ -701,7 +701,7 @@
       "puerta": "",
       "ruta": "VCP",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -859,7 +859,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24",
+      "vuelo": "H24N",
       "st": "06/05/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -867,7 +867,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "209",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -878,7 +878,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
+      "vuelo": "H24",
       "st": "06/05/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -886,7 +886,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
