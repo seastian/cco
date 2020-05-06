@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/05/2020 14:10",
+  "lastUpdate": "06/05/2020 14:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -948,6 +948,25 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "QT",
+      "vuelo": "4078",
+      "st": "07/05/2020 02:15",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "BOG",
+      "via": "SCL",
       "remark": "HOR",
       "sanidad": "NO"
     }
