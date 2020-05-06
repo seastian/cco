@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/05/2020 13:13",
+  "lastUpdate": "06/05/2020 13:19",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -494,25 +494,6 @@
       "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "M3",
-      "vuelo": "8492",
-      "st": "06/05/2020 02:10",
-      "matricula": "PRACO",
-      "posicion": "55",
-      "et": "6/5/2020 01:07",
-      "at": "6/5/2020 01:19",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
