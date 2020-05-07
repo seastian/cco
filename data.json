@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/05/2020 23:07",
+  "lastUpdate": "06/05/2020 23:13",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -720,26 +720,7 @@
       "puerta": "18",
       "ruta": "PVG",
       "via": "AKL",
-      "remark": "ULT",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "JJ",
-      "vuelo": "H24",
-      "st": "06/05/2020 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "",
-      "ruta": "QTR",
-      "via": "",
-      "remark": "HOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -774,6 +755,25 @@
       "sector": "CPI",
       "chkFrom": "209",
       "chkTo": "240",
+      "puerta": "",
+      "ruta": "QTR",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "JJ",
+      "vuelo": "H24",
+      "st": "06/05/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
       "puerta": "",
       "ruta": "QTR",
       "via": "",
