@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/05/2020 00:30",
+  "lastUpdate": "07/05/2020 00:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -739,7 +739,7 @@
       "puerta": "",
       "ruta": "FRA",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
