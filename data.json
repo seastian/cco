@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/05/2020 10:44",
+  "lastUpdate": "07/05/2020 10:50",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -17,25 +17,6 @@
       "ruta": "PVG",
       "via": "AKL",
       "remark": "DEM",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "423",
-      "st": "07/05/2020 11:30",
-      "matricula": "CXCLS",
-      "posicion": "54B",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
@@ -301,6 +282,25 @@
       "lF": "",
       "ruta": "FRA",
       "via": "MVD",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AOG",
+      "vuelo": "423",
+      "st": "07/05/2020 11:30",
+      "matricula": "CXCLS",
+      "posicion": "54B",
+      "et": "",
+      "at": "7/5/2020 10:45",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MVD",
+      "via": "",
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
@@ -739,6 +739,25 @@
       "puerta": "",
       "ruta": "UIO",
       "via": "GYE",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1140",
+      "st": "07/05/2020 22:50",
+      "matricula": "LVGIF",
+      "posicion": "M15",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "FCO",
+      "via": "",
       "remark": "HOR",
       "sanidad": "NO"
     }
