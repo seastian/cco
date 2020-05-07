@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/05/2020 10:05",
+  "lastUpdate": "07/05/2020 10:12",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,7 +7,7 @@
       "vuelo": "1081",
       "st": "07/05/2020 10:15",
       "matricula": "LVFVH",
-      "posicion": "",
+      "posicion": "50",
       "et": "7/5/2020 11:15",
       "at": "",
       "term": "TCA",
