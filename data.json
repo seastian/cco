@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/05/2020 16:48",
+  "lastUpdate": "07/05/2020 16:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -384,25 +384,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AOG",
-      "vuelo": "500",
-      "st": "07/05/2020 12:30",
-      "matricula": "CXLSS",
-      "posicion": "54A",
-      "et": "",
-      "at": "7/5/2020 14:11",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
       "vuelo": "424",
       "st": "07/05/2020 12:30",
       "matricula": "CXCLS",
@@ -415,6 +396,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MVD",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "500",
+      "st": "07/05/2020 12:30",
+      "matricula": "CXLSS",
+      "posicion": "54A",
+      "et": "",
+      "at": "7/5/2020 14:11",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "ASU",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -465,7 +465,7 @@
       "matricula": "HCCPZ",
       "posicion": "09",
       "et": "",
-      "at": "",
+      "at": "7/5/2020 16:50",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -473,7 +473,7 @@
       "puerta": "09",
       "ruta": "UIO",
       "via": "GYE",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
