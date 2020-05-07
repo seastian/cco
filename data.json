@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/05/2020 02:00",
+  "lastUpdate": "07/05/2020 02:06",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -137,8 +137,8 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "8491",
-      "st": "06/05/2020 14:00",
+      "vuelo": "8493",
+      "st": "07/05/2020 14:00",
       "matricula": "",
       "posicion": "",
       "et": "",
@@ -149,7 +149,7 @@
       "lF": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "CON",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
@@ -929,6 +929,25 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UX",
+      "vuelo": "772",
+      "st": "07/05/2020 14:05",
+      "matricula": "ECNEI",
+      "posicion": "10",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "027",
+      "chkTo": "035",
+      "puerta": "10",
+      "ruta": "LGW",
+      "via": "GEO",
       "remark": "HOR",
       "sanidad": "NO"
     }
