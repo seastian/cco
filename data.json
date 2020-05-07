@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/05/2020 19:21",
+  "lastUpdate": "07/05/2020 19:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -65,7 +65,7 @@
       "st": "08/05/2020 04:05",
       "matricula": "",
       "posicion": "",
-      "et": "",
+      "et": "8/5/2020 03:51",
       "at": "",
       "term": "A",
       "sector": "",
@@ -73,9 +73,9 @@
       "lF": "",
       "ruta": "LHR",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "243"
     },
     {
       "tipo": "arribo",
