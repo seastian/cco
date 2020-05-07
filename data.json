@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/05/2020 20:13",
+  "lastUpdate": "07/05/2020 20:19",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -63,7 +63,7 @@
       "aerolinea": "AR",
       "vuelo": "1131",
       "st": "08/05/2020 04:05",
-      "matricula": "",
+      "matricula": "LVGHQ",
       "posicion": "",
       "et": "8/5/2020 03:51",
       "at": "",
