@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/05/2020 19:09",
+  "lastUpdate": "07/05/2020 19:15",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -199,14 +199,14 @@
       "matricula": "N700KW",
       "posicion": "10",
       "et": "7/5/2020 19:05",
-      "at": "",
+      "at": "7/5/2020 19:09",
       "term": "A",
       "sector": "AP",
       "cinta": "",
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
     },
