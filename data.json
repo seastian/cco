@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/05/2020 16:16",
+  "lastUpdate": "07/05/2020 16:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -473,7 +473,7 @@
       "puerta": "09",
       "ruta": "UIO",
       "via": "GYE",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -482,7 +482,7 @@
       "vuelo": "1140",
       "st": "07/05/2020 22:50",
       "matricula": "LVGIF",
-      "posicion": "M15",
+      "posicion": "33",
       "et": "",
       "at": "",
       "term": "C",
