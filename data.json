@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/05/2020 05:56",
+  "lastUpdate": "07/05/2020 06:02",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -45,7 +45,7 @@
       "vuelo": "423",
       "st": "07/05/2020 11:30",
       "matricula": "CXCLS",
-      "posicion": "",
+      "posicion": "59",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -64,7 +64,7 @@
       "vuelo": "501",
       "st": "07/05/2020 11:30",
       "matricula": "CXLSS",
-      "posicion": "",
+      "posicion": "60",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -114,25 +114,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "PSE",
-      "st": "06/05/2020 17:45",
-      "matricula": "PRPSE",
-      "posicion": "45",
-      "et": "",
-      "at": "6/5/2020 18:01",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "FLN",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -767,7 +748,7 @@
       "vuelo": "424",
       "st": "07/05/2020 12:30",
       "matricula": "CXCLS",
-      "posicion": "",
+      "posicion": "59",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -786,7 +767,7 @@
       "vuelo": "500",
       "st": "07/05/2020 12:30",
       "matricula": "CXLSS",
-      "posicion": "",
+      "posicion": "60",
       "et": "",
       "at": "",
       "term": "TCA",
