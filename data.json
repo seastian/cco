@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/05/2020 23:52",
+  "lastUpdate": "06/05/2020 23:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -456,25 +456,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1260",
-      "st": "06/05/2020 11:30",
-      "matricula": "LVGGK",
-      "posicion": "14A",
-      "et": "",
-      "at": "6/5/2020 11:55",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "18",
-      "ruta": "GIG",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
