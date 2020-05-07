@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/05/2020 13:11",
+  "lastUpdate": "07/05/2020 13:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -250,25 +250,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "M3",
-      "vuelo": "8492",
-      "st": "07/05/2020 02:10",
-      "matricula": "PRABB",
-      "posicion": "54",
-      "et": "7/5/2020 01:07",
-      "at": "7/5/2020 01:16",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AOG",
       "vuelo": "101",
       "st": "07/05/2020 01:30",
@@ -284,25 +265,6 @@
       "ruta": "ASU",
       "via": "",
       "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AMS",
-      "vuelo": "7119",
-      "st": "07/05/2020 02:00",
-      "matricula": "CXMAS",
-      "posicion": "51A",
-      "et": "",
-      "at": "7/5/2020 01:12",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
       "sanidad": "NO"
     },
     {
