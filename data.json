@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "07/05/2020 14:34",
+  "lastUpdate": "07/05/2020 14:40",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "XL",
-      "vuelo": "1461",
-      "st": "07/05/2020 14:35",
-      "matricula": "HCCPZ",
-      "posicion": "09",
-      "et": "7/5/2020 14:40",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "UIO",
-      "via": "GYE",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "110"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "2D",
@@ -247,6 +228,25 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "XL",
+      "vuelo": "1461",
+      "st": "07/05/2020 14:35",
+      "matricula": "HCCPZ",
+      "posicion": "09",
+      "et": "7/5/2020 14:40",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "UIO",
+      "via": "GYE",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "110"
     },
     {
       "tipo": "partida",
