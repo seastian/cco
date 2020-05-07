@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/05/2020 22:03",
+  "lastUpdate": "06/05/2020 22:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -45,7 +45,7 @@
       "vuelo": "7643",
       "st": "06/05/2020 23:30",
       "matricula": "HP1536",
-      "posicion": "",
+      "posicion": "05",
       "et": "",
       "at": "",
       "term": "A",
@@ -736,7 +736,7 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "19",
+      "puerta": "18",
       "ruta": "PVG",
       "via": "AKL",
       "remark": "HOR",
