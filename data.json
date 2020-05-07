@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/05/2020 17:46",
+  "lastUpdate": "07/05/2020 17:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -112,25 +112,6 @@
       "ruta": "MIA",
       "via": "SCL",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AA",
-      "vuelo": "9434",
-      "st": "07/05/2020 05:47",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
