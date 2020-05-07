@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/05/2020 23:01",
+  "lastUpdate": "06/05/2020 23:07",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -212,25 +212,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "423",
-      "st": "06/05/2020 11:30",
-      "matricula": "CXCLS",
-      "posicion": "50A",
-      "et": "",
-      "at": "6/5/2020 11:05",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "LA",
       "vuelo": "1135",
       "st": "06/05/2020 12:30",
@@ -250,25 +231,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "CPL",
-      "st": "06/05/2020 13:30",
-      "matricula": "LVCPL",
-      "posicion": "51A",
-      "et": "",
-      "at": "6/5/2020 13:32",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "AEP",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1006",
       "st": "06/05/2020 13:30",
@@ -281,6 +243,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "EZE",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "CPL",
+      "st": "06/05/2020 13:30",
+      "matricula": "LVCPL",
+      "posicion": "51A",
+      "et": "",
+      "at": "6/5/2020 13:32",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "AEP",
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
@@ -693,7 +674,7 @@
       "matricula": "LVGHQ",
       "posicion": "15",
       "et": "",
-      "at": "",
+      "at": "6/5/2020 23:02",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "",
@@ -701,7 +682,7 @@
       "puerta": "20",
       "ruta": "LHR",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -720,7 +701,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
