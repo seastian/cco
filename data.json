@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/05/2020 02:32",
+  "lastUpdate": "07/05/2020 02:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -149,6 +149,25 @@
       "lF": "",
       "ruta": "SCL",
       "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "XL",
+      "vuelo": "1461",
+      "st": "07/05/2020 14:35",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "UIO",
+      "via": "GYE",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
