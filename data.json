@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/05/2020 03:36",
+  "lastUpdate": "07/05/2020 03:42",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -171,25 +171,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "438RV",
-      "st": "06/05/2020 14:25",
-      "matricula": "N438RV",
-      "posicion": "41",
-      "et": "",
-      "at": "6/5/2020 15:36",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "ANF",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "7"
     },
     {
       "tipo": "arribo",
