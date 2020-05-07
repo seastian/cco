@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "07/05/2020 19:02",
+  "lastUpdate": "07/05/2020 19:09",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "2D",
-      "vuelo": "9303",
-      "st": "07/05/2020 21:20",
-      "matricula": "N700KW",
-      "posicion": "10",
-      "et": "7/5/2020 19:05",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "0"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "UC",
@@ -209,6 +190,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "110"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "2D",
+      "vuelo": "9303",
+      "st": "07/05/2020 21:20",
+      "matricula": "N700KW",
+      "posicion": "10",
+      "et": "7/5/2020 19:05",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "0"
     },
     {
       "tipo": "partida",
