@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/05/2020 21:57",
+  "lastUpdate": "06/05/2020 22:03",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -948,6 +948,25 @@
       "puerta": "",
       "ruta": "FRA",
       "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "QS",
+      "vuelo": "4169",
+      "st": "07/05/2020 10:00",
+      "matricula": "OKTSE",
+      "posicion": "08",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "083",
+      "chkTo": "088",
+      "puerta": "07",
+      "ruta": "OSL",
+      "via": "LPA",
       "remark": "HOR",
       "sanidad": "NO"
     }
