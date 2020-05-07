@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/05/2020 01:09",
+  "lastUpdate": "07/05/2020 01:15",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -669,7 +669,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
+      "vuelo": "H24",
       "st": "06/05/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -677,7 +677,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -688,7 +688,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24",
+      "vuelo": "H24N",
       "st": "06/05/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -696,7 +696,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "209",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -721,6 +721,25 @@
       "ruta": "FRA",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AMS",
+      "vuelo": "7119",
+      "st": "07/05/2020 02:00",
+      "matricula": "CXMAS",
+      "posicion": "51A",
+      "et": "",
+      "at": "7/5/2020 01:12",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -757,25 +776,6 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "ASU",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AMS",
-      "vuelo": "7119",
-      "st": "07/05/2020 02:00",
-      "matricula": "CXMAS",
-      "posicion": "51A",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
