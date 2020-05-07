@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/05/2020 14:21",
+  "lastUpdate": "07/05/2020 14:27",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -365,25 +365,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AOG",
-      "vuelo": "500",
-      "st": "07/05/2020 12:30",
-      "matricula": "CXLSS",
-      "posicion": "54A",
-      "et": "",
-      "at": "7/5/2020 14:11",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
       "vuelo": "424",
       "st": "07/05/2020 12:30",
       "matricula": "CXCLS",
@@ -402,13 +383,32 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "500",
+      "st": "07/05/2020 12:30",
+      "matricula": "CXLSS",
+      "posicion": "54A",
+      "et": "",
+      "at": "7/5/2020 14:11",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "UX",
       "vuelo": "772",
       "st": "07/05/2020 14:05",
       "matricula": "ECNEI",
       "posicion": "10",
       "et": "",
-      "at": "",
+      "at": "7/5/2020 14:23",
       "term": "A",
       "sector": "AP",
       "chkFrom": "027",
@@ -416,7 +416,7 @@
       "puerta": "10",
       "ruta": "LGW",
       "via": "GEO",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
