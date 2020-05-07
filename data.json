@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/05/2020 02:57",
+  "lastUpdate": "07/05/2020 03:04",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -190,25 +190,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "7"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "9540",
-      "st": "06/05/2020 15:00",
-      "matricula": "PTXPH",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "CAN",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
