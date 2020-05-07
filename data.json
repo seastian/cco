@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/05/2020 09:08",
+  "lastUpdate": "07/05/2020 09:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -8,7 +8,7 @@
       "st": "07/05/2020 10:15",
       "matricula": "",
       "posicion": "",
-      "et": "",
+      "et": "7/5/2020 11:00",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -16,7 +16,7 @@
       "lF": "",
       "ruta": "PVG",
       "via": "AKL",
-      "remark": "",
+      "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
     },
