@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/05/2020 13:17",
+  "lastUpdate": "07/05/2020 13:23",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -473,7 +473,7 @@
       "puerta": "10",
       "ruta": "LGW",
       "via": "GEO",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
