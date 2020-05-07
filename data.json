@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/05/2020 16:22",
+  "lastUpdate": "07/05/2020 16:29",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,7 +7,7 @@
       "vuelo": "9303",
       "st": "07/05/2020 21:20",
       "matricula": "N700KW",
-      "posicion": "",
+      "posicion": "10",
       "et": "7/5/2020 18:35",
       "at": "",
       "term": "A",
