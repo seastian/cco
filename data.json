@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/05/2020 12:51",
+  "lastUpdate": "07/05/2020 12:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -27,7 +27,7 @@
       "st": "07/05/2020 14:35",
       "matricula": "HCCPZ",
       "posicion": "",
-      "et": "",
+      "et": "7/5/2020 14:30",
       "at": "",
       "term": "A",
       "sector": "",
@@ -35,9 +35,9 @@
       "lF": "",
       "ruta": "UIO",
       "via": "GYE",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "110"
     },
     {
       "tipo": "arribo",
