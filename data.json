@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/05/2020 16:03",
+  "lastUpdate": "07/05/2020 16:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -8,7 +8,7 @@
       "st": "07/05/2020 21:20",
       "matricula": "N700KW",
       "posicion": "",
-      "et": "",
+      "et": "7/5/2020 18:35",
       "at": "",
       "term": "A",
       "sector": "AP",
@@ -16,7 +16,7 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -72,6 +72,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "VCP",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1131",
+      "st": "08/05/2020 04:05",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "LHR",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -454,7 +473,7 @@
       "puerta": "09",
       "ruta": "UIO",
       "via": "GYE",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
