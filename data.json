@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/05/2020 23:33",
+  "lastUpdate": "06/05/2020 23:39",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -169,25 +169,6 @@
       "ruta": "MVD",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "501",
-      "st": "06/05/2020 11:30",
-      "matricula": "CXLSS",
-      "posicion": "50B",
-      "et": "",
-      "at": "6/5/2020 11:36",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
