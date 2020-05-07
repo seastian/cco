@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/05/2020 00:37",
+  "lastUpdate": "07/05/2020 00:43",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -437,25 +437,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "176"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1006",
-      "st": "06/05/2020 12:40",
-      "matricula": "LVFNK",
-      "posicion": "M14",
-      "et": "",
-      "at": "6/5/2020 12:37",
-      "term": "C",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "EZE",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
