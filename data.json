@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/05/2020 00:05",
+  "lastUpdate": "07/05/2020 00:11",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -472,25 +472,6 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "EZE",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "424",
-      "st": "06/05/2020 13:00",
-      "matricula": "CXCLS",
-      "posicion": "50A",
-      "et": "",
-      "at": "6/5/2020 12:07",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
