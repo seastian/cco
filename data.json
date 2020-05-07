@@ -1,6 +1,25 @@
 {
-  "lastUpdate": "06/05/2020 22:42",
+  "lastUpdate": "06/05/2020 22:48",
   "vuelos": [
+    {
+      "tipo": "arribo",
+      "aerolinea": "AMS",
+      "vuelo": "8119",
+      "st": "06/05/2020 23:20",
+      "matricula": "CXMAS",
+      "posicion": "51A",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
     {
       "tipo": "arribo",
       "aerolinea": "AOG",
@@ -720,7 +739,7 @@
       "puerta": "18",
       "ruta": "PVG",
       "via": "AKL",
-      "remark": "HOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -833,6 +852,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "ASU",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AMS",
+      "vuelo": "7119",
+      "st": "07/05/2020 02:00",
+      "matricula": "CXMAS",
+      "posicion": "51A",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
