@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/05/2020 15:12",
+  "lastUpdate": "07/05/2020 15:18",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -454,7 +454,7 @@
       "puerta": "09",
       "ruta": "UIO",
       "via": "GYE",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
