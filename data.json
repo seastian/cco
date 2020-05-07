@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/05/2020 00:11",
+  "lastUpdate": "07/05/2020 00:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -446,14 +446,14 @@
       "matricula": "HP1536",
       "posicion": "09",
       "et": "7/5/2020 00:02",
-      "at": "",
+      "at": "7/5/2020 00:14",
       "term": "A",
       "sector": "",
       "cinta": "9",
       "lF": "009",
       "ruta": "BOG",
       "via": "CLO",
-      "remark": "DEM",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "176"
     },
@@ -472,25 +472,6 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "EZE",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "500",
-      "st": "06/05/2020 13:00",
-      "matricula": "CXLSS",
-      "posicion": "50B",
-      "et": "",
-      "at": "6/5/2020 12:16",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "ASU",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
