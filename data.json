@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/05/2020 14:14",
+  "lastUpdate": "07/05/2020 14:21",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -250,25 +250,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "QT",
-      "vuelo": "4078",
-      "st": "07/05/2020 02:15",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "BOG",
-      "via": "SCL",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "5X",
       "vuelo": "411",
       "st": "07/05/2020 06:55",
@@ -408,7 +389,7 @@
       "matricula": "CXCLS",
       "posicion": "54B",
       "et": "",
-      "at": "",
+      "at": "7/5/2020 14:16",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -416,7 +397,7 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -605,6 +586,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "SCL",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1302",
+      "st": "08/05/2020 02:20",
+      "matricula": "LVGKP",
+      "posicion": "12",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "16",
+      "ruta": "MIA",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
