@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/05/2020 09:40",
+  "lastUpdate": "07/05/2020 09:46",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -112,25 +112,6 @@
       "ruta": "MIA",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "UX",
-      "vuelo": "771",
-      "st": "06/05/2020 21:20",
-      "matricula": "ECNEI",
-      "posicion": "10",
-      "et": "6/5/2020 21:46",
-      "at": "6/5/2020 21:43",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
