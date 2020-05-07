@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/05/2020 19:28",
+  "lastUpdate": "07/05/2020 19:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -95,6 +95,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "BMP",
+      "st": "08/05/2020 07:30",
+      "matricula": "LVBMP",
+      "posicion": "40",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "TUC",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO",
+      "pax": "3"
     },
     {
       "tipo": "arribo",
@@ -209,25 +228,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "102",
-      "st": "07/05/2020 07:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
