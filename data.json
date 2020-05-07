@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/05/2020 09:14",
+  "lastUpdate": "07/05/2020 09:21",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -92,6 +92,25 @@
       "lF": "",
       "ruta": "UIO",
       "via": "GYE",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "2D",
+      "vuelo": "9303",
+      "st": "07/05/2020 21:20",
+      "matricula": "N700KW",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
