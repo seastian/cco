@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/05/2020 14:40",
+  "lastUpdate": "07/05/2020 14:46",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -240,8 +240,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "9",
+      "lF": "009",
       "ruta": "UIO",
       "via": "GYE",
       "remark": "EST",
