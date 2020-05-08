@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/05/2020 14:45",
+  "lastUpdate": "08/05/2020 14:51",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -160,7 +160,7 @@
       "st": "08/05/2020 22:00",
       "matricula": "LVGKP",
       "posicion": "",
-      "et": "",
+      "et": "8/5/2020 22:00",
       "at": "",
       "term": "A",
       "sector": "",
@@ -168,9 +168,9 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "251"
     },
     {
       "tipo": "arribo",
