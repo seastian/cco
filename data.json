@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/05/2020 07:49",
+  "lastUpdate": "08/05/2020 07:56",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -186,6 +186,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "ASU",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1245",
+      "st": "08/05/2020 19:50",
+      "matricula": "LVGKT",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "GRU",
       "via": "",
       "remark": "",
       "sanidad": "NO",
