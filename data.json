@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/05/2020 22:40",
+  "lastUpdate": "07/05/2020 22:46",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -111,25 +111,6 @@
       "lF": "",
       "ruta": "PVG",
       "via": "AKL",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "423",
-      "st": "07/05/2020 11:30",
-      "matricula": "CXCLS",
-      "posicion": "54B",
-      "et": "",
-      "at": "7/5/2020 10:45",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MVD",
-      "via": "",
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
@@ -359,7 +340,7 @@
       "puerta": "18",
       "ruta": "FCO",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
