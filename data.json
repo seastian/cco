@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/05/2020 19:01",
+  "lastUpdate": "08/05/2020 19:07",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -105,7 +105,7 @@
       "posicion": "55",
       "et": "8/5/2020 22:00",
       "at": "",
-      "term": "NTP",
+      "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
