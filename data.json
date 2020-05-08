@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/05/2020 13:22",
+  "lastUpdate": "08/05/2020 13:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -597,7 +597,7 @@
       "st": "08/05/2020 13:10",
       "matricula": "LVGKT",
       "posicion": "12",
-      "et": "",
+      "et": "8/5/2020 13:40",
       "at": "",
       "term": "C",
       "sector": "CPI",
@@ -606,7 +606,7 @@
       "puerta": "16",
       "ruta": "GRU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
