@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/05/2020 13:09",
+  "lastUpdate": "08/05/2020 13:15",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -560,7 +560,7 @@
       "matricula": "CXCLS",
       "posicion": "54A",
       "et": "",
-      "at": "",
+      "at": "8/5/2020 13:13",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -568,7 +568,7 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -606,7 +606,7 @@
       "puerta": "16",
       "ruta": "GRU",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -802,7 +802,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
+      "vuelo": "H24",
       "st": "08/05/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -810,7 +810,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -821,7 +821,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24",
+      "vuelo": "H24N",
       "st": "08/05/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -829,7 +829,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "209",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -853,6 +853,25 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "TK",
+      "vuelo": "6170",
+      "st": "09/05/2020 01:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "IST",
+      "via": "GRU",
       "remark": "HOR",
       "sanidad": "NO"
     }
