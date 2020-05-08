@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/05/2020 12:05",
+  "lastUpdate": "08/05/2020 12:11",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -387,7 +387,7 @@
       "vuelo": "501",
       "st": "08/05/2020 11:30",
       "matricula": "CXLSS",
-      "posicion": "54A",
+      "posicion": "54B",
       "et": "",
       "at": "8/5/2020 12:02",
       "term": "TCA",
@@ -577,7 +577,7 @@
       "vuelo": "424",
       "st": "08/05/2020 12:30",
       "matricula": "CXCLS",
-      "posicion": "54B",
+      "posicion": "54A",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -596,7 +596,7 @@
       "vuelo": "500",
       "st": "08/05/2020 12:30",
       "matricula": "CXLSS",
-      "posicion": "54A",
+      "posicion": "54B",
       "et": "",
       "at": "",
       "term": "TCA",
