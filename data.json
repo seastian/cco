@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/05/2020 16:02",
+  "lastUpdate": "08/05/2020 16:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -65,7 +65,7 @@
       "st": "08/05/2020 17:15",
       "matricula": "PHBHE",
       "posicion": "11",
-      "et": "8/5/2020 17:29",
+      "et": "8/5/2020 17:15",
       "at": "",
       "term": "TCA",
       "sector": "",
