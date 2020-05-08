@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/05/2020 15:55",
+  "lastUpdate": "08/05/2020 16:02",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -247,25 +247,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1131",
-      "st": "08/05/2020 04:05",
-      "matricula": "LVGHQ",
-      "posicion": "14",
-      "et": "8/5/2020 03:51",
-      "at": "8/5/2020 03:59",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "LHR",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "243"
     },
     {
       "tipo": "arribo",
