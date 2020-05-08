@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/05/2020 08:41",
+  "lastUpdate": "08/05/2020 08:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -365,6 +365,25 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
+      "vuelo": "H24N",
+      "st": "07/05/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "209",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "QTR",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
       "vuelo": "H24",
       "st": "07/05/2020 23:59",
       "matricula": "",
@@ -394,25 +413,6 @@
       "sector": "AP",
       "chkFrom": "041",
       "chkTo": "053",
-      "puerta": "",
-      "ruta": "QTR",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "H24N",
-      "st": "07/05/2020 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "209",
-      "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
       "via": "",
@@ -549,7 +549,7 @@
       "puerta": "",
       "ruta": "TUC",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -706,25 +706,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "GG",
-      "vuelo": "4550",
-      "st": "08/05/2020 14:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "8/5/2020 20:00",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AOG",
       "vuelo": "426",
       "st": "08/05/2020 20:00",
@@ -740,6 +721,25 @@
       "ruta": "MVD",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "GG",
+      "vuelo": "4550",
+      "st": "08/05/2020 14:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "8/5/2020 20:00",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "DEM",
       "sanidad": "NO"
     }
   ]
