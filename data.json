@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/05/2020 06:07",
+  "lastUpdate": "08/05/2020 06:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -662,6 +662,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "BOG",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1105",
+      "st": "08/05/2020 18:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
