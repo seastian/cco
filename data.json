@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/05/2020 13:35",
+  "lastUpdate": "08/05/2020 13:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -402,44 +402,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1104",
-      "st": "08/05/2020 01:40",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AMS",
-      "vuelo": "7119",
-      "st": "08/05/2020 01:50",
-      "matricula": "CXMAS",
-      "posicion": "51A",
-      "et": "",
-      "at": "8/5/2020 01:35",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1302",
       "st": "08/05/2020 02:20",
@@ -578,7 +540,7 @@
       "st": "08/05/2020 13:10",
       "matricula": "LVGKT",
       "posicion": "12",
-      "et": "8/5/2020 13:40",
+      "et": "8/5/2020 13:45",
       "at": "",
       "term": "C",
       "sector": "CPI",
@@ -587,7 +549,7 @@
       "puerta": "16",
       "ruta": "GRU",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
