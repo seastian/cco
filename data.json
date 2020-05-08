@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/05/2020 06:58",
+  "lastUpdate": "08/05/2020 07:05",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -511,7 +511,7 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
