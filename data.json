@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/05/2020 07:43",
+  "lastUpdate": "08/05/2020 07:49",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -520,7 +520,7 @@
       "vuelo": "BMP",
       "st": "08/05/2020 08:45",
       "matricula": "LVBMP",
-      "posicion": "",
+      "posicion": "40",
       "et": "",
       "at": "",
       "term": "A",
