@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/05/2020 16:14",
+  "lastUpdate": "08/05/2020 16:21",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -228,6 +228,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1141",
+      "st": "09/05/2020 04:00",
+      "matricula": "LVGIF",
+      "posicion": "",
+      "et": "9/5/2020 04:20",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "FCO",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": "246"
     },
     {
       "tipo": "arribo",
