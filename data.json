@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/05/2020 14:26",
+  "lastUpdate": "08/05/2020 14:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -418,25 +418,6 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1302",
-      "st": "08/05/2020 02:20",
-      "matricula": "LVGKP",
-      "posicion": "12",
-      "et": "",
-      "at": "8/5/2020 02:28",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "16",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
