@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "08/05/2020 20:11",
+  "lastUpdate": "08/05/2020 20:17",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1245",
-      "st": "08/05/2020 19:50",
-      "matricula": "LVGKT",
-      "posicion": "12",
-      "et": "8/5/2020 20:15",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": "163"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AOG",
@@ -38,25 +19,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1303",
-      "st": "08/05/2020 22:00",
-      "matricula": "LVGKP",
-      "posicion": "15",
-      "et": "8/5/2020 22:00",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "251"
     },
     {
       "tipo": "arribo",
@@ -95,6 +57,25 @@
       "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1303",
+      "st": "08/05/2020 22:00",
+      "matricula": "LVGKP",
+      "posicion": "15",
+      "et": "8/5/2020 22:00",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "009",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "251"
     },
     {
       "tipo": "arribo",
@@ -380,6 +361,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1245",
+      "st": "08/05/2020 19:50",
+      "matricula": "LVGKT",
+      "posicion": "12",
+      "et": "8/5/2020 20:15",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "009",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": "163"
     },
     {
       "tipo": "partida",
