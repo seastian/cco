@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/05/2020 04:44",
+  "lastUpdate": "08/05/2020 04:51",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -266,25 +266,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "XL",
-      "vuelo": "1462",
-      "st": "07/05/2020 15:35",
-      "matricula": "HCCPZ",
-      "posicion": "09",
-      "et": "",
-      "at": "7/5/2020 16:50",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "09",
-      "ruta": "UIO",
-      "via": "GYE",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
