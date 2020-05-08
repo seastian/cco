@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/05/2020 03:53",
+  "lastUpdate": "08/05/2020 03:59",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -237,14 +237,14 @@
       "matricula": "LVGHQ",
       "posicion": "14",
       "et": "8/5/2020 03:51",
-      "at": "",
+      "at": "8/5/2020 03:59",
       "term": "A",
       "sector": "",
       "cinta": "9",
       "lF": "009",
       "ruta": "LHR",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "243"
     },
