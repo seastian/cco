@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/05/2020 00:54",
+  "lastUpdate": "08/05/2020 01:00",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -25,8 +25,8 @@
       "aerolinea": "5X",
       "vuelo": "412",
       "st": "08/05/2020 05:12",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "N310UP",
+      "posicion": "54",
       "et": "",
       "at": "",
       "term": "TCA",
