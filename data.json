@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/05/2020 01:00",
+  "lastUpdate": "08/05/2020 01:07",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -178,16 +178,16 @@
       "vuelo": "1405",
       "st": "07/05/2020 22:00",
       "matricula": "N418LA",
-      "posicion": "",
+      "posicion": "56",
       "et": "",
-      "at": "",
+      "at": "8/5/2020 01:06",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "CON",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -425,7 +425,7 @@
       "vuelo": "1406",
       "st": "07/05/2020 23:30",
       "matricula": "N418LA",
-      "posicion": "",
+      "posicion": "56",
       "et": "8/5/2020 02:25",
       "at": "",
       "term": "TCA",
