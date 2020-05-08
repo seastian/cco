@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/05/2020 23:12",
+  "lastUpdate": "07/05/2020 23:18",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -332,7 +332,7 @@
       "matricula": "LVGIF",
       "posicion": "14",
       "et": "",
-      "at": "",
+      "at": "7/5/2020 23:12",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -340,7 +340,7 @@
       "puerta": "18",
       "ruta": "FCO",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
