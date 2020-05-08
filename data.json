@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/05/2020 07:30",
+  "lastUpdate": "08/05/2020 07:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -26,7 +26,7 @@
       "vuelo": "423",
       "st": "08/05/2020 11:30",
       "matricula": "CXCLS",
-      "posicion": "",
+      "posicion": "54B",
       "et": "",
       "at": "",
       "term": "TCA",
