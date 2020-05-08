@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/05/2020 07:37",
+  "lastUpdate": "08/05/2020 07:43",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -313,14 +313,14 @@
       "matricula": "LVBMP",
       "posicion": "40",
       "et": "",
-      "at": "",
+      "at": "8/5/2020 07:38",
       "term": "A",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "TUC",
       "via": "",
-      "remark": "HOR",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "3"
     },
