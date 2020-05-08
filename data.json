@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/05/2020 10:55",
+  "lastUpdate": "08/05/2020 11:01",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -301,6 +301,25 @@
       "lF": "",
       "ruta": "IST",
       "via": "GRU",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "1135",
+      "st": "08/05/2020 23:00",
+      "matricula": "CCBGI",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
