@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/05/2020 17:31",
+  "lastUpdate": "08/05/2020 17:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -560,7 +560,7 @@
       "matricula": "N331QT",
       "posicion": "55",
       "et": "",
-      "at": "",
+      "at": "8/5/2020 17:33",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -568,7 +568,7 @@
       "puerta": "",
       "ruta": "BOG",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
