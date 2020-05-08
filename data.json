@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/05/2020 16:34",
+  "lastUpdate": "08/05/2020 16:40",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -247,25 +247,6 @@
       "remark": "DEM",
       "sanidad": "NO",
       "pax": "246"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "5X",
-      "vuelo": "412",
-      "st": "08/05/2020 05:12",
-      "matricula": "N310UP",
-      "posicion": "54",
-      "et": "8/5/2020 04:24",
-      "at": "8/5/2020 04:38",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "SCL",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
