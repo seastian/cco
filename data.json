@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/05/2020 05:10",
+  "lastUpdate": "08/05/2020 05:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -167,6 +167,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "VCP",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "KL",
+      "vuelo": "701",
+      "st": "08/05/2020 17:15",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "AMS",
       "via": "",
       "remark": "",
       "sanidad": "NO",
