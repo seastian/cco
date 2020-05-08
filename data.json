@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/05/2020 17:44",
+  "lastUpdate": "08/05/2020 17:50",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -26,7 +26,7 @@
       "vuelo": "1245",
       "st": "08/05/2020 19:50",
       "matricula": "LVGKT",
-      "posicion": "",
+      "posicion": "12",
       "et": "",
       "at": "",
       "term": "A",
@@ -634,7 +634,7 @@
       "vuelo": "426",
       "st": "08/05/2020 20:00",
       "matricula": "CXCLS",
-      "posicion": "",
+      "posicion": "51A",
       "et": "",
       "at": "",
       "term": "TCA",
