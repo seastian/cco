@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/05/2020 20:30",
+  "lastUpdate": "08/05/2020 20:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -369,15 +369,15 @@
       "st": "08/05/2020 19:50",
       "matricula": "LVGKT",
       "posicion": "12",
-      "et": "8/5/2020 20:15",
-      "at": "",
+      "et": "",
+      "at": "8/5/2020 20:32",
       "term": "A",
       "sector": "",
       "cinta": "9",
       "lF": "009",
       "ruta": "GRU",
       "via": "",
-      "remark": "DEM",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "163"
     },
