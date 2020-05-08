@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/05/2020 18:54",
+  "lastUpdate": "08/05/2020 19:01",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -102,7 +102,7 @@
       "vuelo": "4551",
       "st": "08/05/2020 12:00",
       "matricula": "N903AR",
-      "posicion": "",
+      "posicion": "55",
       "et": "8/5/2020 22:00",
       "at": "",
       "term": "NTP",
@@ -402,25 +402,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AA",
-      "vuelo": "9435",
-      "st": "08/05/2020 07:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "PRV",
       "vuelo": "BMP",
       "st": "08/05/2020 08:45",
@@ -615,7 +596,7 @@
       "vuelo": "4550",
       "st": "08/05/2020 14:00",
       "matricula": "N903AR",
-      "posicion": "",
+      "posicion": "55",
       "et": "8/5/2020 23:59",
       "at": "",
       "term": "TCA",
