@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/05/2020 09:00",
+  "lastUpdate": "08/05/2020 09:06",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -205,6 +205,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "GRU",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AOG",
+      "vuelo": "421",
+      "st": "08/05/2020 21:00",
+      "matricula": "CXLSS",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MVD",
       "via": "",
       "remark": "",
       "sanidad": "NO",
