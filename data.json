@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/05/2020 04:31",
+  "lastUpdate": "08/05/2020 04:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -586,6 +586,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "VCP",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AV",
+      "vuelo": "291",
+      "st": "08/05/2020 16:36",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "BOG",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
