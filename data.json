@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/05/2020 01:05",
+  "lastUpdate": "09/05/2020 01:11",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -649,6 +649,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "TK",
+      "vuelo": "6170",
+      "st": "09/05/2020 01:10",
+      "matricula": "TCLJJ",
+      "posicion": "54",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "IST",
+      "via": "GRU",
+      "remark": "CER",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "M3",
       "vuelo": "8496",
       "st": "09/05/2020 02:10",
@@ -664,25 +683,6 @@
       "ruta": "SCL",
       "via": "",
       "remark": "EST",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "TK",
-      "vuelo": "6170",
-      "st": "09/05/2020 01:10",
-      "matricula": "TCLJJ",
-      "posicion": "54",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "IST",
-      "via": "GRU",
-      "remark": "HOR",
       "sanidad": "NO"
     },
     {
@@ -729,7 +729,7 @@
       "vuelo": "413",
       "st": "09/05/2020 06:05",
       "matricula": "N310UP",
-      "posicion": "33",
+      "posicion": "56",
       "et": "",
       "at": "",
       "term": "TCA",
