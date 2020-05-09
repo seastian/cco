@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/05/2020 10:20",
+  "lastUpdate": "09/05/2020 10:27",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -250,25 +250,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "526",
-      "st": "08/05/2020 22:00",
-      "matricula": "CXLSS",
-      "posicion": "54A",
-      "et": "",
-      "at": "8/5/2020 22:25",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "UC",
       "vuelo": "1408",
       "st": "08/05/2020 23:30",
@@ -282,6 +263,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "LAX",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "JJ",
+      "vuelo": "H24",
+      "st": "08/05/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "QTR",
       "via": "",
       "remark": "CON",
       "sanidad": "NO"
@@ -341,25 +341,6 @@
       "ruta": "SCL",
       "via": "",
       "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "JJ",
-      "vuelo": "H24",
-      "st": "08/05/2020 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "",
-      "ruta": "QTR",
-      "via": "",
-      "remark": "CON",
       "sanidad": "NO"
     },
     {
