@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "09/05/2020 16:06",
+  "lastUpdate": "09/05/2020 16:12",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1141",
-      "st": "09/05/2020 16:30",
-      "matricula": "CCBGJ",
-      "posicion": "05",
-      "et": "9/5/2020 16:10",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "NZ",
@@ -150,6 +131,25 @@
       "ruta": "VCP",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "1141",
+      "st": "09/05/2020 16:30",
+      "matricula": "CCBGJ",
+      "posicion": "05",
+      "et": "9/5/2020 16:10",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
