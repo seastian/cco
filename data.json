@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/05/2020 05:59",
+  "lastUpdate": "09/05/2020 06:05",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -662,6 +662,25 @@
       "chkTo": "",
       "puerta": "14",
       "ruta": "AMS",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "NZ",
+      "vuelo": "6199",
+      "st": "09/05/2020 18:00",
+      "matricula": "ZKOKM",
+      "posicion": "03",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "02",
+      "ruta": "AKL",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
