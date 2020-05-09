@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/05/2020 16:44",
+  "lastUpdate": "09/05/2020 16:50",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -120,7 +120,7 @@
       "aerolinea": "NZ",
       "vuelo": "6196",
       "st": "09/05/2020 16:40",
-      "matricula": "ZKOKM",
+      "matricula": "ZKOKS",
       "posicion": "04",
       "et": "",
       "at": "",
