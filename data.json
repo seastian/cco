@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/05/2020 19:43",
+  "lastUpdate": "09/05/2020 19:49",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,8 +7,8 @@
       "vuelo": "4022",
       "st": "09/05/2020 21:19",
       "matricula": "HP1852",
-      "posicion": "",
-      "et": "",
+      "posicion": "09",
+      "et": "9/5/2020 21:13",
       "at": "",
       "term": "A",
       "sector": "",
@@ -16,9 +16,9 @@
       "lF": "",
       "ruta": "PTY",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "130"
     },
     {
       "tipo": "arribo",
@@ -254,14 +254,14 @@
       "vuelo": "1852",
       "st": "09/05/2020 22:19",
       "matricula": "HP1852",
-      "posicion": "",
+      "posicion": "09",
       "et": "",
       "at": "",
       "term": "A",
       "sector": "AP",
       "chkFrom": "",
       "chkTo": "",
-      "puerta": "",
+      "puerta": "09",
       "ruta": "PTY",
       "via": "",
       "remark": "HOR",
