@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/05/2020 22:44",
+  "lastUpdate": "08/05/2020 22:50",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -37,7 +37,7 @@
       "via": "GRU",
       "remark": "DEM",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
