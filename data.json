@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/05/2020 04:04",
+  "lastUpdate": "09/05/2020 04:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -345,25 +345,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AV",
-      "vuelo": "291",
-      "st": "08/05/2020 16:36",
-      "matricula": "N795AV",
-      "posicion": "50",
-      "et": "",
-      "at": "8/5/2020 16:09",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "QT",
       "vuelo": "4078",
       "st": "08/05/2020 17:30",
@@ -478,25 +459,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "GG",
-      "vuelo": "4550",
-      "st": "08/05/2020 14:00",
-      "matricula": "N903AR",
-      "posicion": "55",
-      "et": "8/5/2020 23:59",
-      "at": "8/5/2020 23:25",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "H24",
       "st": "08/05/2020 23:59",
@@ -550,6 +512,25 @@
       "ruta": "QTR",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "GG",
+      "vuelo": "4550",
+      "st": "08/05/2020 14:00",
+      "matricula": "N903AR",
+      "posicion": "55",
+      "et": "8/5/2020 23:59",
+      "at": "8/5/2020 23:25",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
