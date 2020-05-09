@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/05/2020 23:48",
+  "lastUpdate": "08/05/2020 23:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -636,7 +636,7 @@
       "matricula": "N903AR",
       "posicion": "55",
       "et": "8/5/2020 23:59",
-      "at": "",
+      "at": "8/5/2020 23:25",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -644,7 +644,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
