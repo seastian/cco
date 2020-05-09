@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/05/2020 08:26",
+  "lastUpdate": "09/05/2020 08:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -114,25 +114,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1245",
-      "st": "08/05/2020 19:50",
-      "matricula": "LVGKT",
-      "posicion": "12",
-      "et": "",
-      "at": "8/5/2020 20:32",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "163"
     },
     {
       "tipo": "arribo",
