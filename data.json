@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/05/2020 11:31",
+  "lastUpdate": "09/05/2020 11:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -117,25 +117,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "M3",
-      "vuelo": "8496",
-      "st": "08/05/2020 23:45",
-      "matricula": "PRABB",
-      "posicion": "55",
-      "et": "8/5/2020 23:44",
-      "at": "8/5/2020 23:35",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AMS",
       "vuelo": "8119",
       "st": "09/05/2020 00:00",
@@ -232,7 +213,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24",
+      "vuelo": "H24N",
       "st": "08/05/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -240,7 +221,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "209",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -251,7 +232,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
+      "vuelo": "H24",
       "st": "08/05/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -259,7 +240,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -389,7 +370,7 @@
       "matricula": "LVCIH",
       "posicion": "15B",
       "et": "",
-      "at": "",
+      "at": "9/5/2020 11:35",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -397,7 +378,7 @@
       "puerta": "20",
       "ruta": "SCL",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
