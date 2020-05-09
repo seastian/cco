@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/05/2020 05:27",
+  "lastUpdate": "09/05/2020 05:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -342,25 +342,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "246"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "QT",
-      "vuelo": "4078",
-      "st": "08/05/2020 17:30",
-      "matricula": "N331QT",
-      "posicion": "55",
-      "et": "",
-      "at": "8/5/2020 17:33",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
