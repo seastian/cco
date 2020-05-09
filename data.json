@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/05/2020 09:17",
+  "lastUpdate": "09/05/2020 09:23",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -117,6 +117,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "CM",
+      "vuelo": "4022",
+      "st": "09/05/2020 21:19",
+      "matricula": "HP1852",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "PTY",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "AOG",
       "vuelo": "421",
       "st": "08/05/2020 21:00",
@@ -150,25 +169,6 @@
       "ruta": "MIA",
       "via": "",
       "remark": "CON",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "GG",
-      "vuelo": "4551",
-      "st": "08/05/2020 12:00",
-      "matricula": "N903AR",
-      "posicion": "55",
-      "et": "8/5/2020 22:00",
-      "at": "8/5/2020 21:17",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "MVD",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
