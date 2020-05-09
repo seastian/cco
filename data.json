@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/05/2020 06:43",
+  "lastUpdate": "09/05/2020 06:50",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -603,7 +603,7 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "19",
       "ruta": "SCL",
       "via": "",
       "remark": "HOR",
