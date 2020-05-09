@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/05/2020 09:36",
+  "lastUpdate": "09/05/2020 09:42",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -46,7 +46,7 @@
       "st": "09/05/2020 16:30",
       "matricula": "CCBGJ",
       "posicion": "",
-      "et": "",
+      "et": "9/5/2020 16:10",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -54,7 +54,7 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
