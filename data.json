@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/05/2020 00:33",
+  "lastUpdate": "09/05/2020 00:39",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -55,25 +55,6 @@
       "ruta": "PVG",
       "via": "AKL",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AV",
-      "vuelo": "290",
-      "st": "08/05/2020 13:36",
-      "matricula": "N795AV",
-      "posicion": "50",
-      "et": "8/5/2020 12:20",
-      "at": "8/5/2020 12:35",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -279,7 +260,7 @@
       "term": "A",
       "sector": "",
       "cinta": "9",
-      "lF": "009",
+      "lF": "010",
       "ruta": "MIA",
       "via": "",
       "remark": "ATE",
