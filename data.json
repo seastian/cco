@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/05/2020 11:05",
+  "lastUpdate": "09/05/2020 11:12",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -454,7 +454,7 @@
       "puerta": "20",
       "ruta": "SCL",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -568,6 +568,25 @@
       "puerta": "",
       "ruta": "PTY",
       "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1084",
+      "st": "09/05/2020 23:10",
+      "matricula": "LVGIF",
+      "posicion": "16",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "22",
+      "ruta": "PVG",
+      "via": "AKL",
       "remark": "HOR",
       "sanidad": "NO"
     }
