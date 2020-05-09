@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/05/2020 11:24",
+  "lastUpdate": "09/05/2020 11:31",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -212,25 +212,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1408",
-      "st": "08/05/2020 23:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "LAX",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "JJ",
       "vuelo": "H24",
       "st": "08/05/2020 23:59",
@@ -265,25 +246,6 @@
       "ruta": "QTR",
       "via": "",
       "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "GG",
-      "vuelo": "4550",
-      "st": "08/05/2020 14:00",
-      "matricula": "N903AR",
-      "posicion": "55",
-      "et": "8/5/2020 23:59",
-      "at": "8/5/2020 23:25",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
       "sanidad": "NO"
     },
     {
