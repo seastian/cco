@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/05/2020 10:59",
+  "lastUpdate": "09/05/2020 11:05",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -112,25 +112,6 @@
       "ruta": "PTY",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1135",
-      "st": "08/05/2020 23:00",
-      "matricula": "CCBGI",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
@@ -473,7 +454,7 @@
       "puerta": "20",
       "ruta": "SCL",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
