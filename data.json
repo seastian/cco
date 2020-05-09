@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/05/2020 10:14",
+  "lastUpdate": "09/05/2020 10:20",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -586,6 +586,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MIA",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "CM",
+      "vuelo": "1852",
+      "st": "09/05/2020 22:19",
+      "matricula": "HP1852",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "PTY",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
