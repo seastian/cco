@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "09/05/2020 16:18",
+  "lastUpdate": "09/05/2020 16:25",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "NZ",
-      "vuelo": "6196",
-      "st": "09/05/2020 16:40",
-      "matricula": "ZKOKM",
-      "posicion": "04",
-      "et": "9/5/2020 16:20",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "AKL",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "UC",
@@ -150,6 +131,25 @@
       "ruta": "MIA",
       "via": "",
       "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "NZ",
+      "vuelo": "6196",
+      "st": "09/05/2020 16:40",
+      "matricula": "ZKOKM",
+      "posicion": "04",
+      "et": "9/5/2020 16:20",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "AKL",
+      "via": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
