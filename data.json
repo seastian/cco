@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/05/2020 04:48",
+  "lastUpdate": "09/05/2020 04:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -72,6 +72,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "AKL",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AU",
+      "vuelo": "2285",
+      "st": "09/05/2020 16:50",
+      "matricula": "LVCIH",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
       "via": "",
       "remark": "",
       "sanidad": "NO",
