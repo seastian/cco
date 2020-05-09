@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/05/2020 04:36",
+  "lastUpdate": "09/05/2020 04:42",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -53,6 +53,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "MIA",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "NZ",
+      "vuelo": "6196",
+      "st": "09/05/2020 16:40",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "AKL",
       "via": "",
       "remark": "",
       "sanidad": "NO",
