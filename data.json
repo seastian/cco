@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/05/2020 09:29",
+  "lastUpdate": "09/05/2020 09:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -539,14 +539,14 @@
       "vuelo": "2284",
       "st": "09/05/2020 11:20",
       "matricula": "LVCIH",
-      "posicion": "22B",
+      "posicion": "15B",
       "et": "",
       "at": "",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "19",
+      "puerta": "21",
       "ruta": "SCL",
       "via": "",
       "remark": "HOR",
