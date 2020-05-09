@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/05/2020 09:49",
+  "lastUpdate": "09/05/2020 09:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -136,22 +136,22 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "421",
-      "st": "08/05/2020 21:00",
-      "matricula": "CXLSS",
-      "posicion": "54A",
-      "et": "",
-      "at": "8/5/2020 21:53",
-      "term": "TCA",
+      "aerolinea": "AR",
+      "vuelo": "1303",
+      "st": "08/05/2020 22:00",
+      "matricula": "LVGKP",
+      "posicion": "15",
+      "et": "8/5/2020 22:00",
+      "at": "8/5/2020 22:11",
+      "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MVD",
+      "cinta": "9",
+      "lF": "010",
+      "ruta": "MIA",
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "251"
     },
     {
       "tipo": "arribo",
@@ -171,25 +171,6 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1303",
-      "st": "08/05/2020 22:00",
-      "matricula": "LVGKP",
-      "posicion": "15",
-      "et": "8/5/2020 22:00",
-      "at": "8/5/2020 22:11",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "010",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "251"
     },
     {
       "tipo": "arribo",
