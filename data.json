@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/05/2020 00:26",
+  "lastUpdate": "09/05/2020 00:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -26,7 +26,7 @@
       "vuelo": "1141",
       "st": "09/05/2020 04:00",
       "matricula": "LVGIF",
-      "posicion": "",
+      "posicion": "16",
       "et": "9/5/2020 04:20",
       "at": "",
       "term": "A",
@@ -380,25 +380,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "2D",
-      "vuelo": "888",
-      "st": "08/05/2020 11:30",
-      "matricula": "N700KW",
-      "posicion": "10",
-      "et": "",
-      "at": "8/5/2020 12:30",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "062",
-      "chkTo": "067",
-      "puerta": "10",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
