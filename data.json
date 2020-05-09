@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/05/2020 13:38",
+  "lastUpdate": "09/05/2020 13:45",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -26,7 +26,7 @@
       "vuelo": "1141",
       "st": "09/05/2020 16:30",
       "matricula": "CCBGJ",
-      "posicion": "09",
+      "posicion": "05",
       "et": "9/5/2020 16:10",
       "at": "",
       "term": "TCA",
@@ -44,9 +44,9 @@
       "aerolinea": "NZ",
       "vuelo": "6196",
       "st": "09/05/2020 16:40",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
+      "matricula": "ZKOKM",
+      "posicion": "04",
+      "et": "9/5/2020 16:20",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -54,7 +54,7 @@
       "lF": "",
       "ruta": "AKL",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -64,7 +64,7 @@
       "vuelo": "2285",
       "st": "09/05/2020 16:50",
       "matricula": "LVCIH",
-      "posicion": "",
+      "posicion": "15B",
       "et": "",
       "at": "",
       "term": "A",
