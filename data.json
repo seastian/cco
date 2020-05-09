@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/05/2020 02:09",
+  "lastUpdate": "09/05/2020 02:15",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -12,8 +12,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "9",
+      "lF": "009",
       "ruta": "FCO",
       "via": "",
       "remark": "DEM",
@@ -25,9 +25,9 @@
       "aerolinea": "AR",
       "vuelo": "1083",
       "st": "09/05/2020 11:40",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
+      "matricula": "LVFVI",
+      "posicion": "50",
+      "et": "9/5/2020 11:20",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -35,9 +35,9 @@
       "lF": "",
       "ruta": "PVG",
       "via": "AKL",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
