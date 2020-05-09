@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/05/2020 12:54",
+  "lastUpdate": "09/05/2020 13:00",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -171,25 +171,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LA",
-      "vuelo": "1135",
-      "st": "09/05/2020 01:00",
-      "matricula": "CCBGI",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
