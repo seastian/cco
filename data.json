@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/05/2020 18:07",
+  "lastUpdate": "09/05/2020 18:13",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -180,32 +180,13 @@
       "matricula": "ZKOKM",
       "posicion": "03",
       "et": "",
-      "at": "",
+      "at": "9/5/2020 18:11",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
       "chkTo": "",
       "puerta": "02",
       "ruta": "AKL",
-      "via": "",
-      "remark": "CER",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LA",
-      "vuelo": "1141",
-      "st": "09/05/2020 18:30",
-      "matricula": "CCBGJ",
-      "posicion": "05",
-      "et": "",
-      "at": "9/5/2020 17:42",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "04",
-      "ruta": "SCL",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -226,7 +207,26 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LA",
+      "vuelo": "1141",
+      "st": "09/05/2020 18:30",
+      "matricula": "CCBGJ",
+      "posicion": "05",
+      "et": "",
+      "at": "9/5/2020 17:42",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "04",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
