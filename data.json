@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/05/2020 03:00",
+  "lastUpdate": "09/05/2020 03:06",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -681,6 +681,25 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "SCL",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "KL",
+      "vuelo": "702",
+      "st": "09/05/2020 15:00",
+      "matricula": "PHBHE",
+      "posicion": "11",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "14",
+      "ruta": "AMS",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
