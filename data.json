@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/05/2020 02:34",
+  "lastUpdate": "09/05/2020 02:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -38,25 +38,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "0"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "QT",
-      "vuelo": "4096",
-      "st": "08/05/2020 15:30",
-      "matricula": "N331QT",
-      "posicion": "55",
-      "et": "8/5/2020 15:00",
-      "at": "8/5/2020 14:35",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "BOG",
-      "via": "SCL",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -193,25 +174,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "GG",
-      "vuelo": "4551",
-      "st": "08/05/2020 12:00",
-      "matricula": "N903AR",
-      "posicion": "55",
-      "et": "8/5/2020 22:00",
-      "at": "8/5/2020 21:17",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "MVD",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "UC",
       "vuelo": "1407",
       "st": "08/05/2020 22:00",
@@ -247,6 +209,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "251"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "GG",
+      "vuelo": "4551",
+      "st": "08/05/2020 12:00",
+      "matricula": "N903AR",
+      "posicion": "55",
+      "et": "8/5/2020 22:00",
+      "at": "8/5/2020 21:17",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "MVD",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
