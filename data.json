@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/05/2020 16:09",
+  "lastUpdate": "10/05/2020 16:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -155,25 +155,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "NZ",
-      "vuelo": "6196",
-      "st": "09/05/2020 16:40",
-      "matricula": "ZKOKS",
-      "posicion": "11",
-      "et": "9/5/2020 04:10",
-      "at": "9/5/2020 04:10",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "AKL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AOG",
       "vuelo": "423",
       "st": "10/05/2020 11:30",
@@ -251,7 +232,7 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "9831",
+      "vuelo": "8472",
       "st": "10/05/2020 14:00",
       "matricula": "",
       "posicion": "",
@@ -270,7 +251,7 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "8472",
+      "vuelo": "9831",
       "st": "10/05/2020 14:00",
       "matricula": "",
       "posicion": "",
