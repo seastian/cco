@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "10/05/2020 15:44",
+  "lastUpdate": "10/05/2020 15:50",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "NZ",
-      "vuelo": "6030",
-      "st": "10/05/2020 15:50",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "AKL",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "UC",
@@ -302,6 +283,25 @@
       "ruta": "VCP",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "NZ",
+      "vuelo": "6030",
+      "st": "10/05/2020 15:50",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "AKL",
+      "via": "",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
