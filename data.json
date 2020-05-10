@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/05/2020 21:38",
+  "lastUpdate": "09/05/2020 21:44",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,7 +7,7 @@
       "vuelo": "6196",
       "st": "09/05/2020 16:40",
       "matricula": "ZKOKS",
-      "posicion": "04",
+      "posicion": "11",
       "et": "9/5/2020 04:19",
       "at": "",
       "term": "TCA",
