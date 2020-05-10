@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/05/2020 22:29",
+  "lastUpdate": "09/05/2020 22:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -19,25 +19,6 @@
       "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1083",
-      "st": "09/05/2020 11:40",
-      "matricula": "LVFVI",
-      "posicion": "50",
-      "et": "9/5/2020 11:20",
-      "at": "9/5/2020 10:34",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "PVG",
-      "via": "AKL",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -79,25 +60,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AU",
-      "vuelo": "2285",
-      "st": "09/05/2020 16:50",
-      "matricula": "LVCIH",
-      "posicion": "15B",
-      "et": "9/5/2020 17:00",
-      "at": "9/5/2020 16:50",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "96"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "UC",
       "vuelo": "1106",
       "st": "09/05/2020 17:00",
@@ -114,6 +76,25 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AU",
+      "vuelo": "2285",
+      "st": "09/05/2020 16:50",
+      "matricula": "LVCIH",
+      "posicion": "15B",
+      "et": "9/5/2020 17:00",
+      "at": "9/5/2020 16:50",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "009",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "96"
     },
     {
       "tipo": "arribo",
@@ -264,7 +245,7 @@
       "puerta": "09",
       "ruta": "PTY",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
