@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "10/05/2020 17:45",
+  "lastUpdate": "10/05/2020 17:52",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1273",
-      "st": "10/05/2020 17:55",
-      "matricula": "LVGVB",
-      "posicion": "12",
-      "et": "10/5/2020 18:00",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "FLN",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "142"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AOG",
@@ -285,6 +266,25 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1273",
+      "st": "10/05/2020 17:55",
+      "matricula": "LVGVB",
+      "posicion": "12",
+      "et": "10/5/2020 18:00",
+      "at": "10/5/2020 17:50",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "009",
+      "ruta": "FLN",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "142"
     },
     {
       "tipo": "partida",
