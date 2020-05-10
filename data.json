@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/05/2020 03:03",
+  "lastUpdate": "10/05/2020 03:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -403,9 +403,9 @@
     {
       "tipo": "partida",
       "aerolinea": "AOG",
-      "vuelo": "500",
+      "vuelo": "424",
       "st": "10/05/2020 12:30",
-      "matricula": "CXLSS",
+      "matricula": "CXCLS",
       "posicion": "",
       "et": "",
       "at": "",
@@ -414,7 +414,7 @@
       "chkFrom": "",
       "chkTo": "",
       "puerta": "",
-      "ruta": "ASU",
+      "ruta": "MVD",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -441,9 +441,9 @@
     {
       "tipo": "partida",
       "aerolinea": "AOG",
-      "vuelo": "424",
+      "vuelo": "500",
       "st": "10/05/2020 12:30",
-      "matricula": "CXCLS",
+      "matricula": "CXLSS",
       "posicion": "",
       "et": "",
       "at": "",
@@ -452,7 +452,7 @@
       "chkFrom": "",
       "chkTo": "",
       "puerta": "",
-      "ruta": "MVD",
+      "ruta": "ASU",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -472,6 +472,44 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "FLN",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "9832",
+      "st": "10/05/2020 15:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MAO",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "8472",
+      "st": "10/05/2020 15:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
