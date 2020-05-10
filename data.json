@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/05/2020 23:07",
+  "lastUpdate": "09/05/2020 23:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -264,13 +264,13 @@
       "puerta": "22",
       "ruta": "PVG",
       "via": "AKL",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24",
+      "vuelo": "H24N",
       "st": "09/05/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -278,7 +278,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "209",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -308,7 +308,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
+      "vuelo": "H24",
       "st": "09/05/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -316,7 +316,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
