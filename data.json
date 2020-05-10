@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/05/2020 04:59",
+  "lastUpdate": "10/05/2020 05:05",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -23,9 +23,9 @@
     {
       "tipo": "arribo",
       "aerolinea": "AOG",
-      "vuelo": "423",
+      "vuelo": "421",
       "st": "10/05/2020 11:30",
-      "matricula": "CXCLS",
+      "matricula": "CXLSS",
       "posicion": "",
       "et": "",
       "at": "",
@@ -42,9 +42,9 @@
     {
       "tipo": "arribo",
       "aerolinea": "AOG",
-      "vuelo": "421",
+      "vuelo": "423",
       "st": "10/05/2020 11:30",
-      "matricula": "CXLSS",
+      "matricula": "CXCLS",
       "posicion": "",
       "et": "",
       "at": "",
@@ -137,8 +137,8 @@
     {
       "tipo": "arribo",
       "aerolinea": "UC",
-      "vuelo": "1106",
-      "st": "09/05/2020 17:00",
+      "vuelo": "1107",
+      "st": "10/05/2020 17:00",
       "matricula": "",
       "posicion": "",
       "et": "",
@@ -149,7 +149,7 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "CON",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
