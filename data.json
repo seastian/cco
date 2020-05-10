@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "10/05/2020 11:41",
+  "lastUpdate": "10/05/2020 11:48",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1101",
-      "st": "10/05/2020 11:30",
-      "matricula": "CCBEB",
-      "posicion": "10",
-      "et": "10/5/2020 11:45",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "214"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AV",
@@ -266,6 +247,25 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "1101",
+      "st": "10/05/2020 11:30",
+      "matricula": "CCBEB",
+      "posicion": "10",
+      "et": "10/5/2020 11:45",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "009",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "214"
     },
     {
       "tipo": "partida",
