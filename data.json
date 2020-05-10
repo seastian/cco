@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/05/2020 13:36",
+  "lastUpdate": "10/05/2020 13:43",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -313,7 +313,7 @@
       "matricula": "CXCLS",
       "posicion": "50A",
       "et": "",
-      "at": "",
+      "at": "10/5/2020 13:38",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -321,7 +321,7 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -359,7 +359,7 @@
       "puerta": "10",
       "ruta": "SCL",
       "via": "",
-      "remark": "PRE",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
