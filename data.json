@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/05/2020 10:31",
+  "lastUpdate": "10/05/2020 10:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -46,7 +46,7 @@
       "st": "10/05/2020 11:30",
       "matricula": "CCBEB",
       "posicion": "",
-      "et": "",
+      "et": "10/5/2020 11:45",
       "at": "",
       "term": "A",
       "sector": "",
@@ -54,9 +54,9 @@
       "lF": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "200"
     },
     {
       "tipo": "arribo",
