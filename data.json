@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "09/05/2020 21:12",
+  "lastUpdate": "09/05/2020 21:19",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "CM",
-      "vuelo": "4022",
-      "st": "09/05/2020 21:19",
-      "matricula": "HP1852",
-      "posicion": "09",
-      "et": "9/5/2020 21:13",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "PTY",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "130"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "NZ",
@@ -133,6 +114,25 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "CM",
+      "vuelo": "4022",
+      "st": "09/05/2020 21:19",
+      "matricula": "HP1852",
+      "posicion": "09",
+      "et": "9/5/2020 21:13",
+      "at": "9/5/2020 21:14",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "009",
+      "ruta": "PTY",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "130"
     },
     {
       "tipo": "partida",
