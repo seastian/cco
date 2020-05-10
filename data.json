@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/05/2020 14:14",
+  "lastUpdate": "10/05/2020 14:21",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -149,6 +149,25 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "5X",
+      "vuelo": "416",
+      "st": "11/05/2020 02:19",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "SCL",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
