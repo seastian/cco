@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/05/2020 15:57",
+  "lastUpdate": "10/05/2020 16:03",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -27,7 +27,7 @@
       "st": "10/05/2020 17:55",
       "matricula": "LVGVB",
       "posicion": "",
-      "et": "",
+      "et": "10/5/2020 18:00",
       "at": "",
       "term": "A",
       "sector": "",
@@ -35,9 +35,9 @@
       "lF": "",
       "ruta": "FLN",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "142"
     },
     {
       "tipo": "arribo",
