@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/05/2020 20:06",
+  "lastUpdate": "10/05/2020 20:12",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -681,6 +681,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MVD",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LH",
+      "vuelo": "8265",
+      "st": "11/05/2020 08:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "FRA",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
