@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/05/2020 23:20",
+  "lastUpdate": "09/05/2020 23:26",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -237,7 +237,7 @@
       "matricula": "HP1852",
       "posicion": "09",
       "et": "",
-      "at": "",
+      "at": "9/5/2020 22:38",
       "term": "A",
       "sector": "AP",
       "chkFrom": "",
@@ -245,7 +245,7 @@
       "puerta": "09",
       "ruta": "PTY",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -264,7 +264,7 @@
       "puerta": "22",
       "ruta": "PVG",
       "via": "AKL",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
