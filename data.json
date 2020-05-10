@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/05/2020 00:43",
+  "lastUpdate": "10/05/2020 00:49",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -415,6 +415,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MVD",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1272",
+      "st": "10/05/2020 12:45",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "FLN",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
