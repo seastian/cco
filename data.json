@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/05/2020 23:33",
+  "lastUpdate": "09/05/2020 23:39",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -171,25 +171,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "130"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AU",
-      "vuelo": "2284",
-      "st": "09/05/2020 11:20",
-      "matricula": "LVCIH",
-      "posicion": "15B",
-      "et": "",
-      "at": "9/5/2020 11:35",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "20",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
