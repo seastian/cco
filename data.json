@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/05/2020 18:36",
+  "lastUpdate": "10/05/2020 18:43",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -111,6 +111,25 @@
       "lF": "",
       "ruta": "SCL",
       "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LH",
+      "vuelo": "8264",
+      "st": "11/05/2020 06:40",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "FRA",
+      "via": "MVD",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
@@ -565,7 +584,7 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "19",
+      "puerta": "18",
       "ruta": "MAD",
       "via": "",
       "remark": "HOR",
