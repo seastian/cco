@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/05/2020 21:06",
+  "lastUpdate": "09/05/2020 21:12",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -12,8 +12,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "9",
+      "lF": "009",
       "ruta": "PTY",
       "via": "",
       "remark": "EST",
