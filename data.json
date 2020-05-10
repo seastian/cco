@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/05/2020 10:18",
+  "lastUpdate": "10/05/2020 10:24",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -432,7 +432,7 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "13",
       "ruta": "FLN",
       "via": "",
       "remark": "HOR",
