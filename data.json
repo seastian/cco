@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/05/2020 01:57",
+  "lastUpdate": "11/05/2020 02:03",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -80,8 +80,8 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "8472",
-      "st": "10/05/2020 14:00",
+      "vuelo": "8410",
+      "st": "11/05/2020 14:00",
       "matricula": "",
       "posicion": "",
       "et": "",
@@ -92,15 +92,15 @@
       "lF": "",
       "ruta": "VCP",
       "via": "",
-      "remark": "CON",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "9831",
-      "st": "10/05/2020 14:00",
+      "vuelo": "8473",
+      "st": "11/05/2020 14:00",
       "matricula": "",
       "posicion": "",
       "et": "",
@@ -109,9 +109,9 @@
       "sector": "",
       "cinta": "",
       "lF": "",
-      "ruta": "VCP",
+      "ruta": "MIA",
       "via": "",
-      "remark": "CON",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
