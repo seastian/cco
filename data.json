@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/05/2020 19:35",
+  "lastUpdate": "11/05/2020 19:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -45,7 +45,7 @@
       "vuelo": "4099",
       "st": "11/05/2020 19:15",
       "matricula": "N335QT",
-      "posicion": "",
+      "posicion": "55",
       "et": "11/5/2020 20:40",
       "at": "",
       "term": "TCA",
@@ -527,7 +527,7 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "19",
+      "puerta": "18",
       "ruta": "PVG",
       "via": "AKL",
       "remark": "HOR",
@@ -539,7 +539,7 @@
       "vuelo": "4078",
       "st": "11/05/2020 21:15",
       "matricula": "N335QT",
-      "posicion": "",
+      "posicion": "55",
       "et": "11/5/2020 23:15",
       "at": "",
       "term": "TCA",
