@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/05/2020 20:12",
+  "lastUpdate": "11/05/2020 20:19",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -313,14 +313,14 @@
       "matricula": "GZBKF",
       "posicion": "10",
       "et": "11/5/2020 20:10",
-      "at": "",
+      "at": "11/5/2020 20:17",
       "term": "A",
       "sector": "",
       "cinta": "9",
       "lF": "009",
       "ruta": "LHR",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "48"
     },
