@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/05/2020 23:39",
+  "lastUpdate": "10/05/2020 23:45",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -625,7 +625,7 @@
       "puerta": "18",
       "ruta": "MAD",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
