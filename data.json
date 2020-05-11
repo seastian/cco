@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/05/2020 08:43",
+  "lastUpdate": "11/05/2020 08:50",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -27,7 +27,7 @@
       "st": "11/05/2020 11:00",
       "matricula": "CCCZZ",
       "posicion": "",
-      "et": "",
+      "et": "11/5/2020 12:45",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -35,7 +35,7 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "",
+      "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
     },
@@ -498,8 +498,8 @@
     {
       "tipo": "partida",
       "aerolinea": "UC",
-      "vuelo": "1400",
-      "st": "11/05/2020 13:40",
+      "vuelo": "1404",
+      "st": "11/05/2020 13:55",
       "matricula": "CCCZZ",
       "posicion": "",
       "et": "",
