@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "11/05/2020 12:29",
+  "lastUpdate": "11/05/2020 12:35",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1400",
-      "st": "11/05/2020 11:00",
-      "matricula": "CCCZZ",
-      "posicion": "54",
-      "et": "11/5/2020 12:45",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "M3",
@@ -268,6 +249,25 @@
       "pax": "8"
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "UC",
+      "vuelo": "1400",
+      "st": "11/05/2020 11:00",
+      "matricula": "CCCZZ",
+      "posicion": "54",
+      "et": "11/5/2020 12:45",
+      "at": "11/5/2020 12:29",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
       "tipo": "partida",
       "aerolinea": "AOG",
       "vuelo": "102",
@@ -397,7 +397,7 @@
       "puerta": "",
       "ruta": "LAX",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
