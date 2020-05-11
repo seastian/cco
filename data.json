@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/05/2020 04:45",
+  "lastUpdate": "11/05/2020 04:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -285,25 +285,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AV",
-      "vuelo": "290",
-      "st": "10/05/2020 16:36",
-      "matricula": "N783AV",
-      "posicion": "54",
-      "et": "",
-      "at": "10/5/2020 16:49",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
