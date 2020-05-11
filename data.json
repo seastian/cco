@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/05/2020 07:28",
+  "lastUpdate": "11/05/2020 07:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -112,25 +112,6 @@
       "ruta": "BOG",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "GTI",
-      "vuelo": "033",
-      "st": "10/05/2020 23:05",
-      "matricula": "N493MC",
-      "posicion": "55",
-      "et": "10/5/2020 19:40",
-      "at": "10/5/2020 19:32",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -345,6 +326,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "JJ",
+      "vuelo": "H24",
+      "st": "10/05/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "QTR",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "H24N",
       "st": "10/05/2020 23:59",
@@ -375,25 +375,6 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
-      "ruta": "QTR",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "JJ",
-      "vuelo": "H24",
-      "st": "10/05/2020 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
       "puerta": "",
       "ruta": "QTR",
       "via": "",
@@ -435,7 +416,7 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
