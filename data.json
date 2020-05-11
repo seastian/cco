@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/05/2020 17:11",
+  "lastUpdate": "11/05/2020 17:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -79,25 +79,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "CM",
-      "vuelo": "4018",
-      "st": "11/05/2020 22:57",
-      "matricula": "HP1853",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "PTY",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "M3",
       "vuelo": "8490",
       "st": "11/05/2020 23:45",
@@ -150,6 +131,25 @@
       "ruta": "MIA",
       "via": "",
       "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "CM",
+      "vuelo": "4018",
+      "st": "11/05/2020 22:57",
+      "matricula": "HP1853",
+      "posicion": "",
+      "et": "12/5/2020 01:30",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "PTY",
+      "via": "",
+      "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
     },
