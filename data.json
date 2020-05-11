@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/05/2020 13:19",
+  "lastUpdate": "11/05/2020 13:25",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -178,6 +178,25 @@
       "vuelo": "1102",
       "st": "12/05/2020 00:10",
       "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "UC",
+      "vuelo": "1101",
+      "st": "12/05/2020 01:25",
+      "matricula": "N534LA",
       "posicion": "",
       "et": "",
       "at": "",
