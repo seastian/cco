@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/05/2020 15:37",
+  "lastUpdate": "11/05/2020 15:43",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -520,7 +520,7 @@
       "vuelo": "417",
       "st": "11/05/2020 20:15",
       "matricula": "N310UP",
-      "posicion": "62",
+      "posicion": "56",
       "et": "",
       "at": "",
       "term": "TCA",
