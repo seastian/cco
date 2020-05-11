@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/05/2020 12:10",
+  "lastUpdate": "11/05/2020 12:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -307,25 +307,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1132",
-      "st": "10/05/2020 23:55",
-      "matricula": "LVGHQ",
-      "posicion": "14",
-      "et": "",
-      "at": "11/5/2020 00:16",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "18",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "UC",
       "vuelo": "1101",
       "st": "11/05/2020 01:30",
@@ -577,7 +558,7 @@
       "vuelo": "1086",
       "st": "11/05/2020 23:10",
       "matricula": "LVFVI",
-      "posicion": "",
+      "posicion": "33",
       "et": "",
       "at": "",
       "term": "TCA",
