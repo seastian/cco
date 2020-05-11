@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/05/2020 23:14",
+  "lastUpdate": "10/05/2020 23:20",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -27,7 +27,7 @@
       "st": "11/05/2020 02:19",
       "matricula": "N310UP",
       "posicion": "55",
-      "et": "",
+      "et": "11/5/2020 00:34",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -35,7 +35,7 @@
       "lF": "",
       "ruta": "MIA",
       "via": "SCL",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
