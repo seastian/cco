@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/05/2020 04:58",
+  "lastUpdate": "11/05/2020 05:04",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -131,25 +131,6 @@
       "ruta": "MVD",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1107",
-      "st": "10/05/2020 17:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
