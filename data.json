@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/05/2020 02:28",
+  "lastUpdate": "11/05/2020 02:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -383,6 +383,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "102",
+      "st": "11/05/2020 02:30",
+      "matricula": "CXCAR",
+      "posicion": "",
+      "et": "10/5/2020 22:00",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "GTI",
       "vuelo": "033",
       "st": "11/05/2020 01:15",
@@ -531,25 +550,6 @@
       "ruta": "AKL",
       "via": "",
       "remark": "DEM",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "102",
-      "st": "11/05/2020 02:30",
-      "matricula": "CXCAR",
-      "posicion": "",
-      "et": "10/5/2020 22:00",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "EST",
       "sanidad": "NO"
     },
     {
