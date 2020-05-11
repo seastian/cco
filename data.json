@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/05/2020 14:41",
+  "lastUpdate": "11/05/2020 14:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -45,7 +45,7 @@
       "vuelo": "9128",
       "st": "11/05/2020 20:20",
       "matricula": "GZBKF",
-      "posicion": "",
+      "posicion": "10",
       "et": "11/5/2020 20:12",
       "at": "",
       "term": "A",
