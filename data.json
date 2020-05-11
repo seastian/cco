@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/05/2020 19:16",
+  "lastUpdate": "11/05/2020 19:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -8,7 +8,7 @@
       "st": "11/05/2020 20:20",
       "matricula": "GZBKF",
       "posicion": "10",
-      "et": "11/5/2020 20:12",
+      "et": "11/5/2020 20:10",
       "at": "",
       "term": "A",
       "sector": "",
