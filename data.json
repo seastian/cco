@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/05/2020 04:27",
+  "lastUpdate": "11/05/2020 04:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -631,6 +631,25 @@
     {
       "tipo": "partida",
       "aerolinea": "M3",
+      "vuelo": "8473",
+      "st": "11/05/2020 15:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "POA",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "M3",
       "vuelo": "8410",
       "st": "11/05/2020 15:30",
       "matricula": "",
@@ -649,10 +668,10 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "M3",
-      "vuelo": "8473",
-      "st": "11/05/2020 15:30",
-      "matricula": "",
+      "aerolinea": "AOG",
+      "vuelo": "101",
+      "st": "11/05/2020 16:30",
+      "matricula": "CXCAR",
       "posicion": "",
       "et": "",
       "at": "",
@@ -661,7 +680,7 @@
       "chkFrom": "",
       "chkTo": "",
       "puerta": "",
-      "ruta": "POA",
+      "ruta": "ASU",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
