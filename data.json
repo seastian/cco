@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/05/2020 11:51",
+  "lastUpdate": "11/05/2020 11:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -643,6 +643,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "LIM",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "CM",
+      "vuelo": "1853",
+      "st": "11/05/2020 23:57",
+      "matricula": "HP1853",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "PTY",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
