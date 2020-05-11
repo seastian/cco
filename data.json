@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/05/2020 22:30",
+  "lastUpdate": "10/05/2020 22:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -25,7 +25,7 @@
       "aerolinea": "5X",
       "vuelo": "416",
       "st": "11/05/2020 02:19",
-      "matricula": "",
+      "matricula": "N310UP",
       "posicion": "",
       "et": "",
       "at": "",
