@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/05/2020 06:01",
+  "lastUpdate": "11/05/2020 06:07",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -26,7 +26,7 @@
       "vuelo": "VDJ",
       "st": "11/05/2020 10:10",
       "matricula": "LVVDJ",
-      "posicion": "",
+      "posicion": "37",
       "et": "",
       "at": "",
       "term": "C",
@@ -501,7 +501,7 @@
       "vuelo": "VDJ",
       "st": "11/05/2020 11:10",
       "matricula": "LVVDJ",
-      "posicion": "",
+      "posicion": "37",
       "et": "",
       "at": "",
       "term": "C",
