@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/05/2020 17:30",
+  "lastUpdate": "11/05/2020 17:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -206,6 +206,25 @@
       "lF": "",
       "ruta": "DOH",
       "via": "GRU",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AOG",
+      "vuelo": "101",
+      "st": "12/05/2020 05:30",
+      "matricula": "CXCAR",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MVD",
+      "via": "",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
