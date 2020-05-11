@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/05/2020 08:12",
+  "lastUpdate": "11/05/2020 08:18",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -568,6 +568,25 @@
       "puerta": "",
       "ruta": "ASU",
       "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "5X",
+      "vuelo": "417",
+      "st": "11/05/2020 20:15",
+      "matricula": "N310UP",
+      "posicion": "62",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
+      "via": "VCP",
       "remark": "HOR",
       "sanidad": "NO"
     }
