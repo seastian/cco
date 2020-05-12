@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "12/05/2020 09:54",
+  "lastUpdate": "12/05/2020 10:00",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "BGR",
-      "st": "12/05/2020 10:00",
-      "matricula": "LVBGR",
-      "posicion": "37",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "POS",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO",
-      "pax": "9"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "PRV",
@@ -269,6 +250,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "UC",
+      "vuelo": "1401",
+      "st": "12/05/2020 22:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "AMS",
       "vuelo": "8119",
       "st": "11/05/2020 23:35",
@@ -494,6 +494,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "BGR",
+      "st": "12/05/2020 10:00",
+      "matricula": "LVBGR",
+      "posicion": "37",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "POS",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO",
+      "pax": "9"
     },
     {
       "tipo": "partida",
