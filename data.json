@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/05/2020 08:13",
+  "lastUpdate": "12/05/2020 08:20",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -228,25 +228,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "BA",
-      "vuelo": "9128",
-      "st": "11/05/2020 20:20",
-      "matricula": "GZBKF",
-      "posicion": "10",
-      "et": "11/5/2020 20:10",
-      "at": "11/5/2020 20:17",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "LHR",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "48"
     },
     {
       "tipo": "arribo",
