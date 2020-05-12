@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/05/2020 22:49",
+  "lastUpdate": "11/05/2020 22:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -209,6 +209,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "ZEB",
+      "st": "12/05/2020 10:50",
+      "matricula": "LVZEB",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SLA",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO",
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -568,7 +587,7 @@
       "puerta": "18",
       "ruta": "PVG",
       "via": "AKL",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
