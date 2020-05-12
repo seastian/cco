@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/05/2020 12:18",
+  "lastUpdate": "12/05/2020 12:24",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -745,25 +745,6 @@
     {
       "tipo": "partida",
       "aerolinea": "PRV",
-      "vuelo": "VDJ",
-      "st": "12/05/2020 12:00",
-      "matricula": "LVVDJ",
-      "posicion": "45",
-      "et": "12/5/2020 12:15",
-      "at": "",
-      "term": "C",
-      "sector": "CPC",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "FDO",
-      "via": "",
-      "remark": "CER",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "PRV",
       "vuelo": "ZEB",
       "st": "12/05/2020 11:50",
       "matricula": "LVZEB",
@@ -778,6 +759,25 @@
       "ruta": "FDO",
       "via": "",
       "remark": "DEM",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "PRV",
+      "vuelo": "VDJ",
+      "st": "12/05/2020 12:00",
+      "matricula": "LVVDJ",
+      "posicion": "45",
+      "et": "12/5/2020 12:15",
+      "at": "12/5/2020 12:20",
+      "term": "C",
+      "sector": "CPC",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "FDO",
+      "via": "",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -815,7 +815,7 @@
       "puerta": "01",
       "ruta": "GRU",
       "via": "",
-      "remark": "DEM",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -906,7 +906,7 @@
       "term": "A",
       "sector": "AP",
       "chkFrom": "027",
-      "chkTo": "035",
+      "chkTo": "032",
       "puerta": "10",
       "ruta": "LHR",
       "via": "",
