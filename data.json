@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "12/05/2020 15:45",
+  "lastUpdate": "12/05/2020 15:51",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1130",
-      "st": "12/05/2020 16:30",
-      "matricula": "CCBGK",
-      "posicion": "55",
-      "et": "12/5/2020 15:50",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "0"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "M3",
@@ -458,6 +439,25 @@
       "pax": "0"
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "1130",
+      "st": "12/05/2020 16:30",
+      "matricula": "CCBGK",
+      "posicion": "55",
+      "et": "12/5/2020 15:50",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "0"
+    },
+    {
       "tipo": "partida",
       "aerolinea": "AOG",
       "vuelo": "101",
@@ -720,7 +720,7 @@
       "puerta": "07",
       "ruta": "GRU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
