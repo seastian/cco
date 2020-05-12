@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/05/2020 23:20",
+  "lastUpdate": "11/05/2020 23:27",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -598,7 +598,7 @@
       "matricula": "LVFVI",
       "posicion": "14",
       "et": "11/5/2020 23:30",
-      "at": "",
+      "at": "11/5/2020 23:25",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -606,7 +606,7 @@
       "puerta": "18",
       "ruta": "PVG",
       "via": "AKL",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
