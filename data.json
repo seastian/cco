@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/05/2020 10:19",
+  "lastUpdate": "12/05/2020 10:25",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -954,10 +954,10 @@
     {
       "tipo": "partida",
       "aerolinea": "AOG",
-      "vuelo": "424",
+      "vuelo": "500",
       "st": "12/05/2020 13:00",
-      "matricula": "CXCLS",
-      "posicion": "57",
+      "matricula": "CXLSS",
+      "posicion": "59",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -992,10 +992,10 @@
     {
       "tipo": "partida",
       "aerolinea": "AOG",
-      "vuelo": "500",
+      "vuelo": "424",
       "st": "12/05/2020 13:00",
-      "matricula": "CXLSS",
-      "posicion": "59",
+      "matricula": "CXCLS",
+      "posicion": "57",
       "et": "",
       "at": "",
       "term": "TCA",
