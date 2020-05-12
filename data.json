@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/05/2020 06:33",
+  "lastUpdate": "12/05/2020 06:39",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -786,14 +786,14 @@
       "vuelo": "2220",
       "st": "12/05/2020 08:00",
       "matricula": "LVCIH",
-      "posicion": "22B",
+      "posicion": "12",
       "et": "",
       "at": "",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "16",
       "ruta": "SSA",
       "via": "",
       "remark": "HOR",
