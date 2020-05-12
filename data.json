@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/05/2020 01:19",
+  "lastUpdate": "12/05/2020 01:26",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -630,6 +630,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "8490",
+      "st": "12/05/2020 02:10",
+      "matricula": "PRABB",
+      "posicion": "54",
+      "et": "12/5/2020 01:07",
+      "at": "12/5/2020 01:22",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "UC",
       "vuelo": "1108",
       "st": "11/05/2020 23:30",
@@ -664,25 +683,6 @@
       "ruta": "PTY",
       "via": "",
       "remark": "DEM",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "M3",
-      "vuelo": "8490",
-      "st": "12/05/2020 02:10",
-      "matricula": "PRABB",
-      "posicion": "54",
-      "et": "12/5/2020 01:07",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "EST",
       "sanidad": "NO"
     },
     {
