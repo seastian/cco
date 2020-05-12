@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/05/2020 12:49",
+  "lastUpdate": "12/05/2020 12:56",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -8,7 +8,7 @@
       "st": "12/05/2020 13:40",
       "matricula": "ZKOKP",
       "posicion": "11",
-      "et": "12/5/2020 13:38",
+      "et": "12/5/2020 13:35",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -193,25 +193,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1109",
-      "st": "11/05/2020 22:00",
-      "matricula": "N536LA",
-      "posicion": "55",
-      "et": "12/5/2020 01:05",
-      "at": "12/5/2020 00:51",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "CM",
       "vuelo": "4018",
       "st": "11/05/2020 22:57",
@@ -364,25 +345,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "VDJ",
-      "st": "12/05/2020 11:00",
-      "matricula": "LVVDJ",
-      "posicion": "45",
-      "et": "",
-      "at": "12/5/2020 10:45",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SLA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "13"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AOG",
       "vuelo": "102",
       "st": "12/05/2020 11:00",
@@ -399,6 +361,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "VDJ",
+      "st": "12/05/2020 11:00",
+      "matricula": "LVVDJ",
+      "posicion": "45",
+      "et": "",
+      "at": "12/5/2020 10:45",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SLA",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "13"
     },
     {
       "tipo": "arribo",
