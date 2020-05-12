@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/05/2020 03:38",
+  "lastUpdate": "12/05/2020 03:44",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -536,7 +536,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24",
+      "vuelo": "H24N",
       "st": "11/05/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -544,7 +544,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "209",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -555,7 +555,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
+      "vuelo": "H24",
       "st": "11/05/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -563,7 +563,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -674,7 +674,7 @@
       "matricula": "CXCAR",
       "posicion": "51A",
       "et": "",
-      "at": "",
+      "at": "12/5/2020 03:42",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -682,7 +682,7 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -693,7 +693,7 @@
       "matricula": "N534LA",
       "posicion": "56",
       "et": "12/5/2020 03:45",
-      "at": "",
+      "at": "12/5/2020 03:39",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -701,7 +701,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
