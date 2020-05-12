@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/05/2020 07:23",
+  "lastUpdate": "12/05/2020 07:30",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -815,7 +815,7 @@
       "puerta": "16",
       "ruta": "SSA",
       "via": "",
-      "remark": "HOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
