@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "12/05/2020 19:05",
+  "lastUpdate": "12/05/2020 19:12",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "4M",
-      "vuelo": "7963",
-      "st": "12/05/2020 19:10",
-      "matricula": "LVBFO",
-      "posicion": "09",
-      "et": "12/5/2020 20:30",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": "41"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "4M",
@@ -27,7 +8,7 @@
       "st": "12/05/2020 20:40",
       "matricula": "LVBSJ",
       "posicion": "",
-      "et": "12/5/2020 20:40",
+      "et": "12/5/2020 20:15",
       "at": "",
       "term": "C",
       "sector": "CAC",
@@ -38,6 +19,25 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "100"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "4M",
+      "vuelo": "7963",
+      "st": "12/05/2020 19:10",
+      "matricula": "LVBFO",
+      "posicion": "09",
+      "et": "12/5/2020 21:10",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "009",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": "41"
     },
     {
       "tipo": "arribo",
@@ -418,25 +418,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "95"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "101",
-      "st": "12/05/2020 07:00",
-      "matricula": "CXCAR",
-      "posicion": "51A",
-      "et": "",
-      "at": "12/5/2020 07:11",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
