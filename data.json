@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/05/2020 17:25",
+  "lastUpdate": "12/05/2020 17:31",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -31,8 +31,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "9",
+      "lF": "009",
       "ruta": "GRU",
       "via": "",
       "remark": "EST",
@@ -50,8 +50,8 @@
       "at": "",
       "term": "C",
       "sector": "CAC",
-      "cinta": "",
-      "lF": "",
+      "cinta": "11",
+      "lF": "017",
       "ruta": "MDZ",
       "via": "RGL",
       "remark": "EST",
