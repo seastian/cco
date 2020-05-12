@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/05/2020 05:30",
+  "lastUpdate": "12/05/2020 05:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -453,7 +453,7 @@
       "lF": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "",
+      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
@@ -966,6 +966,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "GRU",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "BA",
+      "vuelo": "9129",
+      "st": "12/05/2020 17:35",
+      "matricula": "GZBKF",
+      "posicion": "10",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "027",
+      "chkTo": "035",
+      "puerta": "10",
+      "ruta": "LHR",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
