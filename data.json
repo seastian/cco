@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/05/2020 01:38",
+  "lastUpdate": "12/05/2020 01:44",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -45,7 +45,7 @@
       "vuelo": "102",
       "st": "12/05/2020 02:30",
       "matricula": "CXCAR",
-      "posicion": "",
+      "posicion": "51A",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -225,6 +225,25 @@
       "lF": "",
       "ruta": "PVG",
       "via": "AKL",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "NZ",
+      "vuelo": "6196",
+      "st": "12/05/2020 13:40",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "AKL",
+      "via": "",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
@@ -729,7 +748,7 @@
       "vuelo": "103",
       "st": "12/05/2020 03:30",
       "matricula": "CXCAR",
-      "posicion": "",
+      "posicion": "51A",
       "et": "",
       "at": "",
       "term": "TCA",
