@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/05/2020 15:26",
+  "lastUpdate": "12/05/2020 15:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -44,9 +44,9 @@
       "aerolinea": "AU",
       "vuelo": "2221",
       "st": "12/05/2020 18:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
+      "matricula": "LVCIH",
+      "posicion": "12",
+      "et": "12/5/2020 17:59",
       "at": "",
       "term": "A",
       "sector": "",
@@ -54,9 +54,9 @@
       "lF": "",
       "ruta": "SSA",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "95"
     },
     {
       "tipo": "arribo",
@@ -840,7 +840,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
+      "vuelo": "H24",
       "st": "12/05/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -848,7 +848,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -859,7 +859,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24",
+      "vuelo": "H24N",
       "st": "12/05/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -867,7 +867,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "209",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -930,6 +930,25 @@
       "ruta": "IST",
       "via": "GRU",
       "remark": "",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1404",
+      "st": "13/05/2020 03:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "LAX",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     }
   ]
