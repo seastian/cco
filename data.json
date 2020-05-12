@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/05/2020 02:28",
+  "lastUpdate": "12/05/2020 02:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -196,9 +196,9 @@
       "aerolinea": "NZ",
       "vuelo": "6196",
       "st": "12/05/2020 13:40",
-      "matricula": "",
+      "matricula": "ZKOKP",
       "posicion": "",
-      "et": "",
+      "et": "12/5/2020 13:38",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -206,7 +206,7 @@
       "lF": "",
       "ruta": "AKL",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
