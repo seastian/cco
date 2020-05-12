@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/05/2020 11:59",
+  "lastUpdate": "12/05/2020 12:05",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -749,7 +749,7 @@
       "st": "12/05/2020 11:00",
       "matricula": "LVBGR",
       "posicion": "44",
-      "et": "",
+      "et": "12/5/2020 12:15",
       "at": "",
       "term": "C",
       "sector": "CPC",
@@ -758,7 +758,7 @@
       "puerta": "",
       "ruta": "FDO",
       "via": "",
-      "remark": "CON",
+      "remark": "DEM",
       "sanidad": "NO"
     },
     {
@@ -768,7 +768,7 @@
       "st": "12/05/2020 11:50",
       "matricula": "LVZEB",
       "posicion": "37",
-      "et": "",
+      "et": "12/5/2020 12:15",
       "at": "",
       "term": "C",
       "sector": "CPC",
@@ -777,7 +777,7 @@
       "puerta": "",
       "ruta": "FDO",
       "via": "",
-      "remark": "CON",
+      "remark": "DEM",
       "sanidad": "NO"
     },
     {
@@ -787,7 +787,7 @@
       "st": "12/05/2020 12:00",
       "matricula": "LVVDJ",
       "posicion": "45",
-      "et": "",
+      "et": "12/5/2020 12:15",
       "at": "",
       "term": "C",
       "sector": "CPC",
@@ -796,26 +796,7 @@
       "puerta": "",
       "ruta": "FDO",
       "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "102",
-      "st": "12/05/2020 12:30",
-      "matricula": "CXCAR",
-      "posicion": "54A",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "HOR",
+      "remark": "EST",
       "sanidad": "NO"
     },
     {
@@ -854,6 +835,25 @@
       "ruta": "GRU",
       "via": "",
       "remark": "DEM",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "102",
+      "st": "12/05/2020 12:30",
+      "matricula": "CXCAR",
+      "posicion": "54A",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     },
     {
