@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/05/2020 02:41",
+  "lastUpdate": "12/05/2020 02:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -389,14 +389,14 @@
       "matricula": "LVGHQ",
       "posicion": "14",
       "et": "12/5/2020 02:38",
-      "at": "",
+      "at": "12/5/2020 02:41",
       "term": "A",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "MAD",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "243"
     },
@@ -555,7 +555,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
+      "vuelo": "H24",
       "st": "11/05/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -563,7 +563,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -574,7 +574,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24",
+      "vuelo": "H24N",
       "st": "11/05/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -582,7 +582,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "209",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -636,7 +636,7 @@
       "matricula": "CXMAS",
       "posicion": "60",
       "et": "",
-      "at": "",
+      "at": "12/5/2020 02:46",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -644,7 +644,7 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
