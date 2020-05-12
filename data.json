@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/05/2020 12:31",
+  "lastUpdate": "12/05/2020 12:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -726,12 +726,12 @@
     {
       "tipo": "partida",
       "aerolinea": "PRV",
-      "vuelo": "ZEB",
-      "st": "12/05/2020 11:50",
-      "matricula": "LVZEB",
-      "posicion": "37",
+      "vuelo": "BGR",
+      "st": "12/05/2020 11:00",
+      "matricula": "LVBGR",
+      "posicion": "44",
       "et": "12/5/2020 12:15",
-      "at": "",
+      "at": "12/5/2020 12:25",
       "term": "C",
       "sector": "CPC",
       "chkFrom": "",
@@ -739,7 +739,7 @@
       "puerta": "",
       "ruta": "FDO",
       "via": "",
-      "remark": "DEM",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -764,12 +764,12 @@
     {
       "tipo": "partida",
       "aerolinea": "PRV",
-      "vuelo": "BGR",
-      "st": "12/05/2020 11:00",
-      "matricula": "LVBGR",
-      "posicion": "44",
+      "vuelo": "ZEB",
+      "st": "12/05/2020 11:50",
+      "matricula": "LVZEB",
+      "posicion": "37",
       "et": "12/5/2020 12:15",
-      "at": "12/5/2020 12:25",
+      "at": "",
       "term": "C",
       "sector": "CPC",
       "chkFrom": "",
@@ -777,7 +777,7 @@
       "puerta": "",
       "ruta": "FDO",
       "via": "",
-      "remark": "PAR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -796,7 +796,7 @@
       "puerta": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -807,7 +807,7 @@
       "matricula": "PHCKA",
       "posicion": "55",
       "et": "12/5/2020 12:40",
-      "at": "",
+      "at": "12/5/2020 12:35",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -815,7 +815,7 @@
       "puerta": "",
       "ruta": "AMS",
       "via": "UIO",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
