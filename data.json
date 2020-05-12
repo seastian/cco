@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/05/2020 23:45",
+  "lastUpdate": "11/05/2020 23:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -919,6 +919,25 @@
       "vuelo": "BGR",
       "st": "12/05/2020 11:00",
       "matricula": "LVBGR",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPC",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "FDO",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "PRV",
+      "vuelo": "ZEB",
+      "st": "12/05/2020 11:50",
+      "matricula": "LVZEB",
       "posicion": "",
       "et": "",
       "at": "",
