@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/05/2020 17:19",
+  "lastUpdate": "12/05/2020 17:25",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -193,25 +193,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "QR",
-      "vuelo": "8157",
-      "st": "12/05/2020 03:00",
-      "matricula": "A7BFL",
-      "posicion": "55",
-      "et": "12/5/2020 05:24",
-      "at": "12/5/2020 05:25",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "DOH",
-      "via": "GRU",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AOG",
       "vuelo": "101",
       "st": "12/05/2020 05:30",
@@ -289,25 +270,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "PRV",
-      "vuelo": "VDJ",
-      "st": "12/05/2020 11:00",
-      "matricula": "LVVDJ",
-      "posicion": "45",
-      "et": "",
-      "at": "12/5/2020 10:45",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SLA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "13"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "PRV",
       "vuelo": "BGR",
       "st": "12/05/2020 10:00",
       "matricula": "LVBGR",
@@ -323,6 +285,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "9"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "VDJ",
+      "st": "12/05/2020 11:00",
+      "matricula": "LVVDJ",
+      "posicion": "45",
+      "et": "",
+      "at": "12/5/2020 10:45",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SLA",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "13"
     },
     {
       "tipo": "arribo",
