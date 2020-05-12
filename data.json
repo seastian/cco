@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/05/2020 23:39",
+  "lastUpdate": "11/05/2020 23:45",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -250,6 +250,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1085",
+      "st": "12/05/2020 11:40",
+      "matricula": "LVGIF",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "PVG",
+      "via": "AKL",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "UC",
       "vuelo": "1400",
       "st": "11/05/2020 11:00",
@@ -389,14 +408,14 @@
       "matricula": "CXMAS",
       "posicion": "60",
       "et": "",
-      "at": "",
+      "at": "11/5/2020 23:39",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "CON",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
