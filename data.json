@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/05/2020 16:48",
+  "lastUpdate": "12/05/2020 16:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -739,7 +739,7 @@
       "puerta": "10",
       "ruta": "LHR",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
