@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/05/2020 03:56",
+  "lastUpdate": "12/05/2020 04:03",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -909,6 +909,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "ASU",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "JJ",
+      "vuelo": "9453",
+      "st": "12/05/2020 16:00",
+      "matricula": "PTXPH",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "GRU",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
