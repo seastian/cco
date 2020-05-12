@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/05/2020 07:55",
+  "lastUpdate": "12/05/2020 08:01",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -763,25 +763,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "QR",
-      "vuelo": "8157",
-      "st": "12/05/2020 04:45",
-      "matricula": "A7BFL",
-      "posicion": "55",
-      "et": "12/5/2020 08:05",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "DOH",
-      "via": "UIO",
-      "remark": "DEM",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AU",
       "vuelo": "2220",
       "st": "12/05/2020 08:00",
@@ -797,6 +778,25 @@
       "ruta": "SSA",
       "via": "",
       "remark": "CER",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "QR",
+      "vuelo": "8157",
+      "st": "12/05/2020 04:45",
+      "matricula": "A7BFL",
+      "posicion": "55",
+      "et": "12/5/2020 08:05",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "DOH",
+      "via": "UIO",
+      "remark": "DEM",
       "sanidad": "NO"
     },
     {
