@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/05/2020 17:31",
+  "lastUpdate": "12/05/2020 17:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -555,12 +555,12 @@
     {
       "tipo": "partida",
       "aerolinea": "PRV",
-      "vuelo": "VDJ",
-      "st": "12/05/2020 12:00",
-      "matricula": "LVVDJ",
-      "posicion": "45",
+      "vuelo": "BGR",
+      "st": "12/05/2020 11:00",
+      "matricula": "LVBGR",
+      "posicion": "44",
       "et": "12/5/2020 12:15",
-      "at": "12/5/2020 12:20",
+      "at": "12/5/2020 12:25",
       "term": "C",
       "sector": "CPC",
       "chkFrom": "",
@@ -574,12 +574,12 @@
     {
       "tipo": "partida",
       "aerolinea": "PRV",
-      "vuelo": "BGR",
-      "st": "12/05/2020 11:00",
-      "matricula": "LVBGR",
-      "posicion": "44",
+      "vuelo": "VDJ",
+      "st": "12/05/2020 12:00",
+      "matricula": "LVVDJ",
+      "posicion": "45",
       "et": "12/5/2020 12:15",
-      "at": "12/5/2020 12:25",
+      "at": "12/5/2020 12:20",
       "term": "C",
       "sector": "CPC",
       "chkFrom": "",
