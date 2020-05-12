@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/05/2020 14:17",
+  "lastUpdate": "12/05/2020 14:23",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -453,25 +453,6 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1108",
-      "st": "11/05/2020 23:30",
-      "matricula": "N536LA",
-      "posicion": "55",
-      "et": "12/5/2020 02:15",
-      "at": "12/5/2020 02:23",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "LIM",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
