@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/05/2020 21:28",
+  "lastUpdate": "11/05/2020 21:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -759,6 +759,25 @@
       "ruta": "DOH",
       "via": "UIO",
       "remark": "DEM",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "8491",
+      "st": "12/05/2020 09:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "VCP",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     }
   ]
