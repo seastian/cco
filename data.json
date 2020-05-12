@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/05/2020 08:01",
+  "lastUpdate": "12/05/2020 08:07",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -769,7 +769,7 @@
       "matricula": "LVCIH",
       "posicion": "12",
       "et": "",
-      "at": "",
+      "at": "12/5/2020 08:00",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -777,7 +777,7 @@
       "puerta": "16",
       "ruta": "SSA",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
