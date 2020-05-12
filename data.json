@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/05/2020 04:28",
+  "lastUpdate": "12/05/2020 04:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -205,6 +205,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "GRU",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "1130",
+      "st": "12/05/2020 16:30",
+      "matricula": "CCBGC",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
       "via": "",
       "remark": "",
       "sanidad": "NO",
