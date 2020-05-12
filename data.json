@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/05/2020 06:52",
+  "lastUpdate": "12/05/2020 06:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,7 +7,7 @@
       "vuelo": "BGR",
       "st": "12/05/2020 10:00",
       "matricula": "LVBGR",
-      "posicion": "",
+      "posicion": "37",
       "et": "",
       "at": "",
       "term": "C",
@@ -45,7 +45,7 @@
       "vuelo": "ZEB",
       "st": "12/05/2020 10:50",
       "matricula": "LVZEB",
-      "posicion": "",
+      "posicion": "44",
       "et": "",
       "at": "",
       "term": "C",
@@ -64,7 +64,7 @@
       "vuelo": "VDJ",
       "st": "12/05/2020 11:00",
       "matricula": "LVVDJ",
-      "posicion": "",
+      "posicion": "45",
       "et": "",
       "at": "",
       "term": "C",
