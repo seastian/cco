@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "12/05/2020 14:36",
+  "lastUpdate": "12/05/2020 14:42",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "9540",
-      "st": "12/05/2020 15:00",
-      "matricula": "PTXPH",
-      "posicion": "08",
-      "et": "12/5/2020 14:45",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "0"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "LA",
@@ -190,25 +171,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1133",
-      "st": "12/05/2020 02:50",
-      "matricula": "LVGHQ",
-      "posicion": "14",
-      "et": "12/5/2020 02:38",
-      "at": "12/5/2020 02:41",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "008",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "243"
     },
     {
       "tipo": "arribo",
@@ -437,6 +399,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "JJ",
+      "vuelo": "9540",
+      "st": "12/05/2020 15:00",
+      "matricula": "PTXPH",
+      "posicion": "08",
+      "et": "12/5/2020 14:45",
+      "at": "12/5/2020 14:38",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "0"
     },
     {
       "tipo": "partida",
