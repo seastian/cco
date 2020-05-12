@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/05/2020 08:20",
+  "lastUpdate": "12/05/2020 08:26",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -769,7 +769,7 @@
       "matricula": "A7BFL",
       "posicion": "55",
       "et": "12/5/2020 08:05",
-      "at": "",
+      "at": "12/5/2020 08:17",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -777,7 +777,7 @@
       "puerta": "",
       "ruta": "DOH",
       "via": "UIO",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -805,7 +805,7 @@
       "vuelo": "7968",
       "st": "12/05/2020 10:25",
       "matricula": "LVBSJ",
-      "posicion": "",
+      "posicion": "63C",
       "et": "",
       "at": "",
       "term": "A",
@@ -881,7 +881,7 @@
       "vuelo": "7964",
       "st": "12/05/2020 12:00",
       "matricula": "LVBFO",
-      "posicion": "",
+      "posicion": "63B",
       "et": "",
       "at": "",
       "term": "A",
