@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/05/2020 02:47",
+  "lastUpdate": "12/05/2020 02:53",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -392,8 +392,8 @@
       "at": "12/5/2020 02:41",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "9",
+      "lF": "009",
       "ruta": "MAD",
       "via": "",
       "remark": "ATE",
