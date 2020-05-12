@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/05/2020 11:03",
+  "lastUpdate": "12/05/2020 11:09",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -484,14 +484,14 @@
       "matricula": "LVBGR",
       "posicion": "44",
       "et": "12/5/2020 11:00",
-      "at": "",
+      "at": "12/5/2020 10:53",
       "term": "C",
       "sector": "CAC",
       "cinta": "",
       "lF": "",
       "ruta": "POS",
       "via": "",
-      "remark": "DEM",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "9"
     },
@@ -862,7 +862,7 @@
       "vuelo": "BGR",
       "st": "12/05/2020 11:00",
       "matricula": "LVBGR",
-      "posicion": "",
+      "posicion": "44",
       "et": "",
       "at": "",
       "term": "C",
