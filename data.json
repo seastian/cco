@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/05/2020 10:31",
+  "lastUpdate": "12/05/2020 10:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -22,25 +22,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "102",
-      "st": "12/05/2020 11:00",
-      "matricula": "CXCAR",
-      "posicion": "54A",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "PRV",
       "vuelo": "VDJ",
       "st": "12/05/2020 11:00",
@@ -57,6 +38,25 @@
       "remark": "HOR",
       "sanidad": "NO",
       "pax": "13"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AOG",
+      "vuelo": "102",
+      "st": "12/05/2020 11:00",
+      "matricula": "CXCAR",
+      "posicion": "54A",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -92,25 +92,6 @@
       "lF": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1085",
-      "st": "12/05/2020 11:40",
-      "matricula": "LVGIF",
-      "posicion": "50",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "PVG",
-      "via": "AKL",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
@@ -532,6 +513,25 @@
       "remark": "HOR",
       "sanidad": "NO",
       "pax": "9"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1085",
+      "st": "12/05/2020 11:40",
+      "matricula": "LVGIF",
+      "posicion": "50",
+      "et": "",
+      "at": "12/5/2020 10:34",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "PVG",
+      "via": "AKL",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "partida",
