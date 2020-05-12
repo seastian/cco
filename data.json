@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/05/2020 11:21",
+  "lastUpdate": "12/05/2020 11:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -554,25 +554,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1086",
-      "st": "11/05/2020 23:10",
-      "matricula": "LVFVI",
-      "posicion": "14",
-      "et": "11/5/2020 23:30",
-      "at": "11/5/2020 23:25",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "18",
-      "ruta": "PVG",
-      "via": "AKL",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "JJ",
       "vuelo": "H24",
       "st": "11/05/2020 23:59",
@@ -845,7 +826,7 @@
       "matricula": "LVBSJ",
       "posicion": "51A",
       "et": "",
-      "at": "",
+      "at": "12/5/2020 11:15",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -853,7 +834,7 @@
       "puerta": "",
       "ruta": "MDZ",
       "via": "RGL",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
