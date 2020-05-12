@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "12/05/2020 00:48",
+  "lastUpdate": "12/05/2020 00:54",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1109",
-      "st": "11/05/2020 22:00",
-      "matricula": "N536LA",
-      "posicion": "55",
-      "et": "12/5/2020 01:05",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "CM",
@@ -416,6 +397,25 @@
       "ruta": "MIA",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "UC",
+      "vuelo": "1109",
+      "st": "11/05/2020 22:00",
+      "matricula": "N536LA",
+      "posicion": "55",
+      "et": "12/5/2020 01:05",
+      "at": "12/5/2020 00:51",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
