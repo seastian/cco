@@ -1,6 +1,25 @@
 {
-  "lastUpdate": "12/05/2020 04:15",
+  "lastUpdate": "12/05/2020 04:21",
   "vuelos": [
+    {
+      "tipo": "arribo",
+      "aerolinea": "QR",
+      "vuelo": "8157",
+      "st": "12/05/2020 03:00",
+      "matricula": "A7BFL",
+      "posicion": "55",
+      "et": "12/5/2020 05:24",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "DOH",
+      "via": "GRU",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": ""
+    },
     {
       "tipo": "arribo",
       "aerolinea": "AOG",
@@ -401,25 +420,6 @@
       "pax": "243"
     },
     {
-      "tipo": "arribo",
-      "aerolinea": "QR",
-      "vuelo": "8157",
-      "st": "12/05/2020 03:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "DOH",
-      "via": "GRU",
-      "remark": "CON",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
       "tipo": "partida",
       "aerolinea": "NZ",
       "vuelo": "6199",
@@ -747,8 +747,8 @@
       "aerolinea": "QR",
       "vuelo": "8157",
       "st": "12/05/2020 04:45",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "A7BFL",
+      "posicion": "55",
       "et": "12/5/2020 08:05",
       "at": "",
       "term": "TCA",
