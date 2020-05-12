@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/05/2020 09:04",
+  "lastUpdate": "12/05/2020 09:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -786,14 +786,14 @@
       "vuelo": "7968",
       "st": "12/05/2020 10:25",
       "matricula": "LVBSJ",
-      "posicion": "63C",
+      "posicion": "51A",
       "et": "",
       "at": "",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
       "chkTo": "053",
-      "puerta": "24",
+      "puerta": "",
       "ruta": "MDZ",
       "via": "RGL",
       "remark": "",
