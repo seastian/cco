@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "12/05/2020 03:00",
+  "lastUpdate": "12/05/2020 03:06",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "QR",
-      "vuelo": "8157",
-      "st": "12/05/2020 03:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "DOH",
-      "via": "GRU",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AOG",
@@ -188,6 +169,25 @@
       "ruta": "AKL",
       "via": "",
       "remark": "EST",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "JJ",
+      "vuelo": "9540",
+      "st": "12/05/2020 15:00",
+      "matricula": "PTXPH",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
@@ -399,6 +399,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "243"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "QR",
+      "vuelo": "8157",
+      "st": "12/05/2020 03:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "DOH",
+      "via": "GRU",
+      "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "partida",
