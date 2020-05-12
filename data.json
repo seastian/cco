@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/05/2020 22:55",
+  "lastUpdate": "11/05/2020 23:02",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -231,6 +231,44 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "AOG",
+      "vuelo": "102",
+      "st": "12/05/2020 11:00",
+      "matricula": "CXCAR",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "VDJ",
+      "st": "12/05/2020 11:00",
+      "matricula": "LVVDJ",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SLA",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO",
+      "pax": "13"
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "PRV",
       "vuelo": "VDJ",
       "st": "11/05/2020 10:10",
@@ -380,25 +418,6 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "NZ",
-      "vuelo": "6031",
-      "st": "11/05/2020 11:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "AKL",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
@@ -854,6 +873,25 @@
       "ruta": "MDZ",
       "via": "RGL",
       "remark": "",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "PRV",
+      "vuelo": "BGR",
+      "st": "12/05/2020 11:00",
+      "matricula": "LVBGR",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPC",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "FDO",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     }
   ]
