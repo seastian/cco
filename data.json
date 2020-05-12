@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/05/2020 06:58",
+  "lastUpdate": "12/05/2020 07:05",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -744,6 +744,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "101",
+      "st": "12/05/2020 07:00",
+      "matricula": "CXCAR",
+      "posicion": "51A",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "CER",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "QR",
       "vuelo": "8157",
       "st": "12/05/2020 04:45",
@@ -759,25 +778,6 @@
       "ruta": "DOH",
       "via": "UIO",
       "remark": "DEM",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "101",
-      "st": "12/05/2020 07:00",
-      "matricula": "CXCAR",
-      "posicion": "51A",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "HOR",
       "sanidad": "NO"
     },
     {
@@ -877,25 +877,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "4M",
-      "vuelo": "7964",
-      "st": "12/05/2020 12:00",
-      "matricula": "LVBFO",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "PRV",
       "vuelo": "VDJ",
       "st": "12/05/2020 12:00",
@@ -911,6 +892,25 @@
       "ruta": "FDO",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "4M",
+      "vuelo": "7964",
+      "st": "12/05/2020 12:00",
+      "matricula": "LVBFO",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "",
       "sanidad": "NO"
     },
     {
