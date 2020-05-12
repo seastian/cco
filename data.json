@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/05/2020 00:23",
+  "lastUpdate": "12/05/2020 00:29",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -264,25 +264,6 @@
       "ruta": "PVG",
       "via": "AKL",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1400",
-      "st": "11/05/2020 11:00",
-      "matricula": "CCCZZ",
-      "posicion": "54",
-      "et": "11/5/2020 12:45",
-      "at": "11/5/2020 12:29",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
