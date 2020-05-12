@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/05/2020 23:14",
+  "lastUpdate": "11/05/2020 23:20",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -587,7 +587,7 @@
       "puerta": "",
       "ruta": "BOG",
       "via": "",
-      "remark": "DEM",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
