@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/05/2020 19:12",
+  "lastUpdate": "12/05/2020 19:18",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,7 +7,7 @@
       "vuelo": "7970",
       "st": "12/05/2020 20:40",
       "matricula": "LVBSJ",
-      "posicion": "",
+      "posicion": "10",
       "et": "12/5/2020 20:15",
       "at": "",
       "term": "C",
