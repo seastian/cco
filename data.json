@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/05/2020 11:04",
+  "lastUpdate": "13/05/2020 11:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -664,6 +664,25 @@
       "ruta": "SCL",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1088",
+      "st": "13/05/2020 23:10",
+      "matricula": "LVGIF",
+      "posicion": "16",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "22",
+      "ruta": "PVG",
+      "via": "AKL",
+      "remark": "",
       "sanidad": "NO"
     }
   ]
