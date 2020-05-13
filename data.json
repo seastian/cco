@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "12/05/2020 20:58",
+  "lastUpdate": "12/05/2020 21:04",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "4M",
-      "vuelo": "7963",
-      "st": "12/05/2020 19:10",
-      "matricula": "LVBFO",
-      "posicion": "09",
-      "et": "12/5/2020 21:05",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": "41"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "UC",
@@ -418,6 +399,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "100"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "4M",
+      "vuelo": "7963",
+      "st": "12/05/2020 19:10",
+      "matricula": "LVBFO",
+      "posicion": "09",
+      "et": "12/5/2020 21:05",
+      "at": "12/5/2020 21:02",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "009",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "41"
     },
     {
       "tipo": "partida",
