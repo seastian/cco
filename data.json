@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/05/2020 01:15",
+  "lastUpdate": "13/05/2020 01:21",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -46,7 +46,7 @@
       "st": "13/05/2020 03:35",
       "matricula": "DALCK",
       "posicion": "54",
-      "et": "13/5/2020 03:35",
+      "et": "13/5/2020 03:36",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -63,8 +63,8 @@
       "aerolinea": "5X",
       "vuelo": "414",
       "st": "13/05/2020 05:12",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "N310UP",
+      "posicion": "55",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -652,8 +652,8 @@
       "aerolinea": "5X",
       "vuelo": "415",
       "st": "13/05/2020 06:55",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "N310UP",
+      "posicion": "55",
       "et": "",
       "at": "",
       "term": "TCA",
