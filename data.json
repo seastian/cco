@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "13/05/2020 16:11",
+  "lastUpdate": "13/05/2020 16:17",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1955",
-      "st": "13/05/2020 17:00",
-      "matricula": "CCBGL",
-      "posicion": "54",
-      "et": "13/5/2020 16:15",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "0"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "UC",
@@ -264,6 +245,25 @@
       "ruta": "LCG",
       "via": "",
       "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "0"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "1955",
+      "st": "13/05/2020 17:00",
+      "matricula": "CCBGL",
+      "posicion": "54",
+      "et": "13/5/2020 16:15",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": "0"
     },
@@ -606,6 +606,25 @@
       "puerta": "",
       "ruta": "ASU",
       "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "QT",
+      "vuelo": "4078",
+      "st": "14/05/2020 04:15",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "BOG",
+      "via": "SCL",
       "remark": "HOR",
       "sanidad": "NO"
     }
