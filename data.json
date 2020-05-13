@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/05/2020 18:03",
+  "lastUpdate": "13/05/2020 18:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -323,25 +323,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LH",
-      "vuelo": "8267",
-      "st": "13/05/2020 05:55",
-      "matricula": "DALCK",
-      "posicion": "54",
-      "et": "",
-      "at": "13/5/2020 06:07",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "FRA",
-      "via": "VCP",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
@@ -682,6 +663,25 @@
       "puerta": "",
       "ruta": "BOG",
       "via": "SCL",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LH",
+      "vuelo": "6265",
+      "st": "14/05/2020 06:05",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "FRA",
+      "via": "VCP",
       "remark": "HOR",
       "sanidad": "NO"
     }
