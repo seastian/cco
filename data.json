@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/05/2020 17:26",
+  "lastUpdate": "13/05/2020 17:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -187,6 +187,25 @@
       "lF": "",
       "ruta": "MIA",
       "via": "SCL",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AOG",
+      "vuelo": "102",
+      "st": "14/05/2020 05:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "ASU",
+      "via": "",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
