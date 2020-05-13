@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/05/2020 10:26",
+  "lastUpdate": "13/05/2020 10:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -149,6 +149,25 @@
       "lF": "",
       "ruta": "PTY",
       "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LH",
+      "vuelo": "8264",
+      "st": "13/05/2020 22:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "FRA",
+      "via": "MVD",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
@@ -596,6 +615,25 @@
       "vuelo": "1955",
       "st": "13/05/2020 19:00",
       "matricula": "CCBGL",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1103",
+      "st": "13/05/2020 22:30",
+      "matricula": "",
       "posicion": "",
       "et": "",
       "at": "",
