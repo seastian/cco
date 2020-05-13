@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "12/05/2020 23:35",
+  "lastUpdate": "12/05/2020 23:41",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AMS",
-      "vuelo": "8119",
-      "st": "12/05/2020 23:35",
-      "matricula": "CXMAS",
-      "posicion": "51A",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "TK",
@@ -325,6 +306,25 @@
       "pax": ""
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "AMS",
+      "vuelo": "8119",
+      "st": "12/05/2020 23:35",
+      "matricula": "CXMAS",
+      "posicion": "51A",
+      "et": "",
+      "at": "12/5/2020 23:37",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
       "tipo": "partida",
       "aerolinea": "PRV",
       "vuelo": "ZEB",
@@ -587,7 +587,7 @@
       "puerta": "18",
       "ruta": "BCN",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
