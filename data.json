@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/05/2020 18:41",
+  "lastUpdate": "13/05/2020 18:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -206,6 +206,25 @@
       "lF": "",
       "ruta": "ASU",
       "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LH",
+      "vuelo": "8264",
+      "st": "14/05/2020 06:45",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "FRA",
+      "via": "MVD",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
