@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/05/2020 22:19",
+  "lastUpdate": "12/05/2020 22:26",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -82,9 +82,9 @@
       "aerolinea": "LH",
       "vuelo": "8266",
       "st": "13/05/2020 03:35",
-      "matricula": "",
+      "matricula": "DALCK",
       "posicion": "",
-      "et": "",
+      "et": "13/5/2020 03:35",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -92,7 +92,7 @@
       "lF": "",
       "ruta": "FRA",
       "via": "VCP",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -823,7 +823,7 @@
       "aerolinea": "LH",
       "vuelo": "8267",
       "st": "13/05/2020 05:55",
-      "matricula": "",
+      "matricula": "DALCK",
       "posicion": "",
       "et": "",
       "at": "",
