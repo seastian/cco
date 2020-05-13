@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "13/05/2020 00:06",
+  "lastUpdate": "13/05/2020 00:12",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "TK",
-      "vuelo": "6169",
-      "st": "12/05/2020 22:10",
-      "matricula": "TCJJT",
-      "posicion": "54",
-      "et": "13/5/2020 00:17",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "IST",
-      "via": "GRU",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "M3",
@@ -320,6 +301,25 @@
       "lF": "",
       "ruta": "MVD",
       "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "TK",
+      "vuelo": "6169",
+      "st": "12/05/2020 22:10",
+      "matricula": "TCJJT",
+      "posicion": "54",
+      "et": "13/5/2020 00:17",
+      "at": "13/5/2020 00:09",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "IST",
+      "via": "GRU",
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
