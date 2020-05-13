@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/05/2020 10:14",
+  "lastUpdate": "13/05/2020 10:20",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -129,6 +129,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "MIA",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "CM",
+      "vuelo": "4454",
+      "st": "13/05/2020 22:14",
+      "matricula": "HP1853",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "PTY",
       "via": "",
       "remark": "",
       "sanidad": "NO",
