@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/05/2020 15:52",
+  "lastUpdate": "13/05/2020 15:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,7 +7,7 @@
       "vuelo": "1955",
       "st": "13/05/2020 17:00",
       "matricula": "CCBGL",
-      "posicion": "",
+      "posicion": "54",
       "et": "13/5/2020 16:15",
       "at": "",
       "term": "TCA",
@@ -406,7 +406,7 @@
       "vuelo": "1955",
       "st": "13/05/2020 19:00",
       "matricula": "CCBGL",
-      "posicion": "",
+      "posicion": "54",
       "et": "",
       "at": "",
       "term": "TCA",
