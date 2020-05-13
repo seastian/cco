@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/05/2020 00:37",
+  "lastUpdate": "13/05/2020 00:43",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -45,7 +45,7 @@
       "vuelo": "8155",
       "st": "13/05/2020 03:00",
       "matricula": "A7BFK",
-      "posicion": "",
+      "posicion": "56",
       "et": "13/5/2020 02:25",
       "at": "",
       "term": "TCA",
@@ -64,7 +64,7 @@
       "vuelo": "8266",
       "st": "13/05/2020 03:35",
       "matricula": "DALCK",
-      "posicion": "",
+      "posicion": "54",
       "et": "13/5/2020 03:35",
       "at": "",
       "term": "TCA",
@@ -672,7 +672,7 @@
       "vuelo": "8155",
       "st": "13/05/2020 05:05",
       "matricula": "A7BFK",
-      "posicion": "",
+      "posicion": "56",
       "et": "13/5/2020 04:45",
       "at": "",
       "term": "TCA",
@@ -691,7 +691,7 @@
       "vuelo": "8267",
       "st": "13/05/2020 05:55",
       "matricula": "DALCK",
-      "posicion": "",
+      "posicion": "54",
       "et": "",
       "at": "",
       "term": "TCA",
