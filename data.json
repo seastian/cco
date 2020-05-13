@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "13/05/2020 02:17",
+  "lastUpdate": "13/05/2020 02:24",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "QR",
-      "vuelo": "8155",
-      "st": "13/05/2020 03:00",
-      "matricula": "A7BFK",
-      "posicion": "56",
-      "et": "13/5/2020 02:25",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "DOH",
-      "via": "GRU",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "LH",
@@ -325,6 +306,25 @@
       "pax": ""
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "QR",
+      "vuelo": "8155",
+      "st": "13/05/2020 03:00",
+      "matricula": "A7BFK",
+      "posicion": "56",
+      "et": "13/5/2020 02:25",
+      "at": "13/5/2020 02:18",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "DOH",
+      "via": "GRU",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
       "tipo": "partida",
       "aerolinea": "AOG",
       "vuelo": "102",
@@ -339,25 +339,6 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "ASU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "4M",
-      "vuelo": "7964",
-      "st": "12/05/2020 12:00",
-      "matricula": "LVBFO",
-      "posicion": "02",
-      "et": "12/5/2020 13:00",
-      "at": "12/5/2020 14:20",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "01",
-      "ruta": "GRU",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
