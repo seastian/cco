@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/05/2020 03:51",
+  "lastUpdate": "13/05/2020 03:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -93,25 +93,6 @@
       "ruta": "LCG",
       "via": "",
       "remark": "EST",
-      "sanidad": "NO",
-      "pax": "0"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1130",
-      "st": "12/05/2020 16:30",
-      "matricula": "CCBGK",
-      "posicion": "55",
-      "et": "12/5/2020 15:50",
-      "at": "12/5/2020 15:52",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
     },
