@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/05/2020 08:08",
+  "lastUpdate": "13/05/2020 08:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -95,25 +95,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "4M",
-      "vuelo": "7970",
-      "st": "12/05/2020 20:40",
-      "matricula": "LVBSJ",
-      "posicion": "10",
-      "et": "12/5/2020 20:15",
-      "at": "12/5/2020 20:11",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "11",
-      "lF": "017",
-      "ruta": "MDZ",
-      "via": "RGL",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "100"
     },
     {
       "tipo": "arribo",
