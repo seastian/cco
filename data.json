@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/05/2020 21:23",
+  "lastUpdate": "12/05/2020 21:29",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -131,25 +131,6 @@
       "ruta": "MIA",
       "via": "SCL",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "MP",
-      "vuelo": "6912",
-      "st": "12/05/2020 10:05",
-      "matricula": "PHCKA",
-      "posicion": "55",
-      "et": "12/5/2020 09:30",
-      "at": "12/5/2020 09:27",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "AMS",
-      "via": "VCP",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
