@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "13/05/2020 14:43",
+  "lastUpdate": "13/05/2020 14:49",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "KUM",
-      "st": "13/05/2020 16:30",
-      "matricula": "ECKUM",
-      "posicion": "37",
-      "et": "13/5/2020 14:45",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "LCG",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "0"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "LA",
@@ -266,6 +247,25 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "KUM",
+      "st": "13/05/2020 16:30",
+      "matricula": "ECKUM",
+      "posicion": "37",
+      "et": "13/5/2020 14:45",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "LCG",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "0"
     },
     {
       "tipo": "partida",
