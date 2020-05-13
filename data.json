@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/05/2020 23:03",
+  "lastUpdate": "12/05/2020 23:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -131,25 +131,6 @@
       "ruta": "MIA",
       "via": "SCL",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "102",
-      "st": "12/05/2020 11:00",
-      "matricula": "CXCAR",
-      "posicion": "54A",
-      "et": "",
-      "at": "12/5/2020 11:09",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
