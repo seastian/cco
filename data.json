@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/05/2020 14:55",
+  "lastUpdate": "13/05/2020 15:02",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -256,14 +256,14 @@
       "matricula": "ECKUM",
       "posicion": "37",
       "et": "13/5/2020 14:45",
-      "at": "",
+      "at": "13/5/2020 14:55",
       "term": "A",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "LCG",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
     },
@@ -383,25 +383,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "M3",
-      "vuelo": "8491",
-      "st": "13/05/2020 15:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "NZ",
       "vuelo": "6199",
       "st": "13/05/2020 15:00",
@@ -417,6 +398,25 @@
       "ruta": "AKL",
       "via": "",
       "remark": "DEM",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "8491",
+      "st": "13/05/2020 15:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "VCP",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     },
     {
@@ -492,7 +492,7 @@
       "puerta": "22",
       "ruta": "PVG",
       "via": "AKL",
-      "remark": "",
+      "remark": "HOR",
       "sanidad": "NO"
     },
     {
