@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/05/2020 01:34",
+  "lastUpdate": "13/05/2020 01:40",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -112,25 +112,6 @@
       "ruta": "MVD",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "NZ",
-      "vuelo": "6196",
-      "st": "12/05/2020 13:40",
-      "matricula": "ZKOKP",
-      "posicion": "11",
-      "et": "12/5/2020 13:35",
-      "at": "12/5/2020 13:35",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "AKL",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
