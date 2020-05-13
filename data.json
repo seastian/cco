@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/05/2020 22:44",
+  "lastUpdate": "12/05/2020 22:51",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -152,25 +152,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "VDJ",
-      "st": "12/05/2020 11:00",
-      "matricula": "LVVDJ",
-      "posicion": "45",
-      "et": "",
-      "at": "12/5/2020 10:45",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SLA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "13"
     },
     {
       "tipo": "arribo",
