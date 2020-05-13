@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/05/2020 22:32",
+  "lastUpdate": "12/05/2020 22:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -225,25 +225,6 @@
       "lF": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1085",
-      "st": "12/05/2020 11:40",
-      "matricula": "LVGIF",
-      "posicion": "50",
-      "et": "",
-      "at": "12/5/2020 10:34",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "PVG",
-      "via": "AKL",
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
