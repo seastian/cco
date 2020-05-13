@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/05/2020 02:55",
+  "lastUpdate": "13/05/2020 03:01",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -683,6 +683,25 @@
       "ruta": "MVD",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "NZ",
+      "vuelo": "6199",
+      "st": "13/05/2020 15:00",
+      "matricula": "ZKOKP",
+      "posicion": "11",
+      "et": "13/5/2020 18:00",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "14",
+      "ruta": "AKL",
+      "via": "",
+      "remark": "DEM",
       "sanidad": "NO"
     }
   ]
