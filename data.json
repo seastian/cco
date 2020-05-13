@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/05/2020 11:41",
+  "lastUpdate": "13/05/2020 11:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -148,6 +148,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "MVD",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "M3",
+      "vuelo": "8492",
+      "st": "13/05/2020 23:45",
+      "matricula": "PRABB",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "VCP",
       "via": "",
       "remark": "",
       "sanidad": "NO",
