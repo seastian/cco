@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12/05/2020 22:51",
+  "lastUpdate": "12/05/2020 22:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -152,25 +152,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "BGR",
-      "st": "12/05/2020 10:00",
-      "matricula": "LVBGR",
-      "posicion": "44",
-      "et": "12/5/2020 11:00",
-      "at": "12/5/2020 10:53",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "POS",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "9"
     },
     {
       "tipo": "arribo",
