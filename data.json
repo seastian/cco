@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/05/2020 06:22",
+  "lastUpdate": "13/05/2020 06:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -285,25 +285,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "BA",
-      "vuelo": "9129",
-      "st": "12/05/2020 17:35",
-      "matricula": "GZBKF",
-      "posicion": "10",
-      "et": "",
-      "at": "12/5/2020 18:26",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "027",
-      "chkTo": "032",
-      "puerta": "10",
-      "ruta": "LHR",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
