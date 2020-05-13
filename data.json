@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/05/2020 15:39",
+  "lastUpdate": "13/05/2020 15:46",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -148,6 +148,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "BOG",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1161",
+      "st": "14/05/2020 03:45",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "BCN",
       "via": "",
       "remark": "",
       "sanidad": "NO",
