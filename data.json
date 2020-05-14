@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/05/2020 15:53",
+  "lastUpdate": "14/05/2020 15:59",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -8,7 +8,7 @@
       "st": "14/05/2020 17:00",
       "matricula": "CCBGK",
       "posicion": "54",
-      "et": "14/5/2020 16:01",
+      "et": "14/5/2020 16:05",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -152,25 +152,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1161",
-      "st": "14/05/2020 03:45",
-      "matricula": "LVGHQ",
-      "posicion": "15",
-      "et": "14/5/2020 03:45",
-      "at": "14/5/2020 03:58",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "BCN",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "243"
     },
     {
       "tipo": "arribo",
