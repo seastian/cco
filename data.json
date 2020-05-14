@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/05/2020 17:39",
+  "lastUpdate": "14/05/2020 17:45",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -46,7 +46,7 @@
       "st": "14/05/2020 21:30",
       "matricula": "LVFNK",
       "posicion": "",
-      "et": "",
+      "et": "14/5/2020 21:08",
       "at": "",
       "term": "A",
       "sector": "",
@@ -54,9 +54,9 @@
       "lF": "",
       "ruta": "BOG",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "242"
     },
     {
       "tipo": "arribo",
