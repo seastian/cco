@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/05/2020 23:17",
+  "lastUpdate": "13/05/2020 23:23",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -365,25 +365,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AOG",
-      "vuelo": "424",
-      "st": "13/05/2020 12:30",
-      "matricula": "CXCLS",
-      "posicion": "50A",
-      "et": "",
-      "at": "13/5/2020 12:28",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
       "vuelo": "500",
       "st": "13/05/2020 12:30",
       "matricula": "CXLSS",
@@ -396,6 +377,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "ASU",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "424",
+      "st": "13/05/2020 12:30",
+      "matricula": "CXCLS",
+      "posicion": "50A",
+      "et": "",
+      "at": "13/5/2020 12:28",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -522,7 +522,7 @@
       "matricula": "LVGIF",
       "posicion": "16",
       "et": "",
-      "at": "",
+      "at": "13/5/2020 23:22",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -530,7 +530,7 @@
       "puerta": "22",
       "ruta": "PVG",
       "via": "AKL",
-      "remark": "CON",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
