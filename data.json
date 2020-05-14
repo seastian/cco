@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/05/2020 19:25",
+  "lastUpdate": "14/05/2020 19:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -232,25 +232,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AOG",
-      "vuelo": "102",
-      "st": "14/05/2020 07:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
       "vuelo": "424",
       "st": "14/05/2020 12:30",
       "matricula": "CXLSS",
@@ -340,7 +321,7 @@
       "puerta": "",
       "ruta": "FDO",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
