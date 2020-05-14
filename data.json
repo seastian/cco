@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/05/2020 06:04",
+  "lastUpdate": "14/05/2020 06:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -460,7 +460,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24",
+      "vuelo": "H24N",
       "st": "13/05/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -468,7 +468,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "209",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -479,7 +479,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
+      "vuelo": "H24",
       "st": "13/05/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -487,7 +487,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -593,6 +593,25 @@
     {
       "tipo": "partida",
       "aerolinea": "LH",
+      "vuelo": "6265",
+      "st": "14/05/2020 06:05",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "FRA",
+      "via": "VCP",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LH",
       "vuelo": "8265",
       "st": "14/05/2020 08:15",
       "matricula": "DALCB",
@@ -625,26 +644,7 @@
       "puerta": "",
       "ruta": "MAD",
       "via": "",
-      "remark": "EST",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LH",
-      "vuelo": "6265",
-      "st": "14/05/2020 06:05",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "FRA",
-      "via": "VCP",
-      "remark": "HOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
