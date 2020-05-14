@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/05/2020 16:12",
+  "lastUpdate": "14/05/2020 16:18",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -285,25 +285,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "QT",
-      "vuelo": "4078",
-      "st": "14/05/2020 04:15",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "BOG",
-      "via": "SCL",
-      "remark": "CON",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
