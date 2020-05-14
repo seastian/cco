@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/05/2020 12:26",
+  "lastUpdate": "14/05/2020 12:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -326,25 +326,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "LH",
-      "vuelo": "8265",
-      "st": "14/05/2020 00:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "FRA",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "M3",
       "vuelo": "8492",
       "st": "14/05/2020 02:10",
@@ -441,25 +422,6 @@
     {
       "tipo": "partida",
       "aerolinea": "LH",
-      "vuelo": "6265",
-      "st": "14/05/2020 06:05",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "FRA",
-      "via": "VCP",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LH",
       "vuelo": "8265",
       "st": "14/05/2020 08:15",
       "matricula": "DALCB",
@@ -474,6 +436,25 @@
       "ruta": "FRA",
       "via": "",
       "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LH",
+      "vuelo": "6265",
+      "st": "14/05/2020 06:05",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "FRA",
+      "via": "VCP",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -549,7 +530,7 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "HOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
