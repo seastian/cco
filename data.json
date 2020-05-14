@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/05/2020 17:02",
+  "lastUpdate": "14/05/2020 17:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -75,7 +75,7 @@
       "via": "",
       "remark": "",
       "sanidad": "NO",
-      "pax": "0"
+      "pax": ""
     },
     {
       "tipo": "arribo",
