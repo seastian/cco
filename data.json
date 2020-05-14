@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/05/2020 14:19",
+  "lastUpdate": "14/05/2020 14:25",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -101,7 +101,7 @@
       "aerolinea": "2D",
       "vuelo": "303",
       "st": "14/05/2020 22:30",
-      "matricula": "",
+      "matricula": "N703KW",
       "posicion": "",
       "et": "",
       "at": "",
