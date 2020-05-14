@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/05/2020 07:25",
+  "lastUpdate": "14/05/2020 07:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -701,7 +701,7 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -776,6 +776,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "SCL",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "PRV",
+      "vuelo": "GOM",
+      "st": "14/05/2020 19:30",
+      "matricula": "LVGOM",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "FBO",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "FDO",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
