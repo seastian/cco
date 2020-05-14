@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/05/2020 00:32",
+  "lastUpdate": "14/05/2020 00:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -31,8 +31,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "9",
+      "lF": "009",
       "ruta": "BCN",
       "via": "",
       "remark": "EST",
