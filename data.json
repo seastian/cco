@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/05/2020 23:10",
+  "lastUpdate": "13/05/2020 23:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -530,7 +530,7 @@
       "puerta": "22",
       "ruta": "PVG",
       "via": "AKL",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -549,7 +549,7 @@
       "puerta": "09",
       "ruta": "PTY",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
