@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/05/2020 20:09",
+  "lastUpdate": "14/05/2020 20:15",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -313,7 +313,7 @@
       "matricula": "LVGOM",
       "posicion": "41",
       "et": "",
-      "at": "",
+      "at": "14/5/2020 20:14",
       "term": "FBO",
       "sector": "",
       "chkFrom": "",
@@ -321,7 +321,7 @@
       "puerta": "",
       "ruta": "FDO",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
