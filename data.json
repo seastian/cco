@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "14/05/2020 04:18",
+  "lastUpdate": "14/05/2020 04:24",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "LH",
-      "vuelo": "8264",
-      "st": "14/05/2020 04:40",
-      "matricula": "DALCB",
-      "posicion": "54",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "FRA",
-      "via": "VCP",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "5X",
@@ -323,6 +304,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "243"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LH",
+      "vuelo": "8264",
+      "st": "14/05/2020 04:40",
+      "matricula": "DALCB",
+      "posicion": "54",
+      "et": "",
+      "at": "14/5/2020 04:19",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "FRA",
+      "via": "VCP",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "partida",
