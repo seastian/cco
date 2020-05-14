@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/05/2020 03:59",
+  "lastUpdate": "14/05/2020 04:05",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,7 +7,7 @@
       "vuelo": "8264",
       "st": "14/05/2020 04:40",
       "matricula": "DALCB",
-      "posicion": "",
+      "posicion": "54",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -672,7 +672,7 @@
       "vuelo": "8265",
       "st": "14/05/2020 08:15",
       "matricula": "DALCB",
-      "posicion": "",
+      "posicion": "54",
       "et": "14/5/2020 06:05",
       "at": "",
       "term": "TCA",
