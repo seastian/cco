@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/05/2020 10:46",
+  "lastUpdate": "14/05/2020 10:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -738,6 +738,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "FDO",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1140",
+      "st": "14/05/2020 22:50",
+      "matricula": "LVGHQ",
+      "posicion": "15",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "20",
+      "ruta": "FCO",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
