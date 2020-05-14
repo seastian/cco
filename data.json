@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/05/2020 18:04",
+  "lastUpdate": "14/05/2020 18:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -265,25 +265,6 @@
       "ruta": "MAD",
       "via": "",
       "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LH",
-      "vuelo": "6265",
-      "st": "14/05/2020 06:05",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "FRA",
-      "via": "VCP",
-      "remark": "CON",
       "sanidad": "NO"
     },
     {
