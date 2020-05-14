@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/05/2020 19:19",
+  "lastUpdate": "14/05/2020 19:25",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -64,7 +64,7 @@
       "vuelo": "303",
       "st": "14/05/2020 22:30",
       "matricula": "N703KW",
-      "posicion": "",
+      "posicion": "10",
       "et": "15/5/2020 02:15",
       "at": "",
       "term": "A",
@@ -321,7 +321,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
