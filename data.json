@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/05/2020 11:42",
+  "lastUpdate": "14/05/2020 11:48",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -118,9 +118,9 @@
     {
       "tipo": "arribo",
       "aerolinea": "2D",
-      "vuelo": "889",
+      "vuelo": "303",
       "st": "14/05/2020 22:30",
-      "matricula": "N700KW",
+      "matricula": "",
       "posicion": "",
       "et": "",
       "at": "",
@@ -156,19 +156,19 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "8492",
-      "st": "13/05/2020 23:45",
-      "matricula": "PRABB",
-      "posicion": "55",
-      "et": "13/5/2020 23:50",
-      "at": "13/5/2020 23:42",
+      "vuelo": "8494",
+      "st": "14/05/2020 23:45",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "VCP",
       "via": "",
-      "remark": "ATE",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
