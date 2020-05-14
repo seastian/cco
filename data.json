@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/05/2020 04:24",
+  "lastUpdate": "14/05/2020 04:30",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -102,6 +102,25 @@
       "vuelo": "8493",
       "st": "14/05/2020 14:00",
       "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "1957",
+      "st": "14/05/2020 16:30",
+      "matricula": "CCBGG",
       "posicion": "",
       "et": "",
       "at": "",
