@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "14/05/2020 16:24",
+  "lastUpdate": "14/05/2020 16:30",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1957",
-      "st": "14/05/2020 16:30",
-      "matricula": "CCBGG",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "PRV",
@@ -266,6 +247,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "1957",
+      "st": "14/05/2020 16:30",
+      "matricula": "CCBGG",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "partida",
