@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/05/2020 09:24",
+  "lastUpdate": "14/05/2020 09:31",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -95,6 +95,25 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "1"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1361",
+      "st": "14/05/2020 21:30",
+      "matricula": "LVFNK",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "BOG",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
