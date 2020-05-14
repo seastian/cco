@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/05/2020 20:03",
+  "lastUpdate": "14/05/2020 20:09",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -321,7 +321,7 @@
       "puerta": "",
       "ruta": "FDO",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
