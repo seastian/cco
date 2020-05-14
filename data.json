@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/05/2020 18:17",
+  "lastUpdate": "14/05/2020 18:23",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -247,25 +247,6 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "PRV",
-      "vuelo": "KUM",
-      "st": "14/05/2020 08:00",
-      "matricula": "ECKUM",
-      "posicion": "37",
-      "et": "14/5/2020 06:00",
-      "at": "14/5/2020 06:23",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
