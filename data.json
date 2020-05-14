@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/05/2020 11:29",
+  "lastUpdate": "14/05/2020 11:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -136,10 +136,10 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "101",
-      "st": "13/05/2020 23:30",
-      "matricula": "",
+      "aerolinea": "UC",
+      "vuelo": "1104",
+      "st": "14/05/2020 23:30",
+      "matricula": "N536LA",
       "posicion": "",
       "et": "",
       "at": "",
@@ -147,9 +147,9 @@
       "sector": "",
       "cinta": "",
       "lF": "",
-      "ruta": "MVD",
+      "ruta": "MIA",
       "via": "",
-      "remark": "CON",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
@@ -719,6 +719,25 @@
       "chkTo": "240",
       "puerta": "20",
       "ruta": "FCO",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1406",
+      "st": "14/05/2020 23:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "LAX",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
