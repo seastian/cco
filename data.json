@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/05/2020 05:20",
+  "lastUpdate": "14/05/2020 05:27",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -358,25 +358,6 @@
       "chkTo": "",
       "puerta": "14",
       "ruta": "AKL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LA",
-      "vuelo": "1955",
-      "st": "13/05/2020 19:00",
-      "matricula": "CCBGL",
-      "posicion": "54",
-      "et": "",
-      "at": "13/5/2020 17:24",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
