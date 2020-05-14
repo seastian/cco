@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/05/2020 23:54",
+  "lastUpdate": "14/05/2020 00:00",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -541,7 +541,7 @@
       "matricula": "HP1853",
       "posicion": "09",
       "et": "",
-      "at": "",
+      "at": "13/5/2020 23:59",
       "term": "A",
       "sector": "AP",
       "chkFrom": "",
@@ -549,7 +549,7 @@
       "puerta": "09",
       "ruta": "PTY",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -568,26 +568,7 @@
       "puerta": "",
       "ruta": "QTR",
       "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "H24",
-      "st": "13/05/2020 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "QTR",
-      "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -606,7 +587,26 @@
       "puerta": "",
       "ruta": "QTR",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "H24",
+      "st": "13/05/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "QTR",
+      "via": "",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
