@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/05/2020 18:42",
+  "lastUpdate": "14/05/2020 18:48",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -117,25 +117,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "LH",
-      "vuelo": "8264",
-      "st": "14/05/2020 06:45",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "FRA",
-      "via": "MVD",
-      "remark": "CON",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1087",
       "st": "14/05/2020 10:45",
@@ -247,25 +228,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "5X",
-      "vuelo": "411",
-      "st": "14/05/2020 06:55",
-      "matricula": "N305UP",
-      "posicion": "55",
-      "et": "",
-      "at": "14/5/2020 06:46",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MIA",
-      "via": "VCP",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
