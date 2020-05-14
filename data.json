@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/05/2020 07:00",
+  "lastUpdate": "14/05/2020 07:07",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -655,7 +655,7 @@
       "matricula": "LVFNK",
       "posicion": "12",
       "et": "",
-      "at": "",
+      "at": "14/5/2020 07:06",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -663,7 +663,7 @@
       "puerta": "16",
       "ruta": "BOG",
       "via": "",
-      "remark": "HOR",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
