@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "14/05/2020 18:54",
+  "lastUpdate": "14/05/2020 19:00",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "GOM",
-      "st": "14/05/2020 19:00",
-      "matricula": "LVGOM",
-      "posicion": "41",
-      "et": "14/5/2020 19:10",
-      "at": "",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "CPC",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "1"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AR",
@@ -228,6 +209,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "GOM",
+      "st": "14/05/2020 19:00",
+      "matricula": "LVGOM",
+      "posicion": "41",
+      "et": "14/5/2020 19:10",
+      "at": "14/5/2020 18:59",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "CPC",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "1"
     },
     {
       "tipo": "partida",
