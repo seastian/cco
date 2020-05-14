@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13/05/2020 23:48",
+  "lastUpdate": "13/05/2020 23:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -549,7 +549,7 @@
       "puerta": "09",
       "ruta": "PTY",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
