@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "15/05/2020 12:59",
+  "lastUpdate": "15/05/2020 13:05",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AV",
-      "vuelo": "291",
-      "st": "15/05/2020 13:36",
-      "matricula": "N795AV",
-      "posicion": "50",
-      "et": "15/5/2020 13:00",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "OB",
@@ -304,6 +285,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "218"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AV",
+      "vuelo": "291",
+      "st": "15/05/2020 13:36",
+      "matricula": "N795AV",
+      "posicion": "50",
+      "et": "15/5/2020 13:00",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "BOG",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "partida",
