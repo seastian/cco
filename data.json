@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/05/2020 20:17",
+  "lastUpdate": "15/05/2020 20:24",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -465,7 +465,7 @@
       "matricula": "CCBGI",
       "posicion": "10",
       "et": "",
-      "at": "",
+      "at": "15/5/2020 19:35",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -473,7 +473,7 @@
       "puerta": "10",
       "ruta": "SCL",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
