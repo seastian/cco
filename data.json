@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/05/2020 10:10",
+  "lastUpdate": "15/05/2020 10:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -225,6 +225,25 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "TK",
+      "vuelo": "6169",
+      "st": "15/05/2020 22:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "IST",
+      "via": "GRU",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
