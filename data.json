@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/05/2020 19:27",
+  "lastUpdate": "15/05/2020 19:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -408,7 +408,7 @@
       "matricula": "CP2926",
       "posicion": "09",
       "et": "15/5/2020 18:00",
-      "at": "",
+      "at": "15/5/2020 19:28",
       "term": "A",
       "sector": "AP",
       "chkFrom": "027",
@@ -416,7 +416,7 @@
       "puerta": "09",
       "ruta": "VVI",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -473,7 +473,7 @@
       "puerta": "10",
       "ruta": "SCL",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
