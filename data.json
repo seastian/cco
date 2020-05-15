@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/05/2020 17:47",
+  "lastUpdate": "15/05/2020 17:53",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -500,8 +500,8 @@
       "aerolinea": "AR",
       "vuelo": "1090",
       "st": "15/05/2020 23:10",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "LVFVH",
+      "posicion": "M11",
       "et": "",
       "at": "",
       "term": "TCA",
