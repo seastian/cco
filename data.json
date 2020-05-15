@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/05/2020 16:20",
+  "lastUpdate": "15/05/2020 16:26",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -190,6 +190,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1141",
+      "st": "16/05/2020 04:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "16/5/2020 04:24",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "FCO",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": "243"
     },
     {
       "tipo": "arribo",
