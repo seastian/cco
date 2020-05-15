@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/05/2020 14:33",
+  "lastUpdate": "15/05/2020 14:39",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,7 +7,7 @@
       "vuelo": "9708",
       "st": "15/05/2020 13:30",
       "matricula": "CP2926",
-      "posicion": "",
+      "posicion": "09",
       "et": "15/5/2020 17:00",
       "at": "",
       "term": "A",
@@ -18,7 +18,7 @@
       "via": "",
       "remark": "DEM",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "163"
     },
     {
       "tipo": "arribo",
@@ -444,14 +444,14 @@
       "vuelo": "9709",
       "st": "15/05/2020 15:00",
       "matricula": "CP2926",
-      "posicion": "",
+      "posicion": "09",
       "et": "15/5/2020 18:00",
       "at": "",
       "term": "A",
       "sector": "AP",
       "chkFrom": "027",
       "chkTo": "032",
-      "puerta": "",
+      "puerta": "09",
       "ruta": "VVI",
       "via": "",
       "remark": "DEM",
