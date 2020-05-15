@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/05/2020 14:39",
+  "lastUpdate": "15/05/2020 14:45",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -190,25 +190,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "2D",
-      "vuelo": "303",
-      "st": "14/05/2020 22:30",
-      "matricula": "N703KW",
-      "posicion": "10",
-      "et": "15/5/2020 02:45",
-      "at": "15/5/2020 02:42",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "241"
     },
     {
       "tipo": "arribo",
