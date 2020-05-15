@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "14/05/2020 21:56",
+  "lastUpdate": "14/05/2020 22:02",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1405",
-      "st": "14/05/2020 22:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "QT",
@@ -228,6 +209,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "242"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "UC",
+      "vuelo": "1405",
+      "st": "14/05/2020 22:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "partida",
