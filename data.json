@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/05/2020 15:29",
+  "lastUpdate": "15/05/2020 15:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -402,6 +402,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "AV",
+      "vuelo": "290",
+      "st": "15/05/2020 16:36",
+      "matricula": "N795AV",
+      "posicion": "50",
+      "et": "",
+      "at": "15/5/2020 15:30",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "09",
+      "ruta": "BOG",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "OB",
       "vuelo": "9709",
       "st": "15/05/2020 15:00",
@@ -417,25 +436,6 @@
       "ruta": "VVI",
       "via": "",
       "remark": "DEM",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AV",
-      "vuelo": "290",
-      "st": "15/05/2020 16:36",
-      "matricula": "N795AV",
-      "posicion": "50",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "09",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "HOR",
       "sanidad": "NO"
     },
     {
@@ -645,6 +645,25 @@
       "ruta": "IST",
       "via": "GRU",
       "remark": "DEM",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1406",
+      "st": "16/05/2020 03:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "LAX",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     }
   ]
