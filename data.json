@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/05/2020 06:54",
+  "lastUpdate": "15/05/2020 07:00",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -190,25 +190,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "GOM",
-      "st": "14/05/2020 19:00",
-      "matricula": "LVGOM",
-      "posicion": "41",
-      "et": "14/5/2020 19:10",
-      "at": "14/5/2020 18:59",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "CPC",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "1"
     },
     {
       "tipo": "arribo",
@@ -719,6 +700,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MIA",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LA",
+      "vuelo": "1955",
+      "st": "15/05/2020 19:00",
+      "matricula": "CCBGP",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
