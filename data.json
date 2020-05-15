@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/05/2020 19:21",
+  "lastUpdate": "15/05/2020 19:27",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -416,7 +416,7 @@
       "puerta": "09",
       "ruta": "VVI",
       "via": "",
-      "remark": "DEM",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
