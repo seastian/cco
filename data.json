@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "15/05/2020 18:18",
+  "lastUpdate": "15/05/2020 18:25",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1955",
-      "st": "15/05/2020 17:00",
-      "matricula": "CCBGI",
-      "posicion": "10",
-      "et": "15/5/2020 18:37",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AOG",
