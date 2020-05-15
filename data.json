@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/05/2020 15:04",
+  "lastUpdate": "15/05/2020 15:11",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -383,25 +383,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "OB",
-      "vuelo": "9709",
-      "st": "15/05/2020 15:00",
-      "matricula": "CP2926",
-      "posicion": "09",
-      "et": "15/5/2020 18:00",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "027",
-      "chkTo": "032",
-      "puerta": "09",
-      "ruta": "VVI",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "M3",
       "vuelo": "8495",
       "st": "15/05/2020 15:10",
@@ -417,6 +398,25 @@
       "ruta": "VCP",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "OB",
+      "vuelo": "9709",
+      "st": "15/05/2020 15:00",
+      "matricula": "CP2926",
+      "posicion": "09",
+      "et": "15/5/2020 18:00",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "027",
+      "chkTo": "032",
+      "puerta": "09",
+      "ruta": "VVI",
+      "via": "",
+      "remark": "DEM",
       "sanidad": "NO"
     },
     {
