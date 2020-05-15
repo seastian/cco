@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/05/2020 10:22",
+  "lastUpdate": "15/05/2020 10:29",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -46,7 +46,7 @@
       "st": "15/05/2020 11:30",
       "matricula": "CCBEB",
       "posicion": "",
-      "et": "",
+      "et": "15/5/2020 11:55",
       "at": "",
       "term": "A",
       "sector": "",
@@ -54,9 +54,9 @@
       "lF": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "",
+      "remark": "DEM",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "218"
     },
     {
       "tipo": "arribo",
@@ -117,10 +117,10 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1955",
+      "aerolinea": "M3",
+      "vuelo": "8450",
       "st": "15/05/2020 17:00",
-      "matricula": "CCBGP",
+      "matricula": "",
       "posicion": "",
       "et": "",
       "at": "",
@@ -128,7 +128,7 @@
       "sector": "",
       "cinta": "",
       "lF": "",
-      "ruta": "MIA",
+      "ruta": "VCP",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -155,25 +155,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "M3",
-      "vuelo": "8450",
-      "st": "15/05/2020 17:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "KL",
       "vuelo": "701",
       "st": "15/05/2020 17:15",
@@ -188,6 +169,25 @@
       "ruta": "AMS",
       "via": "",
       "remark": "EST",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "1955",
+      "st": "15/05/2020 17:00",
+      "matricula": "CCBGI",
+      "posicion": "",
+      "et": "15/5/2020 18:37",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
     },
