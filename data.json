@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/05/2020 14:58",
+  "lastUpdate": "15/05/2020 15:04",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -160,7 +160,7 @@
       "st": "15/05/2020 22:10",
       "matricula": "",
       "posicion": "",
-      "et": "16/5/2020 01:00",
+      "et": "16/5/2020 01:10",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -383,6 +383,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "OB",
+      "vuelo": "9709",
+      "st": "15/05/2020 15:00",
+      "matricula": "CP2926",
+      "posicion": "09",
+      "et": "15/5/2020 18:00",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "027",
+      "chkTo": "032",
+      "puerta": "09",
+      "ruta": "VVI",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "M3",
       "vuelo": "8495",
       "st": "15/05/2020 15:10",
@@ -417,25 +436,6 @@
       "ruta": "BOG",
       "via": "",
       "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "OB",
-      "vuelo": "9709",
-      "st": "15/05/2020 15:00",
-      "matricula": "CP2926",
-      "posicion": "09",
-      "et": "15/5/2020 18:00",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "027",
-      "chkTo": "032",
-      "puerta": "09",
-      "ruta": "VVI",
-      "via": "",
-      "remark": "DEM",
       "sanidad": "NO"
     },
     {
@@ -554,25 +554,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "JJ",
-      "vuelo": "H24",
-      "st": "15/05/2020 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "",
-      "ruta": "QTR",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "H24N",
       "st": "15/05/2020 23:59",
@@ -611,6 +592,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "JJ",
+      "vuelo": "H24",
+      "st": "15/05/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "QTR",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "M3",
       "vuelo": "8496",
       "st": "16/05/2020 02:10",
@@ -635,7 +635,7 @@
       "st": "16/05/2020 01:10",
       "matricula": "",
       "posicion": "",
-      "et": "",
+      "et": "16/5/2020 02:10",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -644,7 +644,7 @@
       "puerta": "",
       "ruta": "IST",
       "via": "GRU",
-      "remark": "",
+      "remark": "DEM",
       "sanidad": "NO"
     }
   ]
