@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/05/2020 21:18",
+  "lastUpdate": "14/05/2020 21:24",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -74,25 +74,6 @@
       "ruta": "MIA",
       "via": "SCL",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1087",
-      "st": "14/05/2020 10:45",
-      "matricula": "LVFVI",
-      "posicion": "50",
-      "et": "14/5/2020 09:30",
-      "at": "14/5/2020 09:21",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "PVG",
-      "via": "AKL",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
