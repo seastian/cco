@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/05/2020 13:30",
+  "lastUpdate": "15/05/2020 13:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -304,25 +304,6 @@
       "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "QT",
-      "vuelo": "4078",
-      "st": "15/05/2020 00:45",
-      "matricula": "N330QT",
-      "posicion": "55",
-      "et": "",
-      "at": "15/5/2020 01:36",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
