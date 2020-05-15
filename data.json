@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/05/2020 16:01",
+  "lastUpdate": "15/05/2020 16:07",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -64,7 +64,7 @@
       "vuelo": "701",
       "st": "15/05/2020 17:15",
       "matricula": "PHBHE",
-      "posicion": "",
+      "posicion": "11",
       "et": "15/5/2020 17:10",
       "at": "",
       "term": "TCA",
@@ -481,7 +481,7 @@
       "aerolinea": "LA",
       "vuelo": "1955",
       "st": "15/05/2020 19:00",
-      "matricula": "CCBGP",
+      "matricula": "CCBGI",
       "posicion": "",
       "et": "",
       "at": "",
