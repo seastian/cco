@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/05/2020 10:29",
+  "lastUpdate": "15/05/2020 10:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -45,7 +45,7 @@
       "vuelo": "1101",
       "st": "15/05/2020 11:30",
       "matricula": "CCBEB",
-      "posicion": "",
+      "posicion": "02",
       "et": "15/5/2020 11:55",
       "at": "",
       "term": "A",
@@ -520,14 +520,14 @@
       "vuelo": "1102",
       "st": "15/05/2020 12:30",
       "matricula": "CCBEB",
-      "posicion": "",
+      "posicion": "02",
       "et": "",
       "at": "",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
       "chkTo": "053",
-      "puerta": "",
+      "puerta": "01",
       "ruta": "SCL",
       "via": "",
       "remark": "HOR",
