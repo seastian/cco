@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/05/2020 08:11",
+  "lastUpdate": "15/05/2020 08:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -323,25 +323,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "PRV",
-      "vuelo": "GOM",
-      "st": "14/05/2020 19:30",
-      "matricula": "LVGOM",
-      "posicion": "41",
-      "et": "",
-      "at": "14/5/2020 20:14",
-      "term": "FBO",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "FDO",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
