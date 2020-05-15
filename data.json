@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/05/2020 23:05",
+  "lastUpdate": "14/05/2020 23:11",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -73,6 +73,25 @@
       "lF": "",
       "ruta": "MIA",
       "via": "SCL",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "4M",
+      "vuelo": "9983",
+      "st": "15/05/2020 11:09",
+      "matricula": "LVBRA",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
+      "via": "",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
