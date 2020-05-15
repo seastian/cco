@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/05/2020 09:57",
+  "lastUpdate": "15/05/2020 10:04",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -26,7 +26,7 @@
       "vuelo": "423",
       "st": "15/05/2020 11:30",
       "matricula": "CXLSS",
-      "posicion": "",
+      "posicion": "60",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -213,8 +213,8 @@
     {
       "tipo": "arribo",
       "aerolinea": "UC",
-      "vuelo": "1405",
-      "st": "14/05/2020 22:00",
+      "vuelo": "1407",
+      "st": "15/05/2020 22:00",
       "matricula": "",
       "posicion": "",
       "et": "",
@@ -225,7 +225,7 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "CON",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
@@ -520,7 +520,7 @@
       "vuelo": "424",
       "st": "15/05/2020 12:30",
       "matricula": "CXLSS",
-      "posicion": "",
+      "posicion": "60",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -662,6 +662,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "SCL",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "526",
+      "st": "15/05/2020 22:00",
+      "matricula": "CXLSS",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
