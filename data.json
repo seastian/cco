@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/05/2020 01:35",
+  "lastUpdate": "15/05/2020 01:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -110,6 +110,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "VVI",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AV",
+      "vuelo": "291",
+      "st": "15/05/2020 13:36",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "BOG",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -503,7 +522,7 @@
       "matricula": "N330QT",
       "posicion": "55",
       "et": "",
-      "at": "",
+      "at": "15/5/2020 01:36",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -511,7 +530,7 @@
       "puerta": "",
       "ruta": "BOG",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
