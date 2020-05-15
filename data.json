@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "15/05/2020 04:30",
+  "lastUpdate": "15/05/2020 04:36",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "5X",
-      "vuelo": "412",
-      "st": "15/05/2020 05:12",
-      "matricula": "N309UP",
-      "posicion": "55",
-      "et": "15/5/2020 04:35",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "SCL",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "4M",
@@ -285,6 +266,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "241"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "5X",
+      "vuelo": "412",
+      "st": "15/05/2020 05:12",
+      "matricula": "N309UP",
+      "posicion": "55",
+      "et": "15/5/2020 04:35",
+      "at": "15/5/2020 04:36",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "SCL",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "partida",
@@ -624,6 +624,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "VCP",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AV",
+      "vuelo": "290",
+      "st": "15/05/2020 16:36",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "BOG",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
