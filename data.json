@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/05/2020 11:00",
+  "lastUpdate": "15/05/2020 11:06",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -82,7 +82,7 @@
       "aerolinea": "AV",
       "vuelo": "291",
       "st": "15/05/2020 13:36",
-      "matricula": "",
+      "matricula": "N795AV",
       "posicion": "",
       "et": "",
       "at": "",
