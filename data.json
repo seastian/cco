@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/05/2020 22:46",
+  "lastUpdate": "14/05/2020 22:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -351,7 +351,7 @@
       "matricula": "LVGHQ",
       "posicion": "15",
       "et": "",
-      "at": "",
+      "at": "14/5/2020 22:52",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -359,7 +359,7 @@
       "puerta": "20",
       "ruta": "FCO",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -402,25 +402,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "JJ",
-      "vuelo": "H24",
-      "st": "14/05/2020 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "",
-      "ruta": "QTR",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "H24",
       "st": "14/05/2020 23:59",
@@ -432,6 +413,25 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
+      "puerta": "",
+      "ruta": "QTR",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "JJ",
+      "vuelo": "H24",
+      "st": "14/05/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
       "puerta": "",
       "ruta": "QTR",
       "via": "",
