@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/05/2020 14:52",
+  "lastUpdate": "15/05/2020 14:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -136,25 +136,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "TK",
-      "vuelo": "6169",
-      "st": "15/05/2020 22:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "IST",
-      "via": "GRU",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "M3",
       "vuelo": "8496",
       "st": "15/05/2020 23:45",
@@ -169,6 +150,25 @@
       "ruta": "VCP",
       "via": "",
       "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "TK",
+      "vuelo": "6169",
+      "st": "15/05/2020 22:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "16/5/2020 01:00",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "IST",
+      "via": "GRU",
+      "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
     },
