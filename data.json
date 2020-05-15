@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/05/2020 17:10",
+  "lastUpdate": "15/05/2020 17:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -275,14 +275,14 @@
       "matricula": "CP2926",
       "posicion": "09",
       "et": "15/5/2020 17:00",
-      "at": "",
+      "at": "15/5/2020 17:11",
       "term": "A",
       "sector": "",
       "cinta": "9",
       "lF": "009",
       "ruta": "VVI",
       "via": "",
-      "remark": "DEM",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "163"
     },
@@ -359,7 +359,7 @@
       "puerta": "10",
       "ruta": "MIA",
       "via": "",
-      "remark": "DEM",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
