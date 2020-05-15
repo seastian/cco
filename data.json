@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "14/05/2020 21:06",
+  "lastUpdate": "14/05/2020 21:12",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1361",
-      "st": "14/05/2020 21:30",
-      "matricula": "LVFNK",
-      "posicion": "14",
-      "et": "14/5/2020 21:08",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "242"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "UC",
@@ -45,8 +26,8 @@
       "vuelo": "8494",
       "st": "14/05/2020 23:45",
       "matricula": "PRABD",
-      "posicion": "",
-      "et": "",
+      "posicion": "54",
+      "et": "14/5/2020 23:44",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -54,7 +35,7 @@
       "lF": "",
       "ruta": "VCP",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -228,6 +209,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "1"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1361",
+      "st": "14/05/2020 21:30",
+      "matricula": "LVFNK",
+      "posicion": "14",
+      "et": "14/5/2020 21:08",
+      "at": "14/5/2020 21:08",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "009",
+      "ruta": "BOG",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "242"
     },
     {
       "tipo": "partida",
@@ -444,7 +444,7 @@
       "vuelo": "8494",
       "st": "15/05/2020 02:10",
       "matricula": "PRABD",
-      "posicion": "",
+      "posicion": "54",
       "et": "15/5/2020 01:07",
       "at": "",
       "term": "TCA",
@@ -455,6 +455,25 @@
       "ruta": "SCL",
       "via": "",
       "remark": "EST",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "4M",
+      "vuelo": "9982",
+      "st": "15/05/2020 05:00",
+      "matricula": "LVBSJ",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     }
   ]
