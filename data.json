@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/05/2020 11:25",
+  "lastUpdate": "16/05/2020 11:31",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -246,25 +246,6 @@
       "ruta": "PVG",
       "via": "AKL",
       "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1408",
-      "st": "15/05/2020 23:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "LAX",
-      "via": "",
-      "remark": "CON",
       "sanidad": "NO"
     },
     {
