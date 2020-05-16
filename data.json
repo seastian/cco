@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/05/2020 14:51",
+  "lastUpdate": "16/05/2020 14:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -26,7 +26,7 @@
       "vuelo": "1975",
       "st": "16/05/2020 17:00",
       "matricula": "CCBGA",
-      "posicion": "",
+      "posicion": "54",
       "et": "16/5/2020 16:30",
       "at": "",
       "term": "TCA",
@@ -292,7 +292,7 @@
       "vuelo": "1975",
       "st": "16/05/2020 19:00",
       "matricula": "CCBGA",
-      "posicion": "",
+      "posicion": "54",
       "et": "",
       "at": "",
       "term": "TCA",
