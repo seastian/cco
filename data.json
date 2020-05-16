@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/05/2020 14:58",
+  "lastUpdate": "16/05/2020 15:04",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -45,7 +45,7 @@
       "vuelo": "6190",
       "st": "16/05/2020 16:40",
       "matricula": "ZKNZQ",
-      "posicion": "03",
+      "posicion": "11",
       "et": "16/5/2020 16:53",
       "at": "",
       "term": "TCA",
