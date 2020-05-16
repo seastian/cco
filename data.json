@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/05/2020 04:38",
+  "lastUpdate": "16/05/2020 04:45",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -91,6 +91,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "VCP",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "NZ",
+      "vuelo": "6190",
+      "st": "16/05/2020 16:40",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "AKL",
       "via": "",
       "remark": "",
       "sanidad": "NO",
