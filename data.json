@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/05/2020 17:22",
+  "lastUpdate": "16/05/2020 17:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -169,25 +169,6 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "5X",
-      "vuelo": "413",
-      "st": "16/05/2020 06:05",
-      "matricula": "N309UP",
-      "posicion": "55",
-      "et": "",
-      "at": "16/5/2020 05:25",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MIA",
-      "via": "VCP",
       "remark": "PAR",
       "sanidad": "NO"
     },
