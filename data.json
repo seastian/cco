@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "16/05/2020 01:49",
+  "lastUpdate": "16/05/2020 01:55",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "TK",
-      "vuelo": "6169",
-      "st": "15/05/2020 22:10",
-      "matricula": "TCLJI",
-      "posicion": "54",
-      "et": "16/5/2020 01:57",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "IST",
-      "via": "GRU",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": "0"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "UC",
@@ -323,6 +304,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "TK",
+      "vuelo": "6169",
+      "st": "15/05/2020 22:10",
+      "matricula": "TCLJI",
+      "posicion": "54",
+      "et": "16/5/2020 01:57",
+      "at": "16/5/2020 01:54",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "IST",
+      "via": "GRU",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "0"
     },
     {
       "tipo": "partida",
