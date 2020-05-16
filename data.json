@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "16/05/2020 12:40",
+  "lastUpdate": "16/05/2020 12:46",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AV",
-      "vuelo": "291",
-      "st": "16/05/2020 13:36",
-      "matricula": "N793AV",
-      "posicion": "51",
-      "et": "16/5/2020 12:40",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "M3",
@@ -188,6 +169,25 @@
       "ruta": "PVG",
       "via": "AKL",
       "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AV",
+      "vuelo": "291",
+      "st": "16/05/2020 13:36",
+      "matricula": "N793AV",
+      "posicion": "51",
+      "et": "16/5/2020 12:40",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "BOG",
+      "via": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
