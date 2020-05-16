@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/05/2020 10:10",
+  "lastUpdate": "16/05/2020 10:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -8,7 +8,7 @@
       "st": "16/05/2020 11:09",
       "matricula": "LVBRA",
       "posicion": "07",
-      "et": "16/5/2020 10:19",
+      "et": "16/5/2020 10:36",
       "at": "",
       "term": "A",
       "sector": "",
@@ -26,7 +26,7 @@
       "vuelo": "1089",
       "st": "16/05/2020 10:45",
       "matricula": "LVGIF",
-      "posicion": "",
+      "posicion": "50",
       "et": "16/5/2020 11:50",
       "at": "",
       "term": "TCA",
