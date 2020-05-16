@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/05/2020 14:26",
+  "lastUpdate": "16/05/2020 14:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -237,7 +237,7 @@
       "matricula": "PHBHE",
       "posicion": "11",
       "et": "",
-      "at": "",
+      "at": "16/5/2020 14:31",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -245,7 +245,7 @@
       "puerta": "14",
       "ruta": "AMS",
       "via": "",
-      "remark": "HOR",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -327,25 +327,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
-      "st": "16/05/2020 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "209",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "QTR",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "H24",
       "st": "16/05/2020 23:59",
       "matricula": "",
@@ -375,6 +356,25 @@
       "sector": "AP",
       "chkFrom": "041",
       "chkTo": "053",
+      "puerta": "",
+      "ruta": "QTR",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "H24N",
+      "st": "16/05/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "209",
+      "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
       "via": "",
