@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/05/2020 06:12",
+  "lastUpdate": "16/05/2020 06:18",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -150,25 +150,6 @@
       "ruta": "MIA",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1955",
-      "st": "15/05/2020 17:00",
-      "matricula": "CCBGI",
-      "posicion": "10",
-      "et": "15/5/2020 18:37",
-      "at": "15/5/2020 18:18",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
