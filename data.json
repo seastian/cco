@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/05/2020 00:21",
+  "lastUpdate": "16/05/2020 00:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -60,25 +60,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1089",
-      "st": "16/05/2020 10:45",
-      "matricula": "LVGIF",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "PVG",
-      "via": "AKL",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "4M",
       "vuelo": "9983",
       "st": "16/05/2020 11:09",
@@ -93,6 +74,25 @@
       "ruta": "SCL",
       "via": "",
       "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1089",
+      "st": "16/05/2020 10:45",
+      "matricula": "LVGIF",
+      "posicion": "",
+      "et": "16/5/2020 11:40",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "PVG",
+      "via": "AKL",
+      "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
     },
@@ -511,7 +511,7 @@
       "puerta": "17",
       "ruta": "PVG",
       "via": "AKL",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
