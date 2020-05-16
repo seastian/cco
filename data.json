@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/05/2020 03:04",
+  "lastUpdate": "16/05/2020 03:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -326,25 +326,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "M3",
-      "vuelo": "8495",
-      "st": "15/05/2020 15:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AV",
       "vuelo": "290",
       "st": "15/05/2020 16:36",
@@ -597,7 +578,7 @@
       "st": "16/05/2020 01:10",
       "matricula": "TCLJI",
       "posicion": "54",
-      "et": "16/5/2020 02:10",
+      "et": "16/5/2020 02:50",
       "at": "",
       "term": "TCA",
       "sector": "",
