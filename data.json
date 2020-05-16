@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/05/2020 05:16",
+  "lastUpdate": "16/05/2020 05:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -304,25 +304,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "243"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "2D",
-      "vuelo": "888",
-      "st": "15/05/2020 12:30",
-      "matricula": "N703KW",
-      "posicion": "10",
-      "et": "15/5/2020 14:00",
-      "at": "15/5/2020 17:21",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "062",
-      "chkTo": "067",
-      "puerta": "10",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
