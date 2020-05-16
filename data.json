@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/05/2020 02:58",
+  "lastUpdate": "16/05/2020 03:04",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -663,6 +663,25 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "VCP",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "KL",
+      "vuelo": "702",
+      "st": "16/05/2020 15:00",
+      "matricula": "PHBHE",
+      "posicion": "11",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "14",
+      "ruta": "AMS",
+      "via": "",
       "remark": "HOR",
       "sanidad": "NO"
     }
