@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "16/05/2020 16:25",
+  "lastUpdate": "16/05/2020 16:31",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1975",
-      "st": "16/05/2020 17:00",
-      "matricula": "CCBGA",
-      "posicion": "54",
-      "et": "16/5/2020 16:30",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "NZ",
@@ -76,25 +57,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1141",
-      "st": "16/05/2020 04:00",
-      "matricula": "LVGHQ",
-      "posicion": "14",
-      "et": "16/5/2020 04:24",
-      "at": "16/5/2020 04:27",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "FCO",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "243"
     },
     {
       "tipo": "arribo",
@@ -169,6 +131,25 @@
       "ruta": "VCP",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "1975",
+      "st": "16/05/2020 17:00",
+      "matricula": "CCBGA",
+      "posicion": "54",
+      "et": "16/5/2020 16:30",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
