@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/05/2020 11:50",
+  "lastUpdate": "16/05/2020 11:56",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,7 +7,7 @@
       "vuelo": "291",
       "st": "16/05/2020 13:36",
       "matricula": "N793AV",
-      "posicion": "",
+      "posicion": "03",
       "et": "16/5/2020 12:40",
       "at": "",
       "term": "TCA",
