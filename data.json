@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/05/2020 00:09",
+  "lastUpdate": "16/05/2020 00:15",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -83,6 +83,25 @@
       "vuelo": "9983",
       "st": "16/05/2020 11:09",
       "matricula": "LVBRA",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "4M",
+      "vuelo": "9983",
+      "st": "16/05/2020 12:10",
+      "matricula": "LVBSJ",
       "posicion": "",
       "et": "",
       "at": "",
@@ -304,25 +323,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "424",
-      "st": "15/05/2020 12:30",
-      "matricula": "CXLSS",
-      "posicion": "51A",
-      "et": "",
-      "at": "15/5/2020 12:12",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
