@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/05/2020 03:54",
+  "lastUpdate": "16/05/2020 04:01",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -91,6 +91,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "BOG",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "M3",
+      "vuelo": "8498",
+      "st": "16/05/2020 16:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "VCP",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -596,7 +615,7 @@
       "vuelo": "9982",
       "st": "16/05/2020 05:00",
       "matricula": "LVBSJ",
-      "posicion": "63B",
+      "posicion": "51A",
       "et": "",
       "at": "",
       "term": "A",
