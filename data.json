@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/05/2020 02:52",
+  "lastUpdate": "16/05/2020 02:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -634,7 +634,7 @@
       "vuelo": "9982",
       "st": "16/05/2020 05:00",
       "matricula": "LVBSJ",
-      "posicion": "",
+      "posicion": "63B",
       "et": "",
       "at": "",
       "term": "A",
