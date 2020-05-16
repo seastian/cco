@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/05/2020 19:52",
+  "lastUpdate": "16/05/2020 19:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -319,8 +319,8 @@
       "chkFrom": "085",
       "chkTo": "089",
       "puerta": "01",
-      "ruta": "VVI",
-      "via": "",
+      "ruta": "UIO",
+      "via": "VVI",
       "remark": "HOR",
       "sanidad": "NO"
     },
