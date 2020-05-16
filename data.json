@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/05/2020 07:15",
+  "lastUpdate": "16/05/2020 07:21",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -643,6 +643,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "SCL",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "8498",
+      "st": "16/05/2020 19:20",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
