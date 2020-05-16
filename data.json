@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/05/2020 05:10",
+  "lastUpdate": "16/05/2020 05:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -152,25 +152,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "OB",
-      "vuelo": "9708",
-      "st": "15/05/2020 13:30",
-      "matricula": "CP2926",
-      "posicion": "09",
-      "et": "15/5/2020 17:00",
-      "at": "15/5/2020 17:11",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "VVI",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "163"
     },
     {
       "tipo": "arribo",
