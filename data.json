@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/05/2020 09:26",
+  "lastUpdate": "16/05/2020 09:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -8,7 +8,7 @@
       "st": "16/05/2020 11:09",
       "matricula": "LVBRA",
       "posicion": "",
-      "et": "",
+      "et": "16/5/2020 10:40",
       "at": "",
       "term": "A",
       "sector": "",
@@ -16,7 +16,7 @@
       "lF": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
