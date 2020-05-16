@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/05/2020 17:03",
+  "lastUpdate": "16/05/2020 17:09",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -355,7 +355,7 @@
       "term": "A",
       "sector": "AP",
       "chkFrom": "085",
-      "chkTo": "087",
+      "chkTo": "089",
       "puerta": "01",
       "ruta": "VVI",
       "via": "",
