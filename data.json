@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/05/2020 12:46",
+  "lastUpdate": "16/05/2020 12:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -22,6 +22,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "1975",
+      "st": "16/05/2020 17:00",
+      "matricula": "CCBGA",
+      "posicion": "",
+      "et": "16/5/2020 16:30",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "NZ",
       "vuelo": "6190",
       "st": "16/05/2020 16:40",
@@ -36,25 +55,6 @@
       "ruta": "AKL",
       "via": "",
       "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1975",
-      "st": "16/05/2020 17:00",
-      "matricula": "CCBGA",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
