@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/05/2020 04:26",
+  "lastUpdate": "16/05/2020 04:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -313,14 +313,14 @@
       "matricula": "LVGHQ",
       "posicion": "14",
       "et": "16/5/2020 04:24",
-      "at": "",
+      "at": "16/5/2020 04:27",
       "term": "A",
       "sector": "",
       "cinta": "9",
       "lF": "009",
       "ruta": "FCO",
       "via": "",
-      "remark": "DEM",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "243"
     },
