@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "15/05/2020 20:55",
+  "lastUpdate": "15/05/2020 21:01",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "421",
-      "st": "15/05/2020 21:00",
-      "matricula": "CXLSS",
-      "posicion": "51A",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "UC",
@@ -302,6 +283,25 @@
       "ruta": "MIA",
       "via": "",
       "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AOG",
+      "vuelo": "421",
+      "st": "15/05/2020 21:00",
+      "matricula": "CXLSS",
+      "posicion": "51A",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
