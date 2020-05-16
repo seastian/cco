@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/05/2020 03:29",
+  "lastUpdate": "16/05/2020 03:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -326,25 +326,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AV",
-      "vuelo": "290",
-      "st": "15/05/2020 16:36",
-      "matricula": "N795AV",
-      "posicion": "50",
-      "et": "",
-      "at": "15/5/2020 15:30",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "09",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "OB",
       "vuelo": "9709",
       "st": "15/05/2020 15:00",
@@ -587,7 +568,7 @@
       "puerta": "",
       "ruta": "IST",
       "via": "GRU",
-      "remark": "DEM",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -606,7 +587,7 @@
       "puerta": "",
       "ruta": "LAX",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
