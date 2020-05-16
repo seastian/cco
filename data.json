@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/05/2020 12:27",
+  "lastUpdate": "16/05/2020 12:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -190,25 +190,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1090",
-      "st": "15/05/2020 23:10",
-      "matricula": "LVFVH",
-      "posicion": "13",
-      "et": "",
-      "at": "16/5/2020 00:28",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "17",
-      "ruta": "PVG",
-      "via": "AKL",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
