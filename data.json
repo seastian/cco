@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/05/2020 06:25",
+  "lastUpdate": "16/05/2020 06:31",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -303,25 +303,6 @@
       "ruta": "VVI",
       "via": "",
       "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "M3",
-      "vuelo": "8450",
-      "st": "15/05/2020 18:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "CON",
       "sanidad": "NO"
     },
     {
