@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/05/2020 12:52",
+  "lastUpdate": "16/05/2020 12:59",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -180,14 +180,14 @@
       "matricula": "N793AV",
       "posicion": "51",
       "et": "16/5/2020 12:40",
-      "at": "",
+      "at": "16/5/2020 12:53",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "BOG",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
