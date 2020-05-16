@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/05/2020 09:45",
+  "lastUpdate": "16/05/2020 09:51",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -247,25 +247,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "243"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "526",
-      "st": "15/05/2020 22:00",
-      "matricula": "CXLSS",
-      "posicion": "51A",
-      "et": "",
-      "at": "15/5/2020 21:49",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
