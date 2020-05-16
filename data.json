@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/05/2020 01:43",
+  "lastUpdate": "16/05/2020 01:49",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -326,25 +326,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "LA",
-      "vuelo": "1102",
-      "st": "15/05/2020 12:30",
-      "matricula": "CCBEB",
-      "posicion": "02",
-      "et": "15/5/2020 13:15",
-      "at": "15/5/2020 13:45",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "01",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "2D",
       "vuelo": "888",
       "st": "15/05/2020 12:30",
@@ -611,6 +592,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "AMS",
+      "vuelo": "7119",
+      "st": "16/05/2020 01:50",
+      "matricula": "CXMAS",
+      "posicion": "51A",
+      "et": "",
+      "at": "16/5/2020 01:25",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "TK",
       "vuelo": "6170",
       "st": "16/05/2020 01:10",
@@ -626,25 +626,6 @@
       "ruta": "IST",
       "via": "GRU",
       "remark": "DEM",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AMS",
-      "vuelo": "7119",
-      "st": "16/05/2020 01:50",
-      "matricula": "CXMAS",
-      "posicion": "51A",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "HOR",
       "sanidad": "NO"
     },
     {
