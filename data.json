@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/05/2020 15:35",
+  "lastUpdate": "16/05/2020 15:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -152,25 +152,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "TK",
-      "vuelo": "6170",
-      "st": "16/05/2020 01:10",
-      "matricula": "TCLJI",
-      "posicion": "54",
-      "et": "16/5/2020 02:50",
-      "at": "16/5/2020 03:36",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "IST",
-      "via": "GRU",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
