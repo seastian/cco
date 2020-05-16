@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/05/2020 05:03",
+  "lastUpdate": "16/05/2020 05:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -171,25 +171,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "163"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "KL",
-      "vuelo": "701",
-      "st": "15/05/2020 17:15",
-      "matricula": "PHBHE",
-      "posicion": "11",
-      "et": "15/5/2020 17:10",
-      "at": "15/5/2020 17:06",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "AMS",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
