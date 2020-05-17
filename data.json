@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/05/2020 02:25",
+  "lastUpdate": "17/05/2020 02:31",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -152,25 +152,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "KL",
-      "vuelo": "702",
-      "st": "16/05/2020 15:00",
-      "matricula": "PHBHE",
-      "posicion": "11",
-      "et": "",
-      "at": "16/5/2020 14:31",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "14",
-      "ruta": "AMS",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
