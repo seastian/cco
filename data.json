@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/05/2020 08:09",
+  "lastUpdate": "17/05/2020 08:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -218,7 +218,7 @@
       "matricula": "CCCWV",
       "posicion": "06",
       "et": "",
-      "at": "",
+      "at": "17/5/2020 07:55",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -226,7 +226,7 @@
       "puerta": "05",
       "ruta": "LIM",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
