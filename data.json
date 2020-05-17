@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/05/2020 04:18",
+  "lastUpdate": "17/05/2020 04:24",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -53,6 +53,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "VCP",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "4M",
+      "vuelo": "7953",
+      "st": "17/05/2020 16:20",
+      "matricula": "CCCWV",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "LIM",
       "via": "",
       "remark": "",
       "sanidad": "NO",
