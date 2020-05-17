@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/05/2020 12:51",
+  "lastUpdate": "17/05/2020 12:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -98,12 +98,12 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1407",
-      "st": "17/05/2020 22:00",
-      "matricula": "",
+      "aerolinea": "GTI",
+      "vuelo": "033",
+      "st": "17/05/2020 23:05",
+      "matricula": "N859GT",
       "posicion": "",
-      "et": "",
+      "et": "17/5/2020 21:10",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -111,15 +111,15 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
     {
       "tipo": "arribo",
-      "aerolinea": "GTI",
-      "vuelo": "033",
-      "st": "17/05/2020 23:05",
+      "aerolinea": "UC",
+      "vuelo": "1407",
+      "st": "17/05/2020 22:00",
       "matricula": "",
       "posicion": "",
       "et": "",
