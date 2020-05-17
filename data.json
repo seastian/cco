@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/05/2020 23:55",
+  "lastUpdate": "17/05/2020 00:01",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -226,7 +226,7 @@
       "puerta": "",
       "ruta": "QTR",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -245,7 +245,7 @@
       "puerta": "",
       "ruta": "QTR",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -264,7 +264,7 @@
       "puerta": "",
       "ruta": "QTR",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
