@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/05/2020 20:47",
+  "lastUpdate": "17/05/2020 20:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -17,25 +17,6 @@
       "ruta": "MVD",
       "via": "",
       "remark": "DEM",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "GTI",
-      "vuelo": "033",
-      "st": "17/05/2020 23:05",
-      "matricula": "N859GT",
-      "posicion": "55",
-      "et": "17/5/2020 21:10",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -175,7 +156,7 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "9831",
+      "vuelo": "8472",
       "st": "17/05/2020 14:00",
       "matricula": "",
       "posicion": "",
@@ -194,7 +175,7 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "8472",
+      "vuelo": "9831",
       "st": "17/05/2020 14:00",
       "matricula": "",
       "posicion": "",
@@ -247,6 +228,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "GTI",
+      "vuelo": "033",
+      "st": "17/05/2020 23:05",
+      "matricula": "N859GT",
+      "posicion": "55",
+      "et": "17/5/2020 21:10",
+      "at": "17/5/2020 20:48",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "partida",
