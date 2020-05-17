@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/05/2020 16:37",
+  "lastUpdate": "17/05/2020 16:43",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -302,7 +302,7 @@
       "puerta": "14",
       "ruta": "AKL",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
