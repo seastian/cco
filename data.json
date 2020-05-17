@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/05/2020 20:22",
+  "lastUpdate": "17/05/2020 20:29",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -387,14 +387,14 @@
       "vuelo": "1370",
       "st": "17/05/2020 23:50",
       "matricula": "LVGKP",
-      "posicion": "M16",
+      "posicion": "15",
       "et": "",
       "at": "",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "20",
       "ruta": "CUN",
       "via": "",
       "remark": "HOR",
