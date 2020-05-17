@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/05/2020 04:43",
+  "lastUpdate": "17/05/2020 04:49",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -74,25 +74,6 @@
       "ruta": "LIM",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "NZ",
-      "vuelo": "6190",
-      "st": "16/05/2020 16:40",
-      "matricula": "ZKNZQ",
-      "posicion": "11",
-      "et": "16/5/2020 16:40",
-      "at": "16/5/2020 16:46",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "AKL",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
