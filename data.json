@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/05/2020 05:58",
+  "lastUpdate": "17/05/2020 06:04",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -132,25 +132,6 @@
       "ruta": "SCL",
       "via": "",
       "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LA",
-      "vuelo": "1975",
-      "st": "16/05/2020 19:00",
-      "matricula": "CCBGA",
-      "posicion": "54",
-      "et": "",
-      "at": "16/5/2020 17:59",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
       "sanidad": "NO"
     },
     {
