@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/05/2020 11:24",
+  "lastUpdate": "17/05/2020 11:30",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -377,6 +377,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "ASU",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1408",
+      "st": "17/05/2020 23:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "LAX",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
