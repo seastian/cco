@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/05/2020 11:49",
+  "lastUpdate": "17/05/2020 11:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -396,6 +396,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "LAX",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1370",
+      "st": "17/05/2020 23:50",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "CUN",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
