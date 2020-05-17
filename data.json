@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/05/2020 05:33",
+  "lastUpdate": "17/05/2020 05:39",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -254,7 +254,7 @@
       "vuelo": "7952",
       "st": "17/05/2020 07:40",
       "matricula": "CCCWV",
-      "posicion": "",
+      "posicion": "64",
       "et": "",
       "at": "",
       "term": "TCA",
