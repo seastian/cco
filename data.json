@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/05/2020 03:15",
+  "lastUpdate": "17/05/2020 03:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -302,7 +302,7 @@
       "puerta": "01",
       "ruta": "UIO",
       "via": "VVI",
-      "remark": "DEM",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
