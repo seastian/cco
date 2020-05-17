@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "16/05/2020 23:37",
+  "lastUpdate": "16/05/2020 23:43",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1089",
-      "st": "16/05/2020 10:45",
-      "matricula": "LVGIF",
-      "posicion": "50",
-      "et": "16/5/2020 11:40",
-      "at": "16/5/2020 11:39",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "PVG",
-      "via": "AKL",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AV",
