@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/05/2020 02:00",
+  "lastUpdate": "17/05/2020 02:06",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -142,14 +142,14 @@
       "matricula": "HCCPB",
       "posicion": "02",
       "et": "",
-      "at": "",
+      "at": "17/5/2020 02:01",
       "term": "A",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "UIO",
       "via": "",
-      "remark": "CON",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
