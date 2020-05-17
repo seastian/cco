@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/05/2020 04:30",
+  "lastUpdate": "17/05/2020 04:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -339,6 +339,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MIA",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AV",
+      "vuelo": "290",
+      "st": "17/05/2020 16:36",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "BOG",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
