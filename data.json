@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/05/2020 17:08",
+  "lastUpdate": "17/05/2020 17:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -294,7 +294,7 @@
       "matricula": "ZKNZQ",
       "posicion": "11",
       "et": "",
-      "at": "",
+      "at": "17/5/2020 16:55",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -302,7 +302,7 @@
       "puerta": "14",
       "ruta": "AKL",
       "via": "",
-      "remark": "CON",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
