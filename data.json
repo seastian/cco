@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/05/2020 19:51",
+  "lastUpdate": "17/05/2020 19:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -247,25 +247,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "4M",
-      "vuelo": "7952",
-      "st": "17/05/2020 07:40",
-      "matricula": "CCCWV",
-      "posicion": "06",
-      "et": "",
-      "at": "17/5/2020 07:55",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "05",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
