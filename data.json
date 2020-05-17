@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/05/2020 01:41",
+  "lastUpdate": "17/05/2020 01:48",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -103,7 +103,7 @@
       "st": "16/05/2020 22:00",
       "matricula": "HCCPB",
       "posicion": "02",
-      "et": "17/5/2020 01:30",
+      "et": "",
       "at": "",
       "term": "A",
       "sector": "",
@@ -111,7 +111,7 @@
       "lF": "",
       "ruta": "UIO",
       "via": "",
-      "remark": "DEM",
+      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
