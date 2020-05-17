@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "16/05/2020 22:34",
+  "lastUpdate": "16/05/2020 22:40",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "4M",
-      "vuelo": "9983",
-      "st": "16/05/2020 11:09",
-      "matricula": "LVBRA",
-      "posicion": "07",
-      "et": "16/5/2020 10:36",
-      "at": "16/5/2020 10:36",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AR",
@@ -312,7 +293,7 @@
       "st": "17/05/2020 00:00",
       "matricula": "HCCPB",
       "posicion": "02",
-      "et": "",
+      "et": "17/5/2020 03:00",
       "at": "",
       "term": "A",
       "sector": "AP",
@@ -321,7 +302,7 @@
       "puerta": "01",
       "ruta": "UIO",
       "via": "VVI",
-      "remark": "HOR",
+      "remark": "DEM",
       "sanidad": "NO"
     },
     {
