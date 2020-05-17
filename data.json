@@ -1,14 +1,14 @@
 {
-  "lastUpdate": "17/05/2020 11:30",
+  "lastUpdate": "17/05/2020 11:36",
   "vuelos": [
     {
       "tipo": "arribo",
       "aerolinea": "AV",
       "vuelo": "291",
       "st": "17/05/2020 13:36",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
+      "matricula": "N793AV",
+      "posicion": "50",
+      "et": "17/5/2020 12:40",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -16,7 +16,7 @@
       "lF": "",
       "ruta": "BOG",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -310,8 +310,8 @@
       "aerolinea": "AV",
       "vuelo": "290",
       "st": "17/05/2020 16:36",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "N793AV",
+      "posicion": "50",
       "et": "",
       "at": "",
       "term": "TCA",
