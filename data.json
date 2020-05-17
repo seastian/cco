@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "17/05/2020 17:58",
+  "lastUpdate": "17/05/2020 18:05",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "4M",
-      "vuelo": "7953",
-      "st": "17/05/2020 16:20",
-      "matricula": "CCCWV",
-      "posicion": "06",
-      "et": "17/5/2020 18:00",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": "0"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AOG",
@@ -211,6 +192,25 @@
       "pax": ""
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "4M",
+      "vuelo": "7953",
+      "st": "17/05/2020 16:20",
+      "matricula": "CCCWV",
+      "posicion": "06",
+      "et": "17/5/2020 18:00",
+      "at": "17/5/2020 18:00",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "LIM",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "0"
+    },
+    {
       "tipo": "partida",
       "aerolinea": "4M",
       "vuelo": "7952",
@@ -367,8 +367,8 @@
       "aerolinea": "AR",
       "vuelo": "1370",
       "st": "17/05/2020 23:50",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "LVGKP",
+      "posicion": "M16",
       "et": "",
       "at": "",
       "term": "C",
