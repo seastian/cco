@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/05/2020 11:11",
+  "lastUpdate": "18/05/2020 11:18",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -474,25 +474,6 @@
       "ruta": "QTR",
       "via": "",
       "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "GTI",
-      "vuelo": "033",
-      "st": "18/05/2020 01:15",
-      "matricula": "N859GT",
-      "posicion": "55",
-      "et": "",
-      "at": "17/5/2020 23:14",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
       "sanidad": "NO"
     },
     {
