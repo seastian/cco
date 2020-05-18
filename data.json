@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/05/2020 04:50",
+  "lastUpdate": "18/05/2020 04:56",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -342,25 +342,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "NZ",
-      "vuelo": "6191",
-      "st": "17/05/2020 16:40",
-      "matricula": "ZKNZQ",
-      "posicion": "11",
-      "et": "",
-      "at": "17/5/2020 16:55",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "14",
-      "ruta": "AKL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
