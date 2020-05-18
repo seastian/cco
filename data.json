@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/05/2020 23:18",
+  "lastUpdate": "17/05/2020 23:24",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -25,9 +25,9 @@
       "aerolinea": "5X",
       "vuelo": "416",
       "st": "18/05/2020 02:19",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
+      "matricula": "N305UP",
+      "posicion": "55",
+      "et": "18/5/2020 00:31",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -35,7 +35,7 @@
       "lF": "",
       "ruta": "MIA",
       "via": "SCL",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -370,7 +370,7 @@
       "matricula": "CXCAR",
       "posicion": "54A",
       "et": "17/5/2020 22:30",
-      "at": "",
+      "at": "17/5/2020 22:35",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -378,7 +378,26 @@
       "puerta": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "DEM",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "GTI",
+      "vuelo": "033",
+      "st": "18/05/2020 01:15",
+      "matricula": "N859GT",
+      "posicion": "55",
+      "et": "",
+      "at": "17/5/2020 23:14",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -416,7 +435,7 @@
       "puerta": "20",
       "ruta": "CUN",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -472,25 +491,6 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "GTI",
-      "vuelo": "033",
-      "st": "18/05/2020 01:15",
-      "matricula": "N859GT",
-      "posicion": "55",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
