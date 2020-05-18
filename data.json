@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/05/2020 18:30",
+  "lastUpdate": "18/05/2020 18:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -169,25 +169,6 @@
       "ruta": "SCL",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "103",
-      "st": "18/05/2020 06:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
