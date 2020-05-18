@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "18/05/2020 14:38",
+  "lastUpdate": "18/05/2020 14:44",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "4M",
-      "vuelo": "7963",
-      "st": "18/05/2020 15:00",
-      "matricula": "LVBFO",
-      "posicion": "09",
-      "et": "18/5/2020 14:50",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "92"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "UC",
@@ -382,6 +363,25 @@
       "pax": ""
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "4M",
+      "vuelo": "7963",
+      "st": "18/05/2020 15:00",
+      "matricula": "LVBFO",
+      "posicion": "09",
+      "et": "18/5/2020 14:50",
+      "at": "18/5/2020 14:42",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "009",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "92"
+    },
+    {
       "tipo": "partida",
       "aerolinea": "AOG",
       "vuelo": "102",
@@ -503,7 +503,7 @@
       "matricula": "CCBGP",
       "posicion": "10",
       "et": "18/5/2020 14:15",
-      "at": "",
+      "at": "18/5/2020 14:39",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -511,7 +511,7 @@
       "puerta": "10",
       "ruta": "SCL",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
