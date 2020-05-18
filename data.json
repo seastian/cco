@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/05/2020 07:51",
+  "lastUpdate": "18/05/2020 07:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -99,25 +99,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "8410",
-      "st": "18/05/2020 14:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "M3",
       "vuelo": "8473",
       "st": "18/05/2020 14:00",
       "matricula": "",
@@ -129,6 +110,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "MIA",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "M3",
+      "vuelo": "8410",
+      "st": "18/05/2020 14:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "VCP",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -160,7 +160,7 @@
       "st": "18/05/2020 16:30",
       "matricula": "CCCZZ",
       "posicion": "",
-      "et": "",
+      "et": "18/5/2020 16:00",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -168,7 +168,7 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -587,7 +587,7 @@
       "puerta": "01",
       "ruta": "GRU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -730,7 +730,7 @@
       "st": "18/05/2020 17:40",
       "matricula": "CCCZZ",
       "posicion": "",
-      "et": "",
+      "et": "18/5/2020 17:10",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -739,7 +739,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "EST",
       "sanidad": "NO"
     },
     {
