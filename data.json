@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/05/2020 14:00",
+  "lastUpdate": "18/05/2020 14:07",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -358,7 +358,7 @@
       "lF": "",
       "ruta": "VCP",
       "via": "",
-      "remark": "",
+      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
@@ -377,7 +377,7 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "",
+      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
