@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/05/2020 04:43",
+  "lastUpdate": "18/05/2020 04:50",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -540,7 +540,7 @@
       "st": "18/05/2020 02:30",
       "matricula": "CXCAR",
       "posicion": "54A",
-      "et": "18/5/2020 04:00",
+      "et": "",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -549,7 +549,7 @@
       "puerta": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "DEM",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
