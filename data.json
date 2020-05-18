@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/05/2020 04:56",
+  "lastUpdate": "18/05/2020 05:02",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -63,8 +63,8 @@
       "aerolinea": "AR",
       "vuelo": "1091",
       "st": "18/05/2020 11:40",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "LVFVH",
+      "posicion": "50",
       "et": "18/5/2020 12:10",
       "at": "",
       "term": "TCA",
@@ -188,25 +188,6 @@
       "ruta": "SCL",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1107",
-      "st": "17/05/2020 17:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
@@ -522,7 +503,7 @@
       "matricula": "CXCAR",
       "posicion": "54A",
       "et": "",
-      "at": "",
+      "at": "18/5/2020 04:56",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -530,7 +511,7 @@
       "puerta": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
