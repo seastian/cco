@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/05/2020 09:12",
+  "lastUpdate": "18/05/2020 09:19",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -777,6 +777,25 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "VCP",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "QT",
+      "vuelo": "4078",
+      "st": "18/05/2020 21:15",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "BOG",
+      "via": "",
       "remark": "HOR",
       "sanidad": "NO"
     }
