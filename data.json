@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/05/2020 23:24",
+  "lastUpdate": "17/05/2020 23:30",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -383,25 +383,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "GTI",
-      "vuelo": "033",
-      "st": "18/05/2020 01:15",
-      "matricula": "N859GT",
-      "posicion": "55",
-      "et": "",
-      "at": "17/5/2020 23:14",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "UC",
       "vuelo": "1408",
       "st": "17/05/2020 23:30",
@@ -417,6 +398,25 @@
       "ruta": "LAX",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "GTI",
+      "vuelo": "033",
+      "st": "18/05/2020 01:15",
+      "matricula": "N859GT",
+      "posicion": "55",
+      "et": "",
+      "at": "17/5/2020 23:14",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
