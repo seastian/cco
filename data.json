@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/05/2020 13:04",
+  "lastUpdate": "18/05/2020 13:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -503,7 +503,7 @@
       "matricula": "N536LA",
       "posicion": "55",
       "et": "",
-      "at": "",
+      "at": "18/5/2020 13:07",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -511,7 +511,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
