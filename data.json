@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/05/2020 23:36",
+  "lastUpdate": "17/05/2020 23:43",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -111,6 +111,25 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1091",
+      "st": "18/05/2020 11:40",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "PVG",
+      "via": "AKL",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
@@ -435,7 +454,7 @@
       "puerta": "20",
       "ruta": "CUN",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
