@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/05/2020 13:10",
+  "lastUpdate": "18/05/2020 13:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -370,14 +370,14 @@
       "matricula": "CCBGP",
       "posicion": "10",
       "et": "18/5/2020 13:00",
-      "at": "",
+      "at": "18/5/2020 13:13",
       "term": "A",
       "sector": "",
       "cinta": "9",
       "lF": "009",
       "ruta": "SCL",
       "via": "",
-      "remark": "DEM",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "212"
     },
