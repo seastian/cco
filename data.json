@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "18/05/2020 00:08",
+  "lastUpdate": "18/05/2020 00:14",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1101",
-      "st": "18/05/2020 00:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "5X",
@@ -268,6 +249,25 @@
       "pax": ""
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "UC",
+      "vuelo": "1101",
+      "st": "18/05/2020 00:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
       "tipo": "partida",
       "aerolinea": "M3",
       "vuelo": "9832",
@@ -408,7 +408,7 @@
       "matricula": "LVGKP",
       "posicion": "15",
       "et": "",
-      "at": "",
+      "at": "18/5/2020 00:09",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -416,7 +416,7 @@
       "puerta": "20",
       "ruta": "CUN",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
