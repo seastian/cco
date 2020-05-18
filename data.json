@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "18/05/2020 12:01",
+  "lastUpdate": "18/05/2020 12:08",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1091",
-      "st": "18/05/2020 11:40",
-      "matricula": "LVFVH",
-      "posicion": "50",
-      "et": "18/5/2020 12:10",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "PVG",
-      "via": "AKL",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": "0"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AV",
@@ -380,6 +361,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1091",
+      "st": "18/05/2020 11:40",
+      "matricula": "LVFVH",
+      "posicion": "50",
+      "et": "18/5/2020 12:10",
+      "at": "18/5/2020 12:02",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "PVG",
+      "via": "AKL",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "0"
     },
     {
       "tipo": "arribo",
