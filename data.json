@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "18/05/2020 16:24",
+  "lastUpdate": "18/05/2020 16:31",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1961",
-      "st": "18/05/2020 16:30",
-      "matricula": "CCBGK",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "CAN",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "QT",
@@ -378,6 +359,25 @@
       "ruta": "MIA",
       "via": "",
       "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "1961",
+      "st": "18/05/2020 16:30",
+      "matricula": "CCBGK",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
     },
