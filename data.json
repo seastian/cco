@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/05/2020 20:16",
+  "lastUpdate": "18/05/2020 20:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -399,25 +399,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "4M",
-      "vuelo": "7966",
-      "st": "18/05/2020 08:00",
-      "matricula": "LVBFO",
-      "posicion": "02",
-      "et": "",
-      "at": "18/5/2020 08:22",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "01",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
