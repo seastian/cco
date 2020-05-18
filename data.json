@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/05/2020 23:49",
+  "lastUpdate": "17/05/2020 23:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -111,25 +111,6 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1091",
-      "st": "18/05/2020 11:40",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "PVG",
-      "via": "AKL",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
@@ -421,6 +402,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1370",
+      "st": "17/05/2020 23:50",
+      "matricula": "LVGKP",
+      "posicion": "15",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "20",
+      "ruta": "CUN",
+      "via": "",
+      "remark": "CER",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "GTI",
       "vuelo": "033",
       "st": "18/05/2020 01:15",
@@ -436,25 +436,6 @@
       "ruta": "SCL",
       "via": "",
       "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1370",
-      "st": "17/05/2020 23:50",
-      "matricula": "LVGKP",
-      "posicion": "15",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "20",
-      "ruta": "CUN",
-      "via": "",
-      "remark": "ULT",
       "sanidad": "NO"
     },
     {
