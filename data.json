@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/05/2020 16:56",
+  "lastUpdate": "18/05/2020 17:02",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -380,25 +380,6 @@
       "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "102",
-      "st": "18/05/2020 02:30",
-      "matricula": "CXCAR",
-      "posicion": "54A",
-      "et": "",
-      "at": "18/5/2020 04:56",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
