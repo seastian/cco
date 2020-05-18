@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/05/2020 06:05",
+  "lastUpdate": "18/05/2020 06:11",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -304,25 +304,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1107",
-      "st": "17/05/2020 18:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
