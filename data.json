@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/05/2020 11:36",
+  "lastUpdate": "18/05/2020 11:43",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -44,8 +44,8 @@
       "aerolinea": "LA",
       "vuelo": "1102",
       "st": "18/05/2020 12:30",
-      "matricula": "CCBEC",
-      "posicion": "",
+      "matricula": "CCBGP",
+      "posicion": "10",
       "et": "",
       "at": "",
       "term": "A",
@@ -56,16 +56,16 @@
       "via": "",
       "remark": "",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "212"
     },
     {
       "tipo": "arribo",
       "aerolinea": "AV",
       "vuelo": "291",
       "st": "18/05/2020 13:36",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
+      "matricula": "N781AV",
+      "posicion": "54",
+      "et": "18/5/2020 12:30",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -73,9 +73,9 @@
       "lF": "",
       "ruta": "BOG",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -227,7 +227,7 @@
       "via": "",
       "remark": "",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -576,15 +576,15 @@
       "aerolinea": "LA",
       "vuelo": "1101",
       "st": "18/05/2020 13:30",
-      "matricula": "CCBEC",
-      "posicion": "",
+      "matricula": "CCBGP",
+      "posicion": "10",
       "et": "",
       "at": "",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
       "chkTo": "053",
-      "puerta": "",
+      "puerta": "10",
       "ruta": "SCL",
       "via": "",
       "remark": "HOR",
@@ -652,8 +652,8 @@
       "aerolinea": "AV",
       "vuelo": "290",
       "st": "18/05/2020 16:36",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "N781AV",
+      "posicion": "54",
       "et": "",
       "at": "",
       "term": "TCA",
