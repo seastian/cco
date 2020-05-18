@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/05/2020 12:08",
+  "lastUpdate": "18/05/2020 12:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -251,8 +251,8 @@
     {
       "tipo": "arribo",
       "aerolinea": "UC",
-      "vuelo": "1101",
-      "st": "18/05/2020 00:10",
+      "vuelo": "1102",
+      "st": "19/05/2020 00:10",
       "matricula": "",
       "posicion": "",
       "et": "",
@@ -263,7 +263,7 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "CON",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
@@ -399,25 +399,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1370",
-      "st": "17/05/2020 23:50",
-      "matricula": "LVGKP",
-      "posicion": "15",
-      "et": "",
-      "at": "18/5/2020 00:09",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "20",
-      "ruta": "CUN",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
