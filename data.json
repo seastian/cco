@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/05/2020 10:03",
+  "lastUpdate": "18/05/2020 10:09",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -26,7 +26,7 @@
       "vuelo": "1107",
       "st": "18/05/2020 12:25",
       "matricula": "N536LA",
-      "posicion": "",
+      "posicion": "55",
       "et": "18/5/2020 12:25",
       "at": "",
       "term": "TCA",
@@ -653,7 +653,7 @@
       "vuelo": "1107",
       "st": "18/05/2020 13:35",
       "matricula": "N536LA",
-      "posicion": "",
+      "posicion": "55",
       "et": "",
       "at": "",
       "term": "TCA",
