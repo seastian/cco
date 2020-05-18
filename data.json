@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "18/05/2020 05:40",
+  "lastUpdate": "18/05/2020 05:46",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "LH",
-      "vuelo": "8264",
-      "st": "18/05/2020 06:40",
-      "matricula": "DALCK",
-      "posicion": "54",
-      "et": "18/5/2020 05:40",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "FRA",
-      "via": "MVD",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AOG",
@@ -325,6 +306,25 @@
       "pax": ""
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "LH",
+      "vuelo": "8264",
+      "st": "18/05/2020 06:40",
+      "matricula": "DALCK",
+      "posicion": "54",
+      "et": "18/5/2020 05:40",
+      "at": "18/5/2020 05:44",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "FRA",
+      "via": "MVD",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
       "tipo": "partida",
       "aerolinea": "UC",
       "vuelo": "1107",
@@ -539,7 +539,7 @@
       "vuelo": "7966",
       "st": "18/05/2020 08:00",
       "matricula": "LVBFO",
-      "posicion": "",
+      "posicion": "63C",
       "et": "",
       "at": "",
       "term": "A",
@@ -549,7 +549,7 @@
       "puerta": "",
       "ruta": "GRU",
       "via": "",
-      "remark": "",
+      "remark": "HOR",
       "sanidad": "NO"
     },
     {
