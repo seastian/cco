@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/05/2020 04:25",
+  "lastUpdate": "18/05/2020 04:31",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -169,6 +169,25 @@
       "ruta": "GRU",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "1961",
+      "st": "18/05/2020 16:30",
+      "matricula": "CCBGK",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
