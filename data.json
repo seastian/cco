@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/05/2020 19:51",
+  "lastUpdate": "18/05/2020 19:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -573,6 +573,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "5X",
+      "vuelo": "417",
+      "st": "18/05/2020 20:15",
+      "matricula": "N305UP",
+      "posicion": "55",
+      "et": "",
+      "at": "18/5/2020 19:54",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
+      "via": "VCP",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "UC",
       "vuelo": "1108",
       "st": "18/05/2020 23:30",
@@ -588,25 +607,6 @@
       "ruta": "MIA",
       "via": "",
       "remark": "EST",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "5X",
-      "vuelo": "417",
-      "st": "18/05/2020 20:15",
-      "matricula": "N305UP",
-      "posicion": "55",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MIA",
-      "via": "VCP",
-      "remark": "HOR",
       "sanidad": "NO"
     },
     {
