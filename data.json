@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/05/2020 15:34",
+  "lastUpdate": "18/05/2020 15:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -634,7 +634,7 @@
       "vuelo": "417",
       "st": "18/05/2020 20:15",
       "matricula": "N305UP",
-      "posicion": "65",
+      "posicion": "55",
       "et": "",
       "at": "",
       "term": "TCA",
