@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/05/2020 23:11",
+  "lastUpdate": "17/05/2020 23:18",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -416,7 +416,7 @@
       "puerta": "20",
       "ruta": "CUN",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
