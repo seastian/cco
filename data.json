@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "19/05/2020 12:40",
+  "lastUpdate": "19/05/2020 12:46",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "MP",
-      "vuelo": "6912",
-      "st": "19/05/2020 10:05",
-      "matricula": "PHCKA",
-      "posicion": "54",
-      "et": "19/5/2020 12:45",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "AMS",
-      "via": "VCP",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "LA",
@@ -266,6 +247,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "MP",
+      "vuelo": "6912",
+      "st": "19/05/2020 10:05",
+      "matricula": "PHCKA",
+      "posicion": "54",
+      "et": "19/5/2020 12:45",
+      "at": "19/5/2020 12:43",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "AMS",
+      "via": "VCP",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "partida",
