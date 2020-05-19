@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/05/2020 07:38",
+  "lastUpdate": "19/05/2020 07:45",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -171,25 +171,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1975",
-      "st": "18/05/2020 20:10",
-      "matricula": "CCBGJ",
-      "posicion": "10",
-      "et": "18/5/2020 19:45",
-      "at": "18/5/2020 19:41",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "007",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
