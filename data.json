@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/05/2020 09:06",
+  "lastUpdate": "19/05/2020 09:12",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -284,25 +284,6 @@
       "ruta": "BOG",
       "via": "",
       "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LA",
-      "vuelo": "1975",
-      "st": "18/05/2020 22:10",
-      "matricula": "CCBGJ",
-      "posicion": "10",
-      "et": "",
-      "at": "18/5/2020 21:09",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "10",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
       "sanidad": "NO"
     },
     {
