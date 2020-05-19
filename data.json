@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/05/2020 21:25",
+  "lastUpdate": "18/05/2020 21:31",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -719,6 +719,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "SCL",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "8491",
+      "st": "19/05/2020 09:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "VCP",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
