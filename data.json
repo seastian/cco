@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/05/2020 19:10",
+  "lastUpdate": "19/05/2020 19:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -112,25 +112,6 @@
       "ruta": "MIA",
       "via": "SCL",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "QR",
-      "vuelo": "8155",
-      "st": "19/05/2020 07:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "DOH",
-      "via": "GRU",
-      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
