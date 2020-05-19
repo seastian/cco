@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/05/2020 04:24",
+  "lastUpdate": "19/05/2020 04:31",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -137,9 +137,9 @@
     {
       "tipo": "arribo",
       "aerolinea": "LA",
-      "vuelo": "1961",
-      "st": "18/05/2020 16:30",
-      "matricula": "CCBGK",
+      "vuelo": "1264",
+      "st": "19/05/2020 16:30",
+      "matricula": "CCBGF",
       "posicion": "",
       "et": "",
       "at": "",
@@ -149,7 +149,7 @@
       "lF": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "CAN",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
