@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/05/2020 11:05",
+  "lastUpdate": "19/05/2020 11:11",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -63,7 +63,7 @@
       "aerolinea": "MP",
       "vuelo": "6912",
       "st": "19/05/2020 10:05",
-      "matricula": "PHMPS",
+      "matricula": "PHCKA",
       "posicion": "54",
       "et": "19/5/2020 12:45",
       "at": "",
@@ -538,7 +538,7 @@
       "aerolinea": "MP",
       "vuelo": "6912",
       "st": "19/05/2020 12:05",
-      "matricula": "PHMPS",
+      "matricula": "PHCKA",
       "posicion": "54",
       "et": "19/5/2020 15:05",
       "at": "",
