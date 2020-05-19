@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/05/2020 11:49",
+  "lastUpdate": "19/05/2020 11:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -441,25 +441,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AOG",
-      "vuelo": "424",
-      "st": "19/05/2020 12:30",
-      "matricula": "CXCLS",
-      "posicion": "50A",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
       "vuelo": "500",
       "st": "19/05/2020 12:30",
       "matricula": "CXLSS",
@@ -472,6 +453,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "ASU",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "424",
+      "st": "19/05/2020 12:30",
+      "matricula": "CXCLS",
+      "posicion": "50A",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -607,6 +607,25 @@
       "ruta": "MEX",
       "via": "",
       "remark": "CAN",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1370",
+      "st": "19/05/2020 23:55",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "CUN",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     }
   ]
