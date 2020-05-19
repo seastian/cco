@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/05/2020 11:36",
+  "lastUpdate": "19/05/2020 11:42",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -422,25 +422,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AOG",
-      "vuelo": "500",
-      "st": "19/05/2020 12:30",
-      "matricula": "CXLSS",
-      "posicion": "50B",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
       "vuelo": "424",
       "st": "19/05/2020 12:30",
       "matricula": "CXCLS",
@@ -453,6 +434,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MVD",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "500",
+      "st": "19/05/2020 12:30",
+      "matricula": "CXLSS",
+      "posicion": "50B",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "ASU",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -569,6 +569,25 @@
       "ruta": "LAX",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AM",
+      "vuelo": "9979",
+      "st": "19/05/2020 23:40",
+      "matricula": "N183AM",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "034",
+      "chkTo": "040",
+      "puerta": "",
+      "ruta": "MEX",
+      "via": "",
+      "remark": "CAN",
       "sanidad": "NO"
     }
   ]
