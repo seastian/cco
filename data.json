@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/05/2020 00:58",
+  "lastUpdate": "19/05/2020 01:04",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -151,7 +151,7 @@
       "via": "",
       "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -649,6 +649,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "H24",
+      "st": "18/05/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "QTR",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "JJ",
       "vuelo": "H24",
       "st": "18/05/2020 23:59",
@@ -687,21 +706,21 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "H24",
-      "st": "18/05/2020 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
+      "aerolinea": "M3",
+      "vuelo": "8490",
+      "st": "19/05/2020 02:10",
+      "matricula": "PRABD",
+      "posicion": "55",
+      "et": "19/5/2020 01:07",
+      "at": "19/5/2020 01:02",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
       "puerta": "",
-      "ruta": "QTR",
+      "ruta": "SCL",
       "via": "",
-      "remark": "CON",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -721,25 +740,6 @@
       "ruta": "MVD",
       "via": "",
       "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "M3",
-      "vuelo": "8490",
-      "st": "19/05/2020 02:10",
-      "matricula": "PRABD",
-      "posicion": "55",
-      "et": "19/5/2020 01:07",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "CER",
       "sanidad": "NO"
     },
     {
