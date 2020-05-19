@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/05/2020 06:42",
+  "lastUpdate": "19/05/2020 06:48",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -188,25 +188,6 @@
       "ruta": "MIA",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1109",
-      "st": "18/05/2020 22:00",
-      "matricula": "N536LA",
-      "posicion": "54",
-      "et": "18/5/2020 18:40",
-      "at": "18/5/2020 18:48",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
