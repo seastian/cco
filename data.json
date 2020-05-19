@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/05/2020 18:06",
+  "lastUpdate": "19/05/2020 18:12",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -440,6 +440,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "8420",
+      "st": "19/05/2020 18:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "BA",
       "vuelo": "244F",
       "st": "19/05/2020 13:30",
@@ -455,25 +474,6 @@
       "ruta": "LHR",
       "via": "",
       "remark": "DEM",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "M3",
-      "vuelo": "8420",
-      "st": "19/05/2020 18:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "HOR",
       "sanidad": "NO"
     },
     {
