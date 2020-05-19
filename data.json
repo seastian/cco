@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/05/2020 16:30",
+  "lastUpdate": "19/05/2020 16:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -114,6 +114,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "2D",
+      "vuelo": "303",
+      "st": "19/05/2020 21:20",
+      "matricula": "N700KW",
+      "posicion": "",
+      "et": "19/5/2020 23:45",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": "223"
     },
     {
       "tipo": "arribo",
@@ -320,7 +339,7 @@
       "lF": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "",
+      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
