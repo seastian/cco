@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/05/2020 10:58",
+  "lastUpdate": "19/05/2020 11:05",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -57,6 +57,25 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "0"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "MP",
+      "vuelo": "6912",
+      "st": "19/05/2020 10:05",
+      "matricula": "PHMPS",
+      "posicion": "54",
+      "et": "19/5/2020 12:45",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "AMS",
+      "via": "VCP",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -283,25 +302,6 @@
       "ruta": "DOH",
       "via": "GRU",
       "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "MP",
-      "vuelo": "6912",
-      "st": "19/05/2020 10:05",
-      "matricula": "PHMPS",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "AMS",
-      "via": "VCP",
-      "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
     },
@@ -539,8 +539,8 @@
       "vuelo": "6912",
       "st": "19/05/2020 12:05",
       "matricula": "PHMPS",
-      "posicion": "",
-      "et": "19/5/2020 15:35",
+      "posicion": "54",
+      "et": "19/5/2020 15:05",
       "at": "",
       "term": "TCA",
       "sector": "",
