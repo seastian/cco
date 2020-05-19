@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/05/2020 03:53",
+  "lastUpdate": "19/05/2020 03:59",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -323,25 +323,6 @@
       "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AV",
-      "vuelo": "290",
-      "st": "18/05/2020 16:36",
-      "matricula": "N781AV",
-      "posicion": "51",
-      "et": "",
-      "at": "18/5/2020 15:58",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
