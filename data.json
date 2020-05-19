@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/05/2020 01:29",
+  "lastUpdate": "19/05/2020 01:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -706,6 +706,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1102",
+      "st": "19/05/2020 01:30",
+      "matricula": "N536LA",
+      "posicion": "",
+      "et": "18/5/2020 19:25",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "M3",
       "vuelo": "8491",
       "st": "19/05/2020 09:30",
@@ -782,6 +801,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "BA",
+      "vuelo": "244F",
+      "st": "19/05/2020 13:30",
+      "matricula": "GZBJG",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "LHR",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "MP",
       "vuelo": "6912",
       "st": "19/05/2020 12:05",
@@ -796,25 +834,6 @@
       "puerta": "",
       "ruta": "AMS",
       "via": "UIO",
-      "remark": "DEM",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1102",
-      "st": "19/05/2020 01:30",
-      "matricula": "N536LA",
-      "posicion": "",
-      "et": "18/5/2020 19:25",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
       "remark": "DEM",
       "sanidad": "NO"
     }
