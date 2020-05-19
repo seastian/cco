@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/05/2020 01:04",
+  "lastUpdate": "19/05/2020 01:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -418,25 +418,6 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1107",
-      "st": "18/05/2020 13:35",
-      "matricula": "N536LA",
-      "posicion": "55",
-      "et": "",
-      "at": "18/5/2020 13:07",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
