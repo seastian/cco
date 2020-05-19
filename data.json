@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/05/2020 15:39",
+  "lastUpdate": "19/05/2020 15:45",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -22,25 +22,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1955",
-      "st": "19/05/2020 17:00",
-      "matricula": "CCBGP",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "M3",
       "vuelo": "8420",
       "st": "19/05/2020 17:00",
@@ -55,6 +36,25 @@
       "ruta": "VCP",
       "via": "",
       "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "1955",
+      "st": "19/05/2020 17:00",
+      "matricula": "CCBGP",
+      "posicion": "",
+      "et": "19/5/2020 17:15",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
