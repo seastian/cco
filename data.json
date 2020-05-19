@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/05/2020 21:44",
+  "lastUpdate": "18/05/2020 21:50",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,8 +7,8 @@
       "vuelo": "8490",
       "st": "18/05/2020 23:45",
       "matricula": "PRABD",
-      "posicion": "",
-      "et": "",
+      "posicion": "55",
+      "et": "18/5/2020 23:35",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -16,7 +16,7 @@
       "lF": "",
       "ruta": "VCP",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -25,7 +25,7 @@
       "aerolinea": "UC",
       "vuelo": "1102",
       "st": "19/05/2020 00:10",
-      "matricula": "",
+      "matricula": "N536LA",
       "posicion": "",
       "et": "",
       "at": "",
@@ -691,7 +691,7 @@
       "vuelo": "8490",
       "st": "19/05/2020 02:10",
       "matricula": "PRABD",
-      "posicion": "",
+      "posicion": "55",
       "et": "19/5/2020 01:07",
       "at": "",
       "term": "TCA",
@@ -702,25 +702,6 @@
       "ruta": "SCL",
       "via": "",
       "remark": "EST",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1102",
-      "st": "19/05/2020 01:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "HOR",
       "sanidad": "NO"
     },
     {
@@ -758,6 +739,25 @@
       "puerta": "",
       "ruta": "DOH",
       "via": "UIO",
+      "remark": "DEM",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1102",
+      "st": "19/05/2020 01:30",
+      "matricula": "N536LA",
+      "posicion": "",
+      "et": "18/5/2020 19:25",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
       "remark": "DEM",
       "sanidad": "NO"
     }
