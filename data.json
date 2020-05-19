@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/05/2020 02:38",
+  "lastUpdate": "19/05/2020 02:44",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -152,25 +152,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "0"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "4M",
-      "vuelo": "7963",
-      "st": "18/05/2020 15:00",
-      "matricula": "LVBFO",
-      "posicion": "09",
-      "et": "18/5/2020 14:50",
-      "at": "18/5/2020 14:42",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "92"
     },
     {
       "tipo": "arribo",
@@ -361,25 +342,6 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LA",
-      "vuelo": "1101",
-      "st": "18/05/2020 13:30",
-      "matricula": "CCBGP",
-      "posicion": "10",
-      "et": "18/5/2020 14:15",
-      "at": "18/5/2020 14:39",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "10",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
