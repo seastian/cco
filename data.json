@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/05/2020 11:17",
+  "lastUpdate": "19/05/2020 11:24",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -169,25 +169,6 @@
       "ruta": "MIA",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "M3",
-      "vuelo": "8490",
-      "st": "18/05/2020 23:45",
-      "matricula": "PRABD",
-      "posicion": "55",
-      "et": "18/5/2020 23:35",
-      "at": "18/5/2020 23:21",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
