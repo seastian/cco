@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/05/2020 17:02",
+  "lastUpdate": "19/05/2020 17:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -41,25 +41,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "2D",
-      "vuelo": "889",
-      "st": "19/05/2020 21:20",
-      "matricula": "N700KW",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": "0"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "UC",
       "vuelo": "1401",
       "st": "19/05/2020 22:00",
@@ -79,25 +60,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "2D",
-      "vuelo": "303",
-      "st": "19/05/2020 21:20",
-      "matricula": "N700KW",
-      "posicion": "",
-      "et": "19/5/2020 23:45",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": "223"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "M3",
       "vuelo": "8492",
       "st": "19/05/2020 23:45",
@@ -114,6 +76,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "2D",
+      "vuelo": "889",
+      "st": "19/05/2020 21:20",
+      "matricula": "N700KW",
+      "posicion": "",
+      "et": "19/5/2020 23:45",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": "0"
     },
     {
       "tipo": "arribo",
