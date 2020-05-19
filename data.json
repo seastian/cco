@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "18/05/2020 23:17",
+  "lastUpdate": "18/05/2020 23:24",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "M3",
-      "vuelo": "8490",
-      "st": "18/05/2020 23:45",
-      "matricula": "PRABD",
-      "posicion": "55",
-      "et": "18/5/2020 23:35",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AMS",
@@ -416,6 +397,25 @@
       "ruta": "MEX",
       "via": "",
       "remark": "CAN",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "M3",
+      "vuelo": "8490",
+      "st": "18/05/2020 23:45",
+      "matricula": "PRABD",
+      "posicion": "55",
+      "et": "18/5/2020 23:35",
+      "at": "18/5/2020 23:21",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "VCP",
+      "via": "",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
