@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/05/2020 01:54",
+  "lastUpdate": "19/05/2020 02:00",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -152,44 +152,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "0"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "M3",
-      "vuelo": "8473",
-      "st": "18/05/2020 14:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "M3",
-      "vuelo": "8410",
-      "st": "18/05/2020 14:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
