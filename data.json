@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/05/2020 08:35",
+  "lastUpdate": "19/05/2020 08:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -131,25 +131,6 @@
       "ruta": "VCP",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AM",
-      "vuelo": "9978",
-      "st": "18/05/2020 20:40",
-      "matricula": "N183AM",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MEX",
-      "via": "",
-      "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
     },
