@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/05/2020 17:08",
+  "lastUpdate": "19/05/2020 17:15",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -60,25 +60,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "M3",
-      "vuelo": "8492",
-      "st": "19/05/2020 23:45",
-      "matricula": "PRABB",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "2D",
       "vuelo": "889",
       "st": "19/05/2020 21:20",
@@ -95,6 +76,25 @@
       "remark": "DEM",
       "sanidad": "NO",
       "pax": "0"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "M3",
+      "vuelo": "8492",
+      "st": "19/05/2020 23:45",
+      "matricula": "PRABB",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "VCP",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -131,6 +131,25 @@
       "ruta": "DOH",
       "via": "GRU",
       "remark": "DEM",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "5X",
+      "vuelo": "414",
+      "st": "20/05/2020 05:12",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "SCL",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
