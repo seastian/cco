@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/05/2020 14:10",
+  "lastUpdate": "19/05/2020 14:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -607,6 +607,25 @@
       "ruta": "QTR",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "8492",
+      "st": "20/05/2020 02:10",
+      "matricula": "PRABB",
+      "posicion": "",
+      "et": "20/5/2020 01:07",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "EST",
       "sanidad": "NO"
     }
   ]
