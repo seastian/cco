@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/05/2020 04:49",
+  "lastUpdate": "19/05/2020 04:56",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -323,25 +323,6 @@
       "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1101",
-      "st": "18/05/2020 17:40",
-      "matricula": "CCCZZ",
-      "posicion": "54",
-      "et": "18/5/2020 17:10",
-      "at": "18/5/2020 16:53",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
