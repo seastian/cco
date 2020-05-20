@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/05/2020 17:12",
+  "lastUpdate": "20/05/2020 17:19",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -12,7 +12,7 @@
       "at": "",
       "term": "TCA",
       "sector": "",
-      "cinta": "",
+      "cinta": "5",
       "lF": "",
       "ruta": "AMS",
       "via": "",
