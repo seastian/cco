@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/05/2020 21:24",
+  "lastUpdate": "19/05/2020 21:30",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -266,25 +266,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "M3",
-      "vuelo": "8491",
-      "st": "19/05/2020 09:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
