@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/05/2020 22:34",
+  "lastUpdate": "19/05/2020 22:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -272,8 +272,8 @@
       "aerolinea": "TK",
       "vuelo": "6169",
       "st": "19/05/2020 22:10",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "TCLJI",
+      "posicion": "50",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -576,8 +576,8 @@
       "aerolinea": "TK",
       "vuelo": "6170",
       "st": "20/05/2020 01:10",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "TCLJI",
+      "posicion": "50",
       "et": "",
       "at": "",
       "term": "TCA",
