@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/05/2020 15:17",
+  "lastUpdate": "20/05/2020 15:24",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -8,7 +8,7 @@
       "st": "20/05/2020 17:00",
       "matricula": "CCBGF",
       "posicion": "",
-      "et": "",
+      "et": "20/5/2020 16:40",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -16,7 +16,7 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -351,7 +351,7 @@
       "matricula": "CXLSS",
       "posicion": "50B",
       "et": "",
-      "at": "",
+      "at": "20/5/2020 15:23",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -359,7 +359,7 @@
       "puerta": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "CON",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -370,7 +370,7 @@
       "matricula": "CXCLS",
       "posicion": "50A",
       "et": "",
-      "at": "",
+      "at": "20/5/2020 15:20",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -378,7 +378,7 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "CON",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
