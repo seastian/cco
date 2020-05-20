@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/05/2020 23:00",
+  "lastUpdate": "19/05/2020 23:06",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -35,6 +35,25 @@
       "lF": "001",
       "ruta": "MIA",
       "via": "",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "TK",
+      "vuelo": "6169",
+      "st": "19/05/2020 22:10",
+      "matricula": "TCLJI",
+      "posicion": "50",
+      "et": "20/5/2020 00:45",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "IST",
+      "via": "GRU",
       "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
@@ -263,25 +282,6 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "CON",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "TK",
-      "vuelo": "6169",
-      "st": "19/05/2020 22:10",
-      "matricula": "TCLJI",
-      "posicion": "50",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "IST",
-      "via": "GRU",
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
@@ -578,7 +578,7 @@
       "st": "20/05/2020 01:10",
       "matricula": "TCLJI",
       "posicion": "50",
-      "et": "",
+      "et": "20/5/2020 01:50",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -587,7 +587,7 @@
       "puerta": "",
       "ruta": "IST",
       "via": "GRU",
-      "remark": "HOR",
+      "remark": "DEM",
       "sanidad": "NO"
     },
     {
