@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/05/2020 03:28",
+  "lastUpdate": "20/05/2020 03:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -460,7 +460,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
+      "vuelo": "H24",
       "st": "19/05/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -468,7 +468,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -498,7 +498,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24",
+      "vuelo": "H24N",
       "st": "19/05/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -506,7 +506,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "209",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -606,7 +606,7 @@
       "puerta": "",
       "ruta": "LAX",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -668,6 +668,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "2D",
+      "vuelo": "888",
+      "st": "20/05/2020 11:30",
+      "matricula": "N700KW",
+      "posicion": "11",
+      "et": "20/5/2020 12:30",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "062",
+      "chkTo": "067",
+      "puerta": "14",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "AOG",
       "vuelo": "500",
       "st": "20/05/2020 12:30",
@@ -702,25 +721,6 @@
       "ruta": "MVD",
       "via": "",
       "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "2D",
-      "vuelo": "888",
-      "st": "20/05/2020 11:30",
-      "matricula": "N700KW",
-      "posicion": "11",
-      "et": "20/5/2020 12:30",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "062",
-      "chkTo": "067",
-      "puerta": "14",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "DEM",
       "sanidad": "NO"
     },
     {
