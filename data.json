@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/05/2020 07:18",
+  "lastUpdate": "20/05/2020 07:25",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -560,7 +560,7 @@
       "matricula": "N305UP",
       "posicion": "55",
       "et": "20/5/2020 06:50",
-      "at": "",
+      "at": "20/5/2020 07:18",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -568,7 +568,7 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "VCP",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
