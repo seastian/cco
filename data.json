@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/05/2020 15:11",
+  "lastUpdate": "20/05/2020 15:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -26,7 +26,7 @@
       "vuelo": "033",
       "st": "20/05/2020 19:45",
       "matricula": "N859GT",
-      "posicion": "",
+      "posicion": "55",
       "et": "20/5/2020 17:00",
       "at": "",
       "term": "TCA",
@@ -45,7 +45,7 @@
       "vuelo": "701",
       "st": "20/05/2020 17:15",
       "matricula": "PHBHN",
-      "posicion": "",
+      "posicion": "11",
       "et": "20/5/2020 17:35",
       "at": "",
       "term": "TCA",
@@ -389,7 +389,7 @@
       "matricula": "N700KW",
       "posicion": "11",
       "et": "20/5/2020 12:30",
-      "at": "",
+      "at": "20/5/2020 15:03",
       "term": "A",
       "sector": "AP",
       "chkFrom": "062",
@@ -397,7 +397,7 @@
       "puerta": "14",
       "ruta": "MIA",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -463,7 +463,7 @@
       "vuelo": "033",
       "st": "20/05/2020 23:00",
       "matricula": "N859GT",
-      "posicion": "",
+      "posicion": "55",
       "et": "20/5/2020 18:40",
       "at": "",
       "term": "TCA",
