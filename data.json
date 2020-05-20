@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/05/2020 00:04",
+  "lastUpdate": "20/05/2020 00:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -114,25 +114,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AC",
-      "vuelo": "7248",
-      "st": "19/05/2020 12:05",
-      "matricula": "CFVLZ",
-      "posicion": "10",
-      "et": "19/5/2020 12:10",
-      "at": "19/5/2020 12:07",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "YYZ",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -313,14 +294,14 @@
       "matricula": "CXMAX",
       "posicion": "59",
       "et": "",
-      "at": "",
+      "at": "20/5/2020 00:02",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "CON",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -653,7 +634,7 @@
       "vuelo": "7919",
       "st": "20/05/2020 02:30",
       "matricula": "CXMAX",
-      "posicion": "",
+      "posicion": "59",
       "et": "",
       "at": "",
       "term": "TCA",
