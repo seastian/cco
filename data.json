@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/05/2020 20:30",
+  "lastUpdate": "20/05/2020 20:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -282,7 +282,7 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "",
+      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
