@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "20/05/2020 20:43",
+  "lastUpdate": "20/05/2020 20:49",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "IB",
-      "vuelo": "6847",
-      "st": "20/05/2020 20:40",
-      "matricula": "ECMIL",
-      "posicion": "16",
-      "et": "20/5/2020 20:47",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "008",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "287"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AOG",
@@ -285,6 +266,25 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "IB",
+      "vuelo": "6847",
+      "st": "20/05/2020 20:40",
+      "matricula": "ECMIL",
+      "posicion": "16",
+      "et": "20/5/2020 20:47",
+      "at": "20/5/2020 20:47",
+      "term": "A",
+      "sector": "",
+      "cinta": "8",
+      "lF": "008",
+      "ruta": "MAD",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "287"
     },
     {
       "tipo": "partida",
