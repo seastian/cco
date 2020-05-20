@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/05/2020 08:35",
+  "lastUpdate": "20/05/2020 08:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -171,6 +171,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "IB",
+      "vuelo": "6847",
+      "st": "20/05/2020 20:40",
+      "matricula": "ECMIL",
+      "posicion": "",
+      "et": "20/5/2020 20:36",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MAD",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "287"
     },
     {
       "tipo": "arribo",
