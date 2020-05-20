@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/05/2020 07:05",
+  "lastUpdate": "20/05/2020 07:12",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -112,6 +112,25 @@
       "ruta": "AMS",
       "via": "",
       "remark": "DEM",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1371",
+      "st": "20/05/2020 19:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "CUN",
+      "via": "",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
@@ -560,7 +579,7 @@
       "matricula": "CFVLZ",
       "posicion": "10",
       "et": "",
-      "at": "",
+      "at": "20/5/2020 07:10",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -568,7 +587,7 @@
       "puerta": "10",
       "ruta": "YYZ",
       "via": "SCL",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
