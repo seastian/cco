@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/05/2020 20:18",
+  "lastUpdate": "20/05/2020 20:24",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -112,6 +112,25 @@
       "ruta": "ASU",
       "via": "",
       "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "BA",
+      "vuelo": "245F",
+      "st": "21/05/2020 08:20",
+      "matricula": "GZBJA",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "LHR",
+      "via": "",
+      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
