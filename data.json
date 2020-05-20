@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/05/2020 07:12",
+  "lastUpdate": "20/05/2020 07:18",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -568,7 +568,7 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "VCP",
-      "remark": "EST",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
