@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/05/2020 10:23",
+  "lastUpdate": "20/05/2020 10:30",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -710,6 +710,25 @@
       "vuelo": "1955",
       "st": "20/05/2020 19:00",
       "matricula": "CCBBG",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1103",
+      "st": "20/05/2020 22:30",
+      "matricula": "",
       "posicion": "",
       "et": "",
       "at": "",
