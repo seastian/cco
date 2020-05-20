@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/05/2020 16:47",
+  "lastUpdate": "20/05/2020 16:53",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -50,8 +50,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "9",
+      "lF": "009",
       "ruta": "CUN",
       "via": "",
       "remark": "EST",
@@ -83,7 +83,7 @@
       "vuelo": "6847",
       "st": "20/05/2020 20:40",
       "matricula": "ECMIL",
-      "posicion": "",
+      "posicion": "09",
       "et": "20/5/2020 20:47",
       "at": "",
       "term": "A",
