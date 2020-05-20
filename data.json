@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/05/2020 15:36",
+  "lastUpdate": "20/05/2020 15:43",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -63,9 +63,9 @@
       "aerolinea": "AR",
       "vuelo": "1371",
       "st": "20/05/2020 19:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
+      "matricula": "LVGKP",
+      "posicion": "12",
+      "et": "20/5/2020 18:40",
       "at": "",
       "term": "A",
       "sector": "",
@@ -73,9 +73,9 @@
       "lF": "",
       "ruta": "CUN",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "241"
     },
     {
       "tipo": "arribo",
