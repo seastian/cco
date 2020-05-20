@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/05/2020 05:30",
+  "lastUpdate": "20/05/2020 05:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -112,6 +112,25 @@
       "ruta": "MIA",
       "via": "",
       "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "KL",
+      "vuelo": "701",
+      "st": "20/05/2020 17:15",
+      "matricula": "PHBHN",
+      "posicion": "",
+      "et": "20/5/2020 17:35",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "AMS",
+      "via": "",
+      "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
     },
