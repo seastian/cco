@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/05/2020 14:39",
+  "lastUpdate": "20/05/2020 14:45",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -517,7 +517,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1092",
+      "vuelo": "1094",
       "st": "20/05/2020 23:10",
       "matricula": "LVFVH",
       "posicion": "15",
