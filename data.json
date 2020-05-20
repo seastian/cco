@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/05/2020 09:58",
+  "lastUpdate": "20/05/2020 10:04",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -44,7 +44,7 @@
       "aerolinea": "LH",
       "vuelo": "8266",
       "st": "20/05/2020 03:35",
-      "matricula": "",
+      "matricula": "DALCK",
       "posicion": "",
       "et": "20/5/2020 13:15",
       "at": "",
@@ -190,25 +190,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "287"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1401",
-      "st": "19/05/2020 22:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -617,7 +598,7 @@
       "matricula": "A7BFO",
       "posicion": "54",
       "et": "",
-      "at": "",
+      "at": "20/5/2020 09:55",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -625,7 +606,7 @@
       "puerta": "",
       "ruta": "DOH",
       "via": "UIO",
-      "remark": "CON",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -633,7 +614,7 @@
       "aerolinea": "LH",
       "vuelo": "8267",
       "st": "20/05/2020 05:55",
-      "matricula": "",
+      "matricula": "DALCK",
       "posicion": "",
       "et": "20/5/2020 15:35",
       "at": "",
