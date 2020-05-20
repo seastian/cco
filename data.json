@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/05/2020 14:26",
+  "lastUpdate": "20/05/2020 14:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -435,7 +435,7 @@
       "puerta": "",
       "ruta": "FRA",
       "via": "VCP",
-      "remark": "DEM",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
