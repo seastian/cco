@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/05/2020 05:49",
+  "lastUpdate": "20/05/2020 05:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -440,25 +440,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "H24",
-      "st": "19/05/2020 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "QTR",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "JJ",
       "vuelo": "H24",
       "st": "19/05/2020 23:59",
@@ -488,6 +469,25 @@
       "term": "C",
       "sector": "CPI",
       "chkFrom": "209",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "QTR",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "H24",
+      "st": "19/05/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -588,6 +588,25 @@
       "ruta": "LAX",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LH",
+      "vuelo": "8267",
+      "st": "20/05/2020 05:55",
+      "matricula": "",
+      "posicion": "",
+      "et": "20/5/2020 15:35",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "FRA",
+      "via": "VCP",
+      "remark": "DEM",
       "sanidad": "NO"
     },
     {
@@ -721,25 +740,6 @@
       "ruta": "VCP",
       "via": "",
       "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LH",
-      "vuelo": "8267",
-      "st": "20/05/2020 05:55",
-      "matricula": "",
-      "posicion": "",
-      "et": "20/5/2020 15:35",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "FRA",
-      "via": "VCP",
-      "remark": "DEM",
       "sanidad": "NO"
     }
   ]
