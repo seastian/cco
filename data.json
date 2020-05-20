@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/05/2020 11:47",
+  "lastUpdate": "20/05/2020 11:53",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -8,7 +8,7 @@
       "st": "20/05/2020 03:35",
       "matricula": "DALCK",
       "posicion": "54",
-      "et": "20/5/2020 13:15",
+      "et": "20/5/2020 12:25",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -326,25 +326,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1370",
-      "st": "19/05/2020 23:55",
-      "matricula": "LVGKP",
-      "posicion": "12",
-      "et": "",
-      "at": "19/5/2020 23:53",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "16",
-      "ruta": "CUN",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "JJ",
       "vuelo": "H24",
       "st": "19/05/2020 23:59",
@@ -365,7 +346,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
+      "vuelo": "H24",
       "st": "19/05/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -373,7 +354,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -384,7 +365,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24",
+      "vuelo": "H24N",
       "st": "19/05/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -392,7 +373,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "209",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
