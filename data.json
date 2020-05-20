@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/05/2020 14:58",
+  "lastUpdate": "20/05/2020 15:04",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -427,7 +427,7 @@
       "matricula": "DALCK",
       "posicion": "54",
       "et": "20/5/2020 15:35",
-      "at": "",
+      "at": "20/5/2020 14:31",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -435,7 +435,7 @@
       "puerta": "",
       "ruta": "FRA",
       "via": "VCP",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
