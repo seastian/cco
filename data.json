@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/05/2020 04:45",
+  "lastUpdate": "20/05/2020 04:51",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -8,7 +8,7 @@
       "st": "20/05/2020 05:12",
       "matricula": "N305UP",
       "posicion": "55",
-      "et": "",
+      "et": "20/5/2020 05:00",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -16,7 +16,7 @@
       "lF": "",
       "ruta": "MIA",
       "via": "SCL",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
