@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "20/05/2020 12:18",
+  "lastUpdate": "20/05/2020 12:25",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "LH",
-      "vuelo": "8266",
-      "st": "20/05/2020 03:35",
-      "matricula": "DALCK",
-      "posicion": "54",
-      "et": "20/5/2020 12:25",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "FRA",
-      "via": "VCP",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "M3",
@@ -301,6 +282,25 @@
       "lF": "",
       "ruta": "MVD",
       "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LH",
+      "vuelo": "8266",
+      "st": "20/05/2020 03:35",
+      "matricula": "DALCK",
+      "posicion": "54",
+      "et": "20/5/2020 12:25",
+      "at": "20/5/2020 12:24",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "FRA",
+      "via": "VCP",
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
