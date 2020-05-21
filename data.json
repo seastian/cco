@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/05/2020 16:57",
+  "lastUpdate": "21/05/2020 17:03",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -111,6 +111,25 @@
       "lF": "",
       "ruta": "VCP",
       "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "QR",
+      "vuelo": "773",
+      "st": "22/05/2020 05:00",
+      "matricula": "A7ANE",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "DOH",
+      "via": "GRU",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
