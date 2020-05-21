@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/05/2020 06:56",
+  "lastUpdate": "21/05/2020 07:03",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -352,25 +352,6 @@
       "posicion": "55",
       "et": "20/5/2020 18:40",
       "at": "20/5/2020 21:00",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LA",
-      "vuelo": "1955",
-      "st": "20/05/2020 19:00",
-      "matricula": "CCBGF",
-      "posicion": "54",
-      "et": "",
-      "at": "20/5/2020 19:00",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
