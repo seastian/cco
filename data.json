@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/05/2020 02:54",
+  "lastUpdate": "21/05/2020 03:00",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -778,6 +778,44 @@
       "ruta": "ADD",
       "via": "GRU",
       "remark": "",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "IB",
+      "vuelo": "6846",
+      "st": "21/05/2020 14:55",
+      "matricula": "ECMIL",
+      "posicion": "16",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "027",
+      "chkTo": "032",
+      "puerta": "22",
+      "ruta": "MAD",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "KL",
+      "vuelo": "1500",
+      "st": "21/05/2020 15:00",
+      "matricula": "PHBHN",
+      "posicion": "11",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "14",
+      "ruta": "AMS",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     },
     {
