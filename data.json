@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "21/05/2020 15:40",
+  "lastUpdate": "21/05/2020 15:47",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1961",
-      "st": "21/05/2020 16:30",
-      "matricula": "CCBGN",
-      "posicion": "56",
-      "et": "21/5/2020 15:45",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "8",
-      "lF": "008",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "EK",
@@ -363,6 +344,25 @@
       "pax": "150"
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "1961",
+      "st": "21/05/2020 16:30",
+      "matricula": "CCBGN",
+      "posicion": "56",
+      "et": "21/5/2020 15:45",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "8",
+      "lF": "008",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
       "tipo": "partida",
       "aerolinea": "5X",
       "vuelo": "411",
@@ -568,7 +568,7 @@
       "puerta": "09",
       "ruta": "BOG",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -587,7 +587,7 @@
       "puerta": "09",
       "ruta": "BOG",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
