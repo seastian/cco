@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/05/2020 16:12",
+  "lastUpdate": "21/05/2020 16:19",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -598,7 +598,7 @@
       "matricula": "ECMIL",
       "posicion": "03",
       "et": "21/5/2020 15:45",
-      "at": "",
+      "at": "21/5/2020 16:16",
       "term": "A",
       "sector": "AP",
       "chkFrom": "027",
@@ -606,7 +606,7 @@
       "puerta": "02",
       "ruta": "MAD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -636,7 +636,7 @@
       "matricula": "N785AV",
       "posicion": "54",
       "et": "",
-      "at": "",
+      "at": "21/5/2020 16:14",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -644,7 +644,7 @@
       "puerta": "",
       "ruta": "BOG",
       "via": "",
-      "remark": "HOR",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
