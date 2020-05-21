@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/05/2020 22:13",
+  "lastUpdate": "20/05/2020 22:19",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -26,7 +26,7 @@
       "vuelo": "8492",
       "st": "20/05/2020 23:45",
       "matricula": "PRABD",
-      "posicion": "",
+      "posicion": "55",
       "et": "20/5/2020 23:45",
       "at": "",
       "term": "TCA",
@@ -539,7 +539,7 @@
       "vuelo": "8492",
       "st": "21/05/2020 02:10",
       "matricula": "PRABD",
-      "posicion": "",
+      "posicion": "55",
       "et": "21/5/2020 01:07",
       "at": "",
       "term": "TCA",
