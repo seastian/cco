@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/05/2020 18:20",
+  "lastUpdate": "21/05/2020 18:26",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -351,14 +351,14 @@
       "matricula": "ETAOV",
       "posicion": "09",
       "et": "21/5/2020 18:13",
-      "at": "",
+      "at": "21/5/2020 18:23",
       "term": "A",
       "sector": "",
       "cinta": "9",
       "lF": "009",
       "ruta": "BKK",
       "via": "ADD",
-      "remark": "DEM",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "237"
     },
