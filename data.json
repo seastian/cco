@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/05/2020 09:36",
+  "lastUpdate": "21/05/2020 09:43",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -54,25 +54,6 @@
       "lF": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "ET",
-      "vuelo": "8617",
-      "st": "21/05/2020 12:40",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "BKK",
-      "via": "ADD",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
@@ -188,6 +169,25 @@
       "ruta": "DXB",
       "via": "GRU",
       "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "ET",
+      "vuelo": "8617",
+      "st": "21/05/2020 12:40",
+      "matricula": "",
+      "posicion": "",
+      "et": "21/5/2020 18:13",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "BKK",
+      "via": "ADD",
+      "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
     },
