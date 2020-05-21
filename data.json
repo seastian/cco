@@ -1,14 +1,14 @@
 {
-  "lastUpdate": "21/05/2020 01:37",
+  "lastUpdate": "21/05/2020 01:43",
   "vuelos": [
     {
       "tipo": "arribo",
       "aerolinea": "5X",
       "vuelo": "410",
       "st": "21/05/2020 05:20",
-      "matricula": "",
+      "matricula": "N310UP",
       "posicion": "",
-      "et": "",
+      "et": "21/5/2020 05:29",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -16,7 +16,7 @@
       "lF": "",
       "ruta": "MIA",
       "via": "SCL",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -46,7 +46,7 @@
       "st": "21/05/2020 08:20",
       "matricula": "GZBJA",
       "posicion": "",
-      "et": "",
+      "et": "21/5/2020 08:26",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -54,7 +54,7 @@
       "lF": "",
       "ruta": "LHR",
       "via": "",
-      "remark": "CON",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -652,7 +652,7 @@
       "aerolinea": "5X",
       "vuelo": "411",
       "st": "21/05/2020 06:55",
-      "matricula": "",
+      "matricula": "N310UP",
       "posicion": "",
       "et": "",
       "at": "",
