@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "21/05/2020 14:04",
+  "lastUpdate": "21/05/2020 14:11",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "P5",
-      "vuelo": "7641",
-      "st": "21/05/2020 14:40",
-      "matricula": "HP1532",
-      "posicion": "09",
-      "et": "21/5/2020 14:10",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "BOG",
-      "via": "CLO",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "150"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "LA",
@@ -363,6 +344,25 @@
       "pax": ""
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "P5",
+      "vuelo": "7641",
+      "st": "21/05/2020 14:40",
+      "matricula": "HP1532",
+      "posicion": "09",
+      "et": "21/5/2020 14:10",
+      "at": "21/5/2020 14:04",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "009",
+      "ruta": "BOG",
+      "via": "CLO",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "150"
+    },
+    {
       "tipo": "partida",
       "aerolinea": "5X",
       "vuelo": "411",
@@ -446,7 +446,7 @@
       "matricula": "CXCLS",
       "posicion": "57",
       "et": "",
-      "at": "",
+      "at": "21/5/2020 13:31",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -454,7 +454,7 @@
       "puerta": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -497,6 +497,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "ET",
+      "vuelo": "8618",
+      "st": "21/05/2020 14:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "201",
+      "chkTo": "206",
+      "puerta": "",
+      "ruta": "ADD",
+      "via": "GRU",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "LH",
       "vuelo": "8265",
       "st": "21/05/2020 08:15",
@@ -512,25 +531,6 @@
       "ruta": "FRA",
       "via": "",
       "remark": "DEM",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "ET",
-      "vuelo": "8618",
-      "st": "21/05/2020 14:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "201",
-      "chkTo": "206",
-      "puerta": "",
-      "ruta": "ADD",
-      "via": "GRU",
-      "remark": "",
       "sanidad": "NO"
     },
     {
@@ -797,6 +797,25 @@
       "ruta": "FLN",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "8494",
+      "st": "22/05/2020 02:10",
+      "matricula": "PRABB",
+      "posicion": "",
+      "et": "22/5/2020 01:07",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "EST",
       "sanidad": "NO"
     }
   ]
