@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/05/2020 20:47",
+  "lastUpdate": "21/05/2020 20:53",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -636,7 +636,7 @@
       "matricula": "ETAOV",
       "posicion": "09",
       "et": "21/5/2020 21:00",
-      "at": "",
+      "at": "21/5/2020 20:51",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "203",
@@ -644,7 +644,7 @@
       "puerta": "09",
       "ruta": "ADD",
       "via": "GRU",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
