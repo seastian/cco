@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/05/2020 23:10",
+  "lastUpdate": "20/05/2020 23:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -112,25 +112,6 @@
       "ruta": "LHR",
       "via": "",
       "remark": "CON",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "501",
-      "st": "20/05/2020 11:30",
-      "matricula": "CXLSS",
-      "posicion": "50B",
-      "et": "",
-      "at": "20/5/2020 11:11",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -473,7 +454,7 @@
       "puerta": "20",
       "ruta": "PVG",
       "via": "AKL",
-      "remark": "HOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
