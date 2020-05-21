@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/05/2020 21:09",
+  "lastUpdate": "20/05/2020 21:15",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -27,7 +27,7 @@
       "st": "20/05/2020 23:45",
       "matricula": "PRABD",
       "posicion": "",
-      "et": "",
+      "et": "20/5/2020 23:45",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -35,7 +35,7 @@
       "lF": "",
       "ruta": "VCP",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
