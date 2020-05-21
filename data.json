@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/05/2020 07:03",
+  "lastUpdate": "21/05/2020 07:09",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -522,7 +522,7 @@
       "matricula": "N310UP",
       "posicion": "55",
       "et": "",
-      "at": "",
+      "at": "21/5/2020 07:06",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -530,7 +530,7 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "VCP",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
