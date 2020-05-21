@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/05/2020 02:09",
+  "lastUpdate": "21/05/2020 02:15",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -740,6 +740,25 @@
       "ruta": "LHR",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "ET",
+      "vuelo": "8618",
+      "st": "21/05/2020 14:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "201",
+      "chkTo": "206",
+      "puerta": "",
+      "ruta": "ADD",
+      "via": "GRU",
+      "remark": "",
       "sanidad": "NO"
     },
     {
