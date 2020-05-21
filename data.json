@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/05/2020 23:16",
+  "lastUpdate": "20/05/2020 23:23",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -446,7 +446,7 @@
       "matricula": "LVFVH",
       "posicion": "15",
       "et": "",
-      "at": "",
+      "at": "20/5/2020 23:22",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -454,7 +454,7 @@
       "puerta": "20",
       "ruta": "PVG",
       "via": "AKL",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
