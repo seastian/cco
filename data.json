@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/05/2020 04:55",
+  "lastUpdate": "21/05/2020 05:01",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -226,25 +226,6 @@
       "ruta": "DXB",
       "via": "GRU",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "GTI",
-      "vuelo": "033",
-      "st": "20/05/2020 19:45",
-      "matricula": "N859GT",
-      "posicion": "55",
-      "et": "20/5/2020 17:00",
-      "at": "20/5/2020 16:58",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
