@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/05/2020 13:33",
+  "lastUpdate": "21/05/2020 13:39",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -484,7 +484,7 @@
       "matricula": "GZBJA",
       "posicion": "05",
       "et": "",
-      "at": "",
+      "at": "21/5/2020 13:34",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -492,7 +492,7 @@
       "puerta": "04",
       "ruta": "LHR",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
