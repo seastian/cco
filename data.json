@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/05/2020 22:51",
+  "lastUpdate": "20/05/2020 22:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,6 +7,25 @@
       "vuelo": "101",
       "st": "20/05/2020 23:30",
       "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AMS",
+      "vuelo": "8119",
+      "st": "20/05/2020 23:30",
+      "matricula": "CXMAS",
       "posicion": "",
       "et": "",
       "at": "",
@@ -567,6 +586,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "ASU",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AMS",
+      "vuelo": "7119",
+      "st": "21/05/2020 02:00",
+      "matricula": "CXMAS",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
