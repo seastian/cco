@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/05/2020 10:53",
+  "lastUpdate": "21/05/2020 10:59",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -60,6 +60,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "LH",
+      "vuelo": "8264",
+      "st": "21/05/2020 06:45",
+      "matricula": "DALCB",
+      "posicion": "",
+      "et": "21/5/2020 13:45",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "FRA",
+      "via": "MVD",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "M3",
       "vuelo": "8493",
       "st": "21/05/2020 14:00",
@@ -74,25 +93,6 @@
       "ruta": "SCL",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LH",
-      "vuelo": "8264",
-      "st": "21/05/2020 06:45",
-      "matricula": "DALCB",
-      "posicion": "",
-      "et": "21/5/2020 14:00",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "FRA",
-      "via": "MVD",
-      "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
     },
@@ -113,7 +113,7 @@
       "via": "CLO",
       "remark": "",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "150"
     },
     {
       "tipo": "arribo",
@@ -541,7 +541,7 @@
       "matricula": "CCBDC",
       "posicion": "06",
       "et": "",
-      "at": "21/5/2020 10:47",
+      "at": "21/5/2020 10:45",
       "term": "A",
       "sector": "AP",
       "chkFrom": "",
@@ -734,7 +734,7 @@
       "at": "",
       "term": "A",
       "sector": "AP",
-      "chkFrom": "035",
+      "chkFrom": "033",
       "chkTo": "040",
       "puerta": "",
       "ruta": "BOG",
