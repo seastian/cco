@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/05/2020 15:08",
+  "lastUpdate": "21/05/2020 15:15",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -535,6 +535,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "8493",
+      "st": "21/05/2020 15:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "VCP",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "IB",
       "vuelo": "6846",
       "st": "21/05/2020 14:55",
@@ -569,25 +588,6 @@
       "ruta": "FRA",
       "via": "",
       "remark": "DEM",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "M3",
-      "vuelo": "8493",
-      "st": "21/05/2020 15:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "HOR",
       "sanidad": "NO"
     },
     {
