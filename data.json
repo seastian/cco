@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/05/2020 17:22",
+  "lastUpdate": "21/05/2020 17:29",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -658,7 +658,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "201",
+      "chkFrom": "203",
       "chkTo": "206",
       "puerta": "09",
       "ruta": "ADD",
