@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/05/2020 16:19",
+  "lastUpdate": "21/05/2020 16:25",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -25,7 +25,7 @@
       "aerolinea": "ET",
       "vuelo": "8617",
       "st": "21/05/2020 12:40",
-      "matricula": "",
+      "matricula": "ETAOV",
       "posicion": "",
       "et": "21/5/2020 18:13",
       "at": "",
@@ -500,7 +500,7 @@
       "aerolinea": "ET",
       "vuelo": "8618",
       "st": "21/05/2020 14:10",
-      "matricula": "",
+      "matricula": "ETAOV",
       "posicion": "",
       "et": "",
       "at": "",
