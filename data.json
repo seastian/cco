@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/05/2020 16:06",
+  "lastUpdate": "21/05/2020 16:12",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -587,7 +587,7 @@
       "puerta": "09",
       "ruta": "BOG",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
