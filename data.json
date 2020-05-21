@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/05/2020 19:05",
+  "lastUpdate": "21/05/2020 19:11",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -364,25 +364,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "5X",
-      "vuelo": "411",
-      "st": "21/05/2020 06:55",
-      "matricula": "N310UP",
-      "posicion": "55",
-      "et": "",
-      "at": "21/5/2020 07:06",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MIA",
-      "via": "VCP",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AOG",
       "vuelo": "102",
       "st": "21/05/2020 07:30",
@@ -535,25 +516,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "P5",
-      "vuelo": "7653",
-      "st": "21/05/2020 15:40",
-      "matricula": "HP1532",
-      "posicion": "09",
-      "et": "",
-      "at": "21/5/2020 16:36",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "033",
-      "chkTo": "040",
-      "puerta": "09",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "CM",
       "vuelo": "7653",
       "st": "21/05/2020 15:40",
@@ -569,6 +531,25 @@
       "ruta": "BOG",
       "via": "",
       "remark": "ULT",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "P5",
+      "vuelo": "7653",
+      "st": "21/05/2020 15:40",
+      "matricula": "HP1532",
+      "posicion": "09",
+      "et": "",
+      "at": "21/5/2020 16:36",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "033",
+      "chkTo": "040",
+      "puerta": "09",
+      "ruta": "BOG",
+      "via": "",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
