@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/05/2020 12:16",
+  "lastUpdate": "21/05/2020 12:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -659,7 +659,7 @@
       "term": "A",
       "sector": "AP",
       "chkFrom": "033",
-      "chkTo": "040",
+      "chkTo": "043",
       "puerta": "09",
       "ruta": "BOG",
       "via": "",
