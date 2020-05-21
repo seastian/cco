@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/05/2020 15:47",
+  "lastUpdate": "21/05/2020 15:53",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -349,16 +349,16 @@
       "vuelo": "1961",
       "st": "21/05/2020 16:30",
       "matricula": "CCBGN",
-      "posicion": "56",
+      "posicion": "55",
       "et": "21/5/2020 15:45",
-      "at": "",
+      "at": "21/5/2020 15:48",
       "term": "TCA",
       "sector": "",
       "cinta": "8",
       "lF": "008",
       "ruta": "SCL",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -587,7 +587,7 @@
       "puerta": "09",
       "ruta": "BOG",
       "via": "",
-      "remark": "CON",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -625,7 +625,7 @@
       "puerta": "",
       "ruta": "FRA",
       "via": "",
-      "remark": "DEM",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -653,7 +653,7 @@
       "vuelo": "1962",
       "st": "21/05/2020 19:30",
       "matricula": "CCBGN",
-      "posicion": "56",
+      "posicion": "55",
       "et": "",
       "at": "",
       "term": "TCA",
