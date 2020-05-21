@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/05/2020 18:58",
+  "lastUpdate": "21/05/2020 19:05",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -26,7 +26,7 @@
       "vuelo": "1109",
       "st": "21/05/2020 21:00",
       "matricula": "CCBGO",
-      "posicion": "14",
+      "posicion": "16",
       "et": "21/5/2020 23:10",
       "at": "",
       "term": "A",
