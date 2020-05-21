@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/05/2020 08:26",
+  "lastUpdate": "21/05/2020 08:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -207,25 +207,6 @@
       "ruta": "DXB",
       "via": "GRU",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1103",
-      "st": "20/05/2020 20:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
