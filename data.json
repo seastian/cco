@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/05/2020 15:53",
+  "lastUpdate": "21/05/2020 16:06",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -606,7 +606,7 @@
       "puerta": "02",
       "ruta": "MAD",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -617,7 +617,7 @@
       "matricula": "DALCB",
       "posicion": "55",
       "et": "21/5/2020 15:55",
-      "at": "",
+      "at": "21/5/2020 16:05",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -625,7 +625,7 @@
       "puerta": "",
       "ruta": "FRA",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
