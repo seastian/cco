@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/05/2020 18:01",
+  "lastUpdate": "21/05/2020 18:07",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -655,7 +655,7 @@
       "matricula": "CCBGN",
       "posicion": "55",
       "et": "",
-      "at": "",
+      "at": "21/5/2020 18:02",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -663,7 +663,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -706,6 +706,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "H24",
+      "st": "21/05/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "QTR",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "JJ",
       "vuelo": "H24",
       "st": "21/05/2020 23:59",
@@ -735,25 +754,6 @@
       "term": "C",
       "sector": "CPI",
       "chkFrom": "209",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "QTR",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "H24",
-      "st": "21/05/2020 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
