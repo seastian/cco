@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/05/2020 21:53",
+  "lastUpdate": "20/05/2020 22:00",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -285,25 +285,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "287"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "QR",
-      "vuelo": "8155",
-      "st": "20/05/2020 09:10",
-      "matricula": "A7BFO",
-      "posicion": "54",
-      "et": "",
-      "at": "20/5/2020 09:55",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "DOH",
-      "via": "UIO",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
