@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/05/2020 02:28",
+  "lastUpdate": "21/05/2020 02:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -436,25 +436,6 @@
       "ruta": "VCP",
       "via": "",
       "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LH",
-      "vuelo": "8267",
-      "st": "20/05/2020 05:55",
-      "matricula": "DALCK",
-      "posicion": "54",
-      "et": "20/5/2020 15:35",
-      "at": "20/5/2020 14:31",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "FRA",
-      "via": "VCP",
-      "remark": "PAR",
       "sanidad": "NO"
     },
     {
