@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/05/2020 12:22",
+  "lastUpdate": "21/05/2020 12:29",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -596,14 +596,14 @@
       "vuelo": "6846",
       "st": "21/05/2020 14:55",
       "matricula": "ECMIL",
-      "posicion": "16",
+      "posicion": "03",
       "et": "",
       "at": "",
       "term": "A",
       "sector": "AP",
       "chkFrom": "027",
       "chkTo": "032",
-      "puerta": "22",
+      "puerta": "02",
       "ruta": "MAD",
       "via": "",
       "remark": "HOR",
