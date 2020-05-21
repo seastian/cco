@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/05/2020 02:34",
+  "lastUpdate": "21/05/2020 02:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -188,6 +188,25 @@
       "ruta": "FRA",
       "via": "MVD",
       "remark": "DEM",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "P5",
+      "vuelo": "7641",
+      "st": "21/05/2020 14:40",
+      "matricula": "HP1536",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "BOG",
+      "via": "CLO",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
