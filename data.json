@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/05/2020 08:32",
+  "lastUpdate": "21/05/2020 08:39",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -558,7 +558,7 @@
       "vuelo": "9984",
       "st": "21/05/2020 11:00",
       "matricula": "CCBDC",
-      "posicion": "",
+      "posicion": "64",
       "et": "",
       "at": "",
       "term": "A",
