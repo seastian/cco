@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/05/2020 12:03",
+  "lastUpdate": "21/05/2020 12:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -643,6 +643,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "VCP",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "CM",
+      "vuelo": "7653",
+      "st": "21/05/2020 15:40",
+      "matricula": "HP1536",
+      "posicion": "09",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "033",
+      "chkTo": "040",
+      "puerta": "09",
+      "ruta": "BOG",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
