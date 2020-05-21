@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/05/2020 14:49",
+  "lastUpdate": "21/05/2020 14:56",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -8,7 +8,7 @@
       "st": "21/05/2020 16:30",
       "matricula": "CCBGN",
       "posicion": "",
-      "et": "",
+      "et": "21/5/2020 15:45",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -16,7 +16,7 @@
       "lF": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -27,7 +27,7 @@
       "st": "21/05/2020 16:35",
       "matricula": "",
       "posicion": "",
-      "et": "",
+      "et": "21/5/2020 16:33",
       "at": "",
       "term": "A",
       "sector": "",
@@ -35,9 +35,9 @@
       "lF": "",
       "ruta": "DXB",
       "via": "GRU",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "40"
     },
     {
       "tipo": "arribo",
@@ -60,25 +60,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1109",
-      "st": "21/05/2020 21:00",
-      "matricula": "CCBGO",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SYD",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "UC",
       "vuelo": "1405",
       "st": "21/05/2020 22:00",
@@ -95,6 +76,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "1109",
+      "st": "21/05/2020 21:00",
+      "matricula": "CCBGO",
+      "posicion": "",
+      "et": "21/5/2020 23:10",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SYD",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": "261"
     },
     {
       "tipo": "arribo",
@@ -516,6 +516,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "IB",
+      "vuelo": "6846",
+      "st": "21/05/2020 14:55",
+      "matricula": "ECMIL",
+      "posicion": "03",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "027",
+      "chkTo": "032",
+      "puerta": "02",
+      "ruta": "MAD",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "KL",
       "vuelo": "1500",
       "st": "21/05/2020 15:00",
@@ -550,25 +569,6 @@
       "ruta": "FRA",
       "via": "",
       "remark": "DEM",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "IB",
-      "vuelo": "6846",
-      "st": "21/05/2020 14:55",
-      "matricula": "ECMIL",
-      "posicion": "03",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "027",
-      "chkTo": "032",
-      "puerta": "02",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "HOR",
       "sanidad": "NO"
     },
     {
