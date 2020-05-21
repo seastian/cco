@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/05/2020 17:16",
+  "lastUpdate": "21/05/2020 17:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,7 +7,7 @@
       "vuelo": "8617",
       "st": "21/05/2020 12:40",
       "matricula": "ETAOV",
-      "posicion": "",
+      "posicion": "09",
       "et": "21/5/2020 18:13",
       "at": "",
       "term": "A",
@@ -18,7 +18,7 @@
       "via": "ADD",
       "remark": "DEM",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "237"
     },
     {
       "tipo": "arribo",
@@ -653,14 +653,14 @@
       "vuelo": "8618",
       "st": "21/05/2020 14:10",
       "matricula": "ETAOV",
-      "posicion": "",
+      "posicion": "09",
       "et": "21/5/2020 19:00",
       "at": "",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "201",
       "chkTo": "206",
-      "puerta": "",
+      "puerta": "09",
       "ruta": "ADD",
       "via": "GRU",
       "remark": "DEM",
