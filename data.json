@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/05/2020 15:02",
+  "lastUpdate": "21/05/2020 15:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -516,25 +516,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "IB",
-      "vuelo": "6846",
-      "st": "21/05/2020 14:55",
-      "matricula": "ECMIL",
-      "posicion": "03",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "027",
-      "chkTo": "032",
-      "puerta": "02",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "KL",
       "vuelo": "1500",
       "st": "21/05/2020 15:00",
@@ -550,6 +531,25 @@
       "ruta": "AMS",
       "via": "",
       "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "IB",
+      "vuelo": "6846",
+      "st": "21/05/2020 14:55",
+      "matricula": "ECMIL",
+      "posicion": "03",
+      "et": "21/5/2020 15:30",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "027",
+      "chkTo": "032",
+      "puerta": "02",
+      "ruta": "MAD",
+      "via": "",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
