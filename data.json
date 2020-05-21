@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/05/2020 19:18",
+  "lastUpdate": "21/05/2020 19:24",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -611,25 +611,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "ET",
-      "vuelo": "8618",
-      "st": "21/05/2020 14:10",
-      "matricula": "ETAOV",
-      "posicion": "09",
-      "et": "21/5/2020 19:30",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "203",
-      "chkTo": "206",
-      "puerta": "09",
-      "ruta": "ADD",
-      "via": "GRU",
-      "remark": "DEM",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "LA",
       "vuelo": "1962",
       "st": "21/05/2020 19:30",
@@ -645,6 +626,25 @@
       "ruta": "SCL",
       "via": "",
       "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "ET",
+      "vuelo": "8618",
+      "st": "21/05/2020 14:10",
+      "matricula": "ETAOV",
+      "posicion": "09",
+      "et": "21/5/2020 20:00",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "203",
+      "chkTo": "206",
+      "puerta": "09",
+      "ruta": "ADD",
+      "via": "GRU",
+      "remark": "DEM",
       "sanidad": "NO"
     },
     {
