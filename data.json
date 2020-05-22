@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/05/2020 23:46",
+  "lastUpdate": "21/05/2020 23:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -313,14 +313,14 @@
       "matricula": "CXMAS",
       "posicion": "51A",
       "et": "",
-      "at": "",
+      "at": "21/5/2020 23:48",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "CON",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -710,7 +710,7 @@
       "vuelo": "FKK",
       "st": "22/05/2020 00:30",
       "matricula": "PTFKK",
-      "posicion": "",
+      "posicion": "44",
       "et": "",
       "at": "",
       "term": "FBO",
