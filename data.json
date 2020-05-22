@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "21/05/2020 22:48",
+  "lastUpdate": "21/05/2020 22:55",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1109",
-      "st": "21/05/2020 21:00",
-      "matricula": "CCBGO",
-      "posicion": "16",
-      "et": "21/5/2020 22:50",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "SYD",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": "261"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "PRV",
@@ -323,6 +304,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "1109",
+      "st": "21/05/2020 21:00",
+      "matricula": "CCBGO",
+      "posicion": "16",
+      "et": "21/5/2020 22:50",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "009",
+      "ruta": "SYD",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": "261"
     },
     {
       "tipo": "partida",
