@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/05/2020 01:34",
+  "lastUpdate": "22/05/2020 01:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -61,6 +61,25 @@
     {
       "tipo": "arribo",
       "aerolinea": "AOG",
+      "vuelo": "501",
+      "st": "22/05/2020 11:30",
+      "matricula": "CXCLS",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AOG",
       "vuelo": "423",
       "st": "22/05/2020 11:30",
       "matricula": "CXLSS",
@@ -79,10 +98,10 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "501",
-      "st": "22/05/2020 11:30",
-      "matricula": "CXCLS",
+      "aerolinea": "AV",
+      "vuelo": "291",
+      "st": "22/05/2020 13:36",
+      "matricula": "",
       "posicion": "",
       "et": "",
       "at": "",
@@ -90,7 +109,7 @@
       "sector": "",
       "cinta": "",
       "lF": "",
-      "ruta": "ASU",
+      "ruta": "BOG",
       "via": "",
       "remark": "",
       "sanidad": "NO",
