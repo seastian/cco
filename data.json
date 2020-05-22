@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/05/2020 00:18",
+  "lastUpdate": "22/05/2020 00:24",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -693,7 +693,7 @@
       "matricula": "PTFKK",
       "posicion": "44",
       "et": "",
-      "at": "",
+      "at": "22/5/2020 00:24",
       "term": "FBO",
       "sector": "",
       "chkFrom": "",
@@ -701,7 +701,7 @@
       "puerta": "",
       "ruta": "FLN",
       "via": "",
-      "remark": "HOR",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
