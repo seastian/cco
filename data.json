@@ -1,14 +1,14 @@
 {
-  "lastUpdate": "21/05/2020 21:57",
+  "lastUpdate": "21/05/2020 22:04",
   "vuelos": [
     {
       "tipo": "arribo",
       "aerolinea": "UC",
-      "vuelo": "1405",
-      "st": "21/05/2020 22:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
+      "vuelo": "1104",
+      "st": "21/05/2020 23:30",
+      "matricula": "N534LA",
+      "posicion": "55",
+      "et": "21/5/2020 22:50",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -16,7 +16,7 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -38,25 +38,6 @@
       "remark": "DEM",
       "sanidad": "NO",
       "pax": "261"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1104",
-      "st": "21/05/2020 23:30",
-      "matricula": "N534LA",
-      "posicion": "55",
-      "et": "21/5/2020 22:50",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -342,6 +323,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "237"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "UC",
+      "vuelo": "1405",
+      "st": "21/05/2020 22:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "partida",
