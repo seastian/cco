@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/05/2020 00:56",
+  "lastUpdate": "22/05/2020 01:02",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -693,7 +693,7 @@
       "matricula": "PRABB",
       "posicion": "54",
       "et": "22/5/2020 01:07",
-      "at": "",
+      "at": "22/5/2020 01:00",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -701,7 +701,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
