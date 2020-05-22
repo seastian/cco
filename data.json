@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/05/2020 22:55",
+  "lastUpdate": "21/05/2020 23:01",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -19,6 +19,25 @@
       "remark": "HOR",
       "sanidad": "NO",
       "pax": "3"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AMS",
+      "vuelo": "8119",
+      "st": "21/05/2020 23:40",
+      "matricula": "CXMAS",
+      "posicion": "51A",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -313,14 +332,14 @@
       "matricula": "CCBGO",
       "posicion": "16",
       "et": "21/5/2020 22:50",
-      "at": "",
+      "at": "21/5/2020 23:00",
       "term": "A",
       "sector": "",
       "cinta": "9",
       "lF": "009",
       "ruta": "SYD",
       "via": "",
-      "remark": "DEM",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "261"
     },
@@ -721,6 +740,25 @@
       "ruta": "SCL",
       "via": "",
       "remark": "EST",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AMS",
+      "vuelo": "7119",
+      "st": "22/05/2020 02:00",
+      "matricula": "CXMAS",
+      "posicion": "51A",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     },
     {
