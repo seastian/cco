@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/05/2020 00:43",
+  "lastUpdate": "22/05/2020 00:50",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -95,25 +95,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AV",
-      "vuelo": "291",
-      "st": "21/05/2020 13:36",
-      "matricula": "N785AV",
-      "posicion": "54",
-      "et": "21/5/2020 12:42",
-      "at": "21/5/2020 12:47",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
