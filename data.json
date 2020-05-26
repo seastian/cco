@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/05/2020 10:56",
+  "lastUpdate": "26/05/2020 11:02",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -130,6 +130,25 @@
       "lF": "",
       "ruta": "IST",
       "via": "GRU",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1285",
+      "st": "26/05/2020 23:00",
+      "matricula": "LVGGK",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
+      "via": "",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
