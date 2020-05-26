@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/05/2020 09:01",
+  "lastUpdate": "26/05/2020 09:07",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -93,25 +93,6 @@
       "ruta": "MIA",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1101",
-      "st": "25/05/2020 19:40",
-      "matricula": "CCCZZ",
-      "posicion": "55",
-      "et": "25/5/2020 21:25",
-      "at": "25/5/2020 21:06",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
