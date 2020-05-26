@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/05/2020 10:37",
+  "lastUpdate": "26/05/2020 10:43",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -294,14 +294,14 @@
       "matricula": "PHCKA",
       "posicion": "55",
       "et": "26/5/2020 10:30",
-      "at": "",
+      "at": "26/5/2020 10:38",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "AMS",
       "via": "VCP",
-      "remark": "DEM",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
