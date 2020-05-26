@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/05/2020 12:25",
+  "lastUpdate": "26/05/2020 12:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -508,7 +508,7 @@
       "sector": "AP",
       "chkFrom": "027",
       "chkTo": "032",
-      "puerta": "09",
+      "puerta": "08",
       "ruta": "MAD",
       "via": "ASU",
       "remark": "HOR",
