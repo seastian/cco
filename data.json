@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/05/2020 13:48",
+  "lastUpdate": "29/05/2020 13:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -408,7 +408,7 @@
       "matricula": "XAADG",
       "posicion": "04",
       "et": "29/5/2020 13:47",
-      "at": "",
+      "at": "29/5/2020 13:48",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -416,7 +416,7 @@
       "puerta": "03",
       "ruta": "MEX",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
