@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/05/2020 13:04",
+  "lastUpdate": "29/05/2020 13:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -25,9 +25,9 @@
       "aerolinea": "OB",
       "vuelo": "9708",
       "st": "29/05/2020 15:20",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
+      "matricula": "CP3138",
+      "posicion": "09",
+      "et": "29/5/2020 15:17",
       "at": "",
       "term": "A",
       "sector": "",
@@ -35,9 +35,9 @@
       "lF": "",
       "ruta": "VVI",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "161"
     },
     {
       "tipo": "arribo",
@@ -397,7 +397,7 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -443,15 +443,15 @@
       "aerolinea": "OB",
       "vuelo": "9709",
       "st": "29/05/2020 16:10",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "CP3138",
+      "posicion": "09",
       "et": "",
       "at": "",
       "term": "A",
       "sector": "AP",
       "chkFrom": "035",
       "chkTo": "040",
-      "puerta": "",
+      "puerta": "09",
       "ruta": "VVI",
       "via": "",
       "remark": "HOR",
