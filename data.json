@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/05/2020 13:42",
+  "lastUpdate": "29/05/2020 13:48",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -294,14 +294,14 @@
       "matricula": "LVFXQ",
       "posicion": "M17",
       "et": "",
-      "at": "",
+      "at": "29/5/2020 13:44",
       "term": "A",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "EZE",
       "via": "",
-      "remark": "CON",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -389,7 +389,7 @@
       "matricula": "CXLSS",
       "posicion": "50A",
       "et": "",
-      "at": "",
+      "at": "29/5/2020 13:06",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -397,7 +397,7 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -416,7 +416,7 @@
       "puerta": "03",
       "ruta": "MEX",
       "via": "",
-      "remark": "EST",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -611,25 +611,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "JJ",
-      "vuelo": "H24",
-      "st": "29/05/2020 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "",
-      "ruta": "QTR",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "H24",
       "st": "29/05/2020 23:59",
@@ -641,6 +622,25 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
+      "puerta": "",
+      "ruta": "QTR",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "JJ",
+      "vuelo": "H24",
+      "st": "29/05/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
       "puerta": "",
       "ruta": "QTR",
       "via": "",
