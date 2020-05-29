@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/05/2020 14:46",
+  "lastUpdate": "29/05/2020 14:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -193,22 +193,22 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "CM",
-      "vuelo": "4063",
-      "st": "29/05/2020 02:37",
-      "matricula": "HP1853",
-      "posicion": "10",
-      "et": "29/5/2020 02:48",
-      "at": "29/5/2020 02:48",
+      "aerolinea": "AR",
+      "vuelo": "1133",
+      "st": "30/05/2020 02:50",
+      "matricula": "LVGHQ",
+      "posicion": "",
+      "et": "",
+      "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "PTY",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MAD",
       "via": "",
-      "remark": "ATE",
+      "remark": "",
       "sanidad": "NO",
-      "pax": "136"
+      "pax": ""
     },
     {
       "tipo": "arribo",
