@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/05/2020 18:04",
+  "lastUpdate": "29/05/2020 18:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -365,25 +365,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AOG",
-      "vuelo": "424",
-      "st": "29/05/2020 12:30",
-      "matricula": "CXLSS",
-      "posicion": "50A",
-      "et": "",
-      "at": "29/5/2020 13:06",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
       "vuelo": "500",
       "st": "29/05/2020 12:30",
       "matricula": "CXCLS",
@@ -396,6 +377,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "ASU",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "424",
+      "st": "29/05/2020 12:30",
+      "matricula": "CXLSS",
+      "posicion": "50A",
+      "et": "",
+      "at": "29/5/2020 13:06",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -631,7 +631,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
+      "vuelo": "H24",
       "st": "29/05/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -639,7 +639,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -650,7 +650,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24",
+      "vuelo": "H24N",
       "st": "29/05/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -658,7 +658,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "209",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -740,6 +740,25 @@
       "ruta": "SCL",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "5X",
+      "vuelo": "413",
+      "st": "30/05/2020 06:05",
+      "matricula": "N360UP",
+      "posicion": "65",
+      "et": "30/5/2020 05:30",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
+      "via": "VCP",
+      "remark": "EST",
       "sanidad": "NO"
     }
   ]
