@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/05/2020 15:37",
+  "lastUpdate": "29/05/2020 15:43",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -45,7 +45,7 @@
       "vuelo": "701",
       "st": "29/05/2020 17:15",
       "matricula": "PHBHO",
-      "posicion": "",
+      "posicion": "11",
       "et": "",
       "at": "",
       "term": "TCA",
