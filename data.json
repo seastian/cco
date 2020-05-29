@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/05/2020 15:18",
+  "lastUpdate": "29/05/2020 15:24",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -313,14 +313,14 @@
       "matricula": "CP3138",
       "posicion": "09",
       "et": "29/5/2020 15:17",
-      "at": "",
+      "at": "29/5/2020 15:21",
       "term": "A",
       "sector": "",
       "cinta": "9",
       "lF": "009",
       "ruta": "VVI",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "161"
     },
