@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/05/2020 15:05",
+  "lastUpdate": "29/05/2020 15:11",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -440,6 +440,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "8495",
+      "st": "29/05/2020 15:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "VCP",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "AV",
       "vuelo": "290",
       "st": "29/05/2020 16:36",
@@ -455,25 +474,6 @@
       "ruta": "BOG",
       "via": "",
       "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "M3",
-      "vuelo": "8495",
-      "st": "29/05/2020 15:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "HOR",
       "sanidad": "NO"
     },
     {
