@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/05/2020 18:10",
+  "lastUpdate": "29/05/2020 18:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -465,7 +465,7 @@
       "matricula": "CP3138",
       "posicion": "09",
       "et": "29/5/2020 18:00",
-      "at": "",
+      "at": "29/5/2020 18:02",
       "term": "A",
       "sector": "AP",
       "chkFrom": "035",
@@ -473,7 +473,7 @@
       "puerta": "09",
       "ruta": "VVI",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -492,7 +492,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
