@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/05/2020 14:14",
+  "lastUpdate": "29/05/2020 14:20",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -22,25 +22,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "M3",
-      "vuelo": "8450",
-      "st": "29/05/2020 17:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "UC",
       "vuelo": "1105",
       "st": "29/05/2020 17:00",
@@ -60,7 +41,26 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
+      "aerolinea": "M3",
+      "vuelo": "8450",
+      "st": "29/05/2020 17:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "VCP",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "KL",
       "vuelo": "701",
       "st": "29/05/2020 17:15",
       "matricula": "",
