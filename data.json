@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/05/2020 19:40",
+  "lastUpdate": "29/05/2020 19:46",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -152,6 +152,25 @@
       "remark": "DEM",
       "sanidad": "NO",
       "pax": "270"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "BA",
+      "vuelo": "245F",
+      "st": "30/05/2020 08:20",
+      "matricula": "GZBJK",
+      "posicion": "",
+      "et": "30/5/2020 07:42",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "LHR",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
