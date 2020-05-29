@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/05/2020 19:33",
+  "lastUpdate": "29/05/2020 19:40",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -133,6 +133,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AF",
+      "vuelo": "4142",
+      "st": "30/05/2020 07:20",
+      "matricula": "FGZNL",
+      "posicion": "",
+      "et": "30/5/2020 07:39",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "CDG",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": "270"
     },
     {
       "tipo": "arribo",
@@ -313,14 +332,14 @@
       "matricula": "CXCLS",
       "posicion": "54A",
       "et": "",
-      "at": "",
+      "at": "29/5/2020 19:35",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "CON",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
