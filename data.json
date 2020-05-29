@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/05/2020 15:24",
+  "lastUpdate": "29/05/2020 15:31",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -720,6 +720,25 @@
       "puerta": "",
       "ruta": "IST",
       "via": "GRU",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1406",
+      "st": "30/05/2020 03:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "LAX",
+      "via": "",
       "remark": "HOR",
       "sanidad": "NO"
     }
