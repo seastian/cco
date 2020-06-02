@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/06/2020 13:16",
+  "lastUpdate": "02/06/2020 13:23",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -285,25 +285,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "M3",
-      "vuelo": "8490",
-      "st": "02/06/2020 02:10",
-      "matricula": "PRABD",
-      "posicion": "55",
-      "et": "2/6/2020 01:07",
-      "at": "2/6/2020 01:17",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
