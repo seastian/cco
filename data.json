@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/06/2020 18:36",
+  "lastUpdate": "02/06/2020 18:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -283,25 +283,6 @@
       "ruta": "MVD",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "QR",
-      "vuelo": "8157",
-      "st": "02/06/2020 06:45",
-      "matricula": "A7BFJ",
-      "posicion": "54",
-      "et": "2/6/2020 06:36",
-      "at": "2/6/2020 06:38",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "DOH",
-      "via": "GRU",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
