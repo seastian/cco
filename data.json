@@ -1,12 +1,12 @@
 {
-  "lastUpdate": "02/06/2020 15:50",
+  "lastUpdate": "02/06/2020 15:57",
   "vuelos": [
     {
       "tipo": "arribo",
       "aerolinea": "LA",
       "vuelo": "1955",
       "st": "02/06/2020 17:00",
-      "matricula": "CCBGP",
+      "matricula": "CCBGB",
       "posicion": "10",
       "et": "2/6/2020 16:35",
       "at": "",
