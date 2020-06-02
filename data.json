@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/06/2020 14:08",
+  "lastUpdate": "02/06/2020 14:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -427,7 +427,7 @@
       "matricula": "PRMHZ",
       "posicion": "08",
       "et": "",
-      "at": "",
+      "at": "2/6/2020 14:00",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -435,7 +435,7 @@
       "puerta": "07",
       "ruta": "GRU",
       "via": "",
-      "remark": "CON",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -664,6 +664,25 @@
       "ruta": "IST",
       "via": "DKR",
       "remark": "CAN",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "8492",
+      "st": "03/06/2020 02:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     }
   ]
