@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "02/06/2020 16:22",
+  "lastUpdate": "02/06/2020 16:29",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1955",
-      "st": "02/06/2020 17:00",
-      "matricula": "CCBGB",
-      "posicion": "10",
-      "et": "2/6/2020 16:35",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "0"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "M3",
@@ -420,6 +401,25 @@
       "pax": "14"
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "1955",
+      "st": "02/06/2020 17:00",
+      "matricula": "CCBGB",
+      "posicion": "10",
+      "et": "2/6/2020 16:35",
+      "at": "2/6/2020 16:22",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "0"
+    },
+    {
       "tipo": "partida",
       "aerolinea": "QR",
       "vuelo": "8157",
@@ -614,7 +614,7 @@
       "aerolinea": "LA",
       "vuelo": "1955",
       "st": "02/06/2020 19:00",
-      "matricula": "CCBGP",
+      "matricula": "CCBGB",
       "posicion": "10",
       "et": "",
       "at": "",
