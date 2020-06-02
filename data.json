@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/06/2020 13:10",
+  "lastUpdate": "02/06/2020 13:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -130,6 +130,25 @@
       "lF": "",
       "ruta": "VCP",
       "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "WQ",
+      "vuelo": "1510",
+      "st": "03/06/2020 01:15",
+      "matricula": "N624XA",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "BGI",
+      "via": "MAO",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
@@ -592,25 +611,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "JJ",
-      "vuelo": "H24",
-      "st": "02/06/2020 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "",
-      "ruta": "QTR",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "H24",
       "st": "02/06/2020 23:59",
@@ -649,6 +649,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "JJ",
+      "vuelo": "H24",
+      "st": "02/06/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "QTR",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "LA",
       "vuelo": "1959",
       "st": "03/06/2020 01:00",
@@ -664,6 +683,25 @@
       "ruta": "SCL",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "TK",
+      "vuelo": "6170",
+      "st": "03/06/2020 01:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "IST",
+      "via": "DKR",
+      "remark": "CAN",
       "sanidad": "NO"
     }
   ]
