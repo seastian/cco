@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/06/2020 17:26",
+  "lastUpdate": "02/06/2020 17:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -854,6 +854,44 @@
       "ruta": "DOH",
       "via": "UIO",
       "remark": "DEM",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "PRV",
+      "vuelo": "GOQ",
+      "st": "03/06/2020 05:30",
+      "matricula": "LVGOQ",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPC",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "RYD",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "PRV",
+      "vuelo": "VDJ",
+      "st": "03/06/2020 05:30",
+      "matricula": "LVVDJ",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPC",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "RYD",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     }
   ]
