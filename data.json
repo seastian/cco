@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/06/2020 14:14",
+  "lastUpdate": "02/06/2020 14:21",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -449,8 +449,8 @@
       "at": "",
       "term": "TCA",
       "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
+      "chkFrom": "040",
+      "chkTo": "041",
       "puerta": "10",
       "ruta": "DXB",
       "via": "AMS",
