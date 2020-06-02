@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/06/2020 17:32",
+  "lastUpdate": "02/06/2020 17:39",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -216,7 +216,7 @@
       "vuelo": "045",
       "st": "03/06/2020 04:15",
       "matricula": "",
-      "posicion": "",
+      "posicion": "03",
       "et": "",
       "at": "",
       "term": "A",
