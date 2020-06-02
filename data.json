@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/06/2020 15:05",
+  "lastUpdate": "02/06/2020 15:12",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -492,7 +492,7 @@
       "puerta": "10",
       "ruta": "DXB",
       "via": "AMS",
-      "remark": "HOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
