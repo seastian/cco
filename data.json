@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/06/2020 18:17",
+  "lastUpdate": "02/06/2020 18:23",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -283,25 +283,6 @@
       "ruta": "MVD",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "M3",
-      "vuelo": "8491",
-      "st": "02/06/2020 06:20",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
