@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/06/2020 12:12",
+  "lastUpdate": "02/06/2020 12:19",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -152,25 +152,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "VH",
-      "vuelo": "454",
-      "st": "02/06/2020 01:04",
-      "matricula": "HK5278",
-      "posicion": "09",
-      "et": "2/6/2020 00:15",
-      "at": "2/6/2020 00:17",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "008",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "156"
     },
     {
       "tipo": "arribo",
