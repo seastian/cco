@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/06/2020 13:55",
+  "lastUpdate": "02/06/2020 14:01",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -149,6 +149,25 @@
       "lF": "",
       "ruta": "BGI",
       "via": "MAO",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "UC",
+      "vuelo": "1403",
+      "st": "03/06/2020 02:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
@@ -416,7 +435,7 @@
       "puerta": "07",
       "ruta": "GRU",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
