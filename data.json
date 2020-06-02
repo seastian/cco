@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/06/2020 15:31",
+  "lastUpdate": "02/06/2020 15:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -186,6 +186,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "DOH",
+      "via": "GRU",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LH",
+      "vuelo": "8266",
+      "st": "03/06/2020 03:35",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "FRA",
       "via": "GRU",
       "remark": "",
       "sanidad": "NO",
