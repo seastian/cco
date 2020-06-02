@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/06/2020 14:40",
+  "lastUpdate": "02/06/2020 14:46",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -168,6 +168,25 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "WQ",
+      "vuelo": "1511",
+      "st": "03/06/2020 02:45",
+      "matricula": "N917XA",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "BGI",
+      "via": "MAO",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
