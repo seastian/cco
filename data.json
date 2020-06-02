@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/06/2020 12:57",
+  "lastUpdate": "02/06/2020 13:04",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -643,6 +643,25 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LA",
+      "vuelo": "1959",
+      "st": "03/06/2020 01:00",
+      "matricula": "CCBGN",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
