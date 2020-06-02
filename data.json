@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/06/2020 17:00",
+  "lastUpdate": "02/06/2020 17:07",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -434,7 +434,7 @@
       "lF": "",
       "ruta": "VCP",
       "via": "",
-      "remark": "",
+      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
@@ -816,6 +816,25 @@
       "ruta": "LAX",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "QR",
+      "vuelo": "8155",
+      "st": "03/06/2020 05:05",
+      "matricula": "A7BFA",
+      "posicion": "",
+      "et": "3/6/2020 05:25",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "DOH",
+      "via": "UIO",
+      "remark": "DEM",
       "sanidad": "NO"
     }
   ]
