@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "02/06/2020 15:12",
+  "lastUpdate": "02/06/2020 15:18",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "1925M",
-      "st": "02/06/2020 16:00",
-      "matricula": "N1925M",
-      "posicion": "44",
-      "et": "2/6/2020 15:40",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SJU",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "14"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "LA",
@@ -344,6 +325,25 @@
       "pax": ""
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "1925M",
+      "st": "02/06/2020 16:00",
+      "matricula": "N1925M",
+      "posicion": "44",
+      "et": "2/6/2020 15:40",
+      "at": "2/6/2020 15:17",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SJU",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "14"
+    },
+    {
       "tipo": "partida",
       "aerolinea": "VH",
       "vuelo": "455",
@@ -612,7 +612,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24",
+      "vuelo": "H24N",
       "st": "02/06/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -620,7 +620,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "209",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -631,7 +631,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
+      "vuelo": "H24",
       "st": "02/06/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -639,7 +639,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
