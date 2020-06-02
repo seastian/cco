@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/06/2020 20:07",
+  "lastUpdate": "02/06/2020 20:13",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,7 +7,7 @@
       "vuelo": "1959",
       "st": "02/06/2020 23:00",
       "matricula": "CCBGN",
-      "posicion": "",
+      "posicion": "54",
       "et": "2/6/2020 21:50",
       "at": "",
       "term": "TCA",
@@ -729,7 +729,7 @@
       "vuelo": "1959",
       "st": "03/06/2020 01:00",
       "matricula": "CCBGN",
-      "posicion": "",
+      "posicion": "54",
       "et": "",
       "at": "",
       "term": "TCA",
