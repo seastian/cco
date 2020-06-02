@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/06/2020 17:39",
+  "lastUpdate": "02/06/2020 17:45",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -215,7 +215,7 @@
       "aerolinea": "LY",
       "vuelo": "045",
       "st": "03/06/2020 04:15",
-      "matricula": "",
+      "matricula": "4XERA",
       "posicion": "03",
       "et": "",
       "at": "",
@@ -630,6 +630,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "LA",
+      "vuelo": "1955",
+      "st": "02/06/2020 19:00",
+      "matricula": "CCBGB",
+      "posicion": "10",
+      "et": "",
+      "at": "2/6/2020 17:44",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "10",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "M3",
       "vuelo": "8420",
       "st": "02/06/2020 18:10",
@@ -643,25 +662,6 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MIA",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LA",
-      "vuelo": "1955",
-      "st": "02/06/2020 19:00",
-      "matricula": "CCBGB",
-      "posicion": "10",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "10",
-      "ruta": "SCL",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
