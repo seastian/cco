@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/06/2020 15:18",
+  "lastUpdate": "02/06/2020 15:25",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -342,25 +342,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "14"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "VH",
-      "vuelo": "455",
-      "st": "02/06/2020 02:34",
-      "matricula": "HK5278",
-      "posicion": "09",
-      "et": "",
-      "at": "2/6/2020 03:24",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "027",
-      "chkTo": "032",
-      "puerta": "09",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
