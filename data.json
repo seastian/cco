@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/06/2020 18:57",
+  "lastUpdate": "02/06/2020 19:03",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -840,9 +840,9 @@
     {
       "tipo": "partida",
       "aerolinea": "PRV",
-      "vuelo": "GOQ",
+      "vuelo": "VDJ",
       "st": "03/06/2020 05:30",
-      "matricula": "LVGOQ",
+      "matricula": "LVVDJ",
       "posicion": "",
       "et": "",
       "at": "",
@@ -859,9 +859,9 @@
     {
       "tipo": "partida",
       "aerolinea": "PRV",
-      "vuelo": "VDJ",
+      "vuelo": "GOQ",
       "st": "03/06/2020 05:30",
-      "matricula": "LVVDJ",
+      "matricula": "LVGOQ",
       "posicion": "",
       "et": "",
       "at": "",
@@ -891,6 +891,44 @@
       "puerta": "",
       "ruta": "FRA",
       "via": "VCP",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "ZP",
+      "vuelo": "2821",
+      "st": "03/06/2020 07:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "080",
+      "chkTo": "081",
+      "puerta": "",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "FQ",
+      "vuelo": "8062",
+      "st": "03/06/2020 07:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "076",
+      "chkTo": "077",
+      "puerta": "",
+      "ruta": "MVD",
+      "via": "",
       "remark": "HOR",
       "sanidad": "NO"
     }
