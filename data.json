@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/06/2020 17:52",
+  "lastUpdate": "02/06/2020 17:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -891,6 +891,25 @@
       "puerta": "",
       "ruta": "RYD",
       "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LH",
+      "vuelo": "8267",
+      "st": "03/06/2020 05:55",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "FRA",
+      "via": "VCP",
       "remark": "HOR",
       "sanidad": "NO"
     }
