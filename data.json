@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/06/2020 01:27",
+  "lastUpdate": "03/06/2020 01:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -407,7 +407,7 @@
       "st": "03/06/2020 01:15",
       "matricula": "N624XA",
       "posicion": "08",
-      "et": "3/6/2020 01:15",
+      "et": "",
       "at": "",
       "term": "A",
       "sector": "",
@@ -415,7 +415,7 @@
       "lF": "008",
       "ruta": "BGI",
       "via": "MAO",
-      "remark": "EST",
+      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
@@ -880,8 +880,8 @@
       "aerolinea": "AR",
       "vuelo": "1914",
       "st": "03/06/2020 10:00",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "LVGVB",
+      "posicion": "M01",
       "et": "",
       "at": "",
       "term": "TCA",
