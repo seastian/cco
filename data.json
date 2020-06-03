@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/06/2020 23:51",
+  "lastUpdate": "02/06/2020 23:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -31,8 +31,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "8",
+      "lF": "008",
       "ruta": "BGI",
       "via": "MAO",
       "remark": "EST",
@@ -625,7 +625,7 @@
       "puerta": "17",
       "ruta": "MIA",
       "via": "",
-      "remark": "HOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
