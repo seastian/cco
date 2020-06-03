@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/06/2020 21:43",
+  "lastUpdate": "02/06/2020 21:49",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -130,7 +130,7 @@
       "lF": "",
       "ruta": "BGI",
       "via": "MAO",
-      "remark": "",
+      "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
     },
