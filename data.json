@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/06/2020 00:35",
+  "lastUpdate": "03/06/2020 00:42",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -247,25 +247,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "9516",
-      "st": "02/06/2020 13:00",
-      "matricula": "PRMHZ",
-      "posicion": "08",
-      "et": "",
-      "at": "2/6/2020 12:37",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
