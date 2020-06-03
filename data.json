@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/06/2020 01:20",
+  "lastUpdate": "03/06/2020 01:27",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -45,8 +45,8 @@
       "vuelo": "8155",
       "st": "03/06/2020 03:00",
       "matricula": "A7BFA",
-      "posicion": "",
-      "et": "",
+      "posicion": "55",
+      "et": "3/6/2020 03:25",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -54,7 +54,7 @@
       "lF": "",
       "ruta": "DOH",
       "via": "GRU",
-      "remark": "",
+      "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
     },
@@ -729,7 +729,7 @@
       "vuelo": "8155",
       "st": "03/06/2020 05:05",
       "matricula": "A7BFA",
-      "posicion": "",
+      "posicion": "55",
       "et": "3/6/2020 05:25",
       "at": "",
       "term": "TCA",
