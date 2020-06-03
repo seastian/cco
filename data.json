@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/06/2020 01:39",
+  "lastUpdate": "03/06/2020 01:46",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -674,7 +674,7 @@
       "matricula": "PRACO",
       "posicion": "55",
       "et": "3/6/2020 01:15",
-      "at": "",
+      "at": "3/6/2020 01:43",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -682,7 +682,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -693,7 +693,7 @@
       "matricula": "CXMAS",
       "posicion": "51A",
       "et": "",
-      "at": "",
+      "at": "3/6/2020 01:41",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -701,7 +701,7 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "HOR",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -820,25 +820,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "ZP",
-      "vuelo": "2821",
-      "st": "03/06/2020 07:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "080",
-      "chkTo": "081",
-      "puerta": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "FQ",
       "vuelo": "8062",
       "st": "03/06/2020 07:00",
@@ -852,6 +833,25 @@
       "chkTo": "077",
       "puerta": "",
       "ruta": "MVD",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "ZP",
+      "vuelo": "2821",
+      "st": "03/06/2020 07:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "080",
+      "chkTo": "081",
+      "puerta": "",
+      "ruta": "ASU",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
