@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/06/2020 22:27",
+  "lastUpdate": "02/06/2020 22:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -45,8 +45,8 @@
       "vuelo": "1510",
       "st": "03/06/2020 01:15",
       "matricula": "N624XA",
-      "posicion": "",
-      "et": "",
+      "posicion": "08",
+      "et": "3/6/2020 01:15",
       "at": "",
       "term": "A",
       "sector": "",
@@ -54,7 +54,7 @@
       "lF": "",
       "ruta": "BGI",
       "via": "MAO",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
