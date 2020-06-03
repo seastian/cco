@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "02/06/2020 22:40",
+  "lastUpdate": "02/06/2020 22:47",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "TK",
-      "vuelo": "6169",
-      "st": "02/06/2020 22:40",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "IST",
-      "via": "DKR",
-      "remark": "CAN",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "M3",
