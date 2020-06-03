@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/06/2020 01:46",
+  "lastUpdate": "03/06/2020 01:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -31,8 +31,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "8",
-      "lF": "008",
+      "cinta": "",
+      "lF": "",
       "ruta": "BGI",
       "via": "MAO",
       "remark": "DEM",
