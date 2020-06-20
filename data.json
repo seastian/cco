@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/06/2020 18:53",
+  "lastUpdate": "20/06/2020 18:59",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -26,7 +26,7 @@
       "vuelo": "1231",
       "st": "20/06/2020 22:40",
       "matricula": "CCBGP",
-      "posicion": "",
+      "posicion": "09",
       "et": "20/6/2020 21:40",
       "at": "",
       "term": "TCA",
