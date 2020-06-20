@@ -1,6 +1,25 @@
 {
-  "lastUpdate": "20/06/2020 17:07",
+  "lastUpdate": "20/06/2020 17:13",
   "vuelos": [
+    {
+      "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "T7CTA",
+      "st": "20/06/2020 18:30",
+      "matricula": "T7CTA",
+      "posicion": "52A",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "EZE",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
     {
       "tipo": "arribo",
       "aerolinea": "LA",
@@ -275,7 +294,7 @@
       "matricula": "T7CTA",
       "posicion": "52A",
       "et": "",
-      "at": "",
+      "at": "20/6/2020 17:00",
       "term": "C",
       "sector": "CPC",
       "chkFrom": "",
@@ -283,7 +302,7 @@
       "puerta": "",
       "ruta": "EZE",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
