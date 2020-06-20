@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/06/2020 15:27",
+  "lastUpdate": "20/06/2020 15:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -19,6 +19,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "9581",
+      "st": "20/06/2020 17:30",
+      "matricula": "CCBBA",
+      "posicion": "",
+      "et": "20/6/2020 16:50",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -42,30 +61,11 @@
     {
       "tipo": "arribo",
       "aerolinea": "LA",
-      "vuelo": "9581",
-      "st": "20/06/2020 17:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
       "vuelo": "1231",
       "st": "20/06/2020 22:40",
-      "matricula": "",
+      "matricula": "CCBGP",
       "posicion": "",
-      "et": "",
+      "et": "20/6/2020 21:40",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -73,9 +73,9 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -171,25 +171,6 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1406",
-      "st": "20/06/2020 03:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "LAX",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
@@ -348,7 +329,7 @@
       "aerolinea": "LA",
       "vuelo": "9581",
       "st": "20/06/2020 19:30",
-      "matricula": "",
+      "matricula": "CCBBA",
       "posicion": "",
       "et": "",
       "at": "",
@@ -443,7 +424,7 @@
       "aerolinea": "LA",
       "vuelo": "1231",
       "st": "21/06/2020 00:40",
-      "matricula": "",
+      "matricula": "CCBGP",
       "posicion": "",
       "et": "",
       "at": "",
