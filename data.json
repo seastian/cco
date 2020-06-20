@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "20/06/2020 16:48",
+  "lastUpdate": "20/06/2020 16:54",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "9581",
-      "st": "20/06/2020 17:30",
-      "matricula": "CCBBA",
-      "posicion": "10",
-      "et": "20/6/2020 16:50",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "0"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "UC",
@@ -154,6 +135,25 @@
       "pax": ""
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "9581",
+      "st": "20/06/2020 17:30",
+      "matricula": "CCBBA",
+      "posicion": "10",
+      "et": "20/6/2020 16:50",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "0"
+    },
+    {
       "tipo": "partida",
       "aerolinea": "5X",
       "vuelo": "413",
@@ -283,7 +283,7 @@
       "puerta": "",
       "ruta": "EZE",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
