@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/06/2020 18:28",
+  "lastUpdate": "20/06/2020 18:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -8,7 +8,7 @@
       "st": "20/06/2020 18:30",
       "matricula": "T7CTA",
       "posicion": "52A",
-      "et": "",
+      "et": "20/6/2020 20:30",
       "at": "",
       "term": "C",
       "sector": "CAC",
@@ -16,7 +16,7 @@
       "lF": "",
       "ruta": "EZE",
       "via": "",
-      "remark": "",
+      "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
     },
