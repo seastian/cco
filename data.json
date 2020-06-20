@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/06/2020 16:29",
+  "lastUpdate": "20/06/2020 16:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -74,25 +74,6 @@
       "ruta": "BOG",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1105",
-      "st": "19/06/2020 17:00",
-      "matricula": "N532LA",
-      "posicion": "54",
-      "et": "19/6/2020 04:50",
-      "at": "19/6/2020 04:34",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -282,6 +263,25 @@
       "chkTo": "",
       "puerta": "09",
       "ruta": "LHR",
+      "via": "",
+      "remark": "CER",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "PRV",
+      "vuelo": "T7TCA",
+      "st": "20/06/2020 16:45",
+      "matricula": "T7CTA",
+      "posicion": "52A",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPC",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "EZE",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
