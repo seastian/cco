@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "21/06/2020 09:59",
+  "lastUpdate": "21/06/2020 10:06",
   "vuelos": [
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "8472",
+      "vuelo": "9831",
       "st": "21/06/2020 14:00",
       "matricula": "",
       "posicion": "",
@@ -23,7 +23,7 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "9831",
+      "vuelo": "8472",
       "st": "21/06/2020 14:00",
       "matricula": "",
       "posicion": "",
@@ -120,6 +120,25 @@
       "aerolinea": "LA",
       "vuelo": "9582",
       "st": "21/06/2020 20:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "UC",
+      "vuelo": "1407",
+      "st": "21/06/2020 22:00",
       "matricula": "",
       "posicion": "",
       "et": "",
