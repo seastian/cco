@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/06/2020 11:40",
+  "lastUpdate": "21/06/2020 11:46",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -46,7 +46,7 @@
       "st": "21/06/2020 16:30",
       "matricula": "",
       "posicion": "",
-      "et": "",
+      "et": "21/6/2020 16:55",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -54,9 +54,9 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "",
+      "remark": "DEM",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -117,12 +117,12 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "9582",
-      "st": "21/06/2020 20:10",
-      "matricula": "",
+      "aerolinea": "GTI",
+      "vuelo": "033",
+      "st": "21/06/2020 23:05",
+      "matricula": "N859GT",
       "posicion": "",
-      "et": "",
+      "et": "21/6/2020 19:40",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -130,9 +130,28 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "9582",
+      "st": "21/06/2020 20:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "21/6/2020 19:40",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -155,9 +174,9 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "GTI",
-      "vuelo": "033",
-      "st": "21/06/2020 23:05",
+      "aerolinea": "LA",
+      "vuelo": "1981",
+      "st": "21/06/2020 23:40",
       "matricula": "",
       "posicion": "",
       "et": "",
