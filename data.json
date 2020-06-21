@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/06/2020 08:07",
+  "lastUpdate": "21/06/2020 08:13",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -129,6 +129,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "MVD",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "9582",
+      "st": "21/06/2020 20:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
       "via": "",
       "remark": "",
       "sanidad": "NO",
