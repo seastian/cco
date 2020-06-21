@@ -1,6 +1,25 @@
 {
-  "lastUpdate": "21/06/2020 18:22",
+  "lastUpdate": "21/06/2020 18:28",
   "vuelos": [
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "9582",
+      "st": "21/06/2020 20:10",
+      "matricula": "CCBBI",
+      "posicion": "10",
+      "et": "21/6/2020 19:30",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "0"
+    },
     {
       "tipo": "arribo",
       "aerolinea": "GTI",
@@ -19,25 +38,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "9582",
-      "st": "21/06/2020 20:10",
-      "matricula": "CCBBI",
-      "posicion": "10",
-      "et": "21/6/2020 19:40",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
