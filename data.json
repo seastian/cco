@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/06/2020 04:53",
+  "lastUpdate": "21/06/2020 04:59",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -76,25 +76,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "9581",
-      "st": "20/06/2020 17:30",
-      "matricula": "CCBBA",
-      "posicion": "10",
-      "et": "20/6/2020 16:50",
-      "at": "20/6/2020 16:56",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
