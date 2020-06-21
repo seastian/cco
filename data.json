@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/06/2020 11:52",
+  "lastUpdate": "21/06/2020 11:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -303,25 +303,6 @@
       "ruta": "QTR",
       "via": "",
       "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LA",
-      "vuelo": "1231",
-      "st": "21/06/2020 00:40",
-      "matricula": "CCBGP",
-      "posicion": "09",
-      "et": "",
-      "at": "20/6/2020 23:55",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "09",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
       "sanidad": "NO"
     },
     {
