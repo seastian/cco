@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "20/06/2020 21:36",
+  "lastUpdate": "20/06/2020 21:42",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1231",
-      "st": "20/06/2020 22:40",
-      "matricula": "CCBGP",
-      "posicion": "09",
-      "et": "20/6/2020 21:40",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "0"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "QT",
@@ -190,6 +171,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "1231",
+      "st": "20/06/2020 22:40",
+      "matricula": "CCBGP",
+      "posicion": "09",
+      "et": "20/6/2020 21:40",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "0"
     },
     {
       "tipo": "partida",
