@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/06/2020 10:06",
+  "lastUpdate": "21/06/2020 10:12",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -415,6 +415,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "ASU",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LA",
+      "vuelo": "9582",
+      "st": "21/06/2020 22:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
