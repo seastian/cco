@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/06/2020 16:27",
+  "lastUpdate": "21/06/2020 16:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -313,7 +313,7 @@
       "matricula": "GZBJG",
       "posicion": "09",
       "et": "",
-      "at": "",
+      "at": "21/6/2020 16:27",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -321,7 +321,7 @@
       "puerta": "09",
       "ruta": "LHR",
       "via": "",
-      "remark": "HOR",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
