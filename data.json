@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/06/2020 19:46",
+  "lastUpdate": "21/06/2020 19:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -103,7 +103,7 @@
       "st": "22/06/2020 02:50",
       "matricula": "",
       "posicion": "",
-      "et": "",
+      "et": "22/6/2020 02:15",
       "at": "",
       "term": "A",
       "sector": "",
@@ -111,9 +111,9 @@
       "lF": "",
       "ruta": "MAD",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "162"
     },
     {
       "tipo": "arribo",
