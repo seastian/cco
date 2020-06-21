@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/06/2020 16:40",
+  "lastUpdate": "21/06/2020 16:46",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -269,21 +269,21 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "QT",
-      "vuelo": "4078",
-      "st": "21/06/2020 05:15",
-      "matricula": "N331QT",
-      "posicion": "55",
+      "aerolinea": "M3",
+      "vuelo": "8472",
+      "st": "21/06/2020 15:10",
+      "matricula": "",
+      "posicion": "",
       "et": "",
-      "at": "21/6/2020 04:42",
+      "at": "",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
       "chkTo": "",
       "puerta": "",
-      "ruta": "BOG",
+      "ruta": "MIA",
       "via": "",
-      "remark": "PAR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -301,25 +301,6 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MAO",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "M3",
-      "vuelo": "8472",
-      "st": "21/06/2020 15:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MIA",
       "via": "",
       "remark": "CON",
       "sanidad": "NO"
