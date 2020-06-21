@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/06/2020 23:53",
+  "lastUpdate": "21/06/2020 00:00",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -36,25 +36,6 @@
       "ruta": "LHR",
       "via": "",
       "remark": "DEM",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "BA",
-      "vuelo": "245F",
-      "st": "20/06/2020 08:20",
-      "matricula": "GZBJI",
-      "posicion": "09",
-      "et": "20/6/2020 11:58",
-      "at": "20/6/2020 11:56",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "LHR",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
