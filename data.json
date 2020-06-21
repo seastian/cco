@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/06/2020 21:11",
+  "lastUpdate": "20/06/2020 21:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -25,9 +25,9 @@
       "aerolinea": "QT",
       "vuelo": "4099",
       "st": "21/06/2020 03:15",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
+      "matricula": "N331QT",
+      "posicion": "55",
+      "et": "21/6/2020 02:00",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -35,7 +35,7 @@
       "lF": "",
       "ruta": "BOG",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -462,8 +462,8 @@
       "aerolinea": "QT",
       "vuelo": "4078",
       "st": "21/06/2020 05:15",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "N331QT",
+      "posicion": "55",
       "et": "",
       "at": "",
       "term": "TCA",
