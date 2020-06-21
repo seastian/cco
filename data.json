@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/06/2020 15:18",
+  "lastUpdate": "21/06/2020 15:25",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -101,7 +101,7 @@
       "aerolinea": "LA",
       "vuelo": "9582",
       "st": "21/06/2020 20:10",
-      "matricula": "",
+      "matricula": "CCBBI",
       "posicion": "",
       "et": "21/6/2020 19:40",
       "at": "",
@@ -139,7 +139,7 @@
       "aerolinea": "LA",
       "vuelo": "1981",
       "st": "21/06/2020 23:40",
-      "matricula": "",
+      "matricula": "CCBBC",
       "posicion": "",
       "et": "21/6/2020 22:50",
       "at": "",
@@ -405,7 +405,7 @@
       "aerolinea": "LA",
       "vuelo": "9582",
       "st": "21/06/2020 22:10",
-      "matricula": "",
+      "matricula": "CCBBI",
       "posicion": "",
       "et": "",
       "at": "",
@@ -519,7 +519,7 @@
       "aerolinea": "LA",
       "vuelo": "1981",
       "st": "22/06/2020 01:40",
-      "matricula": "",
+      "matricula": "CCBBC",
       "posicion": "",
       "et": "",
       "at": "",
