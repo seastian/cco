@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "21/06/2020 17:05",
+  "lastUpdate": "21/06/2020 17:13",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "KL",
-      "vuelo": "701",
-      "st": "21/06/2020 17:15",
-      "matricula": "PHBHC",
-      "posicion": "11",
-      "et": "21/6/2020 17:15",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "AMS",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "GTI",
@@ -264,6 +245,25 @@
       "ruta": "MIA",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "KL",
+      "vuelo": "701",
+      "st": "21/06/2020 17:15",
+      "matricula": "PHBHC",
+      "posicion": "11",
+      "et": "21/6/2020 17:15",
+      "at": "21/6/2020 17:10",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "AMS",
+      "via": "",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
