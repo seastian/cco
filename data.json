@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/06/2020 02:30",
+  "lastUpdate": "21/06/2020 02:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -171,25 +171,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "KL",
-      "vuelo": "702",
-      "st": "20/06/2020 15:00",
-      "matricula": "PHBHG",
-      "posicion": "11",
-      "et": "",
-      "at": "20/6/2020 14:35",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "14",
-      "ruta": "AMS",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
