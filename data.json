@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/06/2020 21:54",
+  "lastUpdate": "20/06/2020 22:01",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -179,15 +179,15 @@
       "st": "20/06/2020 22:40",
       "matricula": "CCBGP",
       "posicion": "09",
-      "et": "20/6/2020 21:40",
-      "at": "",
+      "et": "",
+      "at": "20/6/2020 21:57",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
     },
