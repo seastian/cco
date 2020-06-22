@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/06/2020 04:16",
+  "lastUpdate": "22/06/2020 04:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -65,7 +65,7 @@
       "st": "22/06/2020 11:40",
       "matricula": "",
       "posicion": "",
-      "et": "",
+      "et": "22/6/2020 10:10",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -73,7 +73,7 @@
       "lF": "",
       "ruta": "PVG",
       "via": "AKL",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
