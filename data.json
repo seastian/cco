@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/06/2020 09:54",
+  "lastUpdate": "22/06/2020 10:01",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -80,25 +80,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "8410",
-      "st": "22/06/2020 14:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "M3",
       "vuelo": "8473",
       "st": "22/06/2020 14:00",
       "matricula": "",
@@ -110,6 +91,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "MIA",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "M3",
+      "vuelo": "8410",
+      "st": "22/06/2020 14:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "VCP",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -175,8 +175,8 @@
     {
       "tipo": "arribo",
       "aerolinea": "UC",
-      "vuelo": "1407",
-      "st": "21/06/2020 22:00",
+      "vuelo": "1109",
+      "st": "22/06/2020 22:00",
       "matricula": "",
       "posicion": "",
       "et": "",
@@ -187,7 +187,7 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "CON",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
