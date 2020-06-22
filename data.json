@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/06/2020 21:32",
+  "lastUpdate": "21/06/2020 21:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -26,7 +26,7 @@
       "vuelo": "1981",
       "st": "21/06/2020 23:40",
       "matricula": "CCBBC",
-      "posicion": "",
+      "posicion": "09",
       "et": "21/6/2020 22:50",
       "at": "",
       "term": "TCA",
@@ -45,7 +45,7 @@
       "vuelo": "1711",
       "st": "21/06/2020 23:30",
       "matricula": "N538LA",
-      "posicion": "",
+      "posicion": "55",
       "et": "21/6/2020 23:30",
       "at": "",
       "term": "TCA",
@@ -539,7 +539,7 @@
       "vuelo": "1711",
       "st": "22/06/2020 00:40",
       "matricula": "N538LA",
-      "posicion": "",
+      "posicion": "55",
       "et": "",
       "at": "",
       "term": "TCA",
