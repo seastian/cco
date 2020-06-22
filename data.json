@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/06/2020 21:45",
+  "lastUpdate": "21/06/2020 21:51",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -253,8 +253,8 @@
       "aerolinea": "AOG",
       "vuelo": "101",
       "st": "21/06/2020 18:30",
-      "matricula": "CXCAR",
-      "posicion": "51A",
+      "matricula": "",
+      "posicion": "",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -402,6 +402,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "101",
+      "st": "21/06/2020 20:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "LA",
       "vuelo": "9582",
       "st": "21/06/2020 22:10",
@@ -417,25 +436,6 @@
       "ruta": "SCL",
       "via": "",
       "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "101",
-      "st": "21/06/2020 20:30",
-      "matricula": "CXCAR",
-      "posicion": "51A",
-      "et": "21/6/2020 22:30",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "DEM",
       "sanidad": "NO"
     },
     {
