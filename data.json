@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/06/2020 09:29",
+  "lastUpdate": "22/06/2020 09:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -700,6 +700,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "VCP",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1101",
+      "st": "22/06/2020 21:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
