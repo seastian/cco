@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/06/2020 07:11",
+  "lastUpdate": "22/06/2020 07:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -190,25 +190,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "GTI",
-      "vuelo": "033",
-      "st": "21/06/2020 23:05",
-      "matricula": "N859GT",
-      "posicion": "55",
-      "et": "21/6/2020 19:40",
-      "at": "21/6/2020 19:13",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
