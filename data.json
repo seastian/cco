@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/06/2020 21:13",
+  "lastUpdate": "21/06/2020 21:20",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -231,6 +231,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "AOG",
+      "vuelo": "101",
+      "st": "21/06/2020 18:30",
+      "matricula": "CXCAR",
+      "posicion": "51A",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "LA",
       "vuelo": "9582",
       "st": "21/06/2020 20:10",
@@ -264,25 +283,6 @@
       "ruta": "MIA",
       "via": "",
       "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "101",
-      "st": "21/06/2020 18:30",
-      "matricula": "CXCAR",
-      "posicion": "51A",
-      "et": "21/6/2020 21:00",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
     },
