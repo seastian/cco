@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/06/2020 22:48",
+  "lastUpdate": "21/06/2020 22:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -294,14 +294,14 @@
       "matricula": "CCBBC",
       "posicion": "09",
       "et": "21/6/2020 22:46",
-      "at": "",
+      "at": "21/6/2020 22:47",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
     },
