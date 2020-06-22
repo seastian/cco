@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/06/2020 04:47",
+  "lastUpdate": "22/06/2020 04:53",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -190,25 +190,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1233",
-      "st": "21/06/2020 16:30",
-      "matricula": "CCBGD",
-      "posicion": "10",
-      "et": "21/6/2020 16:55",
-      "at": "21/6/2020 16:51",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
