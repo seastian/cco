@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/06/2020 07:49",
+  "lastUpdate": "22/06/2020 07:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,7 +7,7 @@
       "vuelo": "8264",
       "st": "22/06/2020 09:40",
       "matricula": "DALCC",
-      "posicion": "",
+      "posicion": "55",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -539,7 +539,7 @@
       "vuelo": "8265",
       "st": "22/06/2020 11:10",
       "matricula": "DALCC",
-      "posicion": "",
+      "posicion": "55",
       "et": "",
       "at": "",
       "term": "TCA",
