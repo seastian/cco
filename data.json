@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/06/2020 02:29",
+  "lastUpdate": "22/06/2020 02:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -384,25 +384,6 @@
     {
       "tipo": "partida",
       "aerolinea": "M3",
-      "vuelo": "9832",
-      "st": "21/06/2020 15:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MAO",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "M3",
       "vuelo": "8472",
       "st": "21/06/2020 15:10",
       "matricula": "",
@@ -415,6 +396,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MIA",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "9832",
+      "st": "21/06/2020 15:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MAO",
       "via": "",
       "remark": "CON",
       "sanidad": "NO"
@@ -682,7 +682,7 @@
       "puerta": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -728,6 +728,25 @@
       "aerolinea": "UC",
       "vuelo": "1301",
       "st": "22/06/2020 13:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1711",
+      "st": "22/06/2020 14:30",
       "matricula": "",
       "posicion": "",
       "et": "",
