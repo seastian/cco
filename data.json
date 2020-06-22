@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "21/06/2020 21:57",
+  "lastUpdate": "21/06/2020 22:04",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1407",
-      "st": "21/06/2020 22:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "LA",
@@ -156,7 +137,7 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "8472",
+      "vuelo": "9831",
       "st": "21/06/2020 14:00",
       "matricula": "",
       "posicion": "",
@@ -175,7 +156,7 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "9831",
+      "vuelo": "8472",
       "st": "21/06/2020 14:00",
       "matricula": "",
       "posicion": "",
@@ -302,6 +283,25 @@
       "ruta": "MIA",
       "via": "",
       "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "UC",
+      "vuelo": "1407",
+      "st": "21/06/2020 22:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
@@ -454,7 +454,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "EST",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
