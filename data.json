@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/06/2020 01:49",
+  "lastUpdate": "22/06/2020 01:56",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -12,7 +12,7 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
+      "cinta": "9",
       "lF": "",
       "ruta": "MAD",
       "via": "",
@@ -636,7 +636,7 @@
       "matricula": "N538LA",
       "posicion": "55",
       "et": "",
-      "at": "",
+      "at": "22/6/2020 00:45",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -644,7 +644,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "CON",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
