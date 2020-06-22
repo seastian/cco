@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/06/2020 23:38",
+  "lastUpdate": "21/06/2020 23:44",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,7 +7,7 @@
       "vuelo": "416",
       "st": "22/06/2020 00:10",
       "matricula": "N318UP",
-      "posicion": "54",
+      "posicion": "",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -111,6 +111,25 @@
       "lF": "",
       "ruta": "FRA",
       "via": "MVD",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1093",
+      "st": "22/06/2020 11:40",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "PVG",
+      "via": "AKL",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
