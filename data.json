@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/06/2020 21:26",
+  "lastUpdate": "21/06/2020 21:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -558,14 +558,14 @@
       "vuelo": "1981",
       "st": "22/06/2020 01:40",
       "matricula": "CCBBC",
-      "posicion": "",
+      "posicion": "09",
       "et": "",
       "at": "",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
       "chkTo": "",
-      "puerta": "",
+      "puerta": "09",
       "ruta": "SCL",
       "via": "",
       "remark": "HOR",
