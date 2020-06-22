@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/06/2020 07:55",
+  "lastUpdate": "22/06/2020 08:01",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -140,6 +140,25 @@
       "vuelo": "1233",
       "st": "22/06/2020 16:30",
       "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "UC",
+      "vuelo": "1101",
+      "st": "22/06/2020 20:00",
+      "matricula": "CCCZZ",
       "posicion": "",
       "et": "",
       "at": "",
@@ -700,6 +719,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "SCL",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "5X",
+      "vuelo": "417",
+      "st": "22/06/2020 20:00",
+      "matricula": "N318UP",
+      "posicion": "64",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "VCP",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
