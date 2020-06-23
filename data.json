@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/06/2020 19:58",
+  "lastUpdate": "23/06/2020 20:04",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -206,25 +206,6 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "QT",
-      "vuelo": "4078",
-      "st": "23/06/2020 07:00",
-      "matricula": "N335QT",
-      "posicion": "56",
-      "et": "23/6/2020 09:15",
-      "at": "23/6/2020 08:02",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "BOG",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
