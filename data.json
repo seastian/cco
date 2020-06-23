@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/06/2020 14:13",
+  "lastUpdate": "23/06/2020 14:19",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -93,25 +93,6 @@
       "ruta": "MIA",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "QR",
-      "vuelo": "8157",
-      "st": "23/06/2020 03:00",
-      "matricula": "A7BFC",
-      "posicion": "54",
-      "et": "23/6/2020 02:20",
-      "at": "23/6/2020 02:14",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "DOH",
-      "via": "GRU",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
