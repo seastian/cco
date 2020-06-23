@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/06/2020 17:53",
+  "lastUpdate": "23/06/2020 17:59",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -403,25 +403,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AOG",
-      "vuelo": "500",
-      "st": "23/06/2020 13:00",
-      "matricula": "CXCLS",
-      "posicion": "54A",
-      "et": "",
-      "at": "23/6/2020 12:46",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
       "vuelo": "424",
       "st": "23/06/2020 13:00",
       "matricula": "CXLSS",
@@ -434,6 +415,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MVD",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "500",
+      "st": "23/06/2020 13:00",
+      "matricula": "CXCLS",
+      "posicion": "54A",
+      "et": "",
+      "at": "23/6/2020 12:46",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "ASU",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -663,6 +663,25 @@
       "puerta": "",
       "ruta": "DOH",
       "via": "UIO",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LH",
+      "vuelo": "8267",
+      "st": "24/06/2020 05:55",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "FRA",
+      "via": "VCP",
       "remark": "HOR",
       "sanidad": "NO"
     }
