@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/06/2020 16:31",
+  "lastUpdate": "23/06/2020 16:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -422,25 +422,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AOG",
-      "vuelo": "424",
-      "st": "23/06/2020 13:00",
-      "matricula": "CXLSS",
-      "posicion": "52A",
-      "et": "",
-      "at": "23/6/2020 12:42",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
       "vuelo": "500",
       "st": "23/06/2020 13:00",
       "matricula": "CXCLS",
@@ -459,13 +440,32 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "424",
+      "st": "23/06/2020 13:00",
+      "matricula": "CXLSS",
+      "posicion": "52A",
+      "et": "",
+      "at": "23/6/2020 12:42",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "BA",
       "vuelo": "244F",
       "st": "23/06/2020 16:30",
       "matricula": "GZBJJ",
       "posicion": "05",
       "et": "",
-      "at": "",
+      "at": "23/6/2020 16:32",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -473,7 +473,7 @@
       "puerta": "04",
       "ruta": "LHR",
       "via": "",
-      "remark": "HOR",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
