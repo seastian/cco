@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/06/2020 12:58",
+  "lastUpdate": "23/06/2020 13:04",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -427,7 +427,7 @@
       "matricula": "PHCKB",
       "posicion": "55",
       "et": "23/6/2020 12:30",
-      "at": "",
+      "at": "23/6/2020 12:58",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -435,7 +435,7 @@
       "puerta": "",
       "ruta": "AMS",
       "via": "UIO",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
