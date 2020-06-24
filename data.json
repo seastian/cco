@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/06/2020 10:18",
+  "lastUpdate": "24/06/2020 10:24",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -615,7 +615,7 @@
       "vuelo": "424",
       "st": "24/06/2020 12:30",
       "matricula": "CXLSS",
-      "posicion": "",
+      "posicion": "51A",
       "et": "",
       "at": "",
       "term": "TCA",
