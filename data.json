@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/06/2020 04:59",
+  "lastUpdate": "24/06/2020 05:05",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -171,25 +171,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "40"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "M3",
-      "vuelo": "8420",
-      "st": "23/06/2020 17:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
