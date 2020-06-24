@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "23/06/2020 23:14",
+  "lastUpdate": "23/06/2020 23:21",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "M3",
-      "vuelo": "8492",
-      "st": "23/06/2020 23:45",
-      "matricula": "PRABD",
-      "posicion": "55",
-      "et": "23/6/2020 23:35",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AMS",
@@ -249,6 +230,25 @@
       "pax": ""
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "M3",
+      "vuelo": "8492",
+      "st": "23/06/2020 23:45",
+      "matricula": "PRABD",
+      "posicion": "55",
+      "et": "23/6/2020 23:35",
+      "at": "23/6/2020 23:15",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "VCP",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
       "tipo": "partida",
       "aerolinea": "MP",
       "vuelo": "6912",
@@ -435,7 +435,7 @@
       "puerta": "20",
       "ruta": "SJO",
       "via": "CUN",
-      "remark": "",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
