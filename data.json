@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/06/2020 08:38",
+  "lastUpdate": "24/06/2020 08:44",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -163,6 +163,25 @@
       "et": "",
       "at": "",
       "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "2D",
+      "vuelo": "171",
+      "st": "24/06/2020 20:40",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
       "sector": "",
       "cinta": "",
       "lF": "",
