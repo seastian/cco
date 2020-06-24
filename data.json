@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/06/2020 12:35",
+  "lastUpdate": "24/06/2020 12:42",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -383,25 +383,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "M3",
-      "vuelo": "8492",
-      "st": "24/06/2020 02:10",
-      "matricula": "PRABD",
-      "posicion": "55",
-      "et": "24/6/2020 01:07",
-      "at": "24/6/2020 00:39",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AMS",
       "vuelo": "7119",
       "st": "24/06/2020 02:00",
@@ -516,25 +497,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "PRV",
-      "vuelo": "CTA",
-      "st": "24/06/2020 10:00",
-      "matricula": "T7CTA",
-      "posicion": "52A",
-      "et": "24/6/2020 13:00",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "12",
-      "ruta": "NAT",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AOG",
       "vuelo": "500",
       "st": "24/06/2020 13:00",
@@ -550,6 +512,25 @@
       "ruta": "ASU",
       "via": "",
       "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "PRV",
+      "vuelo": "CTA",
+      "st": "24/06/2020 10:00",
+      "matricula": "T7CTA",
+      "posicion": "52A",
+      "et": "24/6/2020 13:00",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "12",
+      "ruta": "NAT",
+      "via": "",
+      "remark": "DEM",
       "sanidad": "NO"
     },
     {
