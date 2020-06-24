@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/06/2020 22:09",
+  "lastUpdate": "23/06/2020 22:15",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -341,25 +341,6 @@
       "ruta": "MIA",
       "via": "",
       "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AMS",
-      "vuelo": "7919",
-      "st": "23/06/2020 22:30",
-      "matricula": "CXMAX",
-      "posicion": "52A",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "HOR",
       "sanidad": "NO"
     },
     {
