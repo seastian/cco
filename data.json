@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/06/2020 20:12",
+  "lastUpdate": "24/06/2020 20:18",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -37,7 +37,7 @@
       "via": "SJO",
       "remark": "EST",
       "sanidad": "NO",
-      "pax": "186"
+      "pax": "241"
     },
     {
       "tipo": "arribo",
@@ -133,25 +133,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "BA",
-      "vuelo": "245F",
-      "st": "24/06/2020 08:20",
-      "matricula": "GZBJM",
-      "posicion": "03",
-      "et": "24/6/2020 08:12",
-      "at": "24/6/2020 08:16",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "LHR",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
