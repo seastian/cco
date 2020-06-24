@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/06/2020 16:20",
+  "lastUpdate": "24/06/2020 16:27",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -152,25 +152,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "QR",
-      "vuelo": "8155",
-      "st": "24/06/2020 03:35",
-      "matricula": "A7BFK",
-      "posicion": "54",
-      "et": "",
-      "at": "24/6/2020 04:22",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "DOH",
-      "via": "GRU",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
