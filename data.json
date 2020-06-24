@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/06/2020 04:34",
+  "lastUpdate": "24/06/2020 04:40",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -152,6 +152,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "KL",
+      "vuelo": "701",
+      "st": "24/06/2020 16:40",
+      "matricula": "PHBHP",
+      "posicion": "",
+      "et": "24/6/2020 16:37",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "AMS",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "40"
     },
     {
       "tipo": "arribo",
