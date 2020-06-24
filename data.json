@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/06/2020 13:07",
+  "lastUpdate": "24/06/2020 13:13",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -478,25 +478,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "PRV",
-      "vuelo": "CTA",
-      "st": "24/06/2020 10:00",
-      "matricula": "T7CTA",
-      "posicion": "52A",
-      "et": "24/6/2020 13:00",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "12",
-      "ruta": "NAT",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AOG",
       "vuelo": "500",
       "st": "24/06/2020 13:00",
@@ -512,6 +493,25 @@
       "ruta": "ASU",
       "via": "",
       "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "PRV",
+      "vuelo": "CTA",
+      "st": "24/06/2020 10:00",
+      "matricula": "T7CTA",
+      "posicion": "52A",
+      "et": "24/6/2020 13:00",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "12",
+      "ruta": "NAT",
+      "via": "",
+      "remark": "DEM",
       "sanidad": "NO"
     },
     {
@@ -663,6 +663,25 @@
       "puerta": "",
       "ruta": "FRA",
       "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "TK",
+      "vuelo": "6170",
+      "st": "25/06/2020 01:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "ISL",
+      "via": "DSS",
       "remark": "HOR",
       "sanidad": "NO"
     }
