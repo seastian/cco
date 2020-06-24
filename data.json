@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "24/06/2020 03:00",
+  "lastUpdate": "24/06/2020 03:07",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "LH",
-      "vuelo": "8266",
-      "st": "24/06/2020 03:35",
-      "matricula": "DALCB",
-      "posicion": "55",
-      "et": "24/6/2020 03:00",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "FRA",
-      "via": "GRU",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "QR",
@@ -302,6 +283,25 @@
       "ruta": "MIA",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LH",
+      "vuelo": "8266",
+      "st": "24/06/2020 03:35",
+      "matricula": "DALCB",
+      "posicion": "55",
+      "et": "24/6/2020 03:00",
+      "at": "24/6/2020 03:00",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "FRA",
+      "via": "GRU",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
