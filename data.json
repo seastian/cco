@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/06/2020 09:28",
+  "lastUpdate": "24/06/2020 09:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -64,8 +64,8 @@
       "vuelo": "7248",
       "st": "24/06/2020 12:05",
       "matricula": "CFIVS",
-      "posicion": "",
-      "et": "",
+      "posicion": "10",
+      "et": "24/6/2020 12:05",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -73,7 +73,7 @@
       "lF": "",
       "ruta": "YYZ",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -641,7 +641,7 @@
       "sector": "AP",
       "chkFrom": "",
       "chkTo": "",
-      "puerta": "",
+      "puerta": "12",
       "ruta": "NAT",
       "via": "",
       "remark": "DEM",
