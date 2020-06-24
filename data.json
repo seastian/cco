@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/06/2020 21:25",
+  "lastUpdate": "23/06/2020 21:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -265,25 +265,6 @@
       "ruta": "MVD",
       "via": "",
       "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "M3",
-      "vuelo": "8491",
-      "st": "23/06/2020 09:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "CON",
       "sanidad": "NO"
     },
     {
