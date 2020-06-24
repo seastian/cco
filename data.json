@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/06/2020 07:10",
+  "lastUpdate": "24/06/2020 07:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -402,6 +402,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "H24N",
+      "st": "23/06/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "209",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "QTR",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "JJ",
       "vuelo": "H24",
       "st": "23/06/2020 23:59",
@@ -431,25 +450,6 @@
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "QTR",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "H24N",
-      "st": "23/06/2020 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "209",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -579,7 +579,7 @@
       "matricula": "N318UP",
       "posicion": "56",
       "et": "",
-      "at": "",
+      "at": "24/6/2020 07:00",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -587,7 +587,7 @@
       "puerta": "",
       "ruta": "VCP",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
