@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23/06/2020 23:52",
+  "lastUpdate": "23/06/2020 23:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -408,7 +408,7 @@
       "matricula": "LVGIF",
       "posicion": "15",
       "et": "",
-      "at": "",
+      "at": "23/6/2020 23:52",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -416,7 +416,7 @@
       "puerta": "20",
       "ruta": "SJO",
       "via": "CUN",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
