@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/06/2020 10:05",
+  "lastUpdate": "24/06/2020 10:12",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -168,6 +168,25 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1371",
+      "st": "24/06/2020 22:10",
+      "matricula": "LVGIF",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "CUN",
+      "via": "SJO",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
