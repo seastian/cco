@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/06/2020 06:20",
+  "lastUpdate": "24/06/2020 06:27",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -560,7 +560,7 @@
       "matricula": "DALCB",
       "posicion": "55",
       "et": "",
-      "at": "",
+      "at": "24/6/2020 06:16",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -568,7 +568,7 @@
       "puerta": "",
       "ruta": "FRA",
       "via": "VCP",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
