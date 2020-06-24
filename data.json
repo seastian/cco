@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/06/2020 00:48",
+  "lastUpdate": "24/06/2020 00:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -81,13 +81,13 @@
       "tipo": "arribo",
       "aerolinea": "AU",
       "vuelo": "2044",
-      "st": "24/06/2020 09:20",
+      "st": "24/06/2020 09:30",
       "matricula": "LVCIH",
-      "posicion": "",
+      "posicion": "22B",
       "et": "",
       "at": "",
       "term": "C",
-      "sector": "CAC",
+      "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "AEP",
@@ -101,8 +101,8 @@
       "aerolinea": "AR",
       "vuelo": "1095",
       "st": "24/06/2020 11:40",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "LVFVH",
+      "posicion": "50",
       "et": "24/6/2020 11:18",
       "at": "",
       "term": "TCA",
@@ -522,7 +522,7 @@
       "matricula": "CXMAS",
       "posicion": "52A",
       "et": "",
-      "at": "",
+      "at": "24/6/2020 00:53",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -530,7 +530,7 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "HOR",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
