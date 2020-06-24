@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/06/2020 11:33",
+  "lastUpdate": "24/06/2020 11:39",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -17,25 +17,6 @@
       "ruta": "ASU",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AC",
-      "vuelo": "7248",
-      "st": "24/06/2020 12:05",
-      "matricula": "CFIVS",
-      "posicion": "10",
-      "et": "24/6/2020 12:05",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "YYZ",
-      "via": "",
-      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -376,6 +357,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "MVD",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AC",
+      "vuelo": "7248",
+      "st": "24/06/2020 12:05",
+      "matricula": "CFIVS",
+      "posicion": "10",
+      "et": "24/6/2020 12:05",
+      "at": "24/6/2020 11:35",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "YYZ",
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
