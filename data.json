@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/06/2020 06:08",
+  "lastUpdate": "24/06/2020 06:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -326,25 +326,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "M3",
-      "vuelo": "8420",
-      "st": "23/06/2020 18:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AMS",
       "vuelo": "7919",
       "st": "23/06/2020 22:30",
@@ -422,6 +403,25 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
+      "vuelo": "H24",
+      "st": "23/06/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "QTR",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
       "vuelo": "H24N",
       "st": "23/06/2020 23:59",
       "matricula": "",
@@ -451,25 +451,6 @@
       "sector": "AP",
       "chkFrom": "041",
       "chkTo": "053",
-      "puerta": "",
-      "ruta": "QTR",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "H24",
-      "st": "23/06/2020 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
       "via": "",
@@ -587,7 +568,7 @@
       "puerta": "",
       "ruta": "FRA",
       "via": "VCP",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
