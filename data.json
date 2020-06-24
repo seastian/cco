@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/06/2020 01:45",
+  "lastUpdate": "24/06/2020 01:51",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -45,8 +45,8 @@
       "vuelo": "8155",
       "st": "24/06/2020 03:35",
       "matricula": "",
-      "posicion": "",
-      "et": "",
+      "posicion": "54",
+      "et": "24/6/2020 03:50",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -54,7 +54,7 @@
       "lF": "",
       "ruta": "DOH",
       "via": "GRU",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -539,7 +539,7 @@
       "vuelo": "8155",
       "st": "24/06/2020 05:25",
       "matricula": "",
-      "posicion": "",
+      "posicion": "54",
       "et": "",
       "at": "",
       "term": "TCA",
