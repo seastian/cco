@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "24/06/2020 11:02",
+  "lastUpdate": "24/06/2020 11:08",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1095",
-      "st": "24/06/2020 11:40",
-      "matricula": "LVFVH",
-      "posicion": "50",
-      "et": "24/6/2020 11:18",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "PVG",
-      "via": "AKL",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AOG",
@@ -377,6 +358,25 @@
       "lF": "",
       "ruta": "AEP",
       "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1095",
+      "st": "24/06/2020 11:40",
+      "matricula": "LVFVH",
+      "posicion": "50",
+      "et": "24/6/2020 11:18",
+      "at": "24/6/2020 11:06",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "PVG",
+      "via": "AKL",
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
