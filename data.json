@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/06/2020 12:10",
+  "lastUpdate": "24/06/2020 12:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -82,7 +82,7 @@
       "aerolinea": "2D",
       "vuelo": "171",
       "st": "24/06/2020 20:40",
-      "matricula": "",
+      "matricula": "N700KW",
       "posicion": "",
       "et": "",
       "at": "",
