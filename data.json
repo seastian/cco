@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/06/2020 10:37",
+  "lastUpdate": "24/06/2020 10:43",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -206,6 +206,25 @@
       "lF": "",
       "ruta": "FRA",
       "via": "MVD",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "TK",
+      "vuelo": "6169",
+      "st": "24/06/2020 22:40",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "ISL",
+      "via": "DSS",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
