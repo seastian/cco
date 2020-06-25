@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/06/2020 23:32",
+  "lastUpdate": "24/06/2020 23:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -17,25 +17,6 @@
       "ruta": "MVD",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "M3",
-      "vuelo": "8492",
-      "st": "24/06/2020 23:45",
-      "matricula": "PRABB",
-      "posicion": "54",
-      "et": "24/6/2020 23:40",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -152,25 +133,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AC",
-      "vuelo": "7248",
-      "st": "24/06/2020 12:05",
-      "matricula": "CFIVS",
-      "posicion": "10",
-      "et": "24/6/2020 12:05",
-      "at": "24/6/2020 11:35",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "YYZ",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -340,6 +302,25 @@
       "ruta": "MVD",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "M3",
+      "vuelo": "8492",
+      "st": "24/06/2020 23:45",
+      "matricula": "PRABB",
+      "posicion": "54",
+      "et": "24/6/2020 23:40",
+      "at": "24/6/2020 23:36",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "VCP",
+      "via": "",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
