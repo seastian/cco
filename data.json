@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/06/2020 14:19",
+  "lastUpdate": "25/06/2020 14:26",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -517,25 +517,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AOG",
-      "vuelo": "500",
-      "st": "25/06/2020 13:00",
-      "matricula": "CXCLS",
-      "posicion": "50A",
-      "et": "",
-      "at": "25/6/2020 13:26",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
       "vuelo": "424",
       "st": "25/06/2020 13:00",
       "matricula": "CXLSS",
@@ -548,6 +529,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MVD",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "500",
+      "st": "25/06/2020 13:00",
+      "matricula": "CXCLS",
+      "posicion": "50A",
+      "et": "",
+      "at": "25/6/2020 13:26",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "ASU",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
