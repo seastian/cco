@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/06/2020 22:36",
+  "lastUpdate": "24/06/2020 22:42",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -95,6 +95,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "BMS",
+      "st": "25/06/2020 10:40",
+      "matricula": "LVBMS",
+      "posicion": "H24",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "FDO",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -313,14 +332,14 @@
       "matricula": "TCJJO",
       "posicion": "05",
       "et": "24/6/2020 22:30",
-      "at": "",
+      "at": "24/6/2020 22:39",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "ISL",
       "via": "DSS",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
     },
