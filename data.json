@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/06/2020 08:36",
+  "lastUpdate": "25/06/2020 08:42",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -117,25 +117,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1953",
-      "st": "25/06/2020 13:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "M3",
       "vuelo": "8430",
       "st": "25/06/2020 14:00",
@@ -209,6 +190,25 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "0"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "1953",
+      "st": "25/06/2020 13:00",
+      "matricula": "CCBGN",
+      "posicion": "",
+      "et": "25/6/2020 17:07",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -785,7 +785,7 @@
       "aerolinea": "LA",
       "vuelo": "1953",
       "st": "25/06/2020 15:00",
-      "matricula": "",
+      "matricula": "CCBGN",
       "posicion": "",
       "et": "",
       "at": "",
