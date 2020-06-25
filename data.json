@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/06/2020 21:20",
+  "lastUpdate": "24/06/2020 21:27",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -131,25 +131,6 @@
       "ruta": "LHR",
       "via": "",
       "remark": "CAN",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AU",
-      "vuelo": "2044",
-      "st": "24/06/2020 09:30",
-      "matricula": "LVCIH",
-      "posicion": "22B",
-      "et": "",
-      "at": "24/6/2020 09:22",
-      "term": "C",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "AEP",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
