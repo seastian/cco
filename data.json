@@ -1,6 +1,25 @@
 {
-  "lastUpdate": "25/06/2020 02:46",
+  "lastUpdate": "25/06/2020 02:52",
   "vuelos": [
+    {
+      "tipo": "arribo",
+      "aerolinea": "AOG",
+      "vuelo": "501",
+      "st": "25/06/2020 04:20",
+      "matricula": "N310UP",
+      "posicion": "54",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
     {
       "tipo": "arribo",
       "aerolinea": "AOG",
@@ -607,6 +626,25 @@
       "ruta": "MVD",
       "via": "",
       "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "501",
+      "st": "25/06/2020 06:50",
+      "matricula": "N310UP",
+      "posicion": "54",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "VCP",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     },
     {
