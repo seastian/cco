@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/06/2020 09:13",
+  "lastUpdate": "25/06/2020 09:19",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -117,6 +117,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "1953",
+      "st": "25/06/2020 13:00",
+      "matricula": "CCBGN",
+      "posicion": "",
+      "et": "25/6/2020 16:50",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "PRV",
       "vuelo": "CGB",
       "st": "25/06/2020 17:40",
@@ -133,25 +152,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "0"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1953",
-      "st": "25/06/2020 13:00",
-      "matricula": "CCBGN",
-      "posicion": "",
-      "et": "25/6/2020 17:07",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -772,29 +772,10 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "201",
-      "chkTo": "208",
+      "chkFrom": "211",
+      "chkTo": "220",
       "puerta": "14",
       "ruta": "AMS",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LA",
-      "vuelo": "1953",
-      "st": "25/06/2020 15:00",
-      "matricula": "CCBGN",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -854,6 +835,25 @@
       "ruta": "LHR",
       "via": "",
       "remark": "CAN",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LA",
+      "vuelo": "1953",
+      "st": "25/06/2020 15:00",
+      "matricula": "CCBGN",
+      "posicion": "",
+      "et": "25/6/2020 18:00",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "DEM",
       "sanidad": "NO"
     }
   ]
