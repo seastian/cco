@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/06/2020 06:43",
+  "lastUpdate": "25/06/2020 06:49",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -226,6 +226,25 @@
       "ruta": "RGL",
       "via": "",
       "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AZ",
+      "vuelo": "680",
+      "st": "25/06/2020 19:05",
+      "matricula": "EIISA",
+      "posicion": "",
+      "et": "25/6/2020 18:46",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "FCO",
+      "via": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -617,7 +636,7 @@
       "matricula": "N310UP",
       "posicion": "54",
       "et": "",
-      "at": "",
+      "at": "25/6/2020 06:40",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -625,7 +644,7 @@
       "puerta": "",
       "ruta": "VCP",
       "via": "",
-      "remark": "HOR",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
