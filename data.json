@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/06/2020 20:48",
+  "lastUpdate": "25/06/2020 20:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -76,25 +76,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AMS",
-      "vuelo": "MAS",
-      "st": "25/06/2020 08:50",
-      "matricula": "CXMAS",
-      "posicion": "52A",
-      "et": "",
-      "at": "25/6/2020 08:49",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -288,25 +269,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "CGB",
-      "st": "25/06/2020 17:40",
-      "matricula": "A7CGB",
-      "posicion": "45",
-      "et": "25/6/2020 17:00",
-      "at": "25/6/2020 17:08",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MRS",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "LA",
       "vuelo": "1953",
       "st": "25/06/2020 17:00",
@@ -323,6 +285,25 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "CGB",
+      "st": "25/06/2020 17:40",
+      "matricula": "A7CGB",
+      "posicion": "45",
+      "et": "25/6/2020 17:00",
+      "at": "25/6/2020 17:08",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MRS",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "0"
     },
     {
       "tipo": "arribo",
