@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/06/2020 22:11",
+  "lastUpdate": "24/06/2020 22:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -605,25 +605,6 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MVD",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "PRV",
-      "vuelo": "BMS",
-      "st": "25/06/2020 09:45",
-      "matricula": "LVBMS",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "FBO",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "FDO",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
