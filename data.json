@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/06/2020 07:14",
+  "lastUpdate": "25/06/2020 07:21",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -247,25 +247,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "2D",
-      "vuelo": "171",
-      "st": "24/06/2020 20:40",
-      "matricula": "N700KW",
-      "posicion": "09",
-      "et": "24/6/2020 19:45",
-      "at": "24/6/2020 19:17",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "008",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "46"
     },
     {
       "tipo": "arribo",
