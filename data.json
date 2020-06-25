@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/06/2020 07:02",
+  "lastUpdate": "25/06/2020 07:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -655,7 +655,7 @@
       "matricula": "CFIVS",
       "posicion": "10",
       "et": "",
-      "at": "",
+      "at": "25/6/2020 07:05",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -663,7 +663,7 @@
       "puerta": "10",
       "ruta": "SCL",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
