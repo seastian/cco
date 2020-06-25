@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/06/2020 18:05",
+  "lastUpdate": "25/06/2020 18:11",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -12,8 +12,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "9",
+      "lF": "009",
       "ruta": "FCO",
       "via": "",
       "remark": "EST",
@@ -355,7 +355,7 @@
       "term": "C",
       "sector": "CAC",
       "cinta": "11",
-      "lF": "",
+      "lF": "017",
       "ruta": "RGL",
       "via": "",
       "remark": "EST",
