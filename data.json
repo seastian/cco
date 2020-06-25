@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/06/2020 14:01",
+  "lastUpdate": "25/06/2020 14:07",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -358,7 +358,7 @@
       "lF": "",
       "ruta": "VCP",
       "via": "",
-      "remark": "",
+      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
@@ -377,7 +377,7 @@
       "lF": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "",
+      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
@@ -517,25 +517,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AOG",
-      "vuelo": "424",
-      "st": "25/06/2020 13:00",
-      "matricula": "CXLSS",
-      "posicion": "50B",
-      "et": "",
-      "at": "25/6/2020 13:40",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
       "vuelo": "500",
       "st": "25/06/2020 13:00",
       "matricula": "CXCLS",
@@ -548,6 +529,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "ASU",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "424",
+      "st": "25/06/2020 13:00",
+      "matricula": "CXLSS",
+      "posicion": "50B",
+      "et": "",
+      "at": "25/6/2020 13:40",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -568,7 +568,7 @@
       "puerta": "14",
       "ruta": "AMS",
       "via": "",
-      "remark": "HOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
