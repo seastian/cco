@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/06/2020 03:17",
+  "lastUpdate": "25/06/2020 03:23",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -205,6 +205,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "SCL",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1045",
+      "st": "25/06/2020 15:20",
+      "matricula": "LVGUB",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "AEP",
       "via": "",
       "remark": "",
       "sanidad": "NO",
