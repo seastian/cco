@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/06/2020 17:02",
+  "lastUpdate": "25/06/2020 17:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -834,6 +834,25 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "QR",
+      "vuelo": "8157",
+      "st": "26/06/2020 05:05",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "DOH",
+      "via": "UIO",
       "remark": "HOR",
       "sanidad": "NO"
     }
