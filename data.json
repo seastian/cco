@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/06/2020 18:11",
+  "lastUpdate": "25/06/2020 18:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -351,35 +351,16 @@
       "matricula": "LVFUB",
       "posicion": "16B",
       "et": "25/6/2020 18:00",
-      "at": "",
+      "at": "25/6/2020 18:10",
       "term": "C",
       "sector": "CAC",
       "cinta": "11",
       "lF": "017",
       "ruta": "RGL",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "89"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "PRV",
-      "vuelo": "CTA",
-      "st": "24/06/2020 10:00",
-      "matricula": "T7CTA",
-      "posicion": "52A",
-      "et": "24/6/2020 05:45",
-      "at": "24/6/2020 06:16",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "12",
-      "ruta": "NAT",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
@@ -636,7 +617,7 @@
       "matricula": "CCBGN",
       "posicion": "10",
       "et": "25/6/2020 18:00",
-      "at": "",
+      "at": "25/6/2020 18:15",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -644,7 +625,7 @@
       "puerta": "10",
       "ruta": "SCL",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
