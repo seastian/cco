@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/06/2020 19:26",
+  "lastUpdate": "25/06/2020 19:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -361,25 +361,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "102",
-      "st": "25/06/2020 07:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
