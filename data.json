@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/06/2020 08:11",
+  "lastUpdate": "25/06/2020 08:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -26,7 +26,7 @@
       "vuelo": "2046",
       "st": "25/06/2020 09:30",
       "matricula": "LVCDY",
-      "posicion": "",
+      "posicion": "16B",
       "et": "",
       "at": "",
       "term": "C",
