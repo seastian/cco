@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/06/2020 14:13",
+  "lastUpdate": "25/06/2020 14:19",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -27,7 +27,7 @@
       "st": "25/06/2020 13:00",
       "matricula": "CCBGN",
       "posicion": "",
-      "et": "25/6/2020 16:50",
+      "et": "25/6/2020 16:35",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -37,7 +37,7 @@
       "via": "",
       "remark": "DEM",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -492,7 +492,7 @@
       "puerta": "",
       "ruta": "FRA",
       "via": "VCP",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -560,7 +560,7 @@
       "matricula": "PHBHP",
       "posicion": "11",
       "et": "",
-      "at": "",
+      "at": "25/6/2020 14:16",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "211",
@@ -568,7 +568,7 @@
       "puerta": "14",
       "ruta": "AMS",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
