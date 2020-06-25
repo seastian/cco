@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/06/2020 17:33",
+  "lastUpdate": "25/06/2020 17:39",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -27,7 +27,7 @@
       "st": "25/06/2020 19:05",
       "matricula": "EIISA",
       "posicion": "11",
-      "et": "25/6/2020 18:46",
+      "et": "25/6/2020 18:30",
       "at": "",
       "term": "A",
       "sector": "",
