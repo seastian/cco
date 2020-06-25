@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/06/2020 16:06",
+  "lastUpdate": "25/06/2020 16:12",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -152,25 +152,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "5X",
-      "vuelo": "410",
-      "st": "25/06/2020 04:20",
-      "matricula": "N310UP",
-      "posicion": "54",
-      "et": "",
-      "at": "25/6/2020 04:11",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
