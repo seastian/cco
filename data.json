@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/06/2020 11:12",
+  "lastUpdate": "25/06/2020 11:18",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -663,7 +663,7 @@
       "puerta": "",
       "ruta": "FRA",
       "via": "VCP",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -745,25 +745,6 @@
     {
       "tipo": "partida",
       "aerolinea": "M3",
-      "vuelo": "8493",
-      "st": "25/06/2020 15:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "M3",
       "vuelo": "8430",
       "st": "25/06/2020 15:10",
       "matricula": "",
@@ -776,6 +757,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MIA",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "8493",
+      "st": "25/06/2020 15:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "VCP",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
