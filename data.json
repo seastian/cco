@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/06/2020 17:14",
+  "lastUpdate": "25/06/2020 17:21",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -322,7 +322,7 @@
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -691,14 +691,14 @@
       "vuelo": "1098",
       "st": "25/06/2020 23:10",
       "matricula": "LVFVH",
-      "posicion": "M11",
+      "posicion": "12",
       "et": "",
       "at": "",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
       "chkTo": "",
-      "puerta": "",
+      "puerta": "16",
       "ruta": "PVG",
       "via": "AKL",
       "remark": "HOR",
