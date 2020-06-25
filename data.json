@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/06/2020 23:01",
+  "lastUpdate": "24/06/2020 23:07",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -133,25 +133,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": "0"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1095",
-      "st": "24/06/2020 11:40",
-      "matricula": "LVFVH",
-      "posicion": "50",
-      "et": "24/6/2020 11:18",
-      "at": "24/6/2020 11:06",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "PVG",
-      "via": "AKL",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
