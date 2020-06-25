@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/06/2020 09:26",
+  "lastUpdate": "25/06/2020 09:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -682,7 +682,7 @@
       "puerta": "",
       "ruta": "MOR",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
