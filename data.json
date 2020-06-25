@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/06/2020 16:43",
+  "lastUpdate": "25/06/2020 16:50",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -370,14 +370,14 @@
       "matricula": "CCBGN",
       "posicion": "10",
       "et": "25/6/2020 16:35",
-      "at": "",
+      "at": "25/6/2020 16:48",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "DEM",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
     },
