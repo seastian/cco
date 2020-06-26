@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/06/2020 16:30",
+  "lastUpdate": "26/06/2020 16:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -606,7 +606,7 @@
       "puerta": "03",
       "ruta": "LHR",
       "via": "",
-      "remark": "HOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
