@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/06/2020 23:11",
+  "lastUpdate": "25/06/2020 23:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -587,7 +587,7 @@
       "puerta": "16",
       "ruta": "PVG",
       "via": "AKL",
-      "remark": "HOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -739,6 +739,25 @@
       "puerta": "",
       "ruta": "DOH",
       "via": "UIO",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "FQ",
+      "vuelo": "8003",
+      "st": "26/06/2020 11:15",
+      "matricula": "LVHQU",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "AEP",
+      "via": "",
       "remark": "HOR",
       "sanidad": "NO"
     }
