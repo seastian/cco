@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/06/2020 11:36",
+  "lastUpdate": "26/06/2020 11:42",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -250,25 +250,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "M3",
-      "vuelo": "8494",
-      "st": "25/06/2020 23:45",
-      "matricula": "PRACO",
-      "posicion": "54",
-      "et": "25/6/2020 23:30",
-      "at": "25/6/2020 23:38",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "5X",
       "vuelo": "412",
       "st": "26/06/2020 05:24",
@@ -379,7 +360,7 @@
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -744,25 +725,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "426",
-      "st": "26/06/2020 20:00",
-      "matricula": "CXLSS",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "PRV",
       "vuelo": "IAQ",
       "st": "26/06/2020 23:00",
@@ -778,6 +740,25 @@
       "ruta": "BRC",
       "via": "",
       "remark": "EST",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "426",
+      "st": "26/06/2020 20:00",
+      "matricula": "CXLSS",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     },
     {
