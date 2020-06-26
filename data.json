@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/06/2020 12:57",
+  "lastUpdate": "26/06/2020 13:03",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -421,25 +421,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AMS",
-      "vuelo": "7119",
-      "st": "26/06/2020 02:00",
-      "matricula": "CXMAS",
-      "posicion": "56B",
-      "et": "",
-      "at": "26/6/2020 01:02",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "QR",
       "vuelo": "8157",
       "st": "26/06/2020 05:05",
@@ -522,7 +503,7 @@
       "matricula": "CXCLS",
       "posicion": "52A",
       "et": "",
-      "at": "",
+      "at": "26/6/2020 12:59",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -530,7 +511,7 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
