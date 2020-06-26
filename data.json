@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "26/06/2020 15:15",
+  "lastUpdate": "26/06/2020 15:21",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "H8",
-      "vuelo": "916",
-      "st": "26/06/2020 15:20",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "CAN",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "KL",
@@ -416,6 +397,25 @@
       "ruta": "SCL",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "H8",
+      "vuelo": "916",
+      "st": "26/06/2020 15:20",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "LIM",
+      "via": "",
+      "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
     },
