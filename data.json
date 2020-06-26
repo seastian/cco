@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/06/2020 19:46",
+  "lastUpdate": "26/06/2020 19:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -150,6 +150,25 @@
       "ruta": "MIA",
       "via": "",
       "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "BA",
+      "vuelo": "245F",
+      "st": "27/06/2020 08:20",
+      "matricula": "GZBJA",
+      "posicion": "",
+      "et": "27/6/2020 07:48",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "LHR",
+      "via": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -361,25 +380,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "QR",
-      "vuelo": "8157",
-      "st": "26/06/2020 07:10",
-      "matricula": "A7BFD",
-      "posicion": "54",
-      "et": "",
-      "at": "26/6/2020 07:49",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "UIO",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
