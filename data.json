@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/06/2020 12:45",
+  "lastUpdate": "26/06/2020 12:51",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -140,7 +140,7 @@
       "vuelo": "1303",
       "st": "26/06/2020 19:30",
       "matricula": "LVGKP",
-      "posicion": "",
+      "posicion": "15",
       "et": "26/6/2020 20:10",
       "at": "",
       "term": "A",
@@ -541,7 +541,7 @@
       "matricula": "CXLSS",
       "posicion": "51A",
       "et": "",
-      "at": "",
+      "at": "26/6/2020 12:46",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -549,7 +549,7 @@
       "puerta": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "HOR",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -668,25 +668,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "426",
-      "st": "26/06/2020 20:00",
-      "matricula": "CXLSS",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "PRV",
       "vuelo": "IAQ",
       "st": "26/06/2020 23:00",
@@ -702,6 +683,25 @@
       "ruta": "BRC",
       "via": "",
       "remark": "EST",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "426",
+      "st": "26/06/2020 20:00",
+      "matricula": "CXLSS",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     },
     {
