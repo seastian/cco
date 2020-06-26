@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/06/2020 17:52",
+  "lastUpdate": "26/06/2020 17:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,7 +7,7 @@
       "vuelo": "502",
       "st": "26/06/2020 19:10",
       "matricula": "CXLSS",
-      "posicion": "52A",
+      "posicion": "54A",
       "et": "26/6/2020 19:40",
       "at": "",
       "term": "TCA",
@@ -45,7 +45,7 @@
       "vuelo": "421",
       "st": "26/06/2020 21:00",
       "matricula": "CXCLS",
-      "posicion": "",
+      "posicion": "52A",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -615,7 +615,7 @@
       "vuelo": "426",
       "st": "26/06/2020 20:00",
       "matricula": "CXLSS",
-      "posicion": "52A",
+      "posicion": "54A",
       "et": "26/6/2020 20:30",
       "at": "",
       "term": "A",
@@ -634,7 +634,7 @@
       "vuelo": "526",
       "st": "26/06/2020 22:00",
       "matricula": "CXCLS",
-      "posicion": "",
+      "posicion": "52A",
       "et": "",
       "at": "",
       "term": "A",
