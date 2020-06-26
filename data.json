@@ -1,14 +1,14 @@
 {
-  "lastUpdate": "25/06/2020 22:02",
+  "lastUpdate": "25/06/2020 22:08",
   "vuelos": [
     {
       "tipo": "arribo",
       "aerolinea": "M3",
       "vuelo": "8494",
       "st": "25/06/2020 23:45",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
+      "matricula": "PRACO",
+      "posicion": "54",
+      "et": "25/6/2020 23:30",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -16,7 +16,7 @@
       "lF": "",
       "ruta": "VCP",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -671,9 +671,9 @@
       "aerolinea": "M3",
       "vuelo": "8494",
       "st": "26/06/2020 02:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
+      "matricula": "PRACO",
+      "posicion": "54",
+      "et": "26/6/2020 01:00",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -682,7 +682,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "EST",
       "sanidad": "NO"
     },
     {
