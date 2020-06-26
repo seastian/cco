@@ -1,6 +1,25 @@
 {
-  "lastUpdate": "26/06/2020 09:12",
+  "lastUpdate": "26/06/2020 09:18",
   "vuelos": [
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1097",
+      "st": "26/06/2020 11:40",
+      "matricula": "LVFVI",
+      "posicion": "50",
+      "et": "26/6/2020 10:15",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "PVG",
+      "via": "AKL",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": ""
+    },
     {
       "tipo": "arribo",
       "aerolinea": "AR",
@@ -35,25 +54,6 @@
       "lF": "017",
       "ruta": "NQN",
       "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1097",
-      "st": "26/06/2020 11:40",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "PVG",
-      "via": "AKL",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
