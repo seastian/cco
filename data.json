@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/06/2020 15:34",
+  "lastUpdate": "26/06/2020 15:40",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -549,7 +549,7 @@
       "puerta": "14",
       "ruta": "FCO",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
