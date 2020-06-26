@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/06/2020 09:18",
+  "lastUpdate": "26/06/2020 09:25",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -26,7 +26,7 @@
       "vuelo": "1046",
       "st": "26/06/2020 10:20",
       "matricula": "LVGUC",
-      "posicion": "",
+      "posicion": "M18",
       "et": "",
       "at": "",
       "term": "C",
@@ -177,7 +177,7 @@
       "aerolinea": "AR",
       "vuelo": "1303",
       "st": "26/06/2020 19:30",
-      "matricula": "",
+      "matricula": "LVGKP",
       "posicion": "",
       "et": "",
       "at": "",
