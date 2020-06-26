@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/06/2020 01:28",
+  "lastUpdate": "26/06/2020 01:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -630,6 +630,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "8494",
+      "st": "26/06/2020 02:10",
+      "matricula": "PRACO",
+      "posicion": "54",
+      "et": "26/6/2020 01:00",
+      "at": "26/6/2020 01:33",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "AMS",
       "vuelo": "7119",
       "st": "26/06/2020 02:00",
@@ -645,25 +664,6 @@
       "ruta": "MVD",
       "via": "",
       "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "M3",
-      "vuelo": "8494",
-      "st": "26/06/2020 02:10",
-      "matricula": "PRACO",
-      "posicion": "54",
-      "et": "26/6/2020 01:00",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "EST",
       "sanidad": "NO"
     },
     {
