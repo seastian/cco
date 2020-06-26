@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/06/2020 10:46",
+  "lastUpdate": "26/06/2020 10:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -399,25 +399,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1104",
-      "st": "26/06/2020 01:40",
-      "matricula": "CCCZZ",
-      "posicion": "54",
-      "et": "25/6/2020 22:25",
-      "at": "25/6/2020 22:47",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
