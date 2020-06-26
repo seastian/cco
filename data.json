@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "26/06/2020 12:01",
+  "lastUpdate": "26/06/2020 12:07",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "501",
-      "st": "26/06/2020 12:10",
-      "matricula": "CXCLS",
-      "posicion": "52A",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "M3",
@@ -64,7 +45,7 @@
       "vuelo": "701",
       "st": "26/06/2020 17:15",
       "matricula": "PHBHH",
-      "posicion": "",
+      "posicion": "10",
       "et": "26/6/2020 16:56",
       "at": "",
       "term": "TCA",
@@ -401,6 +382,25 @@
       "pax": ""
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "AOG",
+      "vuelo": "501",
+      "st": "26/06/2020 12:10",
+      "matricula": "CXCLS",
+      "posicion": "52A",
+      "et": "",
+      "at": "26/6/2020 12:03",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
       "tipo": "partida",
       "aerolinea": "M3",
       "vuelo": "8494",
@@ -511,7 +511,7 @@
       "puerta": "12",
       "ruta": "DAR",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -668,25 +668,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "426",
-      "st": "26/06/2020 20:00",
-      "matricula": "CXLSS",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "PRV",
       "vuelo": "IAQ",
       "st": "26/06/2020 23:00",
@@ -702,6 +683,25 @@
       "ruta": "BRC",
       "via": "",
       "remark": "EST",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "426",
+      "st": "26/06/2020 20:00",
+      "matricula": "CXLSS",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     },
     {
