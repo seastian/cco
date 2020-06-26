@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/06/2020 22:40",
+  "lastUpdate": "25/06/2020 22:46",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -326,25 +326,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AMS",
-      "vuelo": "MAS",
-      "st": "25/06/2020 09:30",
-      "matricula": "CXMAS",
-      "posicion": "52A",
-      "et": "",
-      "at": "25/6/2020 10:43",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MOR",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "LH",
       "vuelo": "8265",
       "st": "25/06/2020 11:15",
@@ -441,25 +422,6 @@
     {
       "tipo": "partida",
       "aerolinea": "M3",
-      "vuelo": "8493",
-      "st": "25/06/2020 15:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "M3",
       "vuelo": "8430",
       "st": "25/06/2020 15:10",
       "matricula": "",
@@ -472,6 +434,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MIA",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "8493",
+      "st": "25/06/2020 15:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "VCP",
       "via": "",
       "remark": "CON",
       "sanidad": "NO"
@@ -568,7 +549,7 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "EST",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
