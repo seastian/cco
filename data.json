@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/06/2020 20:54",
+  "lastUpdate": "25/06/2020 21:00",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -95,25 +95,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LH",
-      "vuelo": "8264",
-      "st": "25/06/2020 09:45",
-      "matricula": "DALCD",
-      "posicion": "54",
-      "et": "",
-      "at": "25/6/2020 08:58",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "FRA",
-      "via": "MVD",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
