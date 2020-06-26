@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/06/2020 04:20",
+  "lastUpdate": "26/06/2020 04:26",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -683,6 +683,25 @@
       "ruta": "VCP",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "H8",
+      "vuelo": "917",
+      "st": "26/06/2020 16:20",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "078",
+      "chkTo": "081",
+      "puerta": "",
+      "ruta": "LIM",
+      "via": "",
+      "remark": "CAN",
       "sanidad": "NO"
     }
   ]
