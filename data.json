@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/06/2020 04:01",
+  "lastUpdate": "26/06/2020 04:07",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -17,6 +17,25 @@
       "ruta": "SCL",
       "via": "",
       "remark": "EST",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "QR",
+      "vuelo": "8157",
+      "st": "26/06/2020 05:15",
+      "matricula": "A7BFD",
+      "posicion": "54",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
@@ -587,6 +606,25 @@
       "puerta": "",
       "ruta": "DOH",
       "via": "UIO",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "QR",
+      "vuelo": "8157",
+      "st": "26/06/2020 07:10",
+      "matricula": "A7BFD",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "UIO",
+      "via": "",
       "remark": "HOR",
       "sanidad": "NO"
     },
