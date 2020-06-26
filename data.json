@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/06/2020 03:16",
+  "lastUpdate": "26/06/2020 03:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -98,20 +98,20 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1045",
-      "st": "25/06/2020 15:20",
+      "aerolinea": "H8",
+      "vuelo": "916",
+      "st": "26/06/2020 15:20",
       "matricula": "",
       "posicion": "",
       "et": "",
       "at": "",
-      "term": "C",
-      "sector": "CAC",
+      "term": "A",
+      "sector": "",
       "cinta": "",
       "lF": "",
-      "ruta": "AEP",
+      "ruta": "LIM",
       "via": "",
-      "remark": "CON",
+      "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
     },
