@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/06/2020 12:26",
+  "lastUpdate": "26/06/2020 12:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -141,7 +141,7 @@
       "st": "26/06/2020 19:30",
       "matricula": "LVGKP",
       "posicion": "",
-      "et": "",
+      "et": "26/6/2020 20:10",
       "at": "",
       "term": "A",
       "sector": "",
@@ -149,9 +149,9 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "",
+      "remark": "DEM",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "230"
     },
     {
       "tipo": "arribo",
@@ -503,7 +503,7 @@
       "matricula": "A7CGB",
       "posicion": "45",
       "et": "",
-      "at": "",
+      "at": "26/6/2020 12:26",
       "term": "A",
       "sector": "AP",
       "chkFrom": "",
@@ -511,7 +511,7 @@
       "puerta": "12",
       "ruta": "DAR",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -530,7 +530,7 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -745,25 +745,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
-      "st": "26/06/2020 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "209",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "QTR",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "H24",
       "st": "26/06/2020 23:59",
       "matricula": "",
@@ -793,6 +774,25 @@
       "sector": "AP",
       "chkFrom": "041",
       "chkTo": "053",
+      "puerta": "",
+      "ruta": "QTR",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "H24N",
+      "st": "26/06/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "209",
+      "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
       "via": "",
