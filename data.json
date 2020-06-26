@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/06/2020 01:03",
+  "lastUpdate": "26/06/2020 01:09",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -649,6 +649,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "AMS",
+      "vuelo": "7119",
+      "st": "26/06/2020 02:00",
+      "matricula": "CXMAS",
+      "posicion": "56B",
+      "et": "",
+      "at": "26/6/2020 01:02",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "M3",
       "vuelo": "8494",
       "st": "26/06/2020 02:10",
@@ -664,25 +683,6 @@
       "ruta": "SCL",
       "via": "",
       "remark": "EST",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AMS",
-      "vuelo": "7119",
-      "st": "26/06/2020 02:00",
-      "matricula": "CXMAS",
-      "posicion": "56B",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "HOR",
       "sanidad": "NO"
     },
     {
