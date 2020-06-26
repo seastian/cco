@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/06/2020 04:26",
+  "lastUpdate": "26/06/2020 04:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -323,25 +323,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "BA",
-      "vuelo": "244F",
-      "st": "25/06/2020 16:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "LHR",
-      "via": "",
-      "remark": "CAN",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
@@ -702,6 +683,25 @@
       "ruta": "LIM",
       "via": "",
       "remark": "CAN",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "BA",
+      "vuelo": "244F",
+      "st": "26/06/2020 16:30",
+      "matricula": "GZBJI",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "LHR",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     }
   ]
