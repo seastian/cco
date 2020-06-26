@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/06/2020 07:01",
+  "lastUpdate": "26/06/2020 07:07",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -171,6 +171,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "IAQ",
+      "st": "26/06/2020 21:30",
+      "matricula": "LVIAQ",
+      "posicion": "41",
+      "et": "26/6/2020 18:30",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "FDO",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "0"
     },
     {
       "tipo": "arribo",
