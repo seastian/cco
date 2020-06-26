@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/06/2020 23:36",
+  "lastUpdate": "25/06/2020 23:42",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -54,6 +54,25 @@
       "lF": "",
       "ruta": "NQN",
       "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1097",
+      "st": "26/06/2020 11:40",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "PVG",
+      "via": "AKL",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
@@ -294,14 +313,14 @@
       "matricula": "PRACO",
       "posicion": "54",
       "et": "25/6/2020 23:30",
-      "at": "",
+      "at": "25/6/2020 23:38",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "VCP",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -691,7 +710,7 @@
       "vuelo": "7119",
       "st": "26/06/2020 02:00",
       "matricula": "CXMAS",
-      "posicion": "",
+      "posicion": "56B",
       "et": "",
       "at": "",
       "term": "TCA",
