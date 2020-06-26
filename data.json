@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/06/2020 17:27",
+  "lastUpdate": "26/06/2020 17:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -795,6 +795,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "LAX",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "5X",
+      "vuelo": "413",
+      "st": "27/06/2020 05:30",
+      "matricula": "N320UP",
+      "posicion": "61",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "VCP",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
