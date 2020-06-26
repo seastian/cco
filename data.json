@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/06/2020 18:48",
+  "lastUpdate": "26/06/2020 18:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -27,7 +27,7 @@
       "st": "26/06/2020 19:30",
       "matricula": "LVGKP",
       "posicion": "15",
-      "et": "26/6/2020 20:10",
+      "et": "26/6/2020 20:29",
       "at": "",
       "term": "A",
       "sector": "",
