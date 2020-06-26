@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/06/2020 05:42",
+  "lastUpdate": "26/06/2020 05:48",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,7 +7,7 @@
       "vuelo": "245F",
       "st": "26/06/2020 08:20",
       "matricula": "GZBJI",
-      "posicion": "",
+      "posicion": "03",
       "et": "26/6/2020 07:35",
       "at": "",
       "term": "TCA",
@@ -672,14 +672,14 @@
       "vuelo": "244F",
       "st": "26/06/2020 16:30",
       "matricula": "GZBJI",
-      "posicion": "",
+      "posicion": "03",
       "et": "",
       "at": "",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
       "chkTo": "",
-      "puerta": "",
+      "puerta": "02",
       "ruta": "LHR",
       "via": "",
       "remark": "HOR",
