@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/06/2020 22:27",
+  "lastUpdate": "25/06/2020 22:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -53,6 +53,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "AEP",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "FQ",
+      "vuelo": "8043",
+      "st": "26/06/2020 10:30",
+      "matricula": "LVHQU",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "NQN",
       "via": "",
       "remark": "",
       "sanidad": "NO",
