@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/06/2020 14:03",
+  "lastUpdate": "27/06/2020 14:09",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -152,25 +152,6 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "TK",
-      "vuelo": "6170",
-      "st": "27/06/2020 01:10",
-      "matricula": "TCJJR",
-      "posicion": "05",
-      "et": "",
-      "at": "27/6/2020 02:08",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "04",
-      "ruta": "ISL",
-      "via": "DSS",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
