@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/06/2020 08:30",
+  "lastUpdate": "27/06/2020 08:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -110,6 +110,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "USH",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "1959",
+      "st": "27/06/2020 20:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
       "via": "",
       "remark": "",
       "sanidad": "NO",
