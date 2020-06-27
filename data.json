@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/06/2020 13:25",
+  "lastUpdate": "27/06/2020 13:31",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -189,25 +189,6 @@
       "ruta": "ISL",
       "via": "DSS",
       "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LA",
-      "vuelo": "1961",
-      "st": "27/06/2020 01:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "CON",
       "sanidad": "NO"
     },
     {
