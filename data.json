@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/06/2020 15:31",
+  "lastUpdate": "27/06/2020 15:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -22,6 +22,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1879",
+      "st": "27/06/2020 17:20",
+      "matricula": "LVFVM",
+      "posicion": "12",
+      "et": "27/6/2020 16:56",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "12",
+      "lF": "017",
+      "ruta": "USH",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "58"
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "UC",
       "vuelo": "1106",
       "st": "27/06/2020 17:00",
@@ -34,25 +53,6 @@
       "cinta": "",
       "lF": "",
       "ruta": "MIA",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1879",
-      "st": "27/06/2020 17:20",
-      "matricula": "LVFVM",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "USH",
       "via": "",
       "remark": "",
       "sanidad": "NO",
