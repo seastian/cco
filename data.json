@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/06/2020 11:51",
+  "lastUpdate": "27/06/2020 11:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -511,6 +511,25 @@
       "puerta": "19",
       "ruta": "PVG",
       "via": "AKL",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1132",
+      "st": "27/06/2020 23:55",
+      "matricula": "LVGHQ",
+      "posicion": "16",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "22",
+      "ruta": "MAD",
+      "via": "",
       "remark": "HOR",
       "sanidad": "NO"
     }
