@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/06/2020 15:06",
+  "lastUpdate": "27/06/2020 15:12",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -154,6 +154,25 @@
       "pax": ""
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "AOG",
+      "vuelo": "101",
+      "st": "27/06/2020 15:10",
+      "matricula": "CXCAR",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
       "tipo": "partida",
       "aerolinea": "UC",
       "vuelo": "1406",
@@ -226,7 +245,7 @@
       "puerta": "",
       "ruta": "VCP",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -282,6 +301,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MIA",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "101",
+      "st": "27/06/2020 21:30",
+      "matricula": "CXCAR",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "ASU",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
