@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/06/2020 11:26",
+  "lastUpdate": "27/06/2020 11:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -117,25 +117,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1961",
-      "st": "26/06/2020 23:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AMS",
       "vuelo": "8119",
       "st": "26/06/2020 23:40",
@@ -246,25 +227,6 @@
       "ruta": "SCL",
       "via": "",
       "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1408",
-      "st": "26/06/2020 23:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "LAX",
-      "via": "",
-      "remark": "CON",
       "sanidad": "NO"
     },
     {
