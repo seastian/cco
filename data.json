@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/06/2020 22:11",
+  "lastUpdate": "26/06/2020 22:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -93,25 +93,6 @@
       "ruta": "LHR",
       "via": "",
       "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1097",
-      "st": "26/06/2020 11:40",
-      "matricula": "LVFVI",
-      "posicion": "50",
-      "et": "26/6/2020 10:15",
-      "at": "26/6/2020 10:12",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "PVG",
-      "via": "AKL",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -284,7 +265,7 @@
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -322,26 +303,7 @@
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1105",
-      "st": "26/06/2020 17:00",
-      "matricula": "N540LA",
-      "posicion": "55",
-      "et": "26/6/2020 22:00",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -359,6 +321,25 @@
       "ruta": "MIA",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "UC",
+      "vuelo": "1105",
+      "st": "26/06/2020 17:00",
+      "matricula": "N540LA",
+      "posicion": "55",
+      "et": "26/6/2020 22:00",
+      "at": "26/6/2020 22:12",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
