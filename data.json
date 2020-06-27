@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/06/2020 11:08",
+  "lastUpdate": "27/06/2020 11:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -568,6 +568,25 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1050",
+      "st": "27/06/2020 23:10",
+      "matricula": "LVFVI",
+      "posicion": "14",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "19",
+      "ruta": "PVG",
+      "via": "AKL",
       "remark": "HOR",
       "sanidad": "NO"
     }
