@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/06/2020 14:59",
+  "lastUpdate": "27/06/2020 15:06",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -207,7 +207,7 @@
       "puerta": "10",
       "ruta": "AMS",
       "via": "",
-      "remark": "HOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
