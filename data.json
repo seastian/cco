@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26/06/2020 23:07",
+  "lastUpdate": "26/06/2020 23:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -289,25 +289,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "UC",
-      "vuelo": "1407",
-      "st": "26/06/2020 22:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
       "vuelo": "1105",
       "st": "26/06/2020 17:00",
       "matricula": "N540LA",
@@ -321,6 +302,25 @@
       "ruta": "MIA",
       "via": "",
       "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "UC",
+      "vuelo": "1407",
+      "st": "26/06/2020 22:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
