@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/06/2020 09:51",
+  "lastUpdate": "27/06/2020 09:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -285,25 +285,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "526",
-      "st": "26/06/2020 22:00",
-      "matricula": "CXCLS",
-      "posicion": "52A",
-      "et": "",
-      "at": "26/6/2020 21:52",
-      "term": "A",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
