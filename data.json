@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/06/2020 10:42",
+  "lastUpdate": "27/06/2020 10:48",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -247,25 +247,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "PRV",
-      "vuelo": "IAQ",
-      "st": "26/06/2020 23:00",
-      "matricula": "LVIAQ",
-      "posicion": "41",
-      "et": "26/6/2020 22:45",
-      "at": "26/6/2020 22:47",
-      "term": "C",
-      "sector": "CPC",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "BRC",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
