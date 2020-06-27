@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "27/06/2020 07:46",
+  "lastUpdate": "27/06/2020 07:52",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "BA",
-      "vuelo": "245F",
-      "st": "27/06/2020 08:20",
-      "matricula": "GZBJA",
-      "posicion": "09",
-      "et": "27/6/2020 07:48",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "LHR",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AR",
@@ -302,6 +283,25 @@
       "ruta": "MIA",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "BA",
+      "vuelo": "245F",
+      "st": "27/06/2020 08:20",
+      "matricula": "GZBJA",
+      "posicion": "09",
+      "et": "27/6/2020 07:48",
+      "at": "27/6/2020 07:47",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "LHR",
+      "via": "",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
