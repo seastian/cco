@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/06/2020 05:26",
+  "lastUpdate": "27/06/2020 05:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -133,25 +133,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "IAQ",
-      "st": "26/06/2020 21:30",
-      "matricula": "LVIAQ",
-      "posicion": "41",
-      "et": "26/6/2020 18:30",
-      "at": "26/6/2020 17:30",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "FDO",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -460,7 +441,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
+      "vuelo": "H24",
       "st": "26/06/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -468,7 +449,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -498,7 +479,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24",
+      "vuelo": "H24N",
       "st": "26/06/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -506,7 +487,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "209",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -617,7 +598,7 @@
       "matricula": "N320UP",
       "posicion": "55",
       "et": "",
-      "at": "",
+      "at": "27/6/2020 05:26",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -625,7 +606,7 @@
       "puerta": "",
       "ruta": "VCP",
       "via": "",
-      "remark": "HOR",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
