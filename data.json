@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/06/2020 04:17",
+  "lastUpdate": "27/06/2020 04:23",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -342,25 +342,6 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "H8",
-      "vuelo": "917",
-      "st": "26/06/2020 16:20",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "078",
-      "chkTo": "081",
-      "puerta": "",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "CAN",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
