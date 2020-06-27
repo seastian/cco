@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/06/2020 14:53",
+  "lastUpdate": "27/06/2020 14:59",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -121,7 +121,7 @@
       "vuelo": "1047",
       "st": "27/06/2020 12:20",
       "matricula": "LVFSK",
-      "posicion": "A06",
+      "posicion": "",
       "et": "",
       "at": "",
       "term": "C",
