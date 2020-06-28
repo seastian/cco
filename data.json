@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/06/2020 23:14",
+  "lastUpdate": "27/06/2020 23:20",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -283,7 +283,7 @@
       "puerta": "19",
       "ruta": "PVG",
       "via": "AKL",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
