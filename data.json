@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/06/2020 19:02",
+  "lastUpdate": "28/06/2020 19:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -102,7 +102,7 @@
       "vuelo": "CTA",
       "st": "29/06/2020 01:25",
       "matricula": "T7CTA",
-      "posicion": "",
+      "posicion": "51A",
       "et": "29/6/2020 00:30",
       "at": "",
       "term": "C",
