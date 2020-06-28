@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "28/06/2020 19:58",
+  "lastUpdate": "28/06/2020 20:04",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "101",
-      "st": "28/06/2020 20:00",
-      "matricula": "CXCAR",
-      "posicion": "50A",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "UC",
@@ -302,6 +283,25 @@
       "ruta": "MIA",
       "via": "",
       "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AOG",
+      "vuelo": "101",
+      "st": "28/06/2020 20:00",
+      "matricula": "CXCAR",
+      "posicion": "50A",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
