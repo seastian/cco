@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/06/2020 07:55",
+  "lastUpdate": "28/06/2020 08:02",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -42,7 +42,7 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "9831",
+      "vuelo": "8472",
       "st": "28/06/2020 14:00",
       "matricula": "",
       "posicion": "",
@@ -61,7 +61,7 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "8472",
+      "vuelo": "9831",
       "st": "28/06/2020 14:00",
       "matricula": "",
       "posicion": "",
@@ -136,6 +136,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "AOG",
+      "vuelo": "101",
+      "st": "28/06/2020 20:00",
+      "matricula": "CXCAR",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "QT",
       "vuelo": "4099",
       "st": "28/06/2020 03:15",
@@ -161,14 +180,14 @@
       "matricula": "GZBJJ",
       "posicion": "09",
       "et": "28/6/2020 07:54",
-      "at": "",
+      "at": "28/6/2020 07:55",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "LHR",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
