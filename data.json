@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/06/2020 00:17",
+  "lastUpdate": "28/06/2020 00:23",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -74,25 +74,6 @@
       "ruta": "PVG",
       "via": "AKL",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1047",
-      "st": "27/06/2020 12:20",
-      "matricula": "LVFSK",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "AEP",
-      "via": "",
-      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
