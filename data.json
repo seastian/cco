@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/06/2020 23:39",
+  "lastUpdate": "27/06/2020 23:45",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -57,6 +57,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": "0"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1099",
+      "st": "28/06/2020 11:40",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "PVG",
+      "via": "AKL",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
