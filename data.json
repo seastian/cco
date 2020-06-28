@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/06/2020 19:21",
+  "lastUpdate": "28/06/2020 19:27",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -194,7 +194,7 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "9831",
+      "vuelo": "8472",
       "st": "28/06/2020 14:00",
       "matricula": "",
       "posicion": "",
@@ -213,7 +213,7 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "8472",
+      "vuelo": "9831",
       "st": "28/06/2020 14:00",
       "matricula": "",
       "posicion": "",
