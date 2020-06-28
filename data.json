@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/06/2020 14:49",
+  "lastUpdate": "28/06/2020 14:56",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -171,6 +171,25 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": "0"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1133",
+      "st": "29/06/2020 02:50",
+      "matricula": "LVGHQ",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MAD",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": "225"
     },
     {
       "tipo": "arribo",
