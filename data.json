@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/06/2020 10:00",
+  "lastUpdate": "28/06/2020 10:07",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -158,6 +158,25 @@
       "aerolinea": "LA",
       "vuelo": "1973",
       "st": "28/06/2020 20:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "UC",
+      "vuelo": "1407",
+      "st": "28/06/2020 22:00",
       "matricula": "",
       "posicion": "",
       "et": "",
