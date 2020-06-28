@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/06/2020 19:08",
+  "lastUpdate": "28/06/2020 19:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -79,25 +79,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "102",
-      "st": "29/06/2020 00:30",
-      "matricula": "CXCAR",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "PRV",
       "vuelo": "CTA",
       "st": "29/06/2020 01:25",
@@ -114,6 +95,25 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "0"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AOG",
+      "vuelo": "102",
+      "st": "29/06/2020 00:30",
+      "matricula": "CXCAR",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
