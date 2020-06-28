@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/06/2020 00:23",
+  "lastUpdate": "28/06/2020 00:30",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -41,6 +41,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1099",
+      "st": "28/06/2020 11:40",
+      "matricula": "",
+      "posicion": "",
+      "et": "28/6/2020 10:55",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "PVG",
+      "via": "AKL",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "0"
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "PRV",
       "vuelo": "313AG",
       "st": "28/06/2020 11:30",
@@ -57,25 +76,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": "0"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1099",
-      "st": "28/06/2020 11:40",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "PVG",
-      "via": "AKL",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
