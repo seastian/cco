@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/06/2020 23:52",
+  "lastUpdate": "27/06/2020 23:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -340,7 +340,7 @@
       "puerta": "22",
       "ruta": "MAD",
       "via": "",
-      "remark": "HOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
