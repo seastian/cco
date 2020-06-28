@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/06/2020 21:27",
+  "lastUpdate": "27/06/2020 21:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -275,7 +275,7 @@
       "matricula": "CCBGA",
       "posicion": "05",
       "et": "",
-      "at": "",
+      "at": "27/6/2020 21:32",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -283,7 +283,7 @@
       "puerta": "04",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -396,6 +396,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "BOG",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "PRV",
+      "vuelo": "313AG",
+      "st": "28/06/2020 09:30",
+      "matricula": "N313AG",
+      "posicion": "43",
+      "et": "",
+      "at": "",
+      "term": "FBO",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "EZE",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
