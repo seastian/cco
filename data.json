@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/06/2020 17:52",
+  "lastUpdate": "28/06/2020 17:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -26,7 +26,7 @@
       "vuelo": "033",
       "st": "28/06/2020 23:05",
       "matricula": "N859GT",
-      "posicion": "",
+      "posicion": "55",
       "et": "28/6/2020 19:50",
       "at": "",
       "term": "TCA",
@@ -444,7 +444,7 @@
       "vuelo": "033",
       "st": "29/06/2020 01:15",
       "matricula": "N859GT",
-      "posicion": "",
+      "posicion": "55",
       "et": "28/6/2020 22:00",
       "at": "",
       "term": "TCA",
