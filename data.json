@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "28/06/2020 12:06",
+  "lastUpdate": "28/06/2020 12:13",
   "vuelos": [
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "9831",
+      "vuelo": "8472",
       "st": "28/06/2020 14:00",
       "matricula": "",
       "posicion": "",
@@ -23,7 +23,7 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "8472",
+      "vuelo": "9831",
       "st": "28/06/2020 14:00",
       "matricula": "",
       "posicion": "",
@@ -247,25 +247,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1132",
-      "st": "27/06/2020 23:55",
-      "matricula": "LVGHQ",
-      "posicion": "16",
-      "et": "",
-      "at": "28/6/2020 00:08",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "22",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
