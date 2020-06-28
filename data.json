@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/06/2020 15:02",
+  "lastUpdate": "28/06/2020 15:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -179,7 +179,7 @@
       "st": "29/06/2020 02:50",
       "matricula": "LVGHQ",
       "posicion": "",
-      "et": "",
+      "et": "29/6/2020 02:47",
       "at": "",
       "term": "A",
       "sector": "",
@@ -187,7 +187,7 @@
       "lF": "",
       "ruta": "MAD",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": "225"
     },
