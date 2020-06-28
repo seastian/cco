@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/06/2020 08:02",
+  "lastUpdate": "28/06/2020 08:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -346,25 +346,6 @@
     {
       "tipo": "partida",
       "aerolinea": "M3",
-      "vuelo": "8472",
-      "st": "28/06/2020 15:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "M3",
       "vuelo": "9832",
       "st": "28/06/2020 15:10",
       "matricula": "",
@@ -377,6 +358,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MAO",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "8472",
+      "st": "28/06/2020 15:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
