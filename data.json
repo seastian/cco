@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/06/2020 00:42",
+  "lastUpdate": "28/06/2020 00:49",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -44,7 +44,7 @@
       "aerolinea": "AR",
       "vuelo": "1099",
       "st": "28/06/2020 11:40",
-      "matricula": "",
+      "matricula": "LVFVH",
       "posicion": "",
       "et": "28/6/2020 10:55",
       "at": "",
