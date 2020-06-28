@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/06/2020 07:12",
+  "lastUpdate": "28/06/2020 07:18",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -434,6 +434,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "SCL",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "KL",
+      "vuelo": "702",
+      "st": "28/06/2020 19:15",
+      "matricula": "PHBHL",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "AMS",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
