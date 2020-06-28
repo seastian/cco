@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/06/2020 22:05",
+  "lastUpdate": "27/06/2020 22:11",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -36,25 +36,6 @@
       "ruta": "LHR",
       "via": "",
       "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1045",
-      "st": "27/06/2020 10:30",
-      "matricula": "LVGUB",
-      "posicion": "M11",
-      "et": "",
-      "at": "27/6/2020 10:05",
-      "term": "C",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "AEP",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
