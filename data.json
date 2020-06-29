@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/06/2020 09:58",
+  "lastUpdate": "29/06/2020 10:05",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -156,8 +156,8 @@
     {
       "tipo": "arribo",
       "aerolinea": "UC",
-      "vuelo": "1407",
-      "st": "28/06/2020 22:00",
+      "vuelo": "1109",
+      "st": "29/06/2020 22:00",
       "matricula": "",
       "posicion": "",
       "et": "",
@@ -168,26 +168,7 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "CON",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "102",
-      "st": "29/06/2020 00:30",
-      "matricula": "CXCAR",
-      "posicion": "50A",
-      "et": "",
-      "at": "29/6/2020 02:20",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "ATE",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
@@ -209,6 +190,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AOG",
+      "vuelo": "102",
+      "st": "29/06/2020 00:30",
+      "matricula": "CXCAR",
+      "posicion": "50A",
+      "et": "",
+      "at": "29/6/2020 02:20",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "0"
     },
     {
       "tipo": "arribo",
