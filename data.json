@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/06/2020 00:36",
+  "lastUpdate": "29/06/2020 00:42",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -14,7 +14,7 @@
       "sector": "",
       "cinta": "",
       "lF": "",
-      "ruta": "NAT",
+      "ruta": "REC",
       "via": "",
       "remark": "EST",
       "sanidad": "NO",
