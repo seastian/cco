@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/06/2020 01:26",
+  "lastUpdate": "29/06/2020 01:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -12,7 +12,7 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
+      "cinta": "8",
       "lF": "",
       "ruta": "MAD",
       "via": "",
@@ -625,6 +625,25 @@
       "puerta": "",
       "ruta": "FRA",
       "via": "VCP",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1301",
+      "st": "29/06/2020 13:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
+      "via": "",
       "remark": "HOR",
       "sanidad": "NO"
     }
