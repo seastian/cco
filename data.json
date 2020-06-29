@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/06/2020 16:46",
+  "lastUpdate": "29/06/2020 16:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -384,25 +384,6 @@
     {
       "tipo": "partida",
       "aerolinea": "M3",
-      "vuelo": "8410",
-      "st": "29/06/2020 15:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "M3",
       "vuelo": "8473",
       "st": "29/06/2020 15:30",
       "matricula": "",
@@ -421,13 +402,32 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "8410",
+      "st": "29/06/2020 15:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "BA",
       "vuelo": "244F",
       "st": "29/06/2020 16:30",
       "matricula": "GZBJE",
       "posicion": "09",
       "et": "",
-      "at": "",
+      "at": "29/6/2020 16:47",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -435,7 +435,7 @@
       "puerta": "09",
       "ruta": "LHR",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
