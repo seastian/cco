@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/06/2020 01:01",
+  "lastUpdate": "29/06/2020 01:07",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,7 +7,7 @@
       "vuelo": "1133",
       "st": "29/06/2020 02:50",
       "matricula": "LVGHQ",
-      "posicion": "",
+      "posicion": "14",
       "et": "29/6/2020 02:47",
       "at": "",
       "term": "A",
