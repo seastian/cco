@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/06/2020 10:49",
+  "lastUpdate": "29/06/2020 10:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -416,7 +416,7 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "DEM",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
