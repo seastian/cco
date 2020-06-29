@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/06/2020 09:46",
+  "lastUpdate": "29/06/2020 09:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -25,7 +25,7 @@
       "aerolinea": "UC",
       "vuelo": "1711",
       "st": "29/06/2020 12:01",
-      "matricula": "N418LA",
+      "matricula": "",
       "posicion": "",
       "et": "",
       "at": "",
