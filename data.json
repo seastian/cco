@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/06/2020 13:04",
+  "lastUpdate": "29/06/2020 13:11",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -205,25 +205,6 @@
       "cinta": "",
       "lF": "",
       "ruta": "ASU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "CTA",
-      "st": "29/06/2020 01:25",
-      "matricula": "T7CTA",
-      "posicion": "51A",
-      "et": "29/6/2020 01:00",
-      "at": "29/6/2020 01:09",
-      "term": "C",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "REC",
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
