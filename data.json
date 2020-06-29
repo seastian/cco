@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/06/2020 09:02",
+  "lastUpdate": "29/06/2020 09:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -98,6 +98,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "UC",
+      "vuelo": "1101",
+      "st": "29/06/2020 20:00",
+      "matricula": "CCCZZ",
+      "posicion": "",
+      "et": "29/6/2020 16:50",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "LA",
       "vuelo": "1101",
       "st": "29/06/2020 18:05",
@@ -110,25 +129,6 @@
       "cinta": "",
       "lF": "",
       "ruta": "SCL",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1101",
-      "st": "29/06/2020 20:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
       "via": "",
       "remark": "",
       "sanidad": "NO",
