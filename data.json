@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/06/2020 18:45",
+  "lastUpdate": "29/06/2020 18:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -465,7 +465,7 @@
       "matricula": "CCCZZ",
       "posicion": "54",
       "et": "29/6/2020 18:00",
-      "at": "",
+      "at": "29/6/2020 18:45",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -473,7 +473,7 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -555,6 +555,25 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
+      "vuelo": "H24",
+      "st": "29/06/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "QTR",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
       "vuelo": "H24N",
       "st": "29/06/2020 23:59",
       "matricula": "",
@@ -584,25 +603,6 @@
       "sector": "AP",
       "chkFrom": "041",
       "chkTo": "053",
-      "puerta": "",
-      "ruta": "QTR",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "H24",
-      "st": "29/06/2020 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
       "via": "",
