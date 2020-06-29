@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/06/2020 11:27",
+  "lastUpdate": "29/06/2020 11:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -307,25 +307,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1408",
-      "st": "28/06/2020 23:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "LAX",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "JJ",
       "vuelo": "H24",
       "st": "28/06/2020 23:59",
@@ -435,7 +416,7 @@
       "puerta": "",
       "ruta": "FRA",
       "via": "VCP",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -479,25 +460,6 @@
     {
       "tipo": "partida",
       "aerolinea": "M3",
-      "vuelo": "8473",
-      "st": "29/06/2020 15:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "POA",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "M3",
       "vuelo": "8410",
       "st": "29/06/2020 15:30",
       "matricula": "",
@@ -510,6 +472,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MIA",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "8473",
+      "st": "29/06/2020 15:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "POA",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -606,6 +587,25 @@
       "puerta": "",
       "ruta": "PVG",
       "via": "AKL",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1108",
+      "st": "29/06/2020 23:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "LIM",
+      "via": "",
       "remark": "HOR",
       "sanidad": "NO"
     }
