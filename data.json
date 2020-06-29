@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/06/2020 15:04",
+  "lastUpdate": "29/06/2020 15:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -174,25 +174,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1133",
-      "st": "29/06/2020 02:50",
-      "matricula": "LVGHQ",
-      "posicion": "14",
-      "et": "",
-      "at": "29/6/2020 03:04",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "225"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "BA",
       "vuelo": "245F",
       "st": "29/06/2020 08:20",
@@ -227,7 +208,7 @@
       "via": "MVD",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -246,7 +227,7 @@
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -289,25 +270,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "8410",
-      "st": "29/06/2020 14:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "M3",
       "vuelo": "8473",
       "st": "29/06/2020 14:00",
       "matricula": "",
@@ -319,6 +281,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "MIA",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "M3",
+      "vuelo": "8410",
+      "st": "29/06/2020 14:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "VCP",
       "via": "",
       "remark": "CON",
       "sanidad": "NO",
