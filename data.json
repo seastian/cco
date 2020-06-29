@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/06/2020 11:02",
+  "lastUpdate": "29/06/2020 11:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -408,7 +408,7 @@
       "matricula": "CXCAR",
       "posicion": "56B",
       "et": "29/6/2020 10:30",
-      "at": "",
+      "at": "29/6/2020 10:58",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -416,7 +416,7 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
