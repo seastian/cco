@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/06/2020 01:07",
+  "lastUpdate": "29/06/2020 01:13",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -332,14 +332,14 @@
       "matricula": "T7CTA",
       "posicion": "51A",
       "et": "29/6/2020 01:00",
-      "at": "",
+      "at": "29/6/2020 01:09",
       "term": "C",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "REC",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
     },
