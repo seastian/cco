@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/06/2020 19:11",
+  "lastUpdate": "29/06/2020 19:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -26,7 +26,7 @@
       "vuelo": "773",
       "st": "29/06/2020 21:45",
       "matricula": "A7BFL",
-      "posicion": "",
+      "posicion": "11",
       "et": "29/6/2020 21:10",
       "at": "",
       "term": "A",
