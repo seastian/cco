@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/06/2020 07:08",
+  "lastUpdate": "29/06/2020 07:21",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -152,25 +152,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1973",
-      "st": "28/06/2020 20:30",
-      "matricula": "CCBGL",
-      "posicion": "10",
-      "et": "28/6/2020 19:20",
-      "at": "28/6/2020 19:16",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
