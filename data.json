@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/06/2020 21:38",
+  "lastUpdate": "28/06/2020 21:45",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -117,6 +117,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "LH",
+      "vuelo": "8264",
+      "st": "29/06/2020 09:40",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "FRA",
+      "via": "MVD",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1099",
       "st": "28/06/2020 11:40",
@@ -156,7 +175,7 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "9831",
+      "vuelo": "8472",
       "st": "28/06/2020 14:00",
       "matricula": "",
       "posicion": "",
@@ -175,7 +194,7 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "8472",
+      "vuelo": "9831",
       "st": "28/06/2020 14:00",
       "matricula": "",
       "posicion": "",
