@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "29/06/2020 18:14",
+  "lastUpdate": "29/06/2020 18:20",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1101",
-      "st": "29/06/2020 18:05",
-      "matricula": "CCBHB",
-      "posicion": "10",
-      "et": "29/6/2020 18:16",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "008",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AR",
@@ -302,6 +283,25 @@
       "ruta": "MIA",
       "via": "",
       "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "1101",
+      "st": "29/06/2020 18:05",
+      "matricula": "CCBHB",
+      "posicion": "10",
+      "et": "29/6/2020 18:16",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "8",
+      "lF": "008",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
