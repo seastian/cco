@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/06/2020 19:36",
+  "lastUpdate": "29/06/2020 19:42",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -313,14 +313,14 @@
       "matricula": "LVCTC",
       "posicion": "16B",
       "et": "29/6/2020 19:33",
-      "at": "",
+      "at": "29/6/2020 19:37",
       "term": "C",
       "sector": "CAC",
       "cinta": "11",
       "lF": "",
       "ruta": "USH",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "15"
     },
