@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/06/2020 20:01",
+  "lastUpdate": "29/06/2020 20:07",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -403,25 +403,6 @@
     {
       "tipo": "partida",
       "aerolinea": "M3",
-      "vuelo": "8473",
-      "st": "29/06/2020 15:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "POA",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "M3",
       "vuelo": "8410",
       "st": "29/06/2020 15:30",
       "matricula": "",
@@ -434,6 +415,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MIA",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "8473",
+      "st": "29/06/2020 15:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "POA",
       "via": "",
       "remark": "CON",
       "sanidad": "NO"
@@ -484,7 +484,7 @@
       "matricula": "CCBHB",
       "posicion": "10",
       "et": "29/6/2020 20:00",
-      "at": "",
+      "at": "29/6/2020 20:06",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -492,7 +492,7 @@
       "puerta": "10",
       "ruta": "SCL",
       "via": "",
-      "remark": "DEM",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
