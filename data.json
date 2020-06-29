@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/06/2020 18:58",
+  "lastUpdate": "29/06/2020 19:04",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -27,7 +27,7 @@
       "st": "29/06/2020 21:45",
       "matricula": "A7BFL",
       "posicion": "",
-      "et": "",
+      "et": "29/6/2020 21:10",
       "at": "",
       "term": "A",
       "sector": "",
@@ -35,9 +35,9 @@
       "lF": "",
       "ruta": "DOH",
       "via": "GRU",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "50"
     },
     {
       "tipo": "arribo",
@@ -492,7 +492,7 @@
       "puerta": "10",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
