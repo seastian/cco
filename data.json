@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/06/2020 09:27",
+  "lastUpdate": "29/06/2020 09:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -8,7 +8,7 @@
       "st": "29/06/2020 09:30",
       "matricula": "CXCAR",
       "posicion": "56B",
-      "et": "",
+      "et": "29/6/2020 09:45",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -16,7 +16,7 @@
       "lF": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -498,25 +498,6 @@
     {
       "tipo": "partida",
       "aerolinea": "M3",
-      "vuelo": "8473",
-      "st": "29/06/2020 15:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "POA",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "M3",
       "vuelo": "8410",
       "st": "29/06/2020 15:30",
       "matricula": "",
@@ -529,6 +510,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MIA",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "8473",
+      "st": "29/06/2020 15:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "POA",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -550,6 +550,25 @@
       "ruta": "LHR",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1101",
+      "st": "29/06/2020 21:30",
+      "matricula": "CCCZZ",
+      "posicion": "",
+      "et": "29/6/2020 18:00",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "EST",
       "sanidad": "NO"
     },
     {
