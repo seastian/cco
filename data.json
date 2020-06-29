@@ -1,13 +1,13 @@
 {
-  "lastUpdate": "29/06/2020 18:39",
+  "lastUpdate": "29/06/2020 18:45",
   "vuelos": [
     {
       "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1863",
       "st": "29/06/2020 20:15",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "LVCTC",
+      "posicion": "16B",
       "et": "29/6/2020 19:33",
       "at": "",
       "term": "C",
