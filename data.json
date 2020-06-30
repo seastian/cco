@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/06/2020 17:12",
+  "lastUpdate": "30/06/2020 17:18",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -98,6 +98,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "QR",
+      "vuelo": "8155",
+      "st": "01/07/2020 03:35",
+      "matricula": "A7BFI",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "DOH",
+      "via": "GRU",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "LH",
       "vuelo": "8266",
       "st": "01/07/2020 03:35",
@@ -117,10 +136,10 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "QR",
-      "vuelo": "8155",
-      "st": "01/07/2020 03:35",
-      "matricula": "A7BFI",
+      "aerolinea": "5X",
+      "vuelo": "414",
+      "st": "01/07/2020 05:12",
+      "matricula": "",
       "posicion": "",
       "et": "",
       "at": "",
@@ -128,8 +147,8 @@
       "sector": "",
       "cinta": "",
       "lF": "",
-      "ruta": "DOH",
-      "via": "GRU",
+      "ruta": "MIA",
+      "via": "",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
