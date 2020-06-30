@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/06/2020 23:26",
+  "lastUpdate": "29/06/2020 23:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -187,6 +187,25 @@
       "lF": "",
       "ruta": "AMS",
       "via": "VCP",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AOG",
+      "vuelo": "423",
+      "st": "30/06/2020 11:30",
+      "matricula": "CXCLS",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MVD",
+      "via": "",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
@@ -441,25 +460,6 @@
     {
       "tipo": "partida",
       "aerolinea": "M3",
-      "vuelo": "8410",
-      "st": "29/06/2020 15:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "M3",
       "vuelo": "8473",
       "st": "29/06/2020 15:30",
       "matricula": "",
@@ -472,6 +472,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "POA",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "8410",
+      "st": "29/06/2020 15:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
       "via": "",
       "remark": "CON",
       "sanidad": "NO"
@@ -587,7 +606,7 @@
       "puerta": "",
       "ruta": "LIM",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
