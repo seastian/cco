@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "30/06/2020 09:55",
+  "lastUpdate": "30/06/2020 10:01",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1503",
-      "st": "30/06/2020 09:00",
-      "matricula": "N534LA",
-      "posicion": "56",
-      "et": "30/6/2020 10:00",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "AMS",
-      "via": "MVD",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AR",
@@ -175,8 +156,8 @@
     {
       "tipo": "arribo",
       "aerolinea": "UC",
-      "vuelo": "1109",
-      "st": "29/06/2020 22:00",
+      "vuelo": "1401",
+      "st": "30/06/2020 22:00",
       "matricula": "",
       "posicion": "",
       "et": "",
@@ -187,7 +168,7 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "CON",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
@@ -208,7 +189,7 @@
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -227,7 +208,7 @@
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -284,7 +265,7 @@
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -379,7 +360,7 @@
       "via": "SCL",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -397,6 +378,25 @@
       "ruta": "AMS",
       "via": "VCP",
       "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "UC",
+      "vuelo": "1503",
+      "st": "30/06/2020 09:00",
+      "matricula": "N534LA",
+      "posicion": "56",
+      "et": "30/6/2020 10:00",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "AMS",
+      "via": "MVD",
+      "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
     },
@@ -853,6 +853,25 @@
       "puerta": "",
       "ruta": "VCP",
       "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "QR",
+      "vuelo": "774",
+      "st": "30/06/2020 22:00",
+      "matricula": "A7ANF",
+      "posicion": "11",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "061",
+      "chkTo": "067",
+      "puerta": "14",
+      "ruta": "DOH",
+      "via": "GRU",
       "remark": "HOR",
       "sanidad": "NO"
     }
