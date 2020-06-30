@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/06/2020 22:04",
+  "lastUpdate": "29/06/2020 22:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -168,6 +168,25 @@
       "lF": "",
       "ruta": "AMS",
       "via": "MVD",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "MP",
+      "vuelo": "6912",
+      "st": "30/06/2020 10:05",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "AMS",
+      "via": "VCP",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
