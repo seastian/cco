@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/06/2020 20:22",
+  "lastUpdate": "30/06/2020 20:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -133,25 +133,6 @@
       "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "QR",
-      "vuelo": "8157",
-      "st": "30/06/2020 08:55",
-      "matricula": "A7BFL",
-      "posicion": "55",
-      "et": "30/6/2020 08:20",
-      "at": "30/6/2020 08:24",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "DOH",
-      "via": "GRU",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
