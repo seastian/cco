@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/06/2020 17:05",
+  "lastUpdate": "30/06/2020 17:12",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -351,14 +351,14 @@
       "matricula": "PHBHF",
       "posicion": "15",
       "et": "30/6/2020 17:03",
-      "at": "",
+      "at": "30/6/2020 17:07",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "AMS",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
