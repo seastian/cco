@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/06/2020 04:57",
+  "lastUpdate": "30/06/2020 05:03",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -188,6 +188,25 @@
       "ruta": "LIM",
       "via": "",
       "remark": "CAN",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "M3",
+      "vuelo": "8420",
+      "st": "30/06/2020 17:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "VCP",
+      "via": "",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
