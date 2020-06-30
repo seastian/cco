@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/06/2020 18:15",
+  "lastUpdate": "30/06/2020 18:21",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -150,25 +150,6 @@
       "ruta": "MIA",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "M3",
-      "vuelo": "8491",
-      "st": "30/06/2020 06:20",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
@@ -639,7 +620,7 @@
       "at": "",
       "term": "A",
       "sector": "AP",
-      "chkFrom": "061",
+      "chkFrom": "054",
       "chkTo": "067",
       "puerta": "14",
       "ruta": "DOH",
