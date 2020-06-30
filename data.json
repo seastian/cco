@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/06/2020 01:15",
+  "lastUpdate": "30/06/2020 01:21",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -668,6 +668,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "VH",
+      "vuelo": "326",
+      "st": "30/06/2020 01:18",
+      "matricula": "HK5275",
+      "posicion": "09",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "078",
+      "chkTo": "081",
+      "puerta": "09",
+      "ruta": "MDE",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "AMS",
       "vuelo": "7119",
       "st": "30/06/2020 02:00",
@@ -683,25 +702,6 @@
       "ruta": "MVD",
       "via": "",
       "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "VH",
-      "vuelo": "326",
-      "st": "30/06/2020 01:18",
-      "matricula": "HK5275",
-      "posicion": "09",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "078",
-      "chkTo": "081",
-      "puerta": "09",
-      "ruta": "MDE",
-      "via": "",
-      "remark": "HOR",
       "sanidad": "NO"
     },
     {
