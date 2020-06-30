@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/06/2020 08:39",
+  "lastUpdate": "30/06/2020 08:46",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -668,25 +668,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "QT",
-      "vuelo": "4078",
-      "st": "30/06/2020 10:15",
-      "matricula": "N332QT",
-      "posicion": "54",
-      "et": "30/6/2020 10:30",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "UC",
       "vuelo": "1503",
       "st": "30/06/2020 10:30",
@@ -702,6 +683,25 @@
       "ruta": "SCL",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "QT",
+      "vuelo": "4078",
+      "st": "30/06/2020 10:15",
+      "matricula": "N332QT",
+      "posicion": "54",
+      "et": "30/6/2020 10:30",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "BOG",
+      "via": "",
+      "remark": "EST",
       "sanidad": "NO"
     },
     {
