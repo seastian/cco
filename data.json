@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/06/2020 21:11",
+  "lastUpdate": "29/06/2020 21:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -348,7 +348,7 @@
       "aerolinea": "QR",
       "vuelo": "773",
       "st": "29/06/2020 21:45",
-      "matricula": "A7BFL",
+      "matricula": "A7ANF",
       "posicion": "11",
       "et": "29/6/2020 21:10",
       "at": "29/6/2020 21:04",
@@ -441,25 +441,6 @@
     {
       "tipo": "partida",
       "aerolinea": "M3",
-      "vuelo": "8473",
-      "st": "29/06/2020 15:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "POA",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "M3",
       "vuelo": "8410",
       "st": "29/06/2020 15:30",
       "matricula": "",
@@ -472,6 +453,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MIA",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "8473",
+      "st": "29/06/2020 15:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "POA",
       "via": "",
       "remark": "CON",
       "sanidad": "NO"
