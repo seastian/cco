@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/06/2020 06:57",
+  "lastUpdate": "30/06/2020 07:03",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -207,6 +207,25 @@
       "ruta": "AMS",
       "via": "",
       "remark": "EST",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AD",
+      "vuelo": "9718",
+      "st": "30/06/2020 19:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "VCP",
+      "via": "",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
