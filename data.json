@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/06/2020 08:58",
+  "lastUpdate": "30/06/2020 09:04",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -190,25 +190,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "QR",
-      "vuelo": "773",
-      "st": "29/06/2020 21:45",
-      "matricula": "A7ANF",
-      "posicion": "11",
-      "et": "29/6/2020 21:10",
-      "at": "29/6/2020 21:04",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "",
-      "ruta": "DOH",
-      "via": "GRU",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "50"
     },
     {
       "tipo": "arribo",
