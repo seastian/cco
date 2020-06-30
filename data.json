@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "30/06/2020 19:12",
+  "lastUpdate": "30/06/2020 19:18",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AD",
-      "vuelo": "9718",
-      "st": "30/06/2020 19:00",
-      "matricula": "PRYRU",
-      "posicion": "03",
-      "et": "30/6/2020 19:15",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "LA",
@@ -363,6 +344,25 @@
       "pax": ""
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "AD",
+      "vuelo": "9718",
+      "st": "30/06/2020 19:00",
+      "matricula": "PRYRU",
+      "posicion": "03",
+      "et": "30/6/2020 19:15",
+      "at": "30/6/2020 19:15",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "VCP",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
       "tipo": "partida",
       "aerolinea": "M3",
       "vuelo": "8491",
@@ -587,7 +587,7 @@
       "puerta": "20",
       "ruta": "AMS",
       "via": "",
-      "remark": "HOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -688,7 +688,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
+      "vuelo": "H24",
       "st": "30/06/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -696,7 +696,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -707,7 +707,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24",
+      "vuelo": "H24N",
       "st": "30/06/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -715,7 +715,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "209",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
