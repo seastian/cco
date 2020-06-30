@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/06/2020 03:08",
+  "lastUpdate": "30/06/2020 03:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -535,25 +535,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "JJ",
-      "vuelo": "H24",
-      "st": "29/06/2020 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "",
-      "ruta": "QTR",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "H24",
       "st": "29/06/2020 23:59",
@@ -592,13 +573,32 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "JJ",
+      "vuelo": "H24",
+      "st": "29/06/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "QTR",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "VH",
       "vuelo": "326",
       "st": "30/06/2020 01:18",
       "matricula": "HK5275",
       "posicion": "09",
       "et": "",
-      "at": "",
+      "at": "30/6/2020 03:02",
       "term": "A",
       "sector": "AP",
       "chkFrom": "078",
@@ -606,7 +606,7 @@
       "puerta": "09",
       "ruta": "MDE",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
