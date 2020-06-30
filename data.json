@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/06/2020 04:25",
+  "lastUpdate": "30/06/2020 04:31",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -854,6 +854,25 @@
       "ruta": "LIM",
       "via": "",
       "remark": "CAN",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "BA",
+      "vuelo": "244F",
+      "st": "30/06/2020 16:30",
+      "matricula": "GZBJD",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "LHR",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     }
   ]
