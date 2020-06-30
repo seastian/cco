@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/06/2020 20:47",
+  "lastUpdate": "30/06/2020 20:53",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -131,6 +131,25 @@
       "ruta": "LHR",
       "via": "",
       "remark": "CAN",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "9577",
+      "st": "01/07/2020 08:50",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
