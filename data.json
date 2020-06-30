@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/06/2020 13:25",
+  "lastUpdate": "30/06/2020 13:31",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -341,25 +341,6 @@
       "ruta": "MDE",
       "via": "",
       "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1102",
-      "st": "30/06/2020 01:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "CON",
       "sanidad": "NO"
     },
     {
