@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "30/06/2020 10:20",
+  "lastUpdate": "30/06/2020 10:27",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1051",
-      "st": "30/06/2020 11:40",
-      "matricula": "LVFVI",
-      "posicion": "50",
-      "et": "30/6/2020 10:35",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "PVG",
-      "via": "AKL",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AOG",
@@ -396,6 +377,25 @@
       "lF": "",
       "ruta": "AMS",
       "via": "MVD",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1051",
+      "st": "30/06/2020 11:40",
+      "matricula": "LVFVI",
+      "posicion": "50",
+      "et": "30/6/2020 10:35",
+      "at": "30/6/2020 10:23",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "PVG",
+      "via": "AKL",
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
