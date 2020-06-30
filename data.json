@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "30/06/2020 19:18",
+  "lastUpdate": "30/06/2020 19:25",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1983",
-      "st": "30/06/2020 20:30",
-      "matricula": "CCBGA",
-      "posicion": "05",
-      "et": "30/6/2020 19:20",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "0"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "UC",
@@ -363,6 +344,25 @@
       "pax": ""
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "1983",
+      "st": "30/06/2020 20:30",
+      "matricula": "CCBGA",
+      "posicion": "05",
+      "et": "30/6/2020 19:20",
+      "at": "30/6/2020 19:24",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "0"
+    },
+    {
       "tipo": "partida",
       "aerolinea": "M3",
       "vuelo": "8491",
@@ -579,7 +579,7 @@
       "matricula": "PHBHF",
       "posicion": "15",
       "et": "",
-      "at": "",
+      "at": "30/6/2020 19:19",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -587,7 +587,7 @@
       "puerta": "20",
       "ruta": "AMS",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
