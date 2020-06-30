@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/06/2020 11:50",
+  "lastUpdate": "30/06/2020 11:56",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -170,7 +170,7 @@
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -852,6 +852,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "LAX",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1132",
+      "st": "30/06/2020 23:55",
+      "matricula": "LVGIF",
+      "posicion": "14",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "19",
+      "ruta": "MAD",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
