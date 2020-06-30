@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/06/2020 19:50",
+  "lastUpdate": "30/06/2020 19:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -114,25 +114,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "BA",
-      "vuelo": "245F",
-      "st": "30/06/2020 08:20",
-      "matricula": "GZBJD",
-      "posicion": "10",
-      "et": "30/6/2020 07:50",
-      "at": "30/6/2020 07:51",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "LHR",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
