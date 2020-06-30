@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/06/2020 15:37",
+  "lastUpdate": "30/06/2020 15:44",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -361,25 +361,6 @@
       "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1301",
-      "st": "30/06/2020 02:10",
-      "matricula": "CCCZZ",
-      "posicion": "54",
-      "et": "",
-      "at": "30/6/2020 03:39",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
