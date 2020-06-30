@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/06/2020 14:09",
+  "lastUpdate": "30/06/2020 14:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -776,6 +776,25 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "8492",
+      "st": "01/07/2020 02:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
