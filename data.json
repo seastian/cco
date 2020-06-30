@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/06/2020 23:00",
+  "lastUpdate": "29/06/2020 23:07",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -26,7 +26,7 @@
       "vuelo": "8119",
       "st": "29/06/2020 23:40",
       "matricula": "CXMAS",
-      "posicion": "",
+      "posicion": "51A",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -691,7 +691,7 @@
       "vuelo": "7119",
       "st": "30/06/2020 02:00",
       "matricula": "CXMAS",
-      "posicion": "",
+      "posicion": "51A",
       "et": "",
       "at": "",
       "term": "TCA",
