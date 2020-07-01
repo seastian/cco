@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/07/2020 13:06",
+  "lastUpdate": "01/07/2020 13:12",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -854,6 +854,25 @@
       "ruta": "FRA",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "TK",
+      "vuelo": "6170",
+      "st": "02/07/2020 01:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "ISL",
+      "via": "DSS",
+      "remark": "",
       "sanidad": "NO"
     }
   ]
