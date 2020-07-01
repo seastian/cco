@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "01/07/2020 03:02",
+  "lastUpdate": "01/07/2020 03:08",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "LH",
-      "vuelo": "8266",
-      "st": "01/07/2020 03:35",
-      "matricula": "DALCC",
-      "posicion": "54",
-      "et": "1/7/2020 03:05",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "FRA",
-      "via": "GRU",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "5X",
@@ -340,6 +321,25 @@
       "ruta": "DOH",
       "via": "GRU",
       "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LH",
+      "vuelo": "8266",
+      "st": "01/07/2020 03:35",
+      "matricula": "DALCC",
+      "posicion": "54",
+      "et": "1/7/2020 03:05",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "FRA",
+      "via": "GRU",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
