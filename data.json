@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/06/2020 21:51",
+  "lastUpdate": "30/06/2020 21:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -402,25 +402,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1134",
-      "st": "30/06/2020 12:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "TLV",
-      "via": "MAD",
-      "remark": "CAN",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AOG",
       "vuelo": "424",
       "st": "30/06/2020 12:30",
@@ -436,6 +417,25 @@
       "ruta": "MVD",
       "via": "",
       "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1134",
+      "st": "30/06/2020 12:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "TLV",
+      "via": "MAD",
+      "remark": "CAN",
       "sanidad": "NO"
     },
     {
