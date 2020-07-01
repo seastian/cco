@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/07/2020 10:52",
+  "lastUpdate": "01/07/2020 10:59",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -763,25 +763,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AD",
-      "vuelo": "9721",
-      "st": "01/07/2020 16:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "BA",
       "vuelo": "244F",
       "st": "01/07/2020 16:30",
@@ -797,6 +778,25 @@
       "ruta": "LHR",
       "via": "",
       "remark": "CAN",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AD",
+      "vuelo": "9721",
+      "st": "01/07/2020 16:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "LIM",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     },
     {
