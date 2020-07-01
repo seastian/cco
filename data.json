@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/07/2020 17:17",
+  "lastUpdate": "01/07/2020 17:24",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -129,6 +129,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "MAD",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "5X",
+      "vuelo": "410",
+      "st": "02/07/2020 05:20",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -568,7 +587,7 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
