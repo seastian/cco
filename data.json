@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/07/2020 12:59",
+  "lastUpdate": "01/07/2020 13:06",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -402,25 +402,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1402",
-      "st": "30/06/2020 23:30",
-      "matricula": "CCCZZ",
-      "posicion": "54",
-      "et": "1/7/2020 01:00",
-      "at": "1/7/2020 01:01",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "LAX",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "M3",
       "vuelo": "8492",
       "st": "01/07/2020 02:10",
@@ -644,7 +625,7 @@
       "puerta": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
