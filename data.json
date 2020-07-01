@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/07/2020 13:37",
+  "lastUpdate": "01/07/2020 13:44",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -265,7 +265,7 @@
       "via": "GRU",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -360,7 +360,7 @@
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -579,7 +579,7 @@
       "matricula": "CXLSS",
       "posicion": "56A",
       "et": "",
-      "at": "",
+      "at": "1/7/2020 13:40",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -587,7 +587,7 @@
       "puerta": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
