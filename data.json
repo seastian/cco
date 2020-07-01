@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/07/2020 13:31",
+  "lastUpdate": "01/07/2020 13:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -402,25 +402,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AMS",
-      "vuelo": "7119",
-      "st": "01/07/2020 01:50",
-      "matricula": "CXMAS",
-      "posicion": "51A",
-      "et": "",
-      "at": "1/7/2020 01:31",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "UC",
       "vuelo": "1404",
       "st": "01/07/2020 03:30",
@@ -606,7 +587,7 @@
       "puerta": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -630,25 +611,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AD",
-      "vuelo": "9721",
-      "st": "01/07/2020 16:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "BA",
       "vuelo": "244F",
       "st": "01/07/2020 16:30",
@@ -664,6 +626,25 @@
       "ruta": "LHR",
       "via": "",
       "remark": "CAN",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AD",
+      "vuelo": "9721",
+      "st": "01/07/2020 16:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "LIM",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     },
     {
