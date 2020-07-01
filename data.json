@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/07/2020 19:30",
+  "lastUpdate": "01/07/2020 19:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,7 +7,7 @@
       "vuelo": "1915",
       "st": "01/07/2020 20:40",
       "matricula": "LVCTC",
-      "posicion": "",
+      "posicion": "51A",
       "et": "1/7/2020 20:13",
       "at": "",
       "term": "TCA",
@@ -795,6 +795,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MIA",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "102",
+      "st": "02/07/2020 07:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
