@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/07/2020 12:34",
+  "lastUpdate": "01/07/2020 12:40",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -370,14 +370,14 @@
       "matricula": "CXLSS",
       "posicion": "56A",
       "et": "",
-      "at": "",
+      "at": "1/7/2020 12:34",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "CON",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -617,7 +617,7 @@
       "matricula": "LVCTC",
       "posicion": "16B",
       "et": "",
-      "at": "",
+      "at": "1/7/2020 12:38",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -625,7 +625,7 @@
       "puerta": "24",
       "ruta": "RGA",
       "via": "",
-      "remark": "HOR",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
