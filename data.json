@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/07/2020 12:27",
+  "lastUpdate": "01/07/2020 12:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -369,7 +369,7 @@
       "st": "01/07/2020 12:00",
       "matricula": "CXLSS",
       "posicion": "56A",
-      "et": "1/7/2020 12:15",
+      "et": "",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -377,7 +377,7 @@
       "lF": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "EST",
+      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
@@ -606,7 +606,7 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -852,6 +852,25 @@
       "chkTo": "053",
       "puerta": "",
       "ruta": "QTR",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LH",
+      "vuelo": "8265",
+      "st": "02/07/2020 00:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "FRA",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
