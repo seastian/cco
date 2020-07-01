@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/06/2020 23:51",
+  "lastUpdate": "30/06/2020 23:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -516,6 +516,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1132",
+      "st": "30/06/2020 23:55",
+      "matricula": "LVGIF",
+      "posicion": "14",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "18",
+      "ruta": "MAD",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "UC",
       "vuelo": "1402",
       "st": "30/06/2020 23:30",
@@ -531,25 +550,6 @@
       "ruta": "LAX",
       "via": "",
       "remark": "DEM",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1132",
-      "st": "30/06/2020 23:55",
-      "matricula": "LVGIF",
-      "posicion": "14",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "18",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "HOR",
       "sanidad": "NO"
     },
     {
@@ -574,7 +574,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
+      "vuelo": "H24",
       "st": "30/06/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -582,7 +582,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -593,7 +593,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24",
+      "vuelo": "H24N",
       "st": "30/06/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -601,7 +601,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "209",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
