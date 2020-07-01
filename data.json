@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/07/2020 16:27",
+  "lastUpdate": "01/07/2020 16:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -332,14 +332,14 @@
       "matricula": "N859GT",
       "posicion": "55",
       "et": "1/7/2020 16:20",
-      "at": "",
+      "at": "1/7/2020 16:30",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -587,7 +587,7 @@
       "puerta": "",
       "ruta": "LIM",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
