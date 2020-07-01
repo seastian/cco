@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/07/2020 05:34",
+  "lastUpdate": "01/07/2020 05:40",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -342,6 +342,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "QR",
+      "vuelo": "8157",
+      "st": "30/06/2020 05:05",
+      "matricula": "A7BFI",
+      "posicion": "56",
+      "et": "",
+      "at": "30/6/2020 05:36",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "DOH",
+      "via": "UIO",
+      "remark": "PAR",
+      "sanidad": "NO"
     },
     {
       "tipo": "partida",
@@ -782,25 +801,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "BA",
-      "vuelo": "244F",
-      "st": "01/07/2020 16:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "LHR",
-      "via": "",
-      "remark": "CAN",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AD",
       "vuelo": "9721",
       "st": "01/07/2020 16:30",
@@ -816,6 +816,25 @@
       "ruta": "LIM",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "BA",
+      "vuelo": "244F",
+      "st": "01/07/2020 16:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "LHR",
+      "via": "",
+      "remark": "CAN",
       "sanidad": "NO"
     },
     {
