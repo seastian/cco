@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/07/2020 03:08",
+  "lastUpdate": "01/07/2020 03:15",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -332,14 +332,14 @@
       "matricula": "DALCC",
       "posicion": "54",
       "et": "1/7/2020 03:05",
-      "at": "",
+      "at": "1/7/2020 03:10",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "FRA",
       "via": "GRU",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -795,6 +795,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "ASU",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "8491",
+      "st": "01/07/2020 15:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "VCP",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
