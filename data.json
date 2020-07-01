@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/07/2020 00:42",
+  "lastUpdate": "01/07/2020 00:48",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -26,8 +26,8 @@
       "vuelo": "8266",
       "st": "01/07/2020 03:35",
       "matricula": "DALCC",
-      "posicion": "",
-      "et": "",
+      "posicion": "54",
+      "et": "1/7/2020 03:05",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -35,7 +35,7 @@
       "lF": "",
       "ruta": "FRA",
       "via": "GRU",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -672,7 +672,7 @@
       "vuelo": "8267",
       "st": "01/07/2020 05:55",
       "matricula": "DALCC",
-      "posicion": "",
+      "posicion": "54",
       "et": "",
       "at": "",
       "term": "TCA",
