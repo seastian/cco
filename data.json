@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/06/2020 22:35",
+  "lastUpdate": "30/06/2020 22:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -522,7 +522,7 @@
       "matricula": "A7ANF",
       "posicion": "11",
       "et": "",
-      "at": "",
+      "at": "30/6/2020 22:38",
       "term": "A",
       "sector": "AP",
       "chkFrom": "054",
@@ -530,7 +530,7 @@
       "puerta": "14",
       "ruta": "DOH",
       "via": "GRU",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
