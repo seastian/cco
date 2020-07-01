@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/07/2020 00:36",
+  "lastUpdate": "01/07/2020 00:42",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -323,44 +323,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "MP",
-      "vuelo": "6912",
-      "st": "30/06/2020 12:05",
-      "matricula": "PHCKC",
-      "posicion": "51",
-      "et": "30/6/2020 12:10",
-      "at": "30/6/2020 12:38",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "AMS",
-      "via": "UIO",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "424",
-      "st": "30/06/2020 12:30",
-      "matricula": "CXCLS",
-      "posicion": "54A",
-      "et": "",
-      "at": "30/6/2020 12:41",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
