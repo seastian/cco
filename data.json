@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/07/2020 14:02",
+  "lastUpdate": "01/07/2020 14:09",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -522,7 +522,7 @@
       "matricula": "CXCLS",
       "posicion": "56",
       "et": "",
-      "at": "",
+      "at": "1/7/2020 14:04",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -530,7 +530,7 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
