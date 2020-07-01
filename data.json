@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "01/07/2020 16:59",
+  "lastUpdate": "01/07/2020 17:05",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "KL",
-      "vuelo": "701",
-      "st": "01/07/2020 17:15",
-      "matricula": "PHBHO",
-      "posicion": "14",
-      "et": "1/7/2020 17:04",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "9",
-      "lF": "007",
-      "ruta": "AMS",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "UC",
@@ -152,25 +133,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "5X",
-      "vuelo": "414",
-      "st": "01/07/2020 05:12",
-      "matricula": "N352UP",
-      "posicion": "55",
-      "et": "",
-      "at": "1/7/2020 05:03",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -342,6 +304,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "32"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "KL",
+      "vuelo": "701",
+      "st": "01/07/2020 17:15",
+      "matricula": "PHBHO",
+      "posicion": "14",
+      "et": "1/7/2020 17:04",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "9",
+      "lF": "007",
+      "ruta": "AMS",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "partida",
