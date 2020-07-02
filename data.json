@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/07/2020 13:54",
+  "lastUpdate": "02/07/2020 14:00",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -41,25 +41,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "H8",
-      "vuelo": "5916",
-      "st": "02/07/2020 15:20",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "RER",
       "vuelo": "8111",
       "st": "02/07/2020 16:00",
@@ -76,6 +57,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "H8",
+      "vuelo": "5916",
+      "st": "02/07/2020 15:20",
+      "matricula": "CCAZD",
+      "posicion": "08",
+      "et": "2/7/2020 16:36",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "8",
+      "lF": "008",
+      "ruta": "LIM",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": "183"
     },
     {
       "tipo": "arribo",
