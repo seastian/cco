@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/07/2020 04:49",
+  "lastUpdate": "02/07/2020 04:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -285,25 +285,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1879",
-      "st": "01/07/2020 17:20",
-      "matricula": "LVFUB",
-      "posicion": "71",
-      "et": "1/7/2020 16:59",
-      "at": "1/7/2020 16:50",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "11",
-      "lF": "017",
-      "ruta": "USH",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "32"
     },
     {
       "tipo": "arribo",
