@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/07/2020 14:57",
+  "lastUpdate": "02/07/2020 15:04",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -131,6 +131,25 @@
       "ruta": "MIA",
       "via": "",
       "remark": "DEM",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "QR",
+      "vuelo": "8157",
+      "st": "03/07/2020 03:00",
+      "matricula": "A7BFT",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
