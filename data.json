@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/07/2020 23:38",
+  "lastUpdate": "01/07/2020 23:45",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -149,6 +149,25 @@
       "lF": "",
       "ruta": "MVD",
       "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1053",
+      "st": "02/07/2020 11:40",
+      "matricula": "LVFVH",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "PVG",
+      "via": "AKL",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
@@ -786,7 +805,7 @@
       "vuelo": "7119",
       "st": "02/07/2020 02:00",
       "matricula": "CXMAS",
-      "posicion": "",
+      "posicion": "56B",
       "et": "",
       "at": "",
       "term": "TCA",
