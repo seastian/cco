@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/07/2020 07:52",
+  "lastUpdate": "02/07/2020 07:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -228,25 +228,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1915",
-      "st": "01/07/2020 20:40",
-      "matricula": "LVCTC",
-      "posicion": "51A",
-      "et": "1/7/2020 20:13",
-      "at": "1/7/2020 19:58",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "RGA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
