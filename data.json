@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/07/2020 14:44",
+  "lastUpdate": "02/07/2020 14:51",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -133,25 +133,6 @@
       "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1133",
-      "st": "02/07/2020 02:50",
-      "matricula": "LVGIF",
-      "posicion": "16",
-      "et": "2/7/2020 02:49",
-      "at": "2/7/2020 02:49",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "008",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "243"
     },
     {
       "tipo": "arribo",
