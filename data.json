@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/07/2020 05:08",
+  "lastUpdate": "02/07/2020 05:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -44,7 +44,7 @@
       "aerolinea": "LH",
       "vuelo": "8264",
       "st": "02/07/2020 06:45",
-      "matricula": "",
+      "matricula": "DALCB",
       "posicion": "",
       "et": "",
       "at": "",
