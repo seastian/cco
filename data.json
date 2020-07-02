@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/07/2020 11:08",
+  "lastUpdate": "02/07/2020 11:15",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,7 +7,7 @@
       "vuelo": "423",
       "st": "02/07/2020 11:30",
       "matricula": "CXCLS",
-      "posicion": "",
+      "posicion": "54B",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -26,7 +26,7 @@
       "vuelo": "501",
       "st": "02/07/2020 12:00",
       "matricula": "CXLSS",
-      "posicion": "",
+      "posicion": "54A",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -617,7 +617,7 @@
       "matricula": "CCCZZ",
       "posicion": "55",
       "et": "",
-      "at": "",
+      "at": "2/7/2020 11:10",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -625,7 +625,7 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -634,7 +634,7 @@
       "vuelo": "424",
       "st": "02/07/2020 12:30",
       "matricula": "CXCLS",
-      "posicion": "",
+      "posicion": "54B",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -653,7 +653,7 @@
       "vuelo": "500",
       "st": "02/07/2020 13:00",
       "matricula": "CXLSS",
-      "posicion": "",
+      "posicion": "54A",
       "et": "",
       "at": "",
       "term": "TCA",
