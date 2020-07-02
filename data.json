@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/07/2020 19:09",
+  "lastUpdate": "02/07/2020 19:15",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -492,7 +492,7 @@
       "puerta": "01",
       "ruta": "GYE",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
