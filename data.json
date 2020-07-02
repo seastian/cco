@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/07/2020 00:23",
+  "lastUpdate": "02/07/2020 00:30",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,13 +7,13 @@
       "vuelo": "1133",
       "st": "02/07/2020 02:50",
       "matricula": "LVGIF",
-      "posicion": "",
+      "posicion": "16",
       "et": "2/7/2020 02:49",
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "9",
+      "lF": "008",
       "ruta": "MAD",
       "via": "",
       "remark": "EST",
@@ -190,6 +190,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": "0"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1047",
+      "st": "02/07/2020 12:25",
+      "matricula": "LVFSK",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "AEP",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
