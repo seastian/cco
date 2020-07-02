@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/07/2020 11:15",
+  "lastUpdate": "02/07/2020 11:21",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -138,7 +138,7 @@
       "tipo": "arribo",
       "aerolinea": "2D",
       "vuelo": "171",
-      "st": "02/07/2020 19:20",
+      "st": "02/07/2020 21:20",
       "matricula": "",
       "posicion": "",
       "et": "",
