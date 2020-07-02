@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/07/2020 21:42",
+  "lastUpdate": "01/07/2020 21:49",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -380,25 +380,6 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1878",
-      "st": "01/07/2020 09:00",
-      "matricula": "LVFUB",
-      "posicion": "15B",
-      "et": "",
-      "at": "1/7/2020 09:42",
-      "term": "C",
-      "sector": "CPC",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "24",
-      "ruta": "USH",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
