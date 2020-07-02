@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/07/2020 13:29",
+  "lastUpdate": "02/07/2020 13:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -380,44 +380,6 @@
       "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "M3",
-      "vuelo": "8492",
-      "st": "02/07/2020 02:10",
-      "matricula": "PRABD",
-      "posicion": "55",
-      "et": "2/7/2020 01:07",
-      "at": "2/7/2020 01:30",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "101",
-      "st": "02/07/2020 01:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
