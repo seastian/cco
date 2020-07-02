@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/07/2020 00:36",
+  "lastUpdate": "02/07/2020 00:42",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -491,25 +491,6 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1914",
-      "st": "01/07/2020 12:35",
-      "matricula": "LVCTC",
-      "posicion": "16B",
-      "et": "",
-      "at": "1/7/2020 12:38",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "24",
-      "ruta": "RGA",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
