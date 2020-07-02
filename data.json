@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "01/07/2020 23:06",
+  "lastUpdate": "01/07/2020 23:12",
   "vuelos": [
     {
       "tipo": "arribo",
       "aerolinea": "AMS",
-      "vuelo": "MAS",
-      "st": "01/07/2020 23:15",
+      "vuelo": "8119",
+      "st": "01/07/2020 23:25",
       "matricula": "CXMAS",
       "posicion": "56B",
       "et": "",
@@ -757,6 +757,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "ASU",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AMS",
+      "vuelo": "7119",
+      "st": "02/07/2020 02:00",
+      "matricula": "CXMAS",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
