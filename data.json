@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "02/07/2020 16:00",
+  "lastUpdate": "02/07/2020 16:06",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "RER",
-      "vuelo": "8111",
-      "st": "02/07/2020 16:00",
-      "matricula": "HCCUH",
-      "posicion": "02",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "UIO",
-      "via": "MVD",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": "0"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "H8",
@@ -399,6 +380,25 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "RER",
+      "vuelo": "8111",
+      "st": "02/07/2020 16:00",
+      "matricula": "HCCUH",
+      "posicion": "02",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "UIO",
+      "via": "MVD",
+      "remark": "CON",
+      "sanidad": "NO",
+      "pax": "0"
     },
     {
       "tipo": "partida",
