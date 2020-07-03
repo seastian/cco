@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/07/2020 11:31",
+  "lastUpdate": "03/07/2020 11:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -503,14 +503,14 @@
       "matricula": "CXCLS",
       "posicion": "50B",
       "et": "",
-      "at": "",
+      "at": "3/7/2020 11:28",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -712,7 +712,7 @@
       "matricula": "CCAZD",
       "posicion": "06",
       "et": "",
-      "at": "",
+      "at": "3/7/2020 11:33",
       "term": "A",
       "sector": "AP",
       "chkFrom": "027",
@@ -720,7 +720,7 @@
       "puerta": "05",
       "ruta": "LIM",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
