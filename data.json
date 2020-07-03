@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/07/2020 03:37",
+  "lastUpdate": "03/07/2020 03:44",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -25,9 +25,9 @@
       "aerolinea": "5X",
       "vuelo": "412",
       "st": "03/07/2020 05:12",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
+      "matricula": "N308UP",
+      "posicion": "56",
+      "et": "3/7/2020 05:15",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -35,7 +35,7 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -152,6 +152,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "MJF73",
+      "st": "03/07/2020 15:40",
+      "matricula": "OEHGS",
+      "posicion": "37",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "REC",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO",
+      "pax": "0"
     },
     {
       "tipo": "arribo",
