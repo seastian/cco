@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/07/2020 04:47",
+  "lastUpdate": "03/07/2020 04:53",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -345,25 +345,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "H24",
-      "st": "02/07/2020 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "QTR",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "JJ",
       "vuelo": "H24",
       "st": "02/07/2020 23:59",
@@ -375,6 +356,25 @@
       "sector": "AP",
       "chkFrom": "041",
       "chkTo": "053",
+      "puerta": "",
+      "ruta": "QTR",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "H24",
+      "st": "02/07/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
       "via": "",
@@ -465,7 +465,7 @@
       "matricula": "N536LA",
       "posicion": "54",
       "et": "3/7/2020 03:40",
-      "at": "",
+      "at": "3/7/2020 04:47",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -473,7 +473,7 @@
       "puerta": "",
       "ruta": "LAX",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -492,7 +492,7 @@
       "puerta": "",
       "ruta": "DOH",
       "via": "UIO",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
