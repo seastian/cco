@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/07/2020 01:01",
+  "lastUpdate": "03/07/2020 01:07",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -339,25 +339,6 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "500",
-      "st": "02/07/2020 13:00",
-      "matricula": "CXLSS",
-      "posicion": "54A",
-      "et": "",
-      "at": "2/7/2020 13:04",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "ASU",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
