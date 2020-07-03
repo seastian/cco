@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/07/2020 18:46",
+  "lastUpdate": "03/07/2020 18:53",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,7 +7,7 @@
       "vuelo": "680",
       "st": "03/07/2020 19:05",
       "matricula": "EIISA",
-      "posicion": "10",
+      "posicion": "11",
       "et": "3/7/2020 19:01",
       "at": "",
       "term": "A",
