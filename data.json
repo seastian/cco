@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "03/07/2020 02:41",
+  "lastUpdate": "03/07/2020 02:47",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "QR",
-      "vuelo": "8157",
-      "st": "03/07/2020 03:00",
-      "matricula": "A7BFT",
-      "posicion": "55",
-      "et": "3/7/2020 02:50",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "UC",
@@ -304,6 +285,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "QR",
+      "vuelo": "8157",
+      "st": "03/07/2020 03:00",
+      "matricula": "A7BFT",
+      "posicion": "55",
+      "et": "3/7/2020 02:50",
+      "at": "3/7/2020 02:44",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "partida",
