@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/07/2020 18:08",
+  "lastUpdate": "03/07/2020 18:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -45,8 +45,8 @@
       "vuelo": "2681",
       "st": "03/07/2020 19:50",
       "matricula": "LVCIH",
-      "posicion": "",
-      "et": "",
+      "posicion": "22B",
+      "et": "3/7/2020 19:48",
       "at": "",
       "term": "C",
       "sector": "CAC",
@@ -54,9 +54,9 @@
       "lF": "",
       "ruta": "BRC",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "18"
     },
     {
       "tipo": "arribo",
@@ -668,6 +668,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "PRV",
+      "vuelo": "BPO",
+      "st": "03/07/2020 18:10",
+      "matricula": "LVBPO",
+      "posicion": "42",
+      "et": "",
+      "at": "3/7/2020 18:12",
+      "term": "C",
+      "sector": "CPC",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "FDO",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "UC",
       "vuelo": "1105",
       "st": "03/07/2020 18:10",
@@ -682,26 +701,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "PRV",
-      "vuelo": "BPO",
-      "st": "03/07/2020 18:10",
-      "matricula": "LVBPO",
-      "posicion": "42",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPC",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "FDO",
-      "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -712,7 +712,7 @@
       "matricula": "LVVDJ",
       "posicion": "45",
       "et": "",
-      "at": "",
+      "at": "3/7/2020 18:10",
       "term": "C",
       "sector": "CPC",
       "chkFrom": "",
@@ -720,7 +720,7 @@
       "puerta": "",
       "ruta": "FDO",
       "via": "",
-      "remark": "HOR",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
