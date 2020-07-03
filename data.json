@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/07/2020 14:26",
+  "lastUpdate": "03/07/2020 14:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -649,25 +649,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AU",
-      "vuelo": "2280",
-      "st": "03/07/2020 11:00",
-      "matricula": "LVGIK",
-      "posicion": "15B",
-      "et": "",
-      "at": "3/7/2020 11:10",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "21",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "PRV",
       "vuelo": "CTA",
       "st": "03/07/2020 11:00",
@@ -700,6 +681,25 @@
       "chkTo": "030",
       "puerta": "05",
       "ruta": "LIM",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AU",
+      "vuelo": "2280",
+      "st": "03/07/2020 11:00",
+      "matricula": "LVGIK",
+      "posicion": "15B",
+      "et": "",
+      "at": "3/7/2020 11:10",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "21",
+      "ruta": "SCL",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -777,7 +777,7 @@
       "puerta": "",
       "ruta": "BRC",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
