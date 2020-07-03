@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/07/2020 14:58",
+  "lastUpdate": "03/07/2020 15:04",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -26,7 +26,7 @@
       "vuelo": "2281",
       "st": "03/07/2020 16:35",
       "matricula": "LVGIK",
-      "posicion": "",
+      "posicion": "15B",
       "et": "3/7/2020 16:30",
       "at": "",
       "term": "A",
