@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "03/07/2020 18:53",
+  "lastUpdate": "03/07/2020 18:59",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AZ",
-      "vuelo": "680",
-      "st": "03/07/2020 19:05",
-      "matricula": "EIISA",
-      "posicion": "11",
-      "et": "3/7/2020 19:01",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "010",
-      "ruta": "FCO",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "59"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AOG",
@@ -475,6 +456,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AZ",
+      "vuelo": "680",
+      "st": "03/07/2020 19:05",
+      "matricula": "EIISA",
+      "posicion": "11",
+      "et": "3/7/2020 19:01",
+      "at": "3/7/2020 18:54",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "010",
+      "ruta": "FCO",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "59"
     },
     {
       "tipo": "partida",
