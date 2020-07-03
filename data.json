@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/07/2020 21:58",
+  "lastUpdate": "02/07/2020 22:04",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -150,6 +150,25 @@
       "ruta": "LHR",
       "via": "",
       "remark": "CAN",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AU",
+      "vuelo": "2022",
+      "st": "03/07/2020 10:00",
+      "matricula": "LVCEU",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "AEP",
+      "via": "",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
