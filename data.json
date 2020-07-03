@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "03/07/2020 11:24",
+  "lastUpdate": "03/07/2020 11:31",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "423",
-      "st": "03/07/2020 11:30",
-      "matricula": "CXCLS",
-      "posicion": "50B",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AOG",
@@ -515,6 +496,25 @@
       "pax": ""
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "AOG",
+      "vuelo": "423",
+      "st": "03/07/2020 11:30",
+      "matricula": "CXCLS",
+      "posicion": "50B",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
       "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "H24N",
@@ -966,6 +966,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MVD",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1408",
+      "st": "03/07/2020 23:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "LAX",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
