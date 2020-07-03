@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/07/2020 21:43",
+  "lastUpdate": "02/07/2020 21:49",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -152,25 +152,6 @@
       "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1041",
-      "st": "02/07/2020 10:25",
-      "matricula": "LVFUC",
-      "posicion": "64C",
-      "et": "2/7/2020 09:50",
-      "at": "2/7/2020 09:48",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "AEP",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
