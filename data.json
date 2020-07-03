@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/07/2020 22:29",
+  "lastUpdate": "02/07/2020 22:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -159,6 +159,25 @@
       "vuelo": "2022",
       "st": "03/07/2020 10:00",
       "matricula": "LVCEU",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "AEP",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AU",
+      "vuelo": "2024",
+      "st": "03/07/2020 10:30",
+      "matricula": "LVGIQ",
       "posicion": "",
       "et": "",
       "at": "",
