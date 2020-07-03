@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/07/2020 07:24",
+  "lastUpdate": "03/07/2020 07:31",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -31,8 +31,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "9",
+      "lF": "009",
       "ruta": "CDG",
       "via": "",
       "remark": "EST",
@@ -361,25 +361,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "RER",
-      "vuelo": "8110",
-      "st": "02/07/2020 18:00",
-      "matricula": "HCCUH",
-      "posicion": "02",
-      "et": "",
-      "at": "2/7/2020 19:25",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "076",
-      "chkTo": "079",
-      "puerta": "01",
-      "ruta": "GYE",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
