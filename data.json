@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/07/2020 06:03",
+  "lastUpdate": "03/07/2020 06:09",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,7 +7,7 @@
       "vuelo": "4142",
       "st": "03/07/2020 08:10",
       "matricula": "FHRBI",
-      "posicion": "",
+      "posicion": "11",
       "et": "3/7/2020 07:59",
       "at": "",
       "term": "A",
@@ -209,25 +209,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "RER",
-      "vuelo": "8111",
-      "st": "02/07/2020 16:00",
-      "matricula": "HCCUH",
-      "posicion": "02",
-      "et": "2/7/2020 18:05",
-      "at": "2/7/2020 18:09",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "UIO",
-      "via": "MVD",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -484,7 +465,7 @@
       "matricula": "N418LA",
       "posicion": "54",
       "et": "",
-      "at": "",
+      "at": "3/7/2020 06:04",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -492,7 +473,7 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "CON",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
