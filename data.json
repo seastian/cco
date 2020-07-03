@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/07/2020 23:07",
+  "lastUpdate": "02/07/2020 23:13",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -361,25 +361,6 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1103",
-      "st": "02/07/2020 11:05",
-      "matricula": "CCCZZ",
-      "posicion": "55",
-      "et": "",
-      "at": "2/7/2020 11:10",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
