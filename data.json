@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/07/2020 14:33",
+  "lastUpdate": "03/07/2020 14:39",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -750,7 +750,7 @@
       "matricula": "CXCLS",
       "posicion": "50B",
       "et": "",
-      "at": "",
+      "at": "3/7/2020 13:00",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -758,7 +758,7 @@
       "puerta": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "CON",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -769,7 +769,7 @@
       "matricula": "LVCIH",
       "posicion": "22B",
       "et": "",
-      "at": "",
+      "at": "3/7/2020 14:35",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -777,7 +777,7 @@
       "puerta": "",
       "ruta": "BRC",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
