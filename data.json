@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/07/2020 04:16",
+  "lastUpdate": "03/07/2020 04:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,7 +7,7 @@
       "vuelo": "1104",
       "st": "02/07/2020 23:30",
       "matricula": "N418LA",
-      "posicion": "54",
+      "posicion": "56",
       "et": "3/7/2020 04:40",
       "at": "",
       "term": "TCA",
@@ -26,7 +26,7 @@
       "vuelo": "412",
       "st": "03/07/2020 05:12",
       "matricula": "N308UP",
-      "posicion": "56",
+      "posicion": "50",
       "et": "3/7/2020 05:15",
       "at": "",
       "term": "TCA",
@@ -444,7 +444,7 @@
       "vuelo": "1104",
       "st": "03/07/2020 01:40",
       "matricula": "N418LA",
-      "posicion": "54",
+      "posicion": "56",
       "et": "",
       "at": "",
       "term": "TCA",
