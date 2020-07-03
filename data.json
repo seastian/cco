@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "03/07/2020 04:34",
+  "lastUpdate": "03/07/2020 04:41",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1104",
-      "st": "02/07/2020 23:30",
-      "matricula": "N418LA",
-      "posicion": "54",
-      "et": "3/7/2020 04:40",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "5X",
@@ -174,6 +155,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "AU",
+      "vuelo": "2281",
+      "st": "03/07/2020 16:35",
+      "matricula": "LVGIK",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "RER",
       "vuelo": "8111",
       "st": "02/07/2020 16:00",
@@ -302,6 +302,25 @@
       "ruta": "MIA",
       "via": "",
       "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "UC",
+      "vuelo": "1104",
+      "st": "02/07/2020 23:30",
+      "matricula": "N418LA",
+      "posicion": "54",
+      "et": "3/7/2020 04:40",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
     },
@@ -454,7 +473,7 @@
       "puerta": "",
       "ruta": "LAX",
       "via": "",
-      "remark": "DEM",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
