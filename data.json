@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/07/2020 07:50",
+  "lastUpdate": "03/07/2020 07:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -228,6 +228,25 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "59"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AU",
+      "vuelo": "2681",
+      "st": "03/07/2020 19:50",
+      "matricula": "LVCIH",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "BRC",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
