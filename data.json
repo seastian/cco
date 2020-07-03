@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/07/2020 08:41",
+  "lastUpdate": "03/07/2020 08:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -592,25 +592,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "H8",
-      "vuelo": "5917",
-      "st": "03/07/2020 11:00",
-      "matricula": "CCAZD",
-      "posicion": "06",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "027",
-      "chkTo": "030",
-      "puerta": "05",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "PRV",
       "vuelo": "CTA",
       "st": "03/07/2020 11:00",
@@ -624,6 +605,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "REC",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "H8",
+      "vuelo": "5917",
+      "st": "03/07/2020 11:00",
+      "matricula": "CCAZD",
+      "posicion": "06",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "027",
+      "chkTo": "030",
+      "puerta": "05",
+      "ruta": "LIM",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
