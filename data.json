@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/07/2020 11:18",
+  "lastUpdate": "03/07/2020 11:24",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -720,7 +720,7 @@
       "puerta": "05",
       "ruta": "LIM",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
