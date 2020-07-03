@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/07/2020 07:12",
+  "lastUpdate": "03/07/2020 07:18",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -738,6 +738,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MIA",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "KL",
+      "vuelo": "702",
+      "st": "03/07/2020 19:15",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "AMS",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
