@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/07/2020 20:04",
+  "lastUpdate": "03/07/2020 20:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -152,25 +152,6 @@
       "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AF",
-      "vuelo": "4142",
-      "st": "03/07/2020 08:10",
-      "matricula": "FHRBI",
-      "posicion": "11",
-      "et": "3/7/2020 08:20",
-      "at": "3/7/2020 08:09",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "CDG",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "12"
     },
     {
       "tipo": "arribo",
@@ -706,25 +687,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "PRV",
-      "vuelo": "BPO",
-      "st": "03/07/2020 18:10",
-      "matricula": "LVBPO",
-      "posicion": "42",
-      "et": "",
-      "at": "3/7/2020 18:12",
-      "term": "C",
-      "sector": "CPC",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "FDO",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "UC",
       "vuelo": "1105",
       "st": "03/07/2020 18:10",
@@ -740,6 +702,25 @@
       "ruta": "SCL",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "PRV",
+      "vuelo": "BPO",
+      "st": "03/07/2020 18:10",
+      "matricula": "LVBPO",
+      "posicion": "42",
+      "et": "",
+      "at": "3/7/2020 18:12",
+      "term": "C",
+      "sector": "CPC",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "FDO",
+      "via": "",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
