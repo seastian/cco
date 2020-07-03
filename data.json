@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/07/2020 22:48",
+  "lastUpdate": "02/07/2020 22:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -17,6 +17,25 @@
       "ruta": "VCP",
       "via": "",
       "remark": "EST",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AMS",
+      "vuelo": "8119",
+      "st": "02/07/2020 23:50",
+      "matricula": "CXMAX",
+      "posicion": "56B",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
@@ -498,7 +517,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
+      "vuelo": "H24",
       "st": "02/07/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -506,7 +525,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -517,7 +536,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24",
+      "vuelo": "H24N",
       "st": "02/07/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -525,7 +544,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "209",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -550,6 +569,25 @@
       "ruta": "SCL",
       "via": "",
       "remark": "EST",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AMS",
+      "vuelo": "7119",
+      "st": "03/07/2020 01:30",
+      "matricula": "CXMAX",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     },
     {
