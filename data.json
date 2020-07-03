@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/07/2020 04:41",
+  "lastUpdate": "03/07/2020 04:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -313,14 +313,14 @@
       "matricula": "N418LA",
       "posicion": "54",
       "et": "3/7/2020 04:40",
-      "at": "",
+      "at": "3/7/2020 04:41",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "DEM",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
