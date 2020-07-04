@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/07/2020 22:53",
+  "lastUpdate": "03/07/2020 22:59",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -445,15 +445,15 @@
       "st": "03/07/2020 22:40",
       "matricula": "TCLJG",
       "posicion": "54",
-      "et": "3/7/2020 22:41",
-      "at": "",
+      "et": "",
+      "at": "3/7/2020 22:58",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "ISL",
       "via": "DSS",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -649,25 +649,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1105",
-      "st": "03/07/2020 18:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "PRV",
       "vuelo": "BPO",
       "st": "03/07/2020 18:10",
@@ -683,6 +664,25 @@
       "ruta": "FDO",
       "via": "",
       "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1105",
+      "st": "03/07/2020 18:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
