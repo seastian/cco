@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/07/2020 22:27",
+  "lastUpdate": "03/07/2020 22:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -98,22 +98,22 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AU",
-      "vuelo": "2024",
-      "st": "03/07/2020 10:30",
-      "matricula": "LVGIQ",
-      "posicion": "",
+      "aerolinea": "PRV",
+      "vuelo": "CDK",
+      "st": "04/07/2020 10:30",
+      "matricula": "LVCDK",
+      "posicion": "41",
       "et": "",
       "at": "",
       "term": "C",
       "sector": "CAC",
       "cinta": "",
       "lF": "",
-      "ruta": "AEP",
+      "ruta": "GNR",
       "via": "",
-      "remark": "CON",
+      "remark": "HOR",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "4"
     },
     {
       "tipo": "arribo",
@@ -649,25 +649,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1105",
-      "st": "03/07/2020 18:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "PRV",
       "vuelo": "BPO",
       "st": "03/07/2020 18:10",
@@ -683,6 +664,25 @@
       "ruta": "FDO",
       "via": "",
       "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1105",
+      "st": "03/07/2020 18:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
