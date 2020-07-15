@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/07/2020 11:07",
+  "lastUpdate": "15/07/2020 11:13",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -617,7 +617,7 @@
       "matricula": "LVGIK",
       "posicion": "15B",
       "et": "",
-      "at": "",
+      "at": "15/7/2020 11:11",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -625,7 +625,7 @@
       "puerta": "21",
       "ruta": "ASU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -725,25 +725,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1103",
-      "st": "15/07/2020 22:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "CAN",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AA",
       "vuelo": "9708",
       "st": "15/07/2020 22:30",
@@ -759,6 +740,25 @@
       "ruta": "MIA",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1103",
+      "st": "15/07/2020 22:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "CAN",
       "sanidad": "NO"
     }
   ]
