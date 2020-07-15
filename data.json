@@ -1,6 +1,25 @@
 {
-  "lastUpdate": "15/07/2020 15:13",
+  "lastUpdate": "15/07/2020 15:19",
   "vuelos": [
+    {
+      "tipo": "arribo",
+      "aerolinea": "AU",
+      "vuelo": "2341",
+      "st": "15/07/2020 16:00",
+      "matricula": "LVGIK",
+      "posicion": "16B",
+      "et": "15/7/2020 15:40",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "95"
+    },
     {
       "tipo": "arribo",
       "aerolinea": "M3",
@@ -17,25 +36,6 @@
       "ruta": "VCP",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AU",
-      "vuelo": "2341",
-      "st": "15/07/2020 16:00",
-      "matricula": "LVGIK",
-      "posicion": "16B",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "HOR",
       "sanidad": "NO",
       "pax": ""
     },
