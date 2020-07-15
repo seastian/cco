@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/07/2020 11:19",
+  "lastUpdate": "15/07/2020 11:26",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -725,25 +725,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AA",
-      "vuelo": "9708",
-      "st": "15/07/2020 22:30",
-      "matricula": "N767AJ",
-      "posicion": "54",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "UC",
       "vuelo": "1103",
       "st": "15/07/2020 22:30",
@@ -759,6 +740,25 @@
       "ruta": "SCL",
       "via": "",
       "remark": "CAN",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AA",
+      "vuelo": "9708",
+      "st": "15/07/2020 22:30",
+      "matricula": "N767AJ",
+      "posicion": "54",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     }
   ]
