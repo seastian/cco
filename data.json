@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "15/07/2020 17:13",
+  "lastUpdate": "15/07/2020 17:19",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "GTI",
-      "vuelo": "033",
-      "st": "15/07/2020 20:45",
-      "matricula": "N492MC",
-      "posicion": "55",
-      "et": "15/7/2020 17:30",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "UC",
@@ -304,6 +285,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "95"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "GTI",
+      "vuelo": "033",
+      "st": "15/07/2020 20:45",
+      "matricula": "N492MC",
+      "posicion": "55",
+      "et": "15/7/2020 17:30",
+      "at": "15/7/2020 17:13",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "partida",
