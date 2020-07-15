@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/07/2020 10:28",
+  "lastUpdate": "15/07/2020 10:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -155,6 +155,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "LH",
+      "vuelo": "8264",
+      "st": "15/07/2020 22:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "FRA",
+      "via": "MVD",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "AMS",
       "vuelo": "8119",
       "st": "14/07/2020 23:50",
@@ -170,7 +189,7 @@
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -189,7 +208,7 @@
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -227,7 +246,7 @@
       "via": "GRU",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -535,6 +554,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "FAA",
+      "vuelo": "PF30",
+      "st": "15/07/2020 10:30",
+      "matricula": "LQJKE",
+      "posicion": "02",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "01",
+      "ruta": "EZE",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "KL",
       "vuelo": "702",
       "st": "15/07/2020 10:50",
@@ -645,6 +683,44 @@
       "ruta": "MIA",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AA",
+      "vuelo": "9708",
+      "st": "15/07/2020 22:30",
+      "matricula": "N767AJ",
+      "posicion": "54",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1103",
+      "st": "15/07/2020 22:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "CAN",
       "sanidad": "NO"
     }
   ]
