@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/07/2020 10:54",
+  "lastUpdate": "15/07/2020 11:00",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -598,7 +598,7 @@
       "matricula": "PHBHH",
       "posicion": "14",
       "et": "",
-      "at": "",
+      "at": "15/7/2020 10:57",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "211",
@@ -606,7 +606,7 @@
       "puerta": "19",
       "ruta": "AMS",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
