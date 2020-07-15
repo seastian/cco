@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/07/2020 10:41",
+  "lastUpdate": "15/07/2020 10:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -579,7 +579,7 @@
       "matricula": "LQJKE",
       "posicion": "02",
       "et": "",
-      "at": "",
+      "at": "15/7/2020 10:42",
       "term": "C",
       "sector": "",
       "chkFrom": "",
@@ -587,7 +587,7 @@
       "puerta": "01",
       "ruta": "EZE",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
