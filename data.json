@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/07/2020 18:15",
+  "lastUpdate": "15/07/2020 18:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -120,7 +120,7 @@
       "aerolinea": "AR",
       "vuelo": "1133",
       "st": "16/07/2020 03:40",
-      "matricula": "",
+      "matricula": "LVGIF",
       "posicion": "",
       "et": "",
       "at": "",
@@ -171,25 +171,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "KL",
-      "vuelo": "701",
-      "st": "15/07/2020 06:40",
-      "matricula": "PHBHH",
-      "posicion": "14",
-      "et": "15/7/2020 06:20",
-      "at": "15/7/2020 06:15",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "9",
-      "lF": "007",
-      "ruta": "AMS",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
