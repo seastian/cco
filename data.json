@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/07/2020 16:41",
+  "lastUpdate": "15/07/2020 16:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -313,35 +313,16 @@
       "matricula": "LVFUB",
       "posicion": "14A",
       "et": "15/7/2020 16:40",
-      "at": "",
+      "at": "15/7/2020 16:41",
       "term": "C",
       "sector": "CAC",
       "cinta": "",
       "lF": "",
       "ruta": "USH",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "95"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "QR",
-      "vuelo": "8155",
-      "st": "15/07/2020 04:50",
-      "matricula": "A7BFM",
-      "posicion": "54",
-      "et": "",
-      "at": "15/7/2020 04:44",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "DOH",
-      "via": "UIO",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
