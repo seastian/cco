@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/07/2020 12:41",
+  "lastUpdate": "15/07/2020 12:48",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -209,25 +209,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "M3",
-      "vuelo": "8492",
-      "st": "14/07/2020 23:45",
-      "matricula": "PRACO",
-      "posicion": "55",
-      "et": "15/7/2020 00:50",
-      "at": "15/7/2020 00:46",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
