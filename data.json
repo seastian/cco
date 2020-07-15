@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/07/2020 15:50",
+  "lastUpdate": "15/07/2020 15:56",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -27,7 +27,7 @@
       "st": "15/07/2020 17:25",
       "matricula": "LVFUB",
       "posicion": "",
-      "et": "",
+      "et": "15/7/2020 16:40",
       "at": "",
       "term": "C",
       "sector": "CAC",
@@ -35,9 +35,9 @@
       "lF": "",
       "ruta": "USH",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "95"
     },
     {
       "tipo": "arribo",
@@ -611,25 +611,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "H24N",
-      "st": "15/07/2020 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "209",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "QTR",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "JJ",
       "vuelo": "H24",
       "st": "15/07/2020 23:59",
@@ -641,6 +622,25 @@
       "sector": "AP",
       "chkFrom": "041",
       "chkTo": "053",
+      "puerta": "",
+      "ruta": "QTR",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "H24N",
+      "st": "15/07/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "209",
+      "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
       "via": "",
