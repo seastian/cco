@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/07/2020 23:13",
+  "lastUpdate": "15/07/2020 23:19",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -41,6 +41,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "1973",
+      "st": "16/07/2020 00:40",
+      "matricula": "CCBGD",
+      "posicion": "04",
+      "et": "15/7/2020 23:40",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "0"
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "M3",
       "vuelo": "8492",
       "st": "15/07/2020 23:45",
@@ -57,25 +76,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1973",
-      "st": "16/07/2020 00:40",
-      "matricula": "CCBGD",
-      "posicion": "04",
-      "et": "15/7/2020 23:48",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
