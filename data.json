@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/07/2020 21:19",
+  "lastUpdate": "15/07/2020 21:25",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -342,25 +342,6 @@
       "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1878",
-      "st": "15/07/2020 09:00",
-      "matricula": "LVFUB",
-      "posicion": "16B",
-      "et": "",
-      "at": "15/7/2020 09:23",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "24",
-      "ruta": "USH",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
