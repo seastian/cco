@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/07/2020 17:52",
+  "lastUpdate": "16/07/2020 17:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -384,25 +384,6 @@
     {
       "tipo": "partida",
       "aerolinea": "M3",
-      "vuelo": "8493",
-      "st": "16/07/2020 15:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "M3",
       "vuelo": "8440",
       "st": "16/07/2020 15:10",
       "matricula": "",
@@ -415,6 +396,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MIA",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "8493",
+      "st": "16/07/2020 15:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "VCP",
       "via": "",
       "remark": "CON",
       "sanidad": "NO"
