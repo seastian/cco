@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/07/2020 12:18",
+  "lastUpdate": "16/07/2020 12:24",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -459,6 +459,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "PRV",
+      "vuelo": "313AG",
+      "st": "16/07/2020 14:10",
+      "matricula": "N313AG",
+      "posicion": "50A",
+      "et": "",
+      "at": "16/7/2020 12:01",
+      "term": "C",
+      "sector": "CPC",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "RCU",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "AOG",
       "vuelo": "500",
       "st": "16/07/2020 13:00",
@@ -493,25 +512,6 @@
       "ruta": "MVD",
       "via": "",
       "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "PRV",
-      "vuelo": "313AG",
-      "st": "16/07/2020 14:10",
-      "matricula": "N313AG",
-      "posicion": "50A",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPC",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "RCU",
-      "via": "",
-      "remark": "",
       "sanidad": "NO"
     },
     {
@@ -593,7 +593,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24",
+      "vuelo": "H24N",
       "st": "16/07/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -601,7 +601,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "209",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -631,7 +631,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
+      "vuelo": "H24",
       "st": "16/07/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -639,7 +639,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
