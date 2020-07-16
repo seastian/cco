@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/07/2020 02:50",
+  "lastUpdate": "16/07/2020 02:56",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -389,14 +389,14 @@
       "matricula": "LVGIF",
       "posicion": "14",
       "et": "16/7/2020 02:45",
-      "at": "",
+      "at": "16/7/2020 02:54",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "9",
+      "lF": "009",
       "ruta": "MAD",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "77"
     },
@@ -655,7 +655,7 @@
       "matricula": "CXMAS",
       "posicion": "50B",
       "et": "",
-      "at": "",
+      "at": "16/7/2020 01:30",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -663,7 +663,7 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "CON",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
