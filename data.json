@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/07/2020 11:28",
+  "lastUpdate": "16/07/2020 11:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -117,9 +117,9 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "101",
-      "st": "15/07/2020 23:30",
+      "aerolinea": "UC",
+      "vuelo": "1104",
+      "st": "16/07/2020 23:30",
       "matricula": "",
       "posicion": "",
       "et": "",
@@ -128,30 +128,11 @@
       "sector": "",
       "cinta": "",
       "lF": "",
-      "ruta": "MVD",
+      "ruta": "MIA",
       "via": "",
-      "remark": "CON",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "8119",
-      "st": "15/07/2020 23:30",
-      "matricula": "CXMAS",
-      "posicion": "50B",
-      "et": "",
-      "at": "15/7/2020 23:30",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -664,6 +645,25 @@
       "ruta": "LHR",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1406",
+      "st": "16/07/2020 23:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "LAX",
+      "via": "",
+      "remark": "CAN",
       "sanidad": "NO"
     }
   ]
