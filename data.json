@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/07/2020 10:11",
+  "lastUpdate": "16/07/2020 10:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -227,7 +227,7 @@
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -246,7 +246,7 @@
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -303,7 +303,7 @@
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -341,7 +341,7 @@
       "via": "MVD",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
