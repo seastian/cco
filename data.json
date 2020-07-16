@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/07/2020 23:31",
+  "lastUpdate": "15/07/2020 23:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -103,7 +103,7 @@
       "st": "16/07/2020 08:20",
       "matricula": "",
       "posicion": "",
-      "et": "",
+      "et": "16/7/2020 07:46",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -111,7 +111,7 @@
       "lF": "",
       "ruta": "LHR",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
