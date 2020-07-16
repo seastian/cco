@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/07/2020 01:13",
+  "lastUpdate": "16/07/2020 01:20",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -25,7 +25,7 @@
       "aerolinea": "5X",
       "vuelo": "410",
       "st": "16/07/2020 05:20",
-      "matricula": "",
+      "matricula": "N310UP",
       "posicion": "",
       "et": "",
       "at": "",
@@ -611,6 +611,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "LA",
+      "vuelo": "1973",
+      "st": "16/07/2020 02:40",
+      "matricula": "CCBGD",
+      "posicion": "04",
+      "et": "",
+      "at": "16/7/2020 01:13",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "03",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "M3",
       "vuelo": "8492",
       "st": "16/07/2020 02:10",
@@ -625,7 +644,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "EST",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -662,25 +681,6 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MVD",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LA",
-      "vuelo": "1973",
-      "st": "16/07/2020 02:40",
-      "matricula": "CCBGD",
-      "posicion": "04",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "03",
-      "ruta": "SCL",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
