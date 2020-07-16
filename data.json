@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/07/2020 05:46",
+  "lastUpdate": "16/07/2020 05:53",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -27,7 +27,7 @@
       "st": "16/07/2020 08:20",
       "matricula": "GZBKB",
       "posicion": "",
-      "et": "16/7/2020 07:46",
+      "et": "16/7/2020 07:30",
       "at": "",
       "term": "TCA",
       "sector": "",
