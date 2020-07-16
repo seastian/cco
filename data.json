@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "16/07/2020 15:58",
+  "lastUpdate": "16/07/2020 16:05",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "313AG",
-      "st": "16/07/2020 18:00",
-      "matricula": "N313AG",
-      "posicion": "43",
-      "et": "16/7/2020 16:00",
-      "at": "",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "FDO",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "0"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "2D",
@@ -285,6 +266,25 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "313AG",
+      "st": "16/07/2020 18:00",
+      "matricula": "N313AG",
+      "posicion": "43",
+      "et": "16/7/2020 16:00",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "FDO",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "0"
     },
     {
       "tipo": "partida",
