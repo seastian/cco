@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/07/2020 01:58",
+  "lastUpdate": "16/07/2020 02:05",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -156,8 +156,8 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "8491",
-      "st": "15/07/2020 14:00",
+      "vuelo": "8493",
+      "st": "16/07/2020 14:00",
       "matricula": "",
       "posicion": "",
       "et": "",
@@ -168,7 +168,26 @@
       "lF": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "CON",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "M3",
+      "vuelo": "8440",
+      "st": "16/07/2020 14:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "VCP",
+      "via": "",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
@@ -630,6 +649,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "7119",
+      "st": "16/07/2020 02:00",
+      "matricula": "CXMAS",
+      "posicion": "50B",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "LA",
       "vuelo": "1973",
       "st": "16/07/2020 02:40",
@@ -645,25 +683,6 @@
       "ruta": "SCL",
       "via": "",
       "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "7119",
-      "st": "16/07/2020 02:00",
-      "matricula": "CXMAS",
-      "posicion": "50B",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "HOR",
       "sanidad": "NO"
     },
     {
