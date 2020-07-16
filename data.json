@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/07/2020 06:49",
+  "lastUpdate": "16/07/2020 06:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -588,25 +588,6 @@
       "ruta": "SCL",
       "via": "",
       "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "5X",
-      "vuelo": "411",
-      "st": "16/07/2020 06:55",
-      "matricula": "N310UP",
-      "posicion": "54",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "HOR",
       "sanidad": "NO"
     },
     {
