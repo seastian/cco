@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/07/2020 10:24",
+  "lastUpdate": "16/07/2020 10:30",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -45,7 +45,7 @@
       "vuelo": "501",
       "st": "16/07/2020 12:00",
       "matricula": "CXLSS",
-      "posicion": "",
+      "posicion": "51A",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -130,7 +130,7 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "",
+      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
