@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/07/2020 12:30",
+  "lastUpdate": "16/07/2020 12:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -302,25 +302,6 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "TK",
-      "vuelo": "6170",
-      "st": "16/07/2020 01:10",
-      "matricula": "TCLJG",
-      "posicion": "05",
-      "et": "",
-      "at": "16/7/2020 00:33",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "04",
-      "ruta": "ISL",
-      "via": "DSS",
       "remark": "PAR",
       "sanidad": "NO"
     },
