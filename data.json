@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/07/2020 13:34",
+  "lastUpdate": "16/07/2020 13:40",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -529,6 +529,25 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1104",
+      "st": "17/07/2020 01:40",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
