@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/07/2020 22:41",
+  "lastUpdate": "15/07/2020 22:48",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -342,25 +342,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "FAA",
-      "vuelo": "PF30",
-      "st": "15/07/2020 10:30",
-      "matricula": "LQJKE",
-      "posicion": "02",
-      "et": "",
-      "at": "15/7/2020 10:42",
-      "term": "C",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "01",
-      "ruta": "EZE",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
