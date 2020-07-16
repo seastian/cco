@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/07/2020 17:14",
+  "lastUpdate": "16/07/2020 17:20",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -170,7 +170,7 @@
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
