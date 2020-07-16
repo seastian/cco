@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/07/2020 23:44",
+  "lastUpdate": "15/07/2020 23:50",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -101,7 +101,7 @@
       "aerolinea": "BA",
       "vuelo": "245F",
       "st": "16/07/2020 08:20",
-      "matricula": "",
+      "matricula": "GZBKB",
       "posicion": "",
       "et": "16/7/2020 07:46",
       "at": "",
