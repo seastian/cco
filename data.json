@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "16/07/2020 02:43",
+  "lastUpdate": "16/07/2020 02:50",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1133",
-      "st": "16/07/2020 03:40",
-      "matricula": "LVGIF",
-      "posicion": "14",
-      "et": "16/7/2020 02:45",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "77"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "5X",
@@ -399,6 +380,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1133",
+      "st": "16/07/2020 03:40",
+      "matricula": "LVGIF",
+      "posicion": "14",
+      "et": "16/7/2020 02:45",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MAD",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "77"
     },
     {
       "tipo": "partida",
