@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15/07/2020 22:35",
+  "lastUpdate": "15/07/2020 22:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -307,25 +307,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "TK",
-      "vuelo": "6169",
-      "st": "15/07/2020 22:40",
-      "matricula": "TCLJG",
-      "posicion": "05",
-      "et": "15/7/2020 22:19",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "ISL",
-      "via": "DSS",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "0"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "LH",
       "vuelo": "8264",
       "st": "15/07/2020 22:30",
@@ -342,6 +323,25 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "TK",
+      "vuelo": "6169",
+      "st": "15/07/2020 22:40",
+      "matricula": "TCLJG",
+      "posicion": "05",
+      "et": "",
+      "at": "15/7/2020 22:37",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "ISL",
+      "via": "DSS",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "0"
     },
     {
       "tipo": "partida",
@@ -511,7 +511,7 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
