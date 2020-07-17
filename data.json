@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/07/2020 02:45",
+  "lastUpdate": "17/07/2020 02:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -313,14 +313,14 @@
       "matricula": "LVGHQ",
       "posicion": "14",
       "et": "17/7/2020 02:35",
-      "at": "",
+      "at": "17/7/2020 02:49",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "9",
+      "lF": "009",
       "ruta": "MAD",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "122"
     },
