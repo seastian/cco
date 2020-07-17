@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/07/2020 02:27",
+  "lastUpdate": "17/07/2020 02:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -26,8 +26,8 @@
       "vuelo": "412",
       "st": "17/07/2020 05:12",
       "matricula": "N352UP",
-      "posicion": "",
-      "et": "",
+      "posicion": "54",
+      "et": "17/7/2020 05:24",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -35,7 +35,7 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
