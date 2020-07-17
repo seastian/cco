@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/07/2020 13:07",
+  "lastUpdate": "17/07/2020 13:13",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -60,6 +60,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "WWS",
+      "st": "17/07/2020 19:00",
+      "matricula": "P4WWS",
+      "posicion": "45",
+      "et": "17/7/2020 15:10",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "YUL",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "0"
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1024",
       "st": "17/07/2020 15:25",
@@ -76,25 +95,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "WWS",
-      "st": "17/07/2020 19:00",
-      "matricula": "P4WWS",
-      "posicion": "45",
-      "et": "17/7/2020 15:30",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "YUL",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -478,25 +478,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "M3",
-      "vuelo": "8494",
-      "st": "17/07/2020 02:10",
-      "matricula": "PRACO",
-      "posicion": "54",
-      "et": "17/7/2020 00:35",
-      "at": "17/7/2020 01:10",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AMS",
       "vuelo": "7119",
       "st": "17/07/2020 02:00",
@@ -579,7 +560,7 @@
       "matricula": "CXLSS",
       "posicion": "50B",
       "et": "",
-      "at": "",
+      "at": "17/7/2020 13:11",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -587,7 +568,7 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -891,6 +872,25 @@
       "puerta": "",
       "ruta": "QTR",
       "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "TK",
+      "vuelo": "6170",
+      "st": "18/07/2020 01:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "ISL",
+      "via": "DSS",
       "remark": "HOR",
       "sanidad": "NO"
     }
