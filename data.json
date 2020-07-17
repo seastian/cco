@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16/07/2020 22:40",
+  "lastUpdate": "16/07/2020 22:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -387,7 +387,7 @@
       "vuelo": "7919",
       "st": "16/07/2020 23:30",
       "matricula": "CXMAX",
-      "posicion": "",
+      "posicion": "50B",
       "et": "",
       "at": "",
       "term": "TCA",
