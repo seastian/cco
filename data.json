@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "16/07/2020 23:37",
+  "lastUpdate": "16/07/2020 23:43",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "M3",
-      "vuelo": "8494",
-      "st": "16/07/2020 23:45",
-      "matricula": "PRACO",
-      "posicion": "54",
-      "et": "16/7/2020 23:46",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AR",
@@ -268,6 +249,25 @@
       "pax": ""
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "M3",
+      "vuelo": "8494",
+      "st": "16/07/2020 23:45",
+      "matricula": "PRACO",
+      "posicion": "54",
+      "et": "16/7/2020 23:46",
+      "at": "16/7/2020 23:41",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "VCP",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
       "tipo": "partida",
       "aerolinea": "AOG",
       "vuelo": "424",
@@ -389,7 +389,7 @@
       "matricula": "CXMAX",
       "posicion": "50B",
       "et": "",
-      "at": "",
+      "at": "16/7/2020 23:35",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -397,7 +397,7 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -501,7 +501,7 @@
       "vuelo": "7119",
       "st": "17/07/2020 02:00",
       "matricula": "CXMAS",
-      "posicion": "",
+      "posicion": "51A",
       "et": "",
       "at": "",
       "term": "TCA",
