@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "17/07/2020 17:45",
+  "lastUpdate": "17/07/2020 17:52",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AU",
-      "vuelo": "2027",
-      "st": "17/07/2020 18:00",
-      "matricula": "LVCET",
-      "posicion": "25A",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "AEP",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "KL",
@@ -435,6 +416,25 @@
       "ruta": "AEP",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AU",
+      "vuelo": "2027",
+      "st": "17/07/2020 18:00",
+      "matricula": "LVCET",
+      "posicion": "25A",
+      "et": "",
+      "at": "17/7/2020 17:47",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "AEP",
+      "via": "",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
