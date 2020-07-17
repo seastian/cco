@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/07/2020 07:54",
+  "lastUpdate": "17/07/2020 08:00",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -795,6 +795,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MIA",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "426",
+      "st": "17/07/2020 20:00",
+      "matricula": "CXCLS",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
