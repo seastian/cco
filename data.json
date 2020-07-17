@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/07/2020 09:37",
+  "lastUpdate": "17/07/2020 09:43",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -92,7 +92,7 @@
       "lF": "",
       "ruta": "CBB",
       "via": "VVI",
-      "remark": "",
+      "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
     },
