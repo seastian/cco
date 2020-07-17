@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "17/07/2020 13:13",
+  "lastUpdate": "17/07/2020 13:20",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1959",
-      "st": "17/07/2020 14:00",
-      "matricula": "CCBGP",
-      "posicion": "09",
-      "et": "17/7/2020 13:20",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "0"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "M3",
@@ -475,6 +456,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "1959",
+      "st": "17/07/2020 14:00",
+      "matricula": "CCBGP",
+      "posicion": "09",
+      "et": "17/7/2020 13:20",
+      "at": "17/7/2020 13:19",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "0"
     },
     {
       "tipo": "partida",
