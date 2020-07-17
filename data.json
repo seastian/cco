@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/07/2020 02:52",
+  "lastUpdate": "17/07/2020 02:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -327,25 +327,6 @@
     {
       "tipo": "partida",
       "aerolinea": "M3",
-      "vuelo": "8493",
-      "st": "16/07/2020 15:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "M3",
       "vuelo": "8440",
       "st": "16/07/2020 15:10",
       "matricula": "",
@@ -358,6 +339,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MIA",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "8493",
+      "st": "16/07/2020 15:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "VCP",
       "via": "",
       "remark": "CON",
       "sanidad": "NO"
@@ -522,7 +522,7 @@
       "matricula": "N540LA",
       "posicion": "55",
       "et": "17/7/2020 02:30",
-      "at": "",
+      "at": "17/7/2020 02:57",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -530,7 +530,7 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "DEM",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
