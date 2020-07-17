@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/07/2020 19:26",
+  "lastUpdate": "17/07/2020 19:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -103,7 +103,7 @@
       "st": "18/07/2020 07:25",
       "matricula": "",
       "posicion": "",
-      "et": "",
+      "et": "18/7/2020 07:05",
       "at": "",
       "term": "A",
       "sector": "",
@@ -111,9 +111,9 @@
       "lF": "",
       "ruta": "MAD",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "39"
     },
     {
       "tipo": "arribo",
@@ -611,25 +611,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "526",
-      "st": "17/07/2020 22:00",
-      "matricula": "CXCLS",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "LA",
       "vuelo": "1981",
       "st": "17/07/2020 22:00",
@@ -645,6 +626,25 @@
       "ruta": "SCL",
       "via": "",
       "remark": "CAN",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "526",
+      "st": "17/07/2020 22:00",
+      "matricula": "CXCLS",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     },
     {
@@ -804,8 +804,8 @@
       "aerolinea": "5X",
       "vuelo": "413",
       "st": "18/07/2020 06:05",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "N352UP",
+      "posicion": "54",
       "et": "",
       "at": "",
       "term": "TCA",
