@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/07/2020 12:22",
+  "lastUpdate": "17/07/2020 12:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -484,14 +484,14 @@
       "matricula": "CXLSS",
       "posicion": "50B",
       "et": "",
-      "at": "",
+      "at": "17/7/2020 12:22",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "CON",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
