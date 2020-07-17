@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/07/2020 13:01",
+  "lastUpdate": "17/07/2020 13:07",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -326,25 +326,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1104",
-      "st": "16/07/2020 23:30",
-      "matricula": "N540LA",
-      "posicion": "55",
-      "et": "",
-      "at": "17/7/2020 01:02",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1133",
       "st": "17/07/2020 02:50",
@@ -606,7 +587,7 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
