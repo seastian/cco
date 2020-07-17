@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/07/2020 00:15",
+  "lastUpdate": "17/07/2020 00:21",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -133,25 +133,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "501",
-      "st": "16/07/2020 12:00",
-      "matricula": "CXLSS",
-      "posicion": "51A",
-      "et": "16/7/2020 12:25",
-      "at": "16/7/2020 12:15",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
