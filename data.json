@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/07/2020 08:52",
+  "lastUpdate": "17/07/2020 08:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -497,25 +497,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AMS",
-      "vuelo": "7919",
-      "st": "16/07/2020 23:30",
-      "matricula": "CXMAX",
-      "posicion": "50B",
-      "et": "",
-      "at": "16/7/2020 23:35",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "UC",
       "vuelo": "1406",
       "st": "16/07/2020 23:30",
@@ -531,6 +512,25 @@
       "ruta": "LAX",
       "via": "",
       "remark": "CAN",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AMS",
+      "vuelo": "7919",
+      "st": "16/07/2020 23:30",
+      "matricula": "CXMAX",
+      "posicion": "50B",
+      "et": "",
+      "at": "16/7/2020 23:35",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -833,6 +833,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MVD",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "KL",
+      "vuelo": "702",
+      "st": "17/07/2020 20:55",
+      "matricula": "PHBHP",
+      "posicion": "15",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "20",
+      "ruta": "AMS",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
