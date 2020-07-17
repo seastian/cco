@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/07/2020 03:23",
+  "lastUpdate": "17/07/2020 03:29",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -186,6 +186,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "SCL",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1024",
+      "st": "17/07/2020 15:25",
+      "matricula": "LVGOO",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "AEP",
       "via": "",
       "remark": "",
       "sanidad": "NO",
