@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/07/2020 15:45",
+  "lastUpdate": "17/07/2020 15:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -554,25 +554,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "OB",
-      "vuelo": "2709",
-      "st": "17/07/2020 13:40",
-      "matricula": "CP2880",
-      "posicion": "10",
-      "et": "17/7/2020 16:00",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "027",
-      "chkTo": "032",
-      "puerta": "10",
-      "ruta": "VVI",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "LA",
       "vuelo": "1959",
       "st": "17/07/2020 16:00",
@@ -588,6 +569,25 @@
       "ruta": "SCL",
       "via": "",
       "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "OB",
+      "vuelo": "2709",
+      "st": "17/07/2020 13:40",
+      "matricula": "CP2880",
+      "posicion": "10",
+      "et": "17/7/2020 16:00",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "027",
+      "chkTo": "032",
+      "puerta": "10",
+      "ruta": "VVI",
+      "via": "",
+      "remark": "DEM",
       "sanidad": "NO"
     },
     {
