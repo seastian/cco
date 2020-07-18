@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/07/2020 03:01",
+  "lastUpdate": "18/07/2020 03:07",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -95,25 +95,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "WWS",
-      "st": "17/07/2020 15:10",
-      "matricula": "P4WWS",
-      "posicion": "45",
-      "et": "",
-      "at": "17/7/2020 15:04",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "YUL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
