@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/07/2020 10:22",
+  "lastUpdate": "18/07/2020 10:29",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -93,25 +93,6 @@
       "ruta": "MEC",
       "via": "",
       "remark": "HOR",
-      "sanidad": "NO",
-      "pax": "0"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "TK",
-      "vuelo": "6169",
-      "st": "17/07/2020 22:40",
-      "matricula": "TCJJJ",
-      "posicion": "09",
-      "et": "17/7/2020 22:21",
-      "at": "17/7/2020 22:25",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "ISL",
-      "via": "DSS",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
     },
