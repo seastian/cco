@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/07/2020 08:01",
+  "lastUpdate": "18/07/2020 08:07",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -231,25 +231,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "426",
-      "st": "17/07/2020 20:00",
-      "matricula": "CXCLS",
-      "posicion": "51A",
-      "et": "",
-      "at": "17/7/2020 20:02",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "KL",
       "vuelo": "702",
       "st": "17/07/2020 20:55",
@@ -263,25 +244,6 @@
       "chkTo": "",
       "puerta": "14",
       "ruta": "AMS",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "526",
-      "st": "17/07/2020 22:00",
-      "matricula": "CXCLS",
-      "posicion": "51A",
-      "et": "",
-      "at": "17/7/2020 22:13",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -303,6 +265,25 @@
       "ruta": "SCL",
       "via": "",
       "remark": "CAN",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "526",
+      "st": "17/07/2020 22:00",
+      "matricula": "CXCLS",
+      "posicion": "51A",
+      "et": "",
+      "at": "17/7/2020 22:13",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
