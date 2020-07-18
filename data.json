@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/07/2020 23:07",
+  "lastUpdate": "17/07/2020 23:13",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -74,25 +74,6 @@
       "ruta": "LHR",
       "via": "",
       "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AU",
-      "vuelo": "2021",
-      "st": "17/07/2020 11:25",
-      "matricula": "LVCID",
-      "posicion": "23A",
-      "et": "",
-      "at": "17/7/2020 11:12",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "AEP",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
