@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/07/2020 01:43",
+  "lastUpdate": "18/07/2020 01:50",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -303,7 +303,7 @@
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -341,7 +341,7 @@
       "via": "DSS",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -687,6 +687,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "8496",
+      "st": "18/07/2020 02:10",
+      "matricula": "PRABD",
+      "posicion": "55",
+      "et": "",
+      "at": "18/7/2020 01:48",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "AMS",
       "vuelo": "7119",
       "st": "18/07/2020 02:00",
@@ -700,25 +719,6 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MVD",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "M3",
-      "vuelo": "8496",
-      "st": "18/07/2020 02:10",
-      "matricula": "PRABD",
-      "posicion": "55",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
