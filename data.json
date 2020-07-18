@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/07/2020 19:37",
+  "lastUpdate": "18/07/2020 19:44",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -55,25 +55,6 @@
       "ruta": "BOG",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "BA",
-      "vuelo": "245F",
-      "st": "18/07/2020 08:20",
-      "matricula": "GZBKP",
-      "posicion": "11",
-      "et": "18/7/2020 07:35",
-      "at": "18/7/2020 07:38",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "LHR",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
