@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "17/07/2020 23:44",
+  "lastUpdate": "17/07/2020 23:51",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "M3",
-      "vuelo": "8496",
-      "st": "17/07/2020 23:45",
-      "matricula": "PRABD",
-      "posicion": "55",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "IB",
@@ -397,6 +378,25 @@
       "ruta": "MVD",
       "via": "",
       "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "M3",
+      "vuelo": "8496",
+      "st": "17/07/2020 23:45",
+      "matricula": "PRABD",
+      "posicion": "55",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "VCP",
+      "via": "",
+      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
