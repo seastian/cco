@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/07/2020 21:00",
+  "lastUpdate": "17/07/2020 21:07",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -434,28 +434,9 @@
       "lF": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "",
+      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "QR",
-      "vuelo": "8157",
-      "st": "17/07/2020 09:15",
-      "matricula": "A7BFH",
-      "posicion": "55",
-      "et": "17/7/2020 09:00",
-      "at": "17/7/2020 09:02",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "UIO",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
