@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/07/2020 14:59",
+  "lastUpdate": "18/07/2020 15:05",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -131,6 +131,25 @@
       "ruta": "SCL",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "1984",
+      "st": "18/07/2020 15:00",
+      "matricula": "CCBGO",
+      "posicion": "03",
+      "et": "18/7/2020 15:16",
+      "at": "18/7/2020 15:05",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
