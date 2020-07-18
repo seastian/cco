@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/07/2020 19:12",
+  "lastUpdate": "18/07/2020 19:18",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -57,25 +57,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "IB",
-      "vuelo": "6841",
-      "st": "18/07/2020 07:25",
-      "matricula": "ECNIG",
-      "posicion": "09",
-      "et": "18/7/2020 07:05",
-      "at": "18/7/2020 07:13",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "007",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "39"
     },
     {
       "tipo": "arribo",
