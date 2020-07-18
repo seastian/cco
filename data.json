@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/07/2020 22:11",
+  "lastUpdate": "17/07/2020 22:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -25,8 +25,8 @@
       "aerolinea": "M3",
       "vuelo": "8496",
       "st": "17/07/2020 23:45",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "PRABD",
+      "posicion": "55",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -611,6 +611,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "526",
+      "st": "17/07/2020 22:00",
+      "matricula": "CXCLS",
+      "posicion": "51A",
+      "et": "",
+      "at": "17/7/2020 22:13",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "LA",
       "vuelo": "1981",
       "st": "17/07/2020 22:00",
@@ -626,25 +645,6 @@
       "ruta": "SCL",
       "via": "",
       "remark": "CAN",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "526",
-      "st": "17/07/2020 22:00",
-      "matricula": "CXCLS",
-      "posicion": "51A",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "CER",
       "sanidad": "NO"
     },
     {
