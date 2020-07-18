@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "18/07/2020 10:55",
+  "lastUpdate": "18/07/2020 11:01",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "BES",
-      "st": "18/07/2020 11:00",
-      "matricula": "LVBES",
-      "posicion": "H15",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "DOT",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO",
-      "pax": "0"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "M3",
@@ -171,6 +152,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "BES",
+      "st": "18/07/2020 11:00",
+      "matricula": "LVBES",
+      "posicion": "H15",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "DOT",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO",
+      "pax": "0"
     },
     {
       "tipo": "partida",
