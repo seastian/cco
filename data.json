@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/07/2020 07:48",
+  "lastUpdate": "18/07/2020 07:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -74,25 +74,6 @@
       "ruta": "VCP",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AU",
-      "vuelo": "2025",
-      "st": "17/07/2020 17:25",
-      "matricula": "LVCIF",
-      "posicion": "24A",
-      "et": "",
-      "at": "17/7/2020 19:50",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "AEP",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
