@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/07/2020 02:09",
+  "lastUpdate": "18/07/2020 02:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -402,25 +402,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "LA",
-      "vuelo": "1959",
-      "st": "17/07/2020 16:00",
-      "matricula": "CCBGP",
-      "posicion": "09",
-      "et": "",
-      "at": "17/7/2020 14:38",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "09",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "OB",
       "vuelo": "2709",
       "st": "17/07/2020 13:40",
@@ -434,6 +415,25 @@
       "chkTo": "032",
       "puerta": "10",
       "ruta": "VVI",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LA",
+      "vuelo": "1959",
+      "st": "17/07/2020 16:00",
+      "matricula": "CCBGP",
+      "posicion": "09",
+      "et": "",
+      "at": "17/7/2020 14:38",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "09",
+      "ruta": "SCL",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -701,7 +701,7 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
