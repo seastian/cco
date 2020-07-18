@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/07/2020 05:46",
+  "lastUpdate": "18/07/2020 05:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -124,25 +124,6 @@
       "posicion": "24A",
       "et": "",
       "at": "17/7/2020 19:50",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "AEP",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AU",
-      "vuelo": "2027",
-      "st": "17/07/2020 18:00",
-      "matricula": "LVCET",
-      "posicion": "25A",
-      "et": "",
-      "at": "17/7/2020 17:47",
       "term": "C",
       "sector": "CAC",
       "cinta": "",
