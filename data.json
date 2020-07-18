@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17/07/2020 23:57",
+  "lastUpdate": "18/07/2020 00:03",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -682,7 +682,7 @@
       "puerta": "",
       "ruta": "QTR",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -701,7 +701,7 @@
       "puerta": "",
       "ruta": "QTR",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -720,7 +720,7 @@
       "puerta": "",
       "ruta": "QTR",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -814,6 +814,25 @@
       "chkTo": "081",
       "puerta": "10",
       "ruta": "MIA",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "PRV",
+      "vuelo": "WWS",
+      "st": "18/07/2020 12:00",
+      "matricula": "P4WWS",
+      "posicion": "45",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "JRO",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
