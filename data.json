@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "18/07/2020 07:03",
+  "lastUpdate": "18/07/2020 07:09",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "IB",
-      "vuelo": "6841",
-      "st": "18/07/2020 07:25",
-      "matricula": "ECNIG",
-      "posicion": "09",
-      "et": "18/7/2020 07:05",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "007",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "39"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "BA",
@@ -136,25 +117,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "502",
-      "st": "17/07/2020 19:10",
-      "matricula": "CXCLS",
-      "posicion": "51A",
-      "et": "",
-      "at": "17/7/2020 19:05",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "LA",
       "vuelo": "1981",
       "st": "17/07/2020 20:00",
@@ -266,6 +228,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "IB",
+      "vuelo": "6841",
+      "st": "18/07/2020 07:25",
+      "matricula": "ECNIG",
+      "posicion": "09",
+      "et": "18/7/2020 07:05",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "8",
+      "lF": "007",
+      "ruta": "MAD",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "39"
     },
     {
       "tipo": "partida",
