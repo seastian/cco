@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/07/2020 07:09",
+  "lastUpdate": "18/07/2020 07:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -237,14 +237,14 @@
       "matricula": "ECNIG",
       "posicion": "09",
       "et": "18/7/2020 07:05",
-      "at": "",
+      "at": "18/7/2020 07:13",
       "term": "A",
       "sector": "",
       "cinta": "8",
       "lF": "007",
       "ruta": "MAD",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "39"
     },
