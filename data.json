@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/07/2020 07:55",
+  "lastUpdate": "18/07/2020 08:01",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -79,22 +79,22 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1981",
-      "st": "17/07/2020 20:00",
-      "matricula": "",
-      "posicion": "",
+      "aerolinea": "PRV",
+      "vuelo": "CAZ",
+      "st": "18/07/2020 20:00",
+      "matricula": "LVCAZ",
+      "posicion": "H14",
       "et": "",
       "at": "",
-      "term": "TCA",
+      "term": "A",
       "sector": "",
       "cinta": "",
       "lF": "",
-      "ruta": "MIA",
+      "ruta": "MEC",
       "via": "",
-      "remark": "CAN",
+      "remark": "HOR",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
