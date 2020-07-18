@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/07/2020 13:48",
+  "lastUpdate": "18/07/2020 13:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -149,25 +149,6 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "M3",
-      "vuelo": "8496",
-      "st": "18/07/2020 02:10",
-      "matricula": "PRABD",
-      "posicion": "55",
-      "et": "",
-      "at": "18/7/2020 01:48",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
