@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/07/2020 02:54",
+  "lastUpdate": "18/07/2020 03:01",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -79,6 +79,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "1984",
+      "st": "18/07/2020 15:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "PRV",
       "vuelo": "WWS",
       "st": "17/07/2020 15:10",
@@ -95,25 +114,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1024",
-      "st": "17/07/2020 15:25",
-      "matricula": "LVGOO",
-      "posicion": "55A",
-      "et": "",
-      "at": "17/7/2020 14:55",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "AEP",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
