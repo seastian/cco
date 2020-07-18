@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/07/2020 20:47",
+  "lastUpdate": "18/07/2020 20:53",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -130,7 +130,7 @@
       "lF": "",
       "ruta": "MEC",
       "via": "",
-      "remark": "HOR",
+      "remark": "DES",
       "sanidad": "NO",
       "pax": "0"
     },
