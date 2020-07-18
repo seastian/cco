@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/07/2020 12:31",
+  "lastUpdate": "18/07/2020 12:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -136,25 +136,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "TK",
-      "vuelo": "6170",
-      "st": "18/07/2020 01:10",
-      "matricula": "TCJJJ",
-      "posicion": "09",
-      "et": "",
-      "at": "18/7/2020 00:36",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "09",
-      "ruta": "ISL",
-      "via": "DSS",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AMS",
       "vuelo": "7119",
       "st": "18/07/2020 02:00",
@@ -218,7 +199,7 @@
       "matricula": "N706KW",
       "posicion": "10",
       "et": "",
-      "at": "",
+      "at": "18/7/2020 12:34",
       "term": "A",
       "sector": "AP",
       "chkFrom": "076",
@@ -226,7 +207,7 @@
       "puerta": "10",
       "ruta": "MIA",
       "via": "",
-      "remark": "CON",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
