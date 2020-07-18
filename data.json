@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/07/2020 16:48",
+  "lastUpdate": "18/07/2020 16:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -218,7 +218,7 @@
       "matricula": "GZBKP",
       "posicion": "11",
       "et": "",
-      "at": "",
+      "at": "18/7/2020 16:48",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -226,7 +226,7 @@
       "puerta": "14",
       "ruta": "LHR",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
