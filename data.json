@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/07/2020 04:44",
+  "lastUpdate": "19/07/2020 04:51",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -114,25 +114,6 @@
       "remark": "HOR",
       "sanidad": "NO",
       "pax": "0"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "BA",
-      "vuelo": "244F",
-      "st": "18/07/2020 16:30",
-      "matricula": "GZBKP",
-      "posicion": "11",
-      "et": "",
-      "at": "18/7/2020 16:48",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "14",
-      "ruta": "LHR",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
