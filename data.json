@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "19/07/2020 08:00",
+  "lastUpdate": "19/07/2020 08:06",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AF",
-      "vuelo": "4144",
-      "st": "19/07/2020 08:10",
-      "matricula": "FHRBC",
-      "posicion": "15",
-      "et": "19/7/2020 08:04",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "CDG",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "117"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "M3",
@@ -190,6 +171,25 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AF",
+      "vuelo": "4144",
+      "st": "19/07/2020 08:10",
+      "matricula": "FHRBC",
+      "posicion": "15",
+      "et": "19/7/2020 08:04",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "009",
+      "ruta": "CDG",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "117"
     },
     {
       "tipo": "partida",
