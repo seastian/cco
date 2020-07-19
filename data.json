@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18/07/2020 23:57",
+  "lastUpdate": "19/07/2020 00:03",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -155,25 +155,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "PRV",
-      "vuelo": "WWS",
-      "st": "18/07/2020 12:00",
-      "matricula": "P4WWS",
-      "posicion": "45",
-      "et": "",
-      "at": "18/7/2020 12:02",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "12",
-      "ruta": "JRO",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "M3",
       "vuelo": "8495",
       "st": "18/07/2020 15:10",
@@ -250,25 +231,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "JJ",
-      "vuelo": "H24",
-      "st": "18/07/2020 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "",
-      "ruta": "QTR",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "H24",
       "st": "18/07/2020 23:59",
@@ -283,7 +245,26 @@
       "puerta": "",
       "ruta": "QTR",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "JJ",
+      "vuelo": "H24",
+      "st": "18/07/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "QTR",
+      "via": "",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -302,7 +283,7 @@
       "puerta": "",
       "ruta": "QTR",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
