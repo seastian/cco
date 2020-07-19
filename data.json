@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/07/2020 07:47",
+  "lastUpdate": "19/07/2020 07:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -114,6 +114,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "280EX",
+      "st": "19/07/2020 19:50",
+      "matricula": "N280EX",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "REC",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO",
+      "pax": "4"
     },
     {
       "tipo": "arribo",
