@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "19/07/2020 10:33",
+  "lastUpdate": "19/07/2020 10:40",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "QT",
-      "vuelo": "4099",
-      "st": "19/07/2020 06:15",
-      "matricula": "N336QT",
-      "posicion": "54",
-      "et": "19/7/2020 10:39",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "M3",
@@ -190,6 +171,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "QT",
+      "vuelo": "4099",
+      "st": "19/07/2020 06:15",
+      "matricula": "N336QT",
+      "posicion": "54",
+      "et": "19/7/2020 10:39",
+      "at": "19/7/2020 10:36",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "BOG",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "partida",
