@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/07/2020 06:19",
+  "lastUpdate": "19/07/2020 06:25",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -55,6 +55,25 @@
       "ruta": "VCP",
       "via": "",
       "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "KL",
+      "vuelo": "701",
+      "st": "19/07/2020 18:55",
+      "matricula": "PHBHE",
+      "posicion": "",
+      "et": "19/7/2020 18:24",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "AMS",
+      "via": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
