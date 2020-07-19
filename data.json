@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/07/2020 06:06",
+  "lastUpdate": "19/07/2020 06:12",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -26,13 +26,13 @@
       "vuelo": "4144",
       "st": "19/07/2020 08:10",
       "matricula": "FHRBC",
-      "posicion": "",
+      "posicion": "15",
       "et": "19/7/2020 08:04",
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "9",
+      "lF": "009",
       "ruta": "CDG",
       "via": "",
       "remark": "EST",
