@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/07/2020 00:55",
+  "lastUpdate": "19/07/2020 01:01",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -98,25 +98,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "CAZ",
-      "st": "18/07/2020 20:00",
-      "matricula": "LVCAZ",
-      "posicion": "H14",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MEC",
-      "via": "",
-      "remark": "DES",
-      "sanidad": "NO",
-      "pax": "0"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "M3",
       "vuelo": "8496",
       "st": "18/07/2020 23:45",
@@ -133,6 +114,25 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "CAZ",
+      "st": "19/07/2020 01:00",
+      "matricula": "LVCAZ",
+      "posicion": "H14",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "ROS",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO",
+      "pax": "0"
     },
     {
       "tipo": "partida",
