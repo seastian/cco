@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/07/2020 03:01",
+  "lastUpdate": "19/07/2020 03:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -74,25 +74,6 @@
       "ruta": "VCP",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1984",
-      "st": "18/07/2020 15:00",
-      "matricula": "CCBGO",
-      "posicion": "03",
-      "et": "18/7/2020 15:16",
-      "at": "18/7/2020 15:05",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
