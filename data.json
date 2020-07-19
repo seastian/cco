@@ -1,6 +1,25 @@
 {
-  "lastUpdate": "19/07/2020 08:25",
+  "lastUpdate": "19/07/2020 08:31",
   "vuelos": [
+    {
+      "tipo": "arribo",
+      "aerolinea": "QT",
+      "vuelo": "4099",
+      "st": "19/07/2020 06:15",
+      "matricula": "N336QT",
+      "posicion": "54",
+      "et": "19/7/2020 10:39",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "BOG",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": ""
+    },
     {
       "tipo": "arribo",
       "aerolinea": "M3",
@@ -155,25 +174,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "QT",
-      "vuelo": "4099",
-      "st": "19/07/2020 06:15",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AF",
       "vuelo": "4144",
       "st": "19/07/2020 08:10",
@@ -272,9 +272,9 @@
       "aerolinea": "QT",
       "vuelo": "4078",
       "st": "19/07/2020 08:15",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
+      "matricula": "N336QT",
+      "posicion": "54",
+      "et": "19/7/2020 12:15",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -283,7 +283,7 @@
       "puerta": "",
       "ruta": "BOG",
       "via": "",
-      "remark": "CON",
+      "remark": "DEM",
       "sanidad": "NO"
     },
     {
@@ -341,6 +341,25 @@
       "ruta": "MIA",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "101",
+      "st": "19/07/2020 20:30",
+      "matricula": "CXCAR",
+      "posicion": "",
+      "et": "20/7/2020 01:00",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "DEM",
       "sanidad": "NO"
     }
   ]
