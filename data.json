@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/07/2020 10:49",
+  "lastUpdate": "27/07/2020 10:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -516,6 +516,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "FAA",
+      "vuelo": "PF30",
+      "st": "27/07/2020 10:50",
+      "matricula": "LQJKE",
+      "posicion": "06",
+      "et": "",
+      "at": "27/7/2020 10:50",
+      "term": "C",
+      "sector": "CPC",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "05",
+      "ruta": "-AR",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "UC",
       "vuelo": "1108",
       "st": "27/07/2020 10:00",
@@ -531,25 +550,6 @@
       "ruta": "SCL",
       "via": "",
       "remark": "DEM",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "FAA",
-      "vuelo": "PF30",
-      "st": "27/07/2020 10:50",
-      "matricula": "LQJKE",
-      "posicion": "06",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPC",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "05",
-      "ruta": "-AR",
-      "via": "",
-      "remark": "HOR",
       "sanidad": "NO"
     },
     {
