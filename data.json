@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/07/2020 10:55",
+  "lastUpdate": "27/07/2020 11:02",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -535,6 +535,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "FO",
+      "vuelo": "FERRY",
+      "st": "27/07/2020 11:00",
+      "matricula": "LVHFR",
+      "posicion": "03",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "02",
+      "ruta": "EPA",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "UC",
       "vuelo": "1108",
       "st": "27/07/2020 10:00",
@@ -550,25 +569,6 @@
       "ruta": "SCL",
       "via": "",
       "remark": "DEM",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "FO",
-      "vuelo": "FERRY",
-      "st": "27/07/2020 11:00",
-      "matricula": "LVHFR",
-      "posicion": "03",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "02",
-      "ruta": "EPA",
-      "via": "",
-      "remark": "HOR",
       "sanidad": "NO"
     },
     {
