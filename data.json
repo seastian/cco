@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/07/2020 11:22",
+  "lastUpdate": "27/07/2020 11:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -152,25 +152,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1245",
-      "st": "26/07/2020 21:55",
-      "matricula": "LVFVM",
-      "posicion": "08",
-      "et": "26/7/2020 23:26",
-      "at": "26/7/2020 23:25",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "007",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "161"
     },
     {
       "tipo": "arribo",
@@ -530,7 +511,7 @@
       "puerta": "02",
       "ruta": "EPA",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
