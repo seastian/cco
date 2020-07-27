@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/07/2020 11:28",
+  "lastUpdate": "27/07/2020 11:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -304,25 +304,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1408",
-      "st": "26/07/2020 23:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "LAX",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
