@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27/07/2020 12:07",
+  "lastUpdate": "27/07/2020 12:13",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -167,6 +167,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "VCP",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "UC",
+      "vuelo": "1102",
+      "st": "28/07/2020 00:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
       "via": "",
       "remark": "",
       "sanidad": "NO",
