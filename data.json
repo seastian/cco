@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/07/2020 19:29",
+  "lastUpdate": "28/07/2020 19:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -190,6 +190,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "IWS",
+      "st": "29/07/2020 07:30",
+      "matricula": "LVIWS",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SLA",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO",
+      "pax": "0"
     },
     {
       "tipo": "arribo",
