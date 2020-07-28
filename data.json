@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/07/2020 17:08",
+  "lastUpdate": "28/07/2020 17:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -82,6 +82,25 @@
       "aerolinea": "UC",
       "vuelo": "1403",
       "st": "29/07/2020 02:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "5X",
+      "vuelo": "414",
+      "st": "29/07/2020 05:12",
       "matricula": "",
       "posicion": "",
       "et": "",
