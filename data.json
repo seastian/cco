@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/07/2020 20:39",
+  "lastUpdate": "28/07/2020 20:45",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -573,25 +573,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "BA",
-      "vuelo": "244F",
-      "st": "28/07/2020 16:30",
-      "matricula": "GZBJH",
-      "posicion": "05",
-      "et": "",
-      "at": "28/7/2020 16:16",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "04",
-      "ruta": "LHR",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "WJ",
       "vuelo": "9003",
       "st": "28/07/2020 16:30",
@@ -605,6 +586,25 @@
       "chkTo": "",
       "puerta": "02",
       "ruta": "EPA",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "BA",
+      "vuelo": "244F",
+      "st": "28/07/2020 16:30",
+      "matricula": "GZBJH",
+      "posicion": "05",
+      "et": "",
+      "at": "28/7/2020 16:16",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "04",
+      "ruta": "LHR",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
