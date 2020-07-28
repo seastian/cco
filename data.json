@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/07/2020 20:00",
+  "lastUpdate": "28/07/2020 20:07",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -516,25 +516,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "PRV",
-      "vuelo": "WWS",
-      "st": "28/07/2020 13:00",
-      "matricula": "P4WWS",
-      "posicion": "03",
-      "et": "28/7/2020 12:30",
-      "at": "28/7/2020 12:52",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "02",
-      "ruta": "FLL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AOG",
       "vuelo": "424",
       "st": "28/07/2020 12:30",
@@ -548,6 +529,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MVD",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "PRV",
+      "vuelo": "WWS",
+      "st": "28/07/2020 13:00",
+      "matricula": "P4WWS",
+      "posicion": "03",
+      "et": "28/7/2020 12:30",
+      "at": "28/7/2020 12:52",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "02",
+      "ruta": "FLL",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
