@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/07/2020 17:14",
+  "lastUpdate": "28/07/2020 17:20",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -114,25 +114,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1961",
-      "st": "28/07/2020 05:40",
-      "matricula": "CCBGJ",
-      "posicion": "17",
-      "et": "28/7/2020 05:15",
-      "at": "28/7/2020 05:16",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
