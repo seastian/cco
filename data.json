@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/07/2020 19:15",
+  "lastUpdate": "28/07/2020 19:23",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -516,25 +516,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "424",
-      "st": "28/07/2020 12:30",
-      "matricula": "CXCLS",
-      "posicion": "17A",
-      "et": "",
-      "at": "28/7/2020 12:41",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "PRV",
       "vuelo": "WWS",
       "st": "28/07/2020 13:00",
@@ -548,6 +529,25 @@
       "chkTo": "",
       "puerta": "02",
       "ruta": "FLL",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "424",
+      "st": "28/07/2020 12:30",
+      "matricula": "CXCLS",
+      "posicion": "17A",
+      "et": "",
+      "at": "28/7/2020 12:41",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
