@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/07/2020 20:45",
+  "lastUpdate": "28/07/2020 20:53",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -573,25 +573,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "WJ",
-      "vuelo": "9003",
-      "st": "28/07/2020 16:30",
-      "matricula": "LVIVN",
-      "posicion": "03",
-      "et": "",
-      "at": "28/7/2020 17:04",
-      "term": "C",
-      "sector": "CPC",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "02",
-      "ruta": "EPA",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "BA",
       "vuelo": "244F",
       "st": "28/07/2020 16:30",
@@ -605,6 +586,25 @@
       "chkTo": "",
       "puerta": "04",
       "ruta": "LHR",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "WJ",
+      "vuelo": "9003",
+      "st": "28/07/2020 16:30",
+      "matricula": "LVIVN",
+      "posicion": "03",
+      "et": "",
+      "at": "28/7/2020 17:04",
+      "term": "C",
+      "sector": "CPC",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "02",
+      "ruta": "EPA",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -815,6 +815,25 @@
       "puerta": "",
       "ruta": "FRA",
       "via": "VCP",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "QR",
+      "vuelo": "8155",
+      "st": "29/07/2020 08:50",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "DOH",
+      "via": "UIO",
       "remark": "HOR",
       "sanidad": "NO"
     }
