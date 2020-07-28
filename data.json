@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/07/2020 18:37",
+  "lastUpdate": "28/07/2020 18:44",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -130,6 +130,25 @@
       "lF": "",
       "ruta": "FRA",
       "via": "GRU",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "KL",
+      "vuelo": "701",
+      "st": "29/07/2020 06:40",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "AMS",
+      "via": "",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
