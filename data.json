@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/07/2020 00:29",
+  "lastUpdate": "29/07/2020 00:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -25,8 +25,8 @@
       "aerolinea": "5X",
       "vuelo": "414",
       "st": "29/07/2020 05:12",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "N351UP",
+      "posicion": "17",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -709,8 +709,8 @@
       "aerolinea": "5X",
       "vuelo": "415",
       "st": "29/07/2020 06:55",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "N351UP",
+      "posicion": "17",
       "et": "",
       "at": "",
       "term": "TCA",
