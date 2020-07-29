@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/07/2020 12:44",
+  "lastUpdate": "29/07/2020 12:50",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -559,7 +559,7 @@
       "st": "29/07/2020 10:50",
       "matricula": "PHBHP",
       "posicion": "04",
-      "et": "29/7/2020 12:30",
+      "et": "29/7/2020 12:55",
       "at": "",
       "term": "C",
       "sector": "CPI",
