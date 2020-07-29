@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/07/2020 03:09",
+  "lastUpdate": "29/07/2020 03:15",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -617,7 +617,7 @@
       "matricula": "CXMAX",
       "posicion": "05",
       "et": "",
-      "at": "",
+      "at": "29/7/2020 02:00",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -625,7 +625,7 @@
       "puerta": "04",
       "ruta": "MVD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -757,6 +757,25 @@
       "chkTo": "060",
       "puerta": "10",
       "ruta": "MAD",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "8491",
+      "st": "29/07/2020 15:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "VCP",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
