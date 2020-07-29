@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/07/2020 08:03",
+  "lastUpdate": "29/07/2020 08:09",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -313,14 +313,14 @@
       "matricula": "LVIWS",
       "posicion": "05",
       "et": "",
-      "at": "",
+      "at": "29/7/2020 08:03",
       "term": "C",
       "sector": "CAC",
       "cinta": "",
       "lF": "",
       "ruta": "SLA",
       "via": "",
-      "remark": "ZON",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
     },
