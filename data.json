@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/07/2020 08:48",
+  "lastUpdate": "29/07/2020 08:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -535,6 +535,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "QR",
+      "vuelo": "8155",
+      "st": "29/07/2020 08:50",
+      "matricula": "A7BFT",
+      "posicion": "18",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "DOH",
+      "via": "UIO",
+      "remark": "CER",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "LH",
       "vuelo": "8267",
       "st": "29/07/2020 08:25",
@@ -550,25 +569,6 @@
       "ruta": "FRA",
       "via": "VCP",
       "remark": "DEM",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "QR",
-      "vuelo": "8155",
-      "st": "29/07/2020 08:50",
-      "matricula": "A7BFT",
-      "posicion": "18",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "DOH",
-      "via": "UIO",
-      "remark": "HOR",
       "sanidad": "NO"
     },
     {
