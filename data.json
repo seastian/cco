@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/07/2020 07:38",
+  "lastUpdate": "29/07/2020 07:44",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -114,25 +114,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "UX",
-      "vuelo": "341",
-      "st": "28/07/2020 20:25",
-      "matricula": "ECNGM",
-      "posicion": "10",
-      "et": "28/7/2020 19:45",
-      "at": "28/7/2020 19:39",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "77"
     },
     {
       "tipo": "arribo",
