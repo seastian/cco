@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/07/2020 08:22",
+  "lastUpdate": "29/07/2020 08:29",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -516,6 +516,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "LH",
+      "vuelo": "8267",
+      "st": "29/07/2020 08:25",
+      "matricula": "DALCC",
+      "posicion": "17",
+      "et": "29/7/2020 11:00",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "FRA",
+      "via": "VCP",
+      "remark": "DEM",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "QR",
       "vuelo": "8155",
       "st": "29/07/2020 08:50",
@@ -550,25 +569,6 @@
       "ruta": "-AR",
       "via": "",
       "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LH",
-      "vuelo": "8267",
-      "st": "29/07/2020 08:25",
-      "matricula": "DALCC",
-      "posicion": "17",
-      "et": "29/7/2020 11:00",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "FRA",
-      "via": "VCP",
-      "remark": "DEM",
       "sanidad": "NO"
     },
     {
