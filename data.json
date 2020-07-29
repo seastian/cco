@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/07/2020 12:05",
+  "lastUpdate": "29/07/2020 12:11",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -540,7 +540,7 @@
       "st": "29/07/2020 10:50",
       "matricula": "PHBHP",
       "posicion": "04",
-      "et": "29/7/2020 12:00",
+      "et": "29/7/2020 12:30",
       "at": "",
       "term": "C",
       "sector": "CPI",
@@ -549,7 +549,7 @@
       "puerta": "03",
       "ruta": "AMS",
       "via": "",
-      "remark": "DEM",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -745,25 +745,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
-      "st": "29/07/2020 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "209",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "QTR",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "H24",
       "st": "29/07/2020 23:59",
       "matricula": "",
@@ -793,6 +774,25 @@
       "sector": "AP",
       "chkFrom": "041",
       "chkTo": "053",
+      "puerta": "",
+      "ruta": "QTR",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "H24N",
+      "st": "29/07/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "209",
+      "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
       "via": "",
