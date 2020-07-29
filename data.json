@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/07/2020 03:53",
+  "lastUpdate": "29/07/2020 03:59",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -377,25 +377,6 @@
       "chkTo": "",
       "puerta": "02",
       "ruta": "EPA",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LA",
-      "vuelo": "1973",
-      "st": "28/07/2020 17:00",
-      "matricula": "CCBGL",
-      "posicion": "04",
-      "et": "",
-      "at": "28/7/2020 15:53",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "03",
-      "ruta": "SCL",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
