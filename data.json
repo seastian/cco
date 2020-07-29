@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/07/2020 00:10",
+  "lastUpdate": "29/07/2020 00:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -835,6 +835,25 @@
       "ruta": "AMS",
       "via": "",
       "remark": "DEM",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UX",
+      "vuelo": "342",
+      "st": "29/07/2020 12:15",
+      "matricula": "ECNGM",
+      "posicion": "10",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "054",
+      "chkTo": "060",
+      "puerta": "10",
+      "ruta": "MAD",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     }
   ]
