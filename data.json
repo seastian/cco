@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/07/2020 01:20",
+  "lastUpdate": "29/07/2020 01:26",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -131,6 +131,44 @@
       "ruta": "AMS",
       "via": "",
       "remark": "DEM",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AU",
+      "vuelo": "2026",
+      "st": "29/07/2020 11:30",
+      "matricula": "LVFPT",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "AEP",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AU",
+      "vuelo": "2028",
+      "st": "29/07/2020 12:30",
+      "matricula": "LVCKZ",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "AEP",
+      "via": "",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
