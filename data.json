@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/07/2020 06:26",
+  "lastUpdate": "29/07/2020 06:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -17,25 +17,6 @@
       "ruta": "DOH",
       "via": "GRU",
       "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AA",
-      "vuelo": "9707",
-      "st": "29/07/2020 07:00",
-      "matricula": "N779AN",
-      "posicion": "03",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
@@ -321,6 +302,25 @@
       "ruta": "FRA",
       "via": "GRU",
       "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AA",
+      "vuelo": "9707",
+      "st": "29/07/2020 07:00",
+      "matricula": "N779AN",
+      "posicion": "03",
+      "et": "",
+      "at": "29/7/2020 06:31",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
