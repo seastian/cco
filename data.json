@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/07/2020 22:48",
+  "lastUpdate": "28/07/2020 22:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -778,6 +778,25 @@
       "ruta": "-AR",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "KL",
+      "vuelo": "702",
+      "st": "29/07/2020 10:50",
+      "matricula": "PHBHP",
+      "posicion": "",
+      "et": "29/7/2020 12:00",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "209",
+      "chkTo": "220",
+      "puerta": "",
+      "ruta": "AMS",
+      "via": "",
+      "remark": "DEM",
       "sanidad": "NO"
     }
   ]
