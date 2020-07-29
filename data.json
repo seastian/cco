@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/07/2020 01:46",
+  "lastUpdate": "29/07/2020 01:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -171,25 +171,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "RER",
-      "vuelo": "8111",
-      "st": "28/07/2020 13:30",
-      "matricula": "HCCUH",
-      "posicion": "03",
-      "et": "",
-      "at": "28/7/2020 13:47",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "UIO",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "17"
     },
     {
       "tipo": "arribo",
@@ -536,6 +517,25 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
+      "vuelo": "H24N",
+      "st": "28/07/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "209",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "QTR",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
       "vuelo": "H24",
       "st": "28/07/2020 23:59",
       "matricula": "",
@@ -573,25 +573,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "H24N",
-      "st": "28/07/2020 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "209",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "QTR",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "M3",
       "vuelo": "8492",
       "st": "29/07/2020 02:10",
@@ -617,7 +598,7 @@
       "matricula": "CXMAS",
       "posicion": "04",
       "et": "",
-      "at": "",
+      "at": "29/7/2020 01:46",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -625,7 +606,7 @@
       "puerta": "03",
       "ruta": "MVD",
       "via": "",
-      "remark": "HOR",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
