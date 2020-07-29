@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/07/2020 13:03",
+  "lastUpdate": "29/07/2020 13:09",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -530,7 +530,7 @@
       "puerta": "10",
       "ruta": "MAD",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -541,7 +541,7 @@
       "matricula": "PHBHP",
       "posicion": "04",
       "et": "29/7/2020 12:55",
-      "at": "",
+      "at": "29/7/2020 13:04",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "209",
@@ -549,26 +549,7 @@
       "puerta": "03",
       "ruta": "AMS",
       "via": "",
-      "remark": "CER",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "500",
-      "st": "29/07/2020 13:00",
-      "matricula": "CXCLS",
-      "posicion": "18A",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "CON",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -588,6 +569,25 @@
       "ruta": "-AR",
       "via": "",
       "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "500",
+      "st": "29/07/2020 13:00",
+      "matricula": "CXCLS",
+      "posicion": "18A",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -668,25 +668,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1103",
-      "st": "29/07/2020 22:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AA",
       "vuelo": "9708",
       "st": "29/07/2020 22:30",
@@ -700,6 +681,25 @@
       "chkTo": "",
       "puerta": "02",
       "ruta": "MIA",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1103",
+      "st": "29/07/2020 22:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
