@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/07/2020 13:16",
+  "lastUpdate": "29/07/2020 13:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -522,7 +522,7 @@
       "matricula": "ECNGM",
       "posicion": "10",
       "et": "",
-      "at": "",
+      "at": "29/7/2020 13:20",
       "term": "A",
       "sector": "AP",
       "chkFrom": "054",
@@ -530,7 +530,7 @@
       "puerta": "10",
       "ruta": "MAD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
