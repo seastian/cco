@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/07/2020 15:29",
+  "lastUpdate": "29/07/2020 15:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -332,7 +332,7 @@
       "matricula": "CXLSS",
       "posicion": "18B",
       "et": "",
-      "at": "29/7/2020 12:15",
+      "at": "29/7/2020 12:10",
       "term": "TCA",
       "sector": "",
       "cinta": "",
@@ -341,7 +341,7 @@
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -399,25 +399,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1404",
-      "st": "29/07/2020 03:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "LAX",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
@@ -535,25 +516,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "FAA",
-      "vuelo": "PF30",
-      "st": "29/07/2020 13:00",
-      "matricula": "LVJKE",
-      "posicion": "06",
-      "et": "",
-      "at": "29/7/2020 12:49",
-      "term": "C",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "05",
-      "ruta": "-AR",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AOG",
       "vuelo": "500",
       "st": "29/07/2020 13:00",
@@ -567,6 +529,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "ASU",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "FAA",
+      "vuelo": "PF30",
+      "st": "29/07/2020 13:00",
+      "matricula": "LVJKE",
+      "posicion": "06",
+      "et": "",
+      "at": "29/7/2020 12:49",
+      "term": "C",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "05",
+      "ruta": "-AR",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
