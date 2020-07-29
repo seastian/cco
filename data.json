@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "29/07/2020 04:31",
+  "lastUpdate": "29/07/2020 04:38",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "5X",
-      "vuelo": "414",
-      "st": "29/07/2020 05:12",
-      "matricula": "N351UP",
-      "posicion": "17",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "LH",
@@ -359,6 +340,25 @@
       "ruta": "MIA",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "5X",
+      "vuelo": "414",
+      "st": "29/07/2020 05:12",
+      "matricula": "N351UP",
+      "posicion": "17",
+      "et": "",
+      "at": "29/7/2020 04:32",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
