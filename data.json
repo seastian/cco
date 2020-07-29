@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/07/2020 00:48",
+  "lastUpdate": "29/07/2020 00:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -364,25 +364,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "PRV",
-      "vuelo": "WWS",
-      "st": "28/07/2020 13:00",
-      "matricula": "P4WWS",
-      "posicion": "03",
-      "et": "28/7/2020 12:30",
-      "at": "28/7/2020 12:52",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "02",
-      "ruta": "FLL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AOG",
       "vuelo": "500",
       "st": "28/07/2020 13:00",
@@ -625,7 +606,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "EST",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
