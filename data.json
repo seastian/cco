@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/07/2020 09:14",
+  "lastUpdate": "29/07/2020 09:20",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -269,6 +269,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "LH",
+      "vuelo": "8266",
+      "st": "29/07/2020 06:05",
+      "matricula": "DALCC",
+      "posicion": "17",
+      "et": "",
+      "at": "29/7/2020 09:17",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "FRA",
+      "via": "GRU",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "QR",
       "vuelo": "8155",
       "st": "29/07/2020 06:50",
@@ -323,25 +342,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LH",
-      "vuelo": "8266",
-      "st": "29/07/2020 06:05",
-      "matricula": "DALCC",
-      "posicion": "17",
-      "et": "29/7/2020 09:00",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "FRA",
-      "via": "GRU",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "partida",
