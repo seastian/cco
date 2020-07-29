@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/07/2020 22:16",
+  "lastUpdate": "28/07/2020 22:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,8 +7,8 @@
       "vuelo": "8492",
       "st": "28/07/2020 23:45",
       "matricula": "PRACO",
-      "posicion": "",
-      "et": "",
+      "posicion": "17",
+      "et": "28/7/2020 23:45",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -16,7 +16,7 @@
       "lF": "",
       "ruta": "VCP",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -691,7 +691,7 @@
       "vuelo": "8492",
       "st": "29/07/2020 02:10",
       "matricula": "PRACO",
-      "posicion": "",
+      "posicion": "17",
       "et": "29/7/2020 01:07",
       "at": "",
       "term": "TCA",
