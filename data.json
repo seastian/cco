@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/07/2020 15:03",
+  "lastUpdate": "29/07/2020 15:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -370,14 +370,14 @@
       "matricula": "LVJKE",
       "posicion": "06",
       "et": "",
-      "at": "",
+      "at": "29/7/2020 15:08",
       "term": "C",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "-AR",
       "via": "",
-      "remark": "CON",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -633,8 +633,8 @@
       "aerolinea": "GTI",
       "vuelo": "033",
       "st": "29/07/2020 23:00",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "N859GT",
+      "posicion": "17",
       "et": "29/7/2020 19:40",
       "at": "",
       "term": "TCA",
