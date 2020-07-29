@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "29/07/2020 06:01",
+  "lastUpdate": "29/07/2020 06:07",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "LH",
-      "vuelo": "8266",
-      "st": "29/07/2020 06:05",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "FRA",
-      "via": "GRU",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "QR",
@@ -321,6 +302,25 @@
       "ruta": "MIA",
       "via": "",
       "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LH",
+      "vuelo": "8266",
+      "st": "29/07/2020 06:05",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "FRA",
+      "via": "GRU",
+      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
