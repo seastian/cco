@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/07/2020 18:23",
+  "lastUpdate": "29/07/2020 18:29",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -101,8 +101,8 @@
       "aerolinea": "M3",
       "vuelo": "8492",
       "st": "29/07/2020 23:45",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "PRACO",
+      "posicion": "18",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -861,8 +861,8 @@
       "aerolinea": "M3",
       "vuelo": "8492",
       "st": "30/07/2020 02:10",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "PRACO",
+      "posicion": "18",
       "et": "",
       "at": "",
       "term": "TCA",
