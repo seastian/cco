@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28/07/2020 22:35",
+  "lastUpdate": "28/07/2020 22:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -380,25 +380,6 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "KL",
-      "vuelo": "702",
-      "st": "28/07/2020 10:50",
-      "matricula": "PHBHA",
-      "posicion": "10",
-      "et": "",
-      "at": "28/7/2020 10:36",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "10",
-      "ruta": "AMS",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
