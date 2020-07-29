@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/07/2020 00:16",
+  "lastUpdate": "29/07/2020 00:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -148,25 +148,6 @@
       "cinta": "",
       "lF": "",
       "ruta": "ASU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1503",
-      "st": "28/07/2020 09:00",
-      "matricula": "N532LA",
-      "posicion": "18",
-      "et": "28/7/2020 12:19",
-      "at": "28/7/2020 12:21",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "GRU",
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
