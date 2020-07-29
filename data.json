@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/07/2020 15:10",
+  "lastUpdate": "29/07/2020 15:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -22,11 +22,30 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "FAA",
+      "vuelo": "MRM",
+      "st": "29/07/2020 16:00",
+      "matricula": "LQMRM",
+      "posicion": "07",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "-AR",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "GTI",
       "vuelo": "033",
       "st": "29/07/2020 19:45",
       "matricula": "N859GT",
-      "posicion": "",
+      "posicion": "17",
       "et": "29/7/2020 17:30",
       "at": "",
       "term": "TCA",
@@ -606,7 +625,7 @@
       "puerta": "",
       "ruta": "VCP",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
