@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/07/2020 04:50",
+  "lastUpdate": "29/07/2020 04:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -25,9 +25,9 @@
       "aerolinea": "QR",
       "vuelo": "8155",
       "st": "29/07/2020 06:50",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
+      "matricula": "A7BFT",
+      "posicion": "18",
+      "et": "29/7/2020 06:35",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -35,7 +35,7 @@
       "lF": "",
       "ruta": "DOH",
       "via": "GRU",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -595,8 +595,8 @@
       "aerolinea": "QR",
       "vuelo": "8155",
       "st": "29/07/2020 08:50",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "A7BFT",
+      "posicion": "18",
       "et": "",
       "at": "",
       "term": "TCA",
