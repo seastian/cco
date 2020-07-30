@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/07/2020 01:03",
+  "lastUpdate": "30/07/2020 01:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -396,25 +396,6 @@
       "chkTo": "060",
       "puerta": "10",
       "ruta": "MAD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "KL",
-      "vuelo": "702",
-      "st": "29/07/2020 10:50",
-      "matricula": "PHBHP",
-      "posicion": "04",
-      "et": "29/7/2020 12:55",
-      "at": "29/7/2020 13:04",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "209",
-      "chkTo": "220",
-      "puerta": "03",
-      "ruta": "AMS",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
