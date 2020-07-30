@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/07/2020 08:38",
+  "lastUpdate": "30/07/2020 08:44",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -171,25 +171,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1231",
-      "st": "29/07/2020 21:20",
-      "matricula": "CCBGP",
-      "posicion": "10",
-      "et": "29/7/2020 20:30",
-      "at": "29/7/2020 20:39",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
