@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/07/2020 18:42",
+  "lastUpdate": "30/07/2020 18:48",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -399,25 +399,6 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "5X",
-      "vuelo": "411",
-      "st": "30/07/2020 06:55",
-      "matricula": "N318UP",
-      "posicion": "17",
-      "et": "",
-      "at": "30/7/2020 06:45",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
