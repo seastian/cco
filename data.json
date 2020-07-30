@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/07/2020 09:55",
+  "lastUpdate": "30/07/2020 10:01",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -174,6 +174,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "UC",
+      "vuelo": "1405",
+      "st": "30/07/2020 22:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "LH",
       "vuelo": "8264",
       "st": "29/07/2020 22:30",
@@ -265,7 +284,7 @@
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -284,7 +303,7 @@
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -322,7 +341,7 @@
       "via": "MVD",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -653,14 +672,14 @@
       "vuelo": "CBP",
       "st": "30/07/2020 11:30",
       "matricula": "LVCBP",
-      "posicion": "05",
+      "posicion": "",
       "et": "",
       "at": "",
       "term": "C",
       "sector": "CPC",
       "chkFrom": "",
       "chkTo": "",
-      "puerta": "04",
+      "puerta": "",
       "ruta": "FDO",
       "via": "",
       "remark": "HOR",
