@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/07/2020 16:01",
+  "lastUpdate": "30/07/2020 16:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -158,9 +158,9 @@
       "aerolinea": "AR",
       "vuelo": "1133",
       "st": "31/07/2020 02:50",
-      "matricula": "",
+      "matricula": "LVGHQ",
       "posicion": "",
-      "et": "",
+      "et": "31/7/2020 03:02",
       "at": "",
       "term": "A",
       "sector": "",
@@ -168,9 +168,9 @@
       "lF": "",
       "ruta": "MAD",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "241"
     },
     {
       "tipo": "arribo",
@@ -614,15 +614,15 @@
       "aerolinea": "AR",
       "vuelo": "1370",
       "st": "30/07/2020 23:45",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "LVGKP",
+      "posicion": "16",
       "et": "",
       "at": "",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "22",
       "ruta": "SJO",
       "via": "CUN",
       "remark": "HOR",
