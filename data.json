@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/07/2020 01:16",
+  "lastUpdate": "30/07/2020 01:23",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -378,25 +378,6 @@
       "puerta": "",
       "ruta": "FRA",
       "via": "VCP",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "UX",
-      "vuelo": "342",
-      "st": "29/07/2020 12:15",
-      "matricula": "ECNGM",
-      "posicion": "10",
-      "et": "",
-      "at": "29/7/2020 13:20",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "054",
-      "chkTo": "060",
-      "puerta": "10",
-      "ruta": "MAD",
-      "via": "",
       "remark": "PAR",
       "sanidad": "NO"
     },
