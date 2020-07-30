@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/07/2020 04:35",
+  "lastUpdate": "30/07/2020 04:42",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -205,6 +205,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "SCL",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "DN",
+      "vuelo": "9007",
+      "st": "30/07/2020 16:40",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "AEP",
       "via": "",
       "remark": "",
       "sanidad": "NO",
