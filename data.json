@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/07/2020 23:01",
+  "lastUpdate": "29/07/2020 23:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -174,25 +174,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AU",
-      "vuelo": "2026",
-      "st": "29/07/2020 11:30",
-      "matricula": "LVFPT",
-      "posicion": "65B",
-      "et": "",
-      "at": "29/7/2020 11:06",
-      "term": "C",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "AEP",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AOG",
       "vuelo": "501",
       "st": "29/07/2020 12:20",
@@ -326,25 +307,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1103",
-      "st": "29/07/2020 20:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "LA",
       "vuelo": "1231",
       "st": "29/07/2020 21:20",
@@ -361,6 +323,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "UC",
+      "vuelo": "1103",
+      "st": "29/07/2020 20:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
