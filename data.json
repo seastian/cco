@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/07/2020 14:44",
+  "lastUpdate": "30/07/2020 14:50",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -15,25 +15,6 @@
       "cinta": "",
       "lF": "",
       "ruta": "AEP",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "2D",
-      "vuelo": "171",
-      "st": "30/07/2020 19:20",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -57,6 +38,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "2D",
+      "vuelo": "171",
+      "st": "30/07/2020 19:20",
+      "matricula": "N706KW",
+      "posicion": "",
+      "et": "30/7/2020 21:15",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": "128"
     },
     {
       "tipo": "arribo",
