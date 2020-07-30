@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/07/2020 20:50",
+  "lastUpdate": "30/07/2020 20:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -12,8 +12,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "8",
+      "lF": "007",
       "ruta": "MIA",
       "via": "",
       "remark": "DEM",
@@ -103,7 +103,7 @@
       "st": "31/07/2020 00:40",
       "matricula": "CCBGD",
       "posicion": "09",
-      "et": "",
+      "et": "30/7/2020 23:54",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -111,9 +111,9 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -126,8 +126,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "8",
+      "lF": "008",
       "ruta": "MAD",
       "via": "",
       "remark": "EST",
