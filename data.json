@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29/07/2020 23:53",
+  "lastUpdate": "29/07/2020 23:59",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -592,6 +592,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1132",
+      "st": "29/07/2020 23:55",
+      "matricula": "LVGHQ",
+      "posicion": "15",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "20",
+      "ruta": "MAD",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "AA",
       "vuelo": "9708",
       "st": "29/07/2020 22:30",
@@ -607,25 +626,6 @@
       "ruta": "MIA",
       "via": "",
       "remark": "DEM",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1132",
-      "st": "29/07/2020 23:55",
-      "matricula": "LVGHQ",
-      "posicion": "15",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "20",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "HOR",
       "sanidad": "NO"
     },
     {
