@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "30/07/2020 12:48",
+  "lastUpdate": "30/07/2020 12:55",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "FQ",
-      "vuelo": "8000",
-      "st": "30/07/2020 13:00",
-      "matricula": "LVHQU",
-      "posicion": "67A",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "AEP",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "DN",
