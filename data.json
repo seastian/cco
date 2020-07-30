@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/07/2020 13:08",
+  "lastUpdate": "30/07/2020 13:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -360,25 +360,6 @@
       "ruta": "MIA",
       "via": "",
       "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "TK",
-      "vuelo": "6170",
-      "st": "30/07/2020 01:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "ISL",
-      "via": "DSS",
-      "remark": "CAN",
       "sanidad": "NO"
     },
     {
