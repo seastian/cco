@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/07/2020 15:10",
+  "lastUpdate": "30/07/2020 15:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -530,7 +530,7 @@
       "puerta": "",
       "ruta": "VCP",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -549,7 +549,7 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
