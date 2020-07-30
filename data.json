@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/07/2020 13:01",
+  "lastUpdate": "30/07/2020 13:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -522,7 +522,7 @@
       "matricula": "LVCBP",
       "posicion": "05",
       "et": "",
-      "at": "",
+      "at": "30/7/2020 13:07",
       "term": "C",
       "sector": "CPC",
       "chkFrom": "",
@@ -530,7 +530,7 @@
       "puerta": "04",
       "ruta": "FDO",
       "via": "",
-      "remark": "CON",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -541,7 +541,7 @@
       "matricula": "CXLSS",
       "posicion": "17A",
       "et": "",
-      "at": "",
+      "at": "30/7/2020 13:07",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -549,7 +549,7 @@
       "puerta": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "HOR",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
