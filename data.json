@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/07/2020 19:59",
+  "lastUpdate": "30/07/2020 20:05",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -235,7 +235,7 @@
       "vuelo": "IWS",
       "st": "31/07/2020 07:30",
       "matricula": "LVIWS",
-      "posicion": "",
+      "posicion": "07",
       "et": "",
       "at": "",
       "term": "C",
