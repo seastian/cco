@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/07/2020 12:10",
+  "lastUpdate": "30/07/2020 12:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -323,25 +323,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1132",
-      "st": "29/07/2020 23:55",
-      "matricula": "LVGHQ",
-      "posicion": "15",
-      "et": "",
-      "at": "30/7/2020 00:11",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "20",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
