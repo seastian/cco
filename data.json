@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/07/2020 04:55",
+  "lastUpdate": "30/07/2020 05:01",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -44,9 +44,9 @@
       "aerolinea": "LH",
       "vuelo": "8264",
       "st": "30/07/2020 06:45",
-      "matricula": "",
+      "matricula": "DALCB",
       "posicion": "18",
-      "et": "",
+      "et": "30/7/2020 06:00",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -54,7 +54,7 @@
       "lF": "",
       "ruta": "FRA",
       "via": "MVD",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -231,22 +231,22 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "GTI",
-      "vuelo": "033",
-      "st": "29/07/2020 19:45",
-      "matricula": "N859GT",
-      "posicion": "17",
-      "et": "29/7/2020 17:30",
-      "at": "29/7/2020 16:59",
+      "aerolinea": "UC",
+      "vuelo": "1103",
+      "st": "29/07/2020 20:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "ATE",
+      "remark": "CON",
       "sanidad": "NO",
-      "pax": "0"
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -266,25 +266,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1103",
-      "st": "29/07/2020 20:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
