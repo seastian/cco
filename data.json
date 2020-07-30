@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/07/2020 10:40",
+  "lastUpdate": "30/07/2020 10:46",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -169,25 +169,6 @@
       "ruta": "MIA",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "TK",
-      "vuelo": "6169",
-      "st": "29/07/2020 22:40",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "ISL",
-      "via": "DSS",
-      "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
     },
