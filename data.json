@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/07/2020 00:44",
+  "lastUpdate": "30/07/2020 00:50",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -434,25 +434,6 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "ASU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "FAA",
-      "vuelo": "PF30",
-      "st": "29/07/2020 13:00",
-      "matricula": "LVJKE",
-      "posicion": "06",
-      "et": "",
-      "at": "29/7/2020 12:49",
-      "term": "C",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "05",
-      "ruta": "-AR",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
