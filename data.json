@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/07/2020 13:27",
+  "lastUpdate": "30/07/2020 13:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -364,25 +364,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "101",
-      "st": "30/07/2020 01:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AMS",
       "vuelo": "7119",
       "st": "30/07/2020 02:00",
@@ -535,25 +516,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "424",
-      "st": "30/07/2020 13:30",
-      "matricula": "CXCLS",
-      "posicion": "17B",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AF",
       "vuelo": "229",
       "st": "30/07/2020 13:30",
@@ -568,7 +530,26 @@
       "puerta": "09",
       "ruta": "CDG",
       "via": "",
-      "remark": "HOR",
+      "remark": "CER",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "424",
+      "st": "30/07/2020 13:30",
+      "matricula": "CXCLS",
+      "posicion": "17B",
+      "et": "",
+      "at": "30/7/2020 13:28",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
