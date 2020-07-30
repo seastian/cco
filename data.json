@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/07/2020 17:12",
+  "lastUpdate": "30/07/2020 17:18",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -152,6 +152,25 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "241"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "5X",
+      "vuelo": "412",
+      "st": "31/07/2020 05:12",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
