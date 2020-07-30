@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/07/2020 00:12",
+  "lastUpdate": "30/07/2020 00:18",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -579,7 +579,7 @@
       "matricula": "LVGHQ",
       "posicion": "15",
       "et": "",
-      "at": "",
+      "at": "30/7/2020 00:11",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -587,7 +587,7 @@
       "puerta": "20",
       "ruta": "MAD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
