@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/07/2020 10:46",
+  "lastUpdate": "30/07/2020 10:53",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -332,14 +332,14 @@
       "matricula": "LVCBP",
       "posicion": "05",
       "et": "",
-      "at": "",
+      "at": "30/7/2020 10:46",
       "term": "A",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "PDP",
       "via": "",
-      "remark": "HOR",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "6"
     },
