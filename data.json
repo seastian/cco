@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/07/2020 00:57",
+  "lastUpdate": "30/07/2020 01:03",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -833,6 +833,25 @@
       "chkTo": "",
       "puerta": "06",
       "ruta": "-AR",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "500",
+      "st": "30/07/2020 13:00",
+      "matricula": "CXLSS",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "ASU",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
