@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/07/2020 12:42",
+  "lastUpdate": "30/07/2020 12:48",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,7 +7,7 @@
       "vuelo": "8000",
       "st": "30/07/2020 13:00",
       "matricula": "LVHQU",
-      "posicion": "",
+      "posicion": "67A",
       "et": "",
       "at": "",
       "term": "C",
