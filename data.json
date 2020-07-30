@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/07/2020 02:01",
+  "lastUpdate": "30/07/2020 02:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -421,44 +421,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "500",
-      "st": "29/07/2020 13:00",
-      "matricula": "CXCLS",
-      "posicion": "18A",
-      "et": "",
-      "at": "29/7/2020 14:01",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "424",
-      "st": "29/07/2020 13:30",
-      "matricula": "CXLSS",
-      "posicion": "18B",
-      "et": "",
-      "at": "29/7/2020 14:05",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "FAA",
       "vuelo": "MRM",
       "st": "29/07/2020 14:30",
@@ -731,7 +693,7 @@
       "matricula": "CXMAS",
       "posicion": "04",
       "et": "",
-      "at": "",
+      "at": "30/7/2020 01:50",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -739,7 +701,7 @@
       "puerta": "03",
       "ruta": "MVD",
       "via": "",
-      "remark": "HOR",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
