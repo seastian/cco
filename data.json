@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/07/2020 01:29",
+  "lastUpdate": "30/07/2020 01:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -133,6 +133,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "CBP",
+      "st": "30/07/2020 13:30",
+      "matricula": "LVCBP",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "PDP",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO",
+      "pax": "6"
     },
     {
       "tipo": "arribo",
@@ -361,25 +380,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LH",
-      "vuelo": "8267",
-      "st": "29/07/2020 08:25",
-      "matricula": "DALCC",
-      "posicion": "17",
-      "et": "29/7/2020 11:00",
-      "at": "29/7/2020 13:30",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "FRA",
-      "via": "VCP",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
@@ -682,7 +682,7 @@
       "puerta": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -814,6 +814,44 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "ASU",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AF",
+      "vuelo": "229",
+      "st": "30/07/2020 13:30",
+      "matricula": "FHRBI",
+      "posicion": "09",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "211",
+      "chkTo": "218",
+      "puerta": "09",
+      "ruta": "CDG",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "424",
+      "st": "30/07/2020 13:30",
+      "matricula": "CXCLS",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
