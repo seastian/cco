@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/07/2020 16:15",
+  "lastUpdate": "31/07/2020 16:21",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -245,25 +245,6 @@
       "ruta": "MIA",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "5X",
-      "vuelo": "412",
-      "st": "31/07/2020 05:12",
-      "matricula": "N325UP",
-      "posicion": "17",
-      "et": "",
-      "at": "31/7/2020 04:16",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -532,25 +513,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1104",
-      "st": "31/07/2020 01:40",
-      "matricula": "N532LA",
-      "posicion": "18",
-      "et": "31/7/2020 03:25",
-      "at": "31/7/2020 04:20",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
