@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "31/07/2020 02:57",
+  "lastUpdate": "31/07/2020 03:03",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1133",
-      "st": "31/07/2020 02:50",
-      "matricula": "LVGHQ",
-      "posicion": "12",
-      "et": "31/7/2020 03:02",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "008",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "241"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "5X",
@@ -418,6 +399,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1133",
+      "st": "31/07/2020 02:50",
+      "matricula": "LVGHQ",
+      "posicion": "12",
+      "et": "31/7/2020 03:02",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "8",
+      "lF": "008",
+      "ruta": "MAD",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "241"
     },
     {
       "tipo": "partida",
