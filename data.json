@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/07/2020 16:53",
+  "lastUpdate": "31/07/2020 17:00",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -473,25 +473,6 @@
       "ruta": "NQN",
       "via": "",
       "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "DN",
-      "vuelo": "9007",
-      "st": "30/07/2020 16:40",
-      "matricula": "LVITK",
-      "posicion": "H3B",
-      "et": "30/7/2020 16:40",
-      "at": "",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "AEP",
-      "via": "",
-      "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
     },
