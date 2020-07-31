@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/07/2020 10:27",
+  "lastUpdate": "31/07/2020 10:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -947,6 +947,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MVD",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AA",
+      "vuelo": "9708",
+      "st": "31/07/2020 22:30",
+      "matricula": "N795AN",
+      "posicion": "04",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "03",
+      "ruta": "MIA",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
