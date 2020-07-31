@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/07/2020 18:42",
+  "lastUpdate": "31/07/2020 18:49",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -745,7 +745,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24",
+      "vuelo": "H24N",
       "st": "31/07/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -753,7 +753,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "209",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -783,7 +783,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
+      "vuelo": "H24",
       "st": "31/07/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -791,7 +791,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
