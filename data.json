@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/07/2020 07:40",
+  "lastUpdate": "31/07/2020 07:46",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -226,25 +226,6 @@
       "ruta": "ASU",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "DN",
-      "vuelo": "9009",
-      "st": "30/07/2020 19:40",
-      "matricula": "LVIQZ",
-      "posicion": "H1C",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "AEP",
-      "via": "",
-      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
@@ -503,14 +484,14 @@
       "matricula": "LVIWS",
       "posicion": "07",
       "et": "",
-      "at": "",
+      "at": "31/7/2020 07:45",
       "term": "C",
       "sector": "CAC",
       "cinta": "",
       "lF": "",
       "ruta": "SLA",
       "via": "",
-      "remark": "HOR",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "1"
     },
