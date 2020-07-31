@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "31/07/2020 12:16",
+  "lastUpdate": "31/07/2020 12:23",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "501",
-      "st": "31/07/2020 12:20",
-      "matricula": "CXLSS",
-      "posicion": "03",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "OY",
@@ -535,6 +516,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "AOG",
+      "vuelo": "501",
+      "st": "31/07/2020 12:20",
+      "matricula": "CXLSS",
+      "posicion": "03",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "FQ",
       "vuelo": "8000",
       "st": "31/07/2020 13:00",
@@ -551,25 +551,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1370",
-      "st": "30/07/2020 23:45",
-      "matricula": "LVGKP",
-      "posicion": "16",
-      "et": "",
-      "at": "31/7/2020 00:21",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "22",
-      "ruta": "SJO",
-      "via": "CUN",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
