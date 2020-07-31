@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/07/2020 20:51",
+  "lastUpdate": "31/07/2020 20:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -26,7 +26,7 @@
       "vuelo": "421",
       "st": "31/07/2020 21:00",
       "matricula": "CXLSS",
-      "posicion": "",
+      "posicion": "56B",
       "et": "31/7/2020 21:40",
       "at": "",
       "term": "TCA",
@@ -706,11 +706,30 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "FAA",
+      "vuelo": "T25",
+      "st": "31/07/2020 21:00",
+      "matricula": "T25",
+      "posicion": "18B",
+      "et": "",
+      "at": "31/7/2020 20:53",
+      "term": "C",
+      "sector": "CPC",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "-AR",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "AOG",
       "vuelo": "526",
       "st": "31/07/2020 22:00",
       "matricula": "CXLSS",
-      "posicion": "",
+      "posicion": "56B",
       "et": "31/7/2020 22:15",
       "at": "",
       "term": "TCA",
