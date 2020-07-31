@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/07/2020 21:42",
+  "lastUpdate": "30/07/2020 21:48",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -160,7 +160,7 @@
       "st": "31/07/2020 05:40",
       "matricula": "",
       "posicion": "",
-      "et": "",
+      "et": "31/7/2020 05:28",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -168,9 +168,9 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
