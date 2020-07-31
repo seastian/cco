@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/07/2020 00:35",
+  "lastUpdate": "31/07/2020 00:42",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -84,7 +84,7 @@
       "st": "31/07/2020 05:40",
       "matricula": "CCBGJ",
       "posicion": "09",
-      "et": "31/7/2020 05:28",
+      "et": "31/7/2020 05:38",
       "at": "",
       "term": "TCA",
       "sector": "",
