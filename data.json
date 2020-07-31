@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/07/2020 19:27",
+  "lastUpdate": "31/07/2020 19:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -133,6 +133,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "IWS",
+      "st": "01/08/2020 07:30",
+      "matricula": "LVIWS",
+      "posicion": "40",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SLA",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO",
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -427,14 +446,14 @@
       "matricula": "CXCLS",
       "posicion": "56B",
       "et": "",
-      "at": "",
+      "at": "31/7/2020 19:29",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "CON",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
