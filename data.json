@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "31/07/2020 19:08",
+  "lastUpdate": "31/07/2020 19:15",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "502",
-      "st": "31/07/2020 19:10",
-      "matricula": "CXCLS",
-      "posicion": "56B",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "FAA",
@@ -437,6 +418,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AOG",
+      "vuelo": "502",
+      "st": "31/07/2020 19:10",
+      "matricula": "CXCLS",
+      "posicion": "56B",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
