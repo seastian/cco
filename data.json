@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "31/07/2020 15:55",
+  "lastUpdate": "31/07/2020 16:01",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1981",
-      "st": "31/07/2020 16:40",
-      "matricula": "CCBGA",
-      "posicion": "05",
-      "et": "31/7/2020 16:00",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "0"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AJ",
@@ -513,6 +494,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "1981",
+      "st": "31/07/2020 16:40",
+      "matricula": "CCBGA",
+      "posicion": "05",
+      "et": "31/7/2020 16:00",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "0"
     },
     {
       "tipo": "arribo",
