@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/07/2020 14:25",
+  "lastUpdate": "31/07/2020 14:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -266,25 +266,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1104",
-      "st": "30/07/2020 23:30",
-      "matricula": "N532LA",
-      "posicion": "18",
-      "et": "",
-      "at": "31/7/2020 02:30",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
