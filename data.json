@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/07/2020 23:25",
+  "lastUpdate": "30/07/2020 23:31",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -214,20 +214,20 @@
       "tipo": "arribo",
       "aerolinea": "AOG",
       "vuelo": "423",
-      "st": "30/07/2020 11:30",
-      "matricula": "CXLSS",
-      "posicion": "17A",
+      "st": "31/07/2020 11:30",
+      "matricula": "CXCLS",
+      "posicion": "",
       "et": "",
-      "at": "30/7/2020 11:27",
+      "at": "",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "ATE",
+      "remark": "",
       "sanidad": "NO",
-      "pax": "0"
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -795,6 +795,25 @@
       "chkTo": "",
       "puerta": "10",
       "ruta": "AMS",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "2D",
+      "vuelo": "172",
+      "st": "31/07/2020 11:30",
+      "matricula": "N706KW",
+      "posicion": "03",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "076",
+      "chkTo": "081",
+      "puerta": "02",
+      "ruta": "MIA",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
