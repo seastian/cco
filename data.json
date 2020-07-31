@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/07/2020 06:36",
+  "lastUpdate": "31/07/2020 06:42",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -18,7 +18,7 @@
       "via": "",
       "remark": "HOR",
       "sanidad": "NO",
-      "pax": "0"
+      "pax": "1"
     },
     {
       "tipo": "arribo",
@@ -155,6 +155,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "UC",
+      "vuelo": "1105",
+      "st": "31/07/2020 17:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "M3",
       "vuelo": "8450",
       "st": "31/07/2020 17:00",
@@ -174,22 +193,22 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1105",
-      "st": "31/07/2020 17:00",
-      "matricula": "",
+      "aerolinea": "AZ",
+      "vuelo": "680",
+      "st": "31/07/2020 19:05",
+      "matricula": "EIDBK",
       "posicion": "",
-      "et": "",
+      "et": "31/7/2020 18:35",
       "at": "",
-      "term": "TCA",
+      "term": "A",
       "sector": "",
       "cinta": "",
       "lF": "",
-      "ruta": "MIA",
+      "ruta": "FCO",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "20"
     },
     {
       "tipo": "arribo",
@@ -814,6 +833,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MIA",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LA",
+      "vuelo": "1981",
+      "st": "31/07/2020 18:40",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
