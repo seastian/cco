@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/07/2020 15:03",
+  "lastUpdate": "31/07/2020 15:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -522,14 +522,14 @@
       "matricula": "T25",
       "posicion": "18B",
       "et": "",
-      "at": "",
+      "at": "31/7/2020 15:00",
       "term": "C",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "EZE",
       "via": "",
-      "remark": "CON",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
