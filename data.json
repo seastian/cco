@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/07/2020 12:03",
+  "lastUpdate": "31/07/2020 12:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -731,7 +731,7 @@
       "matricula": "N706KW",
       "posicion": "03",
       "et": "",
-      "at": "",
+      "at": "31/7/2020 12:03",
       "term": "A",
       "sector": "AP",
       "chkFrom": "076",
@@ -739,7 +739,7 @@
       "puerta": "02",
       "ruta": "MIA",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
