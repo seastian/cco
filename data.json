@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/07/2020 04:33",
+  "lastUpdate": "31/07/2020 04:40",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -418,25 +418,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "BA",
-      "vuelo": "244F",
-      "st": "30/07/2020 16:30",
-      "matricula": "GZBJB",
-      "posicion": "10",
-      "et": "",
-      "at": "30/7/2020 16:34",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "10",
-      "ruta": "LHR",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
