@@ -1,6 +1,25 @@
 {
-  "lastUpdate": "31/07/2020 20:18",
+  "lastUpdate": "31/07/2020 20:25",
   "vuelos": [
+    {
+      "tipo": "arribo",
+      "aerolinea": "DN",
+      "vuelo": "9007",
+      "st": "30/07/2020 16:40",
+      "matricula": "LVITK",
+      "posicion": "H3B",
+      "et": "30/7/2020 20:30",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "AEP",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": ""
+    },
     {
       "tipo": "arribo",
       "aerolinea": "AOG",
@@ -152,6 +171,25 @@
       "remark": "HOR",
       "sanidad": "NO",
       "pax": "0"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "BA",
+      "vuelo": "245F",
+      "st": "01/08/2020 08:20",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "LHR",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
