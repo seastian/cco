@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/07/2020 13:53",
+  "lastUpdate": "31/07/2020 13:59",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -549,25 +549,6 @@
       "ruta": "AEP",
       "via": "",
       "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "DN",
-      "vuelo": "9005",
-      "st": "30/07/2020 13:40",
-      "matricula": "LVHQH",
-      "posicion": "H1A",
-      "et": "30/7/2020 13:40",
-      "at": "",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "AEP",
-      "via": "",
-      "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
     },
