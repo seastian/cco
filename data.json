@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/07/2020 01:01",
+  "lastUpdate": "31/07/2020 01:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -459,44 +459,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "PRV",
-      "vuelo": "CBP",
-      "st": "30/07/2020 11:30",
-      "matricula": "LVCBP",
-      "posicion": "05",
-      "et": "",
-      "at": "30/7/2020 13:07",
-      "term": "C",
-      "sector": "CPC",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "04",
-      "ruta": "FDO",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "500",
-      "st": "30/07/2020 13:00",
-      "matricula": "CXLSS",
-      "posicion": "17A",
-      "et": "",
-      "at": "30/7/2020 13:07",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AOG",
       "vuelo": "424",
       "st": "30/07/2020 13:30",
@@ -720,7 +682,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "EST",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
