@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/07/2020 10:08",
+  "lastUpdate": "31/07/2020 10:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -769,7 +769,7 @@
       "matricula": "PHBHO",
       "posicion": "10",
       "et": "",
-      "at": "",
+      "at": "31/7/2020 10:10",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -777,7 +777,7 @@
       "puerta": "10",
       "ruta": "AMS",
       "via": "",
-      "remark": "HOR",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
