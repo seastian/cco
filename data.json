@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/07/2020 13:08",
+  "lastUpdate": "31/07/2020 13:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -570,25 +570,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "M3",
-      "vuelo": "8494",
-      "st": "31/07/2020 02:10",
-      "matricula": "PRACO",
-      "posicion": "17",
-      "et": "31/7/2020 01:07",
-      "at": "31/7/2020 01:10",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
