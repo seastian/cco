@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/07/2020 09:10",
+  "lastUpdate": "31/07/2020 09:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -266,25 +266,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "2D",
-      "vuelo": "171",
-      "st": "30/07/2020 19:20",
-      "matricula": "N706KW",
-      "posicion": "03",
-      "et": "30/7/2020 21:15",
-      "at": "30/7/2020 21:14",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "007",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "128"
     },
     {
       "tipo": "arribo",
