@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/07/2020 22:46",
+  "lastUpdate": "30/07/2020 22:53",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -209,25 +209,6 @@
       "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "CBP",
-      "st": "30/07/2020 10:30",
-      "matricula": "LVCBP",
-      "posicion": "05",
-      "et": "",
-      "at": "30/7/2020 10:46",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "PDP",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "6"
     },
     {
       "tipo": "arribo",
@@ -757,6 +738,25 @@
       "chkTo": "",
       "puerta": "06",
       "ruta": "-AR",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "KL",
+      "vuelo": "702",
+      "st": "31/07/2020 10:50",
+      "matricula": "PHBHO",
+      "posicion": "10",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "10",
+      "ruta": "AMS",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
