@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/07/2020 10:01",
+  "lastUpdate": "31/07/2020 10:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -64,7 +64,7 @@
       "vuelo": "8000",
       "st": "31/07/2020 13:00",
       "matricula": "LVHQU",
-      "posicion": "",
+      "posicion": "66C",
       "et": "",
       "at": "",
       "term": "C",
@@ -341,7 +341,7 @@
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -360,7 +360,7 @@
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -436,7 +436,7 @@
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
