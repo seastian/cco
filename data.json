@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/07/2020 15:10",
+  "lastUpdate": "31/07/2020 15:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -266,25 +266,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1133",
-      "st": "31/07/2020 02:50",
-      "matricula": "LVGHQ",
-      "posicion": "12",
-      "et": "31/7/2020 03:02",
-      "at": "31/7/2020 03:11",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "008",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "241"
     },
     {
       "tipo": "arribo",
@@ -720,7 +701,7 @@
       "puerta": "",
       "ruta": "VCP",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
