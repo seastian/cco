@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/07/2020 00:23",
+  "lastUpdate": "31/07/2020 00:29",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -205,6 +205,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "ASU",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "OY",
+      "vuelo": "WGM",
+      "st": "31/07/2020 12:25",
+      "matricula": "LVWGM",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "AEP",
       "via": "",
       "remark": "",
       "sanidad": "NO",
