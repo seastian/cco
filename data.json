@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30/07/2020 22:01",
+  "lastUpdate": "30/07/2020 22:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -415,7 +415,7 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "",
+      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
