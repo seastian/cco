@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/07/2020 12:42",
+  "lastUpdate": "31/07/2020 12:48",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -541,14 +541,14 @@
       "matricula": "LVWGM",
       "posicion": "67A",
       "et": "",
-      "at": "",
+      "at": "31/7/2020 12:42",
       "term": "C",
       "sector": "CAC",
       "cinta": "",
       "lF": "",
       "ruta": "AEP",
       "via": "",
-      "remark": "CON",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
