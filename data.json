@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/07/2020 00:10",
+  "lastUpdate": "31/07/2020 00:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -568,7 +568,7 @@
       "puerta": "22",
       "ruta": "SJO",
       "via": "CUN",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
