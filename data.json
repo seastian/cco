@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/07/2020 08:31",
+  "lastUpdate": "31/07/2020 08:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -228,6 +228,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "CTA",
+      "st": "31/07/2020 23:35",
+      "matricula": "T7CTA",
+      "posicion": "",
+      "et": "31/7/2020 20:35",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "FOR",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "0"
     },
     {
       "tipo": "arribo",
