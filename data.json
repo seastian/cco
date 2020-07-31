@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/07/2020 02:44",
+  "lastUpdate": "31/07/2020 02:51",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -364,6 +364,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "UC",
+      "vuelo": "1104",
+      "st": "30/07/2020 23:30",
+      "matricula": "N532LA",
+      "posicion": "18",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "M3",
       "vuelo": "8494",
       "st": "30/07/2020 23:45",
@@ -399,25 +418,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1104",
-      "st": "30/07/2020 23:30",
-      "matricula": "N532LA",
-      "posicion": "18",
-      "et": "31/7/2020 02:30",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "partida",
