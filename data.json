@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/07/2020 11:38",
+  "lastUpdate": "31/07/2020 11:45",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -300,25 +300,6 @@
       "cinta": "",
       "lF": "",
       "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "M3",
-      "vuelo": "8494",
-      "st": "30/07/2020 23:45",
-      "matricula": "PRACO",
-      "posicion": "17",
-      "et": "",
-      "at": "30/7/2020 23:42",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "VCP",
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
