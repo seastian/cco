@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "31/07/2020 16:21",
+  "lastUpdate": "31/07/2020 16:27",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AJ",
-      "vuelo": "IVA",
-      "st": "31/07/2020 15:30",
-      "matricula": "LVIVA",
-      "posicion": "45",
-      "et": "31/7/2020 16:30",
-      "at": "",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "NQN",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "DN",
@@ -497,6 +478,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "AJ",
+      "vuelo": "IVA",
+      "st": "31/07/2020 15:30",
+      "matricula": "LVIVA",
+      "posicion": "45",
+      "et": "31/7/2020 16:30",
+      "at": "31/7/2020 16:25",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "NQN",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "DN",
       "vuelo": "9009",
       "st": "30/07/2020 19:40",
@@ -682,7 +682,7 @@
       "puerta": "",
       "ruta": "EZE",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
