@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31/07/2020 23:19",
+  "lastUpdate": "31/07/2020 23:25",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -820,25 +820,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "M3",
-      "vuelo": "8496",
-      "st": "01/08/2020 02:10",
-      "matricula": "PRABB",
-      "posicion": "54",
-      "et": "1/8/2020 01:30",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AMS",
       "vuelo": "7119",
       "st": "01/08/2020 01:30",
@@ -854,6 +835,25 @@
       "ruta": "MVD",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "8496",
+      "st": "01/08/2020 02:10",
+      "matricula": "PRABB",
+      "posicion": "54",
+      "et": "1/8/2020 01:30",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "EST",
       "sanidad": "NO"
     },
     {
@@ -928,6 +928,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "SFN",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AJ",
+      "vuelo": "IVA",
+      "st": "01/08/2020 11:20",
+      "matricula": "LVIVA",
+      "posicion": "45",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPC",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "-AR",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
