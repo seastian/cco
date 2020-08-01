@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/08/2020 19:26",
+  "lastUpdate": "01/08/2020 19:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -199,14 +199,14 @@
       "matricula": "CCBGK",
       "posicion": "08",
       "et": "1/8/2020 19:20",
-      "at": "",
+      "at": "1/8/2020 19:25",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
