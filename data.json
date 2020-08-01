@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/08/2020 09:04",
+  "lastUpdate": "01/08/2020 09:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -465,7 +465,7 @@
       "matricula": "LVIVA",
       "posicion": "45",
       "et": "1/8/2020 10:40",
-      "at": "",
+      "at": "1/8/2020 09:07",
       "term": "C",
       "sector": "CPC",
       "chkFrom": "",
@@ -473,7 +473,7 @@
       "puerta": "",
       "ruta": "SFN",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
