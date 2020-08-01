@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/08/2020 06:03",
+  "lastUpdate": "01/08/2020 06:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -460,25 +460,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
-      "st": "31/07/2020 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "209",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "QTR",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "H24",
       "st": "31/07/2020 23:59",
       "matricula": "",
@@ -508,6 +489,25 @@
       "sector": "AP",
       "chkFrom": "041",
       "chkTo": "053",
+      "puerta": "",
+      "ruta": "QTR",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "H24N",
+      "st": "31/07/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "209",
+      "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
       "via": "",
@@ -579,7 +579,7 @@
       "matricula": "N325UP",
       "posicion": "55",
       "et": "",
-      "at": "",
+      "at": "1/8/2020 06:03",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -587,7 +587,7 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "HOR",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
