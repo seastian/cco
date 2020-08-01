@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/08/2020 14:49",
+  "lastUpdate": "01/08/2020 14:56",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -313,7 +313,7 @@
       "matricula": "EIDBK",
       "posicion": "10",
       "et": "",
-      "at": "",
+      "at": "1/8/2020 14:54",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "201",
@@ -321,7 +321,7 @@
       "puerta": "10",
       "ruta": "FCO",
       "via": "",
-      "remark": "ULT",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
