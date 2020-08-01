@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/08/2020 14:56",
+  "lastUpdate": "01/08/2020 15:02",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -190,25 +190,6 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LA",
-      "vuelo": "1973",
-      "st": "01/08/2020 02:40",
-      "matricula": "CCBGO",
-      "posicion": "03",
-      "et": "",
-      "at": "1/8/2020 02:58",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "02",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
