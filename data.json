@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/08/2020 14:36",
+  "lastUpdate": "01/08/2020 14:43",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -511,6 +511,25 @@
       "puerta": "",
       "ruta": "ISL",
       "via": "GRU",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LA",
+      "vuelo": "1231",
+      "st": "02/08/2020 02:40",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
       "remark": "HOR",
       "sanidad": "NO"
     }
