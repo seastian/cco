@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/08/2020 09:55",
+  "lastUpdate": "01/08/2020 10:02",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -55,25 +55,6 @@
       "ruta": "MIA",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1407",
-      "st": "31/07/2020 22:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
@@ -519,6 +500,25 @@
       "aerolinea": "UC",
       "vuelo": "1106",
       "st": "01/08/2020 18:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LA",
+      "vuelo": "1969",
+      "st": "01/08/2020 22:00",
       "matricula": "",
       "posicion": "",
       "et": "",
