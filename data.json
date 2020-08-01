@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/08/2020 01:21",
+  "lastUpdate": "01/08/2020 01:27",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -437,25 +437,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "424",
-      "st": "31/07/2020 13:30",
-      "matricula": "CXLSS",
-      "posicion": "03",
-      "et": "",
-      "at": "31/7/2020 13:26",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "02",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
