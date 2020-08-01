@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/08/2020 18:02",
+  "lastUpdate": "01/08/2020 18:09",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -190,25 +190,6 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "5X",
-      "vuelo": "413",
-      "st": "01/08/2020 06:05",
-      "matricula": "N325UP",
-      "posicion": "55",
-      "et": "",
-      "at": "1/8/2020 06:03",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
