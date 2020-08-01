@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/08/2020 02:38",
+  "lastUpdate": "01/08/2020 02:44",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -612,7 +612,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
+      "vuelo": "H24",
       "st": "31/07/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -620,7 +620,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -631,7 +631,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24",
+      "vuelo": "H24N",
       "st": "31/07/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -639,7 +639,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "209",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -693,7 +693,7 @@
       "matricula": "PRABB",
       "posicion": "54",
       "et": "1/8/2020 01:30",
-      "at": "",
+      "at": "1/8/2020 02:43",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -701,7 +701,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "EST",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -720,7 +720,7 @@
       "puerta": "02",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
