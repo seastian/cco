@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/08/2020 04:27",
+  "lastUpdate": "01/08/2020 04:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -776,6 +776,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "VCP",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "BA",
+      "vuelo": "244F",
+      "st": "01/08/2020 16:30",
+      "matricula": "GZBJH",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "LHR",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
