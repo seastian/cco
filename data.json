@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/08/2020 03:17",
+  "lastUpdate": "01/08/2020 03:23",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -630,25 +630,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "M3",
-      "vuelo": "8496",
-      "st": "01/08/2020 02:10",
-      "matricula": "PRABB",
-      "posicion": "54",
-      "et": "1/8/2020 01:30",
-      "at": "1/8/2020 02:43",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AMS",
       "vuelo": "7119",
       "st": "01/08/2020 01:30",
@@ -664,6 +645,25 @@
       "ruta": "MVD",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "8496",
+      "st": "01/08/2020 02:10",
+      "matricula": "PRABB",
+      "posicion": "54",
+      "et": "1/8/2020 01:30",
+      "at": "1/8/2020 02:43",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
