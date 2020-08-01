@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/08/2020 11:11",
+  "lastUpdate": "01/08/2020 11:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -46,7 +46,7 @@
       "st": "01/08/2020 20:00",
       "matricula": "",
       "posicion": "",
-      "et": "",
+      "et": "1/8/2020 19:15",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -54,6 +54,25 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "TK",
+      "vuelo": "6169",
+      "st": "01/08/2020 23:15",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "ISL",
+      "via": "GRU",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
@@ -232,7 +251,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24",
+      "vuelo": "H24N",
       "st": "31/07/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -240,7 +259,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "209",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -251,7 +270,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
+      "vuelo": "H24",
       "st": "31/07/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -259,7 +278,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
