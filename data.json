@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/08/2020 12:21",
+  "lastUpdate": "01/08/2020 12:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -112,25 +112,6 @@
       "ruta": "JUJ",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "M3",
-      "vuelo": "8496",
-      "st": "31/07/2020 23:45",
-      "matricula": "PRABB",
-      "posicion": "54",
-      "et": "1/8/2020 00:20",
-      "at": "1/8/2020 00:24",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
