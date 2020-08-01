@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/08/2020 13:25",
+  "lastUpdate": "01/08/2020 13:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -46,7 +46,7 @@
       "st": "01/08/2020 20:00",
       "matricula": "",
       "posicion": "",
-      "et": "1/8/2020 19:15",
+      "et": "1/8/2020 18:30",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -212,25 +212,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AMS",
-      "vuelo": "7119",
-      "st": "01/08/2020 01:30",
-      "matricula": "CXMAS",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "LA",
       "vuelo": "1973",
       "st": "01/08/2020 02:40",
@@ -359,7 +340,7 @@
       "puerta": "10",
       "ruta": "FCO",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
