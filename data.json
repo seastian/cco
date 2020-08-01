@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/08/2020 06:55",
+  "lastUpdate": "01/08/2020 07:02",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -95,25 +95,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "380SE",
-      "st": "31/07/2020 19:00",
-      "matricula": "N380SE",
-      "posicion": "H33",
-      "et": "",
-      "at": "31/7/2020 19:00",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "AEP",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
