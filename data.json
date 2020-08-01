@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/08/2020 08:00",
+  "lastUpdate": "01/08/2020 08:06",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -25,6 +25,25 @@
       "aerolinea": "UC",
       "vuelo": "1106",
       "st": "01/08/2020 17:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "1969",
+      "st": "01/08/2020 20:00",
       "matricula": "",
       "posicion": "",
       "et": "",
