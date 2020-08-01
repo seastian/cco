@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/08/2020 12:15",
+  "lastUpdate": "01/08/2020 12:21",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -112,25 +112,6 @@
       "ruta": "JUJ",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1973",
-      "st": "01/08/2020 00:40",
-      "matricula": "CCBGO",
-      "posicion": "03",
-      "et": "1/8/2020 00:15",
-      "at": "1/8/2020 00:16",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
