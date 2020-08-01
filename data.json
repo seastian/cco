@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/08/2020 07:47",
+  "lastUpdate": "01/08/2020 07:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -218,14 +218,14 @@
       "matricula": "LVIWS",
       "posicion": "40",
       "et": "",
-      "at": "",
+      "at": "1/8/2020 07:49",
       "term": "C",
       "sector": "CAC",
       "cinta": "",
       "lF": "",
       "ruta": "SLA",
       "via": "",
-      "remark": "HOR",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
     },
@@ -502,7 +502,7 @@
       "st": "01/08/2020 09:40",
       "matricula": "LVIVA",
       "posicion": "45",
-      "et": "",
+      "et": "1/8/2020 10:40",
       "at": "",
       "term": "C",
       "sector": "CPC",
@@ -511,26 +511,7 @@
       "puerta": "",
       "ruta": "SFN",
       "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AJ",
-      "vuelo": "IVA",
-      "st": "01/08/2020 11:20",
-      "matricula": "LVIVA",
-      "posicion": "45",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPC",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "-AR",
-      "via": "",
-      "remark": "HOR",
+      "remark": "DEM",
       "sanidad": "NO"
     },
     {
