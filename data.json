@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/08/2020 09:10",
+  "lastUpdate": "01/08/2020 09:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -446,7 +446,7 @@
       "matricula": "LVIWS",
       "posicion": "40",
       "et": "",
-      "at": "",
+      "at": "1/8/2020 09:10",
       "term": "C",
       "sector": "CPC",
       "chkFrom": "",
@@ -454,7 +454,7 @@
       "puerta": "24",
       "ruta": "-AR",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
