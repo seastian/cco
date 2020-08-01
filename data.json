@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/08/2020 02:12",
+  "lastUpdate": "01/08/2020 02:18",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -266,25 +266,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "DN",
-      "vuelo": "9009",
-      "st": "30/07/2020 19:40",
-      "matricula": "LVIQZ",
-      "posicion": "H1C",
-      "et": "30/7/2020 19:40",
-      "at": "30/7/2020 14:13",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "AEP",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -687,25 +668,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AMS",
-      "vuelo": "7119",
-      "st": "01/08/2020 01:30",
-      "matricula": "CXMAS",
-      "posicion": "56B",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "M3",
       "vuelo": "8496",
       "st": "01/08/2020 02:10",
@@ -721,6 +683,25 @@
       "ruta": "SCL",
       "via": "",
       "remark": "EST",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AMS",
+      "vuelo": "7119",
+      "st": "01/08/2020 01:30",
+      "matricula": "CXMAS",
+      "posicion": "56B",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
