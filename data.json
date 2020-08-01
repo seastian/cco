@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/08/2020 12:41",
+  "lastUpdate": "01/08/2020 12:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -117,22 +117,22 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "CTA",
-      "st": "31/07/2020 23:35",
-      "matricula": "T7CTA",
-      "posicion": "02",
-      "et": "1/8/2020 00:40",
-      "at": "1/8/2020 00:46",
-      "term": "A",
+      "aerolinea": "LA",
+      "vuelo": "1231",
+      "st": "02/08/2020 00:40",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
-      "ruta": "FOR",
+      "ruta": "MIA",
       "via": "",
-      "remark": "ATE",
+      "remark": "",
       "sanidad": "NO",
-      "pax": "0"
+      "pax": ""
     },
     {
       "tipo": "arribo",
