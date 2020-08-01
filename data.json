@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/08/2020 19:32",
+  "lastUpdate": "01/08/2020 19:39",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -129,25 +129,6 @@
       "cinta": "",
       "lF": "",
       "ruta": "SLA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "BA",
-      "vuelo": "245F",
-      "st": "01/08/2020 08:20",
-      "matricula": "GZBJH",
-      "posicion": "03",
-      "et": "1/8/2020 07:35",
-      "at": "1/8/2020 07:36",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "LHR",
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
