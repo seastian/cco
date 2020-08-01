@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/08/2020 09:49",
+  "lastUpdate": "01/08/2020 09:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -212,25 +212,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "526",
-      "st": "31/07/2020 22:00",
-      "matricula": "CXLSS",
-      "posicion": "56B",
-      "et": "31/7/2020 22:15",
-      "at": "31/7/2020 21:50",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AA",
       "vuelo": "9708",
       "st": "31/07/2020 22:30",
@@ -427,7 +408,7 @@
       "matricula": "LVJKE",
       "posicion": "06",
       "et": "",
-      "at": "",
+      "at": "1/8/2020 09:49",
       "term": "C",
       "sector": "",
       "chkFrom": "",
@@ -435,7 +416,7 @@
       "puerta": "05",
       "ruta": "BHI",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
