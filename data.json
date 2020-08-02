@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/08/2020 11:02",
+  "lastUpdate": "02/08/2020 11:09",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -82,6 +82,25 @@
       "aerolinea": "UC",
       "vuelo": "1107",
       "st": "02/08/2020 23:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "GTI",
+      "vuelo": "033",
+      "st": "02/08/2020 23:05",
       "matricula": "",
       "posicion": "",
       "et": "",
