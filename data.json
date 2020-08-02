@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/08/2020 22:50",
+  "lastUpdate": "01/08/2020 22:56",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -434,6 +434,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "BOG",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "KL",
+      "vuelo": "702",
+      "st": "02/08/2020 10:50",
+      "matricula": "PHBHO",
+      "posicion": "10",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "10",
+      "ruta": "AMS",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
