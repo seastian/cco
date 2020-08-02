@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/08/2020 14:15",
+  "lastUpdate": "02/08/2020 14:21",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -91,6 +91,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "MVD",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "5X",
+      "vuelo": "416",
+      "st": "03/08/2020 02:19",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
       "via": "",
       "remark": "",
       "sanidad": "NO",
