@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/08/2020 21:08",
+  "lastUpdate": "01/08/2020 21:15",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -190,25 +190,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "PRV",
-      "vuelo": "IWS",
-      "st": "01/08/2020 09:00",
-      "matricula": "LVIWS",
-      "posicion": "40",
-      "et": "",
-      "at": "1/8/2020 09:10",
-      "term": "C",
-      "sector": "CPC",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "24",
-      "ruta": "-AR",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
