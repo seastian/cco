@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/08/2020 08:21",
+  "lastUpdate": "02/08/2020 08:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -206,7 +206,7 @@
       "lF": "",
       "ruta": "LHR",
       "via": "",
-      "remark": "",
+      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
