@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "01/08/2020 23:47",
+  "lastUpdate": "01/08/2020 23:53",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1231",
-      "st": "02/08/2020 00:40",
-      "matricula": "CCBGI",
-      "posicion": "10",
-      "et": "1/8/2020 23:50",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "0"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AJ",
@@ -209,6 +190,25 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "1231",
+      "st": "02/08/2020 00:40",
+      "matricula": "CCBGI",
+      "posicion": "10",
+      "et": "1/8/2020 23:50",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "0"
     },
     {
       "tipo": "partida",
