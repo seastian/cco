@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/08/2020 13:04",
+  "lastUpdate": "02/08/2020 13:11",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -264,25 +264,6 @@
       "puerta": "07",
       "ruta": "ISL",
       "via": "GRU",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LA",
-      "vuelo": "1231",
-      "st": "02/08/2020 02:40",
-      "matricula": "CCBGI",
-      "posicion": "10",
-      "et": "",
-      "at": "2/8/2020 01:07",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "10",
-      "ruta": "SCL",
-      "via": "",
       "remark": "PAR",
       "sanidad": "NO"
     },
