@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/08/2020 13:30",
+  "lastUpdate": "02/08/2020 13:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -294,7 +294,7 @@
       "matricula": "ECNIG",
       "posicion": "09",
       "et": "",
-      "at": "",
+      "at": "2/8/2020 13:32",
       "term": "A",
       "sector": "AP",
       "chkFrom": "027",
@@ -302,7 +302,7 @@
       "puerta": "08",
       "ruta": "MAD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
