@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/08/2020 21:28",
+  "lastUpdate": "01/08/2020 21:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -64,7 +64,7 @@
       "vuelo": "IVA",
       "st": "02/08/2020 00:00",
       "matricula": "LVIVA",
-      "posicion": "",
+      "posicion": "45",
       "et": "",
       "at": "",
       "term": "C",
