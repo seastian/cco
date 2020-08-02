@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/08/2020 21:02",
+  "lastUpdate": "01/08/2020 21:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -225,25 +225,6 @@
       "chkTo": "",
       "puerta": "05",
       "ruta": "BHI",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AJ",
-      "vuelo": "IVA",
-      "st": "01/08/2020 09:40",
-      "matricula": "LVIVA",
-      "posicion": "45",
-      "et": "1/8/2020 10:40",
-      "at": "1/8/2020 09:07",
-      "term": "C",
-      "sector": "CPC",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SFN",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
