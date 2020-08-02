@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/08/2020 20:28",
+  "lastUpdate": "02/08/2020 20:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -45,7 +45,7 @@
       "vuelo": "101",
       "st": "03/08/2020 01:00",
       "matricula": "CXCAR",
-      "posicion": "",
+      "posicion": "51A",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -435,7 +435,7 @@
       "puerta": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -539,7 +539,7 @@
       "vuelo": "101",
       "st": "03/08/2020 03:00",
       "matricula": "CXCAR",
-      "posicion": "",
+      "posicion": "51A",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -605,6 +605,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "SCL",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "103",
+      "st": "03/08/2020 08:30",
+      "matricula": "CXCAR",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
