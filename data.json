@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/08/2020 09:32",
+  "lastUpdate": "02/08/2020 09:39",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -374,7 +374,7 @@
       "term": "A",
       "sector": "AP",
       "chkFrom": "027",
-      "chkTo": "032",
+      "chkTo": "035",
       "puerta": "09",
       "ruta": "MAD",
       "via": "",
