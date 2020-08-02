@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/08/2020 07:24",
+  "lastUpdate": "02/08/2020 07:30",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -93,25 +93,6 @@
       "ruta": "MVD",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1969",
-      "st": "01/08/2020 20:00",
-      "matricula": "CCBGK",
-      "posicion": "08",
-      "et": "1/8/2020 19:20",
-      "at": "1/8/2020 19:25",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
