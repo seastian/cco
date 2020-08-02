@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01/08/2020 21:47",
+  "lastUpdate": "01/08/2020 21:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -190,25 +190,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "FAA",
-      "vuelo": "PF30",
-      "st": "01/08/2020 09:30",
-      "matricula": "LVJKE",
-      "posicion": "06",
-      "et": "",
-      "at": "1/8/2020 09:49",
-      "term": "C",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "05",
-      "ruta": "BHI",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
