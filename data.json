@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/08/2020 02:28",
+  "lastUpdate": "03/08/2020 02:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -690,6 +690,25 @@
       "aerolinea": "UC",
       "vuelo": "1301",
       "st": "03/08/2020 13:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1711",
+      "st": "03/08/2020 14:30",
       "matricula": "",
       "posicion": "",
       "et": "",
