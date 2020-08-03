@@ -1,13 +1,13 @@
 {
-  "lastUpdate": "03/08/2020 15:32",
+  "lastUpdate": "03/08/2020 15:39",
   "vuelos": [
     {
       "tipo": "arribo",
       "aerolinea": "LA",
       "vuelo": "1229",
       "st": "03/08/2020 17:00",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "CCBGP",
+      "posicion": "09",
       "et": "3/8/2020 16:00",
       "at": "",
       "term": "TCA",
@@ -26,7 +26,7 @@
       "vuelo": "1821",
       "st": "03/08/2020 16:05",
       "matricula": "LVCTC",
-      "posicion": "",
+      "posicion": "51A",
       "et": "3/8/2020 16:32",
       "at": "",
       "term": "C",
