@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/08/2020 18:58",
+  "lastUpdate": "03/08/2020 19:04",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -399,25 +399,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "134"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LA",
-      "vuelo": "1278",
-      "st": "03/08/2020 06:57",
-      "matricula": "CCBAC",
-      "posicion": "09",
-      "et": "",
-      "at": "3/8/2020 07:00",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "09",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
