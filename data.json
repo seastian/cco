@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/08/2020 13:30",
+  "lastUpdate": "03/08/2020 13:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -196,6 +196,25 @@
       "aerolinea": "UC",
       "vuelo": "1102",
       "st": "04/08/2020 00:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "9573",
+      "st": "04/08/2020 01:30",
       "matricula": "",
       "posicion": "",
       "et": "",
@@ -606,7 +625,7 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -871,6 +890,25 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1102",
+      "st": "04/08/2020 01:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
