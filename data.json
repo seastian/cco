@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/08/2020 13:49",
+  "lastUpdate": "03/08/2020 13:56",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -159,7 +159,7 @@
       "vuelo": "2245",
       "st": "03/08/2020 21:55",
       "matricula": "LVCIE",
-      "posicion": "23B",
+      "posicion": "",
       "et": "",
       "at": "",
       "term": "A",
