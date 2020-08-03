@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/08/2020 09:26",
+  "lastUpdate": "03/08/2020 09:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -825,6 +825,25 @@
       "st": "03/08/2020 20:15",
       "matricula": "N353UP",
       "posicion": "36",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1101",
+      "st": "03/08/2020 21:30",
+      "matricula": "",
+      "posicion": "",
       "et": "",
       "at": "",
       "term": "TCA",
