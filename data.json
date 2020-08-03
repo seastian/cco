@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/08/2020 08:54",
+  "lastUpdate": "03/08/2020 09:00",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -597,7 +597,7 @@
       "st": "03/08/2020 09:00",
       "matricula": "LVFUB",
       "posicion": "50A",
-      "et": "",
+      "et": "3/8/2020 09:30",
       "at": "",
       "term": "C",
       "sector": "CPI",
