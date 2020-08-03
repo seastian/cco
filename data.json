@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/08/2020 22:36",
+  "lastUpdate": "02/08/2020 22:43",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -446,7 +446,7 @@
       "matricula": "CXCAR",
       "posicion": "51A",
       "et": "2/8/2020 23:00",
-      "at": "",
+      "at": "2/8/2020 22:37",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -454,7 +454,7 @@
       "puerta": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
