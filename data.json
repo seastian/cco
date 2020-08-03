@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/08/2020 10:11",
+  "lastUpdate": "03/08/2020 10:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -102,7 +102,7 @@
       "vuelo": "9713",
       "st": "03/08/2020 14:40",
       "matricula": "EW465TQ",
-      "posicion": "",
+      "posicion": "56",
       "et": "",
       "at": "",
       "term": "TCA",
