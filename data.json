@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/08/2020 16:17",
+  "lastUpdate": "03/08/2020 16:24",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -398,7 +398,7 @@
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -630,6 +630,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1108",
+      "st": "03/08/2020 23:30",
+      "matricula": "N532LA",
+      "posicion": "54",
+      "et": "3/8/2020 15:25",
+      "at": "3/8/2020 15:55",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "LIM",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "M3",
       "vuelo": "8473",
       "st": "03/08/2020 15:30",
@@ -645,25 +664,6 @@
       "ruta": "POA",
       "via": "",
       "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1108",
-      "st": "03/08/2020 23:30",
-      "matricula": "N532LA",
-      "posicion": "54",
-      "et": "3/8/2020 15:25",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -729,7 +729,7 @@
       "vuelo": "417",
       "st": "03/08/2020 20:15",
       "matricula": "N353UP",
-      "posicion": "36",
+      "posicion": "54",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -783,25 +783,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
-      "st": "03/08/2020 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "209",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "QTR",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "H24",
       "st": "03/08/2020 23:59",
       "matricula": "",
@@ -831,6 +812,25 @@
       "sector": "AP",
       "chkFrom": "041",
       "chkTo": "053",
+      "puerta": "",
+      "ruta": "QTR",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "H24N",
+      "st": "03/08/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "209",
+      "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
       "via": "",
