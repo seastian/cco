@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/08/2020 18:26",
+  "lastUpdate": "03/08/2020 18:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -414,25 +414,6 @@
       "chkFrom": "041",
       "chkTo": "053",
       "puerta": "09",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LA",
-      "vuelo": "9577",
-      "st": "03/08/2020 07:20",
-      "matricula": "CCBGO",
-      "posicion": "08",
-      "et": "",
-      "at": "3/8/2020 06:27",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "07",
       "ruta": "SCL",
       "via": "",
       "remark": "PAR",
