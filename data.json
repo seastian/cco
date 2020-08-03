@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/08/2020 04:11",
+  "lastUpdate": "03/08/2020 04:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -27,7 +27,7 @@
       "st": "03/08/2020 05:57",
       "matricula": "",
       "posicion": "",
-      "et": "",
+      "et": "3/8/2020 05:30",
       "at": "",
       "term": "A",
       "sector": "",
@@ -35,9 +35,9 @@
       "lF": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "13"
     },
     {
       "tipo": "arribo",
