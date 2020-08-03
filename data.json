@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/08/2020 12:32",
+  "lastUpdate": "03/08/2020 12:39",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -653,14 +653,14 @@
       "vuelo": "2244",
       "st": "03/08/2020 15:00",
       "matricula": "LVCIE",
-      "posicion": "23B",
+      "posicion": "10",
       "et": "",
       "at": "",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "10",
       "ruta": "GRU",
       "via": "",
       "remark": "HOR",
