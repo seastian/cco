@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "03/08/2020 02:15",
+  "lastUpdate": "03/08/2020 02:21",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "102",
-      "st": "03/08/2020 07:00",
-      "matricula": "CXCAR",
-      "posicion": "51A",
-      "et": "3/8/2020 02:20",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "GTI",
@@ -321,6 +302,25 @@
       "ruta": "MIA",
       "via": "",
       "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AOG",
+      "vuelo": "102",
+      "st": "03/08/2020 07:00",
+      "matricula": "CXCAR",
+      "posicion": "51A",
+      "et": "3/8/2020 02:20",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
