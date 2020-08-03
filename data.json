@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/08/2020 22:30",
+  "lastUpdate": "02/08/2020 22:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -498,7 +498,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24",
+      "vuelo": "H24N",
       "st": "02/08/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -506,7 +506,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "209",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -517,7 +517,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
+      "vuelo": "H24",
       "st": "02/08/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -525,7 +525,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -643,6 +643,25 @@
       "chkTo": "240",
       "puerta": "24",
       "ruta": "USH",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1820",
+      "st": "03/08/2020 10:30",
+      "matricula": "LVCTC",
+      "posicion": "TD2",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "25",
+      "ruta": "CRD",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
