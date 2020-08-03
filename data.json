@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/08/2020 10:04",
+  "lastUpdate": "03/08/2020 10:11",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -459,25 +459,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "JJ",
-      "vuelo": "H24",
-      "st": "02/08/2020 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "",
-      "ruta": "QTR",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "H24",
       "st": "02/08/2020 23:59",
@@ -489,6 +470,25 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
+      "puerta": "",
+      "ruta": "QTR",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "JJ",
+      "vuelo": "H24",
+      "st": "02/08/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "041",
+      "chkTo": "053",
       "puerta": "",
       "ruta": "QTR",
       "via": "",
@@ -617,7 +617,7 @@
       "matricula": "LVFUB",
       "posicion": "50A",
       "et": "3/8/2020 09:45",
-      "at": "",
+      "at": "3/8/2020 10:03",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -625,7 +625,7 @@
       "puerta": "25",
       "ruta": "USH",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
