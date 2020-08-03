@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/08/2020 11:02",
+  "lastUpdate": "03/08/2020 11:09",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -598,7 +598,7 @@
       "matricula": "LVCTC",
       "posicion": "50B",
       "et": "",
-      "at": "",
+      "at": "3/8/2020 11:04",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -606,7 +606,7 @@
       "puerta": "26",
       "ruta": "CRD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
