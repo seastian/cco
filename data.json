@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/08/2020 12:26",
+  "lastUpdate": "03/08/2020 12:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -158,8 +158,8 @@
       "aerolinea": "AU",
       "vuelo": "2245",
       "st": "03/08/2020 21:55",
-      "matricula": "LVCKZ",
-      "posicion": "",
+      "matricula": "LVCIE",
+      "posicion": "23B",
       "et": "",
       "at": "",
       "term": "A",
@@ -360,7 +360,7 @@
       "via": "MVD",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -606,7 +606,7 @@
       "puerta": "",
       "ruta": "LAX",
       "via": "SCL",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -652,15 +652,15 @@
       "aerolinea": "AU",
       "vuelo": "2244",
       "st": "03/08/2020 15:00",
-      "matricula": "LVCKZ",
-      "posicion": "23A",
+      "matricula": "LVCIE",
+      "posicion": "23B",
       "et": "",
       "at": "",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "13",
+      "puerta": "",
       "ruta": "GRU",
       "via": "",
       "remark": "HOR",
