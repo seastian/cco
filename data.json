@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/08/2020 02:41",
+  "lastUpdate": "03/08/2020 02:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -36,25 +36,6 @@
       "ruta": "SCL",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "102",
-      "st": "03/08/2020 07:00",
-      "matricula": "CXCAR",
-      "posicion": "51A",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
@@ -338,6 +319,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "MIA",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AOG",
+      "vuelo": "102",
+      "st": "03/08/2020 07:00",
+      "matricula": "CXCAR",
+      "posicion": "51A",
+      "et": "",
+      "at": "3/8/2020 02:41",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "ASU",
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
