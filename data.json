@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/08/2020 19:56",
+  "lastUpdate": "03/08/2020 20:02",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -46,7 +46,7 @@
       "st": "03/08/2020 21:55",
       "matricula": "LVCIE",
       "posicion": "07",
-      "et": "",
+      "et": "3/8/2020 22:12",
       "at": "",
       "term": "A",
       "sector": "",
@@ -54,9 +54,9 @@
       "lF": "",
       "ruta": "GRU",
       "via": "",
-      "remark": "",
+      "remark": "DEM",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "67"
     },
     {
       "tipo": "arribo",
@@ -835,6 +835,25 @@
       "ruta": "SID",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AU",
+      "vuelo": "2784",
+      "st": "04/08/2020 08:00",
+      "matricula": "LVCKZ",
+      "posicion": "23A",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "RES",
+      "via": "",
+      "remark": "",
       "sanidad": "NO"
     }
   ]
