@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "03/08/2020 12:13",
+  "lastUpdate": "03/08/2020 12:19",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AL",
-      "vuelo": "9713",
-      "st": "03/08/2020 14:40",
-      "matricula": "EW465TQ",
-      "posicion": "56",
-      "et": "3/8/2020 12:15",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "CAN",
-      "via": "VVI",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "M3",
@@ -435,6 +416,25 @@
       "ruta": "MIA",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AL",
+      "vuelo": "9713",
+      "st": "03/08/2020 14:40",
+      "matricula": "EW465TQ",
+      "posicion": "56",
+      "et": "3/8/2020 12:15",
+      "at": "3/8/2020 12:10",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "CAN",
+      "via": "VVI",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
