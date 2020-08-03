@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "03/08/2020 20:22",
+  "lastUpdate": "03/08/2020 20:28",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1301",
-      "st": "03/08/2020 12:00",
-      "matricula": "N532LA",
-      "posicion": "55",
-      "et": "3/8/2020 20:40",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "QT",
@@ -418,6 +399,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "134"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "UC",
+      "vuelo": "1301",
+      "st": "03/08/2020 12:00",
+      "matricula": "N532LA",
+      "posicion": "55",
+      "et": "3/8/2020 20:40",
+      "at": "3/8/2020 20:26",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "partida",
