@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "02/08/2020 21:58",
+  "lastUpdate": "02/08/2020 22:04",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1407",
-      "st": "02/08/2020 22:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "UC",
@@ -287,23 +268,23 @@
       "pax": ""
     },
     {
-      "tipo": "partida",
-      "aerolinea": "KL",
-      "vuelo": "702",
-      "st": "02/08/2020 10:50",
-      "matricula": "PHBHO",
-      "posicion": "10",
+      "tipo": "arribo",
+      "aerolinea": "UC",
+      "vuelo": "1407",
+      "st": "02/08/2020 22:00",
+      "matricula": "",
+      "posicion": "",
       "et": "",
-      "at": "2/8/2020 10:00",
+      "at": "",
       "term": "TCA",
       "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "10",
-      "ruta": "AMS",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
       "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
+      "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "partida",
