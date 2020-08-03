@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/08/2020 03:00",
+  "lastUpdate": "03/08/2020 03:06",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -738,6 +738,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MIA",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AU",
+      "vuelo": "2244",
+      "st": "03/08/2020 15:00",
+      "matricula": "LVCKZ",
+      "posicion": "23A",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "GRU",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
