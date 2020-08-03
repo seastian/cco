@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/08/2020 00:26",
+  "lastUpdate": "03/08/2020 00:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -701,6 +701,25 @@
       "puerta": "",
       "ruta": "FRA",
       "via": "VCP",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1402",
+      "st": "03/08/2020 12:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "LAX",
+      "via": "SCL",
       "remark": "HOR",
       "sanidad": "NO"
     }
