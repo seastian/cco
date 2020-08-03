@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/08/2020 07:36",
+  "lastUpdate": "03/08/2020 07:43",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -596,14 +596,14 @@
       "vuelo": "1878",
       "st": "03/08/2020 09:00",
       "matricula": "LVFUB",
-      "posicion": "A03",
+      "posicion": "50A",
       "et": "",
       "at": "",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "24",
+      "puerta": "",
       "ruta": "USH",
       "via": "",
       "remark": "HOR",
