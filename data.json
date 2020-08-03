@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/08/2020 16:30",
+  "lastUpdate": "03/08/2020 16:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -674,7 +674,7 @@
       "matricula": "GZBJH",
       "posicion": "04",
       "et": "",
-      "at": "",
+      "at": "3/8/2020 16:35",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -682,7 +682,7 @@
       "puerta": "03",
       "ruta": "LHR",
       "via": "",
-      "remark": "HOR",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -783,6 +783,25 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
+      "vuelo": "H24N",
+      "st": "03/08/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "209",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "QTR",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
       "vuelo": "H24",
       "st": "03/08/2020 23:59",
       "matricula": "",
@@ -812,25 +831,6 @@
       "sector": "AP",
       "chkFrom": "041",
       "chkTo": "053",
-      "puerta": "",
-      "ruta": "QTR",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "H24N",
-      "st": "03/08/2020 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "209",
-      "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
       "via": "",
