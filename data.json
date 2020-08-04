@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/08/2020 04:31",
+  "lastUpdate": "04/08/2020 04:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -326,25 +326,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "BA",
-      "vuelo": "244F",
-      "st": "03/08/2020 16:30",
-      "matricula": "GZBJH",
-      "posicion": "04",
-      "et": "",
-      "at": "3/8/2020 16:35",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "03",
-      "ruta": "LHR",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "UC",
       "vuelo": "1101",
       "st": "03/08/2020 21:30",
@@ -460,7 +441,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
+      "vuelo": "H24",
       "st": "03/08/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -468,7 +449,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -498,7 +479,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24",
+      "vuelo": "H24N",
       "st": "03/08/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -506,7 +487,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "209",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
