@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/08/2020 23:09",
+  "lastUpdate": "03/08/2020 23:15",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -871,6 +871,44 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "SID",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AJ",
+      "vuelo": "IVA",
+      "st": "04/08/2020 05:10",
+      "matricula": "LVIVA",
+      "posicion": "45",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPC",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "TUC",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AJ",
+      "vuelo": "HVE",
+      "st": "04/08/2020 07:20",
+      "matricula": "LVHVE",
+      "posicion": "66B",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPC",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SLA",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
