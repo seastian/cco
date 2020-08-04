@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/08/2020 12:45",
+  "lastUpdate": "04/08/2020 12:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -8,7 +8,7 @@
       "st": "04/08/2020 17:26",
       "matricula": "XAADH",
       "posicion": "50",
-      "et": "4/8/2020 17:10",
+      "et": "4/8/2020 17:18",
       "at": "",
       "term": "TCA",
       "sector": "",
