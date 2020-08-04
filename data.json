@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/08/2020 05:16",
+  "lastUpdate": "04/08/2020 05:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -167,6 +167,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "ASU",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AJ",
+      "vuelo": "IVA",
+      "st": "04/08/2020 17:20",
+      "matricula": "LVIVA",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "NQN",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -358,25 +377,6 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MIA",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LA",
-      "vuelo": "1229",
-      "st": "03/08/2020 19:00",
-      "matricula": "CCBGP",
-      "posicion": "09",
-      "et": "",
-      "at": "3/8/2020 17:18",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "09",
-      "ruta": "SCL",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
