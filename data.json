@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/08/2020 12:26",
+  "lastUpdate": "04/08/2020 12:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -259,8 +259,8 @@
       "at": "4/8/2020 12:07",
       "term": "C",
       "sector": "CAC",
-      "cinta": "",
-      "lF": "",
+      "cinta": "11",
+      "lF": "017",
       "ruta": "RES",
       "via": "",
       "remark": "ATE",
@@ -535,6 +535,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "423",
+      "st": "04/08/2020 12:30",
+      "matricula": "CXCLS",
+      "posicion": "54A",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "PRV",
       "vuelo": "CTA",
       "st": "04/08/2020 09:00",
@@ -550,25 +569,6 @@
       "ruta": "FOR",
       "via": "",
       "remark": "DEM",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "423",
-      "st": "04/08/2020 12:30",
-      "matricula": "CXCLS",
-      "posicion": "54A",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "HOR",
       "sanidad": "NO"
     },
     {
