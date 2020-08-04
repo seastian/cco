@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/08/2020 23:41",
+  "lastUpdate": "03/08/2020 23:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -168,6 +168,25 @@
       "lF": "",
       "ruta": "AMS",
       "via": "VCP",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AU",
+      "vuelo": "2785",
+      "st": "04/08/2020 11:45",
+      "matricula": "LVCKZ",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "RES",
+      "via": "",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
