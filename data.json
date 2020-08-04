@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/08/2020 03:52",
+  "lastUpdate": "04/08/2020 03:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -361,25 +361,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1108",
-      "st": "03/08/2020 23:30",
-      "matricula": "N532LA",
-      "posicion": "54",
-      "et": "3/8/2020 15:25",
-      "at": "3/8/2020 15:55",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
