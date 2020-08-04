@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/08/2020 04:49",
+  "lastUpdate": "04/08/2020 04:56",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -441,7 +441,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24",
+      "vuelo": "H24N",
       "st": "03/08/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -449,7 +449,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "209",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -479,7 +479,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
+      "vuelo": "H24",
       "st": "03/08/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -487,7 +487,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -573,6 +573,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "QR",
+      "vuelo": "8157",
+      "st": "04/08/2020 04:50",
+      "matricula": "A7BFO",
+      "posicion": "55",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "DOH",
+      "via": "UIO",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "AL",
       "vuelo": "9714",
       "st": "04/08/2020 05:00",
@@ -588,25 +607,6 @@
       "ruta": "SID",
       "via": "",
       "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "QR",
-      "vuelo": "8157",
-      "st": "04/08/2020 04:50",
-      "matricula": "A7BFO",
-      "posicion": "55",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "DOH",
-      "via": "UIO",
-      "remark": "HOR",
       "sanidad": "NO"
     },
     {
