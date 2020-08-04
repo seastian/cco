@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/08/2020 22:04",
+  "lastUpdate": "03/08/2020 22:11",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -158,9 +158,9 @@
       "aerolinea": "AF",
       "vuelo": "228",
       "st": "04/08/2020 08:10",
-      "matricula": "",
+      "matricula": "FHRBI",
       "posicion": "",
-      "et": "",
+      "et": "4/8/2020 07:57",
       "at": "",
       "term": "A",
       "sector": "",
@@ -168,9 +168,9 @@
       "lF": "",
       "ruta": "CDG",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "101"
     },
     {
       "tipo": "arribo",
@@ -187,6 +187,25 @@
       "lF": "",
       "ruta": "AMS",
       "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "MP",
+      "vuelo": "6912",
+      "st": "04/08/2020 10:05",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "AMS",
+      "via": "VCP",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
@@ -663,7 +682,7 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "DEM",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
