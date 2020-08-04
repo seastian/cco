@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/08/2020 04:24",
+  "lastUpdate": "04/08/2020 04:31",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -133,25 +133,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1821",
-      "st": "03/08/2020 16:05",
-      "matricula": "LVCTC",
-      "posicion": "51A",
-      "et": "3/8/2020 16:25",
-      "at": "3/8/2020 16:26",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "12",
-      "lF": "017",
-      "ruta": "CRD",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "26"
     },
     {
       "tipo": "arribo",
@@ -796,6 +777,25 @@
       "puerta": "",
       "ruta": "AMS",
       "via": "UIO",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "BA",
+      "vuelo": "244F",
+      "st": "04/08/2020 16:30",
+      "matricula": "GZBJE",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "LHR",
+      "via": "",
       "remark": "HOR",
       "sanidad": "NO"
     }
