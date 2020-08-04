@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/08/2020 10:24",
+  "lastUpdate": "04/08/2020 10:30",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -114,25 +114,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AU",
-      "vuelo": "2245",
-      "st": "03/08/2020 21:55",
-      "matricula": "LVCIE",
-      "posicion": "07",
-      "et": "",
-      "at": "3/8/2020 22:29",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "76"
     },
     {
       "tipo": "arribo",
@@ -345,25 +326,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1301",
-      "st": "03/08/2020 13:30",
-      "matricula": "N532LA",
-      "posicion": "55",
-      "et": "3/8/2020 21:50",
-      "at": "3/8/2020 22:25",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "QT",
       "vuelo": "4078",
       "st": "03/08/2020 22:45",
@@ -403,7 +365,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24",
+      "vuelo": "H24N",
       "st": "03/08/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -411,7 +373,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "209",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -422,7 +384,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
+      "vuelo": "H24",
       "st": "03/08/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -430,7 +392,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
