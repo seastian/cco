@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/08/2020 14:02",
+  "lastUpdate": "04/08/2020 14:09",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -95,25 +95,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "9573",
-      "st": "04/08/2020 01:30",
-      "matricula": "CCBGM",
-      "posicion": "03",
-      "et": "4/8/2020 02:00",
-      "at": "4/8/2020 02:03",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
