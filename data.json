@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/08/2020 21:58",
+  "lastUpdate": "03/08/2020 22:04",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -101,9 +101,9 @@
       "aerolinea": "KL",
       "vuelo": "701",
       "st": "04/08/2020 06:40",
-      "matricula": "PHBQH",
+      "matricula": "PHBQC",
       "posicion": "",
-      "et": "4/8/2020 06:06",
+      "et": "4/8/2020 06:12",
       "at": "",
       "term": "A",
       "sector": "",
@@ -113,7 +113,7 @@
       "via": "",
       "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "99"
     },
     {
       "tipo": "arribo",
@@ -136,6 +136,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "BA",
+      "vuelo": "245F",
+      "st": "04/08/2020 08:20",
+      "matricula": "GZBJE",
+      "posicion": "",
+      "et": "4/8/2020 07:48",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "LHR",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "AF",
       "vuelo": "228",
       "st": "04/08/2020 08:10",
@@ -148,25 +167,6 @@
       "cinta": "",
       "lF": "",
       "ruta": "CDG",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "BA",
-      "vuelo": "245F",
-      "st": "04/08/2020 08:20",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "LHR",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -418,25 +418,6 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1878",
-      "st": "03/08/2020 09:00",
-      "matricula": "LVFUB",
-      "posicion": "50A",
-      "et": "3/8/2020 09:45",
-      "at": "3/8/2020 10:03",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "25",
-      "ruta": "USH",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
