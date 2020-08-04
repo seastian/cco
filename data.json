@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/08/2020 17:26",
+  "lastUpdate": "04/08/2020 17:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -671,6 +671,25 @@
       "aerolinea": "QR",
       "vuelo": "8155",
       "st": "05/08/2020 04:50",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "DOH",
+      "via": "UIO",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "QR",
+      "vuelo": "8155",
+      "st": "05/08/2020 05:30",
       "matricula": "",
       "posicion": "",
       "et": "",
