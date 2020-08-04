@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/08/2020 17:52",
+  "lastUpdate": "04/08/2020 17:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -701,6 +701,25 @@
       "puerta": "",
       "ruta": "DOH",
       "via": "UIO",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LH",
+      "vuelo": "8267",
+      "st": "05/08/2020 05:55",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "FRA",
+      "via": "VCP",
       "remark": "HOR",
       "sanidad": "NO"
     }
