@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/08/2020 23:03",
+  "lastUpdate": "03/08/2020 23:09",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -437,25 +437,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "76"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1820",
-      "st": "03/08/2020 10:30",
-      "matricula": "LVCTC",
-      "posicion": "50B",
-      "et": "",
-      "at": "3/8/2020 11:04",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "26",
-      "ruta": "CRD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
