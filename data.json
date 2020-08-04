@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "04/08/2020 11:09",
+  "lastUpdate": "04/08/2020 11:16",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "423",
-      "st": "04/08/2020 11:30",
-      "matricula": "CXCLS",
-      "posicion": "54A",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AU",
@@ -27,7 +8,7 @@
       "st": "04/08/2020 11:45",
       "matricula": "LVCKZ",
       "posicion": "17A",
-      "et": "",
+      "et": "4/8/2020 11:55",
       "at": "",
       "term": "C",
       "sector": "CAC",
@@ -35,9 +16,9 @@
       "lF": "",
       "ruta": "RES",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "45"
     },
     {
       "tipo": "arribo",
@@ -325,6 +306,25 @@
       "pax": ""
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "AOG",
+      "vuelo": "423",
+      "st": "04/08/2020 11:30",
+      "matricula": "CXCLS",
+      "posicion": "54A",
+      "et": "",
+      "at": "4/8/2020 11:10",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
       "tipo": "partida",
       "aerolinea": "JJ",
       "vuelo": "H24",
@@ -598,7 +598,7 @@
       "matricula": "PHBQC",
       "posicion": "10",
       "et": "",
-      "at": "",
+      "at": "4/8/2020 10:50",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -606,7 +606,7 @@
       "puerta": "10",
       "ruta": "AMS",
       "via": "",
-      "remark": "CON",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
