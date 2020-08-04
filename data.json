@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/08/2020 18:56",
+  "lastUpdate": "04/08/2020 19:02",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -131,6 +131,25 @@
       "ruta": "AMS",
       "via": "",
       "remark": "EST",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AA",
+      "vuelo": "9707",
+      "st": "05/08/2020 07:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
@@ -342,25 +361,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AJ",
-      "vuelo": "HVE",
-      "st": "04/08/2020 07:20",
-      "matricula": "LVHVE",
-      "posicion": "37",
-      "et": "",
-      "at": "4/8/2020 06:56",
-      "term": "C",
-      "sector": "CPC",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SLA",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
