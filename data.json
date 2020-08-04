@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/08/2020 13:56",
+  "lastUpdate": "04/08/2020 14:02",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -72,6 +72,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "VCP",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "UC",
+      "vuelo": "1405",
+      "st": "05/08/2020 02:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
       "via": "",
       "remark": "",
       "sanidad": "NO",
