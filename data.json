@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/08/2020 08:22",
+  "lastUpdate": "04/08/2020 08:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -150,25 +150,6 @@
       "ruta": "UAQ",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1301",
-      "st": "03/08/2020 12:00",
-      "matricula": "N532LA",
-      "posicion": "55",
-      "et": "3/8/2020 20:40",
-      "at": "3/8/2020 20:26",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -655,7 +636,7 @@
       "matricula": "LVCKZ",
       "posicion": "23A",
       "et": "",
-      "at": "",
+      "at": "4/8/2020 08:27",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -663,7 +644,7 @@
       "puerta": "25",
       "ruta": "RES",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
