@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/08/2020 17:01",
+  "lastUpdate": "04/08/2020 17:07",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -346,25 +346,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AJ",
-      "vuelo": "IVA",
-      "st": "04/08/2020 05:10",
-      "matricula": "LVIVA",
-      "posicion": "45",
-      "et": "",
-      "at": "4/8/2020 05:06",
-      "term": "C",
-      "sector": "CPC",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "TUC",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AJ",
       "vuelo": "HVE",
       "st": "04/08/2020 07:20",
       "matricula": "LVHVE",
@@ -522,7 +503,7 @@
       "matricula": "T7CTA",
       "posicion": "02",
       "et": "4/8/2020 16:00",
-      "at": "",
+      "at": "4/8/2020 17:01",
       "term": "A",
       "sector": "AP",
       "chkFrom": "",
@@ -530,7 +511,7 @@
       "puerta": "01",
       "ruta": "FOR",
       "via": "",
-      "remark": "DEM",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
