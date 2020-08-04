@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "04/08/2020 19:15",
+  "lastUpdate": "04/08/2020 19:22",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AJ",
-      "vuelo": "HVE",
-      "st": "04/08/2020 19:20",
-      "matricula": "LVHVE",
-      "posicion": "45",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "UAQ",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "M3",
@@ -359,6 +340,25 @@
       "ruta": "NQN",
       "via": "",
       "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AJ",
+      "vuelo": "HVE",
+      "st": "04/08/2020 19:20",
+      "matricula": "LVHVE",
+      "posicion": "45",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "UAQ",
+      "via": "",
+      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
