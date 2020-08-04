@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/08/2020 16:54",
+  "lastUpdate": "04/08/2020 17:01",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -345,25 +345,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "QR",
-      "vuelo": "8157",
-      "st": "04/08/2020 04:50",
-      "matricula": "A7BFO",
-      "posicion": "55",
-      "et": "",
-      "at": "4/8/2020 04:59",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "DOH",
-      "via": "UIO",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AJ",
       "vuelo": "IVA",
       "st": "04/08/2020 05:10",
@@ -560,7 +541,7 @@
       "matricula": "GZBJE",
       "posicion": "03",
       "et": "",
-      "at": "",
+      "at": "4/8/2020 16:30",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -568,7 +549,7 @@
       "puerta": "02",
       "ruta": "LHR",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
