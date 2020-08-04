@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/08/2020 12:07",
+  "lastUpdate": "04/08/2020 12:13",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -74,25 +74,6 @@
       "ruta": "VCP",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1102",
-      "st": "04/08/2020 00:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
@@ -275,14 +256,14 @@
       "matricula": "LVCKZ",
       "posicion": "17A",
       "et": "4/8/2020 11:55",
-      "at": "",
+      "at": "4/8/2020 12:07",
       "term": "C",
       "sector": "CAC",
       "cinta": "",
       "lF": "",
       "ruta": "RES",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "45"
     },
