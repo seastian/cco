@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "04/08/2020 15:49",
+  "lastUpdate": "04/08/2020 15:56",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1102",
-      "st": "04/08/2020 16:00",
-      "matricula": "N540LA",
-      "posicion": "54",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AM",
@@ -342,6 +323,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "UC",
+      "vuelo": "1102",
+      "st": "04/08/2020 16:00",
+      "matricula": "N540LA",
+      "posicion": "54",
+      "et": "",
+      "at": "4/8/2020 15:49",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "partida",
