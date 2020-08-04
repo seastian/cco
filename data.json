@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/08/2020 15:18",
+  "lastUpdate": "04/08/2020 15:24",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -303,26 +303,7 @@
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LA",
-      "vuelo": "9573",
-      "st": "04/08/2020 03:30",
-      "matricula": "CCBGM",
-      "posicion": "03",
-      "et": "",
-      "at": "4/8/2020 03:19",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "02",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
+      "pax": "0"
     },
     {
       "tipo": "partida",
