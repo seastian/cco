@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/08/2020 15:24",
+  "lastUpdate": "04/08/2020 15:30",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -502,7 +502,7 @@
       "st": "04/08/2020 09:00",
       "matricula": "T7CTA",
       "posicion": "02",
-      "et": "4/8/2020 15:00",
+      "et": "4/8/2020 16:00",
       "at": "",
       "term": "A",
       "sector": "AP",
