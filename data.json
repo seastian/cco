@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/08/2020 16:34",
+  "lastUpdate": "04/08/2020 16:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -27,7 +27,7 @@
       "st": "04/08/2020 17:20",
       "matricula": "LVIVA",
       "posicion": "37",
-      "et": "",
+      "et": "4/8/2020 17:45",
       "at": "",
       "term": "C",
       "sector": "CAC",
@@ -35,7 +35,7 @@
       "lF": "",
       "ruta": "NQN",
       "via": "",
-      "remark": "",
+      "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
     },
