@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/08/2020 10:50",
+  "lastUpdate": "04/08/2020 10:56",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -592,6 +592,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "KL",
+      "vuelo": "702",
+      "st": "04/08/2020 10:50",
+      "matricula": "PHBQC",
+      "posicion": "10",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "10",
+      "ruta": "AMS",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "PRV",
       "vuelo": "CTA",
       "st": "04/08/2020 09:00",
@@ -607,25 +626,6 @@
       "ruta": "FOR",
       "via": "",
       "remark": "DEM",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "KL",
-      "vuelo": "702",
-      "st": "04/08/2020 10:50",
-      "matricula": "PHBQC",
-      "posicion": "10",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "10",
-      "ruta": "AMS",
-      "via": "",
-      "remark": "HOR",
       "sanidad": "NO"
     },
     {
