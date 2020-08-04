@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/08/2020 18:18",
+  "lastUpdate": "04/08/2020 18:24",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -117,20 +117,20 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "M3",
-      "vuelo": "8491",
-      "st": "04/08/2020 06:20",
-      "matricula": "",
+      "aerolinea": "KL",
+      "vuelo": "701",
+      "st": "05/08/2020 06:40",
+      "matricula": "PHBVB",
       "posicion": "",
-      "et": "",
+      "et": "5/8/2020 06:20",
       "at": "",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
-      "ruta": "SCL",
+      "ruta": "AMS",
       "via": "",
-      "remark": "CON",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
