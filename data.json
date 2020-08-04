@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/08/2020 14:34",
+  "lastUpdate": "04/08/2020 14:39",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,7 +7,7 @@
       "vuelo": "1102",
       "st": "04/08/2020 16:00",
       "matricula": "N540LA",
-      "posicion": "",
+      "posicion": "54",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -45,7 +45,7 @@
       "vuelo": "IVA",
       "st": "04/08/2020 17:20",
       "matricula": "LVIVA",
-      "posicion": "",
+      "posicion": "37",
       "et": "",
       "at": "",
       "term": "C",
@@ -64,7 +64,7 @@
       "vuelo": "HVE",
       "st": "04/08/2020 19:20",
       "matricula": "LVHVE",
-      "posicion": "",
+      "posicion": "45",
       "et": "",
       "at": "",
       "term": "C",
@@ -114,25 +114,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "QR",
-      "vuelo": "8157",
-      "st": "04/08/2020 03:00",
-      "matricula": "A7BFO",
-      "posicion": "55",
-      "et": "4/8/2020 02:35",
-      "at": "4/8/2020 02:36",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "DOH",
-      "via": "GRU",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -558,7 +539,7 @@
       "vuelo": "1102",
       "st": "04/08/2020 17:25",
       "matricula": "N540LA",
-      "posicion": "",
+      "posicion": "54",
       "et": "",
       "at": "",
       "term": "TCA",
