@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/08/2020 15:43",
+  "lastUpdate": "04/08/2020 15:49",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -26,7 +26,7 @@
       "vuelo": "9164",
       "st": "04/08/2020 17:26",
       "matricula": "XAADH",
-      "posicion": "50",
+      "posicion": "04",
       "et": "4/8/2020 17:18",
       "at": "",
       "term": "TCA",
