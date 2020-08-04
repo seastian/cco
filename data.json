@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/08/2020 10:30",
+  "lastUpdate": "04/08/2020 10:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -592,6 +592,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1503",
+      "st": "04/08/2020 10:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "PRV",
       "vuelo": "CTA",
       "st": "04/08/2020 09:00",
@@ -607,25 +626,6 @@
       "ruta": "FOR",
       "via": "",
       "remark": "DEM",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1503",
-      "st": "04/08/2020 10:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "HOR",
       "sanidad": "NO"
     },
     {
