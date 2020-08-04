@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/08/2020 07:18",
+  "lastUpdate": "04/08/2020 07:24",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -167,6 +167,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "MEX",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AJ",
+      "vuelo": "HVE",
+      "st": "04/08/2020 19:20",
+      "matricula": "LVHVE",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "UAQ",
       "via": "",
       "remark": "",
       "sanidad": "NO",
