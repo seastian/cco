@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/08/2020 22:56",
+  "lastUpdate": "03/08/2020 23:03",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -63,7 +63,7 @@
       "aerolinea": "LA",
       "vuelo": "9573",
       "st": "04/08/2020 01:30",
-      "matricula": "",
+      "matricula": "CCBGM",
       "posicion": "",
       "et": "",
       "at": "",
@@ -207,25 +207,6 @@
       "ruta": "AMS",
       "via": "VCP",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1401",
-      "st": "03/08/2020 11:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "SCL",
-      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
@@ -861,7 +842,7 @@
       "aerolinea": "LA",
       "vuelo": "9573",
       "st": "04/08/2020 03:30",
-      "matricula": "",
+      "matricula": "CCBGM",
       "posicion": "",
       "et": "",
       "at": "",
