@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/08/2020 22:24",
+  "lastUpdate": "03/08/2020 22:30",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -426,15 +426,15 @@
       "st": "03/08/2020 21:55",
       "matricula": "LVCIE",
       "posicion": "07",
-      "et": "3/8/2020 22:12",
-      "at": "",
+      "et": "",
+      "at": "3/8/2020 22:29",
       "term": "A",
       "sector": "",
       "cinta": "9",
       "lF": "009",
       "ruta": "GRU",
       "via": "",
-      "remark": "DEM",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "76"
     },
@@ -674,7 +674,7 @@
       "matricula": "N532LA",
       "posicion": "55",
       "et": "3/8/2020 21:50",
-      "at": "",
+      "at": "3/8/2020 22:25",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -682,7 +682,7 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
