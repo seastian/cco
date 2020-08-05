@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/08/2020 17:58",
+  "lastUpdate": "05/08/2020 18:05",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -18,7 +18,7 @@
       "via": "",
       "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -38,6 +38,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "1975",
+      "st": "05/08/2020 22:40",
+      "matricula": "CCBGJ",
+      "posicion": "",
+      "et": "5/8/2020 21:45",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -73,25 +92,6 @@
       "lF": "",
       "ruta": "FRA",
       "via": "MVD",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1975",
-      "st": "05/08/2020 22:40",
-      "matricula": "CCBGJ",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
@@ -141,7 +141,7 @@
       "st": "06/08/2020 01:00",
       "matricula": "",
       "posicion": "",
-      "et": "",
+      "et": "5/8/2020 23:50",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -149,9 +149,9 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
