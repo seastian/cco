@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/08/2020 00:18",
+  "lastUpdate": "05/08/2020 00:24",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -285,25 +285,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "MP",
-      "vuelo": "6912",
-      "st": "04/08/2020 12:05",
-      "matricula": "PHCKC",
-      "posicion": "55",
-      "et": "4/8/2020 12:10",
-      "at": "4/8/2020 12:20",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "AMS",
-      "via": "UIO",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
@@ -650,25 +631,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1862",
-      "st": "05/08/2020 12:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "USH",
-      "via": "",
-      "remark": "CAN",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "1132",
       "st": "05/08/2020 12:10",
       "matricula": "LVFVI",
@@ -683,6 +645,25 @@
       "ruta": "MAD",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1862",
+      "st": "05/08/2020 12:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "USH",
+      "via": "",
+      "remark": "CAN",
       "sanidad": "NO"
     }
   ]
