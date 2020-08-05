@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/08/2020 05:07",
+  "lastUpdate": "05/08/2020 05:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -74,25 +74,6 @@
       "ruta": "SCL",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AM",
-      "vuelo": "9164",
-      "st": "04/08/2020 17:26",
-      "matricula": "XAADH",
-      "posicion": "04",
-      "et": "4/8/2020 17:18",
-      "at": "4/8/2020 17:07",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MEX",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
