@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/08/2020 19:35",
+  "lastUpdate": "05/08/2020 19:42",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -501,14 +501,14 @@
       "vuelo": "9708",
       "st": "05/08/2020 22:30",
       "matricula": "N787AL",
-      "posicion": "18",
+      "posicion": "09",
       "et": "",
       "at": "",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
       "chkTo": "",
-      "puerta": "",
+      "puerta": "09",
       "ruta": "MIA",
       "via": "",
       "remark": "HOR",
