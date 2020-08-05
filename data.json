@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/08/2020 00:56",
+  "lastUpdate": "05/08/2020 01:03",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -384,6 +384,25 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
+      "vuelo": "H24N",
+      "st": "04/08/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "209",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "QTR",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
       "vuelo": "H24",
       "st": "04/08/2020 23:59",
       "matricula": "",
@@ -421,32 +440,13 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "H24N",
-      "st": "04/08/2020 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "209",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "QTR",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "M3",
       "vuelo": "8492",
       "st": "05/08/2020 02:10",
       "matricula": "PRABB",
       "posicion": "54",
       "et": "5/8/2020 01:07",
-      "at": "",
+      "at": "5/8/2020 01:00",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -454,7 +454,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "EST",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
