@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/08/2020 00:05",
+  "lastUpdate": "05/08/2020 00:11",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -152,25 +152,6 @@
       "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AU",
-      "vuelo": "2785",
-      "st": "04/08/2020 11:45",
-      "matricula": "LVCKZ",
-      "posicion": "17A",
-      "et": "4/8/2020 11:55",
-      "at": "4/8/2020 12:07",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "11",
-      "lF": "017",
-      "ruta": "RES",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "45"
     },
     {
       "tipo": "arribo",
@@ -681,6 +662,44 @@
       "chkTo": "220",
       "puerta": "",
       "ruta": "AMS",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1862",
+      "st": "05/08/2020 12:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "USH",
+      "via": "",
+      "remark": "CAN",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1132",
+      "st": "05/08/2020 12:10",
+      "matricula": "LVFVI",
+      "posicion": "11",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "14",
+      "ruta": "MAD",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
