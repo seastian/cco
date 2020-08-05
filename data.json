@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/08/2020 15:11",
+  "lastUpdate": "05/08/2020 15:18",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -171,25 +171,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "QR",
-      "vuelo": "8155",
-      "st": "05/08/2020 03:30",
-      "matricula": "A7BFR",
-      "posicion": "55",
-      "et": "5/8/2020 03:20",
-      "at": "5/8/2020 03:17",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "DOH",
-      "via": "GRU",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -549,7 +530,7 @@
       "puerta": "",
       "ruta": "VCP",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
