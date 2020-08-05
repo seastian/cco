@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/08/2020 21:30",
+  "lastUpdate": "04/08/2020 21:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -155,25 +155,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "MP",
-      "vuelo": "6912",
-      "st": "04/08/2020 10:05",
-      "matricula": "PHCKC",
-      "posicion": "55",
-      "et": "4/8/2020 09:45",
-      "at": "4/8/2020 09:35",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "AMS",
-      "via": "VCP",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AOG",
       "vuelo": "423",
       "st": "04/08/2020 11:30",
@@ -304,25 +285,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "2"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "M3",
-      "vuelo": "8491",
-      "st": "04/08/2020 09:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
@@ -645,6 +607,25 @@
       "ruta": "MIA",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1050",
+      "st": "05/08/2020 09:35",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "COR",
+      "via": "",
+      "remark": "CAN",
       "sanidad": "NO"
     }
   ]
