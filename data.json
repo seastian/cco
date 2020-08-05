@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/08/2020 02:26",
+  "lastUpdate": "05/08/2020 02:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -612,25 +612,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1862",
-      "st": "05/08/2020 12:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "USH",
-      "via": "",
-      "remark": "CAN",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "1132",
       "st": "05/08/2020 12:10",
       "matricula": "LVFVI",
@@ -645,6 +626,25 @@
       "ruta": "MAD",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1862",
+      "st": "05/08/2020 12:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "USH",
+      "via": "",
+      "remark": "CAN",
       "sanidad": "NO"
     }
   ]
