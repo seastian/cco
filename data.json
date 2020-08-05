@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/08/2020 13:10",
+  "lastUpdate": "05/08/2020 13:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -384,25 +384,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AMS",
-      "vuelo": "7119",
-      "st": "05/08/2020 02:00",
-      "matricula": "CXMAS",
-      "posicion": "55A",
-      "et": "",
-      "at": "5/8/2020 01:10",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AMS",
       "vuelo": "7919",
       "st": "05/08/2020 02:30",
       "matricula": "CXMAX",
@@ -555,25 +536,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1862",
-      "st": "05/08/2020 12:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "USH",
-      "via": "",
-      "remark": "CAN",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "1132",
       "st": "05/08/2020 12:10",
       "matricula": "LVFVI",
@@ -592,6 +554,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1862",
+      "st": "05/08/2020 12:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "USH",
+      "via": "",
+      "remark": "CAN",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "AOG",
       "vuelo": "424",
       "st": "05/08/2020 12:30",
@@ -606,7 +587,7 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -617,7 +598,7 @@
       "matricula": "CXLSS",
       "posicion": "58",
       "et": "",
-      "at": "",
+      "at": "5/8/2020 13:09",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -625,7 +606,7 @@
       "puerta": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
