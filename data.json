@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/08/2020 01:22",
+  "lastUpdate": "05/08/2020 01:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -288,25 +288,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "500",
-      "st": "04/08/2020 13:00",
-      "matricula": "CXLSS",
-      "posicion": "56B",
-      "et": "",
-      "at": "4/8/2020 13:25",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "PRV",
       "vuelo": "CTA",
       "st": "04/08/2020 09:00",
@@ -365,7 +346,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24",
+      "vuelo": "H24N",
       "st": "04/08/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -373,7 +354,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "209",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -403,7 +384,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
+      "vuelo": "H24",
       "st": "04/08/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -411,7 +392,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
