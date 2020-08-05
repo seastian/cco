@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/08/2020 01:47",
+  "lastUpdate": "05/08/2020 01:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -82,8 +82,8 @@
       "aerolinea": "5X",
       "vuelo": "414",
       "st": "05/08/2020 05:12",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "N353UP",
+      "posicion": "56",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -538,8 +538,8 @@
       "aerolinea": "5X",
       "vuelo": "415",
       "st": "05/08/2020 06:55",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "N353UP",
+      "posicion": "56",
       "et": "",
       "at": "",
       "term": "TCA",
