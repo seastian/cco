@@ -1,6 +1,25 @@
 {
-  "lastUpdate": "05/08/2020 05:27",
+  "lastUpdate": "05/08/2020 05:33",
   "vuelos": [
+    {
+      "tipo": "arribo",
+      "aerolinea": "AA",
+      "vuelo": "9707",
+      "st": "05/08/2020 07:00",
+      "matricula": "N787AL",
+      "posicion": "03",
+      "et": "5/8/2020 06:15",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": ""
+    },
     {
       "tipo": "arribo",
       "aerolinea": "KL",
@@ -17,25 +36,6 @@
       "ruta": "AMS",
       "via": "",
       "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AA",
-      "vuelo": "9707",
-      "st": "05/08/2020 07:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
@@ -416,7 +416,7 @@
       "puerta": "",
       "ruta": "DOH",
       "via": "UIO",
-      "remark": "HOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
