@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/08/2020 04:29",
+  "lastUpdate": "05/08/2020 04:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -301,25 +301,6 @@
       "chkTo": "",
       "puerta": "01",
       "ruta": "FOR",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "BA",
-      "vuelo": "244F",
-      "st": "04/08/2020 16:30",
-      "matricula": "GZBJE",
-      "posicion": "03",
-      "et": "",
-      "at": "4/8/2020 16:30",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "02",
-      "ruta": "LHR",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
