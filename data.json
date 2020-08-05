@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/08/2020 01:09",
+  "lastUpdate": "05/08/2020 01:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -446,7 +446,7 @@
       "matricula": "CXMAS",
       "posicion": "55A",
       "et": "",
-      "at": "",
+      "at": "5/8/2020 01:10",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -454,7 +454,7 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "HOR",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -612,25 +612,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1132",
-      "st": "05/08/2020 12:10",
-      "matricula": "LVFVI",
-      "posicion": "11",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "14",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "1862",
       "st": "05/08/2020 12:10",
       "matricula": "",
@@ -645,6 +626,25 @@
       "ruta": "USH",
       "via": "",
       "remark": "CAN",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1132",
+      "st": "05/08/2020 12:10",
+      "matricula": "LVFVI",
+      "posicion": "11",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "14",
+      "ruta": "MAD",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     }
   ]
