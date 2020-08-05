@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/08/2020 18:11",
+  "lastUpdate": "05/08/2020 18:18",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -209,25 +209,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "KL",
-      "vuelo": "701",
-      "st": "05/08/2020 06:40",
-      "matricula": "PHBVB",
-      "posicion": "10",
-      "et": "5/8/2020 06:20",
-      "at": "5/8/2020 06:15",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "AMS",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -516,6 +497,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "AA",
+      "vuelo": "9708",
+      "st": "05/08/2020 22:30",
+      "matricula": "N787AL",
+      "posicion": "18",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "UC",
       "vuelo": "1103",
       "st": "05/08/2020 22:30",
@@ -548,25 +548,6 @@
       "chkTo": "",
       "puerta": "03",
       "ruta": "SCL",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AA",
-      "vuelo": "9708",
-      "st": "05/08/2020 22:30",
-      "matricula": "N787AL",
-      "posicion": "18",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MIA",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
