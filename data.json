@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/08/2020 11:13",
+  "lastUpdate": "05/08/2020 11:20",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -403,7 +403,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24",
+      "vuelo": "H24N",
       "st": "04/08/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -411,7 +411,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "209",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -422,7 +422,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
+      "vuelo": "H24",
       "st": "04/08/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -430,7 +430,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -617,7 +617,7 @@
       "matricula": "PHBVB",
       "posicion": "10",
       "et": "",
-      "at": "",
+      "at": "5/8/2020 11:14",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "201",
@@ -625,7 +625,26 @@
       "puerta": "10",
       "ruta": "AMS",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1132",
+      "st": "05/08/2020 12:10",
+      "matricula": "LVFVI",
+      "posicion": "11",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "14",
+      "ruta": "MAD",
+      "via": "",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -645,25 +664,6 @@
       "ruta": "USH",
       "via": "",
       "remark": "CAN",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1132",
-      "st": "05/08/2020 12:10",
-      "matricula": "LVFVI",
-      "posicion": "11",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "14",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "HOR",
       "sanidad": "NO"
     },
     {
