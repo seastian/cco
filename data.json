@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/08/2020 17:52",
+  "lastUpdate": "05/08/2020 17:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -501,14 +501,14 @@
       "vuelo": "9165",
       "st": "05/08/2020 20:26",
       "matricula": "XAADH",
-      "posicion": "36",
+      "posicion": "03",
       "et": "",
       "at": "",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
       "chkTo": "",
-      "puerta": "",
+      "puerta": "02",
       "ruta": "MEX",
       "via": "",
       "remark": "HOR",
