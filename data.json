@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/08/2020 14:59",
+  "lastUpdate": "05/08/2020 15:05",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -169,25 +169,6 @@
       "ruta": "MIA",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "QR",
-      "vuelo": "8155",
-      "st": "05/08/2020 03:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "DOH",
-      "via": "GRU",
-      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
