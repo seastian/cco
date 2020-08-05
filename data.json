@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/08/2020 00:11",
+  "lastUpdate": "05/08/2020 00:18",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -152,25 +152,6 @@
       "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "501",
-      "st": "04/08/2020 12:00",
-      "matricula": "CXLSS",
-      "posicion": "56B",
-      "et": "",
-      "at": "4/8/2020 12:14",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
