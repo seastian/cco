@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/08/2020 22:22",
+  "lastUpdate": "04/08/2020 22:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -82,7 +82,7 @@
       "aerolinea": "LH",
       "vuelo": "8266",
       "st": "05/08/2020 03:35",
-      "matricula": "",
+      "matricula": "DALCI",
       "posicion": "",
       "et": "",
       "at": "",
