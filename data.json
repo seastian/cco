@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/08/2020 14:27",
+  "lastUpdate": "05/08/2020 14:33",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -804,6 +804,25 @@
       "aerolinea": "M3",
       "vuelo": "8492",
       "st": "06/08/2020 02:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LA",
+      "vuelo": "1977",
+      "st": "06/08/2020 02:30",
       "matricula": "",
       "posicion": "",
       "et": "",
