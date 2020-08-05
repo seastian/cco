@@ -1,14 +1,14 @@
 {
-  "lastUpdate": "04/08/2020 21:17",
+  "lastUpdate": "04/08/2020 21:24",
   "vuelos": [
     {
       "tipo": "arribo",
       "aerolinea": "M3",
       "vuelo": "8492",
       "st": "04/08/2020 23:45",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
+      "matricula": "PRABB",
+      "posicion": "54",
+      "et": "4/8/2020 23:44",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -16,7 +16,7 @@
       "lF": "",
       "ruta": "VCP",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -538,9 +538,9 @@
       "aerolinea": "M3",
       "vuelo": "8492",
       "st": "05/08/2020 02:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
+      "matricula": "PRABB",
+      "posicion": "54",
+      "et": "5/8/2020 01:07",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -549,7 +549,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "EST",
       "sanidad": "NO"
     },
     {
