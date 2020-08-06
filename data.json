@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/08/2020 23:20",
+  "lastUpdate": "05/08/2020 23:27",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -36,25 +36,6 @@
       "ruta": "MVD",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "M3",
-      "vuelo": "8492",
-      "st": "05/08/2020 23:45",
-      "matricula": "PRACO",
-      "posicion": "54",
-      "et": "5/8/2020 23:30",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -344,6 +325,25 @@
       "pax": ""
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "M3",
+      "vuelo": "8492",
+      "st": "05/08/2020 23:45",
+      "matricula": "PRACO",
+      "posicion": "54",
+      "et": "5/8/2020 23:30",
+      "at": "5/8/2020 23:20",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "VCP",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
       "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1862",
@@ -511,7 +511,7 @@
       "puerta": "09",
       "ruta": "MIA",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -738,6 +738,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MVD",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AJ",
+      "vuelo": "IVA",
+      "st": "06/08/2020 08:00",
+      "matricula": "LVIVA",
+      "posicion": "37",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPC",
+      "chkFrom": "201",
+      "chkTo": "201",
+      "puerta": "",
+      "ruta": "JUJ",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
