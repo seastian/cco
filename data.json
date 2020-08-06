@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05/08/2020 23:07",
+  "lastUpdate": "05/08/2020 23:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -152,25 +152,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "423",
-      "st": "05/08/2020 11:15",
-      "matricula": "CXCLS",
-      "posicion": "57",
-      "et": "",
-      "at": "5/8/2020 11:10",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -365,25 +346,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1132",
-      "st": "05/08/2020 12:10",
-      "matricula": "LVFVI",
-      "posicion": "11",
-      "et": "",
-      "at": "5/8/2020 12:22",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "14",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "1862",
       "st": "05/08/2020 12:10",
       "matricula": "",
@@ -398,6 +360,25 @@
       "ruta": "USH",
       "via": "",
       "remark": "CAN",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1132",
+      "st": "05/08/2020 12:10",
+      "matricula": "LVFVI",
+      "posicion": "11",
+      "et": "",
+      "at": "5/8/2020 12:22",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "14",
+      "ruta": "MAD",
+      "via": "",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -497,6 +478,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "LA",
+      "vuelo": "1973",
+      "st": "05/08/2020 22:30",
+      "matricula": "CCBGK",
+      "posicion": "04",
+      "et": "",
+      "at": "5/8/2020 20:34",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "03",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "AA",
       "vuelo": "9708",
       "st": "05/08/2020 22:30",
@@ -531,25 +531,6 @@
       "ruta": "SCL",
       "via": "",
       "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LA",
-      "vuelo": "1973",
-      "st": "05/08/2020 22:30",
-      "matricula": "CCBGK",
-      "posicion": "04",
-      "et": "",
-      "at": "5/8/2020 20:34",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "03",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
       "sanidad": "NO"
     },
     {
