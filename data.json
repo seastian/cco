@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/08/2020 07:29",
+  "lastUpdate": "06/08/2020 07:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -402,25 +402,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "LA",
-      "vuelo": "1973",
-      "st": "05/08/2020 22:30",
-      "matricula": "CCBGK",
-      "posicion": "04",
-      "et": "",
-      "at": "5/8/2020 20:34",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "03",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AA",
       "vuelo": "9708",
       "st": "05/08/2020 22:30",
@@ -459,6 +440,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "LA",
+      "vuelo": "1973",
+      "st": "05/08/2020 22:30",
+      "matricula": "CCBGK",
+      "posicion": "04",
+      "et": "",
+      "at": "5/8/2020 20:34",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "03",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "JJ",
       "vuelo": "H24",
       "st": "05/08/2020 23:59",
@@ -479,7 +479,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24",
+      "vuelo": "H24N",
       "st": "05/08/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -487,7 +487,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "209",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -498,7 +498,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
+      "vuelo": "H24",
       "st": "05/08/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -506,7 +506,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -663,7 +663,7 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
