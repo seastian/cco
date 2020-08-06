@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/08/2020 13:29",
+  "lastUpdate": "06/08/2020 13:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -307,25 +307,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "101",
-      "st": "06/08/2020 01:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "5X",
       "vuelo": "411",
       "st": "06/08/2020 06:55",
@@ -440,6 +421,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "AF",
+      "vuelo": "229",
+      "st": "06/08/2020 13:30",
+      "matricula": "FHRBI",
+      "posicion": "13",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "201",
+      "chkTo": "220",
+      "puerta": "16",
+      "ruta": "CDG",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "TK",
       "vuelo": "6170",
       "st": "06/08/2020 13:40",
@@ -455,25 +455,6 @@
       "ruta": "ISL",
       "via": "GRU",
       "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AF",
-      "vuelo": "229",
-      "st": "06/08/2020 13:30",
-      "matricula": "FHRBI",
-      "posicion": "13",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "201",
-      "chkTo": "220",
-      "puerta": "16",
-      "ruta": "CDG",
-      "via": "",
-      "remark": "HOR",
       "sanidad": "NO"
     },
     {
