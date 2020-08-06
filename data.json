@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/08/2020 10:42",
+  "lastUpdate": "06/08/2020 10:48",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,7 +7,7 @@
       "vuelo": "423",
       "st": "06/08/2020 11:15",
       "matricula": "CXCLS",
-      "posicion": "",
+      "posicion": "50A",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -26,7 +26,7 @@
       "vuelo": "501",
       "st": "06/08/2020 12:15",
       "matricula": "CXLSS",
-      "posicion": "",
+      "posicion": "50B",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -45,7 +45,7 @@
       "vuelo": "8264",
       "st": "06/08/2020 13:30",
       "matricula": "DALCB",
-      "posicion": "55",
+      "posicion": "54",
       "et": "6/8/2020 13:30",
       "at": "",
       "term": "TCA",
@@ -161,7 +161,7 @@
       "matricula": "CXMAS",
       "posicion": "50B",
       "et": "",
-      "at": "5/8/2020 23:59",
+      "at": "5/8/2020 23:54",
       "term": "TCA",
       "sector": "",
       "cinta": "",
@@ -170,7 +170,7 @@
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -189,7 +189,7 @@
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -227,7 +227,7 @@
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -596,7 +596,7 @@
       "vuelo": "424",
       "st": "06/08/2020 13:00",
       "matricula": "CXLSS",
-      "posicion": "",
+      "posicion": "50B",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -615,7 +615,7 @@
       "vuelo": "500",
       "st": "06/08/2020 13:00",
       "matricula": "CXCLS",
-      "posicion": "",
+      "posicion": "50A",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -672,7 +672,7 @@
       "vuelo": "8265",
       "st": "06/08/2020 15:00",
       "matricula": "DALCB",
-      "posicion": "55",
+      "posicion": "54",
       "et": "",
       "at": "",
       "term": "TCA",
