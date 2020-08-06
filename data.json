@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/08/2020 13:48",
+  "lastUpdate": "06/08/2020 13:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -246,7 +246,7 @@
       "via": "GRU",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -265,7 +265,7 @@
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -284,7 +284,7 @@
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -435,7 +435,7 @@
       "puerta": "16",
       "ruta": "CDG",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
