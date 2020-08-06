@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/08/2020 08:59",
+  "lastUpdate": "06/08/2020 09:05",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -656,10 +656,10 @@
       "posicion": "37",
       "et": "",
       "at": "",
-      "term": "A",
-      "sector": "",
-      "chkFrom": "078",
-      "chkTo": "078",
+      "term": "C",
+      "sector": "CPC",
+      "chkFrom": "",
+      "chkTo": "",
       "puerta": "24",
       "ruta": "MDZ",
       "via": "",
