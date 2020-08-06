@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/08/2020 04:10",
+  "lastUpdate": "06/08/2020 04:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -55,6 +55,25 @@
       "ruta": "MAD",
       "via": "",
       "remark": "CAN",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "QR",
+      "vuelo": "8157",
+      "st": "06/08/2020 07:52",
+      "matricula": "A7BFF",
+      "posicion": "54",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
@@ -662,6 +681,25 @@
       "chkTo": "201",
       "puerta": "",
       "ruta": "JUJ",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "QR",
+      "vuelo": "8157",
+      "st": "06/08/2020 09:45",
+      "matricula": "A7BFF",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "UIO",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
