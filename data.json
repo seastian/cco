@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/08/2020 11:44",
+  "lastUpdate": "06/08/2020 11:50",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -129,6 +129,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "MIA",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "M3",
+      "vuelo": "8494",
+      "st": "06/08/2020 23:45",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "VCP",
       "via": "",
       "remark": "",
       "sanidad": "NO",
