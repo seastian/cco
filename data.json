@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "05/08/2020 21:44",
+  "lastUpdate": "05/08/2020 21:50",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1975",
-      "st": "05/08/2020 22:40",
-      "matricula": "CCBGJ",
-      "posicion": "03",
-      "et": "5/8/2020 21:45",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "0"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AR",
@@ -323,6 +304,25 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "1975",
+      "st": "05/08/2020 22:40",
+      "matricula": "CCBGJ",
+      "posicion": "03",
+      "et": "5/8/2020 21:45",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "0"
     },
     {
       "tipo": "partida",
