@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/08/2020 10:55",
+  "lastUpdate": "06/08/2020 11:01",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -417,25 +417,6 @@
       "ruta": "FRA",
       "via": "",
       "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LA",
-      "vuelo": "1975",
-      "st": "06/08/2020 00:40",
-      "matricula": "CCBGJ",
-      "posicion": "03",
-      "et": "",
-      "at": "5/8/2020 22:55",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "02",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
       "sanidad": "NO"
     },
     {
