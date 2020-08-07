@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/08/2020 19:21",
+  "lastUpdate": "07/08/2020 19:27",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -83,7 +83,7 @@
       "vuelo": "1133",
       "st": "08/08/2020 04:20",
       "matricula": "LVFVI",
-      "posicion": "",
+      "posicion": "15",
       "et": "8/8/2020 04:16",
       "at": "",
       "term": "A",
@@ -114,6 +114,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "IB",
+      "vuelo": "6911",
+      "st": "08/08/2020 07:25",
+      "matricula": "ECNBE",
+      "posicion": "09",
+      "et": "8/8/2020 07:17",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MAD",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "28"
     },
     {
       "tipo": "arribo",
