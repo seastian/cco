@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/08/2020 19:14",
+  "lastUpdate": "07/08/2020 19:21",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -285,25 +285,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "WJ",
-      "vuelo": "1100",
-      "st": "07/08/2020 07:00",
-      "matricula": "LVIVN",
-      "posicion": "02",
-      "et": "",
-      "at": "7/8/2020 07:14",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "079",
-      "chkTo": "081",
-      "puerta": "01",
-      "ruta": "SAL",
-      "via": "LIM",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
