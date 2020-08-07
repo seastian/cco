@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/08/2020 18:42",
+  "lastUpdate": "07/08/2020 18:49",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -582,7 +582,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "220",
       "chkTo": "240",
       "puerta": "19",
       "ruta": "MIA",
