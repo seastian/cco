@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/08/2020 20:32",
+  "lastUpdate": "07/08/2020 20:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -284,7 +284,7 @@
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -301,7 +301,7 @@
       "lF": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "",
+      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
