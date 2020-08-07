@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/08/2020 19:33",
+  "lastUpdate": "07/08/2020 19:40",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -497,6 +497,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "LA",
+      "vuelo": "1979",
+      "st": "07/08/2020 21:30",
+      "matricula": "CCBGK",
+      "posicion": "10",
+      "et": "",
+      "at": "7/8/2020 19:33",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "10",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "AOG",
       "vuelo": "426",
       "st": "07/08/2020 20:00",
@@ -529,25 +548,6 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MVD",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LA",
-      "vuelo": "1979",
-      "st": "07/08/2020 21:30",
-      "matricula": "CCBGK",
-      "posicion": "10",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "10",
-      "ruta": "SCL",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
