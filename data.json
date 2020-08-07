@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/08/2020 19:46",
+  "lastUpdate": "07/08/2020 19:53",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -122,7 +122,7 @@
       "st": "08/08/2020 07:25",
       "matricula": "ECNBE",
       "posicion": "09",
-      "et": "8/8/2020 07:17",
+      "et": "8/8/2020 07:20",
       "at": "",
       "term": "A",
       "sector": "",
