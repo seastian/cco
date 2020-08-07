@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/08/2020 19:01",
+  "lastUpdate": "07/08/2020 19:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -263,7 +263,7 @@
       "lF": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "",
+      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
