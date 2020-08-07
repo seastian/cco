@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/08/2020 19:40",
+  "lastUpdate": "07/08/2020 19:46",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -133,25 +133,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "28"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "QR",
-      "vuelo": "8157",
-      "st": "07/08/2020 07:52",
-      "matricula": "A7BBF",
-      "posicion": "54",
-      "et": "",
-      "at": "7/8/2020 07:41",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
