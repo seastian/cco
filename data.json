@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/08/2020 10:21",
+  "lastUpdate": "08/08/2020 10:27",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -288,25 +288,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AA",
-      "vuelo": "9708",
-      "st": "07/08/2020 22:30",
-      "matricula": "N722AN",
-      "posicion": "03",
-      "et": "",
-      "at": "7/8/2020 22:23",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "02",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "UC",
       "vuelo": "1408",
       "st": "07/08/2020 23:30",
@@ -346,6 +327,25 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
+      "vuelo": "H24N",
+      "st": "07/08/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "209",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "QTR",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
       "vuelo": "1302",
       "st": "07/08/2020 23:30",
       "matricula": "LVGKP",
@@ -375,25 +375,6 @@
       "sector": "AP",
       "chkFrom": "041",
       "chkTo": "053",
-      "puerta": "",
-      "ruta": "QTR",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "H24N",
-      "st": "07/08/2020 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "209",
-      "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
       "via": "",
@@ -511,7 +492,7 @@
       "puerta": "22",
       "ruta": "ASU",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
