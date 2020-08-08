@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "08/08/2020 06:48",
+  "lastUpdate": "08/08/2020 06:55",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AA",
-      "vuelo": "9707",
-      "st": "08/08/2020 07:00",
-      "matricula": "N797AN",
-      "posicion": "03",
-      "et": "8/8/2020 07:00",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "IB",
@@ -323,6 +304,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "171"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AA",
+      "vuelo": "9707",
+      "st": "08/08/2020 07:00",
+      "matricula": "N797AN",
+      "posicion": "03",
+      "et": "8/8/2020 07:00",
+      "at": "8/8/2020 06:53",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "partida",
