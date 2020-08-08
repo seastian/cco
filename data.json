@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/08/2020 17:57",
+  "lastUpdate": "08/08/2020 18:04",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -370,7 +370,7 @@
       "matricula": "CCBGO",
       "posicion": "03",
       "et": "",
-      "at": "",
+      "at": "8/8/2020 18:01",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -378,7 +378,7 @@
       "puerta": "02",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
