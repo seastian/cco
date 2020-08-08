@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/08/2020 22:27",
+  "lastUpdate": "07/08/2020 22:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -112,6 +112,25 @@
       "ruta": "LHR",
       "via": "",
       "remark": "EST",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "TK",
+      "vuelo": "6169",
+      "st": "08/08/2020 10:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "ISL",
+      "via": "GRU",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
@@ -473,7 +492,7 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -527,7 +546,7 @@
       "sector": "CPI",
       "chkFrom": "220",
       "chkTo": "240",
-      "puerta": "19",
+      "puerta": "18",
       "ruta": "MIA",
       "via": "",
       "remark": "PRE",
