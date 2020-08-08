@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/08/2020 10:53",
+  "lastUpdate": "08/08/2020 10:59",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -511,7 +511,7 @@
       "puerta": "02",
       "ruta": "ISL",
       "via": "GRU",
-      "remark": "",
+      "remark": "HOR",
       "sanidad": "NO"
     },
     {
