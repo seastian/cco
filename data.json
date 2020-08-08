@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/08/2020 11:31",
+  "lastUpdate": "08/08/2020 11:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -133,44 +133,6 @@
       "remark": "HOR",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AMS",
-      "vuelo": "8119",
-      "st": "07/08/2020 23:35",
-      "matricula": "CXMAS",
-      "posicion": "54A",
-      "et": "",
-      "at": "7/8/2020 23:36",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "M3",
-      "vuelo": "8496",
-      "st": "07/08/2020 23:45",
-      "matricula": "PRACO",
-      "posicion": "56",
-      "et": "7/8/2020 23:40",
-      "at": "7/8/2020 23:32",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
