@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/08/2020 14:12",
+  "lastUpdate": "08/08/2020 14:19",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -133,25 +133,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1951",
-      "st": "08/08/2020 02:40",
-      "matricula": "CCBGM",
-      "posicion": "10",
-      "et": "8/8/2020 02:00",
-      "at": "8/8/2020 02:15",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
