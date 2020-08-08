@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/08/2020 04:27",
+  "lastUpdate": "08/08/2020 04:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -274,7 +274,7 @@
       "st": "08/08/2020 04:20",
       "matricula": "LVFVI",
       "posicion": "15",
-      "et": "8/8/2020 04:16",
+      "et": "",
       "at": "",
       "term": "A",
       "sector": "",
@@ -282,7 +282,7 @@
       "lF": "009",
       "ruta": "MAD",
       "via": "",
-      "remark": "EST",
+      "remark": "CON",
       "sanidad": "NO",
       "pax": "171"
     },
@@ -643,6 +643,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "VCP",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "BA",
+      "vuelo": "244F",
+      "st": "08/08/2020 16:30",
+      "matricula": "GZBJK",
+      "posicion": "04",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "03",
+      "ruta": "LHR",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
