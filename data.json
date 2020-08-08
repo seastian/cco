@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "08/08/2020 07:20",
+  "lastUpdate": "08/08/2020 07:27",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "IB",
-      "vuelo": "6911",
-      "st": "08/08/2020 07:25",
-      "matricula": "ECNBE",
-      "posicion": "09",
-      "et": "8/8/2020 07:20",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "28"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "BA",
@@ -98,8 +79,8 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1229",
+      "aerolinea": "UC",
+      "vuelo": "1106",
       "st": "08/08/2020 17:00",
       "matricula": "",
       "posicion": "",
@@ -117,8 +98,8 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1106",
+      "aerolinea": "LA",
+      "vuelo": "1229",
       "st": "08/08/2020 17:00",
       "matricula": "",
       "posicion": "",
@@ -323,6 +304,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "IB",
+      "vuelo": "6911",
+      "st": "08/08/2020 07:25",
+      "matricula": "ECNBE",
+      "posicion": "09",
+      "et": "8/8/2020 07:20",
+      "at": "8/8/2020 07:24",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "009",
+      "ruta": "MAD",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "28"
     },
     {
       "tipo": "partida",
