@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/08/2020 18:17",
+  "lastUpdate": "08/08/2020 18:23",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -266,25 +266,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "1"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "5X",
-      "vuelo": "413",
-      "st": "08/08/2020 06:05",
-      "matricula": "N309UP",
-      "posicion": "55",
-      "et": "",
-      "at": "8/8/2020 06:19",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
