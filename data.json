@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/08/2020 19:47",
+  "lastUpdate": "08/08/2020 19:53",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -406,14 +406,14 @@
       "vuelo": "9708",
       "st": "08/08/2020 22:30",
       "matricula": "N797AN",
-      "posicion": "36",
+      "posicion": "04",
       "et": "",
       "at": "",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
       "chkTo": "",
-      "puerta": "",
+      "puerta": "03",
       "ruta": "MIA",
       "via": "",
       "remark": "HOR",
