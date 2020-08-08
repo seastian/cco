@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/08/2020 16:40",
+  "lastUpdate": "08/08/2020 16:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -351,7 +351,7 @@
       "matricula": "GZBJK",
       "posicion": "04",
       "et": "",
-      "at": "",
+      "at": "8/8/2020 16:40",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -359,7 +359,7 @@
       "puerta": "03",
       "ruta": "LHR",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -481,6 +481,25 @@
       "aerolinea": "M3",
       "vuelo": "8496",
       "st": "09/08/2020 02:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LA",
+      "vuelo": "1955",
+      "st": "09/08/2020 04:40",
       "matricula": "",
       "posicion": "",
       "et": "",
