@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "08/08/2020 18:36",
+  "lastUpdate": "08/08/2020 18:43",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "155QS",
-      "st": "08/08/2020 18:45",
-      "matricula": "N155QS",
-      "posicion": "44",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "LRM",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO",
-      "pax": "7"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "WJ",
@@ -93,6 +74,25 @@
       "ruta": "BOG",
       "via": "",
       "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "KL",
+      "vuelo": "701",
+      "st": "09/08/2020 06:40",
+      "matricula": "PHBHF",
+      "posicion": "",
+      "et": "9/8/2020 06:36",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "AMS",
+      "via": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -266,6 +266,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "1"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "155QS",
+      "st": "08/08/2020 18:45",
+      "matricula": "N155QS",
+      "posicion": "44",
+      "et": "",
+      "at": "8/8/2020 18:40",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "LRM",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "7"
     },
     {
       "tipo": "partida",
