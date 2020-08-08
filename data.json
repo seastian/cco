@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/08/2020 22:20",
+  "lastUpdate": "07/08/2020 22:27",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -288,25 +288,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "QR",
-      "vuelo": "8157",
-      "st": "07/08/2020 09:45",
-      "matricula": "A7BBF",
-      "posicion": "54",
-      "et": "",
-      "at": "7/8/2020 10:21",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "UIO",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "CM",
       "vuelo": "4852",
       "st": "07/08/2020 11:18",
@@ -522,7 +503,7 @@
       "matricula": "N722AN",
       "posicion": "03",
       "et": "",
-      "at": "",
+      "at": "7/8/2020 22:23",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -530,7 +511,7 @@
       "puerta": "02",
       "ruta": "MIA",
       "via": "",
-      "remark": "HOR",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -549,7 +530,7 @@
       "puerta": "19",
       "ruta": "MIA",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
