@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/08/2020 13:02",
+  "lastUpdate": "08/08/2020 13:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -266,25 +266,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "M3",
-      "vuelo": "8496",
-      "st": "08/08/2020 02:10",
-      "matricula": "PRACO",
-      "posicion": "56",
-      "et": "8/8/2020 01:07",
-      "at": "8/8/2020 01:03",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
