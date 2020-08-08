@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/08/2020 02:25",
+  "lastUpdate": "08/08/2020 02:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -285,25 +285,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "424",
-      "st": "07/08/2020 13:00",
-      "matricula": "CXCLS",
-      "posicion": "56B",
-      "et": "",
-      "at": "7/8/2020 14:28",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
