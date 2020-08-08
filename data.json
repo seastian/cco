@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/08/2020 15:36",
+  "lastUpdate": "08/08/2020 15:43",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -266,25 +266,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "95"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LA",
-      "vuelo": "1951",
-      "st": "08/08/2020 04:40",
-      "matricula": "CCBGM",
-      "posicion": "10",
-      "et": "",
-      "at": "8/8/2020 03:40",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "10",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
