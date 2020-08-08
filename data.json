@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "08/08/2020 18:04",
+  "lastUpdate": "08/08/2020 18:11",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1917",
-      "st": "08/08/2020 17:25",
-      "matricula": "LVFUB",
-      "posicion": "18B",
-      "et": "8/8/2020 18:26",
-      "at": "",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "USH",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": "1"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "PRV",
@@ -46,7 +27,7 @@
       "st": "08/08/2020 22:30",
       "matricula": "LVIVN",
       "posicion": "",
-      "et": "",
+      "et": "8/8/2020 21:50",
       "at": "",
       "term": "A",
       "sector": "",
@@ -54,9 +35,9 @@
       "lF": "",
       "ruta": "SAL",
       "via": "",
-      "remark": "HOR",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "8"
     },
     {
       "tipo": "arribo",
@@ -247,6 +228,25 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1917",
+      "st": "08/08/2020 17:25",
+      "matricula": "LVFUB",
+      "posicion": "18B",
+      "et": "8/8/2020 18:26",
+      "at": "8/8/2020 18:03",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "USH",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "1"
     },
     {
       "tipo": "partida",
