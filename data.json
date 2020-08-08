@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/08/2020 23:50",
+  "lastUpdate": "07/08/2020 23:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -516,25 +516,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1302",
-      "st": "07/08/2020 23:30",
-      "matricula": "LVGKP",
-      "posicion": "14",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "220",
-      "chkTo": "240",
-      "puerta": "18",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "BOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "UC",
       "vuelo": "1408",
       "st": "07/08/2020 23:30",
@@ -550,6 +531,25 @@
       "ruta": "LAX",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1302",
+      "st": "07/08/2020 23:30",
+      "matricula": "LVGKP",
+      "posicion": "14",
+      "et": "7/8/2020 23:59",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "220",
+      "chkTo": "240",
+      "puerta": "18",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
