@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/08/2020 14:44",
+  "lastUpdate": "08/08/2020 14:51",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,13 +7,13 @@
       "vuelo": "2341",
       "st": "08/08/2020 16:00",
       "matricula": "LVCIH",
-      "posicion": "",
+      "posicion": "16A",
       "et": "8/8/2020 15:34",
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "9",
+      "lF": "009",
       "ruta": "ASU",
       "via": "",
       "remark": "EST",
