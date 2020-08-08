@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/08/2020 08:18",
+  "lastUpdate": "08/08/2020 08:25",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -568,7 +568,7 @@
       "puerta": "24",
       "ruta": "USH",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
