@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "08/08/2020 04:14",
+  "lastUpdate": "08/08/2020 04:21",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1133",
-      "st": "08/08/2020 04:20",
-      "matricula": "LVFVI",
-      "posicion": "15",
-      "et": "8/8/2020 04:16",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "171"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AA",
@@ -133,25 +114,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1229",
-      "st": "07/08/2020 17:00",
-      "matricula": "CCBGA",
-      "posicion": "09",
-      "et": "7/8/2020 16:10",
-      "at": "7/8/2020 16:15",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -304,6 +266,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1133",
+      "st": "08/08/2020 04:20",
+      "matricula": "LVFVI",
+      "posicion": "15",
+      "et": "8/8/2020 04:16",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "009",
+      "ruta": "MAD",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "171"
     },
     {
       "tipo": "partida",
