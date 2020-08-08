@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/08/2020 19:59",
+  "lastUpdate": "08/08/2020 20:06",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -114,25 +114,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "BA",
-      "vuelo": "245F",
-      "st": "08/08/2020 08:20",
-      "matricula": "GZBJK",
-      "posicion": "04",
-      "et": "8/8/2020 08:05",
-      "at": "8/8/2020 08:03",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "LHR",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
