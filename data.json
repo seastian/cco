@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07/08/2020 23:12",
+  "lastUpdate": "07/08/2020 23:18",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -323,25 +323,6 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "CM",
-      "vuelo": "4852",
-      "st": "07/08/2020 11:18",
-      "matricula": "HP1857",
-      "posicion": "02",
-      "et": "",
-      "at": "7/8/2020 11:14",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "027",
-      "chkTo": "032",
-      "puerta": "01",
-      "ruta": "PTY",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
