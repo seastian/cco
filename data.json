@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/08/2020 20:13",
+  "lastUpdate": "08/08/2020 20:19",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -510,6 +510,25 @@
       "chkTo": "",
       "puerta": "10",
       "ruta": "EPA",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "QT",
+      "vuelo": "4078",
+      "st": "09/08/2020 08:15",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "BOG",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
