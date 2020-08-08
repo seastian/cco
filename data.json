@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/08/2020 12:49",
+  "lastUpdate": "08/08/2020 12:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -389,7 +389,7 @@
       "matricula": "TCJJU",
       "posicion": "03",
       "et": "",
-      "at": "",
+      "at": "8/8/2020 12:48",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -397,7 +397,7 @@
       "puerta": "02",
       "ruta": "ISL",
       "via": "GRU",
-      "remark": "HOR",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
