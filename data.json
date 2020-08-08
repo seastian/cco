@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/08/2020 07:27",
+  "lastUpdate": "08/08/2020 07:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -358,25 +358,6 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LA",
-      "vuelo": "1979",
-      "st": "07/08/2020 21:30",
-      "matricula": "CCBGK",
-      "posicion": "10",
-      "et": "",
-      "at": "7/8/2020 19:33",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "10",
-      "ruta": "SCL",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
