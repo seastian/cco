@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/08/2020 16:02",
+  "lastUpdate": "08/08/2020 16:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -45,7 +45,7 @@
       "vuelo": "1917",
       "st": "08/08/2020 17:25",
       "matricula": "LVFUB",
-      "posicion": "",
+      "posicion": "18B",
       "et": "8/8/2020 18:26",
       "at": "",
       "term": "C",
