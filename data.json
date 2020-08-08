@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/08/2020 18:55",
+  "lastUpdate": "08/08/2020 19:02",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -510,6 +510,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "SCL",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "WJ",
+      "vuelo": "9001",
+      "st": "09/08/2020 07:00",
+      "matricula": "LVIVN",
+      "posicion": "10",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPC",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "10",
+      "ruta": "EPA",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
