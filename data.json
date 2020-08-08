@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/08/2020 06:16",
+  "lastUpdate": "08/08/2020 06:23",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -560,7 +560,7 @@
       "matricula": "N309UP",
       "posicion": "55",
       "et": "",
-      "at": "",
+      "at": "8/8/2020 06:19",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -568,7 +568,7 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
