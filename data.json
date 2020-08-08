@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/08/2020 11:44",
+  "lastUpdate": "08/08/2020 11:51",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -131,6 +131,25 @@
       "ruta": "SAL",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "M3",
+      "vuelo": "8496",
+      "st": "08/08/2020 23:45",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "VCP",
+      "via": "",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
