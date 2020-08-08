@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/08/2020 01:02",
+  "lastUpdate": "08/08/2020 01:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -579,7 +579,7 @@
       "matricula": "PRACO",
       "posicion": "56",
       "et": "8/8/2020 01:07",
-      "at": "",
+      "at": "8/8/2020 01:03",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -587,7 +587,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
