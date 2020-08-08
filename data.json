@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/08/2020 02:12",
+  "lastUpdate": "08/08/2020 02:19",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -275,14 +275,14 @@
       "matricula": "CCBGM",
       "posicion": "10",
       "et": "8/8/2020 02:00",
-      "at": "",
+      "at": "8/8/2020 02:15",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -516,25 +516,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1302",
-      "st": "07/08/2020 23:30",
-      "matricula": "LVGKP",
-      "posicion": "14",
-      "et": "7/8/2020 23:59",
-      "at": "8/8/2020 00:26",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "220",
-      "chkTo": "240",
-      "puerta": "18",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "JJ",
       "vuelo": "H24",
       "st": "07/08/2020 23:59",
@@ -550,6 +531,25 @@
       "ruta": "QTR",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1302",
+      "st": "07/08/2020 23:30",
+      "matricula": "LVGKP",
+      "posicion": "14",
+      "et": "7/8/2020 23:59",
+      "at": "8/8/2020 00:26",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "220",
+      "chkTo": "240",
+      "puerta": "18",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
