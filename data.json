@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/08/2020 20:13",
+  "lastUpdate": "09/08/2020 20:19",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -361,6 +361,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "BAW",
+      "st": "09/08/2020 20:00",
+      "matricula": "LVBAW",
+      "posicion": "43",
+      "et": "",
+      "at": "9/8/2020 20:10",
+      "term": "C",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MDQ",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "1"
     },
     {
       "tipo": "partida",
