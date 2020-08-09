@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/08/2020 09:43",
+  "lastUpdate": "09/08/2020 09:49",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -133,25 +133,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "WJ",
-      "vuelo": "1103",
-      "st": "08/08/2020 22:30",
-      "matricula": "LVIVN",
-      "posicion": "10",
-      "et": "8/8/2020 21:50",
-      "at": "8/8/2020 21:46",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "010",
-      "ruta": "SAL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "8"
     },
     {
       "tipo": "arribo",
