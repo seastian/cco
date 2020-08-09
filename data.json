@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/08/2020 13:28",
+  "lastUpdate": "09/08/2020 13:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -60,25 +60,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "101",
-      "st": "09/08/2020 18:30",
-      "matricula": "CXCAR",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1303",
       "st": "09/08/2020 18:00",
@@ -95,6 +76,25 @@
       "remark": "DEM",
       "sanidad": "NO",
       "pax": "184"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AOG",
+      "vuelo": "101",
+      "st": "09/08/2020 18:30",
+      "matricula": "CXCAR",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -370,7 +370,7 @@
       "matricula": "ECNBE",
       "posicion": "09",
       "et": "",
-      "at": "",
+      "at": "9/8/2020 13:29",
       "term": "A",
       "sector": "AP",
       "chkFrom": "027",
@@ -378,7 +378,7 @@
       "puerta": "08",
       "ruta": "MAD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
