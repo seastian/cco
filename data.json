@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/08/2020 14:51",
+  "lastUpdate": "09/08/2020 14:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -257,7 +257,7 @@
       "posicion": "42",
       "et": "",
       "at": "9/8/2020 14:17",
-      "term": "FBO",
+      "term": "A",
       "sector": "",
       "cinta": "",
       "lF": "",
@@ -265,7 +265,7 @@
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "5"
     },
     {
       "tipo": "partida",
