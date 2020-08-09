@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/08/2020 18:23",
+  "lastUpdate": "09/08/2020 18:30",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -152,25 +152,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "KL",
-      "vuelo": "701",
-      "st": "09/08/2020 06:40",
-      "matricula": "PHBHF",
-      "posicion": "11",
-      "et": "9/8/2020 06:36",
-      "at": "9/8/2020 06:29",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "AMS",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
