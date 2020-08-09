@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "09/08/2020 17:19",
+  "lastUpdate": "09/08/2020 17:26",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1303",
-      "st": "09/08/2020 18:00",
-      "matricula": "LVGKP",
-      "posicion": "13",
-      "et": "9/8/2020 18:30",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": "184"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AOG",
@@ -38,6 +19,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1303",
+      "st": "09/08/2020 18:00",
+      "matricula": "LVGKP",
+      "posicion": "13",
+      "et": "9/8/2020 18:45",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "009",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": "184"
     },
     {
       "tipo": "arribo",
@@ -136,6 +136,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "1977",
+      "st": "10/08/2020 05:20",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "KL",
       "vuelo": "701",
       "st": "09/08/2020 06:40",
@@ -194,7 +213,7 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "8472",
+      "vuelo": "9831",
       "st": "09/08/2020 14:00",
       "matricula": "",
       "posicion": "",
@@ -213,7 +232,7 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "9831",
+      "vuelo": "8472",
       "st": "09/08/2020 14:00",
       "matricula": "",
       "posicion": "",
