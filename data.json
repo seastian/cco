@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/08/2020 04:27",
+  "lastUpdate": "09/08/2020 04:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -95,25 +95,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1229",
-      "st": "08/08/2020 17:00",
-      "matricula": "CCBGO",
-      "posicion": "03",
-      "et": "8/8/2020 16:20",
-      "at": "8/8/2020 16:28",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
