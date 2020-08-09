@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/08/2020 14:26",
+  "lastUpdate": "09/08/2020 14:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -586,6 +586,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "SCL",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "102",
+      "st": "10/08/2020 02:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "ASU",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
