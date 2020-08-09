@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/08/2020 08:58",
+  "lastUpdate": "09/08/2020 09:04",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -120,7 +120,7 @@
       "aerolinea": "AOG",
       "vuelo": "101",
       "st": "09/08/2020 18:30",
-      "matricula": "",
+      "matricula": "CXCAR",
       "posicion": "",
       "et": "",
       "at": "",
