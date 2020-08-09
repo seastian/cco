@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/08/2020 19:41",
+  "lastUpdate": "09/08/2020 19:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -155,22 +155,22 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1957",
-      "st": "09/08/2020 07:40",
-      "matricula": "CCBGP",
-      "posicion": "03",
-      "et": "9/8/2020 10:00",
-      "at": "9/8/2020 09:58",
+      "aerolinea": "BA",
+      "vuelo": "245F",
+      "st": "10/08/2020 08:20",
+      "matricula": "GZBJB",
+      "posicion": "",
+      "et": "10/8/2020 07:44",
+      "at": "",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
-      "ruta": "MIA",
+      "ruta": "LHR",
       "via": "",
-      "remark": "ATE",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": "0"
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -193,8 +193,27 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "1957",
+      "st": "09/08/2020 07:40",
+      "matricula": "CCBGP",
+      "posicion": "03",
+      "et": "9/8/2020 10:00",
+      "at": "9/8/2020 09:58",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "0"
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "9831",
+      "vuelo": "8472",
       "st": "09/08/2020 14:00",
       "matricula": "",
       "posicion": "",
@@ -213,7 +232,7 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "8472",
+      "vuelo": "9831",
       "st": "09/08/2020 14:00",
       "matricula": "",
       "posicion": "",
