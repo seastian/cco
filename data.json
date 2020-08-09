@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/08/2020 10:53",
+  "lastUpdate": "09/08/2020 11:00",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -84,7 +84,7 @@
       "st": "09/08/2020 18:00",
       "matricula": "",
       "posicion": "",
-      "et": "9/8/2020 18:40",
+      "et": "9/8/2020 18:30",
       "at": "",
       "term": "A",
       "sector": "",
@@ -378,7 +378,7 @@
       "puerta": "02",
       "ruta": "SCL",
       "via": "",
-      "remark": "DEM",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
