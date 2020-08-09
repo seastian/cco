@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/08/2020 16:15",
+  "lastUpdate": "09/08/2020 16:21",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -427,7 +427,7 @@
       "matricula": "N155QS",
       "posicion": "44",
       "et": "",
-      "at": "",
+      "at": "9/8/2020 16:00",
       "term": "A",
       "sector": "",
       "chkFrom": "",
@@ -435,7 +435,7 @@
       "puerta": "",
       "ruta": "FLL",
       "via": "",
-      "remark": "CON",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
