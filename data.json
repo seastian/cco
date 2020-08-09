@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/08/2020 23:00",
+  "lastUpdate": "08/08/2020 23:06",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -244,25 +244,6 @@
       "chkTo": "240",
       "puerta": "24",
       "ruta": "USH",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AU",
-      "vuelo": "2340",
-      "st": "08/08/2020 11:00",
-      "matricula": "LVCIH",
-      "posicion": "16A",
-      "et": "",
-      "at": "8/8/2020 11:05",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "22",
-      "ruta": "ASU",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
