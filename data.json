@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/08/2020 21:55",
+  "lastUpdate": "08/08/2020 22:02",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -95,25 +95,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "TK",
-      "vuelo": "6169",
-      "st": "08/08/2020 10:30",
-      "matricula": "TCJJU",
-      "posicion": "03",
-      "et": "8/8/2020 09:56",
-      "at": "8/8/2020 09:56",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "ISL",
-      "via": "GRU",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
