@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/08/2020 20:06",
+  "lastUpdate": "09/08/2020 20:13",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -174,25 +174,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1957",
-      "st": "09/08/2020 07:40",
-      "matricula": "CCBGP",
-      "posicion": "03",
-      "et": "9/8/2020 10:00",
-      "at": "9/8/2020 09:58",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "QT",
       "vuelo": "4099",
       "st": "09/08/2020 06:15",
@@ -212,8 +193,27 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "1957",
+      "st": "09/08/2020 07:40",
+      "matricula": "CCBGP",
+      "posicion": "03",
+      "et": "9/8/2020 10:00",
+      "at": "9/8/2020 09:58",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "0"
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "9831",
+      "vuelo": "8472",
       "st": "09/08/2020 14:00",
       "matricula": "",
       "posicion": "",
@@ -232,7 +232,7 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "8472",
+      "vuelo": "9831",
       "st": "09/08/2020 14:00",
       "matricula": "",
       "posicion": "",
@@ -541,7 +541,7 @@
       "matricula": "CXCAR",
       "posicion": "52A",
       "et": "",
-      "at": "",
+      "at": "9/8/2020 20:10",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -549,7 +549,7 @@
       "puerta": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "HOR",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
