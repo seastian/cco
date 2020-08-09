@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "09/08/2020 02:12",
+  "lastUpdate": "09/08/2020 02:19",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1955",
-      "st": "09/08/2020 02:40",
-      "matricula": "CCBGN",
-      "posicion": "11",
-      "et": "9/8/2020 02:15",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "QT",
@@ -245,6 +226,25 @@
       "ruta": "VCP",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "1955",
+      "st": "09/08/2020 02:40",
+      "matricula": "CCBGN",
+      "posicion": "11",
+      "et": "9/8/2020 02:15",
+      "at": "9/8/2020 02:15",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
