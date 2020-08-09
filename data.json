@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "09/08/2020 10:47",
+  "lastUpdate": "09/08/2020 10:53",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "M3",
-      "vuelo": "9831",
-      "st": "09/08/2020 14:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "M3",
@@ -41,22 +22,22 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1303",
-      "st": "09/08/2020 18:00",
+      "aerolinea": "M3",
+      "vuelo": "9831",
+      "st": "09/08/2020 14:00",
       "matricula": "",
       "posicion": "",
       "et": "",
       "at": "",
-      "term": "A",
+      "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
-      "ruta": "MIA",
+      "ruta": "VCP",
       "via": "",
-      "remark": "HOR",
+      "remark": "",
       "sanidad": "NO",
-      "pax": "184"
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -95,6 +76,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1303",
+      "st": "09/08/2020 18:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "9/8/2020 18:40",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": "184"
     },
     {
       "tipo": "arribo",
