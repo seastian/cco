@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "09/08/2020 18:43",
+  "lastUpdate": "09/08/2020 18:49",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1303",
-      "st": "09/08/2020 18:00",
-      "matricula": "LVGKP",
-      "posicion": "13",
-      "et": "9/8/2020 18:45",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": "184"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "GTI",
@@ -323,6 +304,25 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1303",
+      "st": "09/08/2020 18:00",
+      "matricula": "LVGKP",
+      "posicion": "13",
+      "et": "9/8/2020 18:45",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "009",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": "184"
     },
     {
       "tipo": "partida",
