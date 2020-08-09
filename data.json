@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/08/2020 06:55",
+  "lastUpdate": "09/08/2020 07:02",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -340,7 +340,7 @@
       "puerta": "10",
       "ruta": "EPA",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -422,25 +422,6 @@
     {
       "tipo": "partida",
       "aerolinea": "M3",
-      "vuelo": "8472",
-      "st": "09/08/2020 15:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "M3",
       "vuelo": "9832",
       "st": "09/08/2020 15:10",
       "matricula": "",
@@ -453,6 +434,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MAO",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "8472",
+      "st": "09/08/2020 15:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
