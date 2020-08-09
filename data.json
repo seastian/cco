@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/08/2020 16:21",
+  "lastUpdate": "09/08/2020 16:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -275,14 +275,14 @@
       "matricula": "LVGKM",
       "posicion": "47",
       "et": "",
-      "at": "",
+      "at": "9/8/2020 16:00",
       "term": "C",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "BHI",
       "via": "",
-      "remark": "CON",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
     },
