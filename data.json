@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/08/2020 23:12",
+  "lastUpdate": "08/08/2020 23:19",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -228,25 +228,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "8"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1916",
-      "st": "08/08/2020 09:00",
-      "matricula": "LVFUB",
-      "posicion": "17B",
-      "et": "",
-      "at": "8/8/2020 11:12",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "24",
-      "ruta": "USH",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
