@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/08/2020 08:00",
+  "lastUpdate": "09/08/2020 08:06",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -472,6 +472,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "FLL",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "PRV",
+      "vuelo": "GVX",
+      "st": "09/08/2020 20:00",
+      "matricula": "LVGVX",
+      "posicion": "41",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPC",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "BRC",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
