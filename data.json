@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/08/2020 08:26",
+  "lastUpdate": "09/08/2020 08:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -491,6 +491,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "BRC",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "101",
+      "st": "09/08/2020 20:30",
+      "matricula": "CXCAR",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "ASU",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
