@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/08/2020 14:19",
+  "lastUpdate": "09/08/2020 14:26",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -22,25 +22,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "101",
-      "st": "09/08/2020 18:30",
-      "matricula": "CXCAR",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1303",
       "st": "09/08/2020 18:00",
@@ -57,6 +38,25 @@
       "remark": "DEM",
       "sanidad": "NO",
       "pax": "184"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AOG",
+      "vuelo": "101",
+      "st": "09/08/2020 18:30",
+      "matricula": "CXCAR",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -136,6 +136,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "5X",
+      "vuelo": "416",
+      "st": "10/08/2020 02:19",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "KL",
       "vuelo": "701",
       "st": "09/08/2020 06:40",
@@ -194,7 +213,7 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "9831",
+      "vuelo": "8472",
       "st": "09/08/2020 14:00",
       "matricula": "",
       "posicion": "",
@@ -213,7 +232,7 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "8472",
+      "vuelo": "9831",
       "st": "09/08/2020 14:00",
       "matricula": "",
       "posicion": "",
