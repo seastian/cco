@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/08/2020 22:02",
+  "lastUpdate": "08/08/2020 22:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -370,7 +370,7 @@
       "matricula": "N797AN",
       "posicion": "04",
       "et": "",
-      "at": "",
+      "at": "8/8/2020 22:04",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -378,7 +378,7 @@
       "puerta": "03",
       "ruta": "MIA",
       "via": "",
-      "remark": "HOR",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -403,7 +403,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24",
+      "vuelo": "H24N",
       "st": "08/08/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -411,7 +411,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "209",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -422,7 +422,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
+      "vuelo": "H24",
       "st": "08/08/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -430,7 +430,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
