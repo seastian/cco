@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08/08/2020 21:11",
+  "lastUpdate": "08/08/2020 21:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -46,7 +46,7 @@
       "st": "09/08/2020 02:40",
       "matricula": "",
       "posicion": "",
-      "et": "",
+      "et": "9/8/2020 02:15",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -54,7 +54,7 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
