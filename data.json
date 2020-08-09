@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/08/2020 11:06",
+  "lastUpdate": "09/08/2020 11:13",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -60,25 +60,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1303",
-      "st": "09/08/2020 18:00",
-      "matricula": "LVGKP",
-      "posicion": "13",
-      "et": "9/8/2020 18:30",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": "184"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AOG",
       "vuelo": "101",
       "st": "09/08/2020 18:30",
@@ -95,6 +76,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1303",
+      "st": "09/08/2020 18:00",
+      "matricula": "LVGKP",
+      "posicion": "13",
+      "et": "9/8/2020 18:30",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "009",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": "184"
     },
     {
       "tipo": "arribo",
@@ -408,7 +408,7 @@
       "matricula": "CCBGP",
       "posicion": "03",
       "et": "9/8/2020 12:40",
-      "at": "",
+      "at": "9/8/2020 11:07",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -416,7 +416,7 @@
       "puerta": "02",
       "ruta": "SCL",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
