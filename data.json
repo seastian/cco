@@ -1,6 +1,25 @@
 {
-  "lastUpdate": "09/08/2020 15:36",
+  "lastUpdate": "09/08/2020 15:43",
   "vuelos": [
+    {
+      "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "GKM",
+      "st": "09/08/2020 15:45",
+      "matricula": "LVGKM",
+      "posicion": "47",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "BHI",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": "0"
+    },
     {
       "tipo": "arribo",
       "aerolinea": "PRV",
