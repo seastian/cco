@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/08/2020 06:04",
+  "lastUpdate": "09/08/2020 06:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -45,7 +45,7 @@
       "vuelo": "1957",
       "st": "09/08/2020 07:40",
       "matricula": "CCBGP",
-      "posicion": "",
+      "posicion": "03",
       "et": "9/8/2020 10:00",
       "at": "",
       "term": "TCA",
@@ -406,14 +406,14 @@
       "vuelo": "1957",
       "st": "09/08/2020 09:40",
       "matricula": "CCBGP",
-      "posicion": "",
+      "posicion": "03",
       "et": "9/8/2020 12:40",
       "at": "",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
       "chkTo": "",
-      "puerta": "",
+      "puerta": "02",
       "ruta": "SCL",
       "via": "",
       "remark": "DEM",
