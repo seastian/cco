@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/08/2020 02:00",
+  "lastUpdate": "09/08/2020 02:06",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -80,8 +80,8 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "8495",
-      "st": "08/08/2020 14:00",
+      "vuelo": "9831",
+      "st": "09/08/2020 14:00",
       "matricula": "",
       "posicion": "",
       "et": "",
@@ -90,9 +90,28 @@
       "sector": "",
       "cinta": "",
       "lF": "",
-      "ruta": "SCL",
+      "ruta": "VCP",
       "via": "",
-      "remark": "CON",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "M3",
+      "vuelo": "8472",
+      "st": "09/08/2020 14:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "VCP",
+      "via": "",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
