@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/08/2020 18:36",
+  "lastUpdate": "10/08/2020 18:43",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -171,6 +171,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "KL",
+      "vuelo": "701",
+      "st": "11/08/2020 06:40",
+      "matricula": "PHBHL",
+      "posicion": "",
+      "et": "11/8/2020 06:38",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "AMS",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "99"
     },
     {
       "tipo": "arribo",
