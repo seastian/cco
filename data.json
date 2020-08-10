@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/08/2020 16:28",
+  "lastUpdate": "10/08/2020 16:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -858,6 +858,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "BA",
+      "vuelo": "244F",
+      "st": "10/08/2020 16:30",
+      "matricula": "GZBJB",
+      "posicion": "10",
+      "et": "",
+      "at": "10/8/2020 16:31",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "10",
+      "ruta": "LHR",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "M3",
       "vuelo": "8490",
       "st": "11/08/2020 02:10",
@@ -873,25 +892,6 @@
       "ruta": "SCL",
       "via": "",
       "remark": "EST",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "BA",
-      "vuelo": "244F",
-      "st": "10/08/2020 16:30",
-      "matricula": "GZBJB",
-      "posicion": "10",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "10",
-      "ruta": "LHR",
-      "via": "",
-      "remark": "HOR",
       "sanidad": "NO"
     },
     {
