@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/08/2020 15:36",
+  "lastUpdate": "10/08/2020 15:43",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -750,7 +750,7 @@
       "matricula": "LVGKM",
       "posicion": "47",
       "et": "10/8/2020 14:00",
-      "at": "",
+      "at": "10/8/2020 15:18",
       "term": "C",
       "sector": "",
       "chkFrom": "",
@@ -758,7 +758,7 @@
       "puerta": "",
       "ruta": "FDO",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -853,7 +853,7 @@
       "puerta": "",
       "ruta": "FDO",
       "via": "",
-      "remark": "DEM",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
