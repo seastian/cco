@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/08/2020 10:34",
+  "lastUpdate": "10/08/2020 10:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -712,7 +712,7 @@
       "matricula": "LVGOO",
       "posicion": "M01",
       "et": "",
-      "at": "",
+      "at": "10/8/2020 10:39",
       "term": "C",
       "sector": "CPC",
       "chkFrom": "",
@@ -720,7 +720,7 @@
       "puerta": "",
       "ruta": "-AR",
       "via": "",
-      "remark": "CON",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -926,7 +926,7 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "16",
       "ruta": "GRU",
       "via": "",
       "remark": "HOR",
