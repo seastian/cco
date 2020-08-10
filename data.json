@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/08/2020 07:02",
+  "lastUpdate": "10/08/2020 07:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -264,44 +264,6 @@
       "ruta": "USH",
       "via": "",
       "remark": "CAN",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1303",
-      "st": "09/08/2020 18:00",
-      "matricula": "LVGKP",
-      "posicion": "16",
-      "et": "",
-      "at": "9/8/2020 19:06",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "184"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "101",
-      "st": "09/08/2020 18:30",
-      "matricula": "CXCAR",
-      "posicion": "52A",
-      "et": "",
-      "at": "9/8/2020 19:03",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -693,7 +655,7 @@
       "matricula": "CCBGN",
       "posicion": "09",
       "et": "",
-      "at": "",
+      "at": "10/8/2020 07:05",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -701,7 +663,7 @@
       "puerta": "09",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
