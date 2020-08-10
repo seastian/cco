@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/08/2020 10:41",
+  "lastUpdate": "10/08/2020 10:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -493,7 +493,7 @@
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -1118,6 +1118,25 @@
       "chkTo": "",
       "puerta": "02",
       "ruta": "MIA",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "QT",
+      "vuelo": "4078",
+      "st": "10/08/2020 22:45",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "BOG",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
