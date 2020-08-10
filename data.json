@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/08/2020 05:51",
+  "lastUpdate": "10/08/2020 05:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -64,7 +64,7 @@
       "vuelo": "245F",
       "st": "10/08/2020 08:20",
       "matricula": "GZBJB",
-      "posicion": "",
+      "posicion": "10",
       "et": "10/8/2020 07:44",
       "at": "",
       "term": "TCA",
@@ -1033,14 +1033,14 @@
       "vuelo": "244F",
       "st": "10/08/2020 16:30",
       "matricula": "GZBJB",
-      "posicion": "",
+      "posicion": "10",
       "et": "",
       "at": "",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
       "chkTo": "",
-      "puerta": "",
+      "puerta": "10",
       "ruta": "LHR",
       "via": "",
       "remark": "HOR",
