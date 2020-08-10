@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/08/2020 09:36",
+  "lastUpdate": "10/08/2020 09:43",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -744,25 +744,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "PRV",
-      "vuelo": "GKM",
-      "st": "10/08/2020 10:00",
-      "matricula": "LVGKM",
-      "posicion": "47",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "FDO",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "LH",
       "vuelo": "8265",
       "st": "10/08/2020 11:45",
@@ -778,6 +759,25 @@
       "ruta": "FRA",
       "via": "VCP",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "PRV",
+      "vuelo": "GKM",
+      "st": "10/08/2020 10:00",
+      "matricula": "LVGKM",
+      "posicion": "47",
+      "et": "10/8/2020 12:00",
+      "at": "",
+      "term": "C",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "FDO",
+      "via": "",
+      "remark": "DEM",
       "sanidad": "NO"
     },
     {
