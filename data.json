@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/08/2020 10:28",
+  "lastUpdate": "10/08/2020 10:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1101,6 +1101,25 @@
       "ruta": "MIA",
       "via": "",
       "remark": "DEM",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AA",
+      "vuelo": "9708",
+      "st": "10/08/2020 22:30",
+      "matricula": "N760AN",
+      "posicion": "03",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "02",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     }
   ]
