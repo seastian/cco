@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/08/2020 04:15",
+  "lastUpdate": "10/08/2020 04:21",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -706,14 +706,14 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "PRV",
+      "aerolinea": "AOG",
       "vuelo": "CLS",
       "st": "10/08/2020 09:30",
       "matricula": "CXCLS",
       "posicion": "",
       "et": "",
       "at": "",
-      "term": "C",
+      "term": "TCA",
       "sector": "",
       "chkFrom": "",
       "chkTo": "",
@@ -725,14 +725,14 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AOG",
+      "aerolinea": "PRV",
       "vuelo": "CLS",
       "st": "10/08/2020 09:30",
       "matricula": "CXCLS",
       "posicion": "",
       "et": "",
       "at": "",
-      "term": "TCA",
+      "term": "C",
       "sector": "",
       "chkFrom": "",
       "chkTo": "",
