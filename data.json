@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/08/2020 08:13",
+  "lastUpdate": "10/08/2020 08:19",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1023,6 +1023,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "SCL",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "5X",
+      "vuelo": "417",
+      "st": "10/08/2020 20:15",
+      "matricula": "N309UP",
+      "posicion": "36",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
