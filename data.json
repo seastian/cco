@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/08/2020 12:24",
+  "lastUpdate": "10/08/2020 12:30",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -307,25 +307,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "5X",
-      "vuelo": "416",
-      "st": "10/08/2020 02:19",
-      "matricula": "N309UP",
-      "posicion": "55",
-      "et": "10/8/2020 00:33",
-      "at": "10/8/2020 00:29",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "LA",
       "vuelo": "1977",
       "st": "10/08/2020 05:20",
@@ -612,25 +593,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1040",
-      "st": "10/08/2020 09:00",
-      "matricula": "LVGOO",
-      "posicion": "M01",
-      "et": "",
-      "at": "10/8/2020 10:39",
-      "term": "C",
-      "sector": "CPC",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "-AR",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "1878",
       "st": "10/08/2020 09:00",
       "matricula": "",
@@ -645,6 +607,25 @@
       "ruta": "USH",
       "via": "",
       "remark": "CAN",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1040",
+      "st": "10/08/2020 09:00",
+      "matricula": "LVGOO",
+      "posicion": "M01",
+      "et": "",
+      "at": "10/8/2020 10:39",
+      "term": "C",
+      "sector": "CPC",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "-AR",
+      "via": "",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
