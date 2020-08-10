@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/08/2020 12:36",
+  "lastUpdate": "10/08/2020 12:43",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -824,7 +824,7 @@
       "vuelo": "2244",
       "st": "10/08/2020 15:00",
       "matricula": "LVCIE",
-      "posicion": "18A",
+      "posicion": "12",
       "et": "",
       "at": "",
       "term": "C",
@@ -1125,7 +1125,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
+      "vuelo": "H24",
       "st": "10/08/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -1133,7 +1133,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
