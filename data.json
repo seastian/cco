@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/08/2020 13:21",
+  "lastUpdate": "10/08/2020 13:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -494,25 +494,6 @@
       "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "103",
-      "st": "10/08/2020 07:30",
-      "matricula": "CXCAR",
-      "posicion": "52A",
-      "et": "10/8/2020 01:30",
-      "at": "10/8/2020 01:26",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
@@ -1087,7 +1068,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24",
+      "vuelo": "H24N",
       "st": "10/08/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -1095,7 +1076,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "221",
+      "chkFrom": "209",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
@@ -1125,7 +1106,7 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24N",
+      "vuelo": "H24",
       "st": "10/08/2020 23:59",
       "matricula": "",
       "posicion": "",
@@ -1133,7 +1114,7 @@
       "at": "",
       "term": "C",
       "sector": "CPI",
-      "chkFrom": "209",
+      "chkFrom": "221",
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
