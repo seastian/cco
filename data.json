@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/08/2020 15:49",
+  "lastUpdate": "10/08/2020 15:56",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,7 +7,7 @@
       "vuelo": "CLS",
       "st": "10/08/2020 16:30",
       "matricula": "CXCLS",
-      "posicion": "",
+      "posicion": "52A",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -900,7 +900,7 @@
       "vuelo": "432",
       "st": "10/08/2020 17:30",
       "matricula": "CXCLS",
-      "posicion": "",
+      "posicion": "52A",
       "et": "",
       "at": "",
       "term": "TCA",
