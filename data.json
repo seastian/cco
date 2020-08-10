@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/08/2020 01:21",
+  "lastUpdate": "10/08/2020 01:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -693,7 +693,7 @@
       "matricula": "CXCAR",
       "posicion": "52A",
       "et": "10/8/2020 01:30",
-      "at": "",
+      "at": "10/8/2020 01:26",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -701,7 +701,7 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
