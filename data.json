@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/08/2020 02:13",
+  "lastUpdate": "10/08/2020 02:19",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -266,25 +266,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "CPL",
-      "st": "09/08/2020 14:08",
-      "matricula": "LVCPL",
-      "posicion": "42",
-      "et": "",
-      "at": "9/8/2020 14:17",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "5"
     },
     {
       "tipo": "arribo",
