@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/08/2020 15:23",
+  "lastUpdate": "10/08/2020 15:30",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -938,7 +938,7 @@
       "vuelo": "417",
       "st": "10/08/2020 20:15",
       "matricula": "N309UP",
-      "posicion": "36",
+      "posicion": "55",
       "et": "",
       "at": "",
       "term": "TCA",
