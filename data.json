@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/08/2020 19:41",
+  "lastUpdate": "10/08/2020 19:48",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -190,6 +190,25 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "99"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "BA",
+      "vuelo": "245F",
+      "st": "11/08/2020 08:20",
+      "matricula": "GZBJE",
+      "posicion": "",
+      "et": "11/8/2020 07:46",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "LHR",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -479,25 +498,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1040",
-      "st": "10/08/2020 09:00",
-      "matricula": "LVGOO",
-      "posicion": "M01",
-      "et": "",
-      "at": "10/8/2020 10:39",
-      "term": "C",
-      "sector": "CPC",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "-AR",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "1878",
       "st": "10/08/2020 09:00",
       "matricula": "",
@@ -512,6 +512,25 @@
       "ruta": "USH",
       "via": "",
       "remark": "CAN",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1040",
+      "st": "10/08/2020 09:00",
+      "matricula": "LVGOO",
+      "posicion": "M01",
+      "et": "",
+      "at": "10/8/2020 10:39",
+      "term": "C",
+      "sector": "CPC",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "-AR",
+      "via": "",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -744,25 +763,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "M3",
-      "vuelo": "8473",
-      "st": "10/08/2020 15:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "POA",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "PRV",
       "vuelo": "CPL",
       "st": "10/08/2020 15:00",
@@ -778,6 +778,25 @@
       "ruta": "FDO",
       "via": "",
       "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "8473",
+      "st": "10/08/2020 15:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "POA",
+      "via": "",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
