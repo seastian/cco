@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/08/2020 10:08",
+  "lastUpdate": "10/08/2020 10:15",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -360,7 +360,7 @@
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -787,7 +787,7 @@
       "st": "10/08/2020 10:00",
       "matricula": "LVGKM",
       "posicion": "47",
-      "et": "10/8/2020 12:00",
+      "et": "10/8/2020 14:00",
       "at": "",
       "term": "C",
       "sector": "",
