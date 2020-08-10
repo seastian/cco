@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "10/08/2020 06:11",
+  "lastUpdate": "10/08/2020 06:17",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "9575",
-      "st": "10/08/2020 06:40",
-      "matricula": "CCBGI",
-      "posicion": "08",
-      "et": "10/8/2020 06:10",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "0"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AOG",
