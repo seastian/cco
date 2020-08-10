@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/08/2020 21:43",
+  "lastUpdate": "09/08/2020 21:49",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -288,25 +288,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1303",
-      "st": "09/08/2020 18:00",
-      "matricula": "LVGKP",
-      "posicion": "16",
-      "et": "",
-      "at": "9/8/2020 19:06",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "184"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "PRV",
       "vuelo": "GVX",
       "st": "09/08/2020 18:00",
@@ -323,6 +304,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1303",
+      "st": "09/08/2020 18:00",
+      "matricula": "LVGKP",
+      "posicion": "16",
+      "et": "",
+      "at": "9/8/2020 19:06",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "009",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "184"
     },
     {
       "tipo": "arribo",
