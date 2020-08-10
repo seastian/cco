@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/08/2020 01:15",
+  "lastUpdate": "10/08/2020 01:21",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -207,6 +207,25 @@
       "ruta": "MIA",
       "via": "",
       "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1862",
+      "st": "10/08/2020 13:20",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "COR",
+      "via": "",
+      "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
     },
