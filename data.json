@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/08/2020 00:36",
+  "lastUpdate": "10/08/2020 00:43",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -178,6 +178,25 @@
       "vuelo": "1711",
       "st": "10/08/2020 12:01",
       "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "UC",
+      "vuelo": "1109",
+      "st": "10/08/2020 12:40",
+      "matricula": "N540LA",
       "posicion": "",
       "et": "",
       "at": "",
@@ -437,25 +456,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "QT",
-      "vuelo": "4078",
-      "st": "09/08/2020 08:15",
-      "matricula": "N331QT",
-      "posicion": "54",
-      "et": "9/8/2020 12:30",
-      "at": "9/8/2020 12:40",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "BOG",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
