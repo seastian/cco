@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/08/2020 23:45",
+  "lastUpdate": "09/08/2020 23:51",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -707,25 +707,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1878",
-      "st": "10/08/2020 09:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "USH",
-      "via": "",
-      "remark": "CAN",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "1040",
       "st": "10/08/2020 09:00",
       "matricula": "LVGOO",
@@ -740,6 +721,25 @@
       "ruta": "-AR",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1878",
+      "st": "10/08/2020 09:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "USH",
+      "via": "",
+      "remark": "CAN",
       "sanidad": "NO"
     },
     {
@@ -778,6 +778,25 @@
       "ruta": "FDO",
       "via": "",
       "remark": "",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LH",
+      "vuelo": "8265",
+      "st": "10/08/2020 11:45",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "FRA",
+      "via": "VCP",
+      "remark": "HOR",
       "sanidad": "NO"
     }
   ]
