@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/08/2020 19:48",
+  "lastUpdate": "10/08/2020 19:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -45,13 +45,13 @@
       "vuelo": "2245",
       "st": "10/08/2020 21:55",
       "matricula": "LVCIE",
-      "posicion": "18A",
+      "posicion": "12",
       "et": "10/8/2020 21:51",
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "9",
+      "lF": "009",
       "ruta": "GRU",
       "via": "",
       "remark": "EST",
