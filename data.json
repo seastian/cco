@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/08/2020 19:02",
+  "lastUpdate": "10/08/2020 19:09",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -498,25 +498,6 @@
     {
       "tipo": "partida",
       "aerolinea": "LA",
-      "vuelo": "1977",
-      "st": "10/08/2020 07:20",
-      "matricula": "CCBGN",
-      "posicion": "09",
-      "et": "",
-      "at": "10/8/2020 07:05",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "09",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LA",
       "vuelo": "9575",
       "st": "10/08/2020 08:40",
       "matricula": "CCBGI",
@@ -897,6 +878,25 @@
     {
       "tipo": "partida",
       "aerolinea": "UC",
+      "vuelo": "1101",
+      "st": "10/08/2020 20:40",
+      "matricula": "N536LA",
+      "posicion": "54",
+      "et": "10/8/2020 19:30",
+      "at": "10/8/2020 19:06",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UC",
       "vuelo": "1301",
       "st": "10/08/2020 18:35",
       "matricula": "N540LA",
@@ -930,25 +930,6 @@
       "ruta": "SCL",
       "via": "",
       "remark": "EST",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1101",
-      "st": "10/08/2020 20:40",
-      "matricula": "N536LA",
-      "posicion": "54",
-      "et": "10/8/2020 19:30",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "CER",
       "sanidad": "NO"
     },
     {
