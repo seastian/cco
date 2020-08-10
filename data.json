@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/08/2020 10:21",
+  "lastUpdate": "10/08/2020 10:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -206,7 +206,7 @@
       "lF": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "",
+      "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
     },
@@ -896,25 +896,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AU",
-      "vuelo": "2244",
-      "st": "10/08/2020 15:00",
-      "matricula": "LVCIE",
-      "posicion": "18A",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "PRV",
       "vuelo": "CPL",
       "st": "10/08/2020 15:00",
@@ -928,6 +909,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "FDO",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AU",
+      "vuelo": "2244",
+      "st": "10/08/2020 15:00",
+      "matricula": "LVCIE",
+      "posicion": "18A",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "GRU",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -1010,25 +1010,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1301",
-      "st": "10/08/2020 18:35",
-      "matricula": "N540LA",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "LA",
       "vuelo": "1229",
       "st": "10/08/2020 19:00",
@@ -1101,6 +1082,25 @@
       "ruta": "MIA",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1301",
+      "st": "10/08/2020 18:35",
+      "matricula": "N540LA",
+      "posicion": "",
+      "et": "10/8/2020 21:35",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "DEM",
       "sanidad": "NO"
     }
   ]
