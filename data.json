@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/08/2020 01:41",
+  "lastUpdate": "10/08/2020 01:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -801,14 +801,14 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "PRV",
+      "aerolinea": "AOG",
       "vuelo": "CLS",
       "st": "10/08/2020 09:30",
       "matricula": "CXCLS",
       "posicion": "",
       "et": "",
       "at": "",
-      "term": "C",
+      "term": "TCA",
       "sector": "",
       "chkFrom": "",
       "chkTo": "",
@@ -820,14 +820,14 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AOG",
+      "aerolinea": "PRV",
       "vuelo": "CLS",
       "st": "10/08/2020 09:30",
       "matricula": "CXCLS",
       "posicion": "",
       "et": "",
       "at": "",
-      "term": "TCA",
+      "term": "C",
       "sector": "",
       "chkFrom": "",
       "chkTo": "",
@@ -930,6 +930,25 @@
       "ruta": "MIA",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1862",
+      "st": "10/08/2020 13:45",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "USH",
+      "via": "",
+      "remark": "CAN",
       "sanidad": "NO"
     }
   ]
