@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/08/2020 09:23",
+  "lastUpdate": "10/08/2020 09:30",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -758,7 +758,7 @@
       "puerta": "",
       "ruta": "FDO",
       "via": "",
-      "remark": "",
+      "remark": "HOR",
       "sanidad": "NO"
     },
     {
@@ -877,6 +877,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "PRV",
+      "vuelo": "CPL",
+      "st": "10/08/2020 15:00",
+      "matricula": "LVCPL",
+      "posicion": "42",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "FDO",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "AU",
       "vuelo": "2244",
       "st": "10/08/2020 15:00",
@@ -892,25 +911,6 @@
       "ruta": "GRU",
       "via": "",
       "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "PRV",
-      "vuelo": "CPL",
-      "st": "10/08/2020 15:00",
-      "matricula": "LVCPL",
-      "posicion": "42",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "FDO",
-      "via": "",
-      "remark": "",
       "sanidad": "NO"
     },
     {
