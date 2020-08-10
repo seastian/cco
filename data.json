@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/08/2020 01:28",
+  "lastUpdate": "10/08/2020 01:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -478,25 +478,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "IB",
-      "vuelo": "6910",
-      "st": "09/08/2020 13:20",
-      "matricula": "ECNBE",
-      "posicion": "09",
-      "et": "",
-      "at": "9/8/2020 13:29",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "027",
-      "chkTo": "032",
-      "puerta": "08",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "M3",
       "vuelo": "8472",
       "st": "09/08/2020 15:10",
@@ -929,6 +910,25 @@
       "puerta": "",
       "ruta": "LAX",
       "via": "SCL",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1301",
+      "st": "10/08/2020 13:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
+      "via": "",
       "remark": "HOR",
       "sanidad": "NO"
     }
