@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/08/2020 21:49",
+  "lastUpdate": "09/08/2020 21:56",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -745,25 +745,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1040",
-      "st": "10/08/2020 09:00",
-      "matricula": "LVGOO",
-      "posicion": "M01",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPC",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "-AR",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "1878",
       "st": "10/08/2020 09:00",
       "matricula": "",
@@ -778,6 +759,25 @@
       "ruta": "USH",
       "via": "",
       "remark": "CAN",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1040",
+      "st": "10/08/2020 09:00",
+      "matricula": "LVGOO",
+      "posicion": "M01",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPC",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "-AR",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     },
     {
