@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/08/2020 16:54",
+  "lastUpdate": "10/08/2020 17:00",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -228,25 +228,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "1977",
-      "st": "10/08/2020 05:20",
-      "matricula": "CCBGN",
-      "posicion": "09",
-      "et": "10/8/2020 04:55",
-      "at": "10/8/2020 04:55",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
