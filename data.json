@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/08/2020 23:32",
+  "lastUpdate": "09/08/2020 23:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -56,7 +56,26 @@
       "via": "",
       "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "9575",
+      "st": "10/08/2020 06:40",
+      "matricula": "",
+      "posicion": "",
+      "et": "10/8/2020 06:10",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -72,25 +91,6 @@
       "cinta": "",
       "lF": "",
       "ruta": "SCL",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "9575",
-      "st": "10/08/2020 06:40",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
       "via": "",
       "remark": "",
       "sanidad": "NO",
