@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/08/2020 02:26",
+  "lastUpdate": "10/08/2020 02:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -701,7 +701,7 @@
       "puerta": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -745,25 +745,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1040",
-      "st": "10/08/2020 09:00",
-      "matricula": "LVGOO",
-      "posicion": "M01",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPC",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "-AR",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "1878",
       "st": "10/08/2020 09:00",
       "matricula": "",
@@ -778,6 +759,25 @@
       "ruta": "USH",
       "via": "",
       "remark": "CAN",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1040",
+      "st": "10/08/2020 09:00",
+      "matricula": "LVGOO",
+      "posicion": "M01",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPC",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "-AR",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     },
     {
@@ -947,6 +947,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "SCL",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1711",
+      "st": "10/08/2020 14:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
