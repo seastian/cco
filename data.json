@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/08/2020 15:17",
+  "lastUpdate": "10/08/2020 15:23",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -788,7 +788,7 @@
       "matricula": "LVCIE",
       "posicion": "12",
       "et": "",
-      "at": "",
+      "at": "10/8/2020 15:17",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -796,7 +796,7 @@
       "puerta": "16",
       "ruta": "GRU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
