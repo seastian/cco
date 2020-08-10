@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09/08/2020 23:19",
+  "lastUpdate": "09/08/2020 23:26",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -25,9 +25,9 @@
       "aerolinea": "5X",
       "vuelo": "416",
       "st": "10/08/2020 02:19",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
+      "matricula": "N309UP",
+      "posicion": "55",
+      "et": "10/8/2020 00:33",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -35,7 +35,7 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
