@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/08/2020 07:21",
+  "lastUpdate": "10/08/2020 07:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -283,25 +283,6 @@
       "ruta": "USH",
       "via": "",
       "remark": "CAN",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "GTI",
-      "vuelo": "033",
-      "st": "09/08/2020 23:05",
-      "matricula": "N859GT",
-      "posicion": "55",
-      "et": "9/8/2020 19:30",
-      "at": "9/8/2020 19:22",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
