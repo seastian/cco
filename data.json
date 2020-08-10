@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/08/2020 01:47",
+  "lastUpdate": "10/08/2020 01:53",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -949,6 +949,25 @@
       "ruta": "USH",
       "via": "",
       "remark": "CAN",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1109",
+      "st": "10/08/2020 13:50",
+      "matricula": "N540LA",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     }
   ]
