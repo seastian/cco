@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/08/2020 18:24",
+  "lastUpdate": "10/08/2020 18:30",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -444,7 +444,7 @@
       "vuelo": "1301",
       "st": "10/08/2020 17:25",
       "matricula": "N540LA",
-      "posicion": "",
+      "posicion": "56",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -976,7 +976,7 @@
       "vuelo": "1301",
       "st": "10/08/2020 18:35",
       "matricula": "N540LA",
-      "posicion": "51",
+      "posicion": "56",
       "et": "10/8/2020 21:35",
       "at": "",
       "term": "TCA",
