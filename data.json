@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/08/2020 22:34",
+  "lastUpdate": "10/08/2020 22:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -139,7 +139,7 @@
       "aerolinea": "UC",
       "vuelo": "1503",
       "st": "11/08/2020 09:00",
-      "matricula": "",
+      "matricula": "N538LA",
       "posicion": "",
       "et": "",
       "at": "",
@@ -494,25 +494,6 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1040",
-      "st": "10/08/2020 09:00",
-      "matricula": "LVGOO",
-      "posicion": "M01",
-      "et": "",
-      "at": "10/8/2020 10:39",
-      "term": "C",
-      "sector": "CPC",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "-AR",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
@@ -1089,8 +1070,8 @@
       "aerolinea": "UC",
       "vuelo": "1503",
       "st": "11/08/2020 10:30",
-      "matricula": "",
-      "posicion": "56",
+      "matricula": "N538LA",
+      "posicion": "",
       "et": "",
       "at": "",
       "term": "TCA",
