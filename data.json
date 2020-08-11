@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/08/2020 22:15",
+  "lastUpdate": "10/08/2020 22:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -510,25 +510,6 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "-AR",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "CLS",
-      "st": "10/08/2020 09:30",
-      "matricula": "CXCLS",
-      "posicion": "52A",
-      "et": "",
-      "at": "10/8/2020 10:18",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MOR",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
