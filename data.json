@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/08/2020 22:54",
+  "lastUpdate": "10/08/2020 23:00",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -36,6 +36,25 @@
       "ruta": "VCP",
       "via": "",
       "remark": "EST",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AMS",
+      "vuelo": "8919",
+      "st": "11/08/2020 00:00",
+      "matricula": "CXMAX",
+      "posicion": "51A",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
@@ -883,7 +902,7 @@
       "matricula": "N760AN",
       "posicion": "03",
       "et": "",
-      "at": "",
+      "at": "10/8/2020 22:55",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -891,7 +910,7 @@
       "puerta": "02",
       "ruta": "MIA",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
