@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/08/2020 23:19",
+  "lastUpdate": "10/08/2020 23:26",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -532,25 +532,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "PRV",
-      "vuelo": "BAW",
-      "st": "10/08/2020 11:15",
-      "matricula": "LVBAW",
-      "posicion": "43",
-      "et": "",
-      "at": "10/8/2020 11:19",
-      "term": "C",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "FMA",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
@@ -1116,7 +1097,7 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "24",
       "ruta": "RES",
       "via": "",
       "remark": "HOR",
