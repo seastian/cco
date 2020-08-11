@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/08/2020 02:58",
+  "lastUpdate": "11/08/2020 03:05",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -188,6 +188,25 @@
       "ruta": "UIO",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "1957",
+      "st": "11/08/2020 15:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
@@ -1044,6 +1063,25 @@
       "ruta": "AMS",
       "via": "UIO",
       "remark": "DEM",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "RER",
+      "vuelo": "8110",
+      "st": "11/08/2020 15:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "078",
+      "chkTo": "081",
+      "puerta": "",
+      "ruta": "GYE",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     }
   ]
