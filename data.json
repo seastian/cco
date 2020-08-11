@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "11/08/2020 00:04",
+  "lastUpdate": "11/08/2020 00:11",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1102",
-      "st": "11/08/2020 00:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "QT",
@@ -511,6 +492,25 @@
       "ruta": "MVD",
       "via": "",
       "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "UC",
+      "vuelo": "1102",
+      "st": "11/08/2020 00:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
@@ -1120,6 +1120,25 @@
       "ruta": "AMS",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "MP",
+      "vuelo": "6912",
+      "st": "11/08/2020 12:05",
+      "matricula": "",
+      "posicion": "",
+      "et": "11/8/2020 13:50",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "AMS",
+      "via": "UIO",
+      "remark": "DEM",
       "sanidad": "NO"
     }
   ]
