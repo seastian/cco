@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/08/2020 21:24",
+  "lastUpdate": "10/08/2020 21:30",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -744,25 +744,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "PRV",
-      "vuelo": "CPL",
-      "st": "10/08/2020 15:00",
-      "matricula": "LVCPL",
-      "posicion": "42",
-      "et": "10/8/2020 15:30",
-      "at": "10/8/2020 15:41",
-      "term": "C",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "FDO",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "M3",
       "vuelo": "8473",
       "st": "10/08/2020 15:30",
@@ -778,6 +759,25 @@
       "ruta": "POA",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "PRV",
+      "vuelo": "CPL",
+      "st": "10/08/2020 15:00",
+      "matricula": "LVCPL",
+      "posicion": "42",
+      "et": "10/8/2020 15:30",
+      "at": "10/8/2020 15:41",
+      "term": "C",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "FDO",
+      "via": "",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
