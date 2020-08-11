@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "11/08/2020 02:39",
+  "lastUpdate": "11/08/2020 02:45",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "QR",
-      "vuelo": "8157",
-      "st": "11/08/2020 03:00",
-      "matricula": "A7BFU",
-      "posicion": "55",
-      "et": "11/8/2020 02:47",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "DOH",
-      "via": "GRU",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "M3",
@@ -472,6 +453,25 @@
       "lF": "",
       "ruta": "BOG",
       "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "QR",
+      "vuelo": "8157",
+      "st": "11/08/2020 03:00",
+      "matricula": "A7BFU",
+      "posicion": "55",
+      "et": "11/8/2020 02:47",
+      "at": "11/8/2020 02:39",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "DOH",
+      "via": "GRU",
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
