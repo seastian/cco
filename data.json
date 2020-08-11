@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/08/2020 01:41",
+  "lastUpdate": "11/08/2020 01:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -531,25 +531,6 @@
       "ruta": "SCL",
       "via": "",
       "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1862",
-      "st": "10/08/2020 13:45",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "USH",
-      "via": "",
-      "remark": "CAN",
       "sanidad": "NO"
     },
     {
