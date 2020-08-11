@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/08/2020 23:00",
+  "lastUpdate": "10/08/2020 23:07",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -207,25 +207,6 @@
       "ruta": "AMS",
       "via": "VCP",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1401",
-      "st": "10/08/2020 11:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "SCL",
-      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
