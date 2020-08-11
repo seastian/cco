@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/08/2020 21:17",
+  "lastUpdate": "10/08/2020 21:24",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -744,25 +744,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "M3",
-      "vuelo": "8473",
-      "st": "10/08/2020 15:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "POA",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "PRV",
       "vuelo": "CPL",
       "st": "10/08/2020 15:00",
@@ -778,6 +759,25 @@
       "ruta": "FDO",
       "via": "",
       "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "8473",
+      "st": "10/08/2020 15:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "POA",
+      "via": "",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
