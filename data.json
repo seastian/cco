@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/08/2020 22:48",
+  "lastUpdate": "10/08/2020 22:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1030,6 +1030,25 @@
     {
       "tipo": "partida",
       "aerolinea": "AMS",
+      "vuelo": "7919",
+      "st": "11/08/2020 02:00",
+      "matricula": "CXMAX",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AMS",
       "vuelo": "7119",
       "st": "11/08/2020 02:30",
       "matricula": "CXMAS",
@@ -1118,6 +1137,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "SCL",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "KL",
+      "vuelo": "702",
+      "st": "11/08/2020 10:50",
+      "matricula": "PHBHL",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "AMS",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
