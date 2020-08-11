@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/08/2020 00:50",
+  "lastUpdate": "11/08/2020 00:56",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -190,25 +190,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1109",
-      "st": "10/08/2020 12:40",
-      "matricula": "N540LA",
-      "posicion": "54",
-      "et": "10/8/2020 13:00",
-      "at": "10/8/2020 12:54",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
