@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/09/2020 19:19",
+  "lastUpdate": "21/09/2020 19:25",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,7 +7,7 @@
       "vuelo": "1101",
       "st": "21/09/2020 20:00",
       "matricula": "CCCZZ",
-      "posicion": "",
+      "posicion": "55",
       "et": "21/9/2020 20:22",
       "at": "",
       "term": "TCA",
@@ -152,6 +152,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "IB",
+      "vuelo": "6841",
+      "st": "22/09/2020 07:25",
+      "matricula": "ECNCX",
+      "posicion": "",
+      "et": "22/9/2020 07:16",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MAD",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "161"
     },
     {
       "tipo": "arribo",
@@ -710,7 +729,7 @@
       "vuelo": "1101",
       "st": "21/09/2020 21:30",
       "matricula": "CCCZZ",
-      "posicion": "",
+      "posicion": "55",
       "et": "21/9/2020 21:35",
       "at": "",
       "term": "TCA",
