@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/09/2020 20:10",
+  "lastUpdate": "21/09/2020 20:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -308,25 +308,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "8473",
-      "st": "21/09/2020 14:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "M3",
       "vuelo": "8410",
       "st": "21/09/2020 14:00",
       "matricula": "",
@@ -338,6 +319,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "VCP",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "M3",
+      "vuelo": "8473",
+      "st": "21/09/2020 14:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
       "via": "",
       "remark": "CON",
       "sanidad": "NO",
