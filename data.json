@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/09/2020 18:47",
+  "lastUpdate": "21/09/2020 18:53",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -389,14 +389,14 @@
       "matricula": "N334QT",
       "posicion": "54",
       "et": "",
-      "at": "",
+      "at": "21/9/2020 18:49",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "BOG",
       "via": "",
-      "remark": "CON",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
