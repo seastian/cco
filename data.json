@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/09/2020 19:32",
+  "lastUpdate": "21/09/2020 19:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -418,25 +418,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "103",
-      "st": "21/09/2020 07:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
