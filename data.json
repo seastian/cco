@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/09/2020 20:23",
+  "lastUpdate": "21/09/2020 20:30",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -26,7 +26,7 @@
       "vuelo": "1109",
       "st": "21/09/2020 22:00",
       "matricula": "N540LA",
-      "posicion": "",
+      "posicion": "54",
       "et": "21/9/2020 21:17",
       "at": "",
       "term": "TCA",
@@ -174,25 +174,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1001",
-      "st": "21/09/2020 12:00",
-      "matricula": "LVFNK",
-      "posicion": "A06",
-      "et": "",
-      "at": "21/9/2020 12:16",
-      "term": "C",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "EZE",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "UC",
       "vuelo": "1301",
       "st": "21/09/2020 12:00",
@@ -207,6 +188,25 @@
       "ruta": "MIA",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1001",
+      "st": "21/09/2020 12:00",
+      "matricula": "LVFNK",
+      "posicion": "A06",
+      "et": "",
+      "at": "21/9/2020 12:16",
+      "term": "C",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "EZE",
+      "via": "",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -644,7 +644,7 @@
       "puerta": "",
       "ruta": "BOG",
       "via": "",
-      "remark": "DEM",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
