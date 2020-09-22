@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/09/2020 22:38",
+  "lastUpdate": "21/09/2020 22:45",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -706,6 +706,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1109",
+      "st": "21/09/2020 22:37",
+      "matricula": "N540LA",
+      "posicion": "54",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1003",
       "st": "21/09/2020 16:00",
@@ -721,25 +740,6 @@
       "ruta": "EZE",
       "via": "",
       "remark": "DEM",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1109",
-      "st": "21/09/2020 22:37",
-      "matricula": "N540LA",
-      "posicion": "54",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "HOR",
       "sanidad": "NO"
     },
     {
