@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/09/2020 12:09",
+  "lastUpdate": "22/09/2020 12:15",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -74,25 +74,6 @@
       "ruta": "VCP",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1102",
-      "st": "22/09/2020 00:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
