@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/09/2020 11:30",
+  "lastUpdate": "22/09/2020 11:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -294,14 +294,14 @@
       "matricula": "N538LA",
       "posicion": "54",
       "et": "22/9/2020 11:20",
-      "at": "",
+      "at": "22/9/2020 11:28",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "AMS",
       "via": "",
-      "remark": "DEM",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -323,25 +323,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1108",
-      "st": "21/09/2020 23:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
