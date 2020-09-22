@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/09/2020 02:55",
+  "lastUpdate": "22/09/2020 03:02",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -890,6 +890,25 @@
       "chkTo": "240",
       "puerta": "22",
       "ruta": "MDE",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1968",
+      "st": "22/09/2020 15:00",
+      "matricula": "LVCTC",
+      "posicion": "16B",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "23",
+      "ruta": "LIM",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
