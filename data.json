@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/09/2020 21:14",
+  "lastUpdate": "21/09/2020 21:21",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -174,25 +174,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1301",
-      "st": "21/09/2020 12:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1001",
       "st": "21/09/2020 12:00",
@@ -207,6 +188,25 @@
       "ruta": "EZE",
       "via": "",
       "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "UC",
+      "vuelo": "1301",
+      "st": "21/09/2020 12:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
