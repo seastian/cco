@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/09/2020 22:57",
+  "lastUpdate": "21/09/2020 23:04",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -731,7 +731,7 @@
       "matricula": "N540LA",
       "posicion": "54",
       "et": "",
-      "at": "",
+      "at": "21/9/2020 22:50",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -739,7 +739,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "CON",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -968,6 +968,25 @@
       "ruta": "SCL",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AU",
+      "vuelo": "2950",
+      "st": "22/09/2020 11:00",
+      "matricula": "LVCEV",
+      "posicion": "77A",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "RGA",
+      "via": "",
+      "remark": "",
       "sanidad": "NO"
     }
   ]
