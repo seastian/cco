@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/09/2020 00:21",
+  "lastUpdate": "22/09/2020 00:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -232,25 +232,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "8410",
-      "st": "21/09/2020 14:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "M3",
       "vuelo": "8473",
       "st": "21/09/2020 14:00",
       "matricula": "",
@@ -262,6 +243,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "MIA",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "M3",
+      "vuelo": "8410",
+      "st": "21/09/2020 14:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "VCP",
       "via": "",
       "remark": "CON",
       "sanidad": "NO",
@@ -341,7 +341,7 @@
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -379,7 +379,7 @@
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -437,25 +437,6 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1862",
-      "st": "21/09/2020 12:25",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "USH",
-      "via": "",
-      "remark": "CAN",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
@@ -804,8 +785,8 @@
       "aerolinea": "M3",
       "vuelo": "8490",
       "st": "22/09/2020 02:10",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "PRACO",
+      "posicion": "55",
       "et": "",
       "at": "",
       "term": "TCA",
