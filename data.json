@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/09/2020 11:49",
+  "lastUpdate": "22/09/2020 11:56",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -541,7 +541,7 @@
       "matricula": "LVCEV",
       "posicion": "77A",
       "et": "22/9/2020 11:30",
-      "at": "",
+      "at": "22/9/2020 11:45",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -549,7 +549,7 @@
       "puerta": "24",
       "ruta": "RGA",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
