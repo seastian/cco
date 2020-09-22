@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "22/09/2020 08:24",
+  "lastUpdate": "22/09/2020 08:31",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "BA",
-      "vuelo": "245",
-      "st": "22/09/2020 08:20",
-      "matricula": "GZBJM",
-      "posicion": "10",
-      "et": "22/9/2020 08:25",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "LHR",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "UC",
@@ -361,6 +342,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "161"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "BA",
+      "vuelo": "245",
+      "st": "22/09/2020 08:20",
+      "matricula": "GZBJM",
+      "posicion": "10",
+      "et": "22/9/2020 08:25",
+      "at": "22/9/2020 08:25",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "LHR",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "partida",
