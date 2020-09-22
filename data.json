@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/09/2020 21:46",
+  "lastUpdate": "21/09/2020 21:53",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -152,6 +152,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "IB_",
+      "vuelo": "2601",
+      "st": "22/09/2020 10:00",
+      "matricula": "ECMOU",
+      "posicion": "",
+      "et": "22/9/2020 09:47",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "BCN",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "95"
     },
     {
       "tipo": "arribo",
