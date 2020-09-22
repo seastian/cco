@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/09/2020 13:47",
+  "lastUpdate": "22/09/2020 14:09",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -57,25 +57,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "QR",
-      "vuelo": "8157",
-      "st": "22/09/2020 03:00",
-      "matricula": "A7BFU",
-      "posicion": "54",
-      "et": "22/9/2020 02:04",
-      "at": "22/9/2020 02:05",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "DOH",
-      "via": "GRU",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -290,25 +271,6 @@
       "tipo": "partida",
       "aerolinea": "QR",
       "vuelo": "8148",
-      "st": "22/09/2020 03:15",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "DOH",
-      "via": "DFW",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "QR",
-      "vuelo": "8148",
       "st": "21/09/2020 06:35",
       "matricula": "A7BFC",
       "posicion": "55",
@@ -322,6 +284,25 @@
       "ruta": "DOH",
       "via": "DFW",
       "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "QR",
+      "vuelo": "8148",
+      "st": "22/09/2020 03:15",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "DOH",
+      "via": "DFW",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -465,7 +446,7 @@
       "matricula": "CXLSS",
       "posicion": "50A",
       "et": "",
-      "at": "",
+      "at": "22/9/2020 13:46",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -473,7 +454,7 @@
       "puerta": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -530,7 +511,7 @@
       "puerta": "22",
       "ruta": "MDE",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
