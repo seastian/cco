@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "22/09/2020 12:15",
+  "lastUpdate": "22/09/2020 12:21",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "501",
-      "st": "22/09/2020 12:15",
-      "matricula": "CXCLS",
-      "posicion": "50B",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AU",
@@ -283,6 +264,25 @@
       "ruta": "MVD",
       "via": "",
       "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AOG",
+      "vuelo": "501",
+      "st": "22/09/2020 12:15",
+      "matricula": "CXCLS",
+      "posicion": "50B",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "ASU",
+      "via": "",
+      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
