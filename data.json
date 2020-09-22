@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/09/2020 03:28",
+  "lastUpdate": "22/09/2020 03:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -380,25 +380,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "M3",
-      "vuelo": "8473",
-      "st": "21/09/2020 15:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "POA",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
