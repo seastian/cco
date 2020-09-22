@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/09/2020 00:02",
+  "lastUpdate": "22/09/2020 00:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -188,25 +188,6 @@
       "ruta": "RES",
       "via": "",
       "remark": "CAN",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1301",
-      "st": "21/09/2020 12:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
@@ -824,7 +805,7 @@
       "vuelo": "7119",
       "st": "22/09/2020 01:30",
       "matricula": "CXMAS",
-      "posicion": "",
+      "posicion": "50A",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -987,6 +968,25 @@
       "ruta": "RGA",
       "via": "",
       "remark": "",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "MP",
+      "vuelo": "6912",
+      "st": "22/09/2020 12:05",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "AMS",
+      "via": "UIO",
+      "remark": "HOR",
       "sanidad": "NO"
     }
   ]
