@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/09/2020 01:45",
+  "lastUpdate": "22/09/2020 01:51",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -359,25 +359,6 @@
       "ruta": "MIA",
       "via": "",
       "remark": "CON",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "QR",
-      "vuelo": "8148",
-      "st": "21/09/2020 04:35",
-      "matricula": "",
-      "posicion": "",
-      "et": "21/9/2020 01:30",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "DOH",
-      "via": "SCL",
-      "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
     },
