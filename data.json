@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "22/09/2020 02:36",
+  "lastUpdate": "22/09/2020 02:43",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "QR",
-      "vuelo": "8148",
-      "st": "21/09/2020 04:35",
-      "matricula": "A7BFC",
-      "posicion": "55",
-      "et": "21/9/2020 02:40",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "DOH",
-      "via": "SCL",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "UC",
@@ -339,6 +320,25 @@
       "lF": "",
       "ruta": "DOH",
       "via": "GRU",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "QR",
+      "vuelo": "8148",
+      "st": "21/09/2020 04:35",
+      "matricula": "A7BFC",
+      "posicion": "55",
+      "et": "21/9/2020 02:40",
+      "at": "21/9/2020 02:37",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "DOH",
+      "via": "SCL",
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
