@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "22/09/2020 09:34",
+  "lastUpdate": "22/09/2020 09:41",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "IB_",
-      "vuelo": "2601",
-      "st": "22/09/2020 10:00",
-      "matricula": "ECMOU",
-      "posicion": "11",
-      "et": "22/9/2020 09:47",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "010",
-      "ruta": "BCN",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "95"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "UC",
@@ -323,6 +304,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "IB_",
+      "vuelo": "2601",
+      "st": "22/09/2020 10:00",
+      "matricula": "ECMOU",
+      "posicion": "11",
+      "et": "22/9/2020 09:47",
+      "at": "22/9/2020 09:36",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "010",
+      "ruta": "BCN",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "95"
     },
     {
       "tipo": "partida",
