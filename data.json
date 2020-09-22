@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/09/2020 04:26",
+  "lastUpdate": "22/09/2020 04:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -814,6 +814,25 @@
       "chkTo": "240",
       "puerta": "23",
       "ruta": "LIM",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "BA",
+      "vuelo": "244",
+      "st": "22/09/2020 16:30",
+      "matricula": "GZBJM",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "LHR",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
