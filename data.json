@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/09/2020 21:59",
+  "lastUpdate": "21/09/2020 22:06",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -193,25 +193,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1301",
-      "st": "21/09/2020 12:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AR",
       "vuelo": "1001",
       "st": "21/09/2020 12:00",
@@ -226,6 +207,25 @@
       "ruta": "EZE",
       "via": "",
       "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "UC",
+      "vuelo": "1301",
+      "st": "21/09/2020 12:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
@@ -892,25 +892,6 @@
       "ruta": "DOH",
       "via": "UIO",
       "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "PRV",
-      "vuelo": "WWS",
-      "st": "22/09/2020 06:00",
-      "matricula": "P4WWS",
-      "posicion": "44",
-      "et": "22/9/2020 05:00",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "YUL",
-      "via": "",
-      "remark": "EST",
       "sanidad": "NO"
     },
     {
