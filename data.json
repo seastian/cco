@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/09/2020 11:11",
+  "lastUpdate": "22/09/2020 11:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -36,25 +36,6 @@
       "ruta": "RES",
       "via": "",
       "remark": "CAN",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "423",
-      "st": "22/09/2020 11:45",
-      "matricula": "CXLSS",
-      "posicion": "50A",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
@@ -325,6 +306,25 @@
       "pax": "95"
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "AOG",
+      "vuelo": "423",
+      "st": "22/09/2020 11:45",
+      "matricula": "CXLSS",
+      "posicion": "50A",
+      "et": "",
+      "at": "22/9/2020 11:12",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
       "tipo": "partida",
       "aerolinea": "UC",
       "vuelo": "1108",
@@ -568,7 +568,7 @@
       "puerta": "24",
       "ruta": "RGA",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
