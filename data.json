@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/09/2020 10:26",
+  "lastUpdate": "22/09/2020 10:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -132,7 +132,7 @@
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -151,7 +151,7 @@
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -189,7 +189,7 @@
       "via": "GRU",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -208,7 +208,7 @@
       "via": "SCL",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -227,7 +227,7 @@
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -573,6 +573,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1503",
+      "st": "22/09/2020 10:30",
+      "matricula": "N538LA",
+      "posicion": "54",
+      "et": "22/9/2020 12:30",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "AU",
       "vuelo": "2950",
       "st": "22/09/2020 11:00",
@@ -607,25 +626,6 @@
       "ruta": "AMS",
       "via": "UIO",
       "remark": "EST",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1503",
-      "st": "22/09/2020 10:30",
-      "matricula": "N538LA",
-      "posicion": "54",
-      "et": "22/9/2020 12:30",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "DEM",
       "sanidad": "NO"
     },
     {
