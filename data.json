@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/09/2020 12:28",
+  "lastUpdate": "22/09/2020 12:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -561,14 +561,14 @@
       "posicion": "14",
       "et": "",
       "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "201",
-      "chkTo": "220",
+      "term": "A",
+      "sector": "",
+      "chkFrom": "068",
+      "chkTo": "078",
       "puerta": "19",
       "ruta": "CDG",
       "via": "",
-      "remark": "HOR",
+      "remark": "CAN",
       "sanidad": "NO"
     },
     {
