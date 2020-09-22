@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "21/09/2020 23:36",
+  "lastUpdate": "21/09/2020 23:43",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "M3",
-      "vuelo": "8490",
-      "st": "21/09/2020 23:45",
-      "matricula": "PRACO",
-      "posicion": "55",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "UC",
@@ -492,6 +473,25 @@
       "ruta": "MVD",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "M3",
+      "vuelo": "8490",
+      "st": "21/09/2020 23:45",
+      "matricula": "PRACO",
+      "posicion": "55",
+      "et": "",
+      "at": "21/9/2020 23:39",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "VCP",
+      "via": "",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
