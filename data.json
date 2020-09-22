@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/09/2020 12:21",
+  "lastUpdate": "22/09/2020 12:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -347,25 +347,6 @@
       "tipo": "partida",
       "aerolinea": "QR",
       "vuelo": "8148",
-      "st": "22/09/2020 03:15",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "DOH",
-      "via": "DFW",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "QR",
-      "vuelo": "8148",
       "st": "21/09/2020 06:35",
       "matricula": "A7BFC",
       "posicion": "55",
@@ -379,6 +360,25 @@
       "ruta": "DOH",
       "via": "DFW",
       "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "QR",
+      "vuelo": "8148",
+      "st": "22/09/2020 03:15",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "DOH",
+      "via": "DFW",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -503,7 +503,7 @@
       "matricula": "N538LA",
       "posicion": "54",
       "et": "22/9/2020 12:30",
-      "at": "",
+      "at": "22/9/2020 12:21",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -511,7 +511,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "DEM",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
