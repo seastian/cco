@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/09/2020 10:51",
+  "lastUpdate": "22/09/2020 10:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -327,25 +327,6 @@
     {
       "tipo": "partida",
       "aerolinea": "UC",
-      "vuelo": "1109",
-      "st": "21/09/2020 22:37",
-      "matricula": "N540LA",
-      "posicion": "54",
-      "et": "",
-      "at": "21/9/2020 22:50",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "UC",
       "vuelo": "1108",
       "st": "21/09/2020 23:30",
       "matricula": "",
@@ -402,25 +383,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1102",
-      "st": "22/09/2020 01:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AMS",
       "vuelo": "7119",
       "st": "22/09/2020 01:30",
@@ -436,6 +398,25 @@
       "ruta": "MVD",
       "via": "",
       "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1102",
+      "st": "22/09/2020 01:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
