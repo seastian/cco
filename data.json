@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/09/2020 13:21",
+  "lastUpdate": "22/09/2020 13:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -303,25 +303,6 @@
       "ruta": "SCL",
       "via": "",
       "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AMS",
-      "vuelo": "7119",
-      "st": "22/09/2020 01:30",
-      "matricula": "CXMAS",
-      "posicion": "50A",
-      "et": "",
-      "at": "22/9/2020 01:23",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
       "sanidad": "NO"
     },
     {
