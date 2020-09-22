@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/09/2020 12:47",
+  "lastUpdate": "22/09/2020 12:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -231,25 +231,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AU",
-      "vuelo": "2785",
-      "st": "22/09/2020 11:45",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "RES",
-      "via": "",
-      "remark": "CAN",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AOG",
       "vuelo": "423",
       "st": "22/09/2020 11:45",
@@ -264,6 +245,25 @@
       "ruta": "MVD",
       "via": "",
       "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AU",
+      "vuelo": "2785",
+      "st": "22/09/2020 11:45",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "RES",
+      "via": "",
+      "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
     },
@@ -288,25 +288,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1102",
-      "st": "22/09/2020 01:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AMS",
       "vuelo": "7119",
       "st": "22/09/2020 01:30",
@@ -322,6 +303,25 @@
       "ruta": "MVD",
       "via": "",
       "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1102",
+      "st": "22/09/2020 01:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -484,7 +484,7 @@
       "matricula": "PHCKB",
       "posicion": "55",
       "et": "22/9/2020 12:15",
-      "at": "",
+      "at": "22/9/2020 12:48",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -492,7 +492,7 @@
       "puerta": "",
       "ruta": "AMS",
       "via": "UIO",
-      "remark": "EST",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
