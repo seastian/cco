@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/09/2020 12:41",
+  "lastUpdate": "22/09/2020 12:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -587,7 +587,7 @@
       "puerta": "22",
       "ruta": "MDE",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
