@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/09/2020 13:34",
+  "lastUpdate": "22/09/2020 13:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -473,7 +473,7 @@
       "puerta": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -484,7 +484,7 @@
       "matricula": "CXCLS",
       "posicion": "50B",
       "et": "",
-      "at": "",
+      "at": "22/9/2020 13:36",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -492,7 +492,7 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -530,7 +530,7 @@
       "puerta": "22",
       "ruta": "MDE",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
