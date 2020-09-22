@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/09/2020 01:06",
+  "lastUpdate": "22/09/2020 01:13",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -687,6 +687,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "8490",
+      "st": "22/09/2020 02:10",
+      "matricula": "PRACO",
+      "posicion": "55",
+      "et": "",
+      "at": "22/9/2020 01:05",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1003",
       "st": "21/09/2020 16:00",
@@ -738,25 +757,6 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MVD",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "M3",
-      "vuelo": "8490",
-      "st": "22/09/2020 02:10",
-      "matricula": "PRACO",
-      "posicion": "55",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
