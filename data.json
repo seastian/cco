@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/09/2020 22:12",
+  "lastUpdate": "21/09/2020 22:19",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -491,25 +491,6 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "EZE",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "KL",
-      "vuelo": "702",
-      "st": "21/09/2020 10:50",
-      "matricula": "PHBVF",
-      "posicion": "10",
-      "et": "",
-      "at": "21/9/2020 10:12",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "10",
-      "ruta": "AMS",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
