@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/09/2020 02:23",
+  "lastUpdate": "22/09/2020 02:30",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -17,6 +17,25 @@
       "ruta": "DOH",
       "via": "SCL",
       "remark": "DEM",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "UC",
+      "vuelo": "1301",
+      "st": "22/09/2020 03:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
@@ -152,25 +171,6 @@
       "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "QT",
-      "vuelo": "4088",
-      "st": "21/09/2020 14:40",
-      "matricula": "N336QT",
-      "posicion": "55",
-      "et": "21/9/2020 14:40",
-      "at": "21/9/2020 14:22",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
