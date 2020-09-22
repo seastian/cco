@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22/09/2020 14:47",
+  "lastUpdate": "22/09/2020 14:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -57,25 +57,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1301",
-      "st": "22/09/2020 03:00",
-      "matricula": "CCCZZ",
-      "posicion": "56",
-      "et": "22/9/2020 03:00",
-      "at": "22/9/2020 02:48",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
