@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "22/09/2020 11:17",
+  "lastUpdate": "22/09/2020 11:24",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1503",
-      "st": "22/09/2020 09:00",
-      "matricula": "N538LA",
-      "posicion": "54",
-      "et": "22/9/2020 11:20",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "AMS",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AU",
@@ -304,6 +285,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "95"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "UC",
+      "vuelo": "1503",
+      "st": "22/09/2020 09:00",
+      "matricula": "N538LA",
+      "posicion": "54",
+      "et": "22/9/2020 11:20",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "AMS",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
