@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/09/2020 12:52",
+  "lastUpdate": "25/09/2020 12:59",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -446,7 +446,7 @@
       "matricula": "CXLSS",
       "posicion": "54B",
       "et": "",
-      "at": "",
+      "at": "25/9/2020 12:52",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -454,7 +454,7 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "HOR",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
