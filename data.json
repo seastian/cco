@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/09/2020 11:48",
+  "lastUpdate": "25/09/2020 11:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -103,7 +103,7 @@
       "st": "25/09/2020 10:05",
       "matricula": "LVFVM",
       "posicion": "",
-      "et": "25/9/2020 16:45",
+      "et": "25/9/2020 16:27",
       "at": "",
       "term": "A",
       "sector": "",
@@ -113,7 +113,7 @@
       "via": "",
       "remark": "REP",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "50"
     },
     {
       "tipo": "arribo",
@@ -631,25 +631,6 @@
     {
       "tipo": "partida",
       "aerolinea": "UC",
-      "vuelo": "1105",
-      "st": "25/09/2020 18:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "UC",
       "vuelo": "1406",
       "st": "25/09/2020 18:10",
       "matricula": "",
@@ -662,6 +643,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "LAX",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1105",
+      "st": "25/09/2020 18:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
