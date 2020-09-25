@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/09/2020 11:28",
+  "lastUpdate": "25/09/2020 11:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -65,7 +65,7 @@
       "st": "25/09/2020 14:20",
       "matricula": "",
       "posicion": "",
-      "et": "25/9/2020 14:15",
+      "et": "25/9/2020 14:29",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -75,7 +75,7 @@
       "via": "",
       "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -209,25 +209,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AMS",
-      "vuelo": "8119",
-      "st": "24/09/2020 23:35",
-      "matricula": "CXMAS",
-      "posicion": "58",
-      "et": "",
-      "at": "24/9/2020 23:27",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -650,25 +631,6 @@
     {
       "tipo": "partida",
       "aerolinea": "UC",
-      "vuelo": "1406",
-      "st": "25/09/2020 18:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "LAX",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "UC",
       "vuelo": "1105",
       "st": "25/09/2020 18:10",
       "matricula": "",
@@ -681,6 +643,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "SCL",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1406",
+      "st": "25/09/2020 18:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "LAX",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
@@ -757,6 +738,25 @@
       "chkTo": "240",
       "puerta": "17",
       "ruta": "CUN",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1302",
+      "st": "25/09/2020 23:30",
+      "matricula": "LVFNK",
+      "posicion": "16",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "22",
+      "ruta": "MIA",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
