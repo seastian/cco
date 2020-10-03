@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/10/2020 14:31",
+  "lastUpdate": "03/10/2020 14:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -57,25 +57,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "CM",
-      "vuelo": "279",
-      "st": "03/10/2020 02:45",
-      "matricula": "HP1835",
-      "posicion": "09",
-      "et": "3/10/2020 02:27",
-      "at": "3/10/2020 02:30",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "007",
-      "ruta": "PTY",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "29"
     },
     {
       "tipo": "arribo",
