@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/10/2020 12:25",
+  "lastUpdate": "03/10/2020 12:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -605,6 +605,25 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "K4",
+      "vuelo": "539",
+      "st": "04/10/2020 00:30",
+      "matricula": "N712CK",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
