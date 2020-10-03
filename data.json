@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/10/2020 17:57",
+  "lastUpdate": "03/10/2020 18:03",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -79,41 +79,22 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "BA",
-      "vuelo": "245",
-      "st": "03/10/2020 05:55",
-      "matricula": "GZBJF",
-      "posicion": "09",
-      "et": "3/10/2020 05:53",
-      "at": "3/10/2020 05:57",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "LHR",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "65"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "KL",
       "vuelo": "701",
-      "st": "03/10/2020 06:40",
-      "matricula": "PHBHM",
-      "posicion": "10",
-      "et": "3/10/2020 05:57",
-      "at": "3/10/2020 05:59",
-      "term": "A",
+      "st": "04/10/2020 06:40",
+      "matricula": "PHBHD",
+      "posicion": "",
+      "et": "4/10/2020 06:00",
+      "at": "",
+      "term": "TCA",
       "sector": "",
-      "cinta": "8",
-      "lF": "010",
+      "cinta": "",
+      "lF": "",
       "ruta": "AMS",
       "via": "",
-      "remark": "ATE",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": "87"
+      "pax": "0"
     },
     {
       "tipo": "arribo",
