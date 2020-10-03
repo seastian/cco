@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/10/2020 19:40",
+  "lastUpdate": "03/10/2020 19:46",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -65,7 +65,7 @@
       "st": "04/10/2020 04:00",
       "matricula": "LVGKP",
       "posicion": "",
-      "et": "",
+      "et": "4/10/2020 03:58",
       "at": "",
       "term": "A",
       "sector": "",
@@ -73,9 +73,9 @@
       "lF": "",
       "ruta": "JFK",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "84"
     },
     {
       "tipo": "arribo",
