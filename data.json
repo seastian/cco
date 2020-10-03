@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/10/2020 12:46",
+  "lastUpdate": "03/10/2020 12:53",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -624,6 +624,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "SCL",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LX",
+      "vuelo": "2699",
+      "st": "04/10/2020 00:45",
+      "matricula": "HBJNJ",
+      "posicion": "03",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "02",
+      "ruta": "ZRH",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
