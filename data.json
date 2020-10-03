@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/10/2020 11:46",
+  "lastUpdate": "03/10/2020 11:53",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -81,18 +81,18 @@
       "tipo": "arribo",
       "aerolinea": "M3",
       "vuelo": "8496",
-      "st": "02/10/2020 23:45",
-      "matricula": "PRACO",
-      "posicion": "55",
-      "et": "2/10/2020 23:44",
-      "at": "2/10/2020 23:45",
+      "st": "03/10/2020 23:45",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "VCP",
       "via": "",
-      "remark": "ATE",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
