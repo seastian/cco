@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/10/2020 19:27",
+  "lastUpdate": "03/10/2020 19:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -114,25 +114,6 @@
       "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "IB",
-      "vuelo": "6841",
-      "st": "03/10/2020 08:10",
-      "matricula": "ECNJM",
-      "posicion": "14",
-      "et": "3/10/2020 07:32",
-      "at": "3/10/2020 07:26",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "010",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "179"
     },
     {
       "tipo": "arribo",
