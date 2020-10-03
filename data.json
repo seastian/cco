@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/10/2020 19:21",
+  "lastUpdate": "03/10/2020 19:27",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -114,25 +114,6 @@
       "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AA",
-      "vuelo": "907",
-      "st": "03/10/2020 07:25",
-      "matricula": "N779AN",
-      "posicion": "04",
-      "et": "3/10/2020 07:23",
-      "at": "3/10/2020 07:20",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "008",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "204"
     },
     {
       "tipo": "arribo",
