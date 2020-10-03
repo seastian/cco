@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/10/2020 17:23",
+  "lastUpdate": "03/10/2020 17:29",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -266,25 +266,6 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "5X",
-      "vuelo": "413",
-      "st": "03/10/2020 06:05",
-      "matricula": "N324UP",
-      "posicion": "54",
-      "et": "",
-      "at": "3/10/2020 05:23",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
