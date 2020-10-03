@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/10/2020 17:03",
+  "lastUpdate": "03/10/2020 17:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -450,7 +450,7 @@
       "term": "A",
       "sector": "AP",
       "chkFrom": "068",
-      "chkTo": "072",
+      "chkTo": "074",
       "puerta": "05",
       "ruta": "MEX",
       "via": "",
