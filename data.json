@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/10/2020 13:25",
+  "lastUpdate": "03/10/2020 13:31",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -408,7 +408,7 @@
       "matricula": "TCLJF",
       "posicion": "55",
       "et": "",
-      "at": "",
+      "at": "3/10/2020 13:28",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -416,7 +416,7 @@
       "puerta": "",
       "ruta": "ISL",
       "via": "GRU",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -454,7 +454,7 @@
       "puerta": "09",
       "ruta": "LHR",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
