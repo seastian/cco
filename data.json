@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/10/2020 13:38",
+  "lastUpdate": "03/10/2020 13:43",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -427,7 +427,7 @@
       "matricula": "FGSPR",
       "posicion": "11",
       "et": "",
-      "at": "",
+      "at": "3/10/2020 13:36",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "201",
@@ -435,7 +435,7 @@
       "puerta": "14",
       "ruta": "CDG",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
