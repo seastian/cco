@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/10/2020 15:08",
+  "lastUpdate": "03/10/2020 15:15",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -435,7 +435,7 @@
       "puerta": "",
       "ruta": "VCP",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
