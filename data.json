@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/10/2020 13:06",
+  "lastUpdate": "03/10/2020 13:12",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -288,25 +288,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "M3",
-      "vuelo": "8496",
-      "st": "03/10/2020 02:10",
-      "matricula": "PRACO",
-      "posicion": "55",
-      "et": "3/10/2020 01:07",
-      "at": "3/10/2020 01:10",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AMS",
       "vuelo": "7119",
       "st": "03/10/2020 01:50",
@@ -435,7 +416,7 @@
       "puerta": "",
       "ruta": "ISL",
       "via": "GRU",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
