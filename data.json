@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/10/2020 09:02",
+  "lastUpdate": "04/10/2020 09:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -465,7 +465,7 @@
       "matricula": "LVCTC",
       "posicion": "12",
       "et": "",
-      "at": "",
+      "at": "4/10/2020 09:03",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -473,7 +473,7 @@
       "puerta": "16",
       "ruta": "GRU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
