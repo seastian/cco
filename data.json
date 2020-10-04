@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/10/2020 23:03",
+  "lastUpdate": "03/10/2020 23:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -416,7 +416,7 @@
       "puerta": "22",
       "ruta": "MIA",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
