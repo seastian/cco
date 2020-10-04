@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/10/2020 22:38",
+  "lastUpdate": "03/10/2020 22:44",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -212,25 +212,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "FQ",
-      "vuelo": "8005",
-      "st": "03/10/2020 10:40",
-      "matricula": "LVHQU",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "M3",
       "vuelo": "8495",
       "st": "03/10/2020 14:00",
@@ -435,7 +416,7 @@
       "puerta": "10",
       "ruta": "MIA",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
