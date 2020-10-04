@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/10/2020 07:25",
+  "lastUpdate": "04/10/2020 07:31",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -274,15 +274,15 @@
       "st": "04/10/2020 08:10",
       "matricula": "FHRBB",
       "posicion": "10",
-      "et": "4/10/2020 07:10",
-      "at": "",
+      "et": "",
+      "at": "4/10/2020 07:27",
       "term": "A",
       "sector": "",
       "cinta": "9",
       "lF": "009",
       "ruta": "CDG",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "132"
     },
