@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/10/2020 00:34",
+  "lastUpdate": "04/10/2020 00:40",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -465,7 +465,7 @@
       "matricula": "HBJNJ",
       "posicion": "03",
       "et": "",
-      "at": "",
+      "at": "4/10/2020 00:35",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -473,7 +473,7 @@
       "puerta": "02",
       "ruta": "ZRH",
       "via": "",
-      "remark": "HOR",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
