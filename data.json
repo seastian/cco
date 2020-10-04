@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/10/2020 21:27",
+  "lastUpdate": "03/10/2020 21:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -169,6 +169,25 @@
       "ruta": "MEX",
       "via": "",
       "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "IB_",
+      "vuelo": "2601",
+      "st": "04/10/2020 10:00",
+      "matricula": "ECMOU",
+      "posicion": "",
+      "et": "4/10/2020 09:28",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "BCN",
+      "via": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
