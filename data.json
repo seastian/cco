@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/10/2020 00:27",
+  "lastUpdate": "04/10/2020 00:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -454,7 +454,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
