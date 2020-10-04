@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/10/2020 06:27",
+  "lastUpdate": "04/10/2020 06:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -99,7 +99,7 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "9831",
+      "vuelo": "8472",
       "st": "04/10/2020 14:00",
       "matricula": "",
       "posicion": "",
@@ -118,7 +118,7 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "8472",
+      "vuelo": "9831",
       "st": "04/10/2020 14:00",
       "matricula": "",
       "posicion": "",
@@ -148,6 +148,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "GRU",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AOG",
+      "vuelo": "101",
+      "st": "04/10/2020 18:30",
+      "matricula": "CXCAR",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MVD",
       "via": "",
       "remark": "",
       "sanidad": "NO",
