@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/10/2020 05:36",
+  "lastUpdate": "04/10/2020 05:42",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -370,7 +370,7 @@
       "matricula": "N712CK",
       "posicion": "54",
       "et": "",
-      "at": "",
+      "at": "4/10/2020 05:35",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -378,7 +378,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
