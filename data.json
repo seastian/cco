@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/10/2020 21:21",
+  "lastUpdate": "03/10/2020 21:27",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -269,25 +269,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "WJ",
-      "vuelo": "9001",
-      "st": "02/10/2020 20:57",
-      "matricula": "LVIVN",
-      "posicion": "08",
-      "et": "2/10/2020 09:30",
-      "at": "2/10/2020 09:22",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "07",
-      "ruta": "EPA",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "KL",
       "vuelo": "702",
       "st": "03/10/2020 10:50",
@@ -435,7 +416,7 @@
       "puerta": "08",
       "ruta": "MEX",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -454,7 +435,7 @@
       "puerta": "10",
       "ruta": "MIA",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
