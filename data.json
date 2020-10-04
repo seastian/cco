@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/10/2020 01:19",
+  "lastUpdate": "04/10/2020 01:25",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -256,14 +256,14 @@
       "matricula": "N712CK",
       "posicion": "54",
       "et": "4/10/2020 01:10",
-      "at": "",
+      "at": "4/10/2020 01:18",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "DEM",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -567,6 +567,25 @@
       "chkTo": "220",
       "puerta": "14",
       "ruta": "AMS",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "IB",
+      "vuelo": "6856",
+      "st": "04/10/2020 13:20",
+      "matricula": "ECNJM",
+      "posicion": "14",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "chkFrom": "021",
+      "chkTo": "026",
+      "puerta": "19",
+      "ruta": "MAD",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
