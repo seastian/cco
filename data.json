@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/10/2020 01:25",
+  "lastUpdate": "04/10/2020 01:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -25,9 +25,9 @@
       "aerolinea": "CM",
       "vuelo": "279",
       "st": "04/10/2020 02:45",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
+      "matricula": "HP1843",
+      "posicion": "02",
+      "et": "4/10/2020 02:43",
       "at": "",
       "term": "A",
       "sector": "",
@@ -35,7 +35,7 @@
       "lF": "",
       "ruta": "PTY",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -266,25 +266,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "TK",
-      "vuelo": "6170",
-      "st": "03/10/2020 13:05",
-      "matricula": "TCLJF",
-      "posicion": "55",
-      "et": "",
-      "at": "3/10/2020 13:28",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "ISL",
-      "via": "GRU",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
