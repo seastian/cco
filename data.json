@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/10/2020 21:53",
+  "lastUpdate": "03/10/2020 21:59",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -26,7 +26,7 @@
       "vuelo": "539",
       "st": "03/10/2020 21:30",
       "matricula": "N712CK",
-      "posicion": "",
+      "posicion": "54",
       "et": "4/10/2020 01:10",
       "at": "",
       "term": "TCA",
@@ -454,7 +454,7 @@
       "puerta": "10",
       "ruta": "MIA",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -501,7 +501,7 @@
       "vuelo": "539",
       "st": "04/10/2020 00:30",
       "matricula": "N712CK",
-      "posicion": "",
+      "posicion": "54",
       "et": "",
       "at": "",
       "term": "TCA",
