@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "04/10/2020 08:49",
+  "lastUpdate": "04/10/2020 08:55",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1071",
-      "st": "04/10/2020 08:50",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "AKL",
-      "via": "",
-      "remark": "CAN",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "IB_",
@@ -304,6 +285,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "50"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1071",
+      "st": "04/10/2020 08:50",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "AKL",
+      "via": "",
+      "remark": "CAN",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "partida",
