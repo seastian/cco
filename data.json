@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/10/2020 08:23",
+  "lastUpdate": "04/10/2020 08:30",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -7,7 +7,7 @@
       "vuelo": "028",
       "st": "04/10/2020 09:05",
       "matricula": "N438AM",
-      "posicion": "16",
+      "posicion": "04",
       "et": "4/10/2020 08:41",
       "at": "",
       "term": "A",
@@ -102,7 +102,7 @@
       "vuelo": "1241",
       "st": "04/10/2020 15:55",
       "matricula": "LVCTC",
-      "posicion": "",
+      "posicion": "12",
       "et": "",
       "at": "",
       "term": "A",
