@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/10/2020 01:57",
+  "lastUpdate": "04/10/2020 02:04",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -175,8 +175,8 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "8488",
-      "st": "03/10/2020 14:00",
+      "vuelo": "8472",
+      "st": "04/10/2020 14:00",
       "matricula": "",
       "posicion": "",
       "et": "",
@@ -187,15 +187,15 @@
       "lF": "",
       "ruta": "VCP",
       "via": "",
-      "remark": "CON",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "8495",
-      "st": "03/10/2020 14:00",
+      "vuelo": "9831",
+      "st": "04/10/2020 14:00",
       "matricula": "",
       "posicion": "",
       "et": "",
@@ -204,9 +204,9 @@
       "sector": "",
       "cinta": "",
       "lF": "",
-      "ruta": "SCL",
+      "ruta": "VCP",
       "via": "",
-      "remark": "CON",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
