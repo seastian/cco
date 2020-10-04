@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/10/2020 02:49",
+  "lastUpdate": "04/10/2020 02:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -256,14 +256,14 @@
       "matricula": "HP1843",
       "posicion": "02",
       "et": "4/10/2020 02:43",
-      "at": "",
+      "at": "4/10/2020 02:47",
       "term": "A",
       "sector": "",
       "cinta": "8",
       "lF": "008",
       "ruta": "PTY",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "84"
     },
