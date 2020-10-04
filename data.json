@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/10/2020 22:25",
+  "lastUpdate": "03/10/2020 22:31",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -408,7 +408,7 @@
       "matricula": "N128AM",
       "posicion": "09",
       "et": "",
-      "at": "",
+      "at": "3/10/2020 22:29",
       "term": "A",
       "sector": "AP",
       "chkFrom": "068",
@@ -416,7 +416,7 @@
       "puerta": "08",
       "ruta": "MEX",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
