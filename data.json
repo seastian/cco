@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/10/2020 00:02",
+  "lastUpdate": "04/10/2020 00:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -435,7 +435,7 @@
       "puerta": "",
       "ruta": "QTR",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
