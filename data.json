@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/10/2020 08:30",
+  "lastUpdate": "04/10/2020 08:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -473,7 +473,7 @@
       "puerta": "16",
       "ruta": "GRU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -506,7 +506,7 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "chkFrom": "021",
+      "chkFrom": "019",
       "chkTo": "026",
       "puerta": "19",
       "ruta": "MAD",
@@ -567,6 +567,25 @@
       "chkTo": "060",
       "puerta": "20",
       "ruta": "MAD",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "101",
+      "st": "04/10/2020 20:30",
+      "matricula": "CXCAR",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "ASU",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
