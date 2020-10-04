@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/10/2020 21:01",
+  "lastUpdate": "03/10/2020 21:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -150,6 +150,25 @@
       "ruta": "AKL",
       "via": "",
       "remark": "CAN",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AM",
+      "vuelo": "028",
+      "st": "04/10/2020 09:05",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MEX",
+      "via": "",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
@@ -548,6 +567,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "SCL",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1240",
+      "st": "04/10/2020 09:00",
+      "matricula": "LVCTC",
+      "posicion": "12",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "16",
+      "ruta": "GRU",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
