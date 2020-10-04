@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/10/2020 08:10",
+  "lastUpdate": "04/10/2020 08:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -61,7 +61,7 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "8472",
+      "vuelo": "9831",
       "st": "04/10/2020 14:00",
       "matricula": "",
       "posicion": "",
@@ -80,7 +80,7 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "9831",
+      "vuelo": "8472",
       "st": "04/10/2020 14:00",
       "matricula": "",
       "posicion": "",
@@ -473,7 +473,7 @@
       "puerta": "16",
       "ruta": "GRU",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
