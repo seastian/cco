@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/10/2020 22:06",
+  "lastUpdate": "03/10/2020 22:12",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -285,25 +285,6 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "KL",
-      "vuelo": "702",
-      "st": "03/10/2020 10:50",
-      "matricula": "PHBHM",
-      "posicion": "10",
-      "et": "",
-      "at": "3/10/2020 10:05",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "10",
-      "ruta": "AMS",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
