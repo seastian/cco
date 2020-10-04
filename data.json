@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/10/2020 23:29",
+  "lastUpdate": "03/10/2020 23:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -408,7 +408,7 @@
       "matricula": "LVFNL",
       "posicion": "16",
       "et": "",
-      "at": "",
+      "at": "3/10/2020 23:29",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -416,7 +416,7 @@
       "puerta": "22",
       "ruta": "MIA",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
