@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "04/10/2020 08:42",
+  "lastUpdate": "04/10/2020 08:49",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AM",
-      "vuelo": "028",
-      "st": "04/10/2020 09:05",
-      "matricula": "N438AM",
-      "posicion": "04",
-      "et": "4/10/2020 08:41",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "007",
-      "ruta": "MEX",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "50"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AR",
@@ -61,7 +42,7 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "9831",
+      "vuelo": "8472",
       "st": "04/10/2020 14:00",
       "matricula": "",
       "posicion": "",
@@ -80,7 +61,7 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "8472",
+      "vuelo": "9831",
       "st": "04/10/2020 14:00",
       "matricula": "",
       "posicion": "",
@@ -306,6 +287,25 @@
       "pax": "132"
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "AM",
+      "vuelo": "028",
+      "st": "04/10/2020 09:05",
+      "matricula": "N438AM",
+      "posicion": "04",
+      "et": "4/10/2020 08:41",
+      "at": "4/10/2020 08:40",
+      "term": "A",
+      "sector": "",
+      "cinta": "8",
+      "lF": "007",
+      "ruta": "MEX",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "50"
+    },
+    {
       "tipo": "partida",
       "aerolinea": "AM",
       "vuelo": "029",
@@ -473,7 +473,7 @@
       "puerta": "16",
       "ruta": "GRU",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -586,6 +586,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "ASU",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "2045",
+      "st": "04/10/2020 20:45",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "LAX",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
