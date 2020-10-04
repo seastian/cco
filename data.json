@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/10/2020 06:08",
+  "lastUpdate": "04/10/2020 06:15",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -269,25 +269,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1106",
-      "st": "03/10/2020 18:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AM",
       "vuelo": "029",
       "st": "03/10/2020 22:00",
@@ -529,6 +510,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MIA",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UX",
+      "vuelo": "342",
+      "st": "04/10/2020 18:10",
+      "matricula": "ECNFM",
+      "posicion": "15",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "054",
+      "chkTo": "060",
+      "puerta": "20",
+      "ruta": "MAD",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
