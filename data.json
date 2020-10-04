@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "04/10/2020 01:06",
+  "lastUpdate": "04/10/2020 01:12",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "K4",
-      "vuelo": "539",
-      "st": "03/10/2020 21:30",
-      "matricula": "N712CK",
-      "posicion": "54",
-      "et": "4/10/2020 01:10",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "CM",
@@ -245,6 +226,25 @@
       "ruta": "VCP",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "K4",
+      "vuelo": "539",
+      "st": "03/10/2020 21:30",
+      "matricula": "N712CK",
+      "posicion": "54",
+      "et": "4/10/2020 01:10",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
     },
