@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/10/2020 21:40",
+  "lastUpdate": "03/10/2020 21:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -435,7 +435,7 @@
       "puerta": "08",
       "ruta": "MEX",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
