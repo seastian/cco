@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04/10/2020 01:32",
+  "lastUpdate": "04/10/2020 01:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -266,25 +266,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AF",
-      "vuelo": "229",
-      "st": "03/10/2020 13:30",
-      "matricula": "FGSPR",
-      "posicion": "11",
-      "et": "",
-      "at": "3/10/2020 13:36",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "201",
-      "chkTo": "220",
-      "puerta": "14",
-      "ruta": "CDG",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
