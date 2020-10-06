@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/10/2020 09:52",
+  "lastUpdate": "06/10/2020 09:59",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -535,25 +535,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "M3",
-      "vuelo": "8442",
-      "st": "06/10/2020 02:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AMS",
       "vuelo": "7119",
       "st": "06/10/2020 02:00",
@@ -569,6 +550,25 @@
       "ruta": "MVD",
       "via": "",
       "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "8442",
+      "st": "06/10/2020 02:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
