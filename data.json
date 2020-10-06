@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06/10/2020 09:46",
+  "lastUpdate": "06/10/2020 09:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -45,7 +45,7 @@
       "vuelo": "501",
       "st": "06/10/2020 11:45",
       "matricula": "CXLSS",
-      "posicion": "",
+      "posicion": "52A",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -535,25 +535,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AMS",
-      "vuelo": "7119",
-      "st": "06/10/2020 02:00",
-      "matricula": "CXMAS",
-      "posicion": "60",
-      "et": "",
-      "at": "6/10/2020 01:42",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "M3",
       "vuelo": "8442",
       "st": "06/10/2020 02:00",
@@ -569,6 +550,25 @@
       "ruta": "MIA",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AMS",
+      "vuelo": "7119",
+      "st": "06/10/2020 02:00",
+      "matricula": "CXMAS",
+      "posicion": "60",
+      "et": "",
+      "at": "6/10/2020 01:42",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
