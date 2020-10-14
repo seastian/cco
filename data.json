@@ -1,6 +1,25 @@
 {
-  "lastUpdate": "14/10/2020 17:11",
+  "lastUpdate": "14/10/2020 17:18",
   "vuelos": [
+    {
+      "tipo": "arribo",
+      "aerolinea": "AJ",
+      "vuelo": "HVE",
+      "st": "14/10/2020 18:05",
+      "matricula": "LVHVE",
+      "posicion": "37",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "",
+      "cinta": "11",
+      "lF": "",
+      "ruta": "NQN",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": "7"
+    },
     {
       "tipo": "arribo",
       "aerolinea": "UC",
