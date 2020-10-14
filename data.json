@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "14/10/2020 18:03",
+  "lastUpdate": "14/10/2020 18:09",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AJ",
-      "vuelo": "HVE",
-      "st": "14/10/2020 18:05",
-      "matricula": "LVHVE",
-      "posicion": "37",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "",
-      "cinta": "11",
-      "lF": "",
-      "ruta": "NQN",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": "7"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "UC",
@@ -456,6 +437,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "89"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AJ",
+      "vuelo": "HVE",
+      "st": "14/10/2020 18:05",
+      "matricula": "LVHVE",
+      "posicion": "37",
+      "et": "",
+      "at": "14/10/2020 18:02",
+      "term": "C",
+      "sector": "",
+      "cinta": "11",
+      "lF": "",
+      "ruta": "NQN",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "7"
     },
     {
       "tipo": "partida",
