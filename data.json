@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/10/2020 18:09",
+  "lastUpdate": "14/10/2020 18:15",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -136,6 +136,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "BTF",
+      "st": "15/10/2020 03:30",
+      "matricula": "LVBTF",
+      "posicion": "41",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "FDO",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": "0"
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "UC",
       "vuelo": "1102",
       "st": "15/10/2020 03:40",
@@ -266,25 +285,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "KL",
-      "vuelo": "701",
-      "st": "14/10/2020 06:40",
-      "matricula": "PHBHD",
-      "posicion": "10",
-      "et": "14/10/2020 06:12",
-      "at": "14/10/2020 06:12",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "AMS",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "75"
     },
     {
       "tipo": "arribo",
@@ -890,6 +890,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MIA",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "PRV",
+      "vuelo": "BTF",
+      "st": "15/10/2020 05:00",
+      "matricula": "LVBTF",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "NQN",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
