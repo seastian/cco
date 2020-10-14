@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14/10/2020 16:46",
+  "lastUpdate": "14/10/2020 16:52",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -190,25 +190,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "5X",
-      "vuelo": "414",
-      "st": "14/10/2020 05:12",
-      "matricula": "N326UP",
-      "posicion": "56",
-      "et": "14/10/2020 04:40",
-      "at": "14/10/2020 04:44",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
