@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/10/2020 19:02",
+  "lastUpdate": "19/10/2020 19:09",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -285,25 +285,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "CMM",
-      "st": "19/10/2020 07:00",
-      "matricula": "CXCMM",
-      "posicion": "41",
-      "et": "",
-      "at": "19/10/2020 07:05",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
