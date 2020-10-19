@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/10/2020 19:54",
+  "lastUpdate": "19/10/2020 20:00",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -50,8 +50,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "9",
+      "lF": "009",
       "ruta": "ADD",
       "via": "GRU",
       "remark": "EST",
@@ -285,25 +285,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LH",
-      "vuelo": "8264",
-      "st": "19/10/2020 08:30",
-      "matricula": "DALCB",
-      "posicion": "54",
-      "et": "19/10/2020 07:49",
-      "at": "19/10/2020 07:52",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "FRA",
-      "via": "MVD",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
