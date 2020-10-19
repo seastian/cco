@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "19/10/2020 20:19",
+  "lastUpdate": "19/10/2020 20:24",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "RER",
-      "vuelo": "8111",
-      "st": "19/10/2020 20:00",
-      "matricula": "HCCUH",
-      "posicion": "02",
-      "et": "19/10/2020 20:20",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "008",
-      "ruta": "UIO",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": "44"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "ET",
@@ -288,25 +269,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "BA",
-      "vuelo": "245",
-      "st": "19/10/2020 08:40",
-      "matricula": "GZBJJ",
-      "posicion": "13",
-      "et": "19/10/2020 08:08",
-      "at": "19/10/2020 08:20",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "010",
-      "ruta": "LHR",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "42"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "JJ",
       "vuelo": "8012",
       "st": "19/10/2020 09:50",
@@ -551,6 +513,25 @@
       "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "RER",
+      "vuelo": "8111",
+      "st": "19/10/2020 20:00",
+      "matricula": "HCCUH",
+      "posicion": "02",
+      "et": "19/10/2020 20:20",
+      "at": "19/10/2020 20:19",
+      "term": "A",
+      "sector": "",
+      "cinta": "8",
+      "lF": "008",
+      "ruta": "UIO",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "44"
     },
     {
       "tipo": "partida",
