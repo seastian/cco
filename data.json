@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/10/2020 20:24",
+  "lastUpdate": "19/10/2020 20:30",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -179,7 +179,7 @@
       "st": "20/10/2020 05:20",
       "matricula": "LVFNL",
       "posicion": "",
-      "et": "",
+      "et": "20/10/2020 05:50",
       "at": "",
       "term": "A",
       "sector": "",
@@ -187,9 +187,9 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "",
+      "remark": "DEM",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "57"
     },
     {
       "tipo": "arribo",
@@ -264,6 +264,25 @@
       "ruta": "LHR",
       "via": "",
       "remark": "EST",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "UA",
+      "vuelo": "819",
+      "st": "20/10/2020 08:25",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "IAH",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO",
       "pax": ""
     },
