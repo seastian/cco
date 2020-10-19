@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/10/2020 20:37",
+  "lastUpdate": "19/10/2020 20:43",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -801,25 +801,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "LA",
-      "vuelo": "1981",
-      "st": "19/10/2020 17:30",
-      "matricula": "CCBGD",
-      "posicion": "03",
-      "et": "",
-      "at": "19/10/2020 17:14",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "02",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "PRV",
       "vuelo": "GUD",
       "st": "19/10/2020 17:30",
@@ -833,6 +814,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MDZ",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LA",
+      "vuelo": "1981",
+      "st": "19/10/2020 17:30",
+      "matricula": "CCBGD",
+      "posicion": "03",
+      "et": "",
+      "at": "19/10/2020 17:14",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "02",
+      "ruta": "SCL",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
