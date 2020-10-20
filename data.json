@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/10/2020 22:40",
+  "lastUpdate": "19/10/2020 22:47",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -22,22 +22,22 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "ES",
-      "vuelo": "8779",
-      "st": "19/10/2020 23:30",
-      "matricula": "YV642T",
-      "posicion": "02",
-      "et": "19/10/2020 23:40",
+      "aerolinea": "AMS",
+      "vuelo": "8919",
+      "st": "19/10/2020 23:40",
+      "matricula": "CXMAX",
+      "posicion": "50B",
+      "et": "",
       "at": "",
-      "term": "A",
+      "term": "TCA",
       "sector": "",
-      "cinta": "8",
-      "lF": "008",
-      "ruta": "VLN",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MVD",
       "via": "",
-      "remark": "EST",
+      "remark": "",
       "sanidad": "NO",
-      "pax": "41"
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -76,6 +76,25 @@
       "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "ES",
+      "vuelo": "8779",
+      "st": "19/10/2020 23:30",
+      "matricula": "YV642T",
+      "posicion": "02",
+      "et": "19/10/2020 23:40",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "8",
+      "lF": "008",
+      "ruta": "VLN",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "41"
     },
     {
       "tipo": "arribo",
@@ -959,7 +978,7 @@
       "matricula": "N791AN",
       "posicion": "10",
       "et": "",
-      "at": "",
+      "at": "19/10/2020 22:43",
       "term": "A",
       "sector": "AP",
       "chkFrom": "001",
@@ -967,7 +986,7 @@
       "puerta": "10",
       "ruta": "MIA",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
