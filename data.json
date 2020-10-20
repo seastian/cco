@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/10/2020 02:47",
+  "lastUpdate": "20/10/2020 02:53",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -502,7 +502,7 @@
       "st": "20/10/2020 02:45",
       "matricula": "HP1837",
       "posicion": "08",
-      "et": "20/10/2020 02:34",
+      "et": "",
       "at": "",
       "term": "A",
       "sector": "",
@@ -510,7 +510,7 @@
       "lF": "009",
       "ruta": "PTY",
       "via": "",
-      "remark": "EST",
+      "remark": "CON",
       "sanidad": "NO",
       "pax": "114"
     },
