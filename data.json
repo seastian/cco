@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/10/2020 23:24",
+  "lastUpdate": "19/10/2020 23:30",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -74,25 +74,6 @@
       "ruta": "MVD",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1101",
-      "st": "19/10/2020 20:00",
-      "matricula": "N536LA",
-      "posicion": "55",
-      "et": "19/10/2020 23:40",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
     },
@@ -585,6 +566,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "BOG",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "UC",
+      "vuelo": "1101",
+      "st": "19/10/2020 20:00",
+      "matricula": "N536LA",
+      "posicion": "55",
+      "et": "19/10/2020 23:40",
+      "at": "19/10/2020 23:26",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
