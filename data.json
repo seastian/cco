@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/10/2020 05:36",
+  "lastUpdate": "20/10/2020 05:42",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1023,6 +1023,25 @@
       "chkTo": "240",
       "puerta": "",
       "ruta": "GRU",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LH",
+      "vuelo": "511",
+      "st": "20/10/2020 17:35",
+      "matricula": "DABYM",
+      "posicion": "11",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "chkFrom": "032",
+      "chkTo": "040",
+      "puerta": "14",
+      "ruta": "FRA",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
