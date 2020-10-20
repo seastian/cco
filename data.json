@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/10/2020 07:49",
+  "lastUpdate": "20/10/2020 07:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -758,7 +758,7 @@
       "puerta": "16",
       "ruta": "SCL",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
