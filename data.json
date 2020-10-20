@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/10/2020 04:58",
+  "lastUpdate": "20/10/2020 05:04",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -853,7 +853,7 @@
       "puerta": "",
       "ruta": "DOH",
       "via": "UIO",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -1042,6 +1042,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "EQS",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AU",
+      "vuelo": "2978",
+      "st": "20/10/2020 17:00",
+      "matricula": "LVCKZ",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "GRU",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
