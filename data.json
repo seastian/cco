@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/10/2020 07:24",
+  "lastUpdate": "20/10/2020 07:30",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -706,25 +706,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "M3",
-      "vuelo": "8442",
-      "st": "20/10/2020 02:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "FX",
       "vuelo": "7119",
       "st": "20/10/2020 02:00",
@@ -740,6 +721,25 @@
       "ruta": "MVD",
       "via": "",
       "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "8442",
+      "st": "20/10/2020 02:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -842,7 +842,7 @@
       "aerolinea": "UC",
       "vuelo": "1503",
       "st": "20/10/2020 10:30",
-      "matricula": "",
+      "matricula": "N534LA",
       "posicion": "",
       "et": "",
       "at": "",
