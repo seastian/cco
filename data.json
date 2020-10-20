@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/10/2020 23:43",
+  "lastUpdate": "19/10/2020 23:49",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -497,25 +497,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "M3",
-      "vuelo": "8490",
-      "st": "19/10/2020 23:45",
-      "matricula": "PRABB",
-      "posicion": "56",
-      "et": "19/10/2020 23:30",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "UC",
       "vuelo": "1101",
       "st": "19/10/2020 20:00",
@@ -560,14 +541,14 @@
       "matricula": "CXMAX",
       "posicion": "50B",
       "et": "",
-      "at": "",
+      "at": "19/10/2020 23:41",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "CON",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -589,6 +570,25 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "41"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "M3",
+      "vuelo": "8490",
+      "st": "19/10/2020 23:45",
+      "matricula": "PRABB",
+      "posicion": "56",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "VCP",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "partida",
