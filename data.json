@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/10/2020 01:43",
+  "lastUpdate": "20/10/2020 01:49",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -50,8 +50,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "9",
+      "lF": "009",
       "ruta": "MIA",
       "via": "",
       "remark": "DEM",
@@ -891,7 +891,7 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
