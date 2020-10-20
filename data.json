@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/10/2020 08:23",
+  "lastUpdate": "20/10/2020 08:29",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -175,12 +175,12 @@
     {
       "tipo": "arribo",
       "aerolinea": "AMS",
-      "vuelo": "8119",
+      "vuelo": "8919",
       "st": "19/10/2020 23:40",
-      "matricula": "CXMAS",
-      "posicion": "51A",
+      "matricula": "CXMAX",
+      "posicion": "50B",
       "et": "",
-      "at": "19/10/2020 23:57",
+      "at": "19/10/2020 23:41",
       "term": "TCA",
       "sector": "",
       "cinta": "",
@@ -194,12 +194,12 @@
     {
       "tipo": "arribo",
       "aerolinea": "AMS",
-      "vuelo": "8919",
+      "vuelo": "8119",
       "st": "19/10/2020 23:40",
-      "matricula": "CXMAX",
-      "posicion": "50B",
+      "matricula": "CXMAS",
+      "posicion": "51A",
       "et": "",
-      "at": "19/10/2020 23:41",
+      "at": "19/10/2020 23:57",
       "term": "TCA",
       "sector": "",
       "cinta": "",
