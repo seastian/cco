@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/10/2020 21:11",
+  "lastUpdate": "19/10/2020 21:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -554,25 +554,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1240",
-      "st": "19/10/2020 09:00",
-      "matricula": "LVFUB",
-      "posicion": "12",
-      "et": "",
-      "at": "19/10/2020 09:11",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "16",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "LH",
       "vuelo": "8265",
       "st": "19/10/2020 10:00",
@@ -915,25 +896,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AM",
-      "vuelo": "029",
-      "st": "19/10/2020 22:00",
-      "matricula": "N438AM",
-      "posicion": "09",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "068",
-      "chkTo": "074",
-      "puerta": "08",
-      "ruta": "MEX",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "PRV",
       "vuelo": "IRQ",
       "st": "19/10/2020 22:00",
@@ -968,6 +930,25 @@
       "ruta": "SCL",
       "via": "",
       "remark": "CAN",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AM",
+      "vuelo": "029",
+      "st": "19/10/2020 22:00",
+      "matricula": "N438AM",
+      "posicion": "09",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "068",
+      "chkTo": "074",
+      "puerta": "08",
+      "ruta": "MEX",
+      "via": "",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
