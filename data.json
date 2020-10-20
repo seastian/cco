@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/10/2020 23:49",
+  "lastUpdate": "19/10/2020 23:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -247,25 +247,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "2"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1341",
-      "st": "19/10/2020 11:45",
-      "matricula": "LVFVO",
-      "posicion": "12",
-      "et": "19/10/2020 11:45",
-      "at": "19/10/2020 11:49",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "156"
     },
     {
       "tipo": "arribo",
@@ -579,35 +560,16 @@
       "matricula": "PRABB",
       "posicion": "56",
       "et": "",
-      "at": "",
+      "at": "19/10/2020 23:52",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "VCP",
       "via": "",
-      "remark": "CON",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "IB_",
-      "vuelo": "2602",
-      "st": "19/10/2020 11:45",
-      "matricula": "ECMOU",
-      "posicion": "09",
-      "et": "",
-      "at": "19/10/2020 11:52",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "026",
-      "chkTo": "032",
-      "puerta": "09",
-      "ruta": "BCN",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
