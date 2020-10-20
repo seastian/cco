@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/10/2020 21:49",
+  "lastUpdate": "19/10/2020 21:56",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -41,25 +41,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "ES",
-      "vuelo": "8779",
-      "st": "19/10/2020 23:30",
-      "matricula": "YV642T",
-      "posicion": "02",
-      "et": "19/10/2020 23:40",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "VLN",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "41"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "UC",
       "vuelo": "1101",
       "st": "19/10/2020 20:00",
@@ -76,6 +57,25 @@
       "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "ES",
+      "vuelo": "8779",
+      "st": "19/10/2020 23:30",
+      "matricula": "YV642T",
+      "posicion": "02",
+      "et": "19/10/2020 23:40",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "8",
+      "lF": "008",
+      "ruta": "VLN",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "41"
     },
     {
       "tipo": "arribo",
@@ -967,7 +967,7 @@
       "puerta": "19",
       "ruta": "ADD",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
