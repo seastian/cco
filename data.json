@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/10/2020 22:09",
+  "lastUpdate": "19/10/2020 22:15",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1175,6 +1175,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "VCP",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "ES",
+      "vuelo": "8774",
+      "st": "20/10/2020 10:00",
+      "matricula": "YV642T",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "chkFrom": "001",
+      "chkTo": "006",
+      "puerta": "",
+      "ruta": "CCS",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
