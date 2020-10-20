@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/10/2020 08:47",
+  "lastUpdate": "20/10/2020 08:54",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -456,25 +456,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1108",
-      "st": "19/10/2020 20:45",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "LIM",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
