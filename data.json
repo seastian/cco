@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/10/2020 04:12",
+  "lastUpdate": "20/10/2020 04:19",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -169,25 +169,6 @@
       "ruta": "SCL",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1301",
-      "st": "19/10/2020 12:00",
-      "matricula": "N418LA",
-      "posicion": "55",
-      "et": "19/10/2020 16:30",
-      "at": "19/10/2020 16:13",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
