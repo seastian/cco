@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "20/10/2020 06:19",
+  "lastUpdate": "20/10/2020 06:25",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "M3",
-      "vuelo": "8491",
-      "st": "20/10/2020 06:20",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "IB",
@@ -437,6 +418,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "110"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "M3",
+      "vuelo": "8491",
+      "st": "20/10/2020 06:20",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "partida",
