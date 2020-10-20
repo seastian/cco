@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/10/2020 03:15",
+  "lastUpdate": "20/10/2020 03:21",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -364,6 +364,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "AMS",
+      "vuelo": "8119",
+      "st": "19/10/2020 23:40",
+      "matricula": "CXMAS",
+      "posicion": "51A",
+      "et": "",
+      "at": "19/10/2020 23:57",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "UC",
       "vuelo": "1101",
       "st": "19/10/2020 20:00",
@@ -390,25 +409,6 @@
       "posicion": "50B",
       "et": "",
       "at": "19/10/2020 23:41",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AMS",
-      "vuelo": "8119",
-      "st": "19/10/2020 23:40",
-      "matricula": "CXMAS",
-      "posicion": "51A",
-      "et": "",
-      "at": "19/10/2020 23:57",
       "term": "TCA",
       "sector": "",
       "cinta": "",
