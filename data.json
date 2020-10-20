@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "20/10/2020 06:06",
+  "lastUpdate": "20/10/2020 06:13",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AA",
-      "vuelo": "907",
-      "st": "20/10/2020 06:40",
-      "matricula": "N774AN",
-      "posicion": "09",
-      "et": "20/10/2020 06:15",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "007",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "110"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "M3",
@@ -439,6 +420,25 @@
       "pax": "57"
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "AA",
+      "vuelo": "907",
+      "st": "20/10/2020 06:40",
+      "matricula": "N774AN",
+      "posicion": "09",
+      "et": "20/10/2020 06:15",
+      "at": "20/10/2020 06:05",
+      "term": "A",
+      "sector": "",
+      "cinta": "7",
+      "lF": "007",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "110"
+    },
+    {
       "tipo": "partida",
       "aerolinea": "UC",
       "vuelo": "1301",
@@ -455,25 +455,6 @@
       "ruta": "MIA",
       "via": "",
       "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1132",
-      "st": "19/10/2020 18:05",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "CAN",
       "sanidad": "NO"
     },
     {
