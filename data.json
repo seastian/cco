@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/10/2020 23:06",
+  "lastUpdate": "19/10/2020 23:12",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -19,6 +19,25 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "ES",
+      "vuelo": "8779",
+      "st": "19/10/2020 23:30",
+      "matricula": "YV642T",
+      "posicion": "02",
+      "et": "19/10/2020 23:40",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "8",
+      "lF": "008",
+      "ruta": "VLN",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "41"
     },
     {
       "tipo": "arribo",
@@ -76,25 +95,6 @@
       "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "ES",
-      "vuelo": "8779",
-      "st": "19/10/2020 23:30",
-      "matricula": "YV642T",
-      "posicion": "02",
-      "et": "19/10/2020 23:40",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "008",
-      "ruta": "VLN",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "41"
     },
     {
       "tipo": "arribo",
@@ -178,7 +178,7 @@
       "vuelo": "1303",
       "st": "20/10/2020 05:20",
       "matricula": "LVFNL",
-      "posicion": "",
+      "posicion": "15",
       "et": "20/10/2020 05:55",
       "at": "",
       "term": "A",
@@ -589,25 +589,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1108",
-      "st": "19/10/2020 10:40",
-      "matricula": "N418LA",
-      "posicion": "55",
-      "et": "",
-      "at": "19/10/2020 11:05",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
@@ -1268,7 +1249,7 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "24",
       "ruta": "RGA",
       "via": "",
       "remark": "HOR",
