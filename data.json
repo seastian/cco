@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19/10/2020 21:43",
+  "lastUpdate": "19/10/2020 21:49",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -958,7 +958,7 @@
       "st": "19/10/2020 22:05",
       "matricula": "ETAOP",
       "posicion": "14",
-      "et": "",
+      "et": "19/10/2020 22:20",
       "at": "",
       "term": "C",
       "sector": "CPI",
@@ -967,7 +967,7 @@
       "puerta": "19",
       "ruta": "ADD",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -986,7 +986,7 @@
       "puerta": "10",
       "ruta": "MIA",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
