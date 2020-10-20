@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "19/10/2020 21:00",
+  "lastUpdate": "19/10/2020 21:06",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "ET",
-      "vuelo": "506",
-      "st": "19/10/2020 21:00",
-      "matricula": "ETAOP",
-      "posicion": "14",
-      "et": "19/10/2020 21:10",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "ADD",
-      "via": "GRU",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "22"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "QT",
@@ -288,6 +269,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "UC",
+      "vuelo": "1503",
+      "st": "20/10/2020 09:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "AMS",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "JJ",
       "vuelo": "8012",
       "st": "19/10/2020 09:50",
@@ -551,6 +551,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "44"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "ET",
+      "vuelo": "506",
+      "st": "19/10/2020 21:00",
+      "matricula": "ETAOP",
+      "posicion": "14",
+      "et": "19/10/2020 21:10",
+      "at": "19/10/2020 21:01",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "009",
+      "ruta": "ADD",
+      "via": "GRU",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "22"
     },
     {
       "tipo": "partida",
