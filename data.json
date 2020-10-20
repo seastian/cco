@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/10/2020 05:11",
+  "lastUpdate": "20/10/2020 05:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -440,25 +440,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AU",
-      "vuelo": "2976",
-      "st": "19/10/2020 17:00",
-      "matricula": "LVCIE",
-      "posicion": "16A",
-      "et": "",
-      "at": "19/10/2020 17:10",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "22",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "PRV",
       "vuelo": "GUD",
       "st": "19/10/2020 17:30",
@@ -472,25 +453,6 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MDZ",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LA",
-      "vuelo": "1981",
-      "st": "19/10/2020 17:30",
-      "matricula": "CCBGD",
-      "posicion": "03",
-      "et": "",
-      "at": "19/10/2020 17:14",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "02",
-      "ruta": "SCL",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -845,7 +807,7 @@
       "matricula": "A7BFB",
       "posicion": "54",
       "et": "",
-      "at": "",
+      "at": "20/10/2020 05:15",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
@@ -853,7 +815,7 @@
       "puerta": "",
       "ruta": "DOH",
       "via": "UIO",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
