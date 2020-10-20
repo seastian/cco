@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/10/2020 02:02",
+  "lastUpdate": "20/10/2020 02:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -878,25 +878,6 @@
     {
       "tipo": "partida",
       "aerolinea": "M3",
-      "vuelo": "8490",
-      "st": "20/10/2020 02:10",
-      "matricula": "PRABB",
-      "posicion": "56",
-      "et": "20/10/2020 01:07",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "M3",
       "vuelo": "8442",
       "st": "20/10/2020 02:00",
       "matricula": "",
@@ -910,7 +891,7 @@
       "puerta": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -929,7 +910,26 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "8490",
+      "st": "20/10/2020 02:10",
+      "matricula": "PRABB",
+      "posicion": "56",
+      "et": "20/10/2020 01:07",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "EST",
       "sanidad": "NO"
     },
     {
