@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/10/2020 21:17",
+  "lastUpdate": "20/10/2020 21:23",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -169,6 +169,25 @@
       "ruta": "CCS",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "JA",
+      "vuelo": "1005",
+      "st": "21/10/2020 09:17",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
     },
