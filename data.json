@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/10/2020 09:09",
+  "lastUpdate": "21/10/2020 09:15",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -41,25 +41,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "ES",
-      "vuelo": "8773",
-      "st": "21/10/2020 08:25",
-      "matricula": "YV642T",
-      "posicion": "02",
-      "et": "21/10/2020 11:15",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "010",
-      "ruta": "CCS",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": "41"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AOG",
       "vuelo": "423",
       "st": "21/10/2020 11:15",
@@ -76,6 +57,25 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "ES",
+      "vuelo": "8773",
+      "st": "21/10/2020 08:25",
+      "matricula": "YV642T",
+      "posicion": "02",
+      "et": "21/10/2020 11:15",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "010",
+      "ruta": "CCS",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": "41"
     },
     {
       "tipo": "arribo",
@@ -168,7 +168,7 @@
       "lF": "",
       "ruta": "VVI",
       "via": "",
-      "remark": "",
+      "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
     },
@@ -304,25 +304,6 @@
       "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "CAZ",
-      "st": "20/10/2020 20:00",
-      "matricula": "LVCAZ",
-      "posicion": "H14",
-      "et": "",
-      "at": "20/10/2020 21:12",
-      "term": "FBO",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "EQS",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -813,7 +794,7 @@
       "chkFrom": "",
       "chkTo": "",
       "puerta": "",
-      "ruta": "MVD",
+      "ruta": "EZE",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
