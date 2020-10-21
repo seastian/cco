@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/10/2020 01:13",
+  "lastUpdate": "21/10/2020 01:19",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -397,25 +397,6 @@
       "puerta": "01",
       "ruta": "CCS",
       "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "MP",
-      "vuelo": "6912",
-      "st": "20/10/2020 12:05",
-      "matricula": "PHCKA",
-      "posicion": "54",
-      "et": "20/10/2020 13:10",
-      "at": "20/10/2020 13:16",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "AMS",
-      "via": "UIO",
       "remark": "PAR",
       "sanidad": "NO"
     },
