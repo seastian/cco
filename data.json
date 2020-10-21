@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/10/2020 22:28",
+  "lastUpdate": "20/10/2020 22:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -497,6 +497,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "AA",
+      "vuelo": "908",
+      "st": "20/10/2020 22:30",
+      "matricula": "N774AN",
+      "posicion": "10",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "001",
+      "chkTo": "014",
+      "puerta": "10",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "CER",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1240",
       "st": "21/10/2020 09:00",
@@ -512,25 +531,6 @@
       "ruta": "GRU",
       "via": "",
       "remark": "EST",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AA",
-      "vuelo": "908",
-      "st": "20/10/2020 22:30",
-      "matricula": "N774AN",
-      "posicion": "10",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "001",
-      "chkTo": "014",
-      "puerta": "10",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -688,10 +688,10 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1003",
+      "vuelo": "1001",
       "st": "21/10/2020 10:00",
-      "matricula": "LVGKU",
-      "posicion": "A06",
+      "matricula": "LVGVC",
+      "posicion": "M14",
       "et": "",
       "at": "",
       "term": "C",
@@ -707,10 +707,10 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1001",
+      "vuelo": "1003",
       "st": "21/10/2020 10:00",
-      "matricula": "LVGVC",
-      "posicion": "M14",
+      "matricula": "LVGKU",
+      "posicion": "A06",
       "et": "",
       "at": "",
       "term": "C",
