@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/10/2020 09:56",
+  "lastUpdate": "21/10/2020 10:02",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -283,6 +283,25 @@
       "ruta": "ADD",
       "via": "GRU",
       "remark": "CAN",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "UC",
+      "vuelo": "1104",
+      "st": "21/10/2020 22:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
@@ -688,10 +707,10 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1003",
+      "vuelo": "1001",
       "st": "21/10/2020 10:00",
-      "matricula": "LVGKU",
-      "posicion": "A06",
+      "matricula": "LVGVC",
+      "posicion": "M14",
       "et": "",
       "at": "",
       "term": "C",
@@ -707,10 +726,10 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1001",
+      "vuelo": "1003",
       "st": "21/10/2020 10:00",
-      "matricula": "LVGVC",
-      "posicion": "M14",
+      "matricula": "LVGKU",
+      "posicion": "A06",
       "et": "",
       "at": "",
       "term": "C",
