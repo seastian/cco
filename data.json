@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/10/2020 12:39",
+  "lastUpdate": "21/10/2020 12:45",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -650,12 +650,12 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1003",
+      "vuelo": "1001",
       "st": "21/10/2020 10:00",
-      "matricula": "LVGKU",
-      "posicion": "A06",
+      "matricula": "LVGVC",
+      "posicion": "M14",
       "et": "",
-      "at": "21/10/2020 10:39",
+      "at": "21/10/2020 10:07",
       "term": "C",
       "sector": "CPC",
       "chkFrom": "",
@@ -669,12 +669,12 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1001",
+      "vuelo": "1003",
       "st": "21/10/2020 10:00",
-      "matricula": "LVGVC",
-      "posicion": "M14",
+      "matricula": "LVGKU",
+      "posicion": "A06",
       "et": "",
-      "at": "21/10/2020 10:07",
+      "at": "21/10/2020 10:39",
       "term": "C",
       "sector": "CPC",
       "chkFrom": "",
