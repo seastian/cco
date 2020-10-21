@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/10/2020 14:49",
+  "lastUpdate": "21/10/2020 14:56",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -972,25 +972,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1302",
-      "st": "21/10/2020 23:30",
-      "matricula": "LVFNL",
-      "posicion": "15",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "20",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "UC",
       "vuelo": "1104",
       "st": "21/10/2020 23:30",
@@ -1003,6 +984,25 @@
       "chkFrom": "",
       "chkTo": "",
       "puerta": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1302",
+      "st": "21/10/2020 23:30",
+      "matricula": "LVFNL",
+      "posicion": "15",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "20",
       "ruta": "MIA",
       "via": "",
       "remark": "HOR",
