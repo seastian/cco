@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/10/2020 19:45",
+  "lastUpdate": "21/10/2020 19:51",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -304,6 +304,25 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "68"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "IRQ",
+      "st": "22/10/2020 08:30",
+      "matricula": "LVIRQ",
+      "posicion": "43",
+      "et": "22/10/2020 07:45",
+      "at": "",
+      "term": "FBO",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "FDO",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "0"
     },
     {
       "tipo": "arribo",
