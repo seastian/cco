@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/10/2020 21:30",
+  "lastUpdate": "20/10/2020 21:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -307,25 +307,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "M3",
-      "vuelo": "8491",
-      "st": "20/10/2020 09:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "UC",
       "vuelo": "1503",
       "st": "20/10/2020 10:30",
@@ -587,7 +568,7 @@
       "puerta": "10",
       "ruta": "MIA",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
