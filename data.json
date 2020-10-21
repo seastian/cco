@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/10/2020 21:36",
+  "lastUpdate": "20/10/2020 21:43",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -577,14 +577,14 @@
       "vuelo": "818",
       "st": "20/10/2020 23:00",
       "matricula": "N36962",
-      "posicion": "34",
+      "posicion": "09",
       "et": "",
       "at": "",
       "term": "A",
       "sector": "",
       "chkFrom": "068",
       "chkTo": "078",
-      "puerta": "",
+      "puerta": "08",
       "ruta": "IAH",
       "via": "",
       "remark": "HOR",
