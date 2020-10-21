@@ -1,6 +1,25 @@
 {
-  "lastUpdate": "21/10/2020 16:13",
+  "lastUpdate": "21/10/2020 16:19",
   "vuelos": [
+    {
+      "tipo": "arribo",
+      "aerolinea": "PRV",
+      "vuelo": "GUD",
+      "st": "21/10/2020 16:40",
+      "matricula": "LVGUD",
+      "posicion": "41",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MDZ",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO",
+      "pax": "2"
+    },
     {
       "tipo": "arribo",
       "aerolinea": "UC",
@@ -873,6 +892,25 @@
       "ruta": "SCL",
       "via": "",
       "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "PRV",
+      "vuelo": "GUD",
+      "st": "21/10/2020 17:40",
+      "matricula": "LVGUD",
+      "posicion": "41",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPC",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MDZ",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     },
     {
