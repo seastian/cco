@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/10/2020 04:06",
+  "lastUpdate": "21/10/2020 04:13",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -402,25 +402,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "QR",
-      "vuelo": "8155",
-      "st": "21/10/2020 03:00",
-      "matricula": "A7BFE",
-      "posicion": "55",
-      "et": "21/10/2020 02:20",
-      "at": "21/10/2020 02:15",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "DOH",
-      "via": "GRU",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AMS",
       "vuelo": "8119",
       "st": "20/10/2020 23:30",
@@ -434,6 +415,25 @@
       "lF": "",
       "ruta": "MVD",
       "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "QR",
+      "vuelo": "8155",
+      "st": "21/10/2020 03:00",
+      "matricula": "A7BFE",
+      "posicion": "55",
+      "et": "21/10/2020 02:20",
+      "at": "21/10/2020 02:15",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "DOH",
+      "via": "GRU",
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
