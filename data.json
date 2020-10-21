@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/10/2020 22:15",
+  "lastUpdate": "20/10/2020 22:21",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -307,25 +307,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1503",
-      "st": "20/10/2020 10:30",
-      "matricula": "N534LA",
-      "posicion": "55",
-      "et": "20/10/2020 09:50",
-      "at": "20/10/2020 10:13",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AU",
       "vuelo": "2950",
       "st": "20/10/2020 11:00",
@@ -587,7 +568,7 @@
       "puerta": "08",
       "ruta": "IAH",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
