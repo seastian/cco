@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/10/2020 01:58",
+  "lastUpdate": "21/10/2020 02:04",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -326,6 +326,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "M3",
+      "vuelo": "8491",
+      "st": "21/10/2020 14:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "AU",
       "vuelo": "2951",
       "st": "20/10/2020 18:45",
@@ -399,25 +418,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "BA",
-      "vuelo": "244",
-      "st": "20/10/2020 13:55",
-      "matricula": "GZBJM",
-      "posicion": "03",
-      "et": "",
-      "at": "20/10/2020 14:01",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "02",
-      "ruta": "LHR",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
