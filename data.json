@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/10/2020 11:51",
+  "lastUpdate": "21/10/2020 11:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -83,7 +83,7 @@
       "vuelo": "IVA",
       "st": "21/10/2020 13:30",
       "matricula": "LVIVA",
-      "posicion": "",
+      "posicion": "37",
       "et": "",
       "at": "",
       "term": "C",
@@ -139,7 +139,7 @@
       "aerolinea": "LA",
       "vuelo": "9573",
       "st": "21/10/2020 15:00",
-      "matricula": "",
+      "matricula": "CCBGO",
       "posicion": "",
       "et": "",
       "at": "",
