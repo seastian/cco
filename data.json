@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/10/2020 19:39",
+  "lastUpdate": "21/10/2020 19:45",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -288,22 +288,22 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AA",
-      "vuelo": "907",
-      "st": "21/10/2020 07:25",
-      "matricula": "N783AN",
-      "posicion": "10",
-      "et": "21/10/2020 07:45",
-      "at": "21/10/2020 07:38",
+      "aerolinea": "AF",
+      "vuelo": "228",
+      "st": "22/10/2020 08:10",
+      "matricula": "FHRBB",
+      "posicion": "",
+      "et": "22/10/2020 07:41",
+      "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "7",
-      "lF": "007",
-      "ruta": "MIA",
+      "cinta": "",
+      "lF": "",
+      "ruta": "CDG",
       "via": "",
-      "remark": "ATE",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": "112"
+      "pax": "68"
     },
     {
       "tipo": "arribo",
