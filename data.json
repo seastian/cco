@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/10/2020 18:28",
+  "lastUpdate": "21/10/2020 18:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -285,25 +285,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "KL",
-      "vuelo": "701",
-      "st": "21/10/2020 06:40",
-      "matricula": "PHBHA",
-      "posicion": "03",
-      "et": "21/10/2020 06:38",
-      "at": "21/10/2020 06:27",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "AMS",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "95"
     },
     {
       "tipo": "arribo",
