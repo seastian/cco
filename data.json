@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/10/2020 21:02",
+  "lastUpdate": "20/10/2020 21:08",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -531,6 +531,25 @@
       "ruta": "FRA",
       "via": "",
       "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1240",
+      "st": "21/10/2020 09:00",
+      "matricula": "LVFVO",
+      "posicion": "16A",
+      "et": "21/10/2020 08:00",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "22",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "EST",
       "sanidad": "NO"
     },
     {
