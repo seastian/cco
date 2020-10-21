@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/10/2020 04:19",
+  "lastUpdate": "21/10/2020 04:26",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -598,7 +598,7 @@
       "matricula": "HP1837",
       "posicion": "08",
       "et": "",
-      "at": "",
+      "at": "21/10/2020 04:18",
       "term": "A",
       "sector": "AP",
       "chkFrom": "016",
@@ -606,7 +606,7 @@
       "puerta": "07",
       "ruta": "PTY",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
