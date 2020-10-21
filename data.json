@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/10/2020 08:36",
+  "lastUpdate": "21/10/2020 08:43",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -98,25 +98,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1001",
-      "st": "21/10/2020 12:00",
-      "matricula": "LVGVC",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "EZE",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "M3",
       "vuelo": "8430",
       "st": "21/10/2020 12:00",
@@ -129,6 +110,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "VCP",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1001",
+      "st": "21/10/2020 12:00",
+      "matricula": "LVGVC",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CAC",
+      "cinta": "",
+      "lF": "",
+      "ruta": "EZE",
       "via": "",
       "remark": "",
       "sanidad": "NO",
