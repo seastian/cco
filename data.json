@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/10/2020 17:23",
+  "lastUpdate": "21/10/2020 17:30",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1061,6 +1061,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MIA",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1470",
+      "st": "22/10/2020 05:00",
+      "matricula": "LVFVO",
+      "posicion": "16A",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "22",
+      "ruta": "JUJ",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
