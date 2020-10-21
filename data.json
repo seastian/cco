@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/10/2020 05:56",
+  "lastUpdate": "21/10/2020 06:02",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -573,25 +573,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1402",
-      "st": "21/10/2020 04:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "LAX",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "LA",
       "vuelo": "1965",
       "st": "21/10/2020 04:30",
@@ -607,6 +588,25 @@
       "ruta": "SCL",
       "via": "",
       "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1402",
+      "st": "21/10/2020 04:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "LAX",
+      "via": "",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
