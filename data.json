@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/10/2020 21:08",
+  "lastUpdate": "20/10/2020 21:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -275,14 +275,14 @@
       "matricula": "LVCAZ",
       "posicion": "H14",
       "et": "",
-      "at": "",
+      "at": "20/10/2020 21:12",
       "term": "FBO",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "EQS",
       "via": "",
-      "remark": "HOR",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "0"
     },
