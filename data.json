@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/10/2020 07:51",
+  "lastUpdate": "21/10/2020 07:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -644,7 +644,7 @@
       "puerta": "22",
       "ruta": "GRU",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -764,6 +764,25 @@
     {
       "tipo": "partida",
       "aerolinea": "AOG",
+      "vuelo": "424",
+      "st": "21/10/2020 13:00",
+      "matricula": "CXCLS",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
       "vuelo": "500",
       "st": "21/10/2020 13:00",
       "matricula": "CXLSS",
@@ -796,25 +815,6 @@
       "puerta": "",
       "ruta": "FRA",
       "via": "VCP",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "424",
-      "st": "21/10/2020 13:00",
-      "matricula": "CXCLS",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
       "remark": "HOR",
       "sanidad": "NO"
     },
