@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/10/2020 10:15",
+  "lastUpdate": "21/10/2020 10:21",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -17,6 +17,25 @@
       "ruta": "FRA",
       "via": "GRU",
       "remark": "EST",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AOG",
+      "vuelo": "423",
+      "st": "21/10/2020 11:15",
+      "matricula": "CXCLS",
+      "posicion": "50A",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
@@ -42,25 +61,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "AOG",
-      "vuelo": "423",
-      "st": "21/10/2020 11:15",
-      "matricula": "CXCLS",
-      "posicion": "50A",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AOG",
       "vuelo": "501",
       "st": "21/10/2020 11:30",
       "matricula": "CXLSS",
@@ -72,25 +72,6 @@
       "cinta": "",
       "lF": "",
       "ruta": "ASU",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "M3",
-      "vuelo": "8430",
-      "st": "21/10/2020 12:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "VCP",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -110,6 +91,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "EZE",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "M3",
+      "vuelo": "8430",
+      "st": "21/10/2020 12:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "VCP",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -149,7 +149,7 @@
       "lF": "",
       "ruta": "VVI",
       "via": "",
-      "remark": "DEM",
+      "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
     },
@@ -341,7 +341,7 @@
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -379,7 +379,7 @@
       "via": "GRU",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -417,7 +417,7 @@
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -707,6 +707,25 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
+      "vuelo": "1003",
+      "st": "21/10/2020 10:00",
+      "matricula": "LVGKU",
+      "posicion": "A06",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPC",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "EZE",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
       "vuelo": "1001",
       "st": "21/10/2020 10:00",
       "matricula": "LVGVC",
@@ -725,21 +744,21 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1003",
-      "st": "21/10/2020 10:00",
-      "matricula": "LVGKU",
-      "posicion": "A06",
+      "aerolinea": "KL",
+      "vuelo": "702",
+      "st": "21/10/2020 10:50",
+      "matricula": "PHBHA",
+      "posicion": "03",
       "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPC",
+      "at": "21/10/2020 10:16",
+      "term": "TCA",
+      "sector": "",
       "chkFrom": "",
       "chkTo": "",
-      "puerta": "",
-      "ruta": "EZE",
+      "puerta": "02",
+      "ruta": "AMS",
       "via": "",
-      "remark": "CON",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -759,25 +778,6 @@
       "ruta": "SCL",
       "via": "",
       "remark": "CAN",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "KL",
-      "vuelo": "702",
-      "st": "21/10/2020 10:50",
-      "matricula": "PHBHA",
-      "posicion": "03",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "02",
-      "ruta": "AMS",
-      "via": "",
-      "remark": "HOR",
       "sanidad": "NO"
     },
     {
@@ -910,7 +910,7 @@
       "puerta": "",
       "ruta": "VVI",
       "via": "",
-      "remark": "HOR",
+      "remark": "CAN",
       "sanidad": "NO"
     },
     {
