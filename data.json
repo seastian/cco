@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/10/2020 23:26",
+  "lastUpdate": "20/10/2020 23:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -365,25 +365,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AOG",
-      "vuelo": "424",
-      "st": "20/10/2020 13:00",
-      "matricula": "CXCLS",
-      "posicion": "56B",
-      "et": "",
-      "at": "20/10/2020 12:54",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
       "vuelo": "500",
       "st": "20/10/2020 13:00",
       "matricula": "CXLSS",
@@ -396,6 +377,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "ASU",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "424",
+      "st": "20/10/2020 13:00",
+      "matricula": "CXCLS",
+      "posicion": "56B",
+      "et": "",
+      "at": "20/10/2020 12:54",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
