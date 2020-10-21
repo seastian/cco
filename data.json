@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/10/2020 11:06",
+  "lastUpdate": "21/10/2020 11:13",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -84,7 +84,7 @@
       "st": "21/10/2020 12:10",
       "matricula": "CCBGI",
       "posicion": "04",
-      "et": "",
+      "et": "21/10/2020 12:10",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -92,7 +92,7 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
