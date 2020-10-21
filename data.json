@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/10/2020 12:52",
+  "lastUpdate": "21/10/2020 12:58",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -17,6 +17,25 @@
       "ruta": "VVI",
       "via": "",
       "remark": "CAN",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1003",
+      "st": "21/10/2020 13:00",
+      "matricula": "LVGKU",
+      "posicion": "A05",
+      "et": "21/10/2020 13:00",
+      "at": "",
+      "term": "C",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "EZE",
+      "via": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -65,7 +84,7 @@
       "st": "21/10/2020 14:55",
       "matricula": "LVFVO",
       "posicion": "",
-      "et": "",
+      "et": "21/10/2020 14:40",
       "at": "",
       "term": "A",
       "sector": "",
@@ -73,9 +92,9 @@
       "lF": "",
       "ruta": "GRU",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "97"
     },
     {
       "tipo": "arribo",
@@ -383,25 +402,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "ES",
-      "vuelo": "8773",
-      "st": "21/10/2020 08:25",
-      "matricula": "YV642T",
-      "posicion": "08",
-      "et": "21/10/2020 11:15",
-      "at": "21/10/2020 10:43",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "010",
-      "ruta": "CCS",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "41"
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AOG",
       "vuelo": "423",
       "st": "21/10/2020 11:15",
@@ -418,6 +418,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "ES",
+      "vuelo": "8773",
+      "st": "21/10/2020 08:25",
+      "matricula": "YV642T",
+      "posicion": "08",
+      "et": "21/10/2020 11:15",
+      "at": "21/10/2020 10:43",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "010",
+      "ruta": "CCS",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "41"
     },
     {
       "tipo": "arribo",
@@ -739,7 +758,7 @@
       "puerta": "12",
       "ruta": "UIO",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -758,6 +777,25 @@
       "puerta": "",
       "ruta": "EZE",
       "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LH",
+      "vuelo": "8267",
+      "st": "21/10/2020 13:00",
+      "matricula": "DALCA",
+      "posicion": "54",
+      "et": "",
+      "at": "21/10/2020 12:49",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "FRA",
+      "via": "VCP",
       "remark": "PAR",
       "sanidad": "NO"
     },
@@ -796,25 +834,6 @@
       "puerta": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "LH",
-      "vuelo": "8267",
-      "st": "21/10/2020 13:00",
-      "matricula": "DALCA",
-      "posicion": "54",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "FRA",
-      "via": "VCP",
       "remark": "HOR",
       "sanidad": "NO"
     },
