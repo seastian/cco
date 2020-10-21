@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/10/2020 20:17",
+  "lastUpdate": "21/10/2020 20:24",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -783,25 +783,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AOG",
-      "vuelo": "424",
-      "st": "21/10/2020 13:00",
-      "matricula": "CXCLS",
-      "posicion": "50A",
-      "et": "",
-      "at": "21/10/2020 13:00",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
       "vuelo": "500",
       "st": "21/10/2020 13:00",
       "matricula": "CXLSS",
@@ -814,6 +795,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "ASU",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "424",
+      "st": "21/10/2020 13:00",
+      "matricula": "CXCLS",
+      "posicion": "50A",
+      "et": "",
+      "at": "21/10/2020 13:00",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -948,7 +948,7 @@
       "puerta": "",
       "ruta": "MDZ",
       "via": "",
-      "remark": "DEM",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
