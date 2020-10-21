@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/10/2020 22:34",
+  "lastUpdate": "20/10/2020 22:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -503,7 +503,7 @@
       "matricula": "N774AN",
       "posicion": "10",
       "et": "",
-      "at": "",
+      "at": "20/10/2020 22:33",
       "term": "A",
       "sector": "AP",
       "chkFrom": "001",
@@ -511,7 +511,7 @@
       "puerta": "10",
       "ruta": "MIA",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
