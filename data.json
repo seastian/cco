@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/10/2020 01:06",
+  "lastUpdate": "21/10/2020 01:13",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -308,25 +308,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "AU",
-      "vuelo": "2281",
-      "st": "20/10/2020 13:30",
-      "matricula": "LVCKZ",
-      "posicion": "13",
-      "et": "",
-      "at": "20/10/2020 13:05",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "009",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "50"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AU",
       "vuelo": "2951",
       "st": "20/10/2020 18:45",
       "matricula": "LVCEV",
@@ -415,25 +396,6 @@
       "chkTo": "006",
       "puerta": "01",
       "ruta": "CCS",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
-      "vuelo": "500",
-      "st": "20/10/2020 13:00",
-      "matricula": "CXLSS",
-      "posicion": "55A",
-      "et": "",
-      "at": "20/10/2020 13:09",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "ASU",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
