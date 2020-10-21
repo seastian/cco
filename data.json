@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/10/2020 00:31",
+  "lastUpdate": "21/10/2020 00:39",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -27,7 +27,7 @@
       "st": "21/10/2020 03:00",
       "matricula": "A7BFE",
       "posicion": "55",
-      "et": "",
+      "et": "21/10/2020 02:20",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -35,7 +35,7 @@
       "lF": "",
       "ruta": "DOH",
       "via": "GRU",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
       "pax": ""
     },
@@ -64,7 +64,7 @@
       "vuelo": "2977",
       "st": "21/10/2020 04:55",
       "matricula": "LVCIE",
-      "posicion": "",
+      "posicion": "12",
       "et": "",
       "at": "",
       "term": "A",
@@ -783,10 +783,10 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1001",
+      "vuelo": "1003",
       "st": "21/10/2020 10:00",
-      "matricula": "LVGVC",
-      "posicion": "M14",
+      "matricula": "LVGKU",
+      "posicion": "A06",
       "et": "",
       "at": "",
       "term": "C",
@@ -802,10 +802,10 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1003",
+      "vuelo": "1001",
       "st": "21/10/2020 10:00",
-      "matricula": "LVGKU",
-      "posicion": "A06",
+      "matricula": "LVGVC",
+      "posicion": "M14",
       "et": "",
       "at": "",
       "term": "C",
@@ -858,25 +858,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "RER",
-      "vuelo": "8110",
-      "st": "21/10/2020 12:00",
-      "matricula": "HCCUH",
-      "posicion": "74B",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "chkFrom": "027",
-      "chkTo": "029",
-      "puerta": "",
-      "ruta": "UIO",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AJ",
       "vuelo": "IVA",
       "st": "21/10/2020 12:00",
@@ -892,6 +873,25 @@
       "ruta": "MVD",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "RER",
+      "vuelo": "8110",
+      "st": "21/10/2020 12:00",
+      "matricula": "HCCUH",
+      "posicion": "74B",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "chkFrom": "027",
+      "chkTo": "029",
+      "puerta": "",
+      "ruta": "UIO",
+      "via": "",
+      "remark": "",
       "sanidad": "NO"
     }
   ]
