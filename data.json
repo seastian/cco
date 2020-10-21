@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "21/10/2020 10:21",
+  "lastUpdate": "21/10/2020 10:28",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "LH",
-      "vuelo": "8266",
-      "st": "21/10/2020 10:40",
-      "matricula": "DALCA",
-      "posicion": "54",
-      "et": "21/10/2020 10:20",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "FRA",
-      "via": "GRU",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": ""
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AOG",
@@ -492,6 +473,25 @@
       "ruta": "SCL",
       "via": "",
       "remark": "CAN",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LH",
+      "vuelo": "8266",
+      "st": "21/10/2020 10:40",
+      "matricula": "DALCA",
+      "posicion": "54",
+      "et": "21/10/2020 10:20",
+      "at": "21/10/2020 10:21",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "FRA",
+      "via": "GRU",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
