@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/10/2020 20:04",
+  "lastUpdate": "21/10/2020 20:11",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -323,6 +323,25 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "0"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "BA",
+      "vuelo": "245",
+      "st": "22/10/2020 08:20",
+      "matricula": "GZBJF",
+      "posicion": "",
+      "et": "22/10/2020 08:09",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "LHR",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
