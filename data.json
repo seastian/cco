@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/10/2020 09:21",
+  "lastUpdate": "21/10/2020 09:30",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -45,7 +45,7 @@
       "vuelo": "423",
       "st": "21/10/2020 11:15",
       "matricula": "CXCLS",
-      "posicion": "",
+      "posicion": "50A",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -64,7 +64,7 @@
       "vuelo": "501",
       "st": "21/10/2020 11:30",
       "matricula": "CXLSS",
-      "posicion": "",
+      "posicion": "50B",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -805,7 +805,7 @@
       "vuelo": "424",
       "st": "21/10/2020 13:00",
       "matricula": "CXCLS",
-      "posicion": "",
+      "posicion": "50A",
       "et": "",
       "at": "",
       "term": "TCA",
@@ -843,7 +843,7 @@
       "vuelo": "500",
       "st": "21/10/2020 13:00",
       "matricula": "CXLSS",
-      "posicion": "",
+      "posicion": "50B",
       "et": "",
       "at": "",
       "term": "TCA",
