@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21/10/2020 05:04",
+  "lastUpdate": "21/10/2020 05:11",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -456,25 +456,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "49"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AU",
-      "vuelo": "2978",
-      "st": "20/10/2020 17:00",
-      "matricula": "LVGBK",
-      "posicion": "12",
-      "et": "",
-      "at": "20/10/2020 17:06",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "16",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
