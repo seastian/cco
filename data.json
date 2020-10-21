@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/10/2020 22:09",
+  "lastUpdate": "20/10/2020 22:15",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -587,7 +587,7 @@
       "puerta": "08",
       "ruta": "IAH",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
