@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/10/2020 22:21",
+  "lastUpdate": "20/10/2020 22:28",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -190,25 +190,6 @@
       "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "MP",
-      "vuelo": "6912",
-      "st": "20/10/2020 10:05",
-      "matricula": "PHCKA",
-      "posicion": "54",
-      "et": "20/10/2020 10:30",
-      "at": "20/10/2020 10:25",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "AMS",
-      "via": "VCP",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -568,7 +549,7 @@
       "puerta": "08",
       "ruta": "IAH",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
