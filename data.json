@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20/10/2020 23:19",
+  "lastUpdate": "20/10/2020 23:26",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -659,7 +659,7 @@
       "term": "A",
       "sector": "AP",
       "chkFrom": "016",
-      "chkTo": "021",
+      "chkTo": "022",
       "puerta": "07",
       "ruta": "PTY",
       "via": "",
