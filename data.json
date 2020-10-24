@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/10/2020 12:01",
+  "lastUpdate": "24/10/2020 12:07",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -133,25 +133,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AU",
-      "vuelo": "2763",
-      "st": "24/10/2020 00:10",
-      "matricula": "LVCIE",
-      "posicion": "77B",
-      "et": "24/10/2020 00:01",
-      "at": "24/10/2020 00:03",
-      "term": "A",
-      "sector": "",
-      "cinta": "3",
-      "lF": "003",
-      "ruta": "PSS",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "24"
     },
     {
       "tipo": "arribo",
@@ -540,7 +521,7 @@
       "st": "24/10/2020 11:45",
       "matricula": "ECMOU",
       "posicion": "04",
-      "et": "",
+      "et": "24/10/2020 12:10",
       "at": "",
       "term": "A",
       "sector": "AP",
@@ -549,7 +530,7 @@
       "puerta": "03",
       "ruta": "BCN",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
