@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/10/2020 07:37",
+  "lastUpdate": "24/10/2020 07:44",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -27,7 +27,7 @@
       "st": "24/10/2020 08:55",
       "matricula": "ECNEI",
       "posicion": "11",
-      "et": "24/10/2020 08:23",
+      "et": "24/10/2020 08:16",
       "at": "",
       "term": "A",
       "sector": "",
@@ -795,6 +795,25 @@
       "chkTo": "",
       "puerta": "19",
       "ruta": "AMS",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "IB_",
+      "vuelo": "2602",
+      "st": "24/10/2020 11:45",
+      "matricula": "ECMOU",
+      "posicion": "04",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "027",
+      "chkTo": "032",
+      "puerta": "03",
+      "ruta": "BCN",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
