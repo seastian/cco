@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/10/2020 10:05",
+  "lastUpdate": "24/10/2020 10:12",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -133,25 +133,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AOG",
-      "vuelo": "421",
-      "st": "23/10/2020 21:30",
-      "matricula": "CXCLS",
-      "posicion": "52A",
-      "et": "",
-      "at": "23/10/2020 22:06",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
