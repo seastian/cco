@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/10/2020 09:08",
+  "lastUpdate": "24/10/2020 09:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -61,25 +61,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "8495",
-      "st": "24/10/2020 14:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "M3",
       "vuelo": "8488",
       "st": "24/10/2020 14:00",
       "matricula": "",
@@ -91,6 +72,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "VCP",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "M3",
+      "vuelo": "8495",
+      "st": "24/10/2020 14:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
       "via": "",
       "remark": "",
       "sanidad": "NO",
