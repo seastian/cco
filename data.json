@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/10/2020 07:57",
+  "lastUpdate": "24/10/2020 08:03",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -753,7 +753,7 @@
       "at": "",
       "term": "A",
       "sector": "AP",
-      "chkFrom": "027",
+      "chkFrom": "026",
       "chkTo": "032",
       "puerta": "03",
       "ruta": "BCN",
