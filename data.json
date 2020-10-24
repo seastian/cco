@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/10/2020 10:37",
+  "lastUpdate": "24/10/2020 10:44",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -95,25 +95,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AJ",
-      "vuelo": "HVE",
-      "st": "23/10/2020 23:20",
-      "matricula": "LVHVE",
-      "posicion": "45",
-      "et": "23/10/2020 22:45",
-      "at": "23/10/2020 22:36",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "CTC",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -427,14 +408,14 @@
       "matricula": "LVCIE",
       "posicion": "77B",
       "et": "24/10/2020 10:30",
-      "at": "",
+      "at": "24/10/2020 10:39",
       "term": "A",
       "sector": "",
       "cinta": "1",
       "lF": "004",
       "ruta": "REL",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "93"
     },
