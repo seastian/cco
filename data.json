@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/10/2020 07:31",
+  "lastUpdate": "24/10/2020 07:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -475,25 +475,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "153"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "PRV",
-      "vuelo": "IWS",
-      "st": "23/10/2020 19:00",
-      "matricula": "LVIWS",
-      "posicion": "40",
-      "et": "",
-      "at": "23/10/2020 19:35",
-      "term": "FBO",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SLA",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
