@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/10/2020 13:25",
+  "lastUpdate": "24/10/2020 13:31",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -364,25 +364,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "M3",
-      "vuelo": "8496",
-      "st": "24/10/2020 02:10",
-      "matricula": "PRABD",
-      "posicion": "55",
-      "et": "24/10/2020 01:07",
-      "at": "24/10/2020 01:24",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AMS",
       "vuelo": "7119",
       "st": "24/10/2020 02:00",
@@ -587,7 +568,7 @@
       "puerta": "10",
       "ruta": "MAD",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -745,25 +726,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "INT",
-      "st": "24/10/2020 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "201",
-      "chkTo": "220",
-      "puerta": "",
-      "ruta": "QTR",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "H24",
       "st": "24/10/2020 23:59",
       "matricula": "",
@@ -774,6 +736,25 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
+      "puerta": "",
+      "ruta": "QTR",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "INT",
+      "st": "24/10/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "201",
+      "chkTo": "220",
       "puerta": "",
       "ruta": "QTR",
       "via": "",
