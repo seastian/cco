@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/10/2020 11:03",
+  "lastUpdate": "24/10/2020 11:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -112,25 +112,6 @@
       "ruta": "MIA",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AMS",
-      "vuelo": "8119",
-      "st": "23/10/2020 23:05",
-      "matricula": "CXMAS",
-      "posicion": "52A",
-      "et": "",
-      "at": "23/10/2020 23:05",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -644,7 +625,7 @@
       "puerta": "03",
       "ruta": "BCN",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
