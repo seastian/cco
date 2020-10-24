@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/10/2020 14:10",
+  "lastUpdate": "24/10/2020 14:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -522,7 +522,7 @@
       "matricula": "GZBKK",
       "posicion": "09",
       "et": "",
-      "at": "",
+      "at": "24/10/2020 14:09",
       "term": "A",
       "sector": "",
       "chkFrom": "006",
@@ -530,7 +530,7 @@
       "puerta": "08",
       "ruta": "LHR",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -776,6 +776,25 @@
       "chkTo": "",
       "puerta": "02",
       "ruta": "ZRH",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "8496",
+      "st": "25/10/2020 02:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
