@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/10/2020 13:18",
+  "lastUpdate": "24/10/2020 13:25",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -64,7 +64,7 @@
       "vuelo": "9573",
       "st": "24/10/2020 15:00",
       "matricula": "CCBGI",
-      "posicion": "",
+      "posicion": "04",
       "et": "24/10/2020 17:05",
       "at": "",
       "term": "TCA",
@@ -549,7 +549,7 @@
       "puerta": "18",
       "ruta": "CDG",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -568,7 +568,7 @@
       "puerta": "08",
       "ruta": "LHR",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -672,14 +672,14 @@
       "vuelo": "9573",
       "st": "24/10/2020 17:00",
       "matricula": "CCBGI",
-      "posicion": "",
+      "posicion": "04",
       "et": "24/10/2020 18:30",
       "at": "",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
       "chkTo": "",
-      "puerta": "",
+      "puerta": "03",
       "ruta": "SCL",
       "via": "",
       "remark": "DEM",
