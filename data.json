@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "24/10/2020 09:53",
+  "lastUpdate": "24/10/2020 09:59",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "UA",
-      "vuelo": "819",
-      "st": "24/10/2020 10:25",
-      "matricula": "N29975",
-      "posicion": "13",
-      "et": "24/10/2020 09:55",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "IAH",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "22"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "TK",
@@ -456,6 +437,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "159"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "UA",
+      "vuelo": "819",
+      "st": "24/10/2020 10:25",
+      "matricula": "N29975",
+      "posicion": "13",
+      "et": "24/10/2020 09:55",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "IAH",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "22"
     },
     {
       "tipo": "partida",
