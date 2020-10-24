@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/10/2020 11:22",
+  "lastUpdate": "24/10/2020 11:29",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -112,25 +112,6 @@
       "ruta": "MIA",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "M3",
-      "vuelo": "8496",
-      "st": "23/10/2020 23:45",
-      "matricula": "PRABD",
-      "posicion": "55",
-      "et": "23/10/2020 23:27",
-      "at": "23/10/2020 23:24",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
