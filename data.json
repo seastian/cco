@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/10/2020 10:50",
+  "lastUpdate": "24/10/2020 10:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -95,25 +95,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1451",
-      "st": "23/10/2020 23:15",
-      "matricula": "LVGVA",
-      "posicion": "77A",
-      "et": "23/10/2020 22:57",
-      "at": "23/10/2020 22:54",
-      "term": "A",
-      "sector": "",
-      "cinta": "4",
-      "lF": "004",
-      "ruta": "SLA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "98"
     },
     {
       "tipo": "arribo",
