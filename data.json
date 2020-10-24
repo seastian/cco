@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/10/2020 14:29",
+  "lastUpdate": "24/10/2020 14:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -95,25 +95,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "CM",
-      "vuelo": "279",
-      "st": "24/10/2020 02:45",
-      "matricula": "HP1831",
-      "posicion": "06",
-      "et": "24/10/2020 02:31",
-      "at": "24/10/2020 02:27",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "008",
-      "ruta": "PTY",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "95"
     },
     {
       "tipo": "arribo",
@@ -541,7 +522,7 @@
       "matricula": "ECNDR",
       "posicion": "10",
       "et": "",
-      "at": "",
+      "at": "24/10/2020 14:30",
       "term": "A",
       "sector": "",
       "chkFrom": "019",
@@ -549,7 +530,7 @@
       "puerta": "10",
       "ruta": "MAD",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
