@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/10/2020 12:14",
+  "lastUpdate": "24/10/2020 12:20",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -522,7 +522,7 @@
       "matricula": "ECMOU",
       "posicion": "04",
       "et": "24/10/2020 12:10",
-      "at": "",
+      "at": "24/10/2020 12:16",
       "term": "A",
       "sector": "AP",
       "chkFrom": "026",
@@ -530,7 +530,7 @@
       "puerta": "03",
       "ruta": "BCN",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
