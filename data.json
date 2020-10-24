@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/10/2020 06:53",
+  "lastUpdate": "24/10/2020 06:59",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -190,25 +190,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "LA",
-      "vuelo": "9583",
-      "st": "23/10/2020 19:00",
-      "matricula": "CCBGM",
-      "posicion": "03",
-      "et": "23/10/2020 19:00",
-      "at": "23/10/2020 18:56",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
