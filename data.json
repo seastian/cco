@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "24/10/2020 08:16",
+  "lastUpdate": "24/10/2020 08:23",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "UX",
-      "vuelo": "341",
-      "st": "24/10/2020 08:55",
-      "matricula": "ECNEI",
-      "posicion": "11",
-      "et": "24/10/2020 08:16",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "008",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "159"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AU",
@@ -458,6 +439,25 @@
       "pax": "207"
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "UX",
+      "vuelo": "341",
+      "st": "24/10/2020 08:55",
+      "matricula": "ECNEI",
+      "posicion": "11",
+      "et": "24/10/2020 08:16",
+      "at": "24/10/2020 08:20",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "008",
+      "ruta": "MAD",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "159"
+    },
+    {
       "tipo": "partida",
       "aerolinea": "AU",
       "vuelo": "2762",
@@ -736,7 +736,7 @@
       "sector": "",
       "chkFrom": "",
       "chkTo": "",
-      "puerta": "19",
+      "puerta": "",
       "ruta": "AMS",
       "via": "",
       "remark": "HOR",
