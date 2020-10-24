@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/10/2020 10:44",
+  "lastUpdate": "24/10/2020 10:50",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -644,7 +644,7 @@
       "puerta": "03",
       "ruta": "BCN",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
