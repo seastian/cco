@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24/10/2020 14:03",
+  "lastUpdate": "24/10/2020 14:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -549,7 +549,7 @@
       "puerta": "10",
       "ruta": "MAD",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
