@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/10/2020 10:27",
+  "lastUpdate": "25/10/2020 10:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -497,25 +497,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AA",
-      "vuelo": "908",
-      "st": "24/10/2020 22:30",
-      "matricula": "N789AN",
-      "posicion": "10",
-      "et": "",
-      "at": "24/10/2020 22:27",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "001",
-      "chkTo": "014",
-      "puerta": "10",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1302",
       "st": "24/10/2020 23:30",
@@ -788,7 +769,7 @@
       "matricula": "PHBHA",
       "posicion": "03",
       "et": "",
-      "at": "",
+      "at": "25/10/2020 10:30",
       "term": "A",
       "sector": "",
       "chkFrom": "041",
@@ -796,7 +777,7 @@
       "puerta": "02",
       "ruta": "AMS",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -815,7 +796,7 @@
       "puerta": "25",
       "ruta": "MDQ",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -1080,6 +1061,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "GYE",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AA",
+      "vuelo": "908",
+      "st": "25/10/2020 22:30",
+      "matricula": "N778AN",
+      "posicion": "56",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "001",
+      "chkTo": "014",
+      "puerta": "",
+      "ruta": "MIA",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
