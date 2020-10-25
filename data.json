@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/10/2020 07:53",
+  "lastUpdate": "25/10/2020 07:59",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -682,7 +682,7 @@
       "puerta": "",
       "ruta": "CCS",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
