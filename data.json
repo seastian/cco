@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/10/2020 18:21",
+  "lastUpdate": "25/10/2020 18:27",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -281,6 +281,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "MIA",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LH",
+      "vuelo": "510",
+      "st": "26/10/2020 06:20",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "FRA",
       "via": "",
       "remark": "",
       "sanidad": "NO",
