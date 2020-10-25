@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/10/2020 09:47",
+  "lastUpdate": "25/10/2020 09:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -45,7 +45,7 @@
       "vuelo": "475",
       "st": "25/10/2020 11:38",
       "matricula": "",
-      "posicion": "",
+      "posicion": "09",
       "et": "",
       "at": "",
       "term": "A",
@@ -777,7 +777,7 @@
       "puerta": "02",
       "ruta": "AMS",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -843,14 +843,14 @@
       "vuelo": "474",
       "st": "25/10/2020 12:43",
       "matricula": "",
-      "posicion": "",
+      "posicion": "09",
       "et": "",
       "at": "",
       "term": "A",
       "sector": "",
       "chkFrom": "027",
       "chkTo": "038",
-      "puerta": "",
+      "puerta": "09",
       "ruta": "SCL",
       "via": "",
       "remark": "HOR",
