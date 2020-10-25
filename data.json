@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/10/2020 10:34",
+  "lastUpdate": "25/10/2020 10:40",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -744,25 +744,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "PRV",
-      "vuelo": "HTK",
-      "st": "24/10/2020 23:50",
-      "matricula": "LVHTK",
-      "posicion": "41",
-      "et": "25/10/2020 10:00",
-      "at": "",
-      "term": "C",
-      "sector": "CPC",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "FDO",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "KL",
       "vuelo": "702",
       "st": "25/10/2020 10:50",
@@ -778,6 +759,25 @@
       "ruta": "AMS",
       "via": "",
       "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "PRV",
+      "vuelo": "HTK",
+      "st": "24/10/2020 23:50",
+      "matricula": "LVHTK",
+      "posicion": "41",
+      "et": "24/10/2020 11:30",
+      "at": "",
+      "term": "C",
+      "sector": "CPC",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "FDO",
+      "via": "",
+      "remark": "DEM",
       "sanidad": "NO"
     },
     {
