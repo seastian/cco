@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/10/2020 09:36",
+  "lastUpdate": "25/10/2020 09:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -8,7 +8,7 @@
       "st": "25/10/2020 10:40",
       "matricula": "LVGOO",
       "posicion": "17B",
-      "et": "",
+      "et": "25/10/2020 10:24",
       "at": "",
       "term": "A",
       "sector": "",
@@ -16,9 +16,9 @@
       "lF": "006",
       "ruta": "MDZ",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "89"
     },
     {
       "tipo": "arribo",
