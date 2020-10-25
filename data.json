@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/10/2020 12:10",
+  "lastUpdate": "25/10/2020 12:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -668,25 +668,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AU",
-      "vuelo": "2650",
-      "st": "25/10/2020 09:00",
-      "matricula": "LVGBK",
-      "posicion": "17B",
-      "et": "",
-      "at": "25/10/2020 09:05",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "25",
-      "ruta": "NQN",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1240",
       "st": "25/10/2020 09:00",
@@ -700,6 +681,25 @@
       "chkTo": "240",
       "puerta": "22",
       "ruta": "GRU",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AU",
+      "vuelo": "2650",
+      "st": "25/10/2020 09:00",
+      "matricula": "LVGBK",
+      "posicion": "17B",
+      "et": "",
+      "at": "25/10/2020 09:05",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "25",
+      "ruta": "NQN",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -758,7 +758,7 @@
       "puerta": "25",
       "ruta": "IGR",
       "via": "RES",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
