@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/10/2020 09:23",
+  "lastUpdate": "25/10/2020 09:29",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -141,7 +141,7 @@
       "st": "25/10/2020 14:20",
       "matricula": "",
       "posicion": "",
-      "et": "",
+      "et": "25/10/2020 14:10",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -149,9 +149,9 @@
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -412,7 +412,7 @@
       "term": "A",
       "sector": "",
       "cinta": "8",
-      "lF": "007",
+      "lF": "010",
       "ruta": "CDG",
       "via": "",
       "remark": "ATE",
