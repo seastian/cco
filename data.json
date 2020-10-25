@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/10/2020 11:05",
+  "lastUpdate": "25/10/2020 11:12",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -307,20 +307,20 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "K4",
-      "vuelo": "539",
-      "st": "24/10/2020 21:30",
-      "matricula": "N712CK",
-      "posicion": "55",
-      "et": "24/10/2020 23:30",
-      "at": "24/10/2020 23:10",
+      "aerolinea": "GTI",
+      "vuelo": "033",
+      "st": "25/10/2020 23:05",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "MIA",
       "via": "",
-      "remark": "ATE",
+      "remark": "",
       "sanidad": "NO",
       "pax": ""
     },
