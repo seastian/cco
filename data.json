@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/10/2020 18:34",
+  "lastUpdate": "25/10/2020 18:40",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -617,14 +617,14 @@
       "matricula": "CXCAR",
       "posicion": "50A",
       "et": "",
-      "at": "",
+      "at": "25/10/2020 18:37",
       "term": "TCA",
       "sector": "",
       "cinta": "",
       "lF": "",
       "ruta": "MVD",
       "via": "",
-      "remark": "CON",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
@@ -821,25 +821,6 @@
     {
       "tipo": "partida",
       "aerolinea": "M3",
-      "vuelo": "9832",
-      "st": "25/10/2020 15:10",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MAO",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "M3",
       "vuelo": "8472",
       "st": "25/10/2020 15:10",
       "matricula": "",
@@ -852,6 +833,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MIA",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "9832",
+      "st": "25/10/2020 15:10",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MAO",
       "via": "",
       "remark": "CON",
       "sanidad": "NO"
@@ -929,7 +929,7 @@
       "puerta": "14",
       "ruta": "MAD",
       "via": "",
-      "remark": "CON",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
