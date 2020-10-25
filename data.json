@@ -1,6 +1,25 @@
 {
-  "lastUpdate": "25/10/2020 09:41",
+  "lastUpdate": "25/10/2020 09:47",
   "vuelos": [
+    {
+      "tipo": "arribo",
+      "aerolinea": "AU",
+      "vuelo": "2501",
+      "st": "25/10/2020 10:55",
+      "matricula": "LVCIE",
+      "posicion": "52A",
+      "et": "25/10/2020 10:21",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "3",
+      "lF": "006",
+      "ruta": "COR",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "88"
+    },
     {
       "tipo": "arribo",
       "aerolinea": "AR",
@@ -19,25 +38,6 @@
       "remark": "EST",
       "sanidad": "NO",
       "pax": "89"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AU",
-      "vuelo": "2501",
-      "st": "25/10/2020 10:55",
-      "matricula": "LVCIE",
-      "posicion": "52A",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "3",
-      "lF": "006",
-      "ruta": "COR",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
     },
     {
       "tipo": "arribo",
