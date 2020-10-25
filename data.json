@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/10/2020 07:34",
+  "lastUpdate": "25/10/2020 07:40",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -8,7 +8,7 @@
       "st": "25/10/2020 08:20",
       "matricula": "LVCKZ",
       "posicion": "51A",
-      "et": "",
+      "et": "25/10/2020 08:19",
       "at": "",
       "term": "A",
       "sector": "",
@@ -16,9 +16,9 @@
       "lF": "006",
       "ruta": "BHI",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "45"
     },
     {
       "tipo": "arribo",
