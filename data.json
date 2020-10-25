@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/10/2020 12:29",
+  "lastUpdate": "25/10/2020 12:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -8,7 +8,7 @@
       "st": "25/10/2020 13:35",
       "matricula": "LVGBK",
       "posicion": "76B",
-      "et": "",
+      "et": "25/10/2020 13:29",
       "at": "",
       "term": "A",
       "sector": "",
@@ -16,9 +16,9 @@
       "lF": "006",
       "ruta": "NQN",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "78"
     },
     {
       "tipo": "arribo",
@@ -319,6 +319,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "SLA",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AOG",
+      "vuelo": "102",
+      "st": "26/10/2020 00:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "ASU",
       "via": "",
       "remark": "",
       "sanidad": "NO",
