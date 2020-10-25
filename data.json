@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/10/2020 09:55",
+  "lastUpdate": "25/10/2020 10:02",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -46,7 +46,7 @@
       "st": "25/10/2020 11:38",
       "matricula": "",
       "posicion": "09",
-      "et": "",
+      "et": "25/10/2020 11:25",
       "at": "",
       "term": "A",
       "sector": "",
@@ -54,9 +54,9 @@
       "lF": "",
       "ruta": "SCL",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "82"
     },
     {
       "tipo": "arribo",
