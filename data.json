@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/10/2020 09:29",
+  "lastUpdate": "25/10/2020 09:36",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -706,25 +706,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1240",
-      "st": "25/10/2020 09:00",
-      "matricula": "LVCTC",
-      "posicion": "16A",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "22",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "CER",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AU",
       "vuelo": "2650",
       "st": "25/10/2020 09:00",
@@ -738,6 +719,25 @@
       "chkTo": "240",
       "puerta": "25",
       "ruta": "NQN",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1240",
+      "st": "25/10/2020 09:00",
+      "matricula": "LVCTC",
+      "posicion": "16A",
+      "et": "",
+      "at": "25/10/2020 09:29",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "22",
+      "ruta": "GRU",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
