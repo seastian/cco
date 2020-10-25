@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/10/2020 07:59",
+  "lastUpdate": "25/10/2020 08:05",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -720,7 +720,7 @@
       "puerta": "10",
       "ruta": "IAH",
       "via": "",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -849,7 +849,7 @@
       "term": "A",
       "sector": "",
       "chkFrom": "027",
-      "chkTo": "032",
+      "chkTo": "036",
       "puerta": "",
       "ruta": "SCL",
       "via": "",
