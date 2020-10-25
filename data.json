@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/10/2020 18:08",
+  "lastUpdate": "25/10/2020 18:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -479,7 +479,7 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "8472",
+      "vuelo": "9831",
       "st": "25/10/2020 14:00",
       "matricula": "",
       "posicion": "",
@@ -498,7 +498,7 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "9831",
+      "vuelo": "8472",
       "st": "25/10/2020 14:00",
       "matricula": "",
       "posicion": "",
@@ -589,25 +589,6 @@
       "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1400",
-      "st": "25/10/2020 06:00",
-      "matricula": "LVGOO",
-      "posicion": "76B",
-      "et": "",
-      "at": "25/10/2020 06:10",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "25",
-      "ruta": "MDZ",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
@@ -883,7 +864,7 @@
       "matricula": "LVCKZ",
       "posicion": "77B",
       "et": "",
-      "at": "",
+      "at": "25/10/2020 18:08",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "221",
@@ -891,7 +872,7 @@
       "puerta": "25",
       "ruta": "SLA",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -910,7 +891,26 @@
       "puerta": "14",
       "ruta": "MAD",
       "via": "",
-      "remark": "HOR",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UX",
+      "vuelo": "342",
+      "st": "25/10/2020 18:10",
+      "matricula": "ECNEI",
+      "posicion": "10",
+      "et": "25/10/2020 20:55",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "054",
+      "chkTo": "063",
+      "puerta": "10",
+      "ruta": "MAD",
+      "via": "",
+      "remark": "DEM",
       "sanidad": "NO"
     },
     {
@@ -968,25 +968,6 @@
       "ruta": "LAX",
       "via": "",
       "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "UX",
-      "vuelo": "342",
-      "st": "25/10/2020 18:10",
-      "matricula": "ECNEI",
-      "posicion": "10",
-      "et": "25/10/2020 20:55",
-      "at": "",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "054",
-      "chkTo": "063",
-      "puerta": "10",
-      "ruta": "MAD",
-      "via": "",
-      "remark": "DEM",
       "sanidad": "NO"
     },
     {
