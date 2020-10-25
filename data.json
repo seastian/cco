@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/10/2020 10:53",
+  "lastUpdate": "25/10/2020 10:59",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -468,7 +468,7 @@
       "at": "25/10/2020 10:20",
       "term": "A",
       "sector": "",
-      "cinta": "3",
+      "cinta": "2",
       "lF": "006",
       "ruta": "COR",
       "via": "",
@@ -796,7 +796,7 @@
       "puerta": "25",
       "ruta": "MDQ",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
