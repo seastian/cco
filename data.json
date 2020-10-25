@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/10/2020 10:08",
+  "lastUpdate": "25/10/2020 10:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -44,19 +44,19 @@
       "aerolinea": "LA",
       "vuelo": "475",
       "st": "25/10/2020 11:38",
-      "matricula": "",
+      "matricula": "CCBAA",
       "posicion": "09",
-      "et": "25/10/2020 11:25",
+      "et": "",
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "8",
+      "lF": "008",
       "ruta": "SCL",
       "via": "",
-      "remark": "EST",
+      "remark": "",
       "sanidad": "NO",
-      "pax": "82"
+      "pax": ""
     },
     {
       "tipo": "arribo",
@@ -304,25 +304,6 @@
       "remark": "HOR",
       "sanidad": "NO",
       "pax": "2"
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "PRV",
-      "vuelo": "HTK",
-      "st": "24/10/2020 22:10",
-      "matricula": "LVHTK",
-      "posicion": "41",
-      "et": "",
-      "at": "24/10/2020 22:07",
-      "term": "C",
-      "sector": "CAC",
-      "cinta": "",
-      "lF": "",
-      "ruta": "REL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "1"
     },
     {
       "tipo": "arribo",
@@ -880,7 +861,7 @@
       "aerolinea": "LA",
       "vuelo": "474",
       "st": "25/10/2020 12:43",
-      "matricula": "",
+      "matricula": "CCBAA",
       "posicion": "09",
       "et": "",
       "at": "",
@@ -1082,6 +1063,25 @@
       "ruta": "MAD",
       "via": "",
       "remark": "DEM",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "PRV",
+      "vuelo": "CAZ",
+      "st": "25/10/2020 22:10",
+      "matricula": "LVCAZ",
+      "posicion": "H14",
+      "et": "",
+      "at": "",
+      "term": "FBO",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "GYE",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     }
   ]
