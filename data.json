@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/10/2020 12:16",
+  "lastUpdate": "25/10/2020 12:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -745,25 +745,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "1782",
-      "st": "25/10/2020 12:20",
-      "matricula": "LVFVO",
-      "posicion": "18B",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "25",
-      "ruta": "IGR",
-      "via": "RES",
-      "remark": "CER",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "1730",
       "st": "25/10/2020 12:20",
       "matricula": "LVFVO",
@@ -782,6 +763,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1782",
+      "st": "25/10/2020 12:20",
+      "matricula": "LVFVO",
+      "posicion": "18B",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "25",
+      "ruta": "IGR",
+      "via": "RES",
+      "remark": "CER",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "LA",
       "vuelo": "474",
       "st": "25/10/2020 12:43",
@@ -796,7 +796,7 @@
       "puerta": "09",
       "ruta": "SCL",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
