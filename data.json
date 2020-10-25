@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "25/10/2020 08:25",
+  "lastUpdate": "25/10/2020 08:31",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AM",
-      "vuelo": "028",
-      "st": "25/10/2020 09:05",
-      "matricula": "N183AM",
-      "posicion": "11",
-      "et": "25/10/2020 08:27",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "9",
-      "lF": "008",
-      "ruta": "MEX",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "92"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "AR",
@@ -99,7 +80,7 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "8472",
+      "vuelo": "9831",
       "st": "25/10/2020 14:00",
       "matricula": "",
       "posicion": "",
@@ -118,7 +99,7 @@
     {
       "tipo": "arribo",
       "aerolinea": "M3",
-      "vuelo": "9831",
+      "vuelo": "8472",
       "st": "25/10/2020 14:00",
       "matricula": "",
       "posicion": "",
@@ -458,6 +439,25 @@
       "pax": "70"
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "AM",
+      "vuelo": "028",
+      "st": "25/10/2020 09:05",
+      "matricula": "N183AM",
+      "posicion": "11",
+      "et": "25/10/2020 08:27",
+      "at": "25/10/2020 08:28",
+      "term": "A",
+      "sector": "",
+      "cinta": "9",
+      "lF": "008",
+      "ruta": "MEX",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "92"
+    },
+    {
       "tipo": "partida",
       "aerolinea": "AM",
       "vuelo": "029",
@@ -739,7 +739,7 @@
       "puerta": "25",
       "ruta": "NQN",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
