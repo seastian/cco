@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/10/2020 17:49",
+  "lastUpdate": "25/10/2020 17:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -79,25 +79,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "AU",
-      "vuelo": "2481",
-      "st": "25/10/2020 22:00",
-      "matricula": "LVCIE",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "TUC",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "PRV",
       "vuelo": "BES",
       "st": "25/10/2020 22:00",
@@ -114,6 +95,25 @@
       "remark": "HOR",
       "sanidad": "NO",
       "pax": "2"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AU",
+      "vuelo": "2481",
+      "st": "25/10/2020 22:00",
+      "matricula": "LVCIE",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "TUC",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
     },
     {
       "tipo": "arribo",
