@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/10/2020 11:44",
+  "lastUpdate": "25/10/2020 11:50",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -321,25 +321,6 @@
       "ruta": "SLA",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "M3",
-      "vuelo": "8496",
-      "st": "24/10/2020 23:45",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "VCP",
-      "via": "",
-      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
