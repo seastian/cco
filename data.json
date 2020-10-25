@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25/10/2020 10:14",
+  "lastUpdate": "25/10/2020 10:21",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -307,6 +307,25 @@
     },
     {
       "tipo": "arribo",
+      "aerolinea": "RER",
+      "vuelo": "8111",
+      "st": "25/10/2020 22:15",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "GYE",
+      "via": "",
+      "remark": "CAN",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
       "aerolinea": "K4",
       "vuelo": "539",
       "st": "24/10/2020 21:30",
@@ -475,25 +494,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "92"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AM",
-      "vuelo": "029",
-      "st": "24/10/2020 22:00",
-      "matricula": "XAADD",
-      "posicion": "09",
-      "et": "",
-      "at": "24/10/2020 22:17",
-      "term": "A",
-      "sector": "AP",
-      "chkFrom": "068",
-      "chkTo": "074",
-      "puerta": "08",
-      "ruta": "MEX",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
