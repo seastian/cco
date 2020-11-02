@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/11/2020 16:53",
+  "lastUpdate": "02/11/2020 17:00",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -302,25 +302,6 @@
       "ruta": "MIA",
       "via": "",
       "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1303",
-      "st": "02/11/2020 05:20",
-      "matricula": "LVFNL",
-      "posicion": "15",
-      "et": "",
-      "at": "2/11/2020 05:56",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "008",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
     },
