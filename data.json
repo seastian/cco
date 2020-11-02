@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/11/2020 06:50",
+  "lastUpdate": "02/11/2020 06:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -867,8 +867,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "8",
+      "lF": "008",
       "ruta": "MIA",
       "via": "",
       "remark": "EST",
@@ -1157,7 +1157,7 @@
       "puerta": "",
       "ruta": "DOH",
       "via": "",
-      "remark": "EST",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
