@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/11/2020 17:13",
+  "lastUpdate": "02/11/2020 17:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -745,6 +745,25 @@
     {
       "tipo": "arribo",
       "aerolinea": "UC",
+      "vuelo": "1301",
+      "st": "02/11/2020 12:00",
+      "matricula": "N538LA",
+      "posicion": "54",
+      "et": "2/11/2020 18:20",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "DEM",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "UC",
       "vuelo": "1109",
       "st": "02/11/2020 19:45",
       "matricula": "N538LA",
@@ -1301,7 +1320,7 @@
       "matricula": "LVGBK",
       "posicion": "77A",
       "et": "",
-      "at": "",
+      "at": "2/11/2020 17:15",
       "term": "C",
       "sector": "CPC",
       "chkFrom": "221",
@@ -1309,7 +1328,7 @@
       "puerta": "26",
       "ruta": "SDE",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -1347,7 +1366,7 @@
       "puerta": "14",
       "ruta": "FRA",
       "via": "",
-      "remark": "CON",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
