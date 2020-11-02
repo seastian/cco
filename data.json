@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/11/2020 09:05",
+  "lastUpdate": "02/11/2020 09:11",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -845,14 +845,14 @@
       "matricula": "GZBKR",
       "posicion": "09",
       "et": "",
-      "at": "",
+      "at": "2/11/2020 09:07",
       "term": "A",
       "sector": "",
       "cinta": "6",
       "lF": "008",
       "ruta": "LHR",
       "via": "",
-      "remark": "CON",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "132"
     },
