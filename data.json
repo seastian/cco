@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02/11/2020 07:31",
+  "lastUpdate": "02/11/2020 07:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1225,7 +1225,7 @@
       "matricula": "LVGUD",
       "posicion": "41",
       "et": "",
-      "at": "",
+      "at": "2/11/2020 07:34",
       "term": "FBO",
       "sector": "",
       "chkFrom": "",
@@ -1233,7 +1233,7 @@
       "puerta": "",
       "ruta": "MDZ",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -1263,7 +1263,7 @@
       "matricula": "LVFVO",
       "posicion": "12",
       "et": "",
-      "at": "",
+      "at": "2/11/2020 07:30",
       "term": "C",
       "sector": "CPI",
       "chkFrom": "204",
@@ -1271,7 +1271,7 @@
       "puerta": "16",
       "ruta": "COR",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -1328,7 +1328,7 @@
       "puerta": "26",
       "ruta": "CRD",
       "via": "",
-      "remark": "CON",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
