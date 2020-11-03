@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03/11/2020 12:44",
+  "lastUpdate": "03/11/2020 12:51",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1023,6 +1023,25 @@
       "chkTo": "",
       "puerta": "05",
       "ruta": "AMS",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1102",
+      "st": "03/11/2020 01:40",
+      "matricula": "N418LA",
+      "posicion": "56",
+      "et": "3/11/2020 12:55",
+      "at": "3/11/2020 12:44",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
