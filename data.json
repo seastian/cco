@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/11/2020 15:32",
+  "lastUpdate": "10/11/2020 15:38",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -303,26 +303,7 @@
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "CM",
-      "vuelo": "279",
-      "st": "10/11/2020 02:45",
-      "matricula": "HP1843",
-      "posicion": "08",
-      "et": "10/11/2020 03:30",
-      "at": "10/11/2020 03:36",
-      "term": "A",
-      "sector": "",
-      "cinta": "8",
-      "lF": "008",
-      "ruta": "PTY",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "101"
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -550,7 +531,7 @@
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -569,7 +550,7 @@
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -607,7 +588,7 @@
       "via": "VCP",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -763,25 +744,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AU",
-      "vuelo": "2280",
-      "st": "10/11/2020 08:00",
-      "matricula": "LVCEU",
-      "posicion": "16A",
-      "et": "",
-      "at": "10/11/2020 08:20",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "201",
-      "chkTo": "220",
-      "puerta": "22",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1500",
       "st": "10/11/2020 08:00",
@@ -795,6 +757,25 @@
       "chkTo": "240",
       "puerta": "25",
       "ruta": "COR",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AU",
+      "vuelo": "2280",
+      "st": "10/11/2020 08:00",
+      "matricula": "LVCEU",
+      "posicion": "16A",
+      "et": "",
+      "at": "10/11/2020 08:20",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "201",
+      "chkTo": "220",
+      "puerta": "22",
+      "ruta": "SCL",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -1030,18 +1011,18 @@
     {
       "tipo": "partida",
       "aerolinea": "AOG",
-      "vuelo": "424",
+      "vuelo": "500",
       "st": "10/11/2020 13:00",
-      "matricula": "CXLSS",
-      "posicion": "50A",
+      "matricula": "CXCLS",
+      "posicion": "50B",
       "et": "",
-      "at": "10/11/2020 12:36",
+      "at": "10/11/2020 12:52",
       "term": "TCA",
       "sector": "",
       "chkFrom": "",
       "chkTo": "",
       "puerta": "",
-      "ruta": "MVD",
+      "ruta": "ASU",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -1167,7 +1148,7 @@
       "st": "10/11/2020 14:15",
       "matricula": "GZBJE",
       "posicion": "11",
-      "et": "10/11/2020 18:15",
+      "et": "10/11/2020 19:30",
       "at": "",
       "term": "A",
       "sector": "",
