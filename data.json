@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/11/2020 17:03",
+  "lastUpdate": "10/11/2020 17:10",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1176,7 +1176,7 @@
       "puerta": "26",
       "ruta": "SLA",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
