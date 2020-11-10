@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/11/2020 07:06",
+  "lastUpdate": "10/11/2020 07:12",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1347,6 +1347,25 @@
       "puerta": "22",
       "ruta": "SCL",
       "via": "",
+      "remark": "PRE",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "PRV",
+      "vuelo": "BTF",
+      "st": "10/11/2020 09:00",
+      "matricula": "LVBTF",
+      "posicion": "41",
+      "et": "",
+      "at": "",
+      "term": "FBO",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "NQN",
+      "via": "",
       "remark": "HOR",
       "sanidad": "NO"
     },
@@ -1367,25 +1386,6 @@
       "ruta": "TUC",
       "via": "SLA",
       "remark": "CAN",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "PRV",
-      "vuelo": "BTF",
-      "st": "10/11/2020 09:00",
-      "matricula": "LVBTF",
-      "posicion": "41",
-      "et": "",
-      "at": "",
-      "term": "FBO",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "NQN",
-      "via": "",
-      "remark": "HOR",
       "sanidad": "NO"
     },
     {
@@ -1783,6 +1783,25 @@
       "chkTo": "046",
       "puerta": "",
       "ruta": "GRU",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "LA",
+      "vuelo": "476",
+      "st": "10/11/2020 19:05",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "chkFrom": "041",
+      "chkTo": "046",
+      "puerta": "",
+      "ruta": "SCL",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
