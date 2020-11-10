@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/11/2020 05:10",
+  "lastUpdate": "10/11/2020 05:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1181,25 +1181,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AMS",
-      "vuelo": "7119",
-      "st": "10/11/2020 02:00",
-      "matricula": "CXMAS",
-      "posicion": "59",
-      "et": "",
-      "at": "10/11/2020 01:58",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "M3",
       "vuelo": "8442",
       "st": "10/11/2020 02:00",
@@ -1215,6 +1196,25 @@
       "ruta": "MIA",
       "via": "",
       "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AMS",
+      "vuelo": "7119",
+      "st": "10/11/2020 02:00",
+      "matricula": "CXMAS",
+      "posicion": "59",
+      "et": "",
+      "at": "10/11/2020 01:58",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -1244,7 +1244,7 @@
       "matricula": "LVIKB",
       "posicion": "41",
       "et": "10/11/2020 04:45",
-      "at": "",
+      "at": "10/11/2020 05:11",
       "term": "FBO",
       "sector": "",
       "chkFrom": "",
@@ -1252,7 +1252,7 @@
       "puerta": "",
       "ruta": "ASU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
