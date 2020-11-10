@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/11/2020 09:55",
+  "lastUpdate": "10/11/2020 10:02",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -41,25 +41,6 @@
     },
     {
       "tipo": "arribo",
-      "aerolinea": "MP",
-      "vuelo": "6912",
-      "st": "10/11/2020 11:05",
-      "matricula": "PHMPS",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "AMS",
-      "via": "VCP",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
       "aerolinea": "AOG",
       "vuelo": "423",
       "st": "10/11/2020 11:15",
@@ -93,6 +74,25 @@
       "ruta": "ASU",
       "via": "",
       "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "MP",
+      "vuelo": "6912",
+      "st": "10/11/2020 11:05",
+      "matricula": "PHMPS",
+      "posicion": "55",
+      "et": "10/11/2020 11:45",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "AMS",
+      "via": "VCP",
+      "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
     },
@@ -1290,7 +1290,7 @@
       "puerta": "26",
       "ruta": "LUQ",
       "via": "UAQ",
-      "remark": "HOR",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -1451,8 +1451,8 @@
       "vuelo": "6912",
       "st": "10/11/2020 13:05",
       "matricula": "PHMPS",
-      "posicion": "",
-      "et": "",
+      "posicion": "55",
+      "et": "10/11/2020 13:30",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -1461,7 +1461,7 @@
       "puerta": "",
       "ruta": "AMS",
       "via": "UIO",
-      "remark": "HOR",
+      "remark": "DEM",
       "sanidad": "NO"
     },
     {
