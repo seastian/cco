@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/11/2020 20:27",
+  "lastUpdate": "10/11/2020 20:34",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -46,7 +46,7 @@
       "st": "10/11/2020 22:15",
       "matricula": "LVCAP",
       "posicion": "",
-      "et": "",
+      "et": "10/11/2020 22:08",
       "at": "",
       "term": "A",
       "sector": "",
@@ -54,9 +54,9 @@
       "lF": "",
       "ruta": "SLA",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "116"
     },
     {
       "tipo": "arribo",
@@ -725,25 +725,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1503",
-      "st": "10/11/2020 10:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "CAN",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AU",
       "vuelo": "2430",
       "st": "10/11/2020 10:30",
@@ -759,6 +740,25 @@
       "ruta": "LUQ",
       "via": "UAQ",
       "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1503",
+      "st": "10/11/2020 10:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "CAN",
       "sanidad": "NO"
     },
     {
@@ -1333,6 +1333,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "PRV",
+      "vuelo": "WWS",
+      "st": "11/11/2020 08:30",
+      "matricula": "P4WWS",
+      "posicion": "44",
+      "et": "11/11/2020 08:00",
+      "at": "",
+      "term": "FBO",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "CZM",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "LH",
       "vuelo": "8267",
       "st": "11/11/2020 08:15",
@@ -1347,6 +1366,25 @@
       "puerta": "",
       "ruta": "FRA",
       "via": "VCP",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1820",
+      "st": "11/11/2020 08:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPC",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "CRD",
+      "via": "REL",
       "remark": "HOR",
       "sanidad": "NO"
     }
