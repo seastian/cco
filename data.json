@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/11/2020 14:33",
+  "lastUpdate": "10/11/2020 14:39",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -724,25 +724,6 @@
       "pax": "31"
     },
     {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1102",
-      "st": "10/11/2020 00:10",
-      "matricula": "N532LA",
-      "posicion": "54",
-      "et": "9/11/2020 14:20",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
       "tipo": "partida",
       "aerolinea": "PRV",
       "vuelo": "IKB",
@@ -1252,6 +1233,25 @@
       "puerta": "25",
       "ruta": "CTC",
       "via": "IRJ",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "DL",
+      "vuelo": "1101",
+      "st": "10/11/2020 16:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "AP",
+      "chkFrom": "063",
+      "chkTo": "064",
+      "puerta": "02",
+      "ruta": "AKL",
+      "via": "",
       "remark": "HOR",
       "sanidad": "NO"
     },
