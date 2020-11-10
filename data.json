@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/11/2020 18:16",
+  "lastUpdate": "10/11/2020 18:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -226,25 +226,6 @@
       "ruta": "MIA",
       "via": "",
       "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "M3",
-      "vuelo": "8491",
-      "st": "10/11/2020 06:20",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "CON",
       "sanidad": "NO",
       "pax": ""
     },
@@ -973,25 +954,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AOG",
-      "vuelo": "424",
-      "st": "10/11/2020 13:00",
-      "matricula": "CXLSS",
-      "posicion": "50A",
-      "et": "",
-      "at": "10/11/2020 12:36",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
       "vuelo": "500",
       "st": "10/11/2020 13:00",
       "matricula": "CXCLS",
@@ -1004,6 +966,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "ASU",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "424",
+      "st": "10/11/2020 13:00",
+      "matricula": "CXLSS",
+      "posicion": "50A",
+      "et": "",
+      "at": "10/11/2020 12:36",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -1195,7 +1176,7 @@
       "puerta": "05",
       "ruta": "GRU",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -1214,7 +1195,7 @@
       "puerta": "04",
       "ruta": "SCL",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
