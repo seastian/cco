@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/11/2020 08:14",
+  "lastUpdate": "10/11/2020 08:20",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -396,6 +396,25 @@
       "lF": "",
       "ruta": "VDM",
       "via": "RSA",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "WJ",
+      "vuelo": "1161",
+      "st": "10/11/2020 20:17",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "LIM",
+      "via": "",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
