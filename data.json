@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/11/2020 15:38",
+  "lastUpdate": "10/11/2020 15:45",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -285,25 +285,6 @@
       "remark": "CAN",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "UC",
-      "vuelo": "1109",
-      "st": "09/11/2020 19:45",
-      "matricula": "N540LA",
-      "posicion": "55",
-      "et": "",
-      "at": "10/11/2020 03:40",
-      "term": "TCA",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "0"
     },
     {
       "tipo": "arribo",
@@ -668,25 +649,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "QR",
-      "vuelo": "8157",
-      "st": "10/11/2020 05:00",
-      "matricula": "A7BFP",
-      "posicion": "54",
-      "et": "",
-      "at": "10/11/2020 05:18",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "DOH",
-      "via": "UIO",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "UC",
       "vuelo": "1109",
       "st": "10/11/2020 05:00",
@@ -701,6 +663,25 @@
       "puerta": "",
       "ruta": "SCL",
       "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "QR",
+      "vuelo": "8157",
+      "st": "10/11/2020 05:00",
+      "matricula": "A7BFP",
+      "posicion": "54",
+      "et": "",
+      "at": "10/11/2020 05:18",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "DOH",
+      "via": "UIO",
       "remark": "PAR",
       "sanidad": "NO"
     },
