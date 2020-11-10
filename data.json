@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/11/2020 18:49",
+  "lastUpdate": "10/11/2020 18:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -801,25 +801,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "UC",
-      "vuelo": "1503",
-      "st": "10/11/2020 10:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "CAN",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AU",
       "vuelo": "2430",
       "st": "10/11/2020 10:30",
@@ -835,6 +816,25 @@
       "ruta": "LUQ",
       "via": "UAQ",
       "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "UC",
+      "vuelo": "1503",
+      "st": "10/11/2020 10:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "CAN",
       "sanidad": "NO"
     },
     {
@@ -935,25 +935,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AOG",
-      "vuelo": "500",
-      "st": "10/11/2020 13:00",
-      "matricula": "CXCLS",
-      "posicion": "50B",
-      "et": "",
-      "at": "10/11/2020 12:52",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
       "vuelo": "424",
       "st": "10/11/2020 13:00",
       "matricula": "CXLSS",
@@ -966,6 +947,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MVD",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "500",
+      "st": "10/11/2020 13:00",
+      "matricula": "CXCLS",
+      "posicion": "50B",
+      "et": "",
+      "at": "10/11/2020 12:52",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "ASU",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -1130,7 +1130,7 @@
       "matricula": "PRMHQ",
       "posicion": "06",
       "et": "",
-      "at": "",
+      "at": "10/11/2020 18:40",
       "term": "A",
       "sector": "AP",
       "chkFrom": "041",
@@ -1138,7 +1138,7 @@
       "puerta": "05",
       "ruta": "GRU",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
