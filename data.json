@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "10/11/2020 16:56",
+  "lastUpdate": "10/11/2020 17:03",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "JJ",
-      "vuelo": "8003",
-      "st": "10/11/2020 17:15",
-      "matricula": "PRMHQ",
-      "posicion": "06",
-      "et": "10/11/2020 17:00",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "7",
-      "lF": "007",
-      "ruta": "GRU",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "107"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "LA",
@@ -648,6 +629,25 @@
       "pax": ""
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "JJ",
+      "vuelo": "8003",
+      "st": "10/11/2020 17:15",
+      "matricula": "PRMHQ",
+      "posicion": "06",
+      "et": "10/11/2020 17:00",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "7",
+      "lF": "007",
+      "ruta": "GRU",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "107"
+    },
+    {
       "tipo": "partida",
       "aerolinea": "PRV",
       "vuelo": "IKB",
@@ -1162,25 +1162,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "BA",
-      "vuelo": "244",
-      "st": "10/11/2020 14:15",
-      "matricula": "GZBJE",
-      "posicion": "11",
-      "et": "10/11/2020 19:30",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "14",
-      "ruta": "LHR",
-      "via": "",
-      "remark": "DEM",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1450",
       "st": "10/11/2020 17:00",
@@ -1196,6 +1177,25 @@
       "ruta": "SLA",
       "via": "",
       "remark": "ULT",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "BA",
+      "vuelo": "244",
+      "st": "10/11/2020 14:15",
+      "matricula": "GZBJE",
+      "posicion": "11",
+      "et": "10/11/2020 19:30",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "14",
+      "ruta": "LHR",
+      "via": "",
+      "remark": "DEM",
       "sanidad": "NO"
     },
     {
@@ -1405,6 +1405,25 @@
       "ruta": "VVI",
       "via": "",
       "remark": "CAN",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AU",
+      "vuelo": "2470",
+      "st": "11/11/2020 05:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPC",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "JUJ",
+      "via": "",
+      "remark": "HOR",
       "sanidad": "NO"
     }
   ]
