@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "10/11/2020 13:20",
+  "lastUpdate": "10/11/2020 13:27",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AU",
-      "vuelo": "2281",
-      "st": "10/11/2020 13:40",
-      "matricula": "LVCEU",
-      "posicion": "50A",
-      "et": "10/11/2020 13:23",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "31"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "UC",
@@ -724,6 +705,25 @@
       "pax": ""
     },
     {
+      "tipo": "arribo",
+      "aerolinea": "AU",
+      "vuelo": "2281",
+      "st": "10/11/2020 13:40",
+      "matricula": "LVCEU",
+      "posicion": "50A",
+      "et": "10/11/2020 13:23",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "SCL",
+      "via": "",
+      "remark": "EST",
+      "sanidad": "NO",
+      "pax": "31"
+    },
+    {
       "tipo": "partida",
       "aerolinea": "M3",
       "vuelo": "8490",
@@ -1271,7 +1271,7 @@
       "puerta": "04",
       "ruta": "MAD",
       "via": "",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
