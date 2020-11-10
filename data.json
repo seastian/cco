@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/11/2020 10:35",
+  "lastUpdate": "10/11/2020 10:42",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1328,7 +1328,7 @@
       "puerta": "25",
       "ruta": "RGA",
       "via": "",
-      "remark": "BOR",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
