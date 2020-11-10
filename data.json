@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/11/2020 19:35",
+  "lastUpdate": "10/11/2020 19:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -8,7 +8,7 @@
       "st": "10/11/2020 20:05",
       "matricula": "LVCHS",
       "posicion": "",
-      "et": "",
+      "et": "10/11/2020 19:55",
       "at": "",
       "term": "A",
       "sector": "",
@@ -16,9 +16,9 @@
       "lF": "",
       "ruta": "VDM",
       "via": "RSA",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "12"
     },
     {
       "tipo": "arribo",
@@ -46,7 +46,7 @@
       "st": "10/11/2020 21:00",
       "matricula": "LVCHR",
       "posicion": "",
-      "et": "",
+      "et": "10/11/2020 20:33",
       "at": "",
       "term": "A",
       "sector": "",
@@ -54,9 +54,9 @@
       "lF": "",
       "ruta": "CTC",
       "via": "IRJ",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "45"
     },
     {
       "tipo": "arribo",
@@ -1220,25 +1220,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "INT",
-      "st": "10/11/2020 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "201",
-      "chkTo": "220",
-      "puerta": "",
-      "ruta": "QTR",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "H24",
       "st": "10/11/2020 23:59",
       "matricula": "",
@@ -1249,6 +1230,25 @@
       "sector": "CPI",
       "chkFrom": "221",
       "chkTo": "240",
+      "puerta": "",
+      "ruta": "QTR",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "INT",
+      "st": "10/11/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "201",
+      "chkTo": "220",
       "puerta": "",
       "ruta": "QTR",
       "via": "",
