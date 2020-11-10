@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/11/2020 16:11",
+  "lastUpdate": "10/11/2020 16:17",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -63,7 +63,7 @@
       "aerolinea": "LA",
       "vuelo": "477",
       "st": "10/11/2020 18:00",
-      "matricula": "",
+      "matricula": "CCBAG",
       "posicion": "",
       "et": "",
       "at": "",
@@ -1222,7 +1222,7 @@
       "aerolinea": "LA",
       "vuelo": "476",
       "st": "10/11/2020 19:05",
-      "matricula": "",
+      "matricula": "CCBAG",
       "posicion": "",
       "et": "",
       "at": "",
