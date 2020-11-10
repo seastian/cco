@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/11/2020 17:16",
+  "lastUpdate": "10/11/2020 17:23",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -687,25 +687,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "QR",
-      "vuelo": "8157",
-      "st": "10/11/2020 05:00",
-      "matricula": "A7BFP",
-      "posicion": "54",
-      "et": "",
-      "at": "10/11/2020 05:18",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "DOH",
-      "via": "UIO",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AU",
       "vuelo": "2770",
       "st": "10/11/2020 06:30",
@@ -1011,25 +992,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AOG",
-      "vuelo": "424",
-      "st": "10/11/2020 13:00",
-      "matricula": "CXLSS",
-      "posicion": "50A",
-      "et": "",
-      "at": "10/11/2020 12:36",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
       "vuelo": "500",
       "st": "10/11/2020 13:00",
       "matricula": "CXCLS",
@@ -1042,6 +1004,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "ASU",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "424",
+      "st": "10/11/2020 13:00",
+      "matricula": "CXLSS",
+      "posicion": "50A",
+      "et": "",
+      "at": "10/11/2020 12:36",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -1211,10 +1192,10 @@
       "sector": "CPC",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "25",
       "ruta": "TUC",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
