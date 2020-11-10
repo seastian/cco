@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/11/2020 20:08",
+  "lastUpdate": "10/11/2020 20:14",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -186,6 +186,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "AMS",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AA",
+      "vuelo": "907",
+      "st": "11/11/2020 08:09",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -608,25 +627,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "12"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1500",
-      "st": "10/11/2020 08:00",
-      "matricula": "LVGKT",
-      "posicion": "71",
-      "et": "",
-      "at": "10/11/2020 08:11",
-      "term": "C",
-      "sector": "CPC",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "25",
-      "ruta": "COR",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
