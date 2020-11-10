@@ -1,25 +1,6 @@
 {
-  "lastUpdate": "10/11/2020 18:09",
+  "lastUpdate": "10/11/2020 18:16",
   "vuelos": [
-    {
-      "tipo": "arribo",
-      "aerolinea": "AU",
-      "vuelo": "2951",
-      "st": "10/11/2020 18:45",
-      "matricula": "LVCIH",
-      "posicion": "74B",
-      "et": "10/11/2020 18:16",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "4",
-      "lF": "004",
-      "ruta": "RGA",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO",
-      "pax": "51"
-    },
     {
       "tipo": "arribo",
       "aerolinea": "LA",
@@ -665,6 +646,25 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": "98"
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AU",
+      "vuelo": "2951",
+      "st": "10/11/2020 18:45",
+      "matricula": "LVCIH",
+      "posicion": "74B",
+      "et": "10/11/2020 18:16",
+      "at": "10/11/2020 18:08",
+      "term": "A",
+      "sector": "",
+      "cinta": "4",
+      "lF": "004",
+      "ruta": "RGA",
+      "via": "",
+      "remark": "ATE",
+      "sanidad": "NO",
+      "pax": "51"
     },
     {
       "tipo": "partida",
