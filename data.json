@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/11/2020 12:34",
+  "lastUpdate": "10/11/2020 12:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -782,25 +782,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "M3",
-      "vuelo": "8442",
-      "st": "10/11/2020 02:00",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MIA",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AMS",
       "vuelo": "7119",
       "st": "10/11/2020 02:00",
@@ -816,6 +797,25 @@
       "ruta": "MVD",
       "via": "",
       "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "M3",
+      "vuelo": "8442",
+      "st": "10/11/2020 02:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MIA",
+      "via": "",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -934,25 +934,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1500",
-      "st": "10/11/2020 08:00",
-      "matricula": "LVGKT",
-      "posicion": "71",
-      "et": "",
-      "at": "10/11/2020 08:11",
-      "term": "C",
-      "sector": "CPC",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "25",
-      "ruta": "COR",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AU",
       "vuelo": "2280",
       "st": "10/11/2020 08:00",
@@ -966,6 +947,25 @@
       "chkTo": "220",
       "puerta": "22",
       "ruta": "SCL",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1500",
+      "st": "10/11/2020 08:00",
+      "matricula": "LVGKT",
+      "posicion": "71",
+      "et": "",
+      "at": "10/11/2020 08:11",
+      "term": "C",
+      "sector": "CPC",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "25",
+      "ruta": "COR",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -1149,7 +1149,7 @@
       "matricula": "XBNWD",
       "posicion": "43",
       "et": "",
-      "at": "",
+      "at": "10/11/2020 12:28",
       "term": "FBO",
       "sector": "",
       "chkFrom": "",
@@ -1157,7 +1157,7 @@
       "puerta": "",
       "ruta": "PIO",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
