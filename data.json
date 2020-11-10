@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/11/2020 15:12",
+  "lastUpdate": "10/11/2020 15:19",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -763,25 +763,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1500",
-      "st": "10/11/2020 08:00",
-      "matricula": "LVGKT",
-      "posicion": "71",
-      "et": "",
-      "at": "10/11/2020 08:11",
-      "term": "C",
-      "sector": "CPC",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "25",
-      "ruta": "COR",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AU",
       "vuelo": "2280",
       "st": "10/11/2020 08:00",
@@ -795,6 +776,25 @@
       "chkTo": "220",
       "puerta": "22",
       "ruta": "SCL",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1500",
+      "st": "10/11/2020 08:00",
+      "matricula": "LVGKT",
+      "posicion": "71",
+      "et": "",
+      "at": "10/11/2020 08:11",
+      "term": "C",
+      "sector": "CPC",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "25",
+      "ruta": "COR",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
