@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/11/2020 07:47",
+  "lastUpdate": "10/11/2020 07:53",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -437,25 +437,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AU",
-      "vuelo": "2781",
-      "st": "09/11/2020 19:20",
-      "matricula": "LVGBK",
-      "posicion": "74A",
-      "et": "9/11/2020 19:50",
-      "at": "9/11/2020 19:45",
-      "term": "A",
-      "sector": "",
-      "cinta": "4",
-      "lF": "006",
-      "ruta": "RES",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "96"
     },
     {
       "tipo": "arribo",
