@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/11/2020 13:33",
+  "lastUpdate": "10/11/2020 13:40",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -712,14 +712,14 @@
       "matricula": "LVCEU",
       "posicion": "50A",
       "et": "10/11/2020 13:23",
-      "at": "",
+      "at": "10/11/2020 13:32",
       "term": "A",
       "sector": "",
       "cinta": "6",
       "lF": "007",
       "ruta": "SCL",
       "via": "",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "31"
     },
@@ -1144,25 +1144,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AOG",
-      "vuelo": "500",
-      "st": "10/11/2020 13:00",
-      "matricula": "CXCLS",
-      "posicion": "50B",
-      "et": "",
-      "at": "10/11/2020 12:52",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "ASU",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AOG",
       "vuelo": "424",
       "st": "10/11/2020 13:00",
       "matricula": "CXLSS",
@@ -1175,6 +1156,25 @@
       "chkTo": "",
       "puerta": "",
       "ruta": "MVD",
+      "via": "",
+      "remark": "PAR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AOG",
+      "vuelo": "500",
+      "st": "10/11/2020 13:00",
+      "matricula": "CXCLS",
+      "posicion": "50B",
+      "et": "",
+      "at": "10/11/2020 12:52",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "ASU",
       "via": "",
       "remark": "PAR",
       "sanidad": "NO"
@@ -1233,7 +1233,7 @@
       "puerta": "24",
       "ruta": "VDM",
       "via": "RSA",
-      "remark": "PRE",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -1252,7 +1252,7 @@
       "puerta": "04",
       "ruta": "MAD",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
