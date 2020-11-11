@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/11/2020 00:10",
+  "lastUpdate": "11/11/2020 00:16",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -247,25 +247,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1401",
-      "st": "10/11/2020 11:55",
-      "matricula": "LVFVO",
-      "posicion": "71",
-      "et": "10/11/2020 12:09",
-      "at": "10/11/2020 12:09",
-      "term": "A",
-      "sector": "",
-      "cinta": "4",
-      "lF": "004",
-      "ruta": "MDZ",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "142"
     },
     {
       "tipo": "arribo",
