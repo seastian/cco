@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/11/2020 02:06",
+  "lastUpdate": "11/11/2020 02:12",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -587,25 +587,6 @@
       "puerta": "",
       "ruta": "AMS",
       "via": "UIO",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AU",
-      "vuelo": "2640",
-      "st": "10/11/2020 14:00",
-      "matricula": "LVCMA",
-      "posicion": "77A",
-      "et": "",
-      "at": "10/11/2020 14:06",
-      "term": "C",
-      "sector": "CPC",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "24",
-      "ruta": "VDM",
-      "via": "RSA",
       "remark": "PAR",
       "sanidad": "NO"
     },
