@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/11/2020 01:33",
+  "lastUpdate": "11/11/2020 01:40",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -247,25 +247,6 @@
       "remark": "ATE",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AU",
-      "vuelo": "2281",
-      "st": "10/11/2020 13:40",
-      "matricula": "LVCEU",
-      "posicion": "50A",
-      "et": "10/11/2020 13:23",
-      "at": "10/11/2020 13:32",
-      "term": "A",
-      "sector": "",
-      "cinta": "6",
-      "lF": "007",
-      "ruta": "SCL",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "31"
     },
     {
       "tipo": "arribo",
