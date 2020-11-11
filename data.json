@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/11/2020 21:53",
+  "lastUpdate": "10/11/2020 22:00",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -579,14 +579,14 @@
       "matricula": "TCLLC",
       "posicion": "10",
       "et": "10/11/2020 21:49",
-      "at": "",
+      "at": "10/11/2020 21:54",
       "term": "A",
       "sector": "",
       "cinta": "8",
       "lF": "008",
       "ruta": "IST",
       "via": "GRU",
-      "remark": "EST",
+      "remark": "ATE",
       "sanidad": "NO",
       "pax": "29"
     },
@@ -1329,6 +1329,25 @@
       "ruta": "IAH",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "QR",
+      "vuelo": "8155",
+      "st": "11/11/2020 09:55",
+      "matricula": "",
+      "posicion": "",
+      "et": "11/11/2020 11:50",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "DOH",
+      "via": "UIO",
+      "remark": "DEM",
       "sanidad": "NO"
     }
   ]
