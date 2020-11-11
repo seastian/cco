@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/11/2020 22:00",
+  "lastUpdate": "10/11/2020 22:06",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1328,6 +1328,25 @@
       "puerta": "",
       "ruta": "IAH",
       "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1680",
+      "st": "11/11/2020 10:00",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPC",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "NQN",
+      "via": "BRC",
       "remark": "HOR",
       "sanidad": "NO"
     },
