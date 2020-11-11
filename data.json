@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/11/2020 01:20",
+  "lastUpdate": "11/11/2020 01:27",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -983,7 +983,7 @@
       "sector": "CPC",
       "chkFrom": "221",
       "chkTo": "240",
-      "puerta": "",
+      "puerta": "25",
       "ruta": "JUJ",
       "via": "",
       "remark": "HOR",
