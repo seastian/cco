@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/11/2020 04:35",
+  "lastUpdate": "11/11/2020 04:42",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -285,25 +285,6 @@
       "remark": "",
       "sanidad": "NO",
       "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
-      "vuelo": "1680",
-      "st": "10/11/2020 16:55",
-      "matricula": "LVGKU",
-      "posicion": "12",
-      "et": "10/11/2020 16:34",
-      "at": "10/11/2020 16:38",
-      "term": "A",
-      "sector": "",
-      "cinta": "1",
-      "lF": "001",
-      "ruta": "NQN",
-      "via": "BRC",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": "152"
     },
     {
       "tipo": "arribo",
@@ -1162,25 +1143,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "OB",
-      "vuelo": "709",
-      "st": "11/11/2020 14:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "chkFrom": "068",
-      "chkTo": "073",
-      "puerta": "",
-      "ruta": "VVI",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1880",
       "st": "11/11/2020 14:30",
@@ -1194,6 +1156,25 @@
       "chkTo": "",
       "puerta": "26",
       "ruta": "USH",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "OB",
+      "vuelo": "709",
+      "st": "11/11/2020 14:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "chkFrom": "068",
+      "chkTo": "073",
+      "puerta": "",
+      "ruta": "VVI",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
