@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/11/2020 04:29",
+  "lastUpdate": "11/11/2020 04:35",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -872,7 +872,7 @@
       "puerta": "25",
       "ruta": "JUJ",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
@@ -1181,25 +1181,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AF",
-      "vuelo": "229",
-      "st": "11/11/2020 14:30",
-      "matricula": "FHRBG",
-      "posicion": "35",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "",
-      "ruta": "CDG",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1880",
       "st": "11/11/2020 14:30",
@@ -1213,6 +1194,25 @@
       "chkTo": "",
       "puerta": "26",
       "ruta": "USH",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AF",
+      "vuelo": "229",
+      "st": "11/11/2020 14:30",
+      "matricula": "FHRBG",
+      "posicion": "35",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "",
+      "ruta": "CDG",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
