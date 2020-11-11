@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/11/2020 08:16",
+  "lastUpdate": "11/11/2020 08:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -864,7 +864,7 @@
       "matricula": "LVFVM",
       "posicion": "51A",
       "et": "",
-      "at": "",
+      "at": "11/11/2020 08:15",
       "term": "C",
       "sector": "CPC",
       "chkFrom": "221",
@@ -872,7 +872,7 @@
       "puerta": "25",
       "ruta": "COR",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -910,7 +910,7 @@
       "puerta": "",
       "ruta": "FRA",
       "via": "VCP",
-      "remark": "HOR",
+      "remark": "CON",
       "sanidad": "NO"
     },
     {
@@ -948,7 +948,7 @@
       "puerta": "16",
       "ruta": "GRU",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -1105,6 +1105,25 @@
     },
     {
       "tipo": "partida",
+      "aerolinea": "AF",
+      "vuelo": "229",
+      "st": "11/11/2020 14:30",
+      "matricula": "FHRBG",
+      "posicion": "35",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "chkFrom": "041",
+      "chkTo": "053",
+      "puerta": "04",
+      "ruta": "CDG",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1880",
       "st": "11/11/2020 14:30",
@@ -1137,25 +1156,6 @@
       "chkTo": "073",
       "puerta": "",
       "ruta": "VVI",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AF",
-      "vuelo": "229",
-      "st": "11/11/2020 14:30",
-      "matricula": "FHRBG",
-      "posicion": "35",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "chkFrom": "041",
-      "chkTo": "053",
-      "puerta": "04",
-      "ruta": "CDG",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
