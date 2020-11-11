@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/11/2020 00:23",
+  "lastUpdate": "11/11/2020 00:29",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -194,25 +194,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "AR",
-      "vuelo": "1401",
-      "st": "11/11/2020 11:55",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MDZ",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
       "vuelo": "1501",
       "st": "11/11/2020 11:55",
       "matricula": "",
@@ -224,6 +205,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "COR",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1401",
+      "st": "11/11/2020 11:55",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MDZ",
       "via": "",
       "remark": "",
       "sanidad": "NO",
