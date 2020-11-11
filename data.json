@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/11/2020 04:16",
+  "lastUpdate": "11/11/2020 04:22",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -263,6 +263,25 @@
       "lF": "",
       "ruta": "GRU",
       "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AU",
+      "vuelo": "2600",
+      "st": "11/11/2020 16:15",
+      "matricula": "LVCIE",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MDQ",
+      "via": "BHI",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
