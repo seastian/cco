@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/11/2020 03:04",
+  "lastUpdate": "11/11/2020 03:11",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -1200,19 +1200,19 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AF",
-      "vuelo": "229",
+      "aerolinea": "OB",
+      "vuelo": "709",
       "st": "11/11/2020 14:30",
-      "matricula": "FHRBG",
-      "posicion": "35",
+      "matricula": "",
+      "posicion": "",
       "et": "",
       "at": "",
       "term": "A",
       "sector": "",
-      "chkFrom": "041",
-      "chkTo": "053",
+      "chkFrom": "068",
+      "chkTo": "073",
       "puerta": "",
-      "ruta": "CDG",
+      "ruta": "VVI",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
