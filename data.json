@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/11/2020 03:56",
+  "lastUpdate": "11/11/2020 04:03",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -244,6 +244,25 @@
       "lF": "",
       "ruta": "CRD",
       "via": "REL",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1241",
+      "st": "11/11/2020 15:55",
+      "matricula": "LVGKU",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "GRU",
+      "via": "",
       "remark": "",
       "sanidad": "NO",
       "pax": ""
@@ -1233,6 +1252,25 @@
       "puerta": "25",
       "ruta": "RES",
       "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1490",
+      "st": "11/11/2020 16:00",
+      "matricula": "LVGOO",
+      "posicion": "M14",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPC",
+      "chkFrom": "221",
+      "chkTo": "240",
+      "puerta": "",
+      "ruta": "SDE",
+      "via": "TUC",
       "remark": "HOR",
       "sanidad": "NO"
     }
