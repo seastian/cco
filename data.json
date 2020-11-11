@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/11/2020 21:07",
+  "lastUpdate": "10/11/2020 21:13",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -205,25 +205,6 @@
       "cinta": "",
       "lF": "",
       "ruta": "MIA",
-      "via": "",
-      "remark": "ATE",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "BA",
-      "vuelo": "245",
-      "st": "10/11/2020 09:40",
-      "matricula": "GZBJE",
-      "posicion": "11",
-      "et": "10/11/2020 09:10",
-      "at": "10/11/2020 09:09",
-      "term": "A",
-      "sector": "",
-      "cinta": "6",
-      "lF": "007",
-      "ruta": "LHR",
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
@@ -608,25 +589,6 @@
       "remark": "CON",
       "sanidad": "NO",
       "pax": "45"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "PRV",
-      "vuelo": "BTF",
-      "st": "10/11/2020 09:00",
-      "matricula": "LVBTF",
-      "posicion": "41",
-      "et": "",
-      "at": "10/11/2020 09:07",
-      "term": "FBO",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "NQN",
-      "via": "",
-      "remark": "PAR",
-      "sanidad": "NO"
     },
     {
       "tipo": "partida",
