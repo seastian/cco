@@ -1,14 +1,14 @@
 {
-  "lastUpdate": "10/11/2020 23:11",
+  "lastUpdate": "10/11/2020 23:18",
   "vuelos": [
     {
       "tipo": "arribo",
       "aerolinea": "M3",
       "vuelo": "8492",
       "st": "10/11/2020 23:45",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
+      "matricula": "PRABB",
+      "posicion": "54",
+      "et": "11/11/2020 01:10",
       "at": "",
       "term": "TCA",
       "sector": "",
@@ -16,7 +16,7 @@
       "lF": "",
       "ruta": "VCP",
       "via": "",
-      "remark": "",
+      "remark": "DEM",
       "sanidad": "NO",
       "pax": ""
     },
@@ -959,7 +959,7 @@
       "matricula": "N797AN",
       "posicion": "09",
       "et": "",
-      "at": "",
+      "at": "10/11/2020 23:12",
       "term": "A",
       "sector": "AP",
       "chkFrom": "001",
@@ -967,7 +967,7 @@
       "puerta": "08",
       "ruta": "MIA",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
@@ -986,7 +986,7 @@
       "puerta": "10",
       "ruta": "IST",
       "via": "GRU",
-      "remark": "BOR",
+      "remark": "ULT",
       "sanidad": "NO"
     },
     {
@@ -1032,8 +1032,8 @@
       "aerolinea": "M3",
       "vuelo": "8492",
       "st": "11/11/2020 02:10",
-      "matricula": "",
-      "posicion": "",
+      "matricula": "PRABB",
+      "posicion": "54",
       "et": "",
       "at": "",
       "term": "TCA",
