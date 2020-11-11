@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/11/2020 08:35",
+  "lastUpdate": "11/11/2020 08:41",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -80,25 +80,6 @@
     {
       "tipo": "arribo",
       "aerolinea": "AR",
-      "vuelo": "1401",
-      "st": "11/11/2020 11:55",
-      "matricula": "LVGKT",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "cinta": "",
-      "lF": "",
-      "ruta": "MDZ",
-      "via": "",
-      "remark": "",
-      "sanidad": "NO",
-      "pax": ""
-    },
-    {
-      "tipo": "arribo",
-      "aerolinea": "AR",
       "vuelo": "1501",
       "st": "11/11/2020 11:55",
       "matricula": "LVFVM",
@@ -110,6 +91,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "COR",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "AR",
+      "vuelo": "1401",
+      "st": "11/11/2020 11:55",
+      "matricula": "LVGKT",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MDZ",
       "via": "",
       "remark": "",
       "sanidad": "NO",
