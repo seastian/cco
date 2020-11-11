@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/11/2020 04:48",
+  "lastUpdate": "11/11/2020 04:55",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -853,7 +853,7 @@
       "puerta": "25",
       "ruta": "JUJ",
       "via": "",
-      "remark": "ULT",
+      "remark": "CER",
       "sanidad": "NO"
     },
     {
@@ -1143,25 +1143,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1880",
-      "st": "11/11/2020 14:30",
-      "matricula": "LVFUB",
-      "posicion": "75A",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "26",
-      "ruta": "USH",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "OB",
       "vuelo": "709",
       "st": "11/11/2020 14:30",
@@ -1175,6 +1156,25 @@
       "chkTo": "073",
       "puerta": "",
       "ruta": "VVI",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "1880",
+      "st": "11/11/2020 14:30",
+      "matricula": "LVFUB",
+      "posicion": "75A",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "26",
+      "ruta": "USH",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
