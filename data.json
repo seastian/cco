@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/11/2020 06:26",
+  "lastUpdate": "11/11/2020 06:32",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -983,7 +983,7 @@
       "sector": "",
       "chkFrom": "054",
       "chkTo": "061",
-      "puerta": "10",
+      "puerta": "14",
       "ruta": "IAH",
       "via": "",
       "remark": "HOR",
