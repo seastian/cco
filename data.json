@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/11/2020 00:16",
+  "lastUpdate": "11/11/2020 00:23",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -592,25 +592,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AR",
-      "vuelo": "1080",
-      "st": "10/11/2020 12:15",
-      "matricula": "LVFVI",
-      "posicion": "12",
-      "et": "",
-      "at": "10/11/2020 12:19",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "16",
-      "ruta": "MAD",
-      "via": "CAN",
-      "remark": "PAR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AOG",
       "vuelo": "500",
       "st": "10/11/2020 13:00",
@@ -902,7 +883,7 @@
       "matricula": "TCLLC",
       "posicion": "10",
       "et": "",
-      "at": "",
+      "at": "11/11/2020 00:17",
       "term": "A",
       "sector": "",
       "chkFrom": "062",
@@ -910,7 +891,7 @@
       "puerta": "10",
       "ruta": "IST",
       "via": "GRU",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
