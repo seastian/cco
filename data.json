@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/11/2020 21:13",
+  "lastUpdate": "10/11/2020 21:20",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -26,7 +26,7 @@
       "vuelo": "1451",
       "st": "10/11/2020 22:15",
       "matricula": "LVCAP",
-      "posicion": "",
+      "posicion": "50A",
       "et": "10/11/2020 22:08",
       "at": "",
       "term": "A",
@@ -569,7 +569,7 @@
       "via": "",
       "remark": "ATE",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "96"
     },
     {
       "tipo": "arribo",
@@ -1059,7 +1059,7 @@
       "sector": "AP",
       "chkFrom": "001",
       "chkTo": "014",
-      "puerta": "09",
+      "puerta": "08",
       "ruta": "MIA",
       "via": "",
       "remark": "HOR",
