@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10/11/2020 21:20",
+  "lastUpdate": "10/11/2020 21:27",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -31,8 +31,8 @@
       "at": "",
       "term": "A",
       "sector": "",
-      "cinta": "",
-      "lF": "",
+      "cinta": "4",
+      "lF": "006",
       "ruta": "SLA",
       "via": "",
       "remark": "EST",
@@ -45,8 +45,8 @@
       "vuelo": "2481",
       "st": "10/11/2020 23:00",
       "matricula": "LVCEU",
-      "posicion": "",
-      "et": "",
+      "posicion": "52A",
+      "et": "10/11/2020 22:52",
       "at": "",
       "term": "A",
       "sector": "",
@@ -54,9 +54,9 @@
       "lF": "",
       "ruta": "TUC",
       "via": "",
-      "remark": "",
+      "remark": "EST",
       "sanidad": "NO",
-      "pax": ""
+      "pax": "85"
     },
     {
       "tipo": "arribo",
