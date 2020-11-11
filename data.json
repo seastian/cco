@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/11/2020 02:57",
+  "lastUpdate": "11/11/2020 03:04",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -783,6 +783,25 @@
     {
       "tipo": "partida",
       "aerolinea": "AMS",
+      "vuelo": "7119",
+      "st": "11/11/2020 03:00",
+      "matricula": "CXMAS",
+      "posicion": "57",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "MVD",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AMS",
       "vuelo": "7919",
       "st": "11/11/2020 03:30",
       "matricula": "CXMAX",
@@ -801,25 +820,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "AMS",
-      "vuelo": "7119",
-      "st": "11/11/2020 03:00",
-      "matricula": "CXMAS",
-      "posicion": "57",
-      "et": "",
-      "at": "",
-      "term": "TCA",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "MVD",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "CM",
       "vuelo": "281",
       "st": "11/11/2020 04:00",
@@ -834,7 +834,7 @@
       "puerta": "07",
       "ruta": "PTY",
       "via": "",
-      "remark": "PRE",
+      "remark": "BOR",
       "sanidad": "NO"
     },
     {
