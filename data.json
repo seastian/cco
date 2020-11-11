@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/11/2020 02:51",
+  "lastUpdate": "11/11/2020 02:57",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -834,7 +834,7 @@
       "puerta": "07",
       "ruta": "PTY",
       "via": "",
-      "remark": "HOR",
+      "remark": "PRE",
       "sanidad": "NO"
     },
     {
@@ -915,25 +915,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "PRV",
-      "vuelo": "WWS",
-      "st": "11/11/2020 08:30",
-      "matricula": "P4WWS",
-      "posicion": "44",
-      "et": "11/11/2020 08:00",
-      "at": "",
-      "term": "FBO",
-      "sector": "",
-      "chkFrom": "",
-      "chkTo": "",
-      "puerta": "",
-      "ruta": "CZM",
-      "via": "",
-      "remark": "EST",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1500",
       "st": "11/11/2020 08:00",
@@ -949,6 +930,25 @@
       "ruta": "COR",
       "via": "",
       "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "PRV",
+      "vuelo": "WWS",
+      "st": "11/11/2020 08:30",
+      "matricula": "P4WWS",
+      "posicion": "44",
+      "et": "11/11/2020 08:00",
+      "at": "",
+      "term": "FBO",
+      "sector": "",
+      "chkFrom": "",
+      "chkTo": "",
+      "puerta": "",
+      "ruta": "CZM",
+      "via": "",
+      "remark": "EST",
       "sanidad": "NO"
     },
     {
@@ -1162,25 +1162,6 @@
     },
     {
       "tipo": "partida",
-      "aerolinea": "OB",
-      "vuelo": "709",
-      "st": "11/11/2020 14:30",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "A",
-      "sector": "",
-      "chkFrom": "068",
-      "chkTo": "073",
-      "puerta": "",
-      "ruta": "VVI",
-      "via": "",
-      "remark": "HOR",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
       "aerolinea": "AR",
       "vuelo": "1880",
       "st": "11/11/2020 14:30",
@@ -1194,6 +1175,25 @@
       "chkTo": "",
       "puerta": "26",
       "ruta": "USH",
+      "via": "",
+      "remark": "HOR",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "OB",
+      "vuelo": "709",
+      "st": "11/11/2020 14:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "A",
+      "sector": "",
+      "chkFrom": "068",
+      "chkTo": "073",
+      "puerta": "",
+      "ruta": "VVI",
       "via": "",
       "remark": "HOR",
       "sanidad": "NO"
