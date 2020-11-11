@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/11/2020 03:24",
+  "lastUpdate": "11/11/2020 03:30",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -707,25 +707,6 @@
     {
       "tipo": "partida",
       "aerolinea": "AR",
-      "vuelo": "H24",
-      "st": "10/11/2020 23:59",
-      "matricula": "",
-      "posicion": "",
-      "et": "",
-      "at": "",
-      "term": "C",
-      "sector": "CPI",
-      "chkFrom": "221",
-      "chkTo": "240",
-      "puerta": "",
-      "ruta": "QTR",
-      "via": "",
-      "remark": "CON",
-      "sanidad": "NO"
-    },
-    {
-      "tipo": "partida",
-      "aerolinea": "AR",
       "vuelo": "INT",
       "st": "10/11/2020 23:59",
       "matricula": "",
@@ -736,6 +717,25 @@
       "sector": "CPI",
       "chkFrom": "201",
       "chkTo": "220",
+      "puerta": "",
+      "ruta": "QTR",
+      "via": "",
+      "remark": "CON",
+      "sanidad": "NO"
+    },
+    {
+      "tipo": "partida",
+      "aerolinea": "AR",
+      "vuelo": "H24",
+      "st": "10/11/2020 23:59",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "C",
+      "sector": "CPI",
+      "chkFrom": "221",
+      "chkTo": "240",
       "puerta": "",
       "ruta": "QTR",
       "via": "",
