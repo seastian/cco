@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11/11/2020 07:30",
+  "lastUpdate": "11/11/2020 07:37",
   "vuelos": [
     {
       "tipo": "arribo",
@@ -357,6 +357,25 @@
       "cinta": "",
       "lF": "",
       "ruta": "RES",
+      "via": "",
+      "remark": "",
+      "sanidad": "NO",
+      "pax": ""
+    },
+    {
+      "tipo": "arribo",
+      "aerolinea": "LA",
+      "vuelo": "1959",
+      "st": "11/11/2020 19:30",
+      "matricula": "",
+      "posicion": "",
+      "et": "",
+      "at": "",
+      "term": "TCA",
+      "sector": "",
+      "cinta": "",
+      "lF": "",
+      "ruta": "MIA",
       "via": "",
       "remark": "",
       "sanidad": "NO",
@@ -845,7 +864,7 @@
       "matricula": "LVGKT",
       "posicion": "18B",
       "et": "",
-      "at": "",
+      "at": "11/11/2020 07:29",
       "term": "C",
       "sector": "CPC",
       "chkFrom": "221",
@@ -853,7 +872,7 @@
       "puerta": "26",
       "ruta": "MDZ",
       "via": "",
-      "remark": "CER",
+      "remark": "PAR",
       "sanidad": "NO"
     },
     {
